@@ -1,0 +1,13 @@
+# Loại bỏ các tệp môi trường ảo Python
+venv/
+env/
+# Loại bỏ các tệp tạm thời của Python
+*.pyc
+__pycache__/
+# Loại bỏ tệp môi trường
+.env
+# Loại bỏ thư mục model
+Model_Here/BERT_Sentiment/phobert-base-vi-sentiment-analysis
+Model_Here/KeyPhraseModel/bert-base-uncased
+Model_Here/KeyPhraseModel/BERT-BiLSTM-CRF
+Model_Here/SynonymsModel/avodamed-synonym-generator1
