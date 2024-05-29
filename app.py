@@ -3,11 +3,11 @@ from flask import Flask, jsonify, request, send_file
 import threading
 from datetime import datetime
 import os
+from recommend import recommend_system
 from service_crawl import get_all_json_data, update_csv_with_json_data, start_crawl, stop_crawl, get_json_statistics, start_crawl_mode_2
 from service_model import sentiment_analysis_all, fully_updated_sentiment_csv, export_synonyms_clusters
 from dotenv import load_dotenv
 from functools import wraps
-
 
 app = Flask(__name__)
 load_dotenv()
@@ -154,6 +154,15 @@ def get_synonyms_clusters():
         return jsonify({"error": str(e)}), 400
     except Exception as e:
         return jsonify({"error": "An unexpected error occurred: " + str(e)}), 500
+    
+    
+@app.route('/recommend', methods=['GET'])
+@require_api_key
+def recommend():
+    msg = recommend_system(request.args.get('message'))
+    return jsonify({
+        "ok": msg,
+    }), 200
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
