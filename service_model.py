@@ -375,4 +375,4 @@ def export_synonyms_clusters():
 # fully_updated_sentiment_csv()
 
 # export_synonyms_clusters()
-fully_updated_sentiment_csv()
+# fully_updated_sentiment_csv()
