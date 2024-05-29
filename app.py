@@ -130,9 +130,9 @@ def update_sentiment_csv():
     fully_updated_sentiment_csv()
     return jsonify({"message": "Update Sentiment CSV completed."}), 200
 
-@app.route('/download-csv', methods=['GET'])
+@app.route('/download-score-csv', methods=['GET'])
 @require_api_key
-def download_csv():
+def download_score_csv():
     current_directory = os.path.dirname(os.path.abspath(__file__))
     CSV_PATH = os.path.join(current_directory, 'sentiment_value.csv')
     # Kiểm tra xem tệp CSV tồn tại không
@@ -164,5 +164,12 @@ def recommend():
         "ok": msg,
     }), 200
 
+# bước 1: Crawl data bằng start-crawl
+# bước 2: Thực hiện sentiment caculate (để cập nhật score vào mỗi file json), sử dụng model entity extraction + sentiment analysis
+# bước 3: Thực hiện update sentiment csv
+# bước 4: Thực hiện download score csv
+# bước 5: Thực hiện get synonyms clusters (trong đó bao gồm update entity translate, update file vi_cluster và download vi_cluster)
+
+# bước 1.2: Crawl data bằng mode 2 (để cập nhật dữ liệu review từ địa điểm cũ)
 if __name__ == '__main__':
     app.run()
