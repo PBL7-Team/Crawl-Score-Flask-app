@@ -160,5 +160,7 @@ def get_synonyms_clusters():
 # bước 3: Thực hiện update sentiment csv
 # bước 4: Thực hiện download score csv
 # bước 5: Thực hiện get synonyms clusters (trong đó bao gồm update entity translate, update file vi_cluster và download vi_cluster)
+
+# bước 1.2: Crawl data bằng mode 2 (để cập nhật dữ liệu review từ địa điểm cũ)
 if __name__ == '__main__':
     app.run(debug=True)
