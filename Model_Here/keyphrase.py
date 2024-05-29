@@ -3,7 +3,7 @@ import transformers
 from transformers import AutoTokenizer
 import torch
 import torch.nn as nn
-from TorchCRF import CRF
+from torchcrf import CRF
 import joblib
 # import preprocess
 import os
