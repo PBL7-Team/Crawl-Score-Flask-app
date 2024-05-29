@@ -4,7 +4,7 @@ import os
 import patoolib
 
 def download_model(url,output):
-    required_subdirectories = ['abc', 'def', 'aaa']
+    required_subdirectories = ['BERT_Sentiment', 'KeyPhraseModel', 'SynonymsModel']
     for subdir in required_subdirectories:
         subdir_path = os.path.join('Model_Here', subdir)
         if os.path.exists(subdir_path):
