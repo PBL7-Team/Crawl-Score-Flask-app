@@ -195,7 +195,7 @@ def combine_data_from_json(json_file_path):
 def save_sentiment_csv(json_path):
     current_directory = os.path.dirname(os.path.abspath(__file__))
     sentiment_csv = os.path.join(current_directory, 'sentiment_value.csv')
-
+    print("Reading file ... " + json_path)
     # Kiểm tra xem tập tin CSV có tồn tại không
     csv_exists = os.path.isfile(sentiment_csv)
 
@@ -203,6 +203,8 @@ def save_sentiment_csv(json_path):
 
     # Tạo danh sách các key từ combine_dicts_sentiment_average
     entities = list(combine_dicts_sentiment_average.keys())
+    print("Đây là list entities:")
+    print(entities)
 
     # Đọc dữ liệu từ file JSON
     with open(json_path, 'r', encoding='utf-8') as file:
@@ -240,15 +242,13 @@ def save_sentiment_csv(json_path):
                         if row[0] == attraction_name and row[1] == entity:
                             rows_to_remove.append(row)
 
-            # Xóa các hàng dữ liệu trùng lặp
-            if rows_to_remove:
-                with open(sentiment_csv, 'w', newline='', encoding='utf-8') as file_write:
-                    writer_remove = csv.writer(file_write)
-                    with open(sentiment_csv, 'r', newline='', encoding='utf-8') as file_read:
-                        reader = csv.reader(file_read)
-                        for row in reader:
-                            if row not in rows_to_remove:
-                                writer_remove.writerow(row)
+                    # Xóa các hàng dữ liệu trùng lặp
+                    if rows_to_remove:
+                        with open(sentiment_csv, 'w', newline='', encoding='utf-8') as file_write:
+                            writer_remove = csv.writer(file_write)
+                            for row in reader:
+                                if row not in rows_to_remove:
+                                    writer_remove.writerow(row)
 
             # Thêm hàng dữ liệu mới
             writer.writerow([attraction_name, entity, sentiment_score, list_adj])
