@@ -189,7 +189,7 @@ def combine_data_from_json(json_file_path):
     for key in combine_dicts_sentiment_average:
         combine_dicts_sentiment_average[key] /= combine_factor_value[key]
 
-    return combine_dicts_sentiment_average, combine_dicts_adj
+    return combine_dicts_sentiment_average, combine_dicts_adj, combine_factor_value
 
 
 def save_sentiment_csv(json_path):
@@ -199,7 +199,7 @@ def save_sentiment_csv(json_path):
     # Kiểm tra xem tập tin CSV có tồn tại không
     csv_exists = os.path.isfile(sentiment_csv)
 
-    combine_dicts_sentiment_average, combine_dicts_adj = combine_data_from_json(json_path)
+    combine_dicts_sentiment_average, combine_dicts_adj, combine_factor_value = combine_data_from_json(json_path)
 
     # Tạo danh sách các key từ combine_dicts_sentiment_average
     entities = list(combine_dicts_sentiment_average.keys())
@@ -222,12 +222,18 @@ def save_sentiment_csv(json_path):
         # Nếu tập tin CSV chưa tồn tại hoặc chưa có dữ liệu gì cả
         if not csv_exists or os.stat(sentiment_csv).st_size == 0:
             # Ghi tiêu đề cho tập tin CSV
-            writer.writerow(["Attraction Name", "Entity", "Sentiment Score", "List Adj"])
+            writer.writerow(["Attraction Name", "Entity", "Sentiment Score", "List Adj", "Coefficient"])
 
         # Đối với mỗi key trong combine_dicts_sentiment_average
         for entity in entities:
             # Lấy sentiment score và list adj tương ứng
             sentiment_score = combine_dicts_sentiment_average[entity]
+
+            if combine_factor_value[entity]:
+                factor = combine_factor_value[entity]
+            else:
+                factor = 0
+            
             if combine_dicts_adj[entity]:
                 list_adj = ', '.join(combine_dicts_adj[entity])
             else:
@@ -251,11 +257,11 @@ def save_sentiment_csv(json_path):
                                     writer_remove.writerow(row)
 
             # Thêm hàng dữ liệu mới
-            writer.writerow([attraction_name, entity, sentiment_score, list_adj])
+            writer.writerow([attraction_name, entity, sentiment_score, list_adj, factor])
 
         for location in location_values:
             # Thêm hàng dữ liệu mới
-            writer.writerow([attraction_name, location, 4, ""])
+            writer.writerow([attraction_name, location, 4, "", 4])
 
 def fully_updated_sentiment_csv():
     current_directory = os.path.dirname(os.path.abspath(__file__))
