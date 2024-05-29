@@ -261,7 +261,7 @@ def save_sentiment_csv(json_path):
 
         for location in location_values:
             # Thêm hàng dữ liệu mới
-            writer.writerow([attraction_name, location, 4, "", 4])
+            writer.writerow([attraction_name, location, 2, "", 2])
 
 def fully_updated_sentiment_csv():
     current_directory = os.path.dirname(os.path.abspath(__file__))
