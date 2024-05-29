@@ -254,9 +254,13 @@ def caculate_average_dict(d, factor):
             d[key] = sum(value) / factor_value
     return d
 
-def TextEntities_Score(text):
-    sentences = re.split(r'[.!?]', text)
-    sentences = [sentence.strip() for sentence in sentences if sentence.strip()]
+def TextEntities_Score(text,flag = False):
+    if not  flag:
+        sentences = re.split(r'[.!?]', text)
+        sentences = [sentence.strip() for sentence in sentences if sentence.strip()]
+    else:
+        sentences = [text]
+        
     dicts_sentiment = {}
     dicts_adj_feature = {}
     list_noun_feature = []
