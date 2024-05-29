@@ -204,6 +204,15 @@ def save_sentiment_csv(json_path):
     # Tạo danh sách các key từ combine_dicts_sentiment_average
     entities = list(combine_dicts_sentiment_average.keys())
 
+    # Đọc dữ liệu từ file JSON
+    with open(json_path, 'r', encoding='utf-8') as file:
+        data = json.load(file)
+
+    location_values = data[0]['location']
+
+    # Lấy tên tệp JSON mà không có phần mở rộng
+    attraction_name = os.path.splitext(os.path.basename(json_path))[0]
+    
     # Mở hoặc tạo tập tin CSV để ghi
     with open(sentiment_csv, 'a', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
@@ -221,9 +230,6 @@ def save_sentiment_csv(json_path):
                 list_adj = ', '.join(combine_dicts_adj[entity])
             else:
                 list_adj = ''
-
-            # Lấy tên tệp JSON mà không có phần mở rộng
-            attraction_name = os.path.splitext(os.path.basename(json_path))[0]
 
             # Kiểm tra xem có hàng dữ liệu nào trùng Entity và Attraction Name không
             rows_to_remove = []
@@ -246,6 +252,10 @@ def save_sentiment_csv(json_path):
 
             # Thêm hàng dữ liệu mới
             writer.writerow([attraction_name, entity, sentiment_score, list_adj])
+
+        for location in location_values:
+            # Thêm hàng dữ liệu mới
+            writer.writerow([attraction_name, location, 4, ""])
 
 def fully_updated_sentiment_csv():
     current_directory = os.path.dirname(os.path.abspath(__file__))
@@ -359,3 +369,4 @@ def export_synonyms_clusters():
 # fully_updated_sentiment_csv()
 
 # export_synonyms_clusters()
+fully_updated_sentiment_csv()
