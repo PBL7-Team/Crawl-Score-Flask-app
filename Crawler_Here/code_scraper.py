@@ -21,7 +21,7 @@ def crawl_1_url(url):
         'source': 'universal',
         'url': url,
         'user_agent_type': 'desktop',
-        'geo_location': 'United States'
+        'geo_location': 'Viet Nam'
     }
 
     # Get response.
@@ -70,6 +70,7 @@ def scrape_tourist_destination_data(url, file_path):
         new_links = remove_used_urls(new_links, used_urls)
     updated_urls_file(file_path, new_links, used_urls)
     # next_url = find_most_similar_url(url, file_path)
+    
     if url_next != "" and check_review_page(url_next) == False and is_vietnam == True:
         next_url = url_next
     else:
@@ -106,10 +107,9 @@ def check_review_page(link):
     try:
         # Duyệt qua các phần để tìm phần chứa "or"
         for part in parts:
-            if "or" in part and len(part) <= 5:
+            if part.startswith("or") and len(part) <= 5:
                 # Lấy chỉ số của "or" và loại bỏ chữ "or" để lấy số
-                index = part.index("or")
-                number = part[index + 2:]
+                number = part[2:]
                 # Kiểm tra số và trả về True nếu lớn hơn 100
                 return int(number) > 100
     except:

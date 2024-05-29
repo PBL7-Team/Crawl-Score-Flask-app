@@ -39,7 +39,7 @@ def translate_text(text, translate_from = "auto", translate_to = "vi", auth_key=
 def final_translate_text(text, translate_from = "auto", translate_to = "vi", auth_key=None, proxy_data = None):
     text = re.sub(r'[^\w\s?!,;.:_\-]', ' - ', text)
     is_success, translated_text = translate_text(text, translate_from, translate_to, auth_key, proxy_data)
-    if is_success == True and len(translated_text) <= 900:
+    if is_success == True and len(translated_text) <= 1900:
         return translated_text
     else:
         if not proxy_data:
