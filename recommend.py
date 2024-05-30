@@ -1,8 +1,11 @@
 import pandas as pd
 import json
-
+import re
+import unicodedata
 from Model_Here.keyphrase import TextEntities_Score
-
+from Model_Here.synonyms_prediction import re_cluster
+from Crawler_Here.translate_tool import final_translate_text
+from sklearn.metrics.pairwise import cosine_similarity
 
 def get_new_contentbase_df():
     sentiment_df = pd.read_csv('./sentiment_value.csv')
@@ -49,9 +52,65 @@ def get_new_contentbase_df():
 
 
 def recommend_system(text):
+    # print("Hi")
     dicts_sentiment, dicts_adj_feature, list_noun_feature, list_proper_noun_feature = TextEntities_Score(text,True)
-    new_contentbase_df = get_new_contentbase_df()
+    # new_contentbase_df = get_new_contentbase_df()
+    # print(list_proper_noun_feature)
+    conduct_content_base(dicts_sentiment, list_proper_noun_feature)
     
-    return 'ok'
+    return conduct_content_base(dicts_sentiment, list_proper_noun_feature)
+
+def find_cluster(cluster_dict, entity):
+    entity = re.sub(r'[^a-zA-Z0-9\s]', '', entity).strip().lower()
+    entity = unicodedata.normalize('NFC', ''.join(c for c in unicodedata.normalize('NFD', entity) if unicodedata.category(c) != 'Mn'))
+    for key, values in cluster_dict.items():
+        for value in values:
+          value = re.sub(r'[^a-zA-Z0-9\s]', '', value).strip().lower()
+          value = unicodedata.normalize('NFC', ''.join(c for c in unicodedata.normalize('NFD', value) if unicodedata.category(c) != 'Mn'))
+          if entity == value:
+            return key
+
+    return None
 
 # get_new_contentbase_df()
+def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
+    sentiment_df = pd.read_csv('./sentiment_value.csv')
+    content_base_df = pd.read_csv('./content_base_score_df.csv', index_col=0)
+    
+    with open('./vi_clusters.json', 'r', encoding='utf-8') as f:
+        clusters_dict = json.load(f)
+    
+    keys_list = list(dicts_sentiment.keys())
+
+    comment_cluster_list = []
+    for key in keys_list:
+        in_cluster = find_cluster(clusters_dict, key)
+        if in_cluster != None:
+            comment_cluster_list.append(in_cluster)
+
+    column_names = content_base_df.columns
+    for proper_noun in list_proper_noun_feature:
+        if proper_noun in column_names:
+            comment_cluster_list.append(proper_noun)
+    
+    vector = [0] * len(column_names)
+    # Duyệt qua từng tên cột và kiểm tra
+    for i, col in enumerate(column_names):
+        if col in comment_cluster_list:
+            vector[i] = 2
+
+    # Tạo DataFrame từ lịch sử hoạt động của User1
+    user_history_df = pd.DataFrame([vector], columns=content_base_df.columns)
+    # Tính toán độ tương tự cosine giữa lịch sử hoạt động của người dùng và các địa danh
+    user_similarity = cosine_similarity(user_history_df, content_base_df)
+
+    # Chuyển ma trận độ tương tự thành DataFrame để dễ xử lý
+    user_similarity_df = pd.DataFrame(user_similarity, index=user_history_df.index, columns=content_base_df.index)
+
+    # Sắp xếp ma trận user_similarity_df theo thứ tự giảm dần của các giá trị tương tự
+    sorted_user_similarity_df = user_similarity_df.apply(lambda row: row.sort_values(ascending=False), axis=1)
+
+    return sorted_user_similarity_df
+
+# text = "Hãy giới thiệu cho tôi địa điểm ăn chơi tại Đà Nẵng."
+# print(recommend_system(text))
