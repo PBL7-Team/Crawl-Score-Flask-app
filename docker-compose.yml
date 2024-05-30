@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  flask-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: flask-app-container
+    environment:
+      - FLASK_ENV=production
+    ports:
+      - "8080:8080"
+    depends_on:
+      - redis
+    volumes:
+      - .:/flask-app
+
+  redis:
+    image: "redis:alpine"
+    container_name: redis-container
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+
+volumes:
+  redis-data:

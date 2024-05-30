@@ -9,8 +9,8 @@ COPY .env.sample app.py requirements.txt  /flask-app/
 
 RUN mv /flask-app/.env.sample /flask-app/.env
 
-RUN pip install torch==1.11.1 torchvision==0.17.2 torchaudio==1.11.1 --index-url https://download.pytorch.org/whl/cpu && \
-    pip install --upgrade pip && \
+RUN pip install --upgrade pip && \
+    pip install torch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2 --index-url https://download.pytorch.org/whl/cpu && \
     pip install --no-cache-dir -r requirements.txt
 
 EXPOSE 8080
