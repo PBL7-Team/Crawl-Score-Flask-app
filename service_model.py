@@ -272,18 +272,31 @@ def fully_updated_sentiment_csv():
     print("Update Sentiment CSV completed.")
 
 def get_synonyms_entities():
-    urrent_directory = os.path.dirname(os.path.abspath(__file__))
+    current_directory = os.path.dirname(os.path.abspath(__file__))
     J_FOLDER = os.path.join(current_directory, 'Crawler_Here', 'Scrape_Data', 'attraction')
     json_file_paths = get_json_file_paths(J_FOLDER)
+
+    entity_csv = os.path.join(current_directory, 'entity_translate.csv')
+
     the_entities_list = []
     for json_path in json_file_paths:
-        combine_dicts_sentiment_average, _ = combine_data_from_json(json_path)
+        combine_dicts_sentiment_average, _, _ = combine_data_from_json(json_path)
         for key, value in combine_dicts_sentiment_average.items():
             if key not in the_entities_list:
                 the_entities_list.append(key)
     
     the_entities_list = list(set(the_entities_list))
-    return the_entities_list, list_entities_english(the_entities_list)
+
+    with open(entity_csv, 'a', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+
+        for entity in the_entities_list:
+            en_entity, is_take = translate_1_entity(entity)
+            if is_take == True:
+                writer.writerow([entity, en_entity])
+                print("Updated entity <" + entity + "> to the database.")
+
+    # return the_entities_list, list_entities_english(the_entities_list)
 
 def update_translate_entity_csv():
     current_directory = os.path.dirname(os.path.abspath(__file__))
@@ -300,12 +313,13 @@ def update_translate_entity_csv():
             # Ghi tiêu đề cho tập tin CSV
             writer.writerow(["Entity_VI", "Entity_EN"])
         
-        list_entity_vi, list_entity_en = get_synonyms_entities()
+        # list_entity_vi, list_entity_en = get_synonyms_entities()
         
-        for i in range(len(list_entity_vi)):
-            if check_value_in_column(entity_csv,'Entity_VI',list_entity_vi[i]) == True:
-                continue
-            writer.writerow([list_entity_vi[i], list_entity_en[i]])
+        # for i in range(len(list_entity_vi)):
+        #     if check_value_in_column(entity_csv,'Entity_VI',list_entity_vi[i]) == True:
+        #         continue
+        #     writer.writerow([list_entity_vi[i], list_entity_en[i]])
+    get_synonyms_entities()
 
 
 def check_value_in_column(csv_path, column_name, value):
@@ -332,13 +346,25 @@ def list_entities_english(list_vie_entities):
     csv_exists = os.path.isfile(entity_csv)
     list_en_entities = []
     if not csv_exists:
-        return [final_translate_text(entity) for entity in list_vie_entities]
+        return [final_translate_text(entity, translate_to = "en") for entity in list_vie_entities]
     for i in range(len(list_vie_entities)):
         if check_value_in_column(entity_csv,'Entity_VI',list_vie_entities[i]) == False:
             list_en_entities.append(final_translate_text(list_vie_entities[i], translate_to = "en"))
         else:
             list_en_entities.append('ignore')
     return list_en_entities
+
+def translate_1_entity(vie_entity):
+    current_directory = os.path.dirname(os.path.abspath(__file__))
+    entity_csv = os.path.join(current_directory, 'entity_translate.csv')
+    csv_exists = os.path.isfile(entity_csv)
+    if not csv_exists:
+        return final_translate_text(vie_entity), True
+
+    if check_value_in_column(entity_csv,'Entity_VI',vie_entity) == False:
+        return final_translate_text(vie_entity, translate_to = "en"), True
+    else:
+        return "ignore", False
 
 def export_synonyms_clusters():
     update_translate_entity_csv()
