@@ -9,8 +9,7 @@ from service_crawl import get_all_json_data, update_csv_with_json_data, start_cr
 from service_model import sentiment_analysis_all, fully_updated_sentiment_csv, export_synonyms_clusters
 from dotenv import load_dotenv
 from functools import wraps
-from flask import Flask,render_template, request
-from flask_mysqldb import MySQL
+from flask import Flask, request
 
 app = Flask(__name__)
 load_dotenv()
@@ -18,13 +17,6 @@ load_dotenv()
 # Lấy các giá trị của các biến môi trường
 API_KEY_1 = os.getenv("API_KEY_1")
 API_KEY_2 = os.getenv("API_KEY_2")
-
-app.config['MYSQL_HOST'] = 'localhost'
-app.config['MYSQL_USER'] = 'root'
-app.config['MYSQL_PASSWORD'] = '123456789'
-app.config['MYSQL_DB'] = 'pbl7'
- 
-mysql = MySQL(app)
 
 crawl_thread = None
 crawl_thread_mode_2 = None
