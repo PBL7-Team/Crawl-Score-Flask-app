@@ -4,6 +4,7 @@ import threading
 from datetime import datetime
 import os
 from recommend import recommend_system
+from search import query_attraction
 from service_crawl import get_all_json_data, update_csv_with_json_data, start_crawl, stop_crawl, get_json_statistics, start_crawl_mode_2
 from service_model import sentiment_analysis_all, fully_updated_sentiment_csv, export_synonyms_clusters
 from dotenv import load_dotenv
@@ -190,6 +191,15 @@ def update_db():
     return jsonify({
         "ok": "Ok",
     }),
+    
+@app.route('/search', methods = ['GET'])
+@require_api_key
+def search_attraction():
+    msg = query_attraction(request.args.get('query'))
+    return jsonify({
+        "ok": msg,
+    }), 200
+    
     
 
 # bước 1: Crawl data bằng start-crawl
