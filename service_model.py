@@ -439,6 +439,6 @@ def export_synonyms_clusters():
 # save_sentiment_csv(r'E:\PBL7_Code_Model_and_Scraping\Crawler_Here\Scrape_Data\attraction\Viet Cuisine - Cơm Niêu Việt.json')
 # fully_updated_sentiment_csv()
 
-fully_updated_sentiment_csv()
+# fully_updated_sentiment_csv()
 
 # sentiment_analysis_all()
