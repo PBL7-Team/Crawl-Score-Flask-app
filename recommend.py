@@ -43,7 +43,8 @@ def get_new_contentbase_df():
 
         for cluster in scores:
             result_df.at[location, cluster] = scores[cluster] / weights[cluster]
-            
+    
+    result_df.to_csv('content_base_score_df.csv', index=True, mode='w')
     return result_df
 
 
@@ -52,3 +53,5 @@ def recommend_system(text):
     new_contentbase_df = get_new_contentbase_df()
     
     return 'ok'
+
+# get_new_contentbase_df()
