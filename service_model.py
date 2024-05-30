@@ -219,10 +219,7 @@ def save_sentiment_csv(json_path):
     with open(sentiment_csv, 'a', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
 
-        # Nếu tập tin CSV chưa tồn tại hoặc chưa có dữ liệu gì cả
-        if not csv_exists or os.stat(sentiment_csv).st_size == 0:
-            # Ghi tiêu đề cho tập tin CSV
-            writer.writerow(["Attraction Name", "Entity", "Sentiment Score", "List Adj", "Coefficient"])
+        rename_columns_if_needed(sentiment_csv)
 
         # Đối với mỗi key trong combine_dicts_sentiment_average
         for entity in entities:
@@ -262,6 +259,25 @@ def save_sentiment_csv(json_path):
         for location in location_values:
             # Thêm hàng dữ liệu mới
             writer.writerow([attraction_name, location, 2, "", 2])
+
+def rename_columns_if_needed(file_path):
+    # Đọc file CSV vào DataFrame
+    df = pd.read_csv(file_path, header=None)
+    
+    # Kiểm tra xem dòng đầu tiên có phải là tên cột mong muốn không
+    expected_columns = ["Attraction Name", "Entity", "Sentiment Score", "List Adj", "Coefficient"]
+    if df.iloc[0].tolist() == expected_columns:
+        # Dòng đầu tiên là tên cột
+        df.columns = expected_columns
+        df = df[1:]  # Bỏ dòng đầu tiên vì nó là tên cột
+    else:
+        # Đặt tên cột vì dòng đầu tiên không phải là tên cột
+        df.columns = expected_columns
+    
+    # Lưu lại DataFrame đã được đặt tên cột vào file CSV
+    df.to_csv(file_path, index=False)
+
+    return df
 
 def fully_updated_sentiment_csv():
     current_directory = os.path.dirname(os.path.abspath(__file__))
@@ -366,6 +382,27 @@ def translate_1_entity(vie_entity):
     else:
         return "ignore", False
 
+def convert_json_to_dict(input_file, output_file):
+    """
+    Hàm chuyển đổi file JSON thành dictionary.
+
+    Args:
+        input_file (str): Đường dẫn đến file JSON đầu vào.
+        output_file (str): Đường dẫn đến file JSON đầu ra.
+    """
+
+    with open(input_file, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    cluster_dict = {}
+    for i, cluster in enumerate(data):
+        key = f"cluster_{i}"
+        cluster_dict[key] = cluster
+
+    with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump(cluster_dict, f, ensure_ascii=False, indent=4)
+
+
 def export_synonyms_clusters():
     update_translate_entity_csv()
     current_directory = os.path.dirname(os.path.abspath(__file__))
@@ -393,6 +430,8 @@ def export_synonyms_clusters():
     # Lưu trữ vi_clusters dưới dạng file JSON
     with open(cluster_json, 'w', encoding='utf-8') as f:
         json.dump(vi_clusters, f, ensure_ascii=False, indent=4)
+    
+    convert_json_to_dict(cluster_json,cluster_json)
 
     return vi_clusters
 
@@ -400,11 +439,6 @@ def export_synonyms_clusters():
 # save_sentiment_csv(r'E:\PBL7_Code_Model_and_Scraping\Crawler_Here\Scrape_Data\attraction\Viet Cuisine - Cơm Niêu Việt.json')
 # fully_updated_sentiment_csv()
 
-for i in range(10):
-    try:
-        export_synonyms_clusters()
-    except:
-        continue
-# fully_updated_sentiment_csv()
+fully_updated_sentiment_csv()
 
 # sentiment_analysis_all()

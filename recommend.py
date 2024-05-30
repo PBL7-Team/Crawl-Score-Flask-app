@@ -10,9 +10,9 @@ def get_new_contentbase_df():
         clusters = json.load(f)
 
     cluster_dict = {}
-    for i, cluster in enumerate(clusters):
-        for term in cluster:
-            cluster_dict[term] = f"cluster_{i}"
+    for key, values in clusters.items():
+        for value in values:
+            cluster_dict[value] = key
 
     all_entities = set(sentiment_df['Entity'])
     clustered_entities = set(cluster_dict.keys())
