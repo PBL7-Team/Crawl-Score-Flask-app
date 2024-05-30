@@ -57,6 +57,105 @@
             "https://www.tripadvisor.com/Attraction_Review-g298253-d472609-Reviews-Watamu_Beach-Malindi_Coast_Province.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1673756-d16666036-Reviews-Crocodile_Lake-Cat_Tien_National_Park_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1673756-d16666036-Reviews-Crocodile_Lake-Cat_Tien_National_Park_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thể thao": 0.9448851710185409,
+            "con đỉa": 0.5645484030246735,
+            "hệ thực vật": 0.5,
+            "động vật": 0.5110723096877337,
+            "cá sấu": -0.6064080558717251,
+            "chim -": 0.9913998983101919,
+            "hồ cá": 0.9887495506554842,
+            "trung tâm công viên": 0.5,
+            "đường mòn": 0.4812933052890003,
+            "con khỉ": 0.36933619901537895,
+            "hồ rộng": 0.992909625871107,
+            "công viên": 0.5553442984819412,
+            "bữa trưa": 0.5,
+            "chuyến tham": 0.5,
+            "xe đạp": 0.5593372769653797,
+            "rừng rậm": 0.5,
+            "cá": -0.2493512351065874,
+            "chú cá": 0.9164976086467505,
+            "chuyến đi thuyền": 0.994702877709642,
+            "đi bộ xuyên rừng": 0.9924388906219974,
+            "nhân viên kiểm lâm": 0.5205712867900729,
+            "động vật hoang dã": 0.5
+        },
+        "dicts_adj": {
+            "thể thao": [
+                "dài"
+            ],
+            "con đỉa": [
+                "đặc biệt",
+                "dễ dàng"
+            ],
+            "hệ thực vật": [],
+            "động vật": [
+                "im lặng"
+            ],
+            "cá sấu": [
+                "sớm"
+            ],
+            "chim -": [
+                "sớm"
+            ],
+            "hồ cá": [],
+            "trung tâm công viên": [],
+            "đường mòn": [
+                "khó"
+            ],
+            "con khỉ": [],
+            "hồ rộng": [
+                "đẹp"
+            ],
+            "công viên": [
+                "chi tiết"
+            ],
+            "bữa trưa": [],
+            "chuyến tham": [],
+            "xe đạp": [],
+            "rừng rậm": [],
+            "cá": [],
+            "chú cá": [
+                "hào hứng",
+                "giỏi"
+            ],
+            "chuyến đi thuyền": [],
+            "đi bộ xuyên rừng": [
+                "nhiều",
+                "đẹp"
+            ],
+            "nhân viên kiểm lâm": [
+                "hữu ích"
+            ],
+            "động vật hoang dã": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thể thao": 1.5,
+            "con đỉa": 1.5,
+            "hệ thực vật": 0.5,
+            "động vật": 1.0,
+            "cá sấu": 0.5,
+            "chim -": 0.5,
+            "hồ cá": 0.5,
+            "trung tâm công viên": 0.5,
+            "đường mòn": 1.0,
+            "con khỉ": 0.5,
+            "hồ rộng": 0.5,
+            "công viên": 1.5,
+            "bữa trưa": 0.5,
+            "chuyến tham": 0.5,
+            "xe đạp": 0.5,
+            "rừng rậm": 0.5,
+            "cá": 0.5,
+            "chú cá": 0.5,
+            "chuyến đi thuyền": 0.5,
+            "đi bộ xuyên rừng": 0.5,
+            "nhân viên kiểm lâm": 0.5,
+            "động vật hoang dã": 0.5
+        }
     }
 ]

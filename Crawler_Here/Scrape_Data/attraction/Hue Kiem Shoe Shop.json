@@ -107,6 +107,111 @@
             "https://www.tripadvisor.com/Attraction_Review-g39588-d108503-Reviews-Keeneland-Lexington_Kentucky.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d4191462-Reviews-or10-Hue_Kiem_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4191462-Reviews-Hue_Kiem_Shoe_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4191462-Reviews-Hue_Kiem_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đôi giày": 0.9950797703932039,
+            "đôi giày da": 0.7409120565280318,
+            "trải nghiệm": 0.9952929434366524,
+            "cửa hàng": 0.7484868308412842,
+            "áo khoác": 0.5998778063803911,
+            "lễ tân": 0.5,
+            "khách sạn": 0.5,
+            "họ đến": 0.8737692451104522,
+            "áo": 0.9862869512289762,
+            "đôi bốt": 0.830181622528471,
+            "món đồ": 0.746878105099313,
+            "đôi dép": 0.5,
+            "túi xách": 0.8228124274949854,
+            "giày dép": 0.615876404568553,
+            "dịch vụ": 0.339587097405456,
+            "túi đeo": 0.9928569113835692,
+            "khu nghỉ dưỡng": 0.5667412616312504,
+            "nhân viên": 0.8737692451104522,
+            "ghế bướm": 0.584834972396493
+        },
+        "dicts_adj": {
+            "đôi giày": [
+                "hoàn hảo",
+                "thấp",
+                "cao",
+                "thoải mái",
+                "đẹp"
+            ],
+            "đôi giày da": [
+                "thực sự",
+                "riêng",
+                "đầy"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "cửa hàng": [
+                "tuyệt vời",
+                "tốt",
+                "nhiệt tình"
+            ],
+            "áo khoác": [],
+            "lễ tân": [],
+            "khách sạn": [],
+            "họ đến": [
+                "đủ"
+            ],
+            "áo": [
+                "sẵn",
+                "đầy đủ"
+            ],
+            "đôi bốt": [],
+            "món đồ": [
+                "vui vẻ",
+                "đắt"
+            ],
+            "đôi dép": [],
+            "túi xách": [
+                "tốt",
+                "hợp lý"
+            ],
+            "giày dép": [
+                "sẵn sàng"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "lâu",
+                "đẹp"
+            ],
+            "túi đeo": [
+                "tốt",
+                "nhiệt tình"
+            ],
+            "khu nghỉ dưỡng": [],
+            "nhân viên": [
+                "quyết liệt",
+                "rõ ràng",
+                "nhanh"
+            ],
+            "ghế bướm": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đôi giày": 1.5,
+            "đôi giày da": 1,
+            "trải nghiệm": 1,
+            "cửa hàng": 2.5,
+            "áo khoác": 1,
+            "lễ tân": 1,
+            "khách sạn": 1,
+            "họ đến": 1,
+            "áo": 1,
+            "đôi bốt": 1.5,
+            "món đồ": 1.5,
+            "đôi dép": 0.5,
+            "túi xách": 1.5,
+            "giày dép": 0.5,
+            "dịch vụ": 1.5,
+            "túi đeo": 0.5,
+            "khu nghỉ dưỡng": 0.5,
+            "nhân viên": 0.5,
+            "ghế bướm": 0.5
+        }
     }
 ]

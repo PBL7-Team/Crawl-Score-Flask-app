@@ -113,7 +113,235 @@
             "https://www.tripadvisor.com/Attraction_Review-g51907-d1742566-Reviews-Oregon_International_Air_Show-Hillsboro_Oregon.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or10-Danang_Night_Market-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-Danang_Night_Market-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-Danang_Night_Market-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đồ ăn": 0.5,
+            "cho": 0.5,
+            "set hải sản": 0.5,
+            "bãi biển mỹ khê": 0.9838773923111148,
+            "quầy hàng": -0.21634909510612488,
+            "chợ đêm": 0.9581706494791433,
+            "khách sạn": 0.5,
+            "sẵn đồ lưu niệm": 0.963753126328811,
+            "mặt hàng": -0.9709656902123243,
+            "hải": 0.5,
+            "sản": 0.5,
+            "hải sản": 0.5097029517187779,
+            "món ăn": 0.995480983343441,
+            "khu vực": -0.8883665069006383,
+            "set": 0.5,
+            "gánh hàng": 0.5,
+            "bộ đó": -0.9679546123370528,
+            "nhà hàng hải sản": 0.8238216172903776,
+            "quần": 0.5,
+            "áo đồ chơi phụ kiện": 0.5,
+            "hàng hóa giá": 0.9341171242995188,
+            "thành rất": 0.8737692451104522,
+            "chợ thực phẩm": 0.8737692451104522,
+            "tôm hùm": 0.9068615963915363,
+            "chợ đường phố": 0.995553043030668,
+            "nhà": 0.9937549341702834,
+            "thực phẩm giá": 0.7954536750912666,
+            "gian hàng": -0.13183569570537657,
+            "thực phẩm": -0.9583972237305716,
+            "buổi trình diễn cầu rồng": -0.8345697242766619,
+            "trải nghiệm": -0.9670386568177491,
+            "nhà cung cấp": 0.9742573485709727,
+            "đền thờ": 0.5745878703892231,
+            "cả": 0.5,
+            "loại nước": 0.8862474388442934,
+            "món": 0.9836467453860678,
+            "tôm": 0.882614729256602,
+            "cầu": 0.9907241705805063,
+            "người bán hàng": -0.056783369509503245,
+            "đồ lưu niệm địa phương": 0.5,
+            "buổi diễn cầu rồng": 0.5,
+            "ngộ độc thực phẩm": 0.9952879530610517,
+            "cửa hàng": -0.7079684808850288
+        },
+        "dicts_adj": {
+            "đồ ăn": [],
+            "cho": [],
+            "set hải sản": [],
+            "bãi biển mỹ khê": [
+                "gần",
+                "thuận tiện",
+                "Gần",
+                "thuận tiện"
+            ],
+            "quầy hàng": [
+                "ít",
+                "ít"
+            ],
+            "chợ đêm": [
+                "thú vị",
+                "thú vị",
+                "nhiều",
+                "thú vị",
+                "thú vị",
+                "ngon",
+                "nhất",
+                "đông",
+                "đắt đỏ",
+                "rắc rối"
+            ],
+            "khách sạn": [],
+            "sẵn đồ lưu niệm": [
+                "khác",
+                "khác"
+            ],
+            "mặt hàng": [
+                "khác",
+                "khác"
+            ],
+            "hải": [],
+            "sản": [],
+            "hải sản": [
+                "ngon",
+                "nhất",
+                "tuyệt vời",
+                "khác"
+            ],
+            "món ăn": [
+                "ngon",
+                "sẵn sàng",
+                "nhiều",
+                "ngon",
+                "sẵn sàng",
+                "nhiều"
+            ],
+            "khu vực": [
+                "khác",
+                "khác"
+            ],
+            "set": [],
+            "gánh hàng": [],
+            "bộ đó": [],
+            "nhà hàng hải sản": [
+                "Rẻ",
+                "hơn",
+                "Rẻ",
+                "hơn"
+            ],
+            "quần": [],
+            "áo đồ chơi phụ kiện": [],
+            "hàng hóa giá": [
+                "hơn",
+                "nhiều"
+            ],
+            "thành rất": [
+                "nhiều"
+            ],
+            "chợ thực phẩm": [
+                "chủ yếu"
+            ],
+            "tôm hùm": [
+                "tốt",
+                "khổng lồ",
+                "tốt"
+            ],
+            "chợ đường phố": [
+                "thực sự"
+            ],
+            "nhà": [
+                "cao"
+            ],
+            "thực phẩm giá": [
+                "cao"
+            ],
+            "gian hàng": [
+                "tốt",
+                "đông"
+            ],
+            "thực phẩm": [
+                "tốt",
+                "đông"
+            ],
+            "buổi trình diễn cầu rồng": [
+                "thực sự"
+            ],
+            "trải nghiệm": [
+                "khó chịu",
+                "hung hãn",
+                "nhất"
+            ],
+            "nhà cung cấp": [
+                "Liên tục"
+            ],
+            "đền thờ": [],
+            "cả": [],
+            "loại nước": [],
+            "món": [
+                "ngon",
+                "nhất"
+            ],
+            "tôm": [
+                "khổng lồ",
+                "tốt"
+            ],
+            "cầu": [
+                "nhiều"
+            ],
+            "người bán hàng": [
+                "khác",
+                "đủ"
+            ],
+            "đồ lưu niệm địa phương": [],
+            "buổi diễn cầu rồng": [],
+            "ngộ độc thực phẩm": [
+                "khác"
+            ],
+            "cửa hàng": [
+                "tiện lợi"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đồ ăn": 3.0,
+            "cho": 1.5,
+            "set hải sản": 1.5,
+            "bãi biển mỹ khê": 3.0,
+            "quầy hàng": 3.0,
+            "chợ đêm": 11.5,
+            "khách sạn": 3.0,
+            "sẵn đồ lưu niệm": 3.0,
+            "mặt hàng": 3.0,
+            "hải": 3.0,
+            "sản": 3.0,
+            "hải sản": 11.0,
+            "món ăn": 3.0,
+            "khu vực": 3.0,
+            "set": 5.5,
+            "gánh hàng": 4,
+            "bộ đó": 4,
+            "nhà hàng hải sản": 4,
+            "quần": 4,
+            "áo đồ chơi phụ kiện": 4,
+            "hàng hóa giá": 2,
+            "thành rất": 2,
+            "chợ thực phẩm": 2,
+            "tôm hùm": 3.5,
+            "chợ đường phố": 2,
+            "nhà": 2,
+            "thực phẩm giá": 2,
+            "gian hàng": 2,
+            "thực phẩm": 2,
+            "buổi trình diễn cầu rồng": 2,
+            "trải nghiệm": 1.5,
+            "nhà cung cấp": 1.5,
+            "đền thờ": 1.5,
+            "cả": 1.5,
+            "loại nước": 1.5,
+            "món": 1.5,
+            "tôm": 1.5,
+            "cầu": 1.5,
+            "người bán hàng": 1.5,
+            "đồ lưu niệm địa phương": 1.5,
+            "buổi diễn cầu rồng": 1,
+            "ngộ độc thực phẩm": 1,
+            "cửa hàng": 1
+        }
     },
     {
         "attraction_name": "Danang Night Market",
@@ -230,7 +458,143 @@
             "https://www.tripadvisor.com/Attraction_Review-g295424-d23978652-Reviews-AURA_SKYPOOL-Dubai_Emirate_of_Dubai.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or20-Danang_Night_Market-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or10-Danang_Night_Market-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or10-Danang_Night_Market-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đường du lịch": 0.9890766047174111,
+            "bãi biển": 0.8737692451104522,
+            "khu chợ": 0.8890956583200023,
+            "cầu rồng": 0.8737692451104522,
+            "món ăn": 0.4605003219039645,
+            "giá cả": 0.504066426306963,
+            "đồ ăn": 0.9955860268091783,
+            "quầy hàng": 0.5043035559356213,
+            "tiền mặt": 0.9620983791537583,
+            "khu ẩm thực": 0.4768370520323515,
+            "chợ đêm sơn": 0.8737692451104522,
+            "chợ đêm": 0.3109973407893752,
+            "chợ đêm sơn trà": -0.042593849706463516,
+            "hải sản": 0.9941782736568712,
+            "món": 0.9951407461000296,
+            "bánh mì ngon": 0.5,
+            "sa mạc": 0.5,
+            "trăm": 0.5,
+            "quầy": 0.5,
+            "hàng thực phẩm cửa hàng quà tặng": 0.5,
+            "bún mi -": 0.9955975681077689,
+            "the": 0.5,
+            "an": 0.5,
+            "đại dịch": -0.9610118543496355,
+            "thị": 0.5,
+            "trường thực phẩm": 0.5
+        },
+        "dicts_adj": {
+            "đường du lịch": [
+                "gần"
+            ],
+            "bãi biển": [
+                "gần"
+            ],
+            "khu chợ": [
+                "gần",
+                "nhiều",
+                "nhẹ nhàng"
+            ],
+            "cầu rồng": [
+                "gần",
+                "gần"
+            ],
+            "món ăn": [
+                "ngon",
+                "ngon",
+                "khác"
+            ],
+            "giá cả": [
+                "khắp"
+            ],
+            "đồ ăn": [
+                "ngon",
+                "tuyệt pizza",
+                "ngon",
+                "nhiều"
+            ],
+            "quầy hàng": [
+                "khoảng"
+            ],
+            "tiền mặt": [
+                "Chắc chắn"
+            ],
+            "khu ẩm thực": [
+                "nhỏ"
+            ],
+            "chợ đêm sơn": [
+                "gần"
+            ],
+            "chợ đêm": [
+                "lớn",
+                "cao"
+            ],
+            "chợ đêm sơn trà": [
+                "Nhiều",
+                "tuyệt vời"
+            ],
+            "hải sản": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "hợp lý",
+                "tuyệt vời"
+            ],
+            "món": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "hợp lý"
+            ],
+            "bánh mì ngon": [],
+            "sa mạc": [],
+            "trăm": [],
+            "quầy": [],
+            "hàng thực phẩm cửa hàng quà tặng": [],
+            "bún mi -": [
+                "ngon"
+            ],
+            "the": [],
+            "an": [],
+            "đại dịch": [
+                "nhiều",
+                "nặng nề"
+            ],
+            "thị": [],
+            "trường thực phẩm": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đường du lịch": 1,
+            "bãi biển": 1,
+            "khu chợ": 2,
+            "cầu rồng": 1.5,
+            "món ăn": 2.0,
+            "giá cả": 1,
+            "đồ ăn": 1.5,
+            "quầy hàng": 2.0,
+            "tiền mặt": 1,
+            "khu ẩm thực": 0.5,
+            "chợ đêm sơn": 0.5,
+            "chợ đêm": 1.5,
+            "chợ đêm sơn trà": 0.5,
+            "hải sản": 0.5,
+            "món": 0.5,
+            "bánh mì ngon": 0.5,
+            "sa mạc": 0.5,
+            "trăm": 0.5,
+            "quầy": 0.5,
+            "hàng thực phẩm cửa hàng quà tặng": 0.5,
+            "bún mi -": 0.5,
+            "the": 0.5,
+            "an": 0.5,
+            "đại dịch": 0.5,
+            "thị": 0.5,
+            "trường thực phẩm": 0.5
+        }
     },
     {
         "attraction_name": "Danang Night Market",
@@ -348,7 +712,160 @@
             "https://www.tripadvisor.com/Attraction_Review-g53449-d220084-Reviews-Strip_District-Pittsburgh_Pennsylvania.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or30-Danang_Night_Market-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or20-Danang_Night_Market-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or20-Danang_Night_Market-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9762042595539242,
+            "cửa hàng": 0.8276081191725098,
+            "chuyến tham quan": 0.9723553026560694,
+            "chợ đêm": 0.3124955802826056,
+            "đồ ăn": 0.6373034679127159,
+            "thức ăn": 0.8737692451104522,
+            "người": 0.5,
+            "bán hàng": 0.5,
+            "cầu rồng": 0.8737692451104522,
+            "nhà cung cấp": 0.1981887788278982,
+            "chợ nhỏ": 0.8737692451104522,
+            "gian hàng": 0.5138023048639297,
+            "thực phẩm": 0.5,
+            "đồ ăn thái": 0.5,
+            "burger": 0.5,
+            "bít tết": 0.5,
+            "phô mai": 0.5,
+            "quán ăn": 0.5825589671730995,
+            "món mì": -0.9763480972032994,
+            "món dở": 0.5,
+            "miếng khoai tây chiên sũng nước": -0.9680254708509892,
+            "cá đông lạnh": 0.5,
+            "quầy": 0.010516962327528745,
+            "hàng thực phẩm": 0.01132751046679914,
+            "món ăn": 0.7669795280089602,
+            "bức ảnh": 0.5590217690914869,
+            "bữa tối": 0.9953442516853102,
+            "nhà bếp": -0.9632668932899833,
+            "bữa ăn": 0.9595460065174848
+        },
+        "dicts_adj": {
+            "chuyến đi": [],
+            "cửa hàng": [
+                "dễ"
+            ],
+            "chuyến tham quan": [
+                "khác"
+            ],
+            "chợ đêm": [
+                "dễ",
+                "nhỏ",
+                "lớn",
+                "gần",
+                "phải"
+            ],
+            "đồ ăn": [
+                "quốc tế",
+                "ngon",
+                "rẻ"
+            ],
+            "thức ăn": [
+                "tuyệt"
+            ],
+            "người": [],
+            "bán hàng": [],
+            "cầu rồng": [
+                "phải"
+            ],
+            "nhà cung cấp": [
+                "lớn",
+                "hơn",
+                "nhiều",
+                "chủ yếu",
+                "ép buộc"
+            ],
+            "chợ nhỏ": [
+                "gần"
+            ],
+            "gian hàng": [
+                "đủ"
+            ],
+            "thực phẩm": [],
+            "đồ ăn thái": [],
+            "burger": [],
+            "bít tết": [],
+            "phô mai": [],
+            "quán ăn": [
+                "ngon",
+                "ngon",
+                "ăn tệ",
+                "nhất"
+            ],
+            "món mì": [
+                "mì tệ"
+            ],
+            "món dở": [],
+            "miếng khoai tây chiên sũng nước": [
+                "giống"
+            ],
+            "cá đông lạnh": [],
+            "quầy": [
+                "xinh xắn",
+                "thẳng"
+            ],
+            "hàng thực phẩm": [
+                "xinh xắn",
+                "thẳng"
+            ],
+            "món ăn": [
+                "đẹp",
+                "phải",
+                "nhiều"
+            ],
+            "bức ảnh": [
+                "trực tuyến",
+                "đẹp",
+                "nhỏ"
+            ],
+            "bữa tối": [
+                "vui vẻ",
+                "ấm cúng"
+            ],
+            "nhà bếp": [
+                "khác"
+            ],
+            "bữa ăn": [
+                "hợp lý"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 0.5,
+            "cửa hàng": 0.5,
+            "chuyến tham quan": 0.5,
+            "chợ đêm": 2.0,
+            "đồ ăn": 2.0,
+            "thức ăn": 0.5,
+            "người": 0.5,
+            "bán hàng": 0.5,
+            "cầu rồng": 0.5,
+            "nhà cung cấp": 1.5,
+            "chợ nhỏ": 0.5,
+            "gian hàng": 1.0,
+            "thực phẩm": 0.5,
+            "đồ ăn thái": 0.5,
+            "burger": 0.5,
+            "bít tết": 0.5,
+            "phô mai": 0.5,
+            "quán ăn": 0.5,
+            "món mì": 0.5,
+            "món dở": 0.5,
+            "miếng khoai tây chiên sũng nước": 0.5,
+            "cá đông lạnh": 0.5,
+            "quầy": 1.0,
+            "hàng thực phẩm": 1.0,
+            "món ăn": 1.0,
+            "bức ảnh": 0.5,
+            "bữa tối": 0.5,
+            "nhà bếp": 0.5,
+            "bữa ăn": 0.5
+        }
     },
     {
         "attraction_name": "Danang Night Market",
@@ -466,7 +983,102 @@
             "https://www.tripadvisor.com/Attraction_Review-g317094-d1128827-Reviews-Stalin_Museum-Gori_Shida_Kartli_Region.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or40-Danang_Night_Market-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or30-Danang_Night_Market-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or30-Danang_Night_Market-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chợ đêm": 0.7023818590969313,
+            "bánh mì": -0.21418669616105035,
+            "quầy hàng": -0.292638749582693,
+            "cạnh cầu": 0.5,
+            "trình diễn": 0.5,
+            "tôm hùm": -0.975661147153005,
+            "chuột": -0.9386315857991576,
+            "quán bar": -0.685969497077167,
+            "nhà hàng": -0.9726911545731127,
+            "đồ ăn": 0.9955882336944342,
+            "đồ uống": 0.9955222967546433,
+            "giá cả": 0.5399189963936806,
+            "khu ẩm": 0.49244753643870354,
+            "món ăn kiểu": 0.5,
+            "quán vắng": -0.34585415944457054,
+            "cầu rồng": 0.8737692451104522
+        },
+        "dicts_adj": {
+            "chợ đêm": [
+                "ổn",
+                "phải",
+                "Tốt",
+                "hơn",
+                "thực sự"
+            ],
+            "bánh mì": [
+                "ngon",
+                "hơn",
+                "phải",
+                "lớn"
+            ],
+            "quầy hàng": [
+                "ngon",
+                "hơn",
+                "phải",
+                "lớn"
+            ],
+            "cạnh cầu": [],
+            "trình diễn": [],
+            "tôm hùm": [
+                "lớn",
+                "đúng",
+                "không trung thực"
+            ],
+            "chuột": [
+                "nhiều"
+            ],
+            "quán bar": [
+                "khác"
+            ],
+            "nhà hàng": [
+                "khác"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "đồ uống": [
+                "ngon"
+            ],
+            "giá cả": [
+                "phải chăng",
+                "hơn"
+            ],
+            "khu ẩm": [
+                "nhỏ"
+            ],
+            "món ăn kiểu": [],
+            "quán vắng": [],
+            "cầu rồng": [
+                "Tốt",
+                "hơn",
+                "thực sự"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chợ đêm": 1.0,
+            "bánh mì": 0.5,
+            "quầy hàng": 0.5,
+            "cạnh cầu": 0.5,
+            "trình diễn": 0.5,
+            "tôm hùm": 0.5,
+            "chuột": 0.5,
+            "quán bar": 0.5,
+            "nhà hàng": 0.5,
+            "đồ ăn": 0.5,
+            "đồ uống": 0.5,
+            "giá cả": 0.5,
+            "khu ẩm": 0.5,
+            "món ăn kiểu": 0.5,
+            "quán vắng": 0.5,
+            "cầu rồng": 0.5
+        }
     },
     {
         "attraction_name": "Danang Night Market",
@@ -584,7 +1196,185 @@
             "https://www.tripadvisor.com/Attraction_Review-g28970-d3651464-Reviews-Warner_Theatre-Washington_DC_District_of_Columbia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or50-Danang_Night_Market-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or40-Danang_Night_Market-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or40-Danang_Night_Market-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chợ đêm": 0.9597056140482891,
+            "cầu rồng": 0.8737692451104522,
+            "chợ đêm cầu tình": 0.9871798029635102,
+            "khu": 0.725358746945858,
+            "quầy hàng hải sản": 0.9953154387767427,
+            "quầy hàng phi thực phẩm": -0.9693653858266771,
+            "chợ thực phẩm": 0.5241461042314768,
+            "gian hàng": 0.009997872286476195,
+            "chỗ ngồi": -0.9717648054938763,
+            "khu chợ": 0.5,
+            "hải sản": 0.8737692451104522,
+            "bữa tối": 0.5,
+            "giá": 0.03236372786341235,
+            "đồ ăn": 0.3539086301655819,
+            "đồ uống": -0.0035989100579172373,
+            "nhà hàng ấm": 0.5,
+            "phương thức": -0.9705672452691942,
+            "bóng": 0.030371246859431267,
+            "đất nước": 0.9955442626378499,
+            "trải nghiệm": -0.9363753185607493,
+            "người dân địa phương": 0.9808955261250958,
+            "quầy hàng": 0.979644957347773,
+            "bầu không khí": 0.8859575763344765,
+            "bờ sông": 0.9940889849094674,
+            "đồng hồ": -0.9694748702459037,
+            "không khí": 0.8737692451104522,
+            "lễ hội": 0.5,
+            "thức ăn": 0.6770263332873583,
+            "sản phẩm": 0.9063523970544338,
+            "rung cảm": 0.9909298512502573,
+            "đối tác": 0.9911100001772866,
+            "sự": 0.8737692451104522,
+            "khoảng sân": 0.9951886489288881
+        },
+        "dicts_adj": {
+            "chợ đêm": [
+                "gần",
+                "khổng lồ",
+                "tuyệt vời",
+                "lễ hội"
+            ],
+            "cầu rồng": [
+                "gần",
+                "thú vị",
+                "vui"
+            ],
+            "chợ đêm cầu tình": [
+                "cùng",
+                "lân cận"
+            ],
+            "khu": [
+                "khổng lồ"
+            ],
+            "quầy hàng hải sản": [
+                "khác"
+            ],
+            "quầy hàng phi thực phẩm": [
+                "khác"
+            ],
+            "chợ thực phẩm": [
+                "nhỏ",
+                "khoảng"
+            ],
+            "gian hàng": [
+                "ấn tượng",
+                "ngon"
+            ],
+            "chỗ ngồi": [
+                "ấn tượng"
+            ],
+            "khu chợ": [],
+            "hải sản": [
+                "tươi ngon"
+            ],
+            "bữa tối": [],
+            "giá": [
+                "cao lớn",
+                "hơn"
+            ],
+            "đồ ăn": [
+                "cao lớn",
+                "hơn"
+            ],
+            "đồ uống": [
+                "cao lớn",
+                "hơn"
+            ],
+            "nhà hàng ấm": [],
+            "phương thức": [],
+            "bóng": [
+                "đen"
+            ],
+            "đất nước": [
+                "xinh đẹp"
+            ],
+            "trải nghiệm": [
+                "May mắn"
+            ],
+            "người dân địa phương": [
+                "tốt"
+            ],
+            "quầy hàng": [
+                "nhiều",
+                "giống"
+            ],
+            "bầu không khí": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "bờ sông": [
+                "tuyệt"
+            ],
+            "đồng hồ": [
+                "chung",
+                "cẩn thận"
+            ],
+            "không khí": [
+                "thân mật"
+            ],
+            "lễ hội": [],
+            "thức ăn": [
+                "xa"
+            ],
+            "sản phẩm": [
+                "xa"
+            ],
+            "rung cảm": [
+                "xa",
+                "tốt"
+            ],
+            "đối tác": [],
+            "sự": [
+                "tốt"
+            ],
+            "khoảng sân": [
+                "nhỏ",
+                "thực sự",
+                "thích thú"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chợ đêm": 1.0,
+            "cầu rồng": 1.0,
+            "chợ đêm cầu tình": 0.5,
+            "khu": 0.5,
+            "quầy hàng hải sản": 0.5,
+            "quầy hàng phi thực phẩm": 0.5,
+            "chợ thực phẩm": 0.5,
+            "gian hàng": 1.0,
+            "chỗ ngồi": 0.5,
+            "khu chợ": 0.5,
+            "hải sản": 0.5,
+            "bữa tối": 0.5,
+            "giá": 0.5,
+            "đồ ăn": 0.5,
+            "đồ uống": 0.5,
+            "nhà hàng ấm": 0.5,
+            "phương thức": 0.5,
+            "bóng": 0.5,
+            "đất nước": 0.5,
+            "trải nghiệm": 0.5,
+            "người dân địa phương": 0.5,
+            "quầy hàng": 0.5,
+            "bầu không khí": 0.5,
+            "bờ sông": 0.5,
+            "đồng hồ": 0.5,
+            "không khí": 0.5,
+            "lễ hội": 0.5,
+            "thức ăn": 0.5,
+            "sản phẩm": 0.5,
+            "rung cảm": 1.0,
+            "đối tác": 0.5,
+            "sự": 0.5,
+            "khoảng sân": 0.5
+        }
     },
     {
         "attraction_name": "Danang Night Market",
@@ -702,7 +1492,136 @@
             "https://www.tripadvisor.com/Attraction_Review-g186338-d188725-Reviews-Pimlico-London_England.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or60-Danang_Night_Market-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or50-Danang_Night_Market-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or50-Danang_Night_Market-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quầy hàng thực phẩm": 0.14137051824945956,
+            "người dân": -0.07754232548177242,
+            "bầu không khí": 0.9952432299032807,
+            "món ăn": 0.8256257814161169,
+            "đồ ăn thái": 0.6868846225552261,
+            "bia -": 0.9938936439575627,
+            "cầu rồng": 0.9384349528700113,
+            "trải nghiệm": 0.9952929434366524,
+            "cho đêm": 0.5765151027590036,
+            "mặt hàng": 0.991346878465265,
+            "bữa sáng": 0.5,
+            "bữa trưa": 0.5,
+            "địa điểm nghỉ dưỡng": 0.9814853940624744,
+            "nhà hàng": -0.6989137204363942,
+            "thức ăn": 0.9955893147853203,
+            "khu ẩm": -0.955591379199177,
+            "chai bia": 0.8863248499110341,
+            "đồ ăn": 0.5766817037947476,
+            "gà nướng": 0.5,
+            "đồ ăn đổ": 0.5,
+            "bãi biển": 0.6259032301604748,
+            "vị trí": 0.9033288541249931,
+            "gian hàng": 0.9944671270786785,
+            "ngồi đó": 0.5261249430477619,
+            "chợ đêm": 0.5,
+            "nhà hàng bẫy du": 0.5
+        },
+        "dicts_adj": {
+            "quầy hàng thực phẩm": [
+                "nhiều"
+            ],
+            "người dân": [],
+            "bầu không khí": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "món ăn": [
+                "ngon",
+                "ngon",
+                "nhiều"
+            ],
+            "đồ ăn thái": [
+                "đẹp",
+                "nhiều"
+            ],
+            "bia -": [],
+            "cầu rồng": [
+                "gần",
+                "khác"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "cho đêm": [
+                "đầu tiên"
+            ],
+            "mặt hàng": [
+                "gọn gàng"
+            ],
+            "bữa sáng": [],
+            "bữa trưa": [],
+            "địa điểm nghỉ dưỡng": [
+                "lớn"
+            ],
+            "nhà hàng": [
+                "đông đúc"
+            ],
+            "thức ăn": [
+                "sạch sẽ"
+            ],
+            "khu ẩm": [
+                "nhỏ"
+            ],
+            "chai bia": [
+                "nhẹ"
+            ],
+            "đồ ăn": [
+                "nhẹ"
+            ],
+            "gà nướng": [],
+            "đồ ăn đổ": [],
+            "bãi biển": [
+                "gần"
+            ],
+            "vị trí": [
+                "đủ",
+                "tốt"
+            ],
+            "gian hàng": [
+                "vui"
+            ],
+            "ngồi đó": [
+                "bận rộn",
+                "chắc chắn"
+            ],
+            "chợ đêm": [],
+            "nhà hàng bẫy du": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quầy hàng thực phẩm": 1.0,
+            "người dân": 0.5,
+            "bầu không khí": 0.5,
+            "món ăn": 1.5,
+            "đồ ăn thái": 1.0,
+            "bia -": 0.5,
+            "cầu rồng": 0.5,
+            "trải nghiệm": 0.5,
+            "cho đêm": 0.5,
+            "mặt hàng": 0.5,
+            "bữa sáng": 0.5,
+            "bữa trưa": 0.5,
+            "địa điểm nghỉ dưỡng": 0.5,
+            "nhà hàng": 0.5,
+            "thức ăn": 0.5,
+            "khu ẩm": 0.5,
+            "chai bia": 0.5,
+            "đồ ăn": 1.0,
+            "gà nướng": 0.5,
+            "đồ ăn đổ": 0.5,
+            "bãi biển": 0.5,
+            "vị trí": 0.5,
+            "gian hàng": 0.5,
+            "ngồi đó": 0.5,
+            "chợ đêm": 0.5,
+            "nhà hàng bẫy du": 0.5
+        }
     },
     {
         "attraction_name": "Danang Night Market",
@@ -825,7 +1744,134 @@
             "https://www.tripadvisor.com/Attraction_Review-g187147-d13385332-Reviews-Paris_Beauvais_Aeroport_Shuttle-Paris_Ile_de_France.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or70-Danang_Night_Market-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or60-Danang_Night_Market-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or60-Danang_Night_Market-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chợ đêm": 0.3106752615033959,
+            "chợ lắm": 0.5,
+            "cà phê": 0.9945955672301352,
+            "cửa hàng mua sắm": 0.9822305897250772,
+            "chợ trời": -0.8288536267355084,
+            "cây cầu": 0.5,
+            "bầu": 0.6868846225552261,
+            "không khí": 0.6085324846208096,
+            "khu chợ sôi": 0.9955243609147146,
+            "đồ uống": 0.992666014120914,
+            "món ăn": 0.17442652280442417,
+            "thực phẩm": 0.9934302271576598,
+            "người dân": 0.9954462402965873,
+            "đồ ăn": 0.8844041717238724,
+            "đồ uống địa phương": 0.9952689880738035,
+            "cửa hàng": 0.716305710375309,
+            "gian hàng": 0.7813671054900624,
+            "món khoai tây chiên phô mai ớt": 0.9947490899357945,
+            "món ăn nước": 0.9924148845020682,
+            "bia đắt": -0.9305221852846444,
+            "khu dân cư": 0.48118142038583755,
+            "dãy nhà": 0.9921064868103713
+        },
+        "dicts_adj": {
+            "chợ đêm": [
+                "giống",
+                "đẹp",
+                "phải"
+            ],
+            "chợ lắm": [],
+            "cà phê": [
+                "đẹp mắt",
+                "nổi tiếng"
+            ],
+            "cửa hàng mua sắm": [
+                "giống"
+            ],
+            "chợ trời": [
+                "nổi tiếng"
+            ],
+            "cây cầu": [],
+            "bầu": [
+                "nhiều"
+            ],
+            "không khí": [
+                "nhiều"
+            ],
+            "khu chợ sôi": [
+                "nhiều"
+            ],
+            "đồ uống": [
+                "Nhiều",
+                "tốt"
+            ],
+            "món ăn": [
+                "cũ",
+                "cũ",
+                "tuyệt vời"
+            ],
+            "thực phẩm": [],
+            "người dân": [
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "tuyệt vời",
+                "đông đúc",
+                "nhanh chóng"
+            ],
+            "đồ uống địa phương": [
+                "tuyệt vời"
+            ],
+            "cửa hàng": [
+                "gần",
+                "nhiều",
+                "nhỏ",
+                "nhiều",
+                "đỏ"
+            ],
+            "gian hàng": [
+                "nhiều",
+                "nhỏ",
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "món khoai tây chiên phô mai ớt": [
+                "tuyệt vời"
+            ],
+            "món ăn nước": [
+                "đỏ"
+            ],
+            "bia đắt": [
+                "đỏ"
+            ],
+            "khu dân cư": [
+                "cũ"
+            ],
+            "dãy nhà": [
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chợ đêm": 1.5,
+            "chợ lắm": 0.5,
+            "cà phê": 0.5,
+            "cửa hàng mua sắm": 0.5,
+            "chợ trời": 0.5,
+            "cây cầu": 0.5,
+            "bầu": 1.0,
+            "không khí": 1.0,
+            "khu chợ sôi": 0.5,
+            "đồ uống": 0.5,
+            "món ăn": 1.5,
+            "thực phẩm": 0.5,
+            "người dân": 0.5,
+            "đồ ăn": 1.0,
+            "đồ uống địa phương": 0.5,
+            "cửa hàng": 1.0,
+            "gian hàng": 1.0,
+            "món khoai tây chiên phô mai ớt": 0.5,
+            "món ăn nước": 0.5,
+            "bia đắt": 0.5,
+            "khu dân cư": 0.5,
+            "dãy nhà": 0.5
+        }
     },
     {
         "attraction_name": "Danang Night Market",
@@ -943,7 +1989,89 @@
             "https://www.tripadvisor.com/Attraction_Review-g45963-d104050-Reviews-Stratosphere_Tower-Las_Vegas_Nevada.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or80-Danang_Night_Market-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or70-Danang_Night_Market-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or70-Danang_Night_Market-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhà cung cấp": -0.976128208450973,
+            "bánh mì phở": 0.9953049429459497,
+            "burger đôi": 0.9924322991864756,
+            "không khí": -0.8648279951885343,
+            "quầy hàng": 0.7440953928453382,
+            "khu phức hợp": 0.5,
+            "mặt hàng mua sắm": 0.6133056618273258,
+            "áo": 0.8737692451104522,
+            "sơ mi quần short áo thun cà phê đồ ăn": 0.8737692451104522,
+            "đồ ăn": 0.010759549215435982,
+            "món tacos": 0.9812032484915107,
+            "món ăn": 0.9333841614425182,
+            "cửa hàng": 0.5,
+            "sản phẩm": 0.5,
+            "gian hàng": 0.6551438784226775,
+            "chuyến đi": 0.5
+        },
+        "dicts_adj": {
+            "nhà cung cấp": [
+                "sạch sẽ"
+            ],
+            "bánh mì phở": [
+                "tuyệt vời"
+            ],
+            "burger đôi": [
+                "ngon"
+            ],
+            "không khí": [
+                "ổn"
+            ],
+            "quầy hàng": [
+                "đủ"
+            ],
+            "khu phức hợp": [],
+            "mặt hàng mua sắm": [
+                "đông đúc"
+            ],
+            "áo": [
+                "đông đúc"
+            ],
+            "sơ mi quần short áo thun cà phê đồ ăn": [
+                "đông đúc"
+            ],
+            "đồ ăn": [
+                "tình cờ"
+            ],
+            "món tacos": [
+                "ngon"
+            ],
+            "món ăn": [
+                "thẳng",
+                "khác",
+                "tốt"
+            ],
+            "cửa hàng": [],
+            "sản phẩm": [],
+            "gian hàng": [
+                "trẻ"
+            ],
+            "chuyến đi": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhà cung cấp": 0.5,
+            "bánh mì phở": 0.5,
+            "burger đôi": 0.5,
+            "không khí": 0.5,
+            "quầy hàng": 1.0,
+            "khu phức hợp": 0.5,
+            "mặt hàng mua sắm": 0.5,
+            "áo": 0.5,
+            "sơ mi quần short áo thun cà phê đồ ăn": 0.5,
+            "đồ ăn": 0.5,
+            "món tacos": 0.5,
+            "món ăn": 0.5,
+            "cửa hàng": 0.5,
+            "sản phẩm": 0.5,
+            "gian hàng": 0.5,
+            "chuyến đi": 0.5
+        }
     },
     {
         "attraction_name": "Danang Night Market",
@@ -1061,7 +2189,156 @@
             "https://www.tripadvisor.com/Attraction_Review-g580303-d10499578-Reviews-Nikki_Beach_Mallorca-Magaluf_Calvia_Majorca_Balearic_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or90-Danang_Night_Market-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or80-Danang_Night_Market-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or80-Danang_Night_Market-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "món cá": 0.7870162129402161,
+            "gian hàng": -0.23816944588907063,
+            "chợ đêm": 0.6168839322247853,
+            "khoai tây chiên ngon": 0.9954554697615094,
+            "món ăn": 0.5034221821842948,
+            "quầy hàng": 0.5,
+            "quán ăn": 0.5279109291732311,
+            "ngôi nhà": 0.5,
+            "người dân": 0.9864879539236426,
+            "bữa ăn": 0.9857519528595731,
+            "thức ăn": 0.9927106533723418,
+            "cửa": 0.5,
+            "hàng": 0.5,
+            "bán đồ uống": 0.5,
+            "món tráng miệng": 0.5,
+            "phong cách xe": 0.5,
+            "bán đồ ăn": 0.5,
+            "chợ": 0.8737692451104522,
+            "ẩm thực ban đêm": 0.9954695424530655,
+            "bữa tối": -0.4328787187114358,
+            "cà": 0.5,
+            "phê": 0.5,
+            "bia rượu sake": 0.5,
+            "bánh mì kẹp thịt": 0.5,
+            "bãi biển": 0.9805992492474616,
+            "nhà hàng": 0.011161658680066466,
+            "khán đài": 0.5878304876387119,
+            "món": 0.5,
+            "da ếch chiên": 0.5,
+            "khu chợ": 0.9907224348280579,
+            "bánh ngọt": 0.9953553341911174,
+            "bánh macaron": 0.9954586593376007,
+            "bầu không khí": 0.9765200936235487
+        },
+        "dicts_adj": {
+            "món cá": [],
+            "gian hàng": [
+                "khác"
+            ],
+            "chợ đêm": [
+                "khác",
+                "ngon"
+            ],
+            "khoai tây chiên ngon": [],
+            "món ăn": [
+                "ngon",
+                "khác",
+                "ngon"
+            ],
+            "quầy hàng": [],
+            "quán ăn": [
+                "nhỏ"
+            ],
+            "ngôi nhà": [],
+            "người dân": [
+                "ổn"
+            ],
+            "bữa ăn": [
+                "tuyệt vời",
+                "liên tiếp"
+            ],
+            "thức ăn": [
+                "ngon",
+                "đầu tiên"
+            ],
+            "cửa": [],
+            "hàng": [],
+            "bán đồ uống": [],
+            "món tráng miệng": [],
+            "phong cách xe": [],
+            "bán đồ ăn": [],
+            "chợ": [
+                "nhiều"
+            ],
+            "ẩm thực ban đêm": [
+                "nhiều"
+            ],
+            "bữa tối": [
+                "muộn"
+            ],
+            "cà": [],
+            "phê": [],
+            "bia rượu sake": [],
+            "bánh mì kẹp thịt": [],
+            "bãi biển": [
+                "tuyệt"
+            ],
+            "nhà hàng": [
+                "khác",
+                "ngon"
+            ],
+            "khán đài": [
+                "nhiều"
+            ],
+            "món": [],
+            "da ếch chiên": [],
+            "khu chợ": [
+                "tình cờ",
+                "nhỏ",
+                "dễ thương"
+            ],
+            "bánh ngọt": [
+                "tuyệt vời",
+                "ngon"
+            ],
+            "bánh macaron": [
+                "tuyệt vời",
+                "ngon"
+            ],
+            "bầu không khí": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "món cá": 0.5,
+            "gian hàng": 1.0,
+            "chợ đêm": 1.5,
+            "khoai tây chiên ngon": 0.5,
+            "món ăn": 1.0,
+            "quầy hàng": 0.5,
+            "quán ăn": 0.5,
+            "ngôi nhà": 0.5,
+            "người dân": 0.5,
+            "bữa ăn": 0.5,
+            "thức ăn": 0.5,
+            "cửa": 0.5,
+            "hàng": 0.5,
+            "bán đồ uống": 0.5,
+            "món tráng miệng": 0.5,
+            "phong cách xe": 0.5,
+            "bán đồ ăn": 0.5,
+            "chợ": 0.5,
+            "ẩm thực ban đêm": 0.5,
+            "bữa tối": 0.5,
+            "cà": 0.5,
+            "phê": 0.5,
+            "bia rượu sake": 0.5,
+            "bánh mì kẹp thịt": 0.5,
+            "bãi biển": 0.5,
+            "nhà hàng": 0.5,
+            "khán đài": 0.5,
+            "món": 0.5,
+            "da ếch chiên": 0.5,
+            "khu chợ": 0.5,
+            "bánh ngọt": 0.5,
+            "bánh macaron": 0.5,
+            "bầu không khí": 0.5
+        }
     },
     {
         "attraction_name": "Danang Night Market",
@@ -1181,7 +2458,197 @@
             "https://www.tripadvisor.com/Attraction_Review-g285710-d286157-Reviews-Lake_Morskie_Oko-Tatra_National_Park_Lesser_Poland_Province_Southern_Poland.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or100-Danang_Night_Market-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or90-Danang_Night_Market-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or90-Danang_Night_Market-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chợ đêm": 0.8124686307196196,
+            "thực phẩm quốc": 0.5519571090117097,
+            "đồ uống": 0.9955662079155445,
+            "cửa hàng rượu": 0.9857917022891343,
+            "bột mì": 0.9717561884317547,
+            "món ăn": 0.9954198578052456,
+            "khu": 0.5,
+            "vực an": 0.5,
+            "thức ăn": 0.6868846225552261,
+            "rung cảm": 0.7476800322183408,
+            "món ăn địa": 0.9904327827971429,
+            "gian hàng": 0.6214036084711552,
+            "nhân viên pha chế": 0.9586992813274264,
+            "thị trấn": 0.5,
+            "quán bar": 0.5,
+            "khu du lịch": 0.9954648843267933,
+            "nguyên liệu": 0.7236537151038647,
+            "quầy hàng": 0.5,
+            "khẩu vị ẩm thực": 0.5,
+            "bầu không khí": 0.9939132871804759,
+            "gian hàng bánh xèo": 0.9950755988829769,
+            "bánh": 0.5,
+            "tôm tươi": 0.5,
+            "đồ ăn thái": 0.5,
+            "bánh ngọt kiểu pháp": 0.5,
+            "bánh xèo": 0.5,
+            "bánh quế": 0.9955537749337964,
+            "xích khoai tây chiên": 0.9949504969408736,
+            "kem của": 0.9903166899457574,
+            "nhạc sống": 0.9917340266983956,
+            "khu an": 0.8737692451104522,
+            "thực phẩm": 0.5,
+            "bít tết phô": 0.5,
+            "chợ nằm": 0.8737692451104522,
+            "bãi biển": 0.9520048415288329,
+            "đồ ăn": 0.8128015034211179,
+            "bữa ăn": 0.5106997862458229,
+            "chợ đêm an": 0.8737692451104522,
+            "lịch trình": 0.5340885296463966
+        },
+        "dicts_adj": {
+            "chợ đêm": [
+                "nhỏ",
+                "tuyệt vời",
+                "nhiều",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "thực phẩm quốc": [
+                "quốc tế"
+            ],
+            "đồ uống": [
+                "tuyệt vời"
+            ],
+            "cửa hàng rượu": [
+                "thú vị"
+            ],
+            "bột mì": [
+                "ngon",
+                "tươi"
+            ],
+            "món ăn": [
+                "ngon",
+                "tươi",
+                "tuyệt vời",
+                "nhiều",
+                "ngon"
+            ],
+            "khu": [],
+            "vực an": [],
+            "thức ăn": [
+                "tuyệt vời"
+            ],
+            "rung cảm": [
+                "tuyệt vời"
+            ],
+            "món ăn địa": [
+                "nhiều",
+                "thú vị"
+            ],
+            "gian hàng": [
+                "giỏi"
+            ],
+            "nhân viên pha chế": [
+                "giỏi"
+            ],
+            "thị trấn": [],
+            "quán bar": [],
+            "khu du lịch": [
+                "tuyệt vời"
+            ],
+            "nguyên liệu": [
+                "cao"
+            ],
+            "quầy hàng": [],
+            "khẩu vị ẩm thực": [],
+            "bầu không khí": [
+                "sạch sẽ",
+                "cổ kính"
+            ],
+            "gian hàng bánh xèo": [
+                "đặc biệt"
+            ],
+            "bánh": [],
+            "tôm tươi": [],
+            "đồ ăn thái": [],
+            "bánh ngọt kiểu pháp": [],
+            "bánh xèo": [],
+            "bánh quế": [
+                "ngon"
+            ],
+            "xích khoai tây chiên": [
+                "ngon"
+            ],
+            "kem của": [
+                "ngon"
+            ],
+            "nhạc sống": [],
+            "khu an": [
+                "tuyệt vời"
+            ],
+            "thực phẩm": [],
+            "bít tết phô": [],
+            "chợ nằm": [
+                "gần"
+            ],
+            "bãi biển": [
+                "đa dạng"
+            ],
+            "đồ ăn": [
+                "ngon",
+                "đặc biệt",
+                "ngon",
+                "rẻ",
+                "đông"
+            ],
+            "bữa ăn": [
+                "khuya",
+                "tốt"
+            ],
+            "chợ đêm an": [
+                "ngon",
+                "đặc biệt"
+            ],
+            "lịch trình": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chợ đêm": 2.5,
+            "thực phẩm quốc": 0.5,
+            "đồ uống": 0.5,
+            "cửa hàng rượu": 0.5,
+            "bột mì": 0.5,
+            "món ăn": 1.0,
+            "khu": 0.5,
+            "vực an": 0.5,
+            "thức ăn": 1.0,
+            "rung cảm": 1.0,
+            "món ăn địa": 0.5,
+            "gian hàng": 0.5,
+            "nhân viên pha chế": 0.5,
+            "thị trấn": 0.5,
+            "quán bar": 0.5,
+            "khu du lịch": 0.5,
+            "nguyên liệu": 0.5,
+            "quầy hàng": 0.5,
+            "khẩu vị ẩm thực": 0.5,
+            "bầu không khí": 0.5,
+            "gian hàng bánh xèo": 0.5,
+            "bánh": 0.5,
+            "tôm tươi": 0.5,
+            "đồ ăn thái": 0.5,
+            "bánh ngọt kiểu pháp": 0.5,
+            "bánh xèo": 0.5,
+            "bánh quế": 0.5,
+            "xích khoai tây chiên": 0.5,
+            "kem của": 0.5,
+            "nhạc sống": 0.5,
+            "khu an": 0.5,
+            "thực phẩm": 0.5,
+            "bít tết phô": 0.5,
+            "chợ nằm": 0.5,
+            "bãi biển": 0.5,
+            "đồ ăn": 1.5,
+            "bữa ăn": 0.5,
+            "chợ đêm an": 1,
+            "lịch trình": 1
+        }
     },
     {
         "attraction_name": "Danang Night Market",
@@ -1287,6 +2754,26 @@
             "https://www.tripadvisor.com/Attraction_Review-g33252-d107065-Reviews-The_Roxy-West_Hollywood_California.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or100-Danang_Night_Market-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14086698-Reviews-or100-Danang_Night_Market-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chợ đêm": -0.9714685862418264,
+            "món ăn đồ uống": 0.9955851720296778
+        },
+        "dicts_adj": {
+            "chợ đêm": [
+                "đóÍt"
+            ],
+            "món ăn đồ uống": [
+                "vui vẻ",
+                "nhiều",
+                "ngon"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chợ đêm": 1,
+            "món ăn đồ uống": 1
+        }
     }
 ]

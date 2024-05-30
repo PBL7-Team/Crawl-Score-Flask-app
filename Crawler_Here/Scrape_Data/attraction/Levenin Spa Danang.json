@@ -99,6 +99,145 @@
             "https://www.tripadvisor.com/Attraction_Review-g41773-d8287676-Reviews-White_Horse_Beach-Plymouth_Massachusetts.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d25133671-Reviews-Levenin_Spa_Danang-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d25133671-Reviews-Levenin_Spa_Danang-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ mát-xa tuyệt vời": 0.995013992767781,
+            "áp lực": 0.9955181098193862,
+            "cả": -0.9716557876672596,
+            "đá": -0.975492712459527,
+            "ngũ spa": 0.9955774953123182,
+            "sảnh": 0.9944382456887979,
+            "lễ tân": 0.9936601759400219,
+            "nhân viên": 0.35147696381094506,
+            "phòng massage": 0.5,
+            "lực massage": 0.9945866238558665,
+            "không": 0.5,
+            "gian dịch vụ": 0.5,
+            "trải nghiệm": 0.8737692451104522,
+            "nhân viên mát xa": 0.9955185058061033,
+            "chiếc": 0.5182765796780586,
+            "chuông": 0.42612134106457233,
+            "quần áo": 0.9930757790571079,
+            "món tráng miệng": 0.9955137727665715,
+            "dịch vụ": 0.5006048145471141,
+            "dịch vụ gội": -0.9747926918789744,
+            "uốn tóc": -0.17800065875053406,
+            "sấy": -0.1761335025075823,
+            "team spa": 0.991085042594932,
+            "ngày tết": 0.9408990880474448,
+            "spa": 0.989139037206769,
+            "phồng tóc": 0.5
+        },
+        "dicts_adj": {
+            "dịch vụ mát-xa tuyệt vời": [
+                "nhất"
+            ],
+            "áp lực": [
+                "hoàn hảo",
+                "thoải mái",
+                "chuyên nghiệp"
+            ],
+            "cả": [
+                "nóng"
+            ],
+            "đá": [
+                "nóng"
+            ],
+            "ngũ spa": [
+                "nhiều",
+                "nhiều",
+                "nhiều",
+                "nhiều"
+            ],
+            "sảnh": [
+                "chu đáo",
+                "tỉ mỉ"
+            ],
+            "lễ tân": [
+                "chu đáo",
+                "tỉ mỉ"
+            ],
+            "nhân viên": [
+                "chu đáo",
+                "tỉ mỉ",
+                "ngon",
+                "khác",
+                "khác"
+            ],
+            "phòng massage": [],
+            "lực massage": [
+                "đầu tiên",
+                "tốt"
+            ],
+            "không": [],
+            "gian dịch vụ": [],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "chuyên nghiệp"
+            ],
+            "nhân viên mát xa": [
+                "tốt"
+            ],
+            "chiếc": [
+                "nhỏ"
+            ],
+            "chuông": [
+                "nhỏ"
+            ],
+            "quần áo": [
+                "ngon"
+            ],
+            "món tráng miệng": [
+                "ngon"
+            ],
+            "dịch vụ": [
+                "xuất sắc",
+                "hài lòng",
+                "hài lòng"
+            ],
+            "dịch vụ gội": [],
+            "uốn tóc": [
+                "khác"
+            ],
+            "sấy": [
+                "khác"
+            ],
+            "team spa": [
+                "rõ"
+            ],
+            "ngày tết": [],
+            "spa": [],
+            "phồng tóc": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ mát-xa tuyệt vời": 1,
+            "áp lực": 1,
+            "cả": 1,
+            "đá": 1,
+            "ngũ spa": 5.0,
+            "sảnh": 1,
+            "lễ tân": 1,
+            "nhân viên": 6.5,
+            "phòng massage": 1,
+            "lực massage": 1,
+            "không": 1,
+            "gian dịch vụ": 1,
+            "trải nghiệm": 1.5,
+            "nhân viên mát xa": 1.5,
+            "chiếc": 1.5,
+            "chuông": 1.5,
+            "quần áo": 1.5,
+            "món tráng miệng": 1.5,
+            "dịch vụ": 3.0,
+            "dịch vụ gội": 1.5,
+            "uốn tóc": 1.5,
+            "sấy": 3.0,
+            "team spa": 1.5,
+            "ngày tết": 1.5,
+            "spa": 1.5,
+            "phồng tóc": 1.5
+        }
     }
 ]

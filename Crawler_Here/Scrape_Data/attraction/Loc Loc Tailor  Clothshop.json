@@ -118,7 +118,161 @@
             "https://www.tripadvisor.com/Attraction_Review-g56003-d14929132-Reviews-Gerald_D_Hines_Waterwall_Park-Houston_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513895-Reviews-or10-Loc_Loc_Tailor_Clothshop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513895-Reviews-Loc_Loc_Tailor_Clothshop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513895-Reviews-Loc_Loc_Tailor_Clothshop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nghề may": 0.6123891323804855,
+            "quần áo": 0.9954626098042354,
+            "bộ áo": 0.9798225695461346,
+            "đồ ngủ": 0.991794940084219,
+            "nhà trọ": 0.988685212796554,
+            "chiếc": 0.9452782280277461,
+            "quần vải lanh": 0.8294554892927408,
+            "áo vải lanh": 0.925381928216666,
+            "chất liệu": 0.9910479157697409,
+            "món đồ": 0.7458198289969005,
+            "xe đạp": 0.5006103804334998,
+            "cửa hàng vải": 0.543292430229485,
+            "giá cả": -0.8618618128821254,
+            "chiếc váy": 0.9955505270045251,
+            "tiệm may": 0.9955476145260036,
+            "cửa hàng": 0.5526074482593686,
+            "váy": 0.9691826608031988,
+            "bộ phụ kiện": 0.5,
+            "dịch vụ": 0.8737692451104522,
+            "trang phục": 0.9941838203230873,
+            "găng tay": 0.5,
+            "bộ": 0.5,
+            "áo sơ mi": 0.5
+        },
+        "dicts_adj": {
+            "nghề may": [
+                "đầu tiên",
+                "nhiều"
+            ],
+            "quần áo": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "hài lòng"
+            ],
+            "bộ áo": [
+                "Eli bạn",
+                "tuyệt vời",
+                "hợp lý",
+                "hợp lý"
+            ],
+            "đồ ngủ": [
+                "sẵn sàng",
+                "sẵn sàng"
+            ],
+            "nhà trọ": [
+                "vui",
+                "vui"
+            ],
+            "chiếc": [
+                "hợp lý",
+                "hợp lý",
+                "hợp lý",
+                "hợp lý"
+            ],
+            "quần vải lanh": [
+                "hợp lý",
+                "hợp lý"
+            ],
+            "áo vải lanh": [
+                "hợp lý",
+                "hợp lý"
+            ],
+            "chất liệu": [
+                "cao cấp",
+                "cao cấp"
+            ],
+            "món đồ": [],
+            "xe đạp": [
+                "nhiều",
+                "hơn",
+                "nhiều",
+                "hơn"
+            ],
+            "cửa hàng vải": [
+                "nhiều",
+                "hơn",
+                "nhiều",
+                "hơn"
+            ],
+            "giá cả": [
+                "đắt",
+                "đơn giản",
+                "đắt",
+                "đơn giản"
+            ],
+            "chiếc váy": [
+                "tuyệt vời",
+                "thực sự",
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "tiệm may": [
+                "thực sự",
+                "tốt",
+                "rẻ",
+                "thực sự",
+                "tốt",
+                "rẻ"
+            ],
+            "cửa hàng": [
+                "khác",
+                "thoải mái",
+                "nhất",
+                "thực sự",
+                "tốt",
+                "khác",
+                "thoải mái",
+                "nhất",
+                "thực sự",
+                "tốt"
+            ],
+            "váy": [
+                "hợp lý"
+            ],
+            "bộ phụ kiện": [],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "trang phục": [
+                "đẹp",
+                "vừa vặn"
+            ],
+            "găng tay": [],
+            "bộ": [],
+            "áo sơ mi": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nghề may": 1,
+            "quần áo": 1,
+            "bộ áo": 3,
+            "đồ ngủ": 2,
+            "nhà trọ": 2,
+            "chiếc": 2,
+            "quần vải lanh": 2,
+            "áo vải lanh": 2,
+            "chất liệu": 2,
+            "món đồ": 2,
+            "xe đạp": 2.5,
+            "cửa hàng vải": 2.5,
+            "giá cả": 2.5,
+            "chiếc váy": 2.5,
+            "tiệm may": 3.0,
+            "cửa hàng": 3.0,
+            "váy": 1,
+            "bộ phụ kiện": 1,
+            "dịch vụ": 1,
+            "trang phục": 1,
+            "găng tay": 2,
+            "bộ": 1,
+            "áo sơ mi": 1
+        }
     },
     {
         "attraction_name": "Loc Loc Tailor & Clothshop",
@@ -243,7 +397,64 @@
             "https://www.tripadvisor.com/Attraction_Review-g616016-d3368157-Reviews-Nungwi_Mnarani_Aquarium-Nungwi_Zanzibar_Island_Zanzibar_Archipelago.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513895-Reviews-or20-Loc_Loc_Tailor_Clothshop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513895-Reviews-or10-Loc_Loc_Tailor_Clothshop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513895-Reviews-or10-Loc_Loc_Tailor_Clothshop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chiếc": 0.5,
+            "quần vải lanh": 0.5,
+            "thợ may": 0.9955659513361752,
+            "thợ may lộc": 0.9637497675139457,
+            "bộ": 0.9644040498921337,
+            "quần áo": 0.6621318844069416,
+            "trải nghiệm": 0.9868780693504959,
+            "tiệm may": 0.9949995428323746,
+            "dịch vụ": 0.9955264872405678
+        },
+        "dicts_adj": {
+            "chiếc": [],
+            "quần vải lanh": [],
+            "thợ may": [
+                "tuyệt vời"
+            ],
+            "thợ may lộc": [
+                "đúng"
+            ],
+            "bộ": [
+                "nhanh chóng",
+                "rẻ",
+                "nhất"
+            ],
+            "quần áo": [
+                "nhanh chóng",
+                "rẻ",
+                "nhất",
+                "đầu tiên",
+                "đầu tiên"
+            ],
+            "trải nghiệm": [
+                "đầu tiên"
+            ],
+            "tiệm may": [
+                "tuyệt vời",
+                "cao",
+                "bất kỳ"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chiếc": 1,
+            "quần vải lanh": 1,
+            "thợ may": 1,
+            "thợ may lộc": 1,
+            "bộ": 1,
+            "quần áo": 3,
+            "trải nghiệm": 1,
+            "tiệm may": 1,
+            "dịch vụ": 1
+        }
     },
     {
         "attraction_name": "Loc Loc Tailor & Clothshop",
@@ -375,7 +586,83 @@
             "https://www.tripadvisor.com/Attraction_Review-g60856-d109330-Reviews-Lake_Ouachita-Hot_Springs_Arkansas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513895-Reviews-or30-Loc_Loc_Tailor_Clothshop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513895-Reviews-or20-Loc_Loc_Tailor_Clothshop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513895-Reviews-or20-Loc_Loc_Tailor_Clothshop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "áo sơ mi": 0.9094350449740887,
+            "quần áo": 0.9937241204170277,
+            "buổi": 0.9955490326780515,
+            "thử đồ": 0.9934019212572215,
+            "tiệm may": 0.9896611523581669,
+            "chiếc": 0.5,
+            "váy lụa": 0.5622941508918302,
+            "khăn ren": 0.8577861441299319,
+            "cửa hàng": 0.5895027741789818,
+            "áo sơ mi vải": 0.9606932466849685,
+            "loc": 0.5,
+            "đội": 0.5,
+            "thợ may": 0.5
+        },
+        "dicts_adj": {
+            "áo sơ mi": [],
+            "quần áo": [
+                "nhanh",
+                "thực sự",
+                "đẹp",
+                "tốt"
+            ],
+            "buổi": [
+                "thực sự",
+                "đẹp",
+                "tốt"
+            ],
+            "thử đồ": [
+                "thực sự",
+                "đẹp",
+                "tốt"
+            ],
+            "tiệm may": [
+                "hợp lý"
+            ],
+            "chiếc": [],
+            "váy lụa": [
+                "dài",
+                "riêng",
+                "thực sự",
+                "hài lòng"
+            ],
+            "khăn ren": [
+                "đen",
+                "tại chỗ"
+            ],
+            "cửa hàng": [
+                "may"
+            ],
+            "áo sơ mi vải": [
+                "đầy đủ",
+                "thực sự",
+                "hài lòng"
+            ],
+            "loc": [],
+            "đội": [],
+            "thợ may": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "áo sơ mi": 1,
+            "quần áo": 1,
+            "buổi": 1,
+            "thử đồ": 1,
+            "tiệm may": 1,
+            "chiếc": 1,
+            "váy lụa": 2,
+            "khăn ren": 1,
+            "cửa hàng": 1,
+            "áo sơ mi vải": 1,
+            "loc": 1,
+            "đội": 1,
+            "thợ may": 1
+        }
     },
     {
         "attraction_name": "Loc Loc Tailor & Clothshop",
@@ -501,7 +788,28 @@
             "https://www.tripadvisor.com/Attraction_Review-g187833-d198964-Reviews-Menaggio-Lake_Como_Lombardy.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513895-Reviews-or40-Loc_Loc_Tailor_Clothshop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513895-Reviews-or30-Loc_Loc_Tailor_Clothshop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513895-Reviews-or30-Loc_Loc_Tailor_Clothshop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa hàng": 0.9952680593705736,
+            "khách sạn": 0.9953907941235229
+        },
+        "dicts_adj": {
+            "cửa hàng": [
+                "tuyệt vời",
+                "giống",
+                "đầu tiên",
+                "chính xác"
+            ],
+            "khách sạn": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa hàng": 1,
+            "khách sạn": 1
+        }
     },
     {
         "attraction_name": "Loc Loc Tailor & Clothshop",
@@ -629,7 +937,82 @@
             "https://www.tripadvisor.com/Attraction_Review-g54371-d5828775-Reviews-Cherry_Grove_Beach-North_Myrtle_Beach_South_Carolina.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513895-Reviews-or50-Loc_Loc_Tailor_Clothshop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513895-Reviews-or40-Loc_Loc_Tailor_Clothshop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513895-Reviews-or40-Loc_Loc_Tailor_Clothshop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ vest": 0.8530580354854465,
+            "dịch vụ": 0.9956044759019278,
+            "bộ váy": 0.5,
+            "áo": 0.5,
+            "giá cả": 0.9938218170427717,
+            "cửa hàng": 0.7804721585707739,
+            "loại vải": 0.9906066618859768,
+            "bộ đồ": 0.637499250471592,
+            "hội an": 0.8737692451104522,
+            "thợ may lộc": 0.8737692451104522,
+            "chất liệu": 0.9880275983596221,
+            "bộ": 0.9946279233554378,
+            "vest áo sơ mi": 0.9931253999238834
+        },
+        "dicts_adj": {
+            "bộ vest": [
+                "cuối cùng"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "bộ váy": [],
+            "áo": [],
+            "giá cả": [
+                "tốt"
+            ],
+            "cửa hàng": [
+                "có thể",
+                "chắc chắn",
+                "khác",
+                "nhất",
+                "riêng"
+            ],
+            "loại vải": [
+                "hơn"
+            ],
+            "bộ đồ": [
+                "riêng"
+            ],
+            "hội an": [
+                "nhiều",
+                "tuyệt vời",
+                "sớm"
+            ],
+            "thợ may lộc": [
+                "nhiều",
+                "tuyệt vời",
+                "sớm"
+            ],
+            "chất liệu": [],
+            "bộ": [
+                "tốt"
+            ],
+            "vest áo sơ mi": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ vest": 1,
+            "dịch vụ": 1,
+            "bộ váy": 1,
+            "áo": 1,
+            "giá cả": 1,
+            "cửa hàng": 2,
+            "loại vải": 1,
+            "bộ đồ": 1,
+            "hội an": 1,
+            "thợ may lộc": 1,
+            "chất liệu": 1,
+            "bộ": 1,
+            "vest áo sơ mi": 1
+        }
     },
     {
         "attraction_name": "Loc Loc Tailor & Clothshop",
@@ -737,6 +1120,69 @@
             "https://www.tripadvisor.com/Attraction_Review-g656571-d12688793-Reviews-Gramvousa_Beach-Gramvousa_Chania_Prefecture_Crete.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513895-Reviews-or50-Loc_Loc_Tailor_Clothshop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513895-Reviews-or50-Loc_Loc_Tailor_Clothshop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.6651408996840473,
+            "giá cả": 0.5447470219805837,
+            "thợ may": 0.9759503998793662,
+            "tâm trạng": 0.9955084942630492,
+            "bộ": 0.9938170930254273,
+            "vest": 0.9931393794249743,
+            "áo sơ mi": -0.3588814989974101,
+            "quần dài": -0.323257505428046,
+            "mua sắm quần áo": 0.951605774462223
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tuyệt vời",
+                "tốt",
+                "nhanh chóng",
+                "tốt"
+            ],
+            "giá cả": [
+                "cao",
+                "phải chăng"
+            ],
+            "thợ may": [
+                "đơn giản"
+            ],
+            "tâm trạng": [
+                "nhiều",
+                "tốt",
+                "vui"
+            ],
+            "bộ": [
+                "vui"
+            ],
+            "vest": [
+                "vui"
+            ],
+            "áo sơ mi": [
+                "khác",
+                "nhiều",
+                "khác"
+            ],
+            "quần dài": [
+                "khác",
+                "nhiều"
+            ],
+            "mua sắm quần áo": [
+                "Chắc chắn",
+                "cao"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 1.5,
+            "giá cả": 1.5,
+            "thợ may": 0.5,
+            "tâm trạng": 0.5,
+            "bộ": 0.5,
+            "vest": 0.5,
+            "áo sơ mi": 0.5,
+            "quần dài": 0.5,
+            "mua sắm quần áo": 0.5
+        }
     }
 ]

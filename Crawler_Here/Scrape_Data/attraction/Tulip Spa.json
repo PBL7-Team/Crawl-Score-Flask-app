@@ -89,6 +89,55 @@
             "https://www.tripadvisor.com/Attraction_Review-g52970-d2588552-Reviews-Tellus360-Lancaster_Lancaster_County_Pennsylvania.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g13172842-d15804363-Reviews-Tulip_Spa-Ham_Tien_Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g13172842-d15804363-Reviews-Tulip_Spa-Ham_Tien_Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhà trị liệu mát-xa cho": -0.4576355470344424,
+            "giải phẫu": 0.5285413097590208,
+            "mát-xa và": -0.9438519147224724,
+            "chuyến đi": 0.9949214028893039,
+            "thái độ": 0.9955509174615145,
+            "trái cây": 0.5155499313026667,
+            "dịch vụ": 0.9866549288854003,
+            "đóng chai": -0.950607081875205
+        },
+        "dicts_adj": {
+            "nhà trị liệu mát-xa cho": [],
+            "giải phẫu": [],
+            "mát-xa và": [
+                "đỏ"
+            ],
+            "chuyến đi": [
+                "mát",
+                "xa",
+                "tốt",
+                "tốt"
+            ],
+            "thái độ": [
+                "gần",
+                "đúng"
+            ],
+            "trái cây": [
+                "cuối cùng"
+            ],
+            "dịch vụ": [
+                "dễ chịu",
+                "hợp lý"
+            ],
+            "đóng chai": [
+                "lạnh"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhà trị liệu mát-xa cho": 2,
+            "giải phẫu": 2,
+            "mát-xa và": 2,
+            "chuyến đi": 1.5,
+            "thái độ": 1.5,
+            "trái cây": 2.5,
+            "dịch vụ": 1,
+            "đóng chai": 1
+        }
     }
 ]

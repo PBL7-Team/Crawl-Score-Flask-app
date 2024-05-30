@@ -71,7 +71,199 @@
             "https://www.tripadvisor.com/Attraction_Review-g3534325-d150627-Reviews-Disney_Castaway_Cay-Sandy_Point_Great_Abaco_Island_Abaco_Islands_Out_Islands_Baha.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g737086-d12250596-Reviews-or10-Tram_Chim_National_Park-Cao_Lanh_Dong_Thap_Province_Mekong_Delta.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g737086-d12250596-Reviews-Tram_Chim_National_Park-Cao_Lanh_Dong_Thap_Province_Mekong_Delta.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g737086-d12250596-Reviews-Tram_Chim_National_Park-Cao_Lanh_Dong_Thap_Province_Mekong_Delta.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "công viên": 0.9945548980031163,
+            "thuyền": 0.2433410994708538,
+            "năng lượng mặt": 0.49226571060717106,
+            "chiếc thuyền máy": -0.975104687619023,
+            "loài chim": -0.11818667489569634,
+            "ngắm chim": 0.5,
+            "người": 0.8737692451104522,
+            "lái thuyền": 0.5034307278692722,
+            "nhân viên": -0.8193350285291672,
+            "khu ramsar": -0.9720484260469675,
+            "thiên nhiên": 0.9953962612198666,
+            "người dân địa phương": 0.9625179953873158,
+            "tiện nghi": 0.5,
+            "thực phẩm đóng": 0.5,
+            "quán ăn": 0.3589581288397312,
+            "thuyền năng lượng": 0.8003964039186636,
+            "thuyền gỗ": 0.9314217719559869,
+            "hệ sinh thái": 0.5013668946921825,
+            "thuyền máy": 0.5,
+            "tràm chim": 0.8737692451104522,
+            "chuyến đi": 0.9807388723129407,
+            "chuyến tham": 0.6295763317029923,
+            "bẫy du lịch": 0.5,
+            "thuyền năng lượng mặt": 0.9505946058779955,
+            "chuyến tham quan công viên": -0.9630434582941234,
+            "khu bảo tồn": 0.8737692451104522,
+            "chuyến tham quan": 0.1425781911239028,
+            "đầm lầy": 0.5,
+            "sinh vật hoang": 0.5089577399194241,
+            "khu": 0.5,
+            "giá tour": 0.7625743662938476,
+            "điên điển": 0.9942037124419585,
+            "cao lanh": 0.9008338027633727,
+            "tam nông": 0.48546581342816353,
+            "kỳ nghỉ": 0.9955987188732252,
+            "công viên quốc gia": -0.1952361036092043
+        },
+        "dicts_adj": {
+            "công viên": [
+                "xinh đẹp",
+                "ngắn ngủi",
+                "nhiều",
+                "hơn"
+            ],
+            "thuyền": [
+                "yên tĩnh",
+                "đơn giản"
+            ],
+            "năng lượng mặt": [
+                "yên tĩnh",
+                "đơn giản"
+            ],
+            "chiếc thuyền máy": [
+                "ồn ào"
+            ],
+            "loài chim": [
+                "tốt",
+                "quý hiếm",
+                "hơn"
+            ],
+            "ngắm chim": [],
+            "người": [
+                "nhanh"
+            ],
+            "lái thuyền": [
+                "nhanh"
+            ],
+            "nhân viên": [
+                "ít"
+            ],
+            "khu ramsar": [],
+            "thiên nhiên": [
+                "tuyệt vời"
+            ],
+            "người dân địa phương": [],
+            "tiện nghi": [],
+            "thực phẩm đóng": [],
+            "quán ăn": [
+                "Nhiều"
+            ],
+            "thuyền năng lượng": [
+                "ồn ào",
+                "ồn ào"
+            ],
+            "thuyền gỗ": [
+                "ồn ào",
+                "ồn ào",
+                "ồn ào"
+            ],
+            "hệ sinh thái": [
+                "ồn ào",
+                "ồn ào",
+                "ồn ào"
+            ],
+            "thuyền máy": [],
+            "tràm chim": [
+                "nhiều",
+                "hơn",
+                "nhiều",
+                "hơn",
+                "đông",
+                "nhiều",
+                "hơn"
+            ],
+            "chuyến đi": [
+                "dài",
+                "nhiều",
+                "dài",
+                "nhiều",
+                "dài",
+                "nhiều"
+            ],
+            "chuyến tham": [
+                "chính xác",
+                "lộ trình"
+            ],
+            "bẫy du lịch": [],
+            "thuyền năng lượng mặt": [
+                "ồn ào"
+            ],
+            "chuyến tham quan công viên": [],
+            "khu bảo tồn": [
+                "vắng"
+            ],
+            "chuyến tham quan": [
+                "nhỏ",
+                "đông"
+            ],
+            "đầm lầy": [],
+            "sinh vật hoang": [
+                "hoang dã",
+                "nhiều"
+            ],
+            "khu": [],
+            "giá tour": [],
+            "điên điển": [],
+            "cao lanh": [
+                "To"
+            ],
+            "tam nông": [
+                "to"
+            ],
+            "kỳ nghỉ": [
+                "vui",
+                "mộc mạc",
+                "tuyệt vời"
+            ],
+            "công viên quốc gia": [
+                "cao"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "công viên": 0.5,
+            "thuyền": 1.0,
+            "năng lượng mặt": 0.5,
+            "chiếc thuyền máy": 0.5,
+            "loài chim": 1.0,
+            "ngắm chim": 0.5,
+            "người": 0.5,
+            "lái thuyền": 0.5,
+            "nhân viên": 0.5,
+            "khu ramsar": 0.5,
+            "thiên nhiên": 0.5,
+            "người dân địa phương": 0.5,
+            "tiện nghi": 0.5,
+            "thực phẩm đóng": 0.5,
+            "quán ăn": 0.5,
+            "thuyền năng lượng": 1.5,
+            "thuyền gỗ": 1.5,
+            "hệ sinh thái": 1.5,
+            "thuyền máy": 1.5,
+            "tràm chim": 2.0,
+            "chuyến đi": 1.5,
+            "chuyến tham": 1.0,
+            "bẫy du lịch": 0.5,
+            "thuyền năng lượng mặt": 0.5,
+            "chuyến tham quan công viên": 0.5,
+            "khu bảo tồn": 0.5,
+            "chuyến tham quan": 0.5,
+            "đầm lầy": 0.5,
+            "sinh vật hoang": 0.5,
+            "khu": 0.5,
+            "giá tour": 0.5,
+            "điên điển": 0.5,
+            "cao lanh": 0.5,
+            "tam nông": 0.5,
+            "kỳ nghỉ": 0.5,
+            "công viên quốc gia": 0.5
+        }
     },
     {
         "attraction_name": "Tram Chim National Park",
@@ -128,6 +320,113 @@
             "https://www.tripadvisor.com/Attraction_Review-g293734-d8285991-Reviews-Menara_Mall-Marrakech_Marrakech_Safi.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g737086-d12250596-Reviews-or10-Tram_Chim_National_Park-Cao_Lanh_Dong_Thap_Province_Mekong_Delta.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g737086-d12250596-Reviews-or10-Tram_Chim_National_Park-Cao_Lanh_Dong_Thap_Province_Mekong_Delta.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tram chim": 0.9911727338912897,
+            "chim an": 0.9923242644872516,
+            "thuyền": 0.5937985368072987,
+            "national park": 0.5,
+            "công viên": 0.8737692451104522,
+            "khách sạn": 0.9906823023920879,
+            "thị trấn": 0.9925969442119822,
+            "chuyến đi": 0.017056608689017594,
+            "nhà vệ sinh": 0.9657158713089302,
+            "tiện nghi": 0.9503240825142711,
+            "áo phao": 0.526295755058527,
+            "đam mê chim": -0.06215225160121918,
+            "trung tâm cao lãnh": 0.8737692451104522,
+            "thánh địa": 0.5,
+            "xe máy": 0.5,
+            "tràm chim là": 0.8737692451104522,
+            "con chim": 0.5,
+            "phòng nghỉ": 0.9861092284554616,
+            "khu": 0.8737692451104522,
+            "bảo tồn chim bằng lăng": 0.8737692451104522
+        },
+        "dicts_adj": {
+            "tram chim": [],
+            "chim an": [
+                "to"
+            ],
+            "thuyền": [
+                "xa",
+                "nhiều"
+            ],
+            "national park": [],
+            "công viên": [
+                "ngắn",
+                "tốt"
+            ],
+            "khách sạn": [
+                "sớm"
+            ],
+            "thị trấn": [
+                "sớm"
+            ],
+            "chuyến đi": [
+                "khác",
+                "xứng đáng",
+                "thực sự",
+                "đặc biệt"
+            ],
+            "nhà vệ sinh": [
+                "cơ bản"
+            ],
+            "tiện nghi": [
+                "cơ bản"
+            ],
+            "áo phao": [
+                "tối đa"
+            ],
+            "đam mê chim": [
+                "thực sự"
+            ],
+            "trung tâm cao lãnh": [
+                "khoảng"
+            ],
+            "thánh địa": [],
+            "xe máy": [],
+            "tràm chim là": [
+                "tốt"
+            ],
+            "con chim": [],
+            "phòng nghỉ": [],
+            "khu": [
+                "thực sự",
+                "chắc chắn",
+                "nhiều",
+                "hơn"
+            ],
+            "bảo tồn chim bằng lăng": [
+                "thực sự",
+                "chắc chắn",
+                "nhiều",
+                "hơn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tram chim": 1.0,
+            "chim an": 0.5,
+            "thuyền": 0.5,
+            "national park": 0.5,
+            "công viên": 0.5,
+            "khách sạn": 0.5,
+            "thị trấn": 0.5,
+            "chuyến đi": 0.5,
+            "nhà vệ sinh": 0.5,
+            "tiện nghi": 0.5,
+            "áo phao": 0.5,
+            "đam mê chim": 0.5,
+            "trung tâm cao lãnh": 0.5,
+            "thánh địa": 0.5,
+            "xe máy": 0.5,
+            "tràm chim là": 0.5,
+            "con chim": 0.5,
+            "phòng nghỉ": 0.5,
+            "khu": 0.5,
+            "bảo tồn chim bằng lăng": 0.5
+        }
     }
 ]

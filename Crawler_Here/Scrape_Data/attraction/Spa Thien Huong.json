@@ -91,6 +91,44 @@
             "https://www.tripadvisor.com/Attraction_Review-g293925-d454975-Reviews-Museum_of_Vietnamese_History-Ho_Chi_Minh_City.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d25106738-Reviews-Spa_Thien_Huong-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d25106738-Reviews-Spa_Thien_Huong-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên mát-xa đang mát-xa": -0.2753939228132367,
+            "tục nói to với nhau": -0.9751200317405164,
+            "tinh dầu bạc": -0.8571394151076674,
+            "spa": 0.8737692451104522,
+            "trung tâm": 0.976246336940676,
+            "khách sạn": 0.5
+        },
+        "dicts_adj": {
+            "nhân viên mát-xa đang mát-xa": [
+                "liên tục"
+            ],
+            "tục nói to với nhau": [
+                "khó chịu"
+            ],
+            "tinh dầu bạc": [
+                "khó chịu",
+                "nhức nhối",
+                "liên tục"
+            ],
+            "spa": [
+                "tốt"
+            ],
+            "trung tâm": [
+                "gần"
+            ],
+            "khách sạn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên mát-xa đang mát-xa": 1,
+            "tục nói to với nhau": 1,
+            "tinh dầu bạc": 1,
+            "spa": 1,
+            "trung tâm": 1,
+            "khách sạn": 1
+        }
     }
 ]

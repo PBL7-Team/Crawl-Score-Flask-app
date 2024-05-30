@@ -87,6 +87,45 @@
             "https://www.tripadvisor.com/Attraction_Review-g499179-d217959-Reviews-Hopewell_Rocks-Hopewell_Cape_Albert_County_New_Brunswick.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d12413539-Reviews-Vitality_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d12413539-Reviews-Vitality_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.9883768269792199,
+            "nhà": 0.947718933224678,
+            "trị liệu massage": 0.9810778764076531,
+            "mát-xa": -0.9756191321648657,
+            "kiểu thái đá": 0.8737692451104522,
+            "dầu": 0.5,
+            "thơm và": 0.5
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "xuất sắc"
+            ],
+            "nhà": [
+                "xuất sắc"
+            ],
+            "trị liệu massage": [
+                "xuất sắc"
+            ],
+            "mát-xa": [
+                "nóng"
+            ],
+            "kiểu thái đá": [
+                "nóng"
+            ],
+            "dầu": [],
+            "thơm và": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 0.5,
+            "nhà": 0.5,
+            "trị liệu massage": 0.5,
+            "mát-xa": 0.5,
+            "kiểu thái đá": 0.5,
+            "dầu": 0.5,
+            "thơm và": 0.5
+        }
     }
 ]

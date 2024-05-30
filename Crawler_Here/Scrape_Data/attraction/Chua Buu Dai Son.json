@@ -92,6 +92,130 @@
             "https://www.tripadvisor.com/Attraction_Review-g14133667-d6652323-Reviews-Okubo_Park-Kabukicho_Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14860674-Reviews-Chua_Buu_Dai_Son-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14860674-Reviews-Chua_Buu_Dai_Son-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi chùa phật giáo": 0.5,
+            "đức": 0.5,
+            "bức tượng": 0.801700422540307,
+            "bãi biển": 0.8443828218926986,
+            "thiền": 0.5,
+            "viện": 0.5,
+            "chùa bù đá sơn": 0.5,
+            "cánh cổng": 0.9947842764668167,
+            "bức tượng phật": 0.8737692451104522,
+            "thạch cao": -0.64426458068192,
+            "tu viện": 0.9953952817013487,
+            "bầu không khí": 0.9893700724933296,
+            "chuyến thăm": 0.8745693694800138,
+            "bộ": 0.97462764068041,
+            "sưu": 0.9876161994179711,
+            "cây": 0.599570224294439,
+            "ngôi chùa": 0.6577131355879828,
+            "tòa nhà": 0.5607694769278169,
+            "thiên nhiên": 0.5966406743973494,
+            "núi khỉ": 0.9948061085306108,
+            "ngôi đền": 0.9951213302556425,
+            "khuôn viên": 0.5,
+            "tượng": 0.8737692451104522,
+            "tháp chùa": 0.5589631032198668,
+            "hạng mục": 0.9694333393126726
+        },
+        "dicts_adj": {
+            "ngôi chùa phật giáo": [],
+            "đức": [],
+            "bức tượng": [
+                "yên tĩnh",
+                "Nhiều",
+                "đầy"
+            ],
+            "bãi biển": [
+                "yên tĩnh"
+            ],
+            "thiền": [],
+            "viện": [],
+            "chùa bù đá sơn": [],
+            "cánh cổng": [
+                "xinh đẹp",
+                "tuyệt vời"
+            ],
+            "bức tượng phật": [
+                "trắng"
+            ],
+            "thạch cao": [
+                "trắng"
+            ],
+            "tu viện": [
+                "tuyệt vời"
+            ],
+            "bầu không khí": [
+                "tuyệt vời"
+            ],
+            "chuyến thăm": [
+                "ngắn ngủi"
+            ],
+            "bộ": [
+                "tốt"
+            ],
+            "sưu": [
+                "tốt"
+            ],
+            "cây": [
+                "nhỏ",
+                "xinh"
+            ],
+            "ngôi chùa": [
+                "yên bình",
+                "tình cờ"
+            ],
+            "tòa nhà": [],
+            "thiên nhiên": [
+                "im lặng"
+            ],
+            "núi khỉ": [
+                "tuyệt vời"
+            ],
+            "ngôi đền": [
+                "nhiều"
+            ],
+            "khuôn viên": [],
+            "tượng": [
+                "lớn"
+            ],
+            "tháp chùa": [
+                "lớn"
+            ],
+            "hạng mục": [
+                "quan trọng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngôi chùa phật giáo": 1,
+            "đức": 1,
+            "bức tượng": 2.0,
+            "bãi biển": 1.5,
+            "thiền": 0.5,
+            "viện": 0.5,
+            "chùa bù đá sơn": 0.5,
+            "cánh cổng": 1.0,
+            "bức tượng phật": 0.5,
+            "thạch cao": 0.5,
+            "tu viện": 0.5,
+            "bầu không khí": 0.5,
+            "chuyến thăm": 0.5,
+            "bộ": 0.5,
+            "sưu": 0.5,
+            "cây": 0.5,
+            "ngôi chùa": 1.0,
+            "tòa nhà": 0.5,
+            "thiên nhiên": 0.5,
+            "núi khỉ": 0.5,
+            "ngôi đền": 0.5,
+            "khuôn viên": 0.5,
+            "tượng": 0.5,
+            "tháp chùa": 0.5,
+            "hạng mục": 0.5
+        }
     }
 ]

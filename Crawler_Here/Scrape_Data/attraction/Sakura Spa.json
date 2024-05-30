@@ -91,6 +91,41 @@
             "https://www.tripadvisor.com/Attraction_Review-g40214-d14768055-Reviews-Cajun_Fast_Track-Henderson_Louisiana.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d9882447-Reviews-Sakura_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d9882447-Reviews-Sakura_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "buổi": 0.778228776587639,
+            "mát-xa rất thư": 0.9749575670284685,
+            "thư giãn": 0.6124929442885332,
+            "móng chân": -0.7135761640965939
+        },
+        "dicts_adj": {
+            "buổi": [
+                "nhiều",
+                "hơn",
+                "khác",
+                "đẹp mắt"
+            ],
+            "mát-xa rất thư": [
+                "nhiều",
+                "hơn",
+                "khác",
+                "đẹp mắt"
+            ],
+            "thư giãn": [
+                "nhiều",
+                "hơn",
+                "khác",
+                "đẹp mắt"
+            ],
+            "móng chân": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "buổi": 0.5,
+            "mát-xa rất thư": 0.5,
+            "thư giãn": 0.5,
+            "móng chân": 0.5
+        }
     }
 ]

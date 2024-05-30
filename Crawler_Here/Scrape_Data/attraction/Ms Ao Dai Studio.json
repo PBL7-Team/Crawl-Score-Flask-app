@@ -89,6 +89,44 @@
             "https://www.tripadvisor.com/Attraction_Review-g186338-d246023-Reviews-Kensington_High_Street-London_England.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d25467188-Reviews-Ms_Ao_Dai_Studio-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d25467188-Reviews-Ms_Ao_Dai_Studio-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "địa điểm": 0.9950631884858012,
+            "áo dài": 0.9931753900600597,
+            "áo dài -": 0.5,
+            "trang phục truyền thống": 0.5,
+            "dịch vụ": 0.6139094200916588,
+            "nhân viên": 0.5,
+            "trang phục": 0.9868066385388374
+        },
+        "dicts_adj": {
+            "địa điểm": [
+                "đẹp",
+                "nhiều"
+            ],
+            "áo dài": [
+                "đẹp"
+            ],
+            "áo dài -": [],
+            "trang phục truyền thống": [],
+            "dịch vụ": [
+                "tốt"
+            ],
+            "nhân viên": [],
+            "trang phục": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "địa điểm": 1,
+            "áo dài": 1,
+            "áo dài -": 1,
+            "trang phục truyền thống": 1,
+            "dịch vụ": 2,
+            "nhân viên": 1,
+            "trang phục": 1
+        }
     }
 ]

@@ -104,7 +104,185 @@
             "https://www.tripadvisor.com/Attraction_Review-g297390-d1908787-Reviews-Angkor_National_Museum-Siem_Reap_Siem_Reap_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or10-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "rừng thông": 0.9947349773719907,
+            "cà phê": 0.9820274307858199,
+            "ao cá": 0.988609671825543,
+            "xe lăn": 0.5407477505505085,
+            "xe lăn đến chùa": 0.5410581268370152,
+            "ngôi chùa": 0.8344709402687537,
+            "đồ nội thất đồ thủ công": 0.5,
+            "hàng đá liền": 0.5,
+            "tu viện phật giáo": 0.8737692451104522,
+            "tòa nhà": 0.9951552008860745,
+            "trải nghiệm": 0.9954048965591937,
+            "chuyến du lịch": 0.5,
+            "mảnh thủy tinh": 0.5,
+            "kiệt tác kiến": 0.5,
+            "chuyến thăm": 0.9941944178426638,
+            "chùa linh phương": 0.5,
+            "ngôi chùa phật giáo": 0.5,
+            "khu vườn": 0.9953244595672004,
+            "người dân": 0.5,
+            "trải nghiệm văn hóa": 0.5,
+            "tâm linh": 0.5,
+            "ngôi đền": 0.9955388703965582,
+            "vật liệu phế liệu": 0.5,
+            "tầm nhìn": 0.9954608462867327,
+            "đỉnh tháp chuông": 0.5,
+            "ga đà": 0.8737692451104522,
+            "ga khay": 0.8737692451104522,
+            "ga": 0.9789924775250256,
+            "ngôi chùa phật giáo tráng lệ": 0.9426481984555721,
+            "cảnh quan": 0.8737692451104522,
+            "cấu": 0.5,
+            "chuyến đi": 0.9953306640381925,
+            "trải nghiệm độc đáo": 0.9951023878529668,
+            "di tích": 0.9904261254705489,
+            "thác nước": 0.9953211554093286,
+            "vườn dứa": 0.5330395605415106
+        },
+        "dicts_adj": {
+            "rừng thông": [
+                "đẹp"
+            ],
+            "cà phê": [],
+            "ao cá": [
+                "đẹp",
+                "nhiều",
+                "to"
+            ],
+            "xe lăn": [
+                "ngoài"
+            ],
+            "xe lăn đến chùa": [
+                "ngoài"
+            ],
+            "ngôi chùa": [
+                "đặc biệt",
+                "đặc biệt",
+                "hoàn toàn",
+                "đẹp",
+                "đẹp",
+                "đẹp",
+                "nhất",
+                "đẹp",
+                "nhất",
+                "xinh đẹp",
+                "tốt",
+                "đẹp",
+                "hùng",
+                "thần thánh"
+            ],
+            "đồ nội thất đồ thủ công": [],
+            "hàng đá liền": [],
+            "tu viện phật giáo": [
+                "đặc biệt"
+            ],
+            "tòa nhà": [
+                "khác",
+                "đẹp",
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "chuyến du lịch": [],
+            "mảnh thủy tinh": [],
+            "kiệt tác kiến": [],
+            "chuyến thăm": [],
+            "chùa linh phương": [],
+            "ngôi chùa phật giáo": [],
+            "khu vườn": [
+                "xinh đẹp"
+            ],
+            "người dân": [],
+            "trải nghiệm văn hóa": [],
+            "tâm linh": [],
+            "ngôi đền": [
+                "tuyệt vời"
+            ],
+            "vật liệu phế liệu": [],
+            "tầm nhìn": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "đỉnh tháp chuông": [],
+            "ga đà": [
+                "tuyệt vời",
+                "hơn"
+            ],
+            "ga khay": [
+                "tuyệt vời",
+                "hơn"
+            ],
+            "ga": [
+                "tốt",
+                "hơn"
+            ],
+            "ngôi chùa phật giáo tráng lệ": [],
+            "cảnh quan": [
+                "tuyệt vời"
+            ],
+            "cấu": [],
+            "chuyến đi": [
+                "nổi tiếng"
+            ],
+            "trải nghiệm độc đáo": [
+                "khác thường"
+            ],
+            "di tích": [
+                "đẹp"
+            ],
+            "thác nước": [
+                "thực sự",
+                "độc đáo"
+            ],
+            "vườn dứa": [
+                "nhỏ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "rừng thông": 1.5,
+            "cà phê": 1.5,
+            "ao cá": 1.5,
+            "xe lăn": 1.5,
+            "xe lăn đến chùa": 1.5,
+            "ngôi chùa": 7.5,
+            "đồ nội thất đồ thủ công": 1.5,
+            "hàng đá liền": 1.5,
+            "tu viện phật giáo": 1.5,
+            "tòa nhà": 2,
+            "trải nghiệm": 1,
+            "chuyến du lịch": 1,
+            "mảnh thủy tinh": 1,
+            "kiệt tác kiến": 1,
+            "chuyến thăm": 1,
+            "chùa linh phương": 1,
+            "ngôi chùa phật giáo": 1,
+            "khu vườn": 1,
+            "người dân": 1,
+            "trải nghiệm văn hóa": 1,
+            "tâm linh": 1,
+            "ngôi đền": 1,
+            "vật liệu phế liệu": 1,
+            "tầm nhìn": 1,
+            "đỉnh tháp chuông": 1,
+            "ga đà": 1,
+            "ga khay": 1,
+            "ga": 1,
+            "ngôi chùa phật giáo tráng lệ": 1,
+            "cảnh quan": 1,
+            "cấu": 1,
+            "chuyến đi": 1,
+            "trải nghiệm độc đáo": 1,
+            "di tích": 1,
+            "thác nước": 1,
+            "vườn dứa": 1
+        }
     },
     {
         "attraction_name": "Linh Phuoc Pagoda",
@@ -212,7 +390,157 @@
             "https://www.tripadvisor.com/Attraction_Review-g663368-d5288667-Reviews-Mercat_Setmanal-Santanyi_Majorca_Balearic_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or20-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or10-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or10-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hang động": 0.743188887834549,
+            "ngôi chùa": 0.7829697571966486,
+            "công trình tôn giáo": 0.5,
+            "địa điểm tôn giáo buồn": -0.9626176226884127,
+            "địa điểm": 0.9949284329777583,
+            "tòa nhà": 0.5838000606745481,
+            "tầng địa": 0.4884815216064453,
+            "khu phức hợp": 0.912272765301168,
+            "bức": 0.5625325907021761,
+            "tranh khảm": 0.443214014172554,
+            "công trình trang trí": 0.5245081130415201,
+            "khu vực": 0.5,
+            "chùa linh ẩn": -0.6856858395040035,
+            "xe buýt du lịch": 0.9939467726508155,
+            "tác phẩm điêu": 0.9952454323647544,
+            "vị phật nữ đồ sộ": 0.9945203023962677,
+            "đám đông": 0.8826007395982742,
+            "xe máy": 0.974799670279026,
+            "khách sạn": 0.6800461821258068,
+            "linh phước": 0.9888812510762364,
+            "xe tay ga": 0.7287663398310542,
+            "đồ": 0.8737692451104522,
+            "trang sức phật giáo": 0.8737692451104522,
+            "phật trang trí": 0.8737692451104522
+        },
+        "dicts_adj": {
+            "hang động": [
+                "mát mẻ",
+                "rùng rợn"
+            ],
+            "ngôi chùa": [
+                "xa",
+                "khác thường",
+                "khác thường",
+                "thú vị",
+                "bất kỳ",
+                "kỳ lạ"
+            ],
+            "công trình tôn giáo": [],
+            "địa điểm tôn giáo buồn": [
+                "thú vị",
+                "khác"
+            ],
+            "địa điểm": [
+                "liên tục",
+                "giống",
+                "khác"
+            ],
+            "tòa nhà": [
+                "thú vị"
+            ],
+            "tầng địa": [],
+            "khu phức hợp": [
+                "công phu"
+            ],
+            "bức": [
+                "công phu"
+            ],
+            "tranh khảm": [
+                "công phu"
+            ],
+            "công trình trang trí": [
+                "công phu"
+            ],
+            "khu vực": [],
+            "chùa linh ẩn": [
+                "giống",
+                "đông đúc"
+            ],
+            "xe buýt du lịch": [
+                "khoảng",
+                "dọc",
+                "nhỏ",
+                "thú vị"
+            ],
+            "tác phẩm điêu": [
+                "nhiều",
+                "rực rỡ",
+                "nhiều"
+            ],
+            "vị phật nữ đồ sộ": [],
+            "đám đông": [
+                "khoảng",
+                "lớn",
+                "lớn"
+            ],
+            "xe máy": [
+                "dễ dàng"
+            ],
+            "khách sạn": [
+                "dễ dàng"
+            ],
+            "linh phước": [],
+            "xe tay ga": [
+                "dễ"
+            ],
+            "đồ": [
+                "tuyệt đối",
+                "riêng",
+                "thú vị",
+                "hơn",
+                "nhiều",
+                "khác"
+            ],
+            "trang sức phật giáo": [
+                "tuyệt đối",
+                "riêng",
+                "thú vị",
+                "hơn",
+                "nhiều",
+                "khác"
+            ],
+            "phật trang trí": [
+                "tuyệt đối",
+                "riêng",
+                "thú vị",
+                "hơn",
+                "nhiều",
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hang động": 1,
+            "ngôi chùa": 6,
+            "công trình tôn giáo": 1,
+            "địa điểm tôn giáo buồn": 1,
+            "địa điểm": 1,
+            "tòa nhà": 1,
+            "tầng địa": 1,
+            "khu phức hợp": 1,
+            "bức": 1,
+            "tranh khảm": 1,
+            "công trình trang trí": 1,
+            "khu vực": 1,
+            "chùa linh ẩn": 1,
+            "xe buýt du lịch": 1,
+            "tác phẩm điêu": 1,
+            "vị phật nữ đồ sộ": 1,
+            "đám đông": 1,
+            "xe máy": 1,
+            "khách sạn": 1,
+            "linh phước": 1,
+            "xe tay ga": 0.5,
+            "đồ": 0.5,
+            "trang sức phật giáo": 0.5,
+            "phật trang trí": 0.5
+        }
     },
     {
         "attraction_name": "Linh Phuoc Pagoda",
@@ -321,7 +649,125 @@
             "https://www.tripadvisor.com/Attraction_Review-g294265-d2138895-Reviews-ArtScience_Museum_at_Marina_Bay_Sands-Singapore.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or30-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or20-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or20-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi chùa": 0.860989850567421,
+            "tòa nhà chính": 0.4916112348437309,
+            "tòa tháp": 0.4310126486234367,
+            "bức": 0.8575221635401249,
+            "tượng phật": 0.6897179945372045,
+            "hội trường": -0.9567181032616645,
+            "kiến trúc": 0.9940462445374578,
+            "trang phục": -0.9666245153639466,
+            "tượng nhà sư": 0.5,
+            "càng": -0.9709852319210768,
+            "giọng nói": 0.9031781619414687,
+            "ngôi chùa tráng lệ": 0.9912372742546722,
+            "tác phẩm": 0.953566774725914,
+            "xi măng": 0.528221158310771,
+            "chuyến đi": 0.5,
+            "tay nghề": 0.9878967609256506,
+            "cảnh quan": 0.5,
+            "tường trần": -0.3378614531829953,
+            "sàn": 0.4036498609930277,
+            "lát gạch": -0.1723792990669608,
+            "linh phước": -0.9573370816651732,
+            "chùa linh phước": 0.9810293284244835
+        },
+        "dicts_adj": {
+            "ngôi chùa": [
+                "thực sự",
+                "đẹp",
+                "độc đáo",
+                "tuyệt vời",
+                "nhiều",
+                "xinh đẹp",
+                "lớn",
+                "nhất",
+                "hào nhoáng",
+                "nhất",
+                "đẹp"
+            ],
+            "tòa nhà chính": [
+                "cao",
+                "lớn"
+            ],
+            "tòa tháp": [
+                "cao",
+                "lớn"
+            ],
+            "bức": [
+                "khổng lồ",
+                "nhiều"
+            ],
+            "tượng phật": [
+                "khổng lồ",
+                "nhiều",
+                "lớn"
+            ],
+            "hội trường": [
+                "khác"
+            ],
+            "kiến trúc": [],
+            "trang phục": [
+                "nhiều"
+            ],
+            "tượng nhà sư": [],
+            "càng": [
+                "sâu",
+                "tàn khốc"
+            ],
+            "giọng nói": [],
+            "ngôi chùa tráng lệ": [
+                "cùng"
+            ],
+            "tác phẩm": [],
+            "xi măng": [],
+            "chuyến đi": [],
+            "tay nghề": [
+                "lâu"
+            ],
+            "cảnh quan": [],
+            "tường trần": [
+                "phức tạp"
+            ],
+            "sàn": [
+                "phức tạp"
+            ],
+            "lát gạch": [
+                "phức tạp"
+            ],
+            "linh phước": [
+                "phải"
+            ],
+            "chùa linh phước": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngôi chùa": 3.0,
+            "tòa nhà chính": 0.5,
+            "tòa tháp": 1.0,
+            "bức": 0.5,
+            "tượng phật": 1.0,
+            "hội trường": 0.5,
+            "kiến trúc": 0.5,
+            "trang phục": 0.5,
+            "tượng nhà sư": 0.5,
+            "càng": 0.5,
+            "giọng nói": 0.5,
+            "ngôi chùa tráng lệ": 0.5,
+            "tác phẩm": 0.5,
+            "xi măng": 0.5,
+            "chuyến đi": 0.5,
+            "tay nghề": 0.5,
+            "cảnh quan": 0.5,
+            "tường trần": 0.5,
+            "sàn": 0.5,
+            "lát gạch": 0.5,
+            "linh phước": 0.5,
+            "chùa linh phước": 0.5
+        }
     },
     {
         "attraction_name": "Linh Phuoc Pagoda",
@@ -430,7 +876,120 @@
             "https://www.tripadvisor.com/Attraction_Review-g1940497-d17376604-Reviews-Mutrah_Fort-Muscat_Muscat_Governorate.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or40-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or30-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or30-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tòa nhà ốp": 0.2697198614478111,
+            "tượng phật": 0.3141630254685879,
+            "giao thông": -0.9759895459283143,
+            "phương tiện": 0.9828996083233505,
+            "ùn tắc giao thông": 0.5739452950656414,
+            "cầu bình an": 0.6892835339531302,
+            "chùa": 0.9956143948365934,
+            "rung chuông": 0.9953176451381296,
+            "ngôi chùa": 0.8157657811534591,
+            "tác phẩm nghệ thuật khảm": 0.9953455666545779,
+            "mảnh thủy tinh": 0.9953198646544479,
+            "bức tượng nam": 0.6282339207828045,
+            "chai bia": 0.5358094293624163,
+            "kỳ nghỉ": 0.992238434497267,
+            "chai vỡ": 0.5,
+            "đỉnh chùa": 0.5,
+            "chuyến bay": 0.5,
+            "chỗ": 0.9872847622027621,
+            "văn hóa phật giáo": 0.9521946487948298,
+            "tầng hầm": -0.09578414633870125,
+            "hộp thu": 0.9903349665692076,
+            "hở vai": 0.5,
+            "hở bụng": 0.5,
+            "tòa nhà": 0.5,
+            "di tích": 0.5355504173785448,
+            "chuyến tàu đồ chơi": 0.9628781678620726
+        },
+        "dicts_adj": {
+            "tòa nhà ốp": [
+                "cao"
+            ],
+            "tượng phật": [
+                "cao"
+            ],
+            "giao thông": [],
+            "phương tiện": [
+                "nhiều"
+            ],
+            "ùn tắc giao thông": [],
+            "cầu bình an": [],
+            "chùa": [
+                "đẹp"
+            ],
+            "rung chuông": [
+                "thú vị"
+            ],
+            "ngôi chùa": [
+                "đẹp",
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "tác phẩm nghệ thuật khảm": [
+                "đẹp"
+            ],
+            "mảnh thủy tinh": [
+                "đầy"
+            ],
+            "bức tượng nam": [
+                "khác",
+                "khác"
+            ],
+            "chai bia": [],
+            "kỳ nghỉ": [],
+            "chai vỡ": [],
+            "đỉnh chùa": [],
+            "chuyến bay": [],
+            "chỗ": [],
+            "văn hóa phật giáo": [
+                "nhiều"
+            ],
+            "tầng hầm": [],
+            "hộp thu": [],
+            "hở vai": [],
+            "hở bụng": [],
+            "tòa nhà": [],
+            "di tích": [
+                "đủ",
+                "khác",
+                "giống"
+            ],
+            "chuyến tàu đồ chơi": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tòa nhà ốp": 0.5,
+            "tượng phật": 0.5,
+            "giao thông": 0.5,
+            "phương tiện": 0.5,
+            "ùn tắc giao thông": 0.5,
+            "cầu bình an": 0.5,
+            "chùa": 0.5,
+            "rung chuông": 0.5,
+            "ngôi chùa": 2.0,
+            "tác phẩm nghệ thuật khảm": 0.5,
+            "mảnh thủy tinh": 0.5,
+            "bức tượng nam": 0.5,
+            "chai bia": 0.5,
+            "kỳ nghỉ": 0.5,
+            "chai vỡ": 0.5,
+            "đỉnh chùa": 0.5,
+            "chuyến bay": 0.5,
+            "chỗ": 0.5,
+            "văn hóa phật giáo": 0.5,
+            "tầng hầm": 0.5,
+            "hộp thu": 0.5,
+            "hở vai": 0.5,
+            "hở bụng": 0.5,
+            "tòa nhà": 0.5,
+            "di tích": 0.5,
+            "chuyến tàu đồ chơi": 0.5
+        }
     },
     {
         "attraction_name": "Linh Phuoc Pagoda",
@@ -539,7 +1098,187 @@
             "https://www.tripadvisor.com/Attraction_Review-g32761-d592581-Reviews-Computer_History_Museum-Mountain_View_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or50-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or40-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or40-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đỗ xe đạp": 0.9440614776685834,
+            "quán": 0.8315261229872704,
+            "cà phê": 0.7377237334731035,
+            "ngôi nhà": 0.8360261917114258,
+            "đầu": 0.9754574282560498,
+            "chai bia": 0.5769251212477684,
+            "bức tường": 0.5196495223790407,
+            "ngôi chùa": 0.6547372264394653,
+            "sinh vật": 0.5,
+            "sứ gốm": 0.5,
+            "thủy tinh": 0.5,
+            "bức tượng": 0.22219323448371142,
+            "đồ trang trí khảm": 0.03749618161236867,
+            "tượng phật nữ": 0.8737692451104522,
+            "bông hoa": 0.7342368096578866,
+            "ảo ảnh": -0.9680933998897672,
+            "chuyến tham quan": 0.48767940141260624,
+            "nghệ": 0.9851337436120957,
+            "chuyến thăm": 0.7389689544215798,
+            "chuyến tàu": 0.8757707730983384,
+            "thị trấn": 0.8647373090110099,
+            "tòa nhà": 0.5,
+            "nhà sư": 0.9917185620870441,
+            "nghệ nhân": 0.9942239840165712,
+            "kỳ nghỉ": 0.9695596157107502,
+            "ngôi đền": -0.9596010665409267,
+            "ngọn đồi": 0.5,
+            "toa vip": 0.5331253837794065,
+            "khu phức hợp": 0.9951149778207764,
+            "chuyến đi": 0.7477795726736076,
+            "sứ vỡ": 0.5,
+            "đồ thủy tinh": 0.5,
+            "tượng": 0.5,
+            "địa ngục": 0.5,
+            "trang trại chè": 0.5
+        },
+        "dicts_adj": {
+            "đỗ xe đạp": [],
+            "quán": [
+                "chay",
+                "rẻ"
+            ],
+            "cà phê": [
+                "chay",
+                "rẻ"
+            ],
+            "ngôi nhà": [
+                "thú vị",
+                "giống"
+            ],
+            "đầu": [
+                "dài"
+            ],
+            "chai bia": [],
+            "bức tường": [
+                "trần"
+            ],
+            "ngôi chùa": [
+                "đẹp",
+                "suốt",
+                "đẹp",
+                "suốt",
+                "lành nghề",
+                "lớn",
+                "toàn diện"
+            ],
+            "sinh vật": [],
+            "sứ gốm": [],
+            "thủy tinh": [],
+            "bức tượng": [
+                "nhiều",
+                "rải rác",
+                "cụ thể",
+                "khổng lồ"
+            ],
+            "đồ trang trí khảm": [
+                "nhiều",
+                "rải rác",
+                "cụ thể",
+                "khổng lồ"
+            ],
+            "tượng phật nữ": [
+                "nhiều",
+                "rải rác",
+                "cụ thể",
+                "khổng lồ"
+            ],
+            "bông hoa": [],
+            "ảo ảnh": [
+                "sống động"
+            ],
+            "chuyến tham quan": [
+                "tái chế",
+                "đặc biệt"
+            ],
+            "nghệ": [
+                "Nhiều"
+            ],
+            "chuyến thăm": [],
+            "chuyến tàu": [
+                "sớm",
+                "hơn"
+            ],
+            "thị trấn": [
+                "nhiều",
+                "hơn",
+                "vui"
+            ],
+            "tòa nhà": [],
+            "nhà sư": [
+                "Thực sự",
+                "vui",
+                "hơn",
+                "linh thiêng"
+            ],
+            "nghệ nhân": [
+                "lành nghề"
+            ],
+            "kỳ nghỉ": [
+                "nổi bật"
+            ],
+            "ngôi đền": [
+                "khác"
+            ],
+            "ngọn đồi": [],
+            "toa vip": [
+                "chậm rãi"
+            ],
+            "khu phức hợp": [
+                "đáng giá"
+            ],
+            "chuyến đi": [
+                "đáng giá"
+            ],
+            "sứ vỡ": [],
+            "đồ thủy tinh": [],
+            "tượng": [],
+            "địa ngục": [],
+            "trang trại chè": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đỗ xe đạp": 0.5,
+            "quán": 0.5,
+            "cà phê": 0.5,
+            "ngôi nhà": 0.5,
+            "đầu": 0.5,
+            "chai bia": 0.5,
+            "bức tường": 0.5,
+            "ngôi chùa": 2.0,
+            "sinh vật": 0.5,
+            "sứ gốm": 0.5,
+            "thủy tinh": 0.5,
+            "bức tượng": 1.0,
+            "đồ trang trí khảm": 0.5,
+            "tượng phật nữ": 0.5,
+            "bông hoa": 1.0,
+            "ảo ảnh": 0.5,
+            "chuyến tham quan": 0.5,
+            "nghệ": 0.5,
+            "chuyến thăm": 0.5,
+            "chuyến tàu": 0.5,
+            "thị trấn": 0.5,
+            "tòa nhà": 0.5,
+            "nhà sư": 0.5,
+            "nghệ nhân": 0.5,
+            "kỳ nghỉ": 0.5,
+            "ngôi đền": 0.5,
+            "ngọn đồi": 0.5,
+            "toa vip": 0.5,
+            "khu phức hợp": 0.5,
+            "chuyến đi": 1.0,
+            "sứ vỡ": 0.5,
+            "đồ thủy tinh": 0.5,
+            "tượng": 0.5,
+            "địa ngục": 0.5,
+            "trang trại chè": 0.5
+        }
     },
     {
         "attraction_name": "Linh Phuoc Pagoda",
@@ -648,7 +1387,102 @@
             "https://www.tripadvisor.com/Attraction_Review-g40792-d2256951-Reviews-Palace_Playland-Old_Orchard_Beach_Maine.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or60-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or50-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or50-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi chùa": 0.8268117449520754,
+            "kiến trúc": 0.9842561003752053,
+            "bát đĩa": -0.9753799866884947,
+            "đồ thủy tinh": -0.9400128794368356,
+            "ngắm cảnh": 0.5,
+            "văn hóa tín": 0.5,
+            "tượng phật làm": 0.8737692451104522,
+            "tráng lệ": 0.9955061831278726,
+            "tầng hầm": -0.8369688596576452,
+            "lịch sử": 0.010600153473205864,
+            "công trình": 0.9954235045006499,
+            "nhà ga": 0.52984868735075,
+            "khuôn viên": 0.5,
+            "bảo quản": 0.9942299502436072,
+            "cầu nguyện": 0.9745837901718915
+        },
+        "dicts_adj": {
+            "ngôi chùa": [
+                "to",
+                "đẹp",
+                "hoàn toàn",
+                "đẹp",
+                "khác thường",
+                "ví dụ",
+                "đầy",
+                "khác thường",
+                "nhiều",
+                "thực sự",
+                "đẹp",
+                "đầu tiên"
+            ],
+            "kiến trúc": [
+                "đặc biệt"
+            ],
+            "bát đĩa": [
+                "tự hào"
+            ],
+            "đồ thủy tinh": [
+                "tự hào"
+            ],
+            "ngắm cảnh": [],
+            "văn hóa tín": [],
+            "tượng phật làm": [
+                "đẹp",
+                "khác thường",
+                "ví dụ"
+            ],
+            "tráng lệ": [
+                "đẹp"
+            ],
+            "tầng hầm": [
+                "nhiều"
+            ],
+            "lịch sử": [
+                "đẹp",
+                "sầm uất"
+            ],
+            "công trình": [
+                "tuyệt vời",
+                "nhiều",
+                "đẹp"
+            ],
+            "nhà ga": [
+                "Dễ dàng",
+                "phải"
+            ],
+            "khuôn viên": [],
+            "bảo quản": [
+                "tốt",
+                "cẩn thận"
+            ],
+            "cầu nguyện": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngôi chùa": 3.5,
+            "kiến trúc": 0.5,
+            "bát đĩa": 0.5,
+            "đồ thủy tinh": 0.5,
+            "ngắm cảnh": 0.5,
+            "văn hóa tín": 0.5,
+            "tượng phật làm": 0.5,
+            "tráng lệ": 0.5,
+            "tầng hầm": 0.5,
+            "lịch sử": 0.5,
+            "công trình": 0.5,
+            "nhà ga": 0.5,
+            "khuôn viên": 0.5,
+            "bảo quản": 0.5,
+            "cầu nguyện": 0.5
+        }
     },
     {
         "attraction_name": "Linh Phuoc Pagoda",
@@ -766,7 +1600,207 @@
             "https://www.tripadvisor.com/Attraction_Review-g50210-d2507537-Reviews-Clifton_Mill-Clifton_Ohio.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or70-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or60-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or60-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi chùa": 0.7184797073215512,
+            "ngôi chùa phật giáo": 0.9946736523415893,
+            "bức tranh khảm": 0.9940701067680493,
+            "người dân": 0.5,
+            "cầu nguyện": 0.5,
+            "cầu phúc": 0.5,
+            "mảnh gốm": 0.8436261489987373,
+            "tượng phật hoa": 0.8737692451104522,
+            "căn phòng": 0.8705430342815816,
+            "tượng phật": 0.5,
+            "kỳ quan kiến ​​trúc": 0.5,
+            "ngọn núi": 0.701211042702198,
+            "bức tượng": -0.7764417727012187,
+            "cầu thang": 0.4210754595696926,
+            "bức tượng phật": 0.8737692451104522,
+            "chùa cho": 0.6506165359169245,
+            "ngôi đền": 0.8680941313505173,
+            "hành trình": 0.7027236633002758,
+            "xe tay ga": 0.8168309719767421,
+            "ga xe lửa": -0.1866886061616242,
+            "chai": 0.9954395875683986,
+            "bia vỡ": 0.9865914015099406,
+            "quầy hàng": 0.5,
+            "sản phẩm": 0.5,
+            "trái cây sấy khô trà": 0.5,
+            "cà phê": 0.5,
+            "cửa hàng": 0.5,
+            "lòng": 0.5,
+            "bán đồ chạm": 0.5,
+            "gỗ đồ nội thất": 0.5,
+            "đồ trang sức": 0.5,
+            "đồ dùng": 0.5,
+            "tòa nhà": 0.9949768016813323,
+            "mặt hàng": 0.5195614732801914,
+            "chuyến tàu hơi nước": -0.7575039081275463,
+            "đường hầm": 0.9927282721037045,
+            "kiến": 0.9875685479491949,
+            "thủy tinh": 0.5,
+            "chiếc đĩa vỡ": 0.5,
+            "bàn thờ": 0.5177570544183254,
+            "thế giới": 0.995513979694806
+        },
+        "dicts_adj": {
+            "ngôi chùa": [
+                "thẩm mỹ",
+                "thực sự",
+                "thú vị",
+                "cũ",
+                "giống",
+                "bất kỳ",
+                "khác"
+            ],
+            "ngôi chùa phật giáo": [
+                "cổ",
+                "đẹp"
+            ],
+            "bức tranh khảm": [
+                "đẹp"
+            ],
+            "người dân": [],
+            "cầu nguyện": [],
+            "cầu phúc": [],
+            "mảnh gốm": [
+                "thẩm mỹ"
+            ],
+            "tượng phật hoa": [
+                "nhiều"
+            ],
+            "căn phòng": [
+                "nhiều"
+            ],
+            "tượng phật": [],
+            "kỳ quan kiến ​​trúc": [],
+            "ngọn núi": [
+                "gần"
+            ],
+            "bức tượng": [
+                "nhiều",
+                "nhiều",
+                "phức tạp",
+                "nhỏ"
+            ],
+            "cầu thang": [
+                "khổng lồ",
+                "nhiều"
+            ],
+            "bức tượng phật": [
+                "khổng lồ",
+                "nhiều"
+            ],
+            "chùa cho": [
+                "khoảng"
+            ],
+            "ngôi đền": [
+                "chắc chắn",
+                "dễ dàng"
+            ],
+            "hành trình": [
+                "đẹp",
+                "đặc biệt",
+                "thực sự"
+            ],
+            "xe tay ga": [
+                "tốt",
+                "ổn"
+            ],
+            "ga xe lửa": [
+                "cũ"
+            ],
+            "chai": [
+                "thú vị"
+            ],
+            "bia vỡ": [
+                "thú vị"
+            ],
+            "quầy hàng": [],
+            "sản phẩm": [],
+            "trái cây sấy khô trà": [],
+            "cà phê": [],
+            "cửa hàng": [],
+            "lòng": [],
+            "bán đồ chạm": [],
+            "gỗ đồ nội thất": [],
+            "đồ trang sức": [],
+            "đồ dùng": [],
+            "tòa nhà": [
+                "tuyệt vời"
+            ],
+            "mặt hàng": [
+                "nhỏ"
+            ],
+            "chuyến tàu hơi nước": [
+                "cũ"
+            ],
+            "đường hầm": [
+                "đẹp",
+                "nhiều",
+                "thú vị"
+            ],
+            "kiến": [
+                "đẹp"
+            ],
+            "thủy tinh": [],
+            "chiếc đĩa vỡ": [],
+            "bàn thờ": [
+                "gần"
+            ],
+            "thế giới": [
+                "Đẹp",
+                "xinh đẹp",
+                "ngầm",
+                "thú vị"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngôi chùa": 3.5,
+            "ngôi chùa phật giáo": 0.5,
+            "bức tranh khảm": 0.5,
+            "người dân": 0.5,
+            "cầu nguyện": 0.5,
+            "cầu phúc": 0.5,
+            "mảnh gốm": 0.5,
+            "tượng phật hoa": 0.5,
+            "căn phòng": 0.5,
+            "tượng phật": 0.5,
+            "kỳ quan kiến ​​trúc": 0.5,
+            "ngọn núi": 0.5,
+            "bức tượng": 1.0,
+            "cầu thang": 0.5,
+            "bức tượng phật": 0.5,
+            "chùa cho": 0.5,
+            "ngôi đền": 0.5,
+            "hành trình": 0.5,
+            "xe tay ga": 0.5,
+            "ga xe lửa": 1.0,
+            "chai": 0.5,
+            "bia vỡ": 0.5,
+            "quầy hàng": 0.5,
+            "sản phẩm": 0.5,
+            "trái cây sấy khô trà": 0.5,
+            "cà phê": 0.5,
+            "cửa hàng": 0.5,
+            "lòng": 0.5,
+            "bán đồ chạm": 0.5,
+            "gỗ đồ nội thất": 0.5,
+            "đồ trang sức": 0.5,
+            "đồ dùng": 0.5,
+            "tòa nhà": 0.5,
+            "mặt hàng": 0.5,
+            "chuyến tàu hơi nước": 0.5,
+            "đường hầm": 0.5,
+            "kiến": 0.5,
+            "thủy tinh": 0.5,
+            "chiếc đĩa vỡ": 0.5,
+            "bàn thờ": 0.5,
+            "thế giới": 0.5
+        }
     },
     {
         "attraction_name": "Linh Phuoc Pagoda",
@@ -875,7 +1909,116 @@
             "https://www.tripadvisor.com/Attraction_Review-g295424-d4266291-Reviews-HV_Spa_Relax_Thai_Massage_Dubai-Dubai_Emirate_of_Dubai.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or80-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or70-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or70-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi chùa": 0.962708556597742,
+            "khung cảnh": 0.9951559378532693,
+            "cây bonsai": 0.9954946449724957,
+            "tác phẩm chạm": 0.5,
+            "tòa nhà": 0.5,
+            "xe taxi": 0.8841393496841192,
+            "công trình kiến": -0.9614961324259639,
+            "bức tranh khảm gốm": 0.9641960472799838,
+            "trí tưởng tượng hình ảnh tôn giáo": 0.5,
+            "trung tâm": 0.5541312638670206,
+            "tác phẩm": 0.5,
+            "chuyến đi chơi": 0.9954883633763529,
+            "ngôi": 0.9428380485624075,
+            "chùa": 0.8562215194106102,
+            "bức": 0.8770732842385769,
+            "tượng phật": 0.8737692451104522,
+            "chuyến tham quan": 0.5,
+            "hướng dẫn viên": 0.5,
+            "khách sạn": 0.8737692451104522,
+            "công ty lữ hành": 0.8737692451104522,
+            "thị trấn": 0.9831431792117655,
+            "chuyến tham quan chùa -": 0.9840947571210563,
+            "cà phê": 0.5
+        },
+        "dicts_adj": {
+            "ngôi chùa": [
+                "đặc biệt",
+                "đặc biệt",
+                "khác"
+            ],
+            "khung cảnh": [
+                "tuyệt vời"
+            ],
+            "cây bonsai": [
+                "đẹp"
+            ],
+            "tác phẩm chạm": [],
+            "tòa nhà": [],
+            "xe taxi": [
+                "sẵn"
+            ],
+            "công trình kiến": [
+                "khác"
+            ],
+            "bức tranh khảm gốm": [
+                "khéo léo"
+            ],
+            "trí tưởng tượng hình ảnh tôn giáo": [],
+            "trung tâm": [
+                "khoảng"
+            ],
+            "tác phẩm": [],
+            "chuyến đi chơi": [],
+            "ngôi": [
+                "khổng lồ"
+            ],
+            "chùa": [
+                "khổng lồ"
+            ],
+            "bức": [
+                "khổng lồ"
+            ],
+            "tượng phật": [
+                "khổng lồ"
+            ],
+            "chuyến tham quan": [],
+            "hướng dẫn viên": [],
+            "khách sạn": [
+                "bất kỳ"
+            ],
+            "công ty lữ hành": [
+                "bất kỳ"
+            ],
+            "thị trấn": [
+                "bất kỳ"
+            ],
+            "chuyến tham quan chùa -": [
+                "gần"
+            ],
+            "cà phê": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngôi chùa": 1.0,
+            "khung cảnh": 0.5,
+            "cây bonsai": 0.5,
+            "tác phẩm chạm": 0.5,
+            "tòa nhà": 1.0,
+            "xe taxi": 0.5,
+            "công trình kiến": 0.5,
+            "bức tranh khảm gốm": 0.5,
+            "trí tưởng tượng hình ảnh tôn giáo": 0.5,
+            "trung tâm": 0.5,
+            "tác phẩm": 0.5,
+            "chuyến đi chơi": 0.5,
+            "ngôi": 0.5,
+            "chùa": 0.5,
+            "bức": 0.5,
+            "tượng phật": 0.5,
+            "chuyến tham quan": 0.5,
+            "hướng dẫn viên": 0.5,
+            "khách sạn": 0.5,
+            "công ty lữ hành": 0.5,
+            "thị trấn": 0.5,
+            "chuyến tham quan chùa -": 0.5,
+            "cà phê": 0.5
+        }
     },
     {
         "attraction_name": "Linh Phuoc Pagoda",
@@ -984,7 +2127,199 @@
             "https://www.tripadvisor.com/Attraction_Review-g1219108-d2032815-Reviews-Green_Bowl_Beach-Ungasan_Bukit_Peninsula_Bali.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or90-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or80-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or80-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "kiến trúc": 0.8737692451104522,
+            "ngôi đền": 0.9953676040458959,
+            "ngôi đền tượng chùa": -0.7907546833157539,
+            "chiếc": 0.5295982696115971,
+            "hộp": 0.5563903553411365,
+            "bức tượng": -0.26512442098464817,
+            "ngôi chùa": 0.802311166913973,
+            "xe máy": 0.5519720818847418,
+            "xe du lịch": 0.5,
+            "ngắm cảnh": 0.5,
+            "cầu nguyện": 0.5,
+            "đền thờ nơi": 0.9947972239460796,
+            "chùa linh phước": -0.005538687109947205,
+            "công trình": 0.6421944173052907,
+            "tượng phật": 0.8737692451104522,
+            "tòa nhà": 0.9816961406904738,
+            "bức tường": 0.8153797454724554,
+            "bức tranh tường": 0.9951184715318959,
+            "bức tượng bồ": 0.8737692451104522,
+            "hoa": 0.7456699706381187,
+            "loại hoa": 0.9781608283519745,
+            "chuyến du lịch": 0.8679415434598923,
+            "lát gạch": -0.29007019521668553,
+            "chùa": 0.8737692451104522,
+            "tháp chuông": 0.7576577989384532,
+            "viên": 0.46884135075379163,
+            "tác phẩm nghệ thuật": 0.9953741364879534,
+            "chuyến tàu": 0.5755763053894043,
+            "kiến": 0.8737692451104522,
+            "khảm": 0.5,
+            "loại": 0.5331933591514826,
+            "gỗ chạm": 0.652224300429225,
+            "xe đạp": 0.5,
+            "tour du lịch": 0.5
+        },
+        "dicts_adj": {
+            "kiến trúc": [
+                "đẹp",
+                "độc đáo"
+            ],
+            "ngôi đền": [
+                "đẹp",
+                "độc đáo"
+            ],
+            "ngôi đền tượng chùa": [
+                "đẹp",
+                "độc đáo"
+            ],
+            "chiếc": [
+                "gần"
+            ],
+            "hộp": [
+                "gần"
+            ],
+            "bức tượng": [
+                "chân thành",
+                "khổng lồ"
+            ],
+            "ngôi chùa": [
+                "yêu thích",
+                "độc đáo",
+                "tuyệt vời",
+                "đặc biệt",
+                "đẹp"
+            ],
+            "xe máy": [
+                "nhỏ",
+                "nhiều"
+            ],
+            "xe du lịch": [],
+            "ngắm cảnh": [],
+            "cầu nguyện": [],
+            "đền thờ nơi": [
+                "khắp",
+                "xứng đáng"
+            ],
+            "chùa linh phước": [
+                "nhiều"
+            ],
+            "công trình": [
+                "đẹp",
+                "hơn",
+                "bất kỳ"
+            ],
+            "tượng phật": [
+                "độc đáo",
+                "tuyệt vời"
+            ],
+            "tòa nhà": [
+                "hoàn toàn",
+                "độc đáo",
+                "đầy"
+            ],
+            "bức tường": [
+                "độc đáo",
+                "thú vị",
+                "phức tạp",
+                "nhiều"
+            ],
+            "bức tranh tường": [
+                "độc đáo",
+                "thú vị"
+            ],
+            "bức tượng bồ": [
+                "lớn",
+                "chắc chắn",
+                "chính xác",
+                "cao"
+            ],
+            "hoa": [
+                "khô",
+                "khác"
+            ],
+            "loại hoa": [
+                "nhiều"
+            ],
+            "chuyến du lịch": [
+                "xa"
+            ],
+            "lát gạch": [
+                "phức tạp",
+                "nhiều"
+            ],
+            "chùa": [
+                "nhỏ",
+                "sống động"
+            ],
+            "tháp chuông": [
+                "nhỏ",
+                "sống động"
+            ],
+            "viên": [
+                "nhỏ",
+                "sống động"
+            ],
+            "tác phẩm nghệ thuật": [
+                "tuyệt vời"
+            ],
+            "chuyến tàu": [],
+            "kiến": [
+                "độc đáo",
+                "đầy"
+            ],
+            "khảm": [],
+            "loại": [
+                "thú vị"
+            ],
+            "gỗ chạm": [
+                "thú vị"
+            ],
+            "xe đạp": [],
+            "tour du lịch": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "kiến trúc": 0.5,
+            "ngôi đền": 0.5,
+            "ngôi đền tượng chùa": 0.5,
+            "chiếc": 0.5,
+            "hộp": 0.5,
+            "bức tượng": 1.0,
+            "ngôi chùa": 1.5,
+            "xe máy": 0.5,
+            "xe du lịch": 0.5,
+            "ngắm cảnh": 0.5,
+            "cầu nguyện": 0.5,
+            "đền thờ nơi": 0.5,
+            "chùa linh phước": 0.5,
+            "công trình": 0.5,
+            "tượng phật": 0.5,
+            "tòa nhà": 1.5,
+            "bức tường": 1.0,
+            "bức tranh tường": 0.5,
+            "bức tượng bồ": 0.5,
+            "hoa": 0.5,
+            "loại hoa": 0.5,
+            "chuyến du lịch": 0.5,
+            "lát gạch": 0.5,
+            "chùa": 0.5,
+            "tháp chuông": 0.5,
+            "viên": 0.5,
+            "tác phẩm nghệ thuật": 0.5,
+            "chuyến tàu": 0.5,
+            "kiến": 0.5,
+            "khảm": 0.5,
+            "loại": 0.5,
+            "gỗ chạm": 0.5,
+            "xe đạp": 0.5,
+            "tour du lịch": 0.5
+        }
     },
     {
         "attraction_name": "Linh Phuoc Pagoda",
@@ -1093,7 +2428,204 @@
             "https://www.tripadvisor.com/Attraction_Review-g1050569-d1813589-Reviews-Maronti_Beach-Barano_d_Ischia_Isola_d_Ischia_Province_of_Naples_Campania.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or100-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or90-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or90-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi chùa": 0.7636822063488783,
+            "bức": 0.5,
+            "tranh khảm": 0.5,
+            "thủy tinh": 0.5,
+            "tòa nhà": 0.2050594799220562,
+            "chai": 0.5,
+            "vỡ sứ - thủy tinh": 0.5,
+            "bề mặt": 0.5,
+            "chuyến thăm": 0.5,
+            "hướng dẫn viên": 0.5,
+            "thế giới": 0.9955242139985785,
+            "khung cảnh": 0.8737692451104522,
+            "đỉnh tháp": 0.9953658357844688,
+            "bức tượng": 0.9955178305972368,
+            "bức tượng phật": 0.8737692451104522,
+            "chuyến tham quan": 0.32784671941772103,
+            "chuyến tàu": 0.45863298885524273,
+            "vệ sinh": 0.4781325925141573,
+            "tay đua": 0.7697439193725586,
+            "chuyến địa": 0.5,
+            "chuyến du lịch": 0.5,
+            "chùa linh phước": 0.8737692451104522,
+            "ngôi chùa phật giáo": 0.8737692451104522,
+            "bức tranh khảm": 0.9954393857624382,
+            "chùa kính": 0.6828689058311284,
+            "cửa vào": 0.6202203184366226,
+            "chai thủy tinh": 0.9200522778555751,
+            "phương tiện giao thông công": 0.45734855718910694,
+            "xe buýt": 0.5,
+            "chùa": 0.8737692451104522,
+            "và phật": 0.8737692451104522,
+            "đám đông": -0.9614958208985627,
+            "bát": 0.9904726448003203,
+            "đĩa": 0.9918368581954079,
+            "gốm sứ": 0.9930074856577752
+        },
+        "dicts_adj": {
+            "ngôi chùa": [
+                "phải",
+                "nhiều",
+                "rộng lớn",
+                "rộng",
+                "khác biệt",
+                "khác",
+                "khắp",
+                "giống",
+                "giống",
+                "bất kỳ",
+                "khác",
+                "cổ",
+                "nổi tiếng",
+                "lớn",
+                "thú vị",
+                "độc đáo",
+                "riêng"
+            ],
+            "bức": [],
+            "tranh khảm": [],
+            "thủy tinh": [],
+            "tòa nhà": [
+                "nhiều",
+                "đủ"
+            ],
+            "chai": [],
+            "vỡ sứ - thủy tinh": [],
+            "bề mặt": [],
+            "chuyến thăm": [],
+            "hướng dẫn viên": [],
+            "thế giới": [
+                "Đẹp",
+                "xinh đẹp",
+                "ngầm",
+                "thú vị"
+            ],
+            "khung cảnh": [
+                "tuyệt vời"
+            ],
+            "đỉnh tháp": [
+                "tuyệt vời"
+            ],
+            "bức tượng": [
+                "tuyệt vời"
+            ],
+            "bức tượng phật": [
+                "cổ",
+                "nổi tiếng",
+                "lớn"
+            ],
+            "chuyến tham quan": [
+                "đông"
+            ],
+            "chuyến tàu": [
+                "cũ"
+            ],
+            "vệ sinh": [
+                "cẩn thận"
+            ],
+            "tay đua": [
+                "cẩn thận",
+                "dễ",
+                "hơn",
+                "rõ",
+                "khủng khiếp"
+            ],
+            "chuyến địa": [],
+            "chuyến du lịch": [],
+            "chùa linh phước": [
+                "đẹp",
+                "đẹp"
+            ],
+            "ngôi chùa phật giáo": [
+                "đẹp",
+                "đẹp"
+            ],
+            "bức tranh khảm": [
+                "đẹp",
+                "đẹp"
+            ],
+            "chùa kính": [
+                "dài",
+                "dài",
+                "tỉ mỉ"
+            ],
+            "cửa vào": [
+                "tỉ mỉ"
+            ],
+            "chai thủy tinh": [],
+            "phương tiện giao thông công": [
+                "công cộng"
+            ],
+            "xe buýt": [],
+            "chùa": [
+                "lòe"
+            ],
+            "và phật": [
+                "lòe"
+            ],
+            "đám đông": [
+                "hóa",
+                "khổng lồ"
+            ],
+            "bát": [
+                "thú vị",
+                "độc đáo",
+                "riêng"
+            ],
+            "đĩa": [
+                "thú vị",
+                "độc đáo",
+                "riêng"
+            ],
+            "gốm sứ": [
+                "thú vị",
+                "độc đáo",
+                "riêng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngôi chùa": 3.0,
+            "bức": 0.5,
+            "tranh khảm": 0.5,
+            "thủy tinh": 0.5,
+            "tòa nhà": 0.5,
+            "chai": 0.5,
+            "vỡ sứ - thủy tinh": 0.5,
+            "bề mặt": 0.5,
+            "chuyến thăm": 0.5,
+            "hướng dẫn viên": 0.5,
+            "thế giới": 0.5,
+            "khung cảnh": 0.5,
+            "đỉnh tháp": 0.5,
+            "bức tượng": 0.5,
+            "bức tượng phật": 0.5,
+            "chuyến tham quan": 1.0,
+            "chuyến tàu": 0.5,
+            "vệ sinh": 0.5,
+            "tay đua": 0.5,
+            "chuyến địa": 0.5,
+            "chuyến du lịch": 0.5,
+            "chùa linh phước": 0.5,
+            "ngôi chùa phật giáo": 0.5,
+            "bức tranh khảm": 0.5,
+            "chùa kính": 0.5,
+            "cửa vào": 0.5,
+            "chai thủy tinh": 0.5,
+            "phương tiện giao thông công": 0.5,
+            "xe buýt": 0.5,
+            "chùa": 0.5,
+            "và phật": 0.5,
+            "đám đông": 0.5,
+            "bát": 0.5,
+            "đĩa": 0.5,
+            "gốm sứ": 0.5
+        }
     },
     {
         "attraction_name": "Linh Phuoc Pagoda",
@@ -1202,6 +2734,228 @@
             "https://www.tripadvisor.com/Attraction_Review-g32588-d10693781-Reviews-Wood_s_Cove-Laguna_Beach_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or110-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or100-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d451017-Reviews-or100-Linh_Phuoc_Pagoda-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi chùa": 0.7146578034128955,
+            "tòa nhà": 0.2318618043209426,
+            "quảng trường": 0.5,
+            "tay nghề": 0.7276638438925147,
+            "nhà vệ sinh": 0.5967614836990833,
+            "nhà vệ sinh ngồi xổm": 0.5061748530715704,
+            "chuông rung chuông": 0.5,
+            "bãi đậu xe": -0.44285620655864477,
+            "chiếc chai": 0.5159398838877678,
+            "bức tượng": 0.550886582583189,
+            "thị trấn": 0.5941037870943546,
+            "ga xe lửa": 0.5,
+            "biển báo": 0.5,
+            "công viên": 0.9747795362491161,
+            "công trình kiến": 0.9953654976561666,
+            "mảnh gốm": 0.5,
+            "nhà sư": 0.26110910321585834,
+            "cổng": 0.5,
+            "tầng hầm": 0.008935109246522188,
+            "cẩm thạch": 0.5,
+            "địa": 0.7588741146028042,
+            "tượng phật": 0.8737692451104522,
+            "bầu không khí": 0.8426931565627456,
+            "bức tượng siêu khổng": 0.9927915190346539,
+            "món đậu phụ": 0.9943406312959269,
+            "trải nghiệm": 0.9910393885802478,
+            "xe buýt": 0.217097750864923,
+            "họ": 0.9955116999917664,
+            "đồ gỗ": 0.9949433448491618,
+            "món đồ": 0.9377581204753369,
+            "gạch khảm": 0.8737692451104522,
+            "tác phẩm điêu": 0.5,
+            "nghệ thuật": 0.8067606128752232,
+            "phương pháp nghệ thuật": 0.5,
+            "tòa tháp": 0.989169854670763,
+            "vòng tay tôn giáo": 0.5,
+            "đồ nội": 0.5,
+            "căn phòng": -0.14637344307266176,
+            "căn phòng địa": -0.897729120682925,
+            "tầng địa": 0.4165787398815155,
+            "ngôi đền": 0.9952503086533397,
+            "bông hoa": 0.9955847812816501,
+            "mảnh": 0.9954609189881012,
+            "cây": -0.9701621262356639
+        },
+        "dicts_adj": {
+            "ngôi chùa": [
+                "chiêm ngưỡng",
+                "đặc biệt",
+                "thú vị",
+                "nhiều",
+                "nổi tiếng",
+                "hơn",
+                "phức tạp",
+                "công phu",
+                "phức tạp",
+                "công phu",
+                "đẹp"
+            ],
+            "tòa nhà": [
+                "giống",
+                "hoàn toàn",
+                "thú vị"
+            ],
+            "quảng trường": [],
+            "tay nghề": [
+                "phức tạp",
+                "xuất sắc",
+                "dễ"
+            ],
+            "nhà vệ sinh": [
+                "cẩn thận"
+            ],
+            "nhà vệ sinh ngồi xổm": [
+                "cẩn thận"
+            ],
+            "chuông rung chuông": [],
+            "bãi đậu xe": [],
+            "chiếc chai": [
+                "lớn"
+            ],
+            "bức tượng": [
+                "lớn"
+            ],
+            "thị trấn": [
+                "trái"
+            ],
+            "ga xe lửa": [],
+            "biển báo": [],
+            "công viên": [
+                "thú vị"
+            ],
+            "công trình kiến": [
+                "thú vị"
+            ],
+            "mảnh gốm": [],
+            "nhà sư": [
+                "phức tạp",
+                "công phu"
+            ],
+            "cổng": [],
+            "tầng hầm": [
+                "nổi bật",
+                "bi thảm"
+            ],
+            "cẩm thạch": [],
+            "địa": [
+                "nhiều",
+                "rõ ràng",
+                "tốt"
+            ],
+            "tượng phật": [
+                "lớn",
+                "đặc biệt",
+                "trắng"
+            ],
+            "bầu không khí": [
+                "vui vẻ"
+            ],
+            "bức tượng siêu khổng": [
+                "khổng lồ"
+            ],
+            "món đậu phụ": [
+                "thơm",
+                "ngon"
+            ],
+            "trải nghiệm": [
+                "nhiều"
+            ],
+            "xe buýt": [
+                "vội vã",
+                "ít",
+                "khác"
+            ],
+            "họ": [
+                "tuyệt vời"
+            ],
+            "đồ gỗ": [
+                "tuyệt vời"
+            ],
+            "món đồ": [],
+            "gạch khảm": [
+                "tuyệt vời",
+                "hoàn toàn"
+            ],
+            "tác phẩm điêu": [],
+            "nghệ thuật": [
+                "đặc biệt"
+            ],
+            "phương pháp nghệ thuật": [],
+            "tòa tháp": [],
+            "vòng tay tôn giáo": [],
+            "đồ nội": [],
+            "căn phòng": [
+                "riêng"
+            ],
+            "căn phòng địa": [
+                "riêng"
+            ],
+            "tầng địa": [],
+            "ngôi đền": [
+                "đẹp"
+            ],
+            "bông hoa": [
+                "đẹp"
+            ],
+            "mảnh": [
+                "tuyệt vời"
+            ],
+            "cây": [
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngôi chùa": 3.0,
+            "tòa nhà": 2.0,
+            "quảng trường": 0.5,
+            "tay nghề": 1.0,
+            "nhà vệ sinh": 0.5,
+            "nhà vệ sinh ngồi xổm": 0.5,
+            "chuông rung chuông": 0.5,
+            "bãi đậu xe": 0.5,
+            "chiếc chai": 0.5,
+            "bức tượng": 0.5,
+            "thị trấn": 0.5,
+            "ga xe lửa": 0.5,
+            "biển báo": 0.5,
+            "công viên": 0.5,
+            "công trình kiến": 0.5,
+            "mảnh gốm": 0.5,
+            "nhà sư": 1.0,
+            "cổng": 0.5,
+            "tầng hầm": 1.5,
+            "cẩm thạch": 0.5,
+            "địa": 0.5,
+            "tượng phật": 0.5,
+            "bầu không khí": 0.5,
+            "bức tượng siêu khổng": 0.5,
+            "món đậu phụ": 0.5,
+            "trải nghiệm": 0.5,
+            "xe buýt": 0.5,
+            "họ": 0.5,
+            "đồ gỗ": 0.5,
+            "món đồ": 0.5,
+            "gạch khảm": 0.5,
+            "tác phẩm điêu": 0.5,
+            "nghệ thuật": 0.5,
+            "phương pháp nghệ thuật": 0.5,
+            "tòa tháp": 0.5,
+            "vòng tay tôn giáo": 0.5,
+            "đồ nội": 0.5,
+            "căn phòng": 0.5,
+            "căn phòng địa": 0.5,
+            "tầng địa": 0.5,
+            "ngôi đền": 0.5,
+            "bông hoa": 0.5,
+            "mảnh": 0.5,
+            "cây": 0.5
+        }
     }
 ]

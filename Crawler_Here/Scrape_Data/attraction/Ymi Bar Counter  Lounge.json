@@ -94,6 +94,34 @@
             "https://www.tripadvisor.com/Attraction_Review-g55711-d13867304-Reviews-Grassy_Knoll-Dallas_Texas.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d24143065-Reviews-Ymi_Bar_Counter_Lounge-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d24143065-Reviews-Ymi_Bar_Counter_Lounge-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quán bar": 0.9955409626709297,
+            "dịch vụ": 0.9566581249403369,
+            "nhân viên": 0.995197189389728
+        },
+        "dicts_adj": {
+            "quán bar": [
+                "tốt",
+                "tốt"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "tốt",
+                "rẻ",
+                "tốt"
+            ],
+            "nhân viên": [
+                "chu đáo",
+                "xinh đẹp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quán bar": 2.5,
+            "dịch vụ": 3.5,
+            "nhân viên": 1
+        }
     }
 ]

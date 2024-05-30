@@ -79,7 +79,151 @@
             "https://www.tripadvisor.com/Attraction_Review-g45963-d2322672-Reviews-Purple_Reign_THE_Prince_Tribute_Show-Las_Vegas_Nevada.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d19254910-Reviews-or10-TripGuru_Vietnam-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19254910-Reviews-TripGuru_Vietnam-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19254910-Reviews-TripGuru_Vietnam-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.8301813123980537,
+            "thánh địa mỹ sơn": 0.8737692451104522,
+            "ngũ hành sơn": 0.9340161770232953,
+            "hướng dẫn viên": 0.9799201943678781,
+            "văn hóa ấn độ": 0.9222260760143399,
+            "lười": 0.9898342151427642,
+            "hướng dẫn viên du lịch": 0.9950682858470827,
+            "chuyến phiêu lưu": 0.9936464542406611,
+            "kiến ​​thức": 0.9926462291332427,
+            "thánh địa": 0.8737692451104522,
+            "lịch sử": 0.5887032779864967,
+            "người": 0.8737692451104522,
+            "lái xe": 0.9945190158614423,
+            "chuyến tham quan": 0.9952502090309281,
+            "chuyến đi cả": 0.8737692451104522,
+            "cầu vàng": 0.8737692451104522,
+            "khách sạn": 0.989697759388946,
+            "công viên giải trí": 0.8673184006474912,
+            "chuyến đi cả ngày": 0.8737692451104522,
+            "tàn tích": 0.9954596677562222,
+            "bữa trưa": 0.40936709102243185,
+            "đồ ăn": -0.3250271053984761,
+            "chuyến du lịch": 0.5,
+            "hướng dẫn viên du lịch phước": 0.5
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "thực sự",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "thánh địa mỹ sơn": [
+                "già"
+            ],
+            "ngũ hành sơn": [
+                "già"
+            ],
+            "hướng dẫn viên": [
+                "am hiểu",
+                "rõ ràng",
+                "tốt",
+                "dễ",
+                "quen thuộc",
+                "rảnh rỗi",
+                "quen thuộc",
+                "rảnh",
+                "tuyệt vời"
+            ],
+            "văn hóa ấn độ": [
+                "nhiều"
+            ],
+            "lười": [],
+            "hướng dẫn viên du lịch": [
+                "xuất sắc",
+                "tuyệt vời"
+            ],
+            "chuyến phiêu lưu": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "vui",
+                "lớn"
+            ],
+            "kiến ​​thức": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "vui",
+                "lớn"
+            ],
+            "thánh địa": [
+                "nhiều"
+            ],
+            "lịch sử": [
+                "phức tạp",
+                "chắc chắn"
+            ],
+            "người": [
+                "đẹp",
+                "đúng"
+            ],
+            "lái xe": [
+                "đẹp",
+                "đúng"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời"
+            ],
+            "chuyến đi cả": [
+                "tuyệt vời"
+            ],
+            "cầu vàng": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "khách sạn": [
+                "Dễ dàng",
+                "Dễ dàng"
+            ],
+            "công viên giải trí": [],
+            "chuyến đi cả ngày": [
+                "tuyệt vời"
+            ],
+            "tàn tích": [
+                "hiểu biết"
+            ],
+            "bữa trưa": [
+                "nhiều",
+                "hơn"
+            ],
+            "đồ ăn": [
+                "nhiều",
+                "hơn"
+            ],
+            "chuyến du lịch": [],
+            "hướng dẫn viên du lịch phước": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 3,
+            "thánh địa mỹ sơn": 1,
+            "ngũ hành sơn": 2,
+            "hướng dẫn viên": 4,
+            "văn hóa ấn độ": 1,
+            "lười": 1,
+            "hướng dẫn viên du lịch": 2,
+            "chuyến phiêu lưu": 1,
+            "kiến ​​thức": 1,
+            "thánh địa": 1,
+            "lịch sử": 2,
+            "người": 1,
+            "lái xe": 1,
+            "chuyến tham quan": 2,
+            "chuyến đi cả": 1,
+            "cầu vàng": 2,
+            "khách sạn": 2,
+            "công viên giải trí": 2,
+            "chuyến đi cả ngày": 1,
+            "tàn tích": 1,
+            "bữa trưa": 1,
+            "đồ ăn": 1,
+            "chuyến du lịch": 1,
+            "hướng dẫn viên du lịch phước": 1
+        }
     },
     {
         "attraction_name": "TripGuru Vietnam",
@@ -163,7 +307,119 @@
             "https://www.tripadvisor.com/Attraction_Review-g60834-d106537-Reviews-Lake_Powell-Page_Arizona.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d19254910-Reviews-or20-TripGuru_Vietnam-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19254910-Reviews-or10-TripGuru_Vietnam-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19254910-Reviews-or10-TripGuru_Vietnam-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham": 0.5,
+            "hướng dẫn viên": 0.7215801651545917,
+            "chuyến đi": 0.9815308044082485,
+            "lái xe": 0.9529162799590267,
+            "địa điểm": 0.7473130340804346,
+            "chuyến tham quan": 0.5057679917197675,
+            "quang cảnh": 0.5593085521832108,
+            "hướng dẫn viên du lịch": 0.8737692451104522,
+            "bữa trưa": 0.9950716890743934,
+            "hướng dẫn viên thảo": 0.6868846225552261,
+            "lịch sử": 0.5,
+            "chuyến tham quan mặt trời": 0.9951202395604923,
+            "chợ đêm địa phương": 0.9844402859453112,
+            "trải nghiệm": 0.9950789548747707,
+            "món ăn địa": 0.9955010920530185,
+            "chuyến lưu diễn": 0.9953717337921262,
+            "ngôi đền": 0.9812464769929647
+        },
+        "dicts_adj": {
+            "chuyến tham": [],
+            "hướng dẫn viên": [
+                "hiểu biết",
+                "thân thiện",
+                "thực sự",
+                "hay"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tích cực",
+                "tuyệt vời",
+                "suốt",
+                "cùng",
+                "thực sự",
+                "tốt đẹp"
+            ],
+            "lái xe": [
+                "an toàn",
+                "tuyệt",
+                "tốt"
+            ],
+            "địa điểm": [
+                "nhiều",
+                "nhiều",
+                "tuyệt vời",
+                "khác"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "khác",
+                "tuyệt vời",
+                "hữu ích",
+                "nhiều",
+                "thú vị"
+            ],
+            "quang cảnh": [
+                "tuyệt"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "tích cực"
+            ],
+            "bữa trưa": [],
+            "hướng dẫn viên thảo": [
+                "tuyệt vời",
+                "hữu ích",
+                "nhiều"
+            ],
+            "lịch sử": [],
+            "chuyến tham quan mặt trời": [
+                "tuyệt vời"
+            ],
+            "chợ đêm địa phương": [],
+            "trải nghiệm": [
+                "vui mừng",
+                "tích cực",
+                "thú vị"
+            ],
+            "món ăn địa": [
+                "ngon"
+            ],
+            "chuyến lưu diễn": [
+                "tuyệt vời"
+            ],
+            "ngôi đền": [
+                "hay",
+                "nhỏ",
+                "gần"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham": 1,
+            "hướng dẫn viên": 4,
+            "chuyến đi": 5,
+            "lái xe": 3,
+            "địa điểm": 2,
+            "chuyến tham quan": 5,
+            "quang cảnh": 1,
+            "hướng dẫn viên du lịch": 1,
+            "bữa trưa": 1,
+            "hướng dẫn viên thảo": 2,
+            "lịch sử": 1,
+            "chuyến tham quan mặt trời": 1,
+            "chợ đêm địa phương": 1,
+            "trải nghiệm": 2,
+            "món ăn địa": 1,
+            "chuyến lưu diễn": 1,
+            "ngôi đền": 1
+        }
     },
     {
         "attraction_name": "TripGuru Vietnam",
@@ -251,6 +507,135 @@
             "https://www.tripadvisor.com/Attraction_Review-g46528-d104356-Reviews-Six_Flags_Great_Adventure-Jackson_New_Jersey.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d19254910-Reviews-or30-TripGuru_Vietnam-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19254910-Reviews-or20-TripGuru_Vietnam-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19254910-Reviews-or20-TripGuru_Vietnam-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến du lịch": 0.974273547064513,
+            "kiến ​​thức": 0.7458285819739103,
+            "câu chuyện": 0.5,
+            "sự kiện": 0.5,
+            "khu bảo tồn": 0.5,
+            "sống động": 0.5,
+            "chuyến tham quan": 0.6279931741689021,
+            "trang web": 0.9897496504709125,
+            "trải nghiệm": 0.9946178329410031,
+            "ngũ hành": 0.991391517338343,
+            "lái xe": 0.8737692451104522,
+            "tour du lịch": 0.5,
+            "lịch sử": 0.6511325384490192,
+            "chuyến đi": 0.907360774675908,
+            "lịch sử huế": 0.8737692451104522,
+            "đèo hải vân": 0.8737692451104522,
+            "hướng dẫn viên": 0.8396329452856056,
+            "kiến ​​thức lịch sử": 0.9940626196330413,
+            "tour": 0.5,
+            "cố đô huế": 0.5,
+            "chương trình du lịch": 0.995556065463461,
+            "chuyến tham": 0.5
+        },
+        "dicts_adj": {
+            "chuyến du lịch": [],
+            "kiến ​​thức": [
+                "tốt"
+            ],
+            "câu chuyện": [],
+            "sự kiện": [],
+            "khu bảo tồn": [],
+            "sống động": [],
+            "chuyến tham quan": [
+                "lan tỏa",
+                "thú vị",
+                "cao",
+                "duy nhất",
+                "tuyệt vời"
+            ],
+            "trang web": [
+                "rảnh"
+            ],
+            "trải nghiệm": [
+                "khó",
+                "lâu dài",
+                "Thực sự",
+                "tuyệt vời",
+                "thực sự",
+                "vui",
+                "tích cực",
+                "vui",
+                "tích cực",
+                "vui",
+                "tích cực"
+            ],
+            "ngũ hành": [
+                "đầy"
+            ],
+            "lái xe": [
+                "thoải mái"
+            ],
+            "tour du lịch": [],
+            "lịch sử": [
+                "thích ứng",
+                "nóng",
+                "nổi tiếng"
+            ],
+            "chuyến đi": [
+                "thích ứng",
+                "nóng",
+                "tốt",
+                "tốt",
+                "vui vẻ"
+            ],
+            "lịch sử huế": [
+                "chắc chắn"
+            ],
+            "đèo hải vân": [
+                "chắc chắn"
+            ],
+            "hướng dẫn viên": [
+                "xa",
+                "hơn",
+                "nhiều",
+                "thú vị",
+                "tuyệt vời",
+                "xuất sắc",
+                "tốt bụng",
+                "giàu",
+                "suốt"
+            ],
+            "kiến ​​thức lịch sử": [
+                "tốt bụng",
+                "nhiều"
+            ],
+            "tour": [],
+            "cố đô huế": [],
+            "chương trình du lịch": [
+                "đầy đủ"
+            ],
+            "chuyến tham": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến du lịch": 1,
+            "kiến ​​thức": 2,
+            "câu chuyện": 1,
+            "sự kiện": 1,
+            "khu bảo tồn": 1,
+            "sống động": 1,
+            "chuyến tham quan": 3,
+            "trang web": 1,
+            "trải nghiệm": 5,
+            "ngũ hành": 1,
+            "lái xe": 1,
+            "tour du lịch": 1,
+            "lịch sử": 2,
+            "chuyến đi": 4,
+            "lịch sử huế": 1,
+            "đèo hải vân": 1,
+            "hướng dẫn viên": 3,
+            "kiến ​​thức lịch sử": 1,
+            "tour": 1,
+            "cố đô huế": 1,
+            "chương trình du lịch": 1,
+            "chuyến tham": 1
+        }
     }
 ]

@@ -74,6 +74,79 @@
             "https://www.tripadvisor.com/Attraction_Review-g54359-d8334876-Reviews-Ripken_Baseball-Myrtle_Beach_South_Carolina.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g12654020-d17395868-Reviews-OZO_Park-Son_Trach_Quang_Binh_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g12654020-d17395868-Reviews-OZO_Park-Son_Trach_Quang_Binh_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9950413642800413,
+            "công viên": 0.661459031534226,
+            "quang cảnh": 0.9879472866887227,
+            "không gian": 0.8737692451104522,
+            "trò chơi": 0.988280993886292,
+            "chèo thuyền": 0.616582646034658,
+            "trải nghiệm": 0.9955165643186774,
+            "ngọn cây": 0.591878229752183,
+            "chèo thuyền kayak bơi": 0.5173103157430887,
+            "bầu không khí": 0.9951101918122731,
+            "phòng kinh doanh": 0.9932348334696144,
+            "nhân viên": 0.9955221230629832,
+            "phong nha": 0.9657999910414219
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "tuyệt vời",
+                "đặc biệt",
+                "tuyệt vời",
+                "vui",
+                "tuyệt vời"
+            ],
+            "công viên": [
+                "cao"
+            ],
+            "quang cảnh": [],
+            "không gian": [
+                "xanh",
+                "rộng lớn"
+            ],
+            "trò chơi": [
+                "độc đáo"
+            ],
+            "chèo thuyền": [],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "rẻ",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "ngọn cây": [
+                "đầu tiên"
+            ],
+            "chèo thuyền kayak bơi": [],
+            "bầu không khí": [
+                "cao",
+                "tuyệt vời"
+            ],
+            "phòng kinh doanh": [],
+            "nhân viên": [
+                "tuyệt vời",
+                "vui vẻ"
+            ],
+            "phong nha": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 2.0,
+            "công viên": 1.5,
+            "quang cảnh": 1,
+            "không gian": 0.5,
+            "trò chơi": 0.5,
+            "chèo thuyền": 0.5,
+            "trải nghiệm": 1.0,
+            "ngọn cây": 0.5,
+            "chèo thuyền kayak bơi": 0.5,
+            "bầu không khí": 0.5,
+            "phòng kinh doanh": 1.0,
+            "nhân viên": 0.5,
+            "phong nha": 0.5
+        }
     }
 ]

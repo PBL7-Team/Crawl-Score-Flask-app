@@ -104,6 +104,189 @@
             "https://www.tripadvisor.com/Attraction_Review-g41521-d10268221-Reviews-Legacy_Place-Dedham_Massachusetts.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d2403127-Reviews-Tu_Hung_Stone_Arts-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d2403127-Reviews-Tu_Hung_Stone_Arts-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tác phẩm": 0.994651784771122,
+            "cẩm thạch": 0.8256323008487622,
+            "bộ": 0.5975499572232366,
+            "bán hàng": -0.9756018528714776,
+            "đơn hàng": 0.9073872265871614,
+            "nghệ thuật": 0.992706006654771,
+            "con đại bàng": 0.18607536889612675,
+            "chuyến đi": 0.8254442189936526,
+            "chuyến thăm cảng": 0.6116574900224805,
+            "giá cả": -0.9384534955024719,
+            "tác phẩm điêu": 0.830290911719203,
+            "cẩm": 0.5,
+            "công trình": 0.2973510364536196,
+            "ngọn": 0.9864354087039828,
+            "núi cẩm thạch": 0.992059754091315,
+            "hướng dẫn viên du lịch": 0.9951354338554665,
+            "chuyến tham quan": 0.3208060637116432,
+            "bức tượng - tượng đài": 0.9943566819420084,
+            "tấm bia tưởng": 0.9859888441860676,
+            "tác phẩm nghệ thuật": 0.995559259550646,
+            "chế tác đá": 0.976677383761853,
+            "sản phẩm": -0.6873062904924154,
+            "nhà hàng": 0.5860423799604177,
+            "bất": 0.5,
+            "động sản": 0.5,
+            "cửa": 0.18731498047709466,
+            "hàng nghệ thuật": 0.8737692451104522,
+            "hàng bán nhựa": -0.2983938615070656,
+            "đạo luật": 0.9953024968272075,
+            "chó": 0.5866599064320326,
+            "họ điêu": 0.9904983770102262,
+            "phòng trưng bày": 0.9950270479312167,
+            "mỹ nghệ": 0.9955430400441401
+        },
+        "dicts_adj": {
+            "tác phẩm": [
+                "tuyệt vời"
+            ],
+            "cẩm thạch": [
+                "tuyệt vời",
+                "xanh",
+                "trắng"
+            ],
+            "bộ": [
+                "nhỏ",
+                "tốt",
+                "hơn",
+                "nhiều"
+            ],
+            "bán hàng": [
+                "lớn",
+                "hơn"
+            ],
+            "đơn hàng": [
+                "mới",
+                "nhất"
+            ],
+            "nghệ thuật": [
+                "vui",
+                "vui"
+            ],
+            "con đại bàng": [
+                "xanh",
+                "trắng"
+            ],
+            "chuyến đi": [
+                "bất ngờ",
+                "Hoàn toàn",
+                "xứng đáng"
+            ],
+            "chuyến thăm cảng": [],
+            "giá cả": [],
+            "tác phẩm điêu": [
+                "nhiều",
+                "đa dạng",
+                "phong phú",
+                "tuyệt vời"
+            ],
+            "cẩm": [],
+            "công trình": [
+                "khác",
+                "hoành tráng"
+            ],
+            "ngọn": [
+                "nhỏ"
+            ],
+            "núi cẩm thạch": [
+                "nhỏ"
+            ],
+            "hướng dẫn viên du lịch": [
+                "nhỏ"
+            ],
+            "chuyến tham quan": [
+                "nhỏ"
+            ],
+            "bức tượng - tượng đài": [
+                "tuyệt vời"
+            ],
+            "tấm bia tưởng": [
+                "xinh đẹp"
+            ],
+            "tác phẩm nghệ thuật": [
+                "đẹp"
+            ],
+            "chế tác đá": [],
+            "sản phẩm": [
+                "sẵn",
+                "to",
+                "nặng"
+            ],
+            "nhà hàng": [
+                "lớn"
+            ],
+            "bất": [],
+            "động sản": [],
+            "cửa": [
+                "rẻ",
+                "hơn",
+                "khác",
+                "tím",
+                "tốt"
+            ],
+            "hàng nghệ thuật": [
+                "rẻ",
+                "hơn"
+            ],
+            "hàng bán nhựa": [
+                "khác",
+                "tím",
+                "tốt"
+            ],
+            "đạo luật": [
+                "tuyệt vời"
+            ],
+            "chó": [
+                "cao"
+            ],
+            "họ điêu": [
+                "ấn tượng"
+            ],
+            "phòng trưng bày": [
+                "vui"
+            ],
+            "mỹ nghệ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tác phẩm": 1,
+            "cẩm thạch": 1.5,
+            "bộ": 1,
+            "bán hàng": 1,
+            "đơn hàng": 1,
+            "nghệ thuật": 1.0,
+            "con đại bàng": 0.5,
+            "chuyến đi": 1.5,
+            "chuyến thăm cảng": 0.5,
+            "giá cả": 0.5,
+            "tác phẩm điêu": 1.5,
+            "cẩm": 0.5,
+            "công trình": 1.0,
+            "ngọn": 0.5,
+            "núi cẩm thạch": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "chuyến tham quan": 0.5,
+            "bức tượng - tượng đài": 0.5,
+            "tấm bia tưởng": 0.5,
+            "tác phẩm nghệ thuật": 0.5,
+            "chế tác đá": 0.5,
+            "sản phẩm": 0.5,
+            "nhà hàng": 0.5,
+            "bất": 0.5,
+            "động sản": 0.5,
+            "cửa": 0.5,
+            "hàng nghệ thuật": 0.5,
+            "hàng bán nhựa": 0.5,
+            "đạo luật": 0.5,
+            "chó": 0.5,
+            "họ điêu": 0.5,
+            "phòng trưng bày": 0.5,
+            "mỹ nghệ": 0.5
+        }
     }
 ]

@@ -89,6 +89,49 @@
             "https://www.tripadvisor.com/Attraction_Review-g147311-d2178189-Reviews-Club_Mobay_Departure_Lounge-Montego_Bay_Saint_James_Parish_Jamaica.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g21301834-d26250317-Reviews-C_a_hang_th_i_trang_Makaw-Tay_Ho_Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g21301834-d26250317-Reviews-C_a_hang_th_i_trang_Makaw-Tay_Ho_Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quần áo": 0.8737692451104522,
+            "lượng vải": 0.9928845149406698,
+            "nhân viên": 0.5,
+            "cửa hàng": 0.994640187069308,
+            "shop": 0.5,
+            "trải nghiệm": 0.9920027813641354,
+            "sản phẩm": 0.995360555825755
+        },
+        "dicts_adj": {
+            "quần áo": [
+                "đẹp"
+            ],
+            "lượng vải": [
+                "tốt",
+                "dễ"
+            ],
+            "nhân viên": [],
+            "cửa hàng": [
+                "sạch sẽ",
+                "mát"
+            ],
+            "shop": [],
+            "trải nghiệm": [
+                "nhiều",
+                "hơn"
+            ],
+            "sản phẩm": [
+                "vui",
+                "tích cực"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quần áo": 1,
+            "lượng vải": 1,
+            "nhân viên": 2.5,
+            "cửa hàng": 1,
+            "shop": 1.5,
+            "trải nghiệm": 1.5,
+            "sản phẩm": 1
+        }
     }
 ]
