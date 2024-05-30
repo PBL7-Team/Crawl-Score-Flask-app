@@ -101,6 +101,6 @@ def stop_crawl_service():
 def start_crawl_mode_2():
     return crawl_all_mode_2()
 
-start_crawl()
+# start_crawl()
 
 # start_crawl()
