@@ -53,12 +53,12 @@ def get_new_contentbase_df():
 
 
 def recommend_system(text):
-    print("Hi")
+    # print("Hi")
     dicts_sentiment, _, _, _ = TextEntities_Score(text,True)
     list_proper_noun_feature = [word['wordForm'] for word in annotate_text(text) if word['nerLabel'] in ['B-LOC', 'B-PER']]
     # new_contentbase_df = get_new_contentbase_df()
-    print(dicts_sentiment)
-    print(list_proper_noun_feature)
+    # print(dicts_sentiment)
+    # print(list_proper_noun_feature)
     conduct_content_base(dicts_sentiment, list_proper_noun_feature)
     
     return conduct_content_base(dicts_sentiment, list_proper_noun_feature)
@@ -126,5 +126,5 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
 
     return sorted_user_similarity_df
 
-text = "giới thiệu cho tôi 1 chỗ nhà hàng đồ ăn tại Hoa Kỳ."
-print(recommend_system(text))
+# text = "giới thiệu cho tôi 1 chỗ nhà hàng đồ ăn tại Hoa Kỳ."
+# print(recommend_system(text))
