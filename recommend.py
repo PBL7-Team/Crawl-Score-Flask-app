@@ -53,7 +53,7 @@ def get_new_contentbase_df():
 
 
 def recommend_system(text):
-    # print("Hi")
+    print("Hi")
     dicts_sentiment, _, _, _ = TextEntities_Score(text,True)
     list_proper_noun_feature = [word['wordForm'] for word in annotate_text(text) if word['nerLabel'] in ['B-LOC', 'B-PER']]
     # new_contentbase_df = get_new_contentbase_df()
@@ -84,17 +84,26 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
         clusters_dict = json.load(f)
     
     keys_list = list(dicts_sentiment.keys())
-
+    # print(keys_list)
+    # print(list_proper_noun_feature)
     comment_cluster_list = []
+
     for key in keys_list:
         in_cluster = find_cluster(clusters_dict, key)
-        if in_cluster != None:
-            comment_cluster_list.append(in_cluster)
+        if in_cluster == None:
+            comment_cluster_list.append(key)
+            content_base_df[key] = 0
+        else:
+            comment_cluster_list.append(in_cluster)  
+
+    # print(comment_cluster_list)
+    comment_cluster_list = comment_cluster_list + list_proper_noun_feature
+    # print(comment_cluster_list)
 
     column_names = content_base_df.columns
     for proper_noun in list_proper_noun_feature:
-        if proper_noun in column_names:
-            comment_cluster_list.append(proper_noun)
+        if proper_noun not in column_names:
+            content_base_df[proper_noun] = -2
     
     filtered_df = content_base_df[comment_cluster_list]
 
@@ -117,5 +126,5 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
 
     return sorted_user_similarity_df
 
-text = "giới thiệu cho tôi 1 chỗ nhà hàng đồ ăn tại Đà Nẵng."
+text = "giới thiệu cho tôi 1 chỗ nhà hàng đồ ăn tại Hoa Kỳ."
 print(recommend_system(text))
