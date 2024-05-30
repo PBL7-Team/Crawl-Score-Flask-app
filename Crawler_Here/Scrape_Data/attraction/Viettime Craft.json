@@ -795,7 +795,12 @@
             "https://www.tripadvisor.com/Attraction_Review-g297390-d4593918-Reviews-Japanese_Massage_Masa-Siem_Reap_Siem_Reap_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d9748323-Reviews-or20-Viettime_Craft-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d9748323-Reviews-or10-Viettime_Craft-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d9748323-Reviews-or10-Viettime_Craft-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     },
     {
         "attraction_name": "Viettime Craft",
@@ -894,6 +899,51 @@
             "https://www.tripadvisor.com/Attraction_Review-g190454-d2041749-Reviews-Donauinsel-Vienna.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d9748323-Reviews-or20-Viettime_Craft-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d9748323-Reviews-or20-Viettime_Craft-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "sản phẩm": 0.8782372414134443,
+            "cửa hàng": 0.745612273865845,
+            "nhân viên": 0.9955963955726475,
+            "thẩm bùi": 0.9946795128635131,
+            "cửa hàng lưu niệm": 0.993650923948735,
+            "quần áo lụa": 0.993726531858556,
+            "giá cả": 0.97586141503416
+        },
+        "dicts_adj": {
+            "sản phẩm": [
+                "gần",
+                "đặc biệt",
+                "vui"
+            ],
+            "cửa hàng": [
+                "nhiều"
+            ],
+            "nhân viên": [
+                "xinh đẹp"
+            ],
+            "thẩm bùi": [
+                "nhiều"
+            ],
+            "cửa hàng lưu niệm": [
+                "tốt"
+            ],
+            "quần áo lụa": [
+                "Tốt"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "sản phẩm": 1.0,
+            "cửa hàng": 1.0,
+            "nhân viên": 0.5,
+            "thẩm bùi": 0.5,
+            "cửa hàng lưu niệm": 0.5,
+            "quần áo lụa": 0.5,
+            "giá cả": 0.5
+        }
     }
 ]

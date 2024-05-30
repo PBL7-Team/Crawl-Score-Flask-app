@@ -66,6 +66,96 @@
             "https://www.tripadvisor.com/Attraction_Review-g60950-d561979-Reviews-Madera_Canyon-Tucson_Arizona.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g737052-d17766421-Reviews-Flamingo_Laocai_Motorbike_Tours_and_Rentals-Lao_Cai_Lao_Cai_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g737052-d17766421-Reviews-Flamingo_Laocai_Motorbike_Tours_and_Rentals-Lao_Cai_Lao_Cai_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đồ bảo hộ": -0.7843460575677454,
+            "xe đạp": 0.3344593628076836,
+            "cửa hàng": 0.5,
+            "thiết bị": 0.5,
+            "dây": 0.5,
+            "dịch vụ": 0.9946147670852952,
+            "xe đạp du lịch": 0.9955023935181089,
+            "đường sá": 0.9934624314773828,
+            "trả xe đạp": 0.45192715898156166,
+            "chuyến đi": 0.9842096460051835,
+            "rừng rậm": 0.9784796388121322,
+            "quý ông": 0.9854249840136617,
+            "thị trấn": 0.5,
+            "văn phòng": 0.994591957773082,
+            "chuyến đi xe máy": 0.9266757555305958,
+            "xe máy": 0.9955316611449234
+        },
+        "dicts_adj": {
+            "đồ bảo hộ": [
+                "khác"
+            ],
+            "xe đạp": [
+                "khác",
+                "khác",
+                "tuyệt vời",
+                "thoải mái"
+            ],
+            "cửa hàng": [],
+            "thiết bị": [],
+            "dây": [],
+            "dịch vụ": [
+                "tốt"
+            ],
+            "xe đạp du lịch": [
+                "hoàn hảo",
+                "tuyệt vời"
+            ],
+            "đường sá": [
+                "công bằng",
+                "khác"
+            ],
+            "trả xe đạp": [
+                "nhiều",
+                "khác"
+            ],
+            "chuyến đi": [
+                "Cuối cùng"
+            ],
+            "rừng rậm": [
+                "thực sự",
+                "tốt"
+            ],
+            "quý ông": [
+                "tốt"
+            ],
+            "thị trấn": [],
+            "văn phòng": [
+                "vui vẻ",
+                "cùng"
+            ],
+            "chuyến đi xe máy": [
+                "gần",
+                "nhất"
+            ],
+            "xe máy": [
+                "tuyệt vời",
+                "hợp lý"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đồ bảo hộ": 0.5,
+            "xe đạp": 2.5,
+            "cửa hàng": 0.5,
+            "thiết bị": 0.5,
+            "dây": 0.5,
+            "dịch vụ": 0.5,
+            "xe đạp du lịch": 0.5,
+            "đường sá": 0.5,
+            "trả xe đạp": 0.5,
+            "chuyến đi": 1,
+            "rừng rậm": 1,
+            "quý ông": 1,
+            "thị trấn": 1,
+            "văn phòng": 1.5,
+            "chuyến đi xe máy": 1.5,
+            "xe máy": 1.5
+        }
     }
 ]

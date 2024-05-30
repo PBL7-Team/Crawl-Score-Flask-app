@@ -19,7 +19,7 @@ def crawl_1_url(url):
         'source': 'universal',
         'url': url,
         'user_agent_type': 'desktop',
-        'geo_location': 'United States'
+        'geo_location': 'Viet Nam'
     }
 
     # Get response.

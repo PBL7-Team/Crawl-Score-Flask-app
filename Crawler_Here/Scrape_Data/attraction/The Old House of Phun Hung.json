@@ -103,7 +103,187 @@
             "https://www.tripadvisor.com/Attraction_Review-g662316-d10038189-Reviews-Kashmir_Point-Murree_Punjab_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or10-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi nhà": 0.20646024367521962,
+            "cửa hàng": 0.5,
+            "bức tranh": 0.5,
+            "dấu tích lịch sử": 0.440970815718174,
+            "cấu trúc": 0.6395504167303443,
+            "cầu thang": 0.863734601996839,
+            "gần cầu": 0.9431900857016444,
+            "ngôi nhà gỗ": 0.99225880112499,
+            "nhà cổ": 0.7233517325172821,
+            "di sản": -0.9178772573359311,
+            "bàn thờ": 0.688062034547329,
+            "vị thần": 0.5,
+            "chủ sở hữu": 0.5,
+            "gia chủ": 0.5,
+            "tòa nhà": -0.2077978771412745,
+            "cửa": 0.43867461709305644,
+            "hàng lưu niệm": 0.5,
+            "phố cổ": 0.5,
+            "chùa cầu": 0.5,
+            "ban công": 0.9953386186389253,
+            "tầm nhìn": 0.7615038281073794,
+            "cây cầu": 0.5,
+            "đường phố": 0.5,
+            "hàng lịch sự": -0.21052973112091422,
+            "lịch sử": 0.5,
+            "vị trí": 0.5,
+            "giá trị kinh tế": 0.5266421316191554,
+            "nội thất": 0.5,
+            "sân thượng": 0.994567918824032,
+            "phố cổ hội an": 0.5,
+            "đồ trang trí": 0.8737692451104522,
+            "đồ nội": 0.9952542938990518,
+            "chuyến thăm": 0.9658819083124399,
+            "ngôi": 0.4747104234993458,
+            "nhà gỗ": 0.42621710151433945,
+            "sàn gỗ": 0.9813690702430904
+        },
+        "dicts_adj": {
+            "ngôi nhà": [
+                "cũ",
+                "cổ",
+                "cổ",
+                "nhiều",
+                "hơn",
+                "thực sự",
+                "cụ thể",
+                "chắc",
+                "thú vị",
+                "hơn",
+                "thú vị",
+                "nhiều",
+                "hơn",
+                "cổ",
+                "nhiều",
+                "thú vị"
+            ],
+            "cửa hàng": [],
+            "bức tranh": [],
+            "dấu tích lịch sử": [
+                "cũ kỹ"
+            ],
+            "cấu trúc": [
+                "cũ kỹ"
+            ],
+            "cầu thang": [
+                "cũ kỹ"
+            ],
+            "gần cầu": [
+                "dễ dàng"
+            ],
+            "ngôi nhà gỗ": [
+                "nâu",
+                "sẫm",
+                "đẹp"
+            ],
+            "nhà cổ": [
+                "hơn"
+            ],
+            "di sản": [
+                "cao",
+                "cũ"
+            ],
+            "bàn thờ": [
+                "thú vị"
+            ],
+            "vị thần": [],
+            "chủ sở hữu": [],
+            "gia chủ": [],
+            "tòa nhà": [
+                "khác",
+                "khác"
+            ],
+            "cửa": [
+                "ít",
+                "thực sự"
+            ],
+            "hàng lưu niệm": [],
+            "phố cổ": [],
+            "chùa cầu": [],
+            "ban công": [
+                "tuyệt vời"
+            ],
+            "tầm nhìn": [
+                "cao",
+                "đẹp"
+            ],
+            "cây cầu": [],
+            "đường phố": [],
+            "hàng lịch sự": [
+                "ít",
+                "thực sự"
+            ],
+            "lịch sử": [],
+            "vị trí": [],
+            "giá trị kinh tế": [],
+            "nội thất": [],
+            "sân thượng": [
+                "xinh xắn"
+            ],
+            "phố cổ hội an": [],
+            "đồ trang trí": [
+                "thú vị"
+            ],
+            "đồ nội": [
+                "thú vị"
+            ],
+            "chuyến thăm": [
+                "chắc chắn"
+            ],
+            "ngôi": [
+                "cùng"
+            ],
+            "nhà gỗ": [
+                "cùng"
+            ],
+            "sàn gỗ": [
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngôi nhà": 4.5,
+            "cửa hàng": 2.5,
+            "bức tranh": 1.5,
+            "dấu tích lịch sử": 1.5,
+            "cấu trúc": 1.5,
+            "cầu thang": 1.5,
+            "gần cầu": 1,
+            "ngôi nhà gỗ": 1,
+            "nhà cổ": 1.5,
+            "di sản": 1,
+            "bàn thờ": 1,
+            "vị thần": 1,
+            "chủ sở hữu": 1,
+            "gia chủ": 0.5,
+            "tòa nhà": 1.0,
+            "cửa": 1.0,
+            "hàng lưu niệm": 0.5,
+            "phố cổ": 1.0,
+            "chùa cầu": 0.5,
+            "ban công": 0.5,
+            "tầm nhìn": 1.0,
+            "cây cầu": 0.5,
+            "đường phố": 0.5,
+            "hàng lịch sự": 0.5,
+            "lịch sử": 0.5,
+            "vị trí": 0.5,
+            "giá trị kinh tế": 0.5,
+            "nội thất": 0.5,
+            "sân thượng": 0.5,
+            "phố cổ hội an": 0.5,
+            "đồ trang trí": 0.5,
+            "đồ nội": 0.5,
+            "chuyến thăm": 0.5,
+            "ngôi": 0.5,
+            "nhà gỗ": 0.5,
+            "sàn gỗ": 0.5
+        }
     },
     {
         "attraction_name": "The Old House of Phun Hung",
@@ -211,7 +391,153 @@
             "https://www.tripadvisor.com/Attraction_Review-g187073-d523501-Reviews-Little_Venice-Colmar_Haut_Rhin_Grand_Est.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or20-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or10-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or10-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi nhà": 0.5922079928790308,
+            "lịch sử": 0.6450476458606621,
+            "ngôi nhà cổ": 0.9888860501523595,
+            "cây cầu": 0.9883511642692611,
+            "kiến ​​trúc truyền thống": 0.6116223791614175,
+            "tòa nhà": 0.9786424795165658,
+            "hướng dẫn viên": -0.32379342790227383,
+            "quầy hàng": 0.5,
+            "hội trường": 0.987571757286787,
+            "ngôi nhà gỗ": 0.9812407882418483,
+            "kiến ​​trúc": 0.5,
+            "nhân viên": -0.9757143792230636,
+            "căn phòng": 0.992885087733157,
+            "tác phẩm": 0.9954988563549705,
+            "phòng": 0.9924475162988529,
+            "quần áo": 0.5,
+            "kệ lưu niệm": 0.49119585007429123,
+            "địa điểm": 0.9839566650334746,
+            "người dân": 0.5,
+            "lĩnh vực": 0.9924573804019019,
+            "hàng": 0.5,
+            "trưng bày nghệ thuật": 0.5,
+            "nghề thêu thùa": 0.5,
+            "nhà cổ": 0.7983574531972408,
+            "đồ nội": 0.9936658344231546,
+            "đồ tạo tác": 0.9897043214878067
+        },
+        "dicts_adj": {
+            "ngôi nhà": [
+                "thú vị",
+                "thú vị",
+                "nguyên",
+                "cổ",
+                "ít",
+                "Đúng",
+                "đẹp",
+                "xinh đẹp",
+                "cổ",
+                "cổ",
+                "có thể",
+                "lộng lẫy",
+                "cổ"
+            ],
+            "lịch sử": [
+                "thú vị",
+                "ít"
+            ],
+            "ngôi nhà cổ": [
+                "nguyên"
+            ],
+            "cây cầu": [
+                "nguyên"
+            ],
+            "kiến ​​trúc truyền thống": [
+                "nguyên"
+            ],
+            "tòa nhà": [
+                "đẹp"
+            ],
+            "hướng dẫn viên": [
+                "khác",
+                "giống",
+                "khác",
+                "giống",
+                "tương tự",
+                "lịch sự"
+            ],
+            "quầy hàng": [],
+            "hội trường": [
+                "khác",
+                "thú vị",
+                "hơn",
+                "nhiều"
+            ],
+            "ngôi nhà gỗ": [],
+            "kiến ​​trúc": [],
+            "nhân viên": [
+                "thô lỗ"
+            ],
+            "căn phòng": [
+                "đẹp đẽ"
+            ],
+            "tác phẩm": [
+                "đẹp đẽ"
+            ],
+            "phòng": [
+                "đẹp đẽ"
+            ],
+            "quần áo": [],
+            "kệ lưu niệm": [],
+            "địa điểm": [
+                "khác",
+                "giống",
+                "riêng",
+                "đẹp"
+            ],
+            "người dân": [],
+            "lĩnh vực": [
+                "tốt",
+                "hơn",
+                "khác"
+            ],
+            "hàng": [],
+            "trưng bày nghệ thuật": [],
+            "nghề thêu thùa": [],
+            "nhà cổ": [
+                "nổi tiếng"
+            ],
+            "đồ nội": [
+                "xinh xắn"
+            ],
+            "đồ tạo tác": [
+                "xinh xắn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngôi nhà": 3.5,
+            "lịch sử": 1.5,
+            "ngôi nhà cổ": 1.0,
+            "cây cầu": 0.5,
+            "kiến ​​trúc truyền thống": 0.5,
+            "tòa nhà": 0.5,
+            "hướng dẫn viên": 1.0,
+            "quầy hàng": 0.5,
+            "hội trường": 0.5,
+            "ngôi nhà gỗ": 0.5,
+            "kiến ​​trúc": 0.5,
+            "nhân viên": 0.5,
+            "căn phòng": 0.5,
+            "tác phẩm": 0.5,
+            "phòng": 0.5,
+            "quần áo": 0.5,
+            "kệ lưu niệm": 0.5,
+            "địa điểm": 0.5,
+            "người dân": 0.5,
+            "lĩnh vực": 0.5,
+            "hàng": 0.5,
+            "trưng bày nghệ thuật": 0.5,
+            "nghề thêu thùa": 0.5,
+            "nhà cổ": 0.5,
+            "đồ nội": 0.5,
+            "đồ tạo tác": 0.5
+        }
     },
     {
         "attraction_name": "The Old House of Phun Hung",
@@ -320,7 +646,140 @@
             "https://www.tripadvisor.com/Attraction_Review-g34439-d661787-Reviews-Nikki_Beach-Miami_Beach_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or30-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or20-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or20-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi nhà": 0.4213773574476363,
+            "món đồ nội": 0.9952836868469603,
+            "đồ trang trí": 0.994564306573011,
+            "thương gia": 0.9952624368015677,
+            "bảo tàng nhà": 0.8737692451104522,
+            "hội an": 0.8737692451104522,
+            "cửa": 0.5,
+            "hàng lưu niệm": 0.5,
+            "cửa hàng": 0.8737692451104522,
+            "đồ thêu thủ công": 0.5,
+            "hướng dẫn viên du lịch": -0.8307235985994339,
+            "công trình kiến ​​trúc lịch sử": 0.5980153325945139,
+            "nhân viên": 0.47515054047107697,
+            "nền đá cẩm thạch": 0.5,
+            "nhà": 0.8737692451104522,
+            "họ": 0.5,
+            "khăn": 0.9508154382929206,
+            "không khí lưu": 0.5,
+            "đồ nội thất": 0.9942740257829428,
+            "biểu tượng": 0.6731244046241045,
+            "phong cách": 0.5,
+            "món quà lưu niệm": 0.9891045372933149,
+            "biển báo": -0.9276009146124125,
+            "phòng tối": 0.5080559775233269,
+            "đường phố": 0.667733614332974
+        },
+        "dicts_adj": {
+            "ngôi nhà": [
+                "xinh đẹp",
+                "nhiều",
+                "thú vị",
+                "thực sự",
+                "hơn",
+                "cũ",
+                "duy nhất",
+                "đẹp",
+                "đầy",
+                "cũ",
+                "đẹp"
+            ],
+            "món đồ nội": [
+                "thực sự"
+            ],
+            "đồ trang trí": [
+                "thực sự"
+            ],
+            "thương gia": [
+                "giàu có"
+            ],
+            "bảo tàng nhà": [
+                "thực sự",
+                "nhiều"
+            ],
+            "hội an": [
+                "thực sự",
+                "nhiều"
+            ],
+            "cửa": [],
+            "hàng lưu niệm": [],
+            "cửa hàng": [
+                "chuyên"
+            ],
+            "đồ thêu thủ công": [],
+            "hướng dẫn viên du lịch": [
+                "đầu tiên",
+                "đặc biệt",
+                "mờ"
+            ],
+            "công trình kiến ​​trúc lịch sử": [
+                "nhiều"
+            ],
+            "nhân viên": [
+                "thực sự"
+            ],
+            "nền đá cẩm thạch": [],
+            "nhà": [
+                "khoảng"
+            ],
+            "họ": [],
+            "khăn": [
+                "cũ"
+            ],
+            "không khí lưu": [],
+            "đồ nội thất": [
+                "đẹp"
+            ],
+            "biểu tượng": [
+                "sống động"
+            ],
+            "phong cách": [],
+            "món quà lưu niệm": [
+                "đắt đỏ"
+            ],
+            "biển báo": [],
+            "phòng tối": [
+                "cũ",
+                "sâu sắc",
+                "nhỏ"
+            ],
+            "đường phố": [
+                "chủ yếu"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngôi nhà": 3.0,
+            "món đồ nội": 0.5,
+            "đồ trang trí": 0.5,
+            "thương gia": 0.5,
+            "bảo tàng nhà": 0.5,
+            "hội an": 0.5,
+            "cửa": 0.5,
+            "hàng lưu niệm": 0.5,
+            "cửa hàng": 0.5,
+            "đồ thêu thủ công": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "công trình kiến ​​trúc lịch sử": 0.5,
+            "nhân viên": 1.0,
+            "nền đá cẩm thạch": 0.5,
+            "nhà": 0.5,
+            "họ": 0.5,
+            "khăn": 0.5,
+            "không khí lưu": 0.5,
+            "đồ nội thất": 0.5,
+            "biểu tượng": 0.5,
+            "phong cách": 0.5,
+            "món quà lưu niệm": 0.5,
+            "biển báo": 0.5,
+            "phòng tối": 0.5,
+            "đường phố": 0.5
+        }
     },
     {
         "attraction_name": "The Old House of Phun Hung",
@@ -429,7 +888,204 @@
             "https://www.tripadvisor.com/Attraction_Review-g57090-d285788-Reviews-George_S_Eccles_Dinosaur_Park-Ogden_Utah.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or40-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or30-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or30-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi nhà": 0.47288385272536076,
+            "kiến": 0.9669340988621116,
+            "bán đồ lưu niệm": -0.09878427442163229,
+            "tầm nhìn": 0.5,
+            "bức tường": 0.9945389727363363,
+            "chuyến lưu diễn": 0.77375169377774,
+            "bánh quy trái cây": -0.9658183376304805,
+            "đồ uống": -0.9362342546228319,
+            "máy điều hòa": -0.9598267967812717,
+            "thợ bạc": 0.5802261456847191,
+            "tòa nhà nguyên": 0.5937767028808594,
+            "đồ trang sức": 0.9954424466122873,
+            "nhà cổ": 0.5884319208562374,
+            "cửa": -0.6627520583570004,
+            "hàng": -0.923944677459076,
+            "tòa nhà cũ": 0.9266624171286821,
+            "tưởng tượng": 0.24530054070055485,
+            "thanh xà": -0.6775524478871375,
+            "trái": 0.5,
+            "ngôi nhà di sản": 0.9315077755600214,
+            "ngôi nhà cổ": 0.5,
+            "cây cầu": 0.9864793282467872,
+            "ban công": 0.9868780476972461,
+            "món đồ": 0.9813534966669977,
+            "khăn trải": 0.5,
+            "phố cổ": 0.8170968480408192,
+            "mặt hàng": -0.28932542295660824,
+            "cửa hàng": 0.5,
+            "đồ sơn": 0.9845786395017058,
+            "lịch sử": 0.9871916440315545,
+            "di tích lịch sử": 0.9735856517218053,
+            "cột gỗ": 0.5,
+            "hoa sen": 0.5,
+            "cư dân": 0.9865445311879739,
+            "tầng": 0.5,
+            "mai rùa": 0.5,
+            "xưởng thêu": 0.5106571726500988,
+            "tấm": 0.5,
+            "cầu thang": -0.8891541068442166,
+            "bàn thờ": 0.5466508511453867,
+            "thị trấn": 0.8212437047623098,
+            "chiếc khăn": 0.9940561354742385
+        },
+        "dicts_adj": {
+            "ngôi nhà": [
+                "cổ",
+                "duy nhất",
+                "gần",
+                "tốt",
+                "hơn",
+                "chặt",
+                "an toàn",
+                "cổ"
+            ],
+            "kiến": [],
+            "bán đồ lưu niệm": [
+                "đắt"
+            ],
+            "tầm nhìn": [],
+            "bức tường": [
+                "vinh dự"
+            ],
+            "chuyến lưu diễn": [
+                "riêng"
+            ],
+            "bánh quy trái cây": [
+                "ngắn"
+            ],
+            "đồ uống": [
+                "ngắn"
+            ],
+            "máy điều hòa": [
+                "to lớn",
+                "lớn"
+            ],
+            "thợ bạc": [],
+            "tòa nhà nguyên": [
+                "ấn tượng"
+            ],
+            "đồ trang sức": [
+                "tốt"
+            ],
+            "nhà cổ": [],
+            "cửa": [
+                "đắt"
+            ],
+            "hàng": [
+                "đắt"
+            ],
+            "tòa nhà cũ": [
+                "quá tải",
+                "tốt"
+            ],
+            "tưởng tượng": [
+                "gần",
+                "thông minh"
+            ],
+            "thanh xà": [
+                "khóa",
+                "đúng"
+            ],
+            "trái": [],
+            "ngôi nhà di sản": [
+                "an toàn"
+            ],
+            "ngôi nhà cổ": [],
+            "cây cầu": [
+                "đẹp"
+            ],
+            "ban công": [
+                "đẹp"
+            ],
+            "món đồ": [
+                "thêu thùa"
+            ],
+            "khăn trải": [],
+            "phố cổ": [],
+            "mặt hàng": [
+                "đắt",
+                "hơn"
+            ],
+            "cửa hàng": [],
+            "đồ sơn": [
+                "nhiều"
+            ],
+            "lịch sử": [],
+            "di tích lịch sử": [],
+            "cột gỗ": [],
+            "hoa sen": [],
+            "cư dân": [],
+            "tầng": [],
+            "mai rùa": [],
+            "xưởng thêu": [
+                "trệt"
+            ],
+            "tấm": [],
+            "cầu thang": [
+                "hẹp"
+            ],
+            "bàn thờ": [
+                "cùng",
+                "cùng"
+            ],
+            "thị trấn": [
+                "gần"
+            ],
+            "chiếc khăn": [
+                "xinh xắn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngôi nhà": 3.5,
+            "kiến": 0.5,
+            "bán đồ lưu niệm": 1.0,
+            "tầm nhìn": 0.5,
+            "bức tường": 0.5,
+            "chuyến lưu diễn": 0.5,
+            "bánh quy trái cây": 0.5,
+            "đồ uống": 0.5,
+            "máy điều hòa": 0.5,
+            "thợ bạc": 0.5,
+            "tòa nhà nguyên": 0.5,
+            "đồ trang sức": 0.5,
+            "nhà cổ": 0.5,
+            "cửa": 0.5,
+            "hàng": 0.5,
+            "tòa nhà cũ": 0.5,
+            "tưởng tượng": 0.5,
+            "thanh xà": 0.5,
+            "trái": 0.5,
+            "ngôi nhà di sản": 0.5,
+            "ngôi nhà cổ": 0.5,
+            "cây cầu": 0.5,
+            "ban công": 0.5,
+            "món đồ": 0.5,
+            "khăn trải": 0.5,
+            "phố cổ": 0.5,
+            "mặt hàng": 0.5,
+            "cửa hàng": 0.5,
+            "đồ sơn": 0.5,
+            "lịch sử": 0.5,
+            "di tích lịch sử": 0.5,
+            "cột gỗ": 0.5,
+            "hoa sen": 0.5,
+            "cư dân": 0.5,
+            "tầng": 0.5,
+            "mai rùa": 0.5,
+            "xưởng thêu": 0.5,
+            "tấm": 0.5,
+            "cầu thang": 0.5,
+            "bàn thờ": 0.5,
+            "thị trấn": 0.5,
+            "chiếc khăn": 0.5
+        }
     },
     {
         "attraction_name": "The Old House of Phun Hung",
@@ -537,7 +1193,161 @@
             "https://www.tripadvisor.com/Attraction_Review-g46292-d7050489-Reviews-Thundering_Surf_Waterpark-Beach_Haven_Long_Beach_Island_New_Jersey.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or50-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or40-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or40-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi nhà": 0.6165807759638743,
+            "đồ lưu niệm": 0.8524279147386551,
+            "cửa hàng": -0.23630179039901122,
+            "đồ nội": 0.8737692451104522,
+            "đồ": 0.5,
+            "sành sứ": 0.5,
+            "dao kéo": 0.5,
+            "vật lưu niệm": 0.9951021076412871,
+            "tác phẩm nghệ thuật": 0.9903549628797919,
+            "giá cả": 0.9529068090487272,
+            "nhà phun hưng": 0.8737692451104522,
+            "chuyến tham": -0.6500095704686828,
+            "sản phẩm thêu": -0.9649707819335163,
+            "cuộc chào": -0.9646094108466059,
+            "bảo tàng": 0.5,
+            "chủ sở": 0.5,
+            "hàng": 0.5,
+            "quà tặng": 0.5,
+            "mạng nhện": -0.7438759841024876,
+            "tòa nhà": -0.9751856955699623,
+            "nhân viên bán đồ thêu": -0.9749141854699701,
+            "nhà cổ": 0.5,
+            "di sản": 0.5,
+            "hướng dẫn viên": 0.7228600184898823,
+            "tay": 0.8737692451104522,
+            "nghề thủ công": 0.36532841602456756,
+            "cầu thang gỗ": -0.4888389250263572,
+            "tấm vải lanh": 0.5
+        },
+        "dicts_adj": {
+            "ngôi nhà": [
+                "cùng",
+                "rẻ",
+                "giống",
+                "nhiều",
+                "khác",
+                "nhiều",
+                "hơn",
+                "đẹp",
+                "đẹp",
+                "đẹp",
+                "xinh đẹp",
+                "cổ"
+            ],
+            "đồ lưu niệm": [
+                "rẻ",
+                "hơn"
+            ],
+            "cửa hàng": [
+                "khác"
+            ],
+            "đồ nội": [
+                "cũ"
+            ],
+            "đồ": [],
+            "sành sứ": [],
+            "dao kéo": [],
+            "vật lưu niệm": [
+                "hợp lý"
+            ],
+            "tác phẩm nghệ thuật": [
+                "hợp lý"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "nhà phun hưng": [
+                "ngắn gọn",
+                "dài hạn"
+            ],
+            "chuyến tham": [
+                "ngắn gọn",
+                "dài hạn",
+                "ngắn gọn",
+                "cơ bản"
+            ],
+            "sản phẩm thêu": [
+                "khác"
+            ],
+            "cuộc chào": [],
+            "bảo tàng": [],
+            "chủ sở": [],
+            "hàng": [],
+            "quà tặng": [],
+            "mạng nhện": [
+                "bụi",
+                "nhiều",
+                "khắp"
+            ],
+            "tòa nhà": [
+                "thân thiện"
+            ],
+            "nhân viên bán đồ thêu": [
+                "thân thiện"
+            ],
+            "nhà cổ": [],
+            "di sản": [],
+            "hướng dẫn viên": [
+                "ít",
+                "tốt",
+                "hơn",
+                "nhiều"
+            ],
+            "tay": [
+                "tuyệt vời",
+                "tối",
+                "nhiều",
+                "muộn"
+            ],
+            "nghề thủ công": [
+                "tuyệt vời",
+                "tối",
+                "nhiều",
+                "muộn"
+            ],
+            "cầu thang gỗ": [
+                "hẹp",
+                "tốt"
+            ],
+            "tấm vải lanh": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngôi nhà": 3.5,
+            "đồ lưu niệm": 0.5,
+            "cửa hàng": 1.0,
+            "đồ nội": 0.5,
+            "đồ": 0.5,
+            "sành sứ": 0.5,
+            "dao kéo": 0.5,
+            "vật lưu niệm": 0.5,
+            "tác phẩm nghệ thuật": 0.5,
+            "giá cả": 0.5,
+            "nhà phun hưng": 0.5,
+            "chuyến tham": 1.0,
+            "sản phẩm thêu": 0.5,
+            "cuộc chào": 0.5,
+            "bảo tàng": 0.5,
+            "chủ sở": 0.5,
+            "hàng": 1.0,
+            "quà tặng": 0.5,
+            "mạng nhện": 0.5,
+            "tòa nhà": 0.5,
+            "nhân viên bán đồ thêu": 0.5,
+            "nhà cổ": 0.5,
+            "di sản": 0.5,
+            "hướng dẫn viên": 1.0,
+            "tay": 0.5,
+            "nghề thủ công": 0.5,
+            "cầu thang gỗ": 0.5,
+            "tấm vải lanh": 0.5
+        }
     },
     {
         "attraction_name": "The Old House of Phun Hung",
@@ -645,7 +1455,160 @@
             "https://www.tripadvisor.com/Attraction_Review-g60842-d1556006-Reviews-Christ_in_the_Smokies_Museum_Gardens-Gatlinburg_Tennessee.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or60-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or50-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or50-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi nhà": 0.7987123389078382,
+            "đồ gỗ": 0.744898532750085,
+            "đồ khảm": 0.8438162806560285,
+            "phong cách văn hóa": -0.9763222984038293,
+            "lịch sử": -0.16446734266355634,
+            "thị trấn": 0.5,
+            "cửa hàng": 0.9830997990211472,
+            "đồ lưu niệm du lịch": 0.5,
+            "ngôi nhà cổ": 0.8452309500426054,
+            "phố cổ": 0.5,
+            "nội thất": 0.9953405279084109,
+            "cổ này": 0.9120873245410621,
+            "hướng dẫn viên": -0.3976533333770931,
+            "tòa nhà": 0.924790671095252,
+            "khu phố cổ": 0.5,
+            "chuyến tham quan": 0.5215800236910582,
+            "họ hàng xa": 0.5,
+            "khuôn viên": -0.9613338217604905,
+            "đồ nội": -0.44701079186052084,
+            "xà cừ": 0.9954227774869651,
+            "quà lưu": 0.9950306725222617,
+            "chuyến du lịch": 0.9945018453290686,
+            "ngành tiểu thủ công nghiệp": 0.9666982726193964,
+            "chiếc": 0.9941310675349087,
+            "khăn trải": 0.9932623034110293,
+            "bông": 0.994965712132398,
+            "món quà": 0.9954957449808717,
+            "hàng hóa": 0.9437864273786545
+        },
+        "dicts_adj": {
+            "ngôi nhà": [
+                "nhanh",
+                "nhanh",
+                "nhàm",
+                "đầy",
+                "tuyệt vời",
+                "thực sự",
+                "thú vị",
+                "tuyệt vời",
+                "gụ"
+            ],
+            "đồ gỗ": [
+                "đẹp mắt",
+                "nhiều"
+            ],
+            "đồ khảm": [
+                "đẹp mắt",
+                "nhiều"
+            ],
+            "phong cách văn hóa": [
+                "khác"
+            ],
+            "lịch sử": [
+                "gụ"
+            ],
+            "thị trấn": [],
+            "cửa hàng": [
+                "tốt",
+                "tốt"
+            ],
+            "đồ lưu niệm du lịch": [],
+            "ngôi nhà cổ": [],
+            "phố cổ": [],
+            "nội thất": [
+                "tốt",
+                "độc đáo"
+            ],
+            "cổ này": [
+                "khoảng"
+            ],
+            "hướng dẫn viên": [
+                "khoảng"
+            ],
+            "tòa nhà": [
+                "cổ",
+                "sâu sắc"
+            ],
+            "khu phố cổ": [],
+            "chuyến tham quan": [
+                "khoảng"
+            ],
+            "họ hàng xa": [],
+            "khuôn viên": [
+                "gụ"
+            ],
+            "đồ nội": [
+                "gụ"
+            ],
+            "xà cừ": [
+                "đẹp"
+            ],
+            "quà lưu": [
+                "thú vị"
+            ],
+            "chuyến du lịch": [
+                "thú vị"
+            ],
+            "ngành tiểu thủ công nghiệp": [
+                "đẹp"
+            ],
+            "chiếc": [
+                "đẹp"
+            ],
+            "khăn trải": [
+                "đẹp"
+            ],
+            "bông": [
+                "đẹp"
+            ],
+            "món quà": [
+                "riêng",
+                "độc đáo",
+                "tuyệt vời"
+            ],
+            "hàng hóa": [
+                "vui",
+                "cẩn thận",
+                "suốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngôi nhà": 3.0,
+            "đồ gỗ": 0.5,
+            "đồ khảm": 0.5,
+            "phong cách văn hóa": 0.5,
+            "lịch sử": 1.0,
+            "thị trấn": 0.5,
+            "cửa hàng": 0.5,
+            "đồ lưu niệm du lịch": 0.5,
+            "ngôi nhà cổ": 0.5,
+            "phố cổ": 1.0,
+            "nội thất": 0.5,
+            "cổ này": 0.5,
+            "hướng dẫn viên": 1.0,
+            "tòa nhà": 0.5,
+            "khu phố cổ": 0.5,
+            "chuyến tham quan": 0.5,
+            "họ hàng xa": 0.5,
+            "khuôn viên": 0.5,
+            "đồ nội": 0.5,
+            "xà cừ": 0.5,
+            "quà lưu": 0.5,
+            "chuyến du lịch": 0.5,
+            "ngành tiểu thủ công nghiệp": 0.5,
+            "chiếc": 0.5,
+            "khăn trải": 0.5,
+            "bông": 0.5,
+            "món quà": 0.5,
+            "hàng hóa": 0.5
+        }
     },
     {
         "attraction_name": "The Old House of Phun Hung",
@@ -753,7 +1716,117 @@
             "https://www.tripadvisor.com/Attraction_Review-g52882-d286351-Reviews-Kitchen_Kettle_Village-Intercourse_Lancaster_County_Pennsylvania.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or70-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or60-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or60-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "con phố": 0.5,
+            "khu phố cổ": 0.5,
+            "xe tay ga": 0.6515634097158909,
+            "ngôi nhà": 0.7507642192795174,
+            "nhân viên": 0.779933137819171,
+            "tủ": 0.5160224251449108,
+            "quần áo": 0.1933021228760481,
+            "thị trấn": 0.9288076157681644,
+            "cột": 0.5,
+            "gỗ lim": 0.5,
+            "bệ đá cẩm": 0.5,
+            "người dân": 0.4889390952885151,
+            "phòng": 0.9956186679773964,
+            "cây cầu": 0.9839305067434907,
+            "ngôi chùa": 0.5,
+            "hội trường": 0.5,
+            "ngôi nhà lịch sử": 0.47611950524151325,
+            "sở hữu": -0.008545733988285065,
+            "lịch sử": -0.6397636802867055,
+            "cuộc sống": 0.995097832288593,
+            "tòa nhà": 0.9891431746073067,
+            "trải nghiệm hội an": 0.9955457615433261
+        },
+        "dicts_adj": {
+            "con phố": [],
+            "khu phố cổ": [],
+            "xe tay ga": [
+                "cẩn thận",
+                "nhiều"
+            ],
+            "ngôi nhà": [
+                "đầy",
+                "đẹp",
+                "cổ"
+            ],
+            "nhân viên": [
+                "liên tục",
+                "thú vị"
+            ],
+            "tủ": [
+                "cao"
+            ],
+            "quần áo": [
+                "cao"
+            ],
+            "thị trấn": [
+                "cổ"
+            ],
+            "cột": [],
+            "gỗ lim": [],
+            "bệ đá cẩm": [],
+            "người dân": [
+                "khá giả"
+            ],
+            "phòng": [
+                "đẹp",
+                "view",
+                "đẹp"
+            ],
+            "cây cầu": [
+                "rộng",
+                "đẹp"
+            ],
+            "ngôi chùa": [],
+            "hội trường": [],
+            "ngôi nhà lịch sử": [],
+            "sở hữu": [],
+            "lịch sử": [
+                "nhiều"
+            ],
+            "cuộc sống": [
+                "tuyệt vời",
+                "nóng",
+                "oi bức"
+            ],
+            "tòa nhà": [
+                "đẹp",
+                "gần"
+            ],
+            "trải nghiệm hội an": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "con phố": 0.5,
+            "khu phố cổ": 0.5,
+            "xe tay ga": 0.5,
+            "ngôi nhà": 2.0,
+            "nhân viên": 0.5,
+            "tủ": 0.5,
+            "quần áo": 0.5,
+            "thị trấn": 0.5,
+            "cột": 0.5,
+            "gỗ lim": 0.5,
+            "bệ đá cẩm": 0.5,
+            "người dân": 0.5,
+            "phòng": 0.5,
+            "cây cầu": 0.5,
+            "ngôi chùa": 0.5,
+            "hội trường": 0.5,
+            "ngôi nhà lịch sử": 0.5,
+            "sở hữu": 0.5,
+            "lịch sử": 0.5,
+            "cuộc sống": 0.5,
+            "tòa nhà": 0.5,
+            "trải nghiệm hội an": 0.5
+        }
     },
     {
         "attraction_name": "The Old House of Phun Hung",
@@ -861,7 +1934,161 @@
             "https://www.tripadvisor.com/Attraction_Review-g60314-d207067-Reviews-Whitefish_Dunes_State_Park-Sturgeon_Bay_Wisconsin.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or80-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or70-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or70-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi nhà": 0.6154501043451351,
+            "họ sống": 0.33093814738094807,
+            "người thợ thủ": 0.5,
+            "nhà xây dựng": 0.5,
+            "ván sàn tầng": 0.9928067325963639,
+            "chiến tranh": 0.5063313841819763,
+            "chế tác": 0.5,
+            "cửa": 0.5,
+            "hàng quà tặng": 0.5,
+            "bức tranh thêu tay": 0.995287339494098,
+            "doanh số": 0.472427561879158,
+            "đường phố": 0.9846812481991947,
+            "ngôi nhà cổ": 0.8737692451104522,
+            "di tích lịch sử văn hóa cấp quốc": 0.5,
+            "cột gỗ": 0.5,
+            "hoa sen": 0.5,
+            "ngôi nhà truyền thống": 0.30202628672122955,
+            "khung gỗ": 0.9876087987795472,
+            "lịch sử": 0.9650847832672298,
+            "lịch sử gia đình": 0.8120075341818543,
+            "đồ vật": 0.5,
+            "đồ lưu niệm": 0.5,
+            "tác phẩm nghệ thuật": 0.8755149663581202,
+            "ngôi": 0.5,
+            "nhà lịch sử": 0.5,
+            "hàng lưu niệm": 0.5,
+            "di sản văn hóa thế giới phố cổ": 0.5,
+            "nhãn hiệu": 0.5,
+            "viên ngọc": 0.9467090322286822,
+            "khăn trải": 0.5,
+            "nghề thủ công": -0.79848204087466,
+            "khuôn viên": 0.5
+        },
+        "dicts_adj": {
+            "ngôi nhà": [
+                "nhỏ",
+                "xinh",
+                "hơn",
+                "vững",
+                "vui",
+                "cũ",
+                "tốt",
+                "cũ",
+                "cổ",
+                "thú vị",
+                "thực sự",
+                "đầy",
+                "lịch sử",
+                "tốt"
+            ],
+            "họ sống": [
+                "như thế nào"
+            ],
+            "người thợ thủ": [],
+            "nhà xây dựng": [],
+            "ván sàn tầng": [
+                "chắc chắn",
+                "an toàn"
+            ],
+            "chiến tranh": [
+                "như thế nào"
+            ],
+            "chế tác": [],
+            "cửa": [],
+            "hàng quà tặng": [],
+            "bức tranh thêu tay": [
+                "đẹp"
+            ],
+            "doanh số": [
+                "thêu hơi"
+            ],
+            "đường phố": [
+                "đẹp"
+            ],
+            "ngôi nhà cổ": [
+                "xinh đẹp"
+            ],
+            "di tích lịch sử văn hóa cấp quốc": [],
+            "cột gỗ": [],
+            "hoa sen": [],
+            "ngôi nhà truyền thống": [
+                "nhiều",
+                "khác"
+            ],
+            "khung gỗ": [
+                "hấp dẫn"
+            ],
+            "lịch sử": [
+                "cổ"
+            ],
+            "lịch sử gia đình": [
+                "thú vị",
+                "thực sự",
+                "đầy"
+            ],
+            "đồ vật": [],
+            "đồ lưu niệm": [],
+            "tác phẩm nghệ thuật": [
+                "tốt",
+                "tốt",
+                "hơn"
+            ],
+            "ngôi": [],
+            "nhà lịch sử": [],
+            "hàng lưu niệm": [],
+            "di sản văn hóa thế giới phố cổ": [],
+            "nhãn hiệu": [],
+            "viên ngọc": [
+                "lịch sử",
+                "tốt"
+            ],
+            "khăn trải": [],
+            "nghề thủ công": [
+                "khác"
+            ],
+            "khuôn viên": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngôi nhà": 3.5,
+            "họ sống": 0.5,
+            "người thợ thủ": 0.5,
+            "nhà xây dựng": 0.5,
+            "ván sàn tầng": 0.5,
+            "chiến tranh": 0.5,
+            "chế tác": 0.5,
+            "cửa": 1.0,
+            "hàng quà tặng": 0.5,
+            "bức tranh thêu tay": 0.5,
+            "doanh số": 0.5,
+            "đường phố": 0.5,
+            "ngôi nhà cổ": 0.5,
+            "di tích lịch sử văn hóa cấp quốc": 0.5,
+            "cột gỗ": 0.5,
+            "hoa sen": 0.5,
+            "ngôi nhà truyền thống": 0.5,
+            "khung gỗ": 0.5,
+            "lịch sử": 0.5,
+            "lịch sử gia đình": 0.5,
+            "đồ vật": 0.5,
+            "đồ lưu niệm": 0.5,
+            "tác phẩm nghệ thuật": 0.5,
+            "ngôi": 0.5,
+            "nhà lịch sử": 0.5,
+            "hàng lưu niệm": 0.5,
+            "di sản văn hóa thế giới phố cổ": 0.5,
+            "nhãn hiệu": 0.5,
+            "viên ngọc": 0.5,
+            "khăn trải": 0.5,
+            "nghề thủ công": 0.5,
+            "khuôn viên": 0.5
+        }
     },
     {
         "attraction_name": "The Old House of Phun Hung",
@@ -969,7 +2196,171 @@
             "https://www.tripadvisor.com/Attraction_Review-g29218-d109854-Reviews-Ha_ena_State_Park-Kauai_Hawaii.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or90-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or80-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or80-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi nhà": 0.5928250577678059,
+            "khu thượng lưu": -0.9688035297440365,
+            "vật trưng": -0.9734563804231584,
+            "chuyến tham quan": -0.12426763086114079,
+            "quy trình bán hàng": 0.47370220348238945,
+            "cây cầu": 0.9182439660653472,
+            "khăn trải": 0.5586351053789258,
+            "cạnh cầu": -0.9546883150469512,
+            "cửa hàng": -0.967946182237938,
+            "khảm đá": 0.9950619613518938,
+            "cẩm thạch": 0.9955498390481807,
+            "bức tường": 0.5,
+            "hướng dẫn viên": 0.7907372668075066,
+            "trà xanh": 0.5944984583184123,
+            "món ăn": 0.5,
+            "tòa nhà": 0.9690119661390781,
+            "chuyến tham": 0.9728579989168793,
+            "đồ nội thất": 0.01580146959167905,
+            "ngôi nhà truyền": 0.5,
+            "cột gỗ": 0.45505291223526,
+            "phòng trưng bày": 0.47918729577213526,
+            "ngôi nhà cổ": 0.9768349672667682,
+            "đồ": -0.8942635054700077,
+            "cây cột": 0.5,
+            "di sản thế": 0.5,
+            "vải lanh": -0.8734339633956552,
+            "nhà máy": 0.5
+        },
+        "dicts_adj": {
+            "ngôi nhà": [
+                "cổ",
+                "duy nhất",
+                "khác",
+                "nồng nhiệt",
+                "thú vị",
+                "khiêm tốn",
+                "đẹp",
+                "đẹp",
+                "dễ thương",
+                "tốt",
+                "gọn gàng",
+                "nhất",
+                "loãng",
+                "thực sự",
+                "thú vị",
+                "nhiều",
+                "cổ",
+                "đẹp",
+                "kỳ lạ",
+                "nổi bật",
+                "nhiều",
+                "hơn"
+            ],
+            "khu thượng lưu": [
+                "kỹ",
+                "hơn"
+            ],
+            "vật trưng": [
+                "khác",
+                "nồng nhiệt"
+            ],
+            "chuyến tham quan": [
+                "nhanh chóng",
+                "khác"
+            ],
+            "quy trình bán hàng": [
+                "chắc chắn",
+                "khó"
+            ],
+            "cây cầu": [
+                "ngắn gọn"
+            ],
+            "khăn trải": [
+                "trắng"
+            ],
+            "cạnh cầu": [
+                "dễ",
+                "kém"
+            ],
+            "cửa hàng": [
+                "cũ"
+            ],
+            "khảm đá": [
+                "đẹp"
+            ],
+            "cẩm thạch": [
+                "đẹp"
+            ],
+            "bức tường": [],
+            "hướng dẫn viên": [
+                "dễ thương",
+                "tốt",
+                "gọn gàng",
+                "thú vị"
+            ],
+            "trà xanh": [
+                "loãng"
+            ],
+            "món ăn": [],
+            "tòa nhà": [
+                "thú vị",
+                "thú vị",
+                "hơn"
+            ],
+            "chuyến tham": [
+                "thực sự"
+            ],
+            "đồ nội thất": [
+                "cũ",
+                "đẹp"
+            ],
+            "ngôi nhà truyền": [],
+            "cột gỗ": [
+                "nhiều",
+                "cổ"
+            ],
+            "phòng trưng bày": [
+                "nhiều",
+                "cổ"
+            ],
+            "ngôi nhà cổ": [
+                "thường xuyên",
+                "nhiều"
+            ],
+            "đồ": [],
+            "cây cột": [],
+            "di sản thế": [],
+            "vải lanh": [
+                "dồi dào"
+            ],
+            "nhà máy": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngôi nhà": 4.5,
+            "khu thượng lưu": 0.5,
+            "vật trưng": 0.5,
+            "chuyến tham quan": 1.0,
+            "quy trình bán hàng": 0.5,
+            "cây cầu": 0.5,
+            "khăn trải": 0.5,
+            "cạnh cầu": 0.5,
+            "cửa hàng": 0.5,
+            "khảm đá": 0.5,
+            "cẩm thạch": 0.5,
+            "bức tường": 0.5,
+            "hướng dẫn viên": 1.0,
+            "trà xanh": 0.5,
+            "món ăn": 0.5,
+            "tòa nhà": 0.5,
+            "chuyến tham": 0.5,
+            "đồ nội thất": 0.5,
+            "ngôi nhà truyền": 0.5,
+            "cột gỗ": 0.5,
+            "phòng trưng bày": 0.5,
+            "ngôi nhà cổ": 0.5,
+            "đồ": 0.5,
+            "cây cột": 0.5,
+            "di sản thế": 0.5,
+            "vải lanh": 0.5,
+            "nhà máy": 0.5
+        }
     },
     {
         "attraction_name": "The Old House of Phun Hung",
@@ -1077,7 +2468,106 @@
             "https://www.tripadvisor.com/Attraction_Review-g318873-d324377-Reviews-Dana_Nature_Reserve-Dana_Tafilah_Governorate.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or100-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or90-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or90-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "mặt hàng": 0.9917280958034098,
+            "ngôi nhà cổ": 0.9858653859701008,
+            "người dân": 0.6443941621109843,
+            "vị đậm đà": 0.9933411943493411,
+            "địa điểm": 0.9882033498724923,
+            "hướng dẫn viên du": 0.8984513218456414,
+            "lịch sử": -0.20685106609016657,
+            "ngôi nhà": 0.6048565915358873,
+            "bức tường nơi": -0.8856029668822885,
+            "sở": 0.035895803943276405,
+            "trà xanh": 0.9829885005019605,
+            "hướng dẫn viên": 0.5,
+            "chuyến thăm": 0.9744548343587667,
+            "tòa nhà lịch sử": 0.5,
+            "chuyến thăm hội an": 0.5,
+            "chuyến tham quan": -0.11796418245648965,
+            "cửa": 0.5,
+            "hàng bán lẻ": 0.5
+        },
+        "dicts_adj": {
+            "mặt hàng": [
+                "chi tiết",
+                "hoàn toàn"
+            ],
+            "ngôi nhà cổ": [
+                "Tình cờ",
+                "trẻ"
+            ],
+            "người dân": [
+                "riêng"
+            ],
+            "vị đậm đà": [
+                "đỏ",
+                "trong"
+            ],
+            "địa điểm": [
+                "tốt",
+                "cổ xưa"
+            ],
+            "hướng dẫn viên du": [
+                "vui vẻ",
+                "nhanh"
+            ],
+            "lịch sử": [
+                "ngắn gọn"
+            ],
+            "ngôi nhà": [
+                "nhiều",
+                "tuyệt vời",
+                "cổ",
+                "nhiều",
+                "thú vị",
+                "cổ",
+                "nhiều"
+            ],
+            "bức tường nơi": [
+                "nhiều"
+            ],
+            "sở": [
+                "cùng",
+                "nhiều"
+            ],
+            "trà xanh": [],
+            "hướng dẫn viên": [],
+            "chuyến thăm": [
+                "tuyệt vời"
+            ],
+            "tòa nhà lịch sử": [],
+            "chuyến thăm hội an": [],
+            "chuyến tham quan": [
+                "cổ",
+                "nhiều"
+            ],
+            "cửa": [],
+            "hàng bán lẻ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "mặt hàng": 0.5,
+            "ngôi nhà cổ": 0.5,
+            "người dân": 0.5,
+            "vị đậm đà": 0.5,
+            "địa điểm": 0.5,
+            "hướng dẫn viên du": 0.5,
+            "lịch sử": 1.0,
+            "ngôi nhà": 3.0,
+            "bức tường nơi": 0.5,
+            "sở": 0.5,
+            "trà xanh": 0.5,
+            "hướng dẫn viên": 0.5,
+            "chuyến thăm": 0.5,
+            "tòa nhà lịch sử": 0.5,
+            "chuyến thăm hội an": 0.5,
+            "chuyến tham quan": 0.5,
+            "cửa": 0.5,
+            "hàng bán lẻ": 0.5
+        }
     },
     {
         "attraction_name": "The Old House of Phun Hung",
@@ -1186,6 +2676,139 @@
             "https://www.tripadvisor.com/Attraction_Review-g609121-d4039798-Reviews-Catarata_Gozalandia-San_Sebastian_Puerto_Rico.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or110-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or100-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d454963-Reviews-or100-The_Old_House_of_Phun_Hung-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi nhà": 0.7857846009913676,
+            "vật dụng": -0.9758872259408236,
+            "đồ nội thất": -0.9628182051237673,
+            "hội an": 0.9944456132361665,
+            "dầm gỗ": 0.9821375024039298,
+            "kiến ​​trúc": -0.9522941326722503,
+            "ngôi nhà cổ": 0.6634223106666468,
+            "cây cầu": 0.2712837401777506,
+            "chuyến thăm": 0.9953265593503602,
+            "lịch sử": 0.5506185973063111,
+            "bán hàng": -0.8595945751294494,
+            "nhà cổ đức an": 0.5,
+            "nhà cũ tấn": 0.5,
+            "ban công": 0.5,
+            "kiến trúc": 0.9955018000910059,
+            "đèo phố": 0.8086518505588174,
+            "trải nghiệm": 0.9953377258498222,
+            "điểm": 0.9954673464817461,
+            "dừng chân": 0.9952927654376253,
+            "bầu không khí": 0.5,
+            "tách": 0.3007838651537895,
+            "trà": 0.6947329386603087,
+            "khăn ăn": -0.08934284374117851
+        },
+        "dicts_adj": {
+            "ngôi nhà": [
+                "cổ",
+                "tuyệt vời",
+                "cổ",
+                "cổ",
+                "đặc biệt",
+                "cổ",
+                "dễ",
+                "như thế nào",
+                "nhỏ",
+                "trệt",
+                "thông tin"
+            ],
+            "vật dụng": [
+                "cũ"
+            ],
+            "đồ nội thất": [
+                "cũ"
+            ],
+            "hội an": [
+                "sâu sắc"
+            ],
+            "dầm gỗ": [
+                "đẹp",
+                "cao"
+            ],
+            "kiến ​​trúc": [
+                "hoàn toàn",
+                "quen thuộc",
+                "cổ"
+            ],
+            "ngôi nhà cổ": [
+                "tốt"
+            ],
+            "cây cầu": [
+                "nổi tiếng"
+            ],
+            "chuyến thăm": [
+                "thú vị"
+            ],
+            "lịch sử": [
+                "thập kỷ",
+                "thú vị"
+            ],
+            "bán hàng": [
+                "xô đẩy"
+            ],
+            "nhà cổ đức an": [],
+            "nhà cũ tấn": [],
+            "ban công": [],
+            "kiến trúc": [
+                "thực sự",
+                "đẹp"
+            ],
+            "đèo phố": [
+                "khác"
+            ],
+            "trải nghiệm": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "điểm": [
+                "thú vị",
+                "nhiều"
+            ],
+            "dừng chân": [
+                "thú vị",
+                "nhiều"
+            ],
+            "bầu không khí": [],
+            "tách": [
+                "xanh",
+                "nhỏ"
+            ],
+            "trà": [
+                "xanh",
+                "nhỏ"
+            ],
+            "khăn ăn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngôi nhà": 2.5,
+            "vật dụng": 0.5,
+            "đồ nội thất": 0.5,
+            "hội an": 0.5,
+            "dầm gỗ": 1.0,
+            "kiến ​​trúc": 0.5,
+            "ngôi nhà cổ": 1.5,
+            "cây cầu": 0.5,
+            "chuyến thăm": 0.5,
+            "lịch sử": 1.0,
+            "bán hàng": 0.5,
+            "nhà cổ đức an": 0.5,
+            "nhà cũ tấn": 0.5,
+            "ban công": 0.5,
+            "kiến trúc": 0.5,
+            "đèo phố": 0.5,
+            "trải nghiệm": 0.5,
+            "điểm": 0.5,
+            "dừng chân": 0.5,
+            "bầu không khí": 0.5,
+            "tách": 0.5,
+            "trà": 0.5,
+            "khăn ăn": 0.5
+        }
     }
 ]

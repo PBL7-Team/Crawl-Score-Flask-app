@@ -93,8 +93,8 @@ def process_json_file(json_path):
             d.setdefault('factor value', {})
 
             if 'reviews' in d and isinstance(d['reviews'], list):
-                
-                for i in range(len(d['reviews'])):
+                len_reviews = min(len(d['reviews']), 11)
+                for i in range(len_reviews):
                     review = d['reviews'][i]
                     print("Processing " + str(temp_i) + " reviews...")
                     temp_i += 1
@@ -376,3 +376,5 @@ def export_synonyms_clusters():
 
 # export_synonyms_clusters()
 # fully_updated_sentiment_csv()
+
+# sentiment_analysis_all()

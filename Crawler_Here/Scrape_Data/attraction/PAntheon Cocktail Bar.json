@@ -83,6 +83,49 @@
             "https://www.tripadvisor.com/Attraction_Review-g60878-d141517-Reviews-Pacific_Science_Center-Seattle_Washington.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d24159716-Reviews-P_Antheon_Cocktail_Bar-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d24159716-Reviews-P_Antheon_Cocktail_Bar-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quầy bar cocktail": 0.99434070114512,
+            "quán cà phê": 0.5,
+            "pantheon": 0.8737692451104522,
+            "cocktail bar": 0.8737692451104522,
+            "thực đơn cocktail": 0.9953804253600538,
+            "vị thần": 0.9931190971983597,
+            "trải nghiệm cocktail": 0.9952783179469407
+        },
+        "dicts_adj": {
+            "quầy bar cocktail": [
+                "tuyệt vời",
+                "ngắn"
+            ],
+            "quán cà phê": [],
+            "pantheon": [
+                "nổi tiếng"
+            ],
+            "cocktail bar": [
+                "nổi tiếng"
+            ],
+            "thực đơn cocktail": [
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "vị thần": [],
+            "trải nghiệm cocktail": [
+                "xa",
+                "hơn",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quầy bar cocktail": 1,
+            "quán cà phê": 1,
+            "pantheon": 1,
+            "cocktail bar": 1,
+            "thực đơn cocktail": 1,
+            "vị thần": 1,
+            "trải nghiệm cocktail": 1
+        }
     }
 ]

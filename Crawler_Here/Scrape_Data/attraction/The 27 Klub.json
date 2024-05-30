@@ -92,6 +92,51 @@
             "https://www.tripadvisor.com/Attraction_Review-g293918-d3981475-Reviews-Bang_Po_Beach-Ko_Samui_Surat_Thani_Province.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d19717379-Reviews-The_27_Klub-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d19717379-Reviews-The_27_Klub-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa": 0.8737692451104522,
+            "hàng đồ cổ": 0.9948737296508625,
+            "mặt hàng có": 0.9952271900838241,
+            "cửa hàng": 0.9955541156232357,
+            "quần áo cũ": -0.7362490389496088,
+            "áo phông": 0.9954512679832987,
+            "tác phẩm": 0.9954297477379441
+        },
+        "dicts_adj": {
+            "cửa": [
+                "tuyệt vời"
+            ],
+            "hàng đồ cổ": [
+                "tuyệt vời"
+            ],
+            "mặt hàng có": [
+                "sẵn"
+            ],
+            "cửa hàng": [
+                "tuyệt vời"
+            ],
+            "quần áo cũ": [
+                "thú vị",
+                "chủ yếu"
+            ],
+            "áo phông": [
+                "nhiều"
+            ],
+            "tác phẩm": [
+                "thực sự",
+                "độc đáo"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa": 1,
+            "hàng đồ cổ": 1,
+            "mặt hàng có": 1,
+            "cửa hàng": 1,
+            "quần áo cũ": 1,
+            "áo phông": 1,
+            "tác phẩm": 1
+        }
     }
 ]

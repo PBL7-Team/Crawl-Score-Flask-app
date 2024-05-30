@@ -83,7 +83,173 @@
             "https://www.tripadvisor.com/Attraction_Review-g187870-d195003-Reviews-Harry_s_Bar-Venice_Veneto.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d1165087-Reviews-or10-Can_Gio_Mangrove_Biosphere_Reserve-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1165087-Reviews-Can_Gio_Mangrove_Biosphere_Reserve-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1165087-Reviews-Can_Gio_Mangrove_Biosphere_Reserve-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.3248128145933151,
+            "cảnh rừng rậm": 0.5,
+            "công viên": 0.5,
+            "cá": 0.5,
+            "chuyến đi": 0.7486087563913315,
+            "cấu": 0.9743966599926353,
+            "hướng dẫn viên du lịch": 0.9949429275972458,
+            "văn hóa": 0.9365934017114341,
+            "chợ": 0.8737692451104522,
+            "hải sản": 0.9953672080300748,
+            "trải nghiệm thiên nhiên": 0.5,
+            "nhà vệ sinh": -0.8280122387222946,
+            "rừng ngập mặn": 0.5,
+            "lịch sử": 0.5,
+            "đường hầm": 0.5564733911305666,
+            "hướng dẫn viên": 0.9143399257057657,
+            "đầm lầy": 0.5,
+            "đồ ăn": -0.8441461366601288,
+            "khu bảo tồn sinh quyển rừng ngập mặn": 0.97611671872437,
+            "lưu trú": 0.9951791894272901,
+            "con khỉ": 0.9489990752190351,
+            "món ăn": 0.9955788851366378,
+            "món": 0.9159567296737805,
+            "vệ sinh": -0.8415533010847867,
+            "rừng": 0.5,
+            "chiến tranh": 0.5,
+            "xe tăng": 0.7129371166229248,
+            "chuyến tham quan đảo khỉ": 0.9954872024827637,
+            "khu rừng khỉ - khỉ": 0.8737692451104522,
+            "phần bơi": 0.5,
+            "đảo khỉ": 0.9941159924783278
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "hoang dã"
+            ],
+            "cảnh rừng rậm": [],
+            "công viên": [],
+            "cá": [],
+            "chuyến đi": [
+                "thú vị",
+                "tốt",
+                "thú vị",
+                "thú vị",
+                "nhiều"
+            ],
+            "cấu": [
+                "tốt"
+            ],
+            "hướng dẫn viên du lịch": [
+                "đặc biệt",
+                "hữu ích",
+                "tích cực",
+                "nhiều",
+                "thú vị",
+                "tích cực",
+                "nhiều",
+                "thú vị"
+            ],
+            "văn hóa": [
+                "nhiều"
+            ],
+            "chợ": [
+                "tuyệt vời"
+            ],
+            "hải sản": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm thiên nhiên": [],
+            "nhà vệ sinh": [],
+            "rừng ngập mặn": [],
+            "lịch sử": [],
+            "đường hầm": [],
+            "hướng dẫn viên": [
+                "am hiểu",
+                "am hiểu",
+                "tuyệt vời"
+            ],
+            "đầm lầy": [],
+            "đồ ăn": [
+                "khô",
+                "khô"
+            ],
+            "khu bảo tồn sinh quyển rừng ngập mặn": [
+                "thú vị",
+                "thú vị"
+            ],
+            "lưu trú": [
+                "nhiều",
+                "thú vị",
+                "phong phú",
+                "nhiều",
+                "thú vị",
+                "phong phú"
+            ],
+            "con khỉ": [
+                "thực sự",
+                "xuất sắc",
+                "thực sự",
+                "xuất sắc"
+            ],
+            "món ăn": [
+                "ngon",
+                "ngon"
+            ],
+            "món": [
+                "ngọt",
+                "cuối cùng",
+                "ngọt",
+                "cuối cùng"
+            ],
+            "vệ sinh": [],
+            "rừng": [],
+            "chiến tranh": [],
+            "xe tăng": [
+                "nhiều"
+            ],
+            "chuyến tham quan đảo khỉ": [
+                "tuyệt vời"
+            ],
+            "khu rừng khỉ - khỉ": [
+                "thú vị",
+                "đặc biệt"
+            ],
+            "phần bơi": [],
+            "đảo khỉ": [
+                "thú vị",
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 1,
+            "cảnh rừng rậm": 1,
+            "công viên": 1,
+            "cá": 1,
+            "chuyến đi": 5,
+            "cấu": 1,
+            "hướng dẫn viên du lịch": 3,
+            "văn hóa": 1,
+            "chợ": 1,
+            "hải sản": 1,
+            "trải nghiệm thiên nhiên": 2,
+            "nhà vệ sinh": 1,
+            "rừng ngập mặn": 2,
+            "lịch sử": 1,
+            "đường hầm": 2,
+            "hướng dẫn viên": 3,
+            "đầm lầy": 2,
+            "đồ ăn": 2,
+            "khu bảo tồn sinh quyển rừng ngập mặn": 4,
+            "lưu trú": 4,
+            "con khỉ": 4,
+            "món ăn": 4,
+            "món": 4,
+            "vệ sinh": 1,
+            "rừng": 1,
+            "chiến tranh": 1,
+            "xe tăng": 1,
+            "chuyến tham quan đảo khỉ": 1,
+            "khu rừng khỉ - khỉ": 1,
+            "phần bơi": 1,
+            "đảo khỉ": 1
+        }
     },
     {
         "attraction_name": "Can Gio Mangrove Biosphere Reserve",
@@ -170,6 +336,105 @@
             "https://www.tripadvisor.com/Attraction_Review-g187234-d610635-Reviews-Castel_Plage-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d1165087-Reviews-or20-Can_Gio_Mangrove_Biosphere_Reserve-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1165087-Reviews-or10-Can_Gio_Mangrove_Biosphere_Reserve-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1165087-Reviews-or10-Can_Gio_Mangrove_Biosphere_Reserve-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "phong cảnh": 0.8737692451104522,
+            "khu rừng": 0.5,
+            "hướng dẫn viên du lịch": 0.8715281340992078,
+            "chuyến tham quan": 0.47709396737627685,
+            "chuyến đi": 0.8737692451104522,
+            "cá sấu": 0.10809890367090702,
+            "thuyền": 0.5,
+            "sông": 0.5,
+            "chai nước": 0.9868070789379999,
+            "pháo binh": 0.17184053361415863,
+            "hướng dẫn viên": 0.8737692451104522,
+            "lịch sử": 0.5,
+            "món ngon": 0.5,
+            "đuông dừa": 0.5,
+            "rừng ngập mặn": 0.9722632463090122,
+            "món ăn": 0.9955287245684303,
+            "trải nghiệm": 0.9949824241921306
+        },
+        "dicts_adj": {
+            "phong cảnh": [
+                "đẹp",
+                "đầu tiên"
+            ],
+            "khu rừng": [],
+            "hướng dẫn viên du lịch": [
+                "tuyệt",
+                "nhiều",
+                "hơn",
+                "tuyệt vời",
+                "thân thiện"
+            ],
+            "chuyến tham quan": [
+                "đắt đỏ",
+                "bất kỳ",
+                "cụ thể",
+                "thực sự",
+                "nhỏ",
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "tốt",
+                "tốt",
+                "nhiều",
+                "nhanh chóng",
+                "thú vị"
+            ],
+            "cá sấu": [
+                "nhiều"
+            ],
+            "thuyền": [],
+            "sông": [],
+            "chai nước": [
+                "thực sự",
+                "vui tươi"
+            ],
+            "pháo binh": [
+                "ngập mặn"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời"
+            ],
+            "lịch sử": [],
+            "món ngon": [],
+            "đuông dừa": [],
+            "rừng ngập mặn": [
+                "đẹp"
+            ],
+            "món ăn": [
+                "thú vị",
+                "nhiều",
+                "ngon"
+            ],
+            "trải nghiệm": [
+                "suốt",
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "phong cảnh": 1,
+            "khu rừng": 1,
+            "hướng dẫn viên du lịch": 4,
+            "chuyến tham quan": 2,
+            "chuyến đi": 1,
+            "cá sấu": 1,
+            "thuyền": 1,
+            "sông": 1,
+            "chai nước": 1,
+            "pháo binh": 1,
+            "hướng dẫn viên": 1,
+            "lịch sử": 1,
+            "món ngon": 1,
+            "đuông dừa": 1,
+            "rừng ngập mặn": 1,
+            "món ăn": 1,
+            "trải nghiệm": 1
+        }
     }
 ]

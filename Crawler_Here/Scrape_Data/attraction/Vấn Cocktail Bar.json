@@ -82,6 +82,39 @@
             "https://www.tripadvisor.com/Attraction_Review-g60562-d7155300-Reviews-Bridger_Gondola-Teton_Village_Jackson_Hole_Wyoming.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g25231262-d26340751-Reviews-V_n_Cocktail_Bar-Hai_Chau_Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g25231262-d26340751-Reviews-V_n_Cocktail_Bar-Hai_Chau_Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.9936811336665414,
+            "cocktail bespoke": 0.8737692451104522,
+            "sữa chua": 0.9950644422788173,
+            "hương vị": 0.9954690199811012,
+            "món cocktail": 0.9955381157342345
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "thân thiện"
+            ],
+            "cocktail bespoke": [
+                "cocktail Bespoke"
+            ],
+            "sữa chua": [
+                "tuyệt vời"
+            ],
+            "hương vị": [
+                "tuyệt vời"
+            ],
+            "món cocktail": [
+                "ngon"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 1,
+            "cocktail bespoke": 1,
+            "sữa chua": 1,
+            "hương vị": 1,
+            "món cocktail": 1
+        }
     }
 ]

@@ -89,6 +89,40 @@
             "https://www.tripadvisor.com/Attraction_Review-g32655-d11815865-Reviews-Escape_Hotel_Hollywood-Los_Angeles_California.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d11629784-Reviews-Le_Paris-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d11629784-Reviews-Le_Paris-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "sân khấu": 0.8023787401616573,
+            "quán bar": 0.8683482615742832,
+            "âm nhạc": -0.9726646384224296,
+            "không khí": 0.5,
+            "đồ uống": 0.5
+        },
+        "dicts_adj": {
+            "sân khấu": [
+                "đầu tiên",
+                "suốt"
+            ],
+            "quán bar": [
+                "suốt",
+                "cổ",
+                "khác"
+            ],
+            "âm nhạc": [
+                "suốt",
+                "cổ",
+                "khác"
+            ],
+            "không khí": [],
+            "đồ uống": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "sân khấu": 0.5,
+            "quán bar": 1.0,
+            "âm nhạc": 0.5,
+            "không khí": 0.5,
+            "đồ uống": 0.5
+        }
     }
 ]

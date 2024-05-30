@@ -85,6 +85,24 @@
             "https://www.tripadvisor.com/Attraction_Review-g189158-d17561585-Reviews-Cannabis_Store_Amsterdam-Lisbon_Lisbon_District_Central_Portugal.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27453068-Reviews-Bremiere_Wellness_Center-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27453068-Reviews-Bremiere_Wellness_Center-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "không gian": -0.9599059680476785,
+            "dịch vụ": 0.9643592111533508
+        },
+        "dicts_adj": {
+            "không gian": [
+                "đẹp"
+            ],
+            "dịch vụ": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "không gian": 2,
+            "dịch vụ": 2
+        }
     }
 ]

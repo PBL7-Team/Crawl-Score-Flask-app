@@ -102,7 +102,139 @@
             "https://www.tripadvisor.com/Attraction_Review-g189400-d1067330-Reviews-Dora_Stratou_Greek_Dances_Theatre-Athens_Attica.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d451147-Reviews-or10-Japanese_Covered_Bridge-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d451147-Reviews-Japanese_Covered_Bridge-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d451147-Reviews-Japanese_Covered_Bridge-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "kiến": 0.5,
+            "bảo tàng ván sàn ọp": 0.5,
+            "khu chợ": 0.1926985029131174,
+            "chùa cầu": 0.5,
+            "biểu tượng": 0.5,
+            "phố cổ hội an": 0.5,
+            "ngôi đền": 0.5713818036019802,
+            "cầu thang": 0.5156360194087029,
+            "cây cầu": 0.5311990682821488,
+            "cây cầu lịch sử": 0.7381449863314629,
+            "con chó": 0.9930732677457854,
+            "con khỉ": 0.7076614517718554,
+            "bức tượng khỉ": 0.5,
+            "lịch sử": 0.9804311913903803,
+            "túp lều": 0.7141705881804228,
+            "mái che": 0.7754915938712656,
+            "phố cổ": 0.7752198433736339,
+            "tòa nhà": -0.9607642784249038,
+            "sông": 0.5,
+            "hội an": 0.8737692451104522,
+            "ngôi chùa phật giáo": 0.8737692451104522,
+            "hộp nơi": 0.7426395127549767,
+            "con phố": 0.622090408578515,
+            "cửa hàng": 0.5,
+            "quầy hàng": 0.5,
+            "chuyến tham": 0.9888432808220387
+        },
+        "dicts_adj": {
+            "kiến": [],
+            "bảo tàng ván sàn ọp": [],
+            "khu chợ": [
+                "tương tự"
+            ],
+            "chùa cầu": [],
+            "biểu tượng": [],
+            "phố cổ hội an": [],
+            "ngôi đền": [
+                "cổ"
+            ],
+            "cầu thang": [
+                "cổ"
+            ],
+            "cây cầu": [
+                "gần",
+                "đông đúc",
+                "tuyệt vời",
+                "thực sự",
+                "cũ",
+                "cũ",
+                "duy nhất",
+                "dài"
+            ],
+            "cây cầu lịch sử": [
+                "gần",
+                "hơn"
+            ],
+            "con chó": [
+                "chắc chắn"
+            ],
+            "con khỉ": [
+                "chắc chắn"
+            ],
+            "bức tượng khỉ": [],
+            "lịch sử": [
+                "Thú vị"
+            ],
+            "túp lều": [
+                "khắp",
+                "cổ"
+            ],
+            "mái che": [
+                "thực sự",
+                "duy nhất"
+            ],
+            "phố cổ": [
+                "khoảng",
+                "nhiều"
+            ],
+            "tòa nhà": [
+                "cũ"
+            ],
+            "sông": [],
+            "hội an": [
+                "Nhật đẹp"
+            ],
+            "ngôi chùa phật giáo": [
+                "duy nhất"
+            ],
+            "hộp nơi": [
+                "tốt"
+            ],
+            "con phố": [
+                "dài"
+            ],
+            "cửa hàng": [],
+            "quầy hàng": [],
+            "chuyến tham": [
+                "thú vị",
+                "rảnh rỗi"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "kiến": 0.5,
+            "bảo tàng ván sàn ọp": 0.5,
+            "khu chợ": 0.5,
+            "chùa cầu": 0.5,
+            "biểu tượng": 0.5,
+            "phố cổ hội an": 0.5,
+            "ngôi đền": 0.5,
+            "cầu thang": 0.5,
+            "cây cầu": 2.0,
+            "cây cầu lịch sử": 0.5,
+            "con chó": 0.5,
+            "con khỉ": 0.5,
+            "bức tượng khỉ": 0.5,
+            "lịch sử": 0.5,
+            "túp lều": 0.5,
+            "mái che": 1.0,
+            "phố cổ": 0.5,
+            "tòa nhà": 0.5,
+            "sông": 0.5,
+            "hội an": 0.5,
+            "ngôi chùa phật giáo": 0.5,
+            "hộp nơi": 0.5,
+            "con phố": 0.5,
+            "cửa hàng": 0.5,
+            "quầy hàng": 0.5,
+            "chuyến tham": 0.5
+        }
     },
     {
         "attraction_name": "Japanese Covered Bridge",
@@ -214,7 +346,60 @@
             "https://www.tripadvisor.com/Attraction_Review-g49403-d2217025-Reviews-Oak_Island_Beach-Oak_Island_North_Carolina.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d451147-Reviews-or20-Japanese_Covered_Bridge-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d451147-Reviews-or10-Japanese_Covered_Bridge-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d451147-Reviews-or10-Japanese_Covered_Bridge-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cầu thuyền": 0.5,
+            "cây cầu": 0.2907820894098323,
+            "biểu ngữ": 0.5,
+            "bức tường": 0.5,
+            "phố cổ": 0.7621678337454796,
+            "công trường": 0.5,
+            "du lịch hội an": 0.9927178227808326,
+            "phố cổ hội an": 0.9327883264049888,
+            "tòa nhà": 0.9688628984149545,
+            "đống đổ nát": -0.9018510734895244,
+            "cây cầu đó": 0.477308701723814
+        },
+        "dicts_adj": {
+            "cầu thuyền": [],
+            "cây cầu": [
+                "chắc chắn",
+                "hoàn toàn",
+                "hoàn toàn",
+                "tuyệt",
+                "sẵn"
+            ],
+            "biểu ngữ": [],
+            "bức tường": [],
+            "phố cổ": [
+                "có thể"
+            ],
+            "công trường": [],
+            "du lịch hội an": [],
+            "phố cổ hội an": [
+                "đầy"
+            ],
+            "tòa nhà": [
+                "hoàn toàn"
+            ],
+            "đống đổ nát": [],
+            "cây cầu đó": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cầu thuyền": 1.5,
+            "cây cầu": 9.0,
+            "biểu ngữ": 1.5,
+            "bức tường": 1.5,
+            "phố cổ": 1.5,
+            "công trường": 1.5,
+            "du lịch hội an": 1.5,
+            "phố cổ hội an": 1.5,
+            "tòa nhà": 1,
+            "đống đổ nát": 1,
+            "cây cầu đó": 1
+        }
     },
     {
         "attraction_name": "Japanese Covered Bridge",
@@ -315,6 +500,116 @@
             "https://www.tripadvisor.com/Attraction_Review-g60831-d11666351-Reviews-Lake_Roberts-Silver_City_New_Mexico.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d451147-Reviews-or30-Japanese_Covered_Bridge-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d451147-Reviews-or20-Japanese_Covered_Bridge-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d451147-Reviews-or20-Japanese_Covered_Bridge-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "công": 0.5,
+            "nhân": 0.5,
+            "cây cầu": 0.42991109635913743,
+            "đồng xu": 0.845394304022193,
+            "quầy": 0.5,
+            "đồng hoàng đạo": 0.5662870118394494,
+            "đồng xu hoàng đạo": 0.8539670426398516,
+            "hoàng đạo": 0.5897544231265783,
+            "đồng xu mèo hoàng đạo": 0.6051549687981606,
+            "nhà kho kim": -0.9712111912667751,
+            "tòa nhà bao": 0.5,
+            "giàn giáo": 0.43472378328442574,
+            "đống": 0.5,
+            "vật liệu xây dựng": 0.5,
+            "chuyến thăm": 0.9249340491369367,
+            "bảo trì": 0.5,
+            "cấu": 0.5,
+            "hàng rào kim": 0.5,
+            "trung tâm": 0.9953926775488071,
+            "cửa hàng": 0.6305178380571306,
+            "nhà hàng": 0.9949328969814815,
+            "quán ăn": -0.9742771863238886,
+            "chuyến đi": 0.9954494387493469
+        },
+        "dicts_adj": {
+            "công": [],
+            "nhân": [],
+            "cây cầu": [
+                "đầu tiên",
+                "đẹp",
+                "đặc biệt",
+                "xinh xắn"
+            ],
+            "đồng xu": [
+                "duy nhất"
+            ],
+            "quầy": [],
+            "đồng hoàng đạo": [
+                "riêng",
+                "riêng"
+            ],
+            "đồng xu hoàng đạo": [
+                "riêng",
+                "riêng"
+            ],
+            "hoàng đạo": [
+                "riêng",
+                "riêng"
+            ],
+            "đồng xu mèo hoàng đạo": [
+                "riêng",
+                "riêng"
+            ],
+            "nhà kho kim": [],
+            "tòa nhà bao": [],
+            "giàn giáo": [],
+            "đống": [],
+            "vật liệu xây dựng": [],
+            "chuyến thăm": [
+                "nhiều"
+            ],
+            "bảo trì": [],
+            "cấu": [],
+            "hàng rào kim": [],
+            "trung tâm": [
+                "nhanh chóng"
+            ],
+            "cửa hàng": [
+                "nhiều",
+                "khác"
+            ],
+            "nhà hàng": [
+                "nhiều"
+            ],
+            "quán ăn": [
+                "khác"
+            ],
+            "chuyến đi": [
+                "nổi bật",
+                "tuyệt đối"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "công": 1,
+            "nhân": 1,
+            "cây cầu": 5,
+            "đồng xu": 1,
+            "quầy": 1,
+            "đồng hoàng đạo": 1,
+            "đồng xu hoàng đạo": 1,
+            "hoàng đạo": 1,
+            "đồng xu mèo hoàng đạo": 1,
+            "nhà kho kim": 1,
+            "tòa nhà bao": 1,
+            "giàn giáo": 1,
+            "đống": 1,
+            "vật liệu xây dựng": 1,
+            "chuyến thăm": 1,
+            "bảo trì": 1,
+            "cấu": 1,
+            "hàng rào kim": 1,
+            "trung tâm": 1,
+            "cửa hàng": 1,
+            "nhà hàng": 1,
+            "quán ăn": 1,
+            "chuyến đi": 1
+        }
     }
 ]

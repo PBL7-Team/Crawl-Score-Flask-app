@@ -92,6 +92,31 @@
             "https://www.tripadvisor.com/Attraction_Review-g562812-d23693433-Reviews-Bonanza_Square-Benalmadena_Costa_del_Sol_Province_of_Malaga_Andalucia.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19074691-Reviews-Min_Ha_Na_Spa-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19074691-Reviews-Min_Ha_Na_Spa-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "mát-xa toàn thân": 0.9953575599938631,
+            "người dân": 0.9955836564768106,
+            "chuyến du lịch": 0.9857448200928047
+        },
+        "dicts_adj": {
+            "mát-xa toàn thân": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tốt"
+            ],
+            "người dân": [
+                "đẹp",
+                "đẹp",
+                "đẹp"
+            ],
+            "chuyến du lịch": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "mát-xa toàn thân": 0.5,
+            "người dân": 0.5,
+            "chuyến du lịch": 0.5
+        }
     }
 ]

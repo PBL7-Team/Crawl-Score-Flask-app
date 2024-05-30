@@ -117,7 +117,175 @@
             "https://www.tripadvisor.com/Attraction_Review-g293997-d1839137-Reviews-Al_Dar_Islands-Manama.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513888-Reviews-or10-Emy_Custom_Tailor_Linen_Clothing_Specialist-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513888-Reviews-Emy_Custom_Tailor_Linen_Clothing_Specialist-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513888-Reviews-Emy_Custom_Tailor_Linen_Clothing_Specialist-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quần vải lanh": 0.9953509126789868,
+            "quần": 0.9934705673949793,
+            "thợ may": 0.614566057610015,
+            "trải nghiệm": 0.41348865082753555,
+            "tay nghề": 0.8737692451104522,
+            "loại vải": 0.9929767742287368,
+            "mặt hàng": 0.706369214633014,
+            "dịch vụ": 0.7121556218314383,
+            "vật phẩm": 0.9924594480544329,
+            "quần áo": 0.9945730100735091,
+            "không khí": 0.9950980172725394,
+            "món đồ": 0.9772196020931005,
+            "áo áo liền": 0.9949070080183446,
+            "quần -": 0.9944174786796793,
+            "sản phẩm": 0.9950076229870319,
+            "tùy biến": -0.9751459304243326,
+            "thị trấn": 0.5,
+            "giá cả": 0.5598204908892512,
+            "chiếc áo": 0.8079403536394238,
+            "chiếc": 0.3202087397221476,
+            "áo cánh vải": 0.17601287201978266,
+            "váy": 0.5,
+            "bộ đồ": 0.9923651819117367,
+            "nhân viên": 0.9955526359262876
+        },
+        "dicts_adj": {
+            "quần vải lanh": [
+                "tuyệt vời"
+            ],
+            "quần": [
+                "dài",
+                "dễ"
+            ],
+            "thợ may": [
+                "khó khăn",
+                "giỏi",
+                "nhất",
+                "khó khăn"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "nhất",
+                "nhiều",
+                "hơn",
+                "tuyệt vời",
+                "tuyệt vời",
+                "hoàn hảo",
+                "đẹp",
+                "nhất",
+                "nhiều",
+                "hơn",
+                "tuyệt vời",
+                "nhất"
+            ],
+            "tay nghề": [
+                "xuất sắc",
+                "xuất sắc"
+            ],
+            "loại vải": [
+                "thú vị",
+                "thú vị"
+            ],
+            "mặt hàng": [
+                "tốt",
+                "riêng",
+                "tình cờ",
+                "riêng",
+                "tình cờ",
+                "tốt"
+            ],
+            "dịch vụ": [
+                "xuất sắc",
+                "xuất sắc"
+            ],
+            "vật phẩm": [
+                "chu đáo",
+                "tuyệt vời",
+                "chính xác",
+                "tối thiểu",
+                "chu đáo",
+                "tuyệt vời",
+                "chính xác",
+                "tối thiểu"
+            ],
+            "quần áo": [
+                "Cuối cùng",
+                "nhiều",
+                "Cuối cùng",
+                "nhiều"
+            ],
+            "không khí": [
+                "chu đáo",
+                "chuyên nghiệp",
+                "ấm áp",
+                "chu đáo",
+                "chuyên nghiệp",
+                "ấm áp"
+            ],
+            "món đồ": [
+                "xa",
+                "xa"
+            ],
+            "áo áo liền": [
+                "xa",
+                "xa"
+            ],
+            "quần -": [
+                "xa",
+                "xa"
+            ],
+            "sản phẩm": [
+                "xa",
+                "xa"
+            ],
+            "tùy biến": [
+                "thực sự",
+                "thực sự"
+            ],
+            "thị trấn": [],
+            "giá cả": [
+                "tốt"
+            ],
+            "chiếc áo": [],
+            "chiếc": [
+                "đen",
+                "đẹp"
+            ],
+            "áo cánh vải": [
+                "đen",
+                "đẹp"
+            ],
+            "váy": [],
+            "bộ đồ": [],
+            "nhân viên": [
+                "hoàn toàn",
+                "tuyệt vời",
+                "đủ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quần vải lanh": 1,
+            "quần": 1,
+            "thợ may": 4.5,
+            "trải nghiệm": 10.5,
+            "tay nghề": 3.0,
+            "loại vải": 3.0,
+            "mặt hàng": 6.0,
+            "dịch vụ": 7.0,
+            "vật phẩm": 3.0,
+            "quần áo": 3.0,
+            "không khí": 4,
+            "món đồ": 4,
+            "áo áo liền": 4,
+            "quần -": 4,
+            "sản phẩm": 4,
+            "tùy biến": 4,
+            "thị trấn": 1.5,
+            "giá cả": 1.5,
+            "chiếc áo": 1.5,
+            "chiếc": 1.5,
+            "áo cánh vải": 1.5,
+            "váy": 1.5,
+            "bộ đồ": 1.5,
+            "nhân viên": 1.5
+        }
     },
     {
         "attraction_name": "Emy Custom Tailor - Linen & Clothing Specialist",
@@ -238,7 +406,123 @@
             "https://www.tripadvisor.com/Attraction_Review-g52763-d21357424-Reviews-Live_Casino_Pittsburgh-Greensburg_Pennsylvania.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513888-Reviews-or20-Emy_Custom_Tailor_Linen_Clothing_Specialist-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513888-Reviews-or10-Emy_Custom_Tailor_Linen_Clothing_Specialist-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513888-Reviews-or10-Emy_Custom_Tailor_Linen_Clothing_Specialist-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thợ may": 0.9556040760944597,
+            "bộ": 0.9929372499755118,
+            "quần áo": 0.9855566948099295,
+            "dịch vụ cắt may qua đêm": 0.9954364761942998,
+            "dịch vụ": 0.9947931272909045,
+            "vải lanh": 0.9945651825983077,
+            "thời trang": 0.9954696961212903,
+            "chuyên môn dịch vụ": 0.9954920834861696,
+            "dịch vụ cắt may": 0.93244718760252,
+            "chuyến đi": 0.5,
+            "bộ vest": 0.9930632652249187,
+            "áo ngủ": 0.9927769362693653,
+            "cửa hàng": 0.5,
+            "quần": 0.5,
+            "hạng mục": 0.9797677827300504,
+            "sản": 0.5741667411872186,
+            "phẩm may mặc": 0.986284339602571,
+            "quần short": 0.5,
+            "áo phông": 0.5
+        },
+        "dicts_adj": {
+            "thợ may": [
+                "tuyệt vời",
+                "thân thiện",
+                "chuyên nghiệp",
+                "chắc chắn",
+                "giỏi",
+                "nhất"
+            ],
+            "bộ": [
+                "đẹp",
+                "sẵn sàng"
+            ],
+            "quần áo": [
+                "đẹp",
+                "sẵn sàng",
+                "bất kỳ",
+                "đặc biệt",
+                "cơ bản"
+            ],
+            "dịch vụ cắt may qua đêm": [
+                "xuất sắc",
+                "nhanh chóng",
+                "hợp lý"
+            ],
+            "dịch vụ": [
+                "chắc chắn"
+            ],
+            "vải lanh": [
+                "nhiều",
+                "tuyệt vời",
+                "Nhiều",
+                "khác"
+            ],
+            "thời trang": [
+                "tuyệt vời"
+            ],
+            "chuyên môn dịch vụ": [
+                "hài lòng"
+            ],
+            "dịch vụ cắt may": [
+                "nổi bật"
+            ],
+            "chuyến đi": [],
+            "bộ vest": [
+                "nhanh"
+            ],
+            "áo ngủ": [
+                "nhanh"
+            ],
+            "cửa hàng": [],
+            "quần": [],
+            "hạng mục": [
+                "sẵn sàng"
+            ],
+            "sản": [
+                "vừa vặn",
+                "cuối cùng",
+                "ngắn",
+                "dài",
+                "hơn"
+            ],
+            "phẩm may mặc": [
+                "vừa vặn",
+                "cuối cùng",
+                "ngắn",
+                "dài",
+                "hơn"
+            ],
+            "quần short": [],
+            "áo phông": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thợ may": 3,
+            "bộ": 1,
+            "quần áo": 2,
+            "dịch vụ cắt may qua đêm": 1,
+            "dịch vụ": 1,
+            "vải lanh": 2,
+            "thời trang": 1,
+            "chuyên môn dịch vụ": 1,
+            "dịch vụ cắt may": 1,
+            "chuyến đi": 1,
+            "bộ vest": 1,
+            "áo ngủ": 1,
+            "cửa hàng": 1,
+            "quần": 1,
+            "hạng mục": 1,
+            "sản": 1,
+            "phẩm may mặc": 1,
+            "quần short": 1,
+            "áo phông": 1
+        }
     },
     {
         "attraction_name": "Emy Custom Tailor - Linen & Clothing Specialist",
@@ -360,7 +644,161 @@
             "https://www.tripadvisor.com/Attraction_Review-g35314-d1751472-Reviews-Goats_on_the_Roof-Tiger_Georgia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513888-Reviews-or30-Emy_Custom_Tailor_Linen_Clothing_Specialist-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513888-Reviews-or20-Emy_Custom_Tailor_Linen_Clothing_Specialist-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513888-Reviews-or20-Emy_Custom_Tailor_Linen_Clothing_Specialist-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quần áo": 0.6486927779236188,
+            "cửa hàng": 0.5,
+            "sản phẩm": 0.5,
+            "áo vest": 0.8383833568659611,
+            "áo khoác": 0.44865417282562703,
+            "găng": -0.8668164522387087,
+            "áo sơ mi vải lanh": 0.6071298737078905,
+            "quần vải lanh": 0.9938935466343537,
+            "kiến ​​thức": 0.995377465209458,
+            "mặt hàng": 0.9955858921166509,
+            "món đồ": 0.9901556844318596,
+            "vải lanh": 0.5,
+            "phẩm chất": 0.5,
+            "vải": 0.9822659033816308,
+            "thợ may": 0.04943418869515881,
+            "giá cả": 0.9954972874838859,
+            "trang phục bơi": 0.995572148298379,
+            "dịch vụ": 0.9954480213928036,
+            "loại vải": 0.994881218415685,
+            "nhà may": 0.9772665339987725,
+            "quần": 0.9848031154833734,
+            "áo may sẵn vest áo khoác": 0.9834699383936822,
+            "áo sơ mi": 0.5,
+            "giá trị": 0.8303162328666076,
+            "con": 0.9951745434082113,
+            "phố": 0.9953112340881489,
+            "bộ đồ": 0.9952872524154373
+        },
+        "dicts_adj": {
+            "quần áo": [
+                "tùy chỉnh",
+                "bất kỳ",
+                "tốt",
+                "nhiều"
+            ],
+            "cửa hàng": [],
+            "sản phẩm": [],
+            "áo vest": [
+                "hoàn hảo",
+                "hơn"
+            ],
+            "áo khoác": [
+                "hoàn hảo",
+                "hơn"
+            ],
+            "găng": [],
+            "áo sơ mi vải lanh": [
+                "vui"
+            ],
+            "quần vải lanh": [
+                "vui"
+            ],
+            "kiến ​​thức": [
+                "tốt bụng",
+                "tuyệt vời"
+            ],
+            "mặt hàng": [
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "món đồ": [
+                "nhanh chóng",
+                "vừa vặn",
+                "đầu tiên",
+                "mới",
+                "chắc chắn"
+            ],
+            "vải lanh": [],
+            "phẩm chất": [],
+            "vải": [
+                "mịn",
+                "hơn"
+            ],
+            "thợ may": [
+                "hoàn toàn",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "tuyệt vời",
+                "chính xác"
+            ],
+            "trang phục bơi": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "thân thiện",
+                "hữu ích"
+            ],
+            "loại vải": [
+                "tuyệt vời"
+            ],
+            "nhà may": [
+                "đẹp"
+            ],
+            "quần": [
+                "nhiều"
+            ],
+            "áo may sẵn vest áo khoác": [
+                "nhiều"
+            ],
+            "áo sơ mi": [],
+            "giá trị": [
+                "tốt",
+                "rẻ",
+                "hơn",
+                "nhiều"
+            ],
+            "con": [
+                "tuyệt vời"
+            ],
+            "phố": [
+                "tuyệt vời"
+            ],
+            "bộ đồ": [
+                "xanh",
+                "hoàn toàn",
+                "hoàn hảo"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quần áo": 3,
+            "cửa hàng": 2,
+            "sản phẩm": 1,
+            "áo vest": 1,
+            "áo khoác": 1,
+            "găng": 1,
+            "áo sơ mi vải lanh": 1,
+            "quần vải lanh": 1,
+            "kiến ​​thức": 1,
+            "mặt hàng": 1,
+            "món đồ": 1,
+            "vải lanh": 1,
+            "phẩm chất": 1,
+            "vải": 1,
+            "thợ may": 1,
+            "giá cả": 1,
+            "trang phục bơi": 1,
+            "dịch vụ": 2,
+            "loại vải": 1,
+            "nhà may": 1,
+            "quần": 1,
+            "áo may sẵn vest áo khoác": 1,
+            "áo sơ mi": 1,
+            "giá trị": 1,
+            "con": 1,
+            "phố": 1,
+            "bộ đồ": 1
+        }
     },
     {
         "attraction_name": "Emy Custom Tailor - Linen & Clothing Specialist",
@@ -482,7 +920,123 @@
             "https://www.tripadvisor.com/Attraction_Review-g59858-d3478448-Reviews-Alpine_Valley_Music_Theatre-Elkhorn_Wisconsin.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513888-Reviews-or40-Emy_Custom_Tailor_Linen_Clothing_Specialist-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513888-Reviews-or30-Emy_Custom_Tailor_Linen_Clothing_Specialist-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513888-Reviews-or30-Emy_Custom_Tailor_Linen_Clothing_Specialist-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quần áo": 0.3506150403409265,
+            "trải nghiệm": 0.9949604844732676,
+            "dịch vụ": 0.8301064727323441,
+            "bữa trưa": 0.9927513874135911,
+            "chiếc": 0.7539223687490448,
+            "quần vải": 0.7505604529287666,
+            "áo sơ mi": 0.5588158341124654,
+            "thợ may": 0.01702754118014127,
+            "nhà may": 0.9955193546484224,
+            "chất liệu": 0.993298502638936,
+            "hội an": 0.8737692451104522,
+            "chuyến đi": 0.9950540322461165,
+            "lắp ráp": 0.9954550950787961,
+            "bộ": 0.9937094328342937,
+            "đồ bơi tùy": 0.9953095217933878,
+            "cửa hàng": 0.9926430300110951
+        },
+        "dicts_adj": {
+            "quần áo": [
+                "thực sự",
+                "thú vị",
+                "hoàn hảo",
+                "tuyệt vời",
+                "nhiều",
+                "cao"
+            ],
+            "trải nghiệm": [
+                "thực sự",
+                "thú vị",
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "hoàn hảo",
+                "tuyệt vời",
+                "tuyệt vời",
+                "đặc biệt",
+                "tốt",
+                "hơn"
+            ],
+            "bữa trưa": [
+                "vừa vặn"
+            ],
+            "chiếc": [
+                "đầy",
+                "bất kỳ"
+            ],
+            "quần vải": [
+                "đầy",
+                "bất kỳ"
+            ],
+            "áo sơ mi": [
+                "đầy",
+                "bất kỳ"
+            ],
+            "thợ may": [
+                "bất kỳ",
+                "khác",
+                "hài lòng",
+                "nhiều"
+            ],
+            "nhà may": [
+                "tuyệt vời"
+            ],
+            "chất liệu": [
+                "tuyệt vời",
+                "chính xác"
+            ],
+            "hội an": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "vui mừng"
+            ],
+            "lắp ráp": [
+                "gần",
+                "giống",
+                "nhanh chóng",
+                "dễ dàng"
+            ],
+            "bộ": [
+                "hợp lý",
+                "tuyệt vời"
+            ],
+            "đồ bơi tùy": [
+                "hợp lý",
+                "tuyệt vời"
+            ],
+            "cửa hàng": [
+                "nhiều",
+                "khác",
+                "lớn",
+                "gần",
+                "đẹp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quần áo": 3,
+            "trải nghiệm": 2,
+            "dịch vụ": 3,
+            "bữa trưa": 1,
+            "chiếc": 1,
+            "quần vải": 1,
+            "áo sơ mi": 1,
+            "thợ may": 2,
+            "nhà may": 1,
+            "chất liệu": 1,
+            "hội an": 1,
+            "chuyến đi": 1,
+            "lắp ráp": 1,
+            "bộ": 1,
+            "đồ bơi tùy": 1,
+            "cửa hàng": 1
+        }
     },
     {
         "attraction_name": "Emy Custom Tailor - Linen & Clothing Specialist",
@@ -604,7 +1158,108 @@
             "https://www.tripadvisor.com/Attraction_Review-g33657-d212129-Reviews-Strawberry_Park_Hot_Springs-Steamboat_Springs_Colorado.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513888-Reviews-or50-Emy_Custom_Tailor_Linen_Clothing_Specialist-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513888-Reviews-or40-Emy_Custom_Tailor_Linen_Clothing_Specialist-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513888-Reviews-or40-Emy_Custom_Tailor_Linen_Clothing_Specialist-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.9955573444603942,
+            "món đồ": 0.9948998870095238,
+            "thợ may": 0.9936642391548958,
+            "trải nghiệm": 0.9466864051530137,
+            "bộ đồ chơi": 0.5,
+            "quần áo sản": 0.99134618754033,
+            "viên ngọc": 0.9894130813190714,
+            "bộ váy": 0.9952173427445814,
+            "gia chủ": 0.9948054068954661,
+            "viên": 0.9937252759700641,
+            "ngọc ẩn": 0.993159128469415,
+            "loại": -0.9639581013470888,
+            "quần áo": -0.31256639790566015,
+            "đường phố": 0.8554808534681797,
+            "nhà trọ": 0.8044580295681953,
+            "khách sạn": 0.6061365455389023
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tuyệt vời",
+                "hợp lý",
+                "tuyệt vời"
+            ],
+            "món đồ": [
+                "hài lòng",
+                "cuối cùng"
+            ],
+            "thợ may": [
+                "giỏi",
+                "xinh đẹp",
+                "thực sự",
+                "giỏi",
+                "thực sự",
+                "hợp lý"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "bộ đồ chơi": [],
+            "quần áo sản": [
+                "chắc chắn",
+                "bất kỳ"
+            ],
+            "viên ngọc": [
+                "vui"
+            ],
+            "bộ váy": [
+                "lung linh"
+            ],
+            "gia chủ": [
+                "dễ thương",
+                "hạnh phúc"
+            ],
+            "viên": [
+                "thực sự"
+            ],
+            "ngọc ẩn": [
+                "thực sự"
+            ],
+            "loại": [
+                "khác"
+            ],
+            "quần áo": [
+                "khác",
+                "đẹp"
+            ],
+            "đường phố": [
+                "độc lập",
+                "hợp lý"
+            ],
+            "nhà trọ": [
+                "độc lập",
+                "hợp lý"
+            ],
+            "khách sạn": [
+                "cùng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 2,
+            "món đồ": 1,
+            "thợ may": 2,
+            "trải nghiệm": 2.5,
+            "bộ đồ chơi": 1,
+            "quần áo sản": 1,
+            "viên ngọc": 1,
+            "bộ váy": 1,
+            "gia chủ": 1,
+            "viên": 1,
+            "ngọc ẩn": 1,
+            "loại": 1,
+            "quần áo": 1.5,
+            "đường phố": 1,
+            "nhà trọ": 1,
+            "khách sạn": 0.5
+        }
     },
     {
         "attraction_name": "Emy Custom Tailor - Linen & Clothing Specialist",
@@ -719,6 +1374,104 @@
             "https://www.tripadvisor.com/Attraction_Review-g189430-d676750-Reviews-Agrari_Beach-Mykonos_Cyclades_South_Aegean.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513888-Reviews-or60-Emy_Custom_Tailor_Linen_Clothing_Specialist-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513888-Reviews-or50-Emy_Custom_Tailor_Linen_Clothing_Specialist-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19513888-Reviews-or50-Emy_Custom_Tailor_Linen_Clothing_Specialist-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tác phẩm": 0.22805610698803017,
+            "bức tranh": 0.5,
+            "trải nghiệm": 0.9216326605528593,
+            "bộ": 0.9581571277230978,
+            "quần áo": 0.9919407878381511,
+            "loại vải": 0.9376047481782734,
+            "dịch vụ": 0.9346831767761614,
+            "thợ may": -0.20843393099494278,
+            "độ": 0.5,
+            "may quần áo": 0.5,
+            "áo khoác": 0.5,
+            "quần vest": 0.5,
+            "áo sơ mi": 0.5017309989780188,
+            "nhân viên": 0.9955536013003439,
+            "vải lanh": 0.7526571274211165,
+            "chủ sở": 0.9950536347460002
+        },
+        "dicts_adj": {
+            "tác phẩm": [
+                "khác",
+                "sống động",
+                "hoàn hảo",
+                "thân thiện"
+            ],
+            "bức tranh": [],
+            "trải nghiệm": [
+                "hạnh phúc"
+            ],
+            "bộ": [
+                "hoàn toàn"
+            ],
+            "quần áo": [
+                "hoàn toàn",
+                "tuyệt vời",
+                "nhiều",
+                "hài lòng",
+                "gần",
+                "vừa vặn",
+                "đầu tiên"
+            ],
+            "loại vải": [
+                "Nhiều",
+                "tốt"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "thợ may": [
+                "khác",
+                "chắc chắn",
+                "giỏi",
+                "nhất"
+            ],
+            "độ": [],
+            "may quần áo": [],
+            "áo khoác": [],
+            "quần vest": [],
+            "áo sơ mi": [
+                "cuối cùng",
+                "cùng"
+            ],
+            "nhân viên": [
+                "nhanh chóng",
+                "cao",
+                "hài lòng"
+            ],
+            "vải lanh": [
+                "đẹp",
+                "đẹp"
+            ],
+            "chủ sở": [
+                "hữu ích",
+                "chính xác",
+                "đẹp mắt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tác phẩm": 0.5,
+            "bức tranh": 0.5,
+            "trải nghiệm": 0.5,
+            "bộ": 0.5,
+            "quần áo": 1.5,
+            "loại vải": 0.5,
+            "dịch vụ": 1.0,
+            "thợ may": 1.0,
+            "độ": 0.5,
+            "may quần áo": 0.5,
+            "áo khoác": 0.5,
+            "quần vest": 0.5,
+            "áo sơ mi": 1.0,
+            "nhân viên": 0.5,
+            "vải lanh": 1.0,
+            "chủ sở": 0.5
+        }
     }
 ]

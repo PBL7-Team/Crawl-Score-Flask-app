@@ -111,7 +111,182 @@
             "https://www.tripadvisor.com/Attraction_Review-g754592-d9681943-Reviews-Arctic_Ocean_Shuttle-Deadhorse_Alaska.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or10-King_Pirates_Pub-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-King_Pirates_Pub-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-King_Pirates_Pub-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "âm nhạc": 0.5783495218493044,
+            "phố bia": 0.7242615470662713,
+            "đồ uống ngon nhạc": 0.8737692451104522,
+            "giá cả": 0.9529068090487272,
+            "khu phố cổ": 0.8495686869136989,
+            "quán bar": 0.8931457109210896,
+            "nhân viên": 0.668788185575977,
+            "đồ uống": 0.888697807075611,
+            "dịch vụ": 0.9854699167772196,
+            "hương vị": 0.9954862998565659,
+            "quán rượu": 0.8537684635375626,
+            "bia lạnh": 0.99553815391846,
+            "chú chó": 0.9722993231844157,
+            "viên": 0.29131244553718716,
+            "phố hàng": 0.8737692451104522,
+            "cửa hàng": 0.9839358250028454,
+            "nhà hàng ngon": 0.9932682978687808,
+            "chủ sở": 0.8737692451104522,
+            "cà phê": 0.9954910329543054,
+            "nước": 0.9627831992693245,
+            "trái cây": 0.9672835312667303,
+            "cà": 0.8737692451104522,
+            "phê": 0.9954187339171767,
+            "quán bar du lịch": 0.5,
+            "buổi chiều": 0.5,
+            "máy chủ": 0.5185935962945223,
+            "phòng vệ sinh": 0.2671233974688221,
+            "bể cá": 0.5,
+            "nhà vệ sinh": 0.5
+        },
+        "dicts_adj": {
+            "âm nhạc": [
+                "ồn ào",
+                "cùng"
+            ],
+            "phố bia": [
+                "tuyệt vời"
+            ],
+            "đồ uống ngon nhạc": [
+                "hợp lý"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "khu phố cổ": [
+                "tốt"
+            ],
+            "quán bar": [
+                "tốt",
+                "thực sự",
+                "thực sự",
+                "ổn",
+                "nhiều",
+                "nhiều",
+                "tốt"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "nhiều",
+                "cao",
+                "ngon",
+                "ngon",
+                "lạnh"
+            ],
+            "đồ uống": [
+                "thực sự",
+                "tốt",
+                "sánh",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "nhanh chóng",
+                "nhanh chóng"
+            ],
+            "hương vị": [
+                "tuyệt vời"
+            ],
+            "quán rượu": [
+                "nhỏ",
+                "tuyệt vời",
+                "tốt"
+            ],
+            "bia lạnh": [],
+            "chú chó": [
+                "nhỏ",
+                "dễ thương",
+                "nhất"
+            ],
+            "viên": [
+                "nhỏ",
+                "gần"
+            ],
+            "phố hàng": [
+                "nhỏ",
+                "gần"
+            ],
+            "cửa hàng": [
+                "nhiều",
+                "vui vẻ",
+                "nhiều",
+                "ổn",
+                "nhiều"
+            ],
+            "nhà hàng ngon": [
+                "tốt"
+            ],
+            "chủ sở": [
+                "thân thiện"
+            ],
+            "cà phê": [
+                "tuyệt vời"
+            ],
+            "nước": [
+                "tươi",
+                "hợp lý"
+            ],
+            "trái cây": [
+                "tươi",
+                "hợp lý"
+            ],
+            "cà": [
+                "ngon",
+                "ngon",
+                "lạnh"
+            ],
+            "phê": [
+                "ngon",
+                "ngon",
+                "lạnh"
+            ],
+            "quán bar du lịch": [],
+            "buổi chiều": [],
+            "máy chủ": [],
+            "phòng vệ sinh": [
+                "sạch sẽ",
+                "cao"
+            ],
+            "bể cá": [],
+            "nhà vệ sinh": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "âm nhạc": 1.5,
+            "phố bia": 2.5,
+            "đồ uống ngon nhạc": 1,
+            "giá cả": 1,
+            "khu phố cổ": 2,
+            "quán bar": 2.0,
+            "nhân viên": 2.0,
+            "đồ uống": 3.0,
+            "dịch vụ": 2.0,
+            "hương vị": 1,
+            "quán rượu": 2.0,
+            "bia lạnh": 1,
+            "chú chó": 1,
+            "viên": 1,
+            "phố hàng": 1,
+            "cửa hàng": 1.5,
+            "nhà hàng ngon": 0.5,
+            "chủ sở": 0.5,
+            "cà phê": 0.5,
+            "nước": 0.5,
+            "trái cây": 0.5,
+            "cà": 0.5,
+            "phê": 0.5,
+            "quán bar du lịch": 0.5,
+            "buổi chiều": 0.5,
+            "máy chủ": 0.5,
+            "phòng vệ sinh": 0.5,
+            "bể cá": 0.5,
+            "nhà vệ sinh": 0.5
+        }
     },
     {
         "attraction_name": "King Pirates Pub",
@@ -234,7 +409,74 @@
             "https://www.tripadvisor.com/Attraction_Review-g43798-d4610810-Reviews-Tropicana_Casino_Greenville-Greenville_Mississippi.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or20-King_Pirates_Pub-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or10-King_Pirates_Pub-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or10-King_Pirates_Pub-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đồ uống": 0.5614511859215175,
+            "quán rượu": -0.10251579976951082,
+            "rượu rum": 0.7283686402370222,
+            "loại": 0.4297185689210892,
+            "thế": 0.9953458766103722,
+            "quán bar": 0.7270767639274709,
+            "âm nhạc": 0.9952591387263965,
+            "con mèo": 0.7827215101569891,
+            "chủ sở": 0.8737692451104522,
+            "điện thoại": 0.5,
+            "chủ sở hữu": -0.8738581323996186
+        },
+        "dicts_adj": {
+            "đồ uống": [
+                "tuyệt vời",
+                "vui"
+            ],
+            "quán rượu": [
+                "tốt",
+                "khác",
+                "phải"
+            ],
+            "rượu rum": [
+                "tốt",
+                "khác"
+            ],
+            "loại": [
+                "khác"
+            ],
+            "thế": [
+                "ngon"
+            ],
+            "quán bar": [
+                "tuyệt vời"
+            ],
+            "âm nhạc": [
+                "tuyệt vời",
+                "tốt",
+                "tốt"
+            ],
+            "con mèo": [
+                "thân thiện"
+            ],
+            "chủ sở": [
+                "lịch sự"
+            ],
+            "điện thoại": [],
+            "chủ sở hữu": [
+                "phải"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đồ uống": 1.5,
+            "quán rượu": 1.5,
+            "rượu rum": 1.0,
+            "loại": 0.5,
+            "thế": 0.5,
+            "quán bar": 1.0,
+            "âm nhạc": 1.0,
+            "con mèo": 1.0,
+            "chủ sở": 0.5,
+            "điện thoại": 0.5,
+            "chủ sở hữu": 0.5
+        }
     },
     {
         "attraction_name": "King Pirates Pub",
@@ -350,7 +592,198 @@
             "https://www.tripadvisor.com/Attraction_Review-g28946-d209746-Reviews-Eleven_Point_River-Missouri.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or30-King_Pirates_Pub-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or20-King_Pirates_Pub-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or20-King_Pirates_Pub-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "vị vani": 0.8737692451104522,
+            "vị kem": -0.8949096146970987,
+            "lớp bia": 0.8149135960265994,
+            "không khí": 0.8737692451104522,
+            "chợ đêm": 0.9381342626875266,
+            "bia trứng": 0.9467016697486138,
+            "loại bia": 0.8737692451104522,
+            "quán rượu": 0.6418678279636273,
+            "bầu không khí": 0.8737692451104522,
+            "âm nhạc": 0.6734714078678129,
+            "bia lạnh -": 0.8737692451104522,
+            "món": 0.6441590487957001,
+            "đồ uống": 0.5065950793214142,
+            "chuyến đi": 0.5,
+            "khung cảnh": 0.9953336525941268,
+            "dịch vụ": 0.9955976996570826,
+            "quán bar": 0.8311448723931486,
+            "đồng tiền": 0.9869336182018742,
+            "loại": -0.13202289189212024,
+            "cocktail": 0.779362826840952,
+            "cà phê ngon": 0.9955486890394241,
+            "cà phê": 0.8786147307837382,
+            "chủ sở hữu": 0.9935826894361526,
+            "hạt": 0.8480673534795642,
+            "cửa hàng": 0.3378231171518564,
+            "buổi cà phê": 0.9955803073244169,
+            "đồ ăn ngon bia": 0.9955877758911811,
+            "áo phông": 0.9245161812286824,
+            "chủ": 0.8737692451104522,
+            "điểm dừng chân": 0.5
+        },
+        "dicts_adj": {
+            "vị vani": [
+                "béo"
+            ],
+            "vị kem": [
+                "béo"
+            ],
+            "lớp bia": [
+                "đắng"
+            ],
+            "không khí": [
+                "đẹp",
+                "gần"
+            ],
+            "chợ đêm": [
+                "đủ",
+                "bận rộn"
+            ],
+            "bia trứng": [
+                "ngon",
+                "tuyệt vời",
+                "sớm",
+                "tình cờ"
+            ],
+            "loại bia": [
+                "ngon",
+                "tuyệt vời",
+                "sớm"
+            ],
+            "quán rượu": [
+                "nhỏ",
+                "tuyệt vời",
+                "thú vị",
+                "cần thiết",
+                "nhiều",
+                "hơn"
+            ],
+            "bầu không khí": [
+                "tuyệt vời"
+            ],
+            "âm nhạc": [
+                "LẠNH",
+                "tệ",
+                "tuyệt vời",
+                "hay"
+            ],
+            "bia lạnh -": [
+                "tình cờ"
+            ],
+            "món": [
+                "cay"
+            ],
+            "đồ uống": [
+                "thật",
+                "hơn",
+                "tuyệt vời",
+                "lạnh",
+                "thân thiện",
+                "tuyệt vời",
+                "tốt"
+            ],
+            "chuyến đi": [],
+            "khung cảnh": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "quán bar": [
+                "đơn giản",
+                "lạnh",
+                "Gần"
+            ],
+            "đồng tiền": [
+                "tốt"
+            ],
+            "loại": [
+                "sẵn",
+                "tốt",
+                "khác"
+            ],
+            "cocktail": [
+                "sẵn",
+                "tốt"
+            ],
+            "cà phê ngon": [
+                "nhiều"
+            ],
+            "cà phê": [
+                "khác",
+                "tốt",
+                "tốt",
+                "khác",
+                "ngon",
+                "nhất",
+                "ngon",
+                "nhất",
+                "ngon",
+                "nhất"
+            ],
+            "chủ sở hữu": [],
+            "hạt": [
+                "khác",
+                "tốt",
+                "tốt"
+            ],
+            "cửa hàng": [
+                "khác",
+                "tốt",
+                "tốt"
+            ],
+            "buổi cà phê": [
+                "nhiều",
+                "thú vị"
+            ],
+            "đồ ăn ngon bia": [
+                "lạnh"
+            ],
+            "áo phông": [],
+            "chủ": [
+                "cùng",
+                "quý giá"
+            ],
+            "điểm dừng chân": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "vị vani": 0.5,
+            "vị kem": 0.5,
+            "lớp bia": 0.5,
+            "không khí": 0.5,
+            "chợ đêm": 0.5,
+            "bia trứng": 1.5,
+            "loại bia": 0.5,
+            "quán rượu": 1.5,
+            "bầu không khí": 0.5,
+            "âm nhạc": 1.5,
+            "bia lạnh -": 0.5,
+            "món": 0.5,
+            "đồ uống": 1.5,
+            "chuyến đi": 0.5,
+            "khung cảnh": 0.5,
+            "dịch vụ": 0.5,
+            "quán bar": 1.5,
+            "đồng tiền": 0.5,
+            "loại": 1.0,
+            "cocktail": 0.5,
+            "cà phê ngon": 0.5,
+            "cà phê": 1.0,
+            "chủ sở hữu": 0.5,
+            "hạt": 0.5,
+            "cửa hàng": 0.5,
+            "buổi cà phê": 0.5,
+            "đồ ăn ngon bia": 0.5,
+            "áo phông": 0.5,
+            "chủ": 0.5,
+            "điểm dừng chân": 0.5
+        }
     },
     {
         "attraction_name": "King Pirates Pub",
@@ -464,7 +897,144 @@
             "https://www.tripadvisor.com/Attraction_Review-g36036-d2371210-Reviews-Eversgerd_s_Civil_War_Fort-Germantown_Illinois.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or40-King_Pirates_Pub-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or30-King_Pirates_Pub-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or30-King_Pirates_Pub-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "phố bia": 0.9794724334497005,
+            "cà phê": 0.9943748726509511,
+            "quán rượu": -0.22356856040035686,
+            "quán cà phê": -0.2353975847363472,
+            "thực đơn đồ uống": 0.8737692451104522,
+            "nước": 0.9895251631969586,
+            "trái cây": 0.968641453422606,
+            "cà phê dừa": 0.5,
+            "khu phố cổ": -0.33133555490348954,
+            "âm nhạc": 0.3223178720024104,
+            "chuyến thăm phố cổ": 0.8737692451104522,
+            "phê trứng": 0.9947824966802727,
+            "bia trứng": 0.9780824405606836,
+            "cà": 0.9850002099992707,
+            "quán bar": 0.7274237762903795,
+            "không khí": -0.9756324363406748,
+            "đám đông": 0.5,
+            "người chủ": 0.8737692451104522,
+            "chú chó": 0.5059521701186895,
+            "nhân viên": 0.6689167404547334,
+            "dịch vụ": 0.9954539088648744,
+            "rượu rum": -0.6296921949833632,
+            "đồ uống": 0.9955768987420015
+        },
+        "dicts_adj": {
+            "phố bia": [
+                "gần"
+            ],
+            "cà phê": [
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "quán rượu": [
+                "bất thường",
+                "nhiều",
+                "nhỏ",
+                "Tình cờ"
+            ],
+            "quán cà phê": [
+                "bất thường"
+            ],
+            "thực đơn đồ uống": [
+                "tuyệt vời"
+            ],
+            "nước": [
+                "tươi"
+            ],
+            "trái cây": [
+                "tươi"
+            ],
+            "cà phê dừa": [],
+            "khu phố cổ": [
+                "thực sự",
+                "dễ",
+                "phải",
+                "dễ",
+                "khác"
+            ],
+            "âm nhạc": [
+                "tuyệt vời",
+                "bất kỳ",
+                "cao"
+            ],
+            "chuyến thăm phố cổ": [
+                "tuyệt vời",
+                "bất kỳ",
+                "cao"
+            ],
+            "phê trứng": [
+                "tuyệt vời",
+                "kỳ lạ",
+                "tuyệt vời"
+            ],
+            "bia trứng": [
+                "tuyệt vời",
+                "kỳ lạ",
+                "tuyệt vời"
+            ],
+            "cà": [
+                "kỳ lạ",
+                "tuyệt vời"
+            ],
+            "quán bar": [
+                "chắc chắn",
+                "thú vị",
+                "đặc biệt"
+            ],
+            "không khí": [
+                "tốt"
+            ],
+            "đám đông": [],
+            "người chủ": [
+                "thân thiện"
+            ],
+            "chú chó": [
+                "nhỏ"
+            ],
+            "nhân viên": [],
+            "dịch vụ": [
+                "nhanh chóng"
+            ],
+            "rượu rum": [
+                "giống"
+            ],
+            "đồ uống": [
+                "tuyệt vời",
+                "rẻ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "phố bia": 0.5,
+            "cà phê": 1.0,
+            "quán rượu": 1.5,
+            "quán cà phê": 0.5,
+            "thực đơn đồ uống": 0.5,
+            "nước": 0.5,
+            "trái cây": 0.5,
+            "cà phê dừa": 0.5,
+            "khu phố cổ": 1.0,
+            "âm nhạc": 0.5,
+            "chuyến thăm phố cổ": 0.5,
+            "phê trứng": 1.0,
+            "bia trứng": 1.0,
+            "cà": 0.5,
+            "quán bar": 1.0,
+            "không khí": 0.5,
+            "đám đông": 0.5,
+            "người chủ": 0.5,
+            "chú chó": 0.5,
+            "nhân viên": 0.5,
+            "dịch vụ": 0.5,
+            "rượu rum": 0.5,
+            "đồ uống": 0.5
+        }
     },
     {
         "attraction_name": "King Pirates Pub",
@@ -588,7 +1158,96 @@
             "https://www.tripadvisor.com/Attraction_Review-g28938-d276467-Reviews-Kentucky_Bourbon_Trail-Kentucky.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or50-King_Pirates_Pub-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or40-King_Pirates_Pub-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or40-King_Pirates_Pub-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.8737692451104522,
+            "quán bar": 0.31583927721949295,
+            "chuyến đi": 0.9908422238659114,
+            "cà": 0.5,
+            "phê bia": 0.5,
+            "đồ uống": 0.7477529462485109,
+            "quán rượu rum": 0.8737692451104522,
+            "khu phố cổ": 0.7468267709482461,
+            "dịch vụ khách hàng": 0.9954811618663371,
+            "con phố": 0.5893328599631786,
+            "rượu rum": 0.7486134964274243,
+            "thuyền trưởng": 0.5267419945448637,
+            "giai điệu rock": 0.9954152096761391,
+            "quán rượu": -0.9399924066383392,
+            "người": 0.9954668245627545,
+            "chương trình": 0.9955377578735352
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tuyệt",
+                "đơn giản"
+            ],
+            "quán bar": [
+                "nhỏ",
+                "nhỏ",
+                "nhỏ"
+            ],
+            "chuyến đi": [
+                "vui vẻ"
+            ],
+            "cà": [],
+            "phê bia": [],
+            "đồ uống": [
+                "tuyệt vời",
+                "thú vị"
+            ],
+            "quán rượu rum": [
+                "thú vị"
+            ],
+            "khu phố cổ": [
+                "thực sự",
+                "thú vị",
+                "yên tĩnh",
+                "hơn"
+            ],
+            "dịch vụ khách hàng": [
+                "tuyệt vời"
+            ],
+            "con phố": [
+                "ồn ào",
+                "khác"
+            ],
+            "rượu rum": [],
+            "thuyền trưởng": [],
+            "giai điệu rock": [
+                "tuyệt vời",
+                "hơn"
+            ],
+            "quán rượu": [
+                "cướp biển"
+            ],
+            "người": [
+                "tuyệt vời"
+            ],
+            "chương trình": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 0.5,
+            "quán bar": 2.5,
+            "chuyến đi": 0.5,
+            "cà": 0.5,
+            "phê bia": 0.5,
+            "đồ uống": 1.0,
+            "quán rượu rum": 0.5,
+            "khu phố cổ": 1.0,
+            "dịch vụ khách hàng": 0.5,
+            "con phố": 0.5,
+            "rượu rum": 1.0,
+            "thuyền trưởng": 0.5,
+            "giai điệu rock": 0.5,
+            "quán rượu": 0.5,
+            "người": 0.5,
+            "chương trình": 0.5
+        }
     },
     {
         "attraction_name": "King Pirates Pub",
@@ -712,7 +1371,119 @@
             "https://www.tripadvisor.com/Attraction_Review-g680222-d12834364-Reviews-CityPlace_Doral-Doral_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or60-King_Pirates_Pub-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or50-King_Pirates_Pub-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or50-King_Pirates_Pub-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quán rượu": 0.7554311334388331,
+            "cướp biển": 0.5,
+            "khu phố cổ": 0.8737692451104522,
+            "đồ uống rẻ cocktail ngon": 0.5,
+            "nhân viên": 0.5,
+            "đồ uống": 0.3390298011751535,
+            "chủ sở hữu": 0.7466370807669591,
+            "dịch vụ cá nhân": 0.5,
+            "quán bar": 0.5442155934870243,
+            "âm nhạc": 0.9346636214177124,
+            "hard rock": 0.21486815274693072,
+            "loại bia": 0.512754226103425,
+            "loại cocktail": -0.9657117016613483,
+            "chú chó": 0.9780130094150081,
+            "móng chân": -0.33587538078427315,
+            "thực đơn đồ uống": 0.9951236885972321,
+            "ly cocktail": 0.5,
+            "vị trí": 0.8737692451104522,
+            "dịch vụ": 0.995489667460788,
+            "điểm": 0.5,
+            "cộng khi": 0.5,
+            "cà phê": 0.9945586919784546
+        },
+        "dicts_adj": {
+            "quán rượu": [
+                "nhỏ"
+            ],
+            "cướp biển": [],
+            "khu phố cổ": [
+                "nhỏ"
+            ],
+            "đồ uống rẻ cocktail ngon": [],
+            "nhân viên": [],
+            "đồ uống": [
+                "tuyệt vời",
+                "chắc chắn",
+                "khác",
+                "khác",
+                "cuối cùng"
+            ],
+            "chủ sở hữu": [
+                "thân thiện"
+            ],
+            "dịch vụ cá nhân": [],
+            "quán bar": [
+                "sớm"
+            ],
+            "âm nhạc": [
+                "tuyệt vời",
+                "thân thiện"
+            ],
+            "hard rock": [
+                "cổ điển",
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "loại bia": [
+                "khác"
+            ],
+            "loại cocktail": [
+                "khác"
+            ],
+            "chú chó": [
+                "dễ thương"
+            ],
+            "móng chân": [
+                "đỏ",
+                "lớn"
+            ],
+            "thực đơn đồ uống": [
+                "ngạc nhiên"
+            ],
+            "ly cocktail": [],
+            "vị trí": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "điểm": [],
+            "cộng khi": [],
+            "cà phê": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quán rượu": 1.0,
+            "cướp biển": 0.5,
+            "khu phố cổ": 0.5,
+            "đồ uống rẻ cocktail ngon": 0.5,
+            "nhân viên": 0.5,
+            "đồ uống": 1.5,
+            "chủ sở hữu": 1.0,
+            "dịch vụ cá nhân": 0.5,
+            "quán bar": 0.5,
+            "âm nhạc": 1.0,
+            "hard rock": 0.5,
+            "loại bia": 0.5,
+            "loại cocktail": 0.5,
+            "chú chó": 0.5,
+            "móng chân": 0.5,
+            "thực đơn đồ uống": 0.5,
+            "ly cocktail": 0.5,
+            "vị trí": 0.5,
+            "dịch vụ": 0.5,
+            "điểm": 0.5,
+            "cộng khi": 0.5,
+            "cà phê": 0.5
+        }
     },
     {
         "attraction_name": "King Pirates Pub",
@@ -832,7 +1603,136 @@
             "https://www.tripadvisor.com/Attraction_Review-g37719-d3653927-Reviews-Snake_Alley-Burlington_Iowa.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or70-King_Pirates_Pub-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or60-King_Pirates_Pub-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or60-King_Pirates_Pub-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quán rượu nhỏ": 0.8737692451104522,
+            "bia": 0.9952386093209498,
+            "giá cả": 0.9944746674154885,
+            "không khí cướp": -0.20252798846922815,
+            "chú": 0.9759619410615414,
+            "chó nhỏ": 0.760102934204042,
+            "cốc bia": 0.6892868112772703,
+            "chủ sở": 0.8737692451104522,
+            "con chó": 0.4916015174239874,
+            "uống bia": 0.9897220027633011,
+            "cướp biển": 0.990426057134755,
+            "chú chó": 0.9780130094150081,
+            "đồ uống": 0.7856913774254888,
+            "bầu": 0.9953720720950514,
+            "không khí cướp biển": 0.9803444719873369,
+            "tấm ván": 0.5,
+            "bức tường danh": 0.5,
+            "áo phông": 0.5,
+            "quán bar": 0.995509077765746,
+            "ly cocktail rượu rum": 0.9954555655713193,
+            "món ăn": 0.9112591710872948,
+            "quán bar cướp biển": -0.9734211582690477,
+            "âm nhạc": 0.5,
+            "cà phê": 0.9955069610150531
+        },
+        "dicts_adj": {
+            "quán rượu nhỏ": [
+                "tuyệt vời"
+            ],
+            "bia": [
+                "tốt"
+            ],
+            "giá cả": [
+                "tốt"
+            ],
+            "không khí cướp": [
+                "cướp biển",
+                "thân thiện"
+            ],
+            "chú": [
+                "dễ thương"
+            ],
+            "chó nhỏ": [
+                "dễ thương"
+            ],
+            "cốc bia": [
+                "Chắc chắn"
+            ],
+            "chủ sở": [
+                "nhỏ",
+                "rẻ",
+                "rẻ"
+            ],
+            "con chó": [
+                "nhỏ"
+            ],
+            "uống bia": [
+                "nhanh"
+            ],
+            "cướp biển": [
+                "vui"
+            ],
+            "chú chó": [
+                "dễ thương"
+            ],
+            "đồ uống": [
+                "ngon",
+                "lạnh",
+                "tuyệt vời",
+                "rẻ",
+                "rẻ",
+                "rẻ",
+                "hợp lý"
+            ],
+            "bầu": [
+                "tuyệt vời"
+            ],
+            "không khí cướp biển": [
+                "tuyệt vời"
+            ],
+            "tấm ván": [],
+            "bức tường danh": [],
+            "áo phông": [],
+            "quán bar": [
+                "tuyệt vời",
+                "ngon"
+            ],
+            "ly cocktail rượu rum": [
+                "tuyệt vời"
+            ],
+            "món ăn": [
+                "nhẹ"
+            ],
+            "quán bar cướp biển": [],
+            "âm nhạc": [],
+            "cà phê": [
+                "ngon",
+                "sớm"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quán rượu nhỏ": 0.5,
+            "bia": 0.5,
+            "giá cả": 0.5,
+            "không khí cướp": 0.5,
+            "chú": 0.5,
+            "chó nhỏ": 0.5,
+            "cốc bia": 0.5,
+            "chủ sở": 1.0,
+            "con chó": 0.5,
+            "uống bia": 0.5,
+            "cướp biển": 0.5,
+            "chú chó": 0.5,
+            "đồ uống": 2.0,
+            "bầu": 0.5,
+            "không khí cướp biển": 0.5,
+            "tấm ván": 0.5,
+            "bức tường danh": 0.5,
+            "áo phông": 0.5,
+            "quán bar": 0.5,
+            "ly cocktail rượu rum": 0.5,
+            "món ăn": 0.5,
+            "quán bar cướp biển": 0.5,
+            "âm nhạc": 0.5,
+            "cà phê": 0.5
+        }
     },
     {
         "attraction_name": "King Pirates Pub",
@@ -948,7 +1848,139 @@
             "https://www.tripadvisor.com/Attraction_Review-g59565-d12832322-Reviews-Summersville_Lake_State_Park-Summersville_West_Virginia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or80-King_Pirates_Pub-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or70-King_Pirates_Pub-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or70-King_Pirates_Pub-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đồ uống": 0.9646867421171111,
+            "chuyến đi": 0.9955918917548843,
+            "cốc bia": -0.9470558734610677,
+            "rượu gạo": 0.5079902186407708,
+            "cơm rượu vang": 0.5,
+            "quán rượu": 0.7267763624743869,
+            "xúc phạm": 0.5305884554982185,
+            "rượu gạo ruou gao": 0.41900900460314006,
+            "ruou gao": 0.8737692451104522,
+            "rượu gao": 0.5,
+            "mật ong rượu gạo": 0.5,
+            "vị rược cần": 0.8737692451104522,
+            "bia": -0.0031395014375448227,
+            "người dân địa": 0.5,
+            "đường phố": 0.5,
+            "giao thông": 0.5,
+            "cướp biển": 0.5,
+            "kỳ nghỉ": 0.7284541247354355,
+            "con": 0.7104267533286475,
+            "cá vàng": 0.7480244853068143,
+            "chứa nước": 0.4480842240154743,
+            "tấm ván": 0.9739336930215359,
+            "rượu rum": 0.5,
+            "bể cá": 0.5,
+            "nhà vệ": 0.5
+        },
+        "dicts_adj": {
+            "đồ uống": [
+                "hợp lý",
+                "cũ",
+                "hợp lý",
+                "nhiều"
+            ],
+            "chuyến đi": [
+                "nhiều",
+                "vui vẻ"
+            ],
+            "cốc bia": [
+                "suốt"
+            ],
+            "rượu gạo": [
+                "ngọt",
+                "ngon",
+                "khoảng",
+                "mạnh",
+                "khác",
+                "mạnh"
+            ],
+            "cơm rượu vang": [],
+            "quán rượu": [
+                "tuyệt vời",
+                "đầy đủ",
+                "thực sự",
+                "nhiều",
+                "hữu ích",
+                "tuyệt vời",
+                "nhỏ",
+                "nhiều"
+            ],
+            "xúc phạm": [],
+            "rượu gạo ruou gao": [
+                "rắc rối",
+                "đậm đà",
+                "ngọt",
+                "đậm đà"
+            ],
+            "ruou gao": [
+                "khoảng",
+                "mạnh"
+            ],
+            "rượu gao": [],
+            "mật ong rượu gạo": [],
+            "vị rược cần": [
+                "đậm đà",
+                "ngọt",
+                "đậm đà"
+            ],
+            "bia": [
+                "tử tế"
+            ],
+            "người dân địa": [],
+            "đường phố": [],
+            "giao thông": [],
+            "cướp biển": [],
+            "kỳ nghỉ": [
+                "vui vẻ",
+                "cùng"
+            ],
+            "con": [
+                "khó",
+                "tuyệt vời"
+            ],
+            "cá vàng": [
+                "khó",
+                "tuyệt vời"
+            ],
+            "chứa nước": [],
+            "tấm ván": [],
+            "rượu rum": [],
+            "bể cá": [],
+            "nhà vệ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đồ uống": 1.5,
+            "chuyến đi": 0.5,
+            "cốc bia": 0.5,
+            "rượu gạo": 1.0,
+            "cơm rượu vang": 0.5,
+            "quán rượu": 2.0,
+            "xúc phạm": 0.5,
+            "rượu gạo ruou gao": 0.5,
+            "ruou gao": 0.5,
+            "rượu gao": 0.5,
+            "mật ong rượu gạo": 0.5,
+            "vị rược cần": 0.5,
+            "bia": 0.5,
+            "người dân địa": 0.5,
+            "đường phố": 0.5,
+            "giao thông": 0.5,
+            "cướp biển": 0.5,
+            "kỳ nghỉ": 1.0,
+            "con": 0.5,
+            "cá vàng": 0.5,
+            "chứa nước": 0.5,
+            "tấm ván": 0.5,
+            "rượu rum": 0.5,
+            "bể cá": 0.5,
+            "nhà vệ": 0.5
+        }
     },
     {
         "attraction_name": "King Pirates Pub",
@@ -1062,7 +2094,140 @@
             "https://www.tripadvisor.com/Attraction_Review-g28942-d266266-Reviews-Quabbin_Reservoir-Massachusetts.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or90-King_Pirates_Pub-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or80-King_Pirates_Pub-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or80-King_Pirates_Pub-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bữa tiệc": 0.5,
+            "câu lạc bộ": 0.5185927208513021,
+            "người dân": 0.9895547688938677,
+            "đồ uống": 0.9853425809997134,
+            "quán rượu": 0.6627751382378241,
+            "chủ sở": 0.9955456746392883,
+            "bia": 0.5,
+            "cà phê": 0.5,
+            "áo phông": 0.9443274813238531,
+            "dịch vụ": 0.9025401415347005,
+            "quán bar": 0.008576865016948432,
+            "người pha chế": 0.9102964950725436,
+            "quán rượu không khí": -0.9457025900483131,
+            "bia lạnh": 0.986817852826789,
+            "ly rượu rum": 0.9683533180505037,
+            "chú chó": 0.9783067593816668,
+            "chó": 0.40350267477333546,
+            "loại cocktail": 0.049710958439391106,
+            "chủ nơi": 0.96117965108715,
+            "địa điểm ăn uống": 0.9946246028412133,
+            "bầu không khí": 0.5,
+            "đất": 0.9954851127113216,
+            "cocktail": 0.9955426279921085
+        },
+        "dicts_adj": {
+            "bữa tiệc": [],
+            "câu lạc bộ": [
+                "nhỏ",
+                "khác"
+            ],
+            "người dân": [
+                "hợp lý"
+            ],
+            "đồ uống": [
+                "hợp lý",
+                "hợp lý",
+                "ngon"
+            ],
+            "quán rượu": [
+                "tình cờ"
+            ],
+            "chủ sở": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "bia": [],
+            "cà phê": [],
+            "áo phông": [],
+            "dịch vụ": [
+                "rẻ",
+                "hơn",
+                "tốt",
+                "thú vị",
+                "tuyệt vời",
+                "rắc rối",
+                "xuất sắc",
+                "hữu ích",
+                "bất kỳ",
+                "tốt"
+            ],
+            "quán bar": [
+                "tốt",
+                "tốt",
+                "khác"
+            ],
+            "người pha chế": [],
+            "quán rượu không khí": [
+                "tuyệt vời"
+            ],
+            "bia lạnh": [
+                "tốt"
+            ],
+            "ly rượu rum": [
+                "khoảng",
+                "vui"
+            ],
+            "chú chó": [
+                "vui vẻ",
+                "nhỏ",
+                "thú vị"
+            ],
+            "chó": [
+                "nhỏ"
+            ],
+            "loại cocktail": [
+                "thực sự",
+                "giống"
+            ],
+            "chủ nơi": [
+                "tốt"
+            ],
+            "địa điểm ăn uống": [
+                "ngon"
+            ],
+            "bầu không khí": [],
+            "đất": [
+                "thực sự",
+                "có thể",
+                "tuyệt vời"
+            ],
+            "cocktail": [
+                "tuyệt",
+                "rẻ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bữa tiệc": 0.5,
+            "câu lạc bộ": 1.0,
+            "người dân": 0.5,
+            "đồ uống": 1.0,
+            "quán rượu": 1.5,
+            "chủ sở": 0.5,
+            "bia": 0.5,
+            "cà phê": 0.5,
+            "áo phông": 1.0,
+            "dịch vụ": 2.0,
+            "quán bar": 1.0,
+            "người pha chế": 0.5,
+            "quán rượu không khí": 0.5,
+            "bia lạnh": 0.5,
+            "ly rượu rum": 0.5,
+            "chú chó": 1.0,
+            "chó": 0.5,
+            "loại cocktail": 0.5,
+            "chủ nơi": 0.5,
+            "địa điểm ăn uống": 0.5,
+            "bầu không khí": 0.5,
+            "đất": 0.5,
+            "cocktail": 0.5
+        }
     },
     {
         "attraction_name": "King Pirates Pub",
@@ -1182,7 +2347,120 @@
             "https://www.tripadvisor.com/Attraction_Review-g34467-d1452375-Reviews-Lowdermilk_Beach-Naples_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or100-King_Pirates_Pub-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or90-King_Pirates_Pub-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or90-King_Pirates_Pub-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cốc bia": 0.7465041127870791,
+            "khu phố cổ": 0.8737692451104522,
+            "quán": -0.9561423524282873,
+            "phố": 0.5646831262856722,
+            "quán bia": 0.8737692451104522,
+            "đồ uống": 0.6863098012981936,
+            "quán rượu king": 0.934668127389159,
+            "chú": 0.5,
+            "chó": 0.7477397233888041,
+            "con chó": 0.9955103737884201,
+            "con": 0.995370261836797,
+            "nhân viên": 0.8737692451104522,
+            "rung cảm": 0.9953600644366816,
+            "chó bỏ túi": 0.9885430805152282,
+            "chú chó": 0.9943807808449492,
+            "chuyến thăm": 0.6672997530549765,
+            "thức ăn": 0.5,
+            "chủ sở": 0.9917853672523052,
+            "quán rượu": 0.5600740697118454,
+            "người chủ": 0.8737692451104522,
+            "bữa tiệc sinh": 0.9955243797157891
+        },
+        "dicts_adj": {
+            "cốc bia": [],
+            "khu phố cổ": [
+                "thoải mái"
+            ],
+            "quán": [
+                "khét tiếng"
+            ],
+            "phố": [
+                "nổi tiếng"
+            ],
+            "quán bia": [
+                "gần"
+            ],
+            "đồ uống": [
+                "Gần",
+                "tuyệt vời",
+                "mạnh",
+                "ngon",
+                "thân thiện",
+                "đầy"
+            ],
+            "quán rượu king": [
+                "thú vị",
+                "nhỏ",
+                "tuyệt vời"
+            ],
+            "chú": [],
+            "chó": [
+                "tuyệt vời"
+            ],
+            "con chó": [
+                "tuyệt vời"
+            ],
+            "con": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "tuyệt vời"
+            ],
+            "rung cảm": [
+                "tuyệt vời"
+            ],
+            "chó bỏ túi": [],
+            "chú chó": [],
+            "chuyến thăm": [
+                "đầu tiên"
+            ],
+            "thức ăn": [],
+            "chủ sở": [
+                "thực sự",
+                "tốt bụng"
+            ],
+            "quán rượu": [
+                "nhỏ",
+                "Chắc chắn"
+            ],
+            "người chủ": [
+                "tốt bụng"
+            ],
+            "bữa tiệc sinh": [
+                "vui",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cốc bia": 1.0,
+            "khu phố cổ": 0.5,
+            "quán": 0.5,
+            "phố": 0.5,
+            "quán bia": 0.5,
+            "đồ uống": 1.5,
+            "quán rượu king": 1.0,
+            "chú": 0.5,
+            "chó": 1.0,
+            "con chó": 0.5,
+            "con": 0.5,
+            "nhân viên": 0.5,
+            "rung cảm": 0.5,
+            "chó bỏ túi": 0.5,
+            "chú chó": 0.5,
+            "chuyến thăm": 0.5,
+            "thức ăn": 0.5,
+            "chủ sở": 0.5,
+            "quán rượu": 0.5,
+            "người chủ": 0.5,
+            "bữa tiệc sinh": 0.5
+        }
     },
     {
         "attraction_name": "King Pirates Pub",
@@ -1300,6 +2578,11 @@
             "https://www.tripadvisor.com/Attraction_Review-g32655-d293308-Reviews-Abbot_Kinney_Boulevard-Los_Angeles_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or110-King_Pirates_Pub-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or100-King_Pirates_Pub-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6437083-Reviews-or100-King_Pirates_Pub-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     }
 ]

@@ -77,6 +77,48 @@
             "https://www.tripadvisor.com/Attraction_Review-g60789-d19449157-Reviews-Wind_Creek_Bethlehem_Casino-Bethlehem_Pennsylvania.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g12654020-d25316429-Reviews-Jungle_Boss_Pub-Son_Trach_Quang_Binh_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g12654020-d25316429-Reviews-Jungle_Boss_Pub-Son_Trach_Quang_Binh_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quầy bar": 0.8737692451104522,
+            "đồ uống ngon âm nhạc": 0.9955539024667814,
+            "trò chơi": 0.9928998689865693,
+            "nhân viên": 0.9946226836764254,
+            "chuyến đi": 0.9955438388278708,
+            "chả giò": -0.17592916637659073,
+            "thẻ tín dụng": -0.48623999021947384
+        },
+        "dicts_adj": {
+            "quầy bar": [
+                "tuyệt vời"
+            ],
+            "đồ uống ngon âm nhạc": [
+                "thân thiện"
+            ],
+            "trò chơi": [
+                "thân thiện"
+            ],
+            "nhân viên": [
+                "thân thiện"
+            ],
+            "chuyến đi": [
+                "tuyệt vời"
+            ],
+            "chả giò": [
+                "ngon chút",
+                "ổn"
+            ],
+            "thẻ tín dụng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quầy bar": 1,
+            "đồ uống ngon âm nhạc": 1,
+            "trò chơi": 1,
+            "nhân viên": 1,
+            "chuyến đi": 1,
+            "chả giò": 1,
+            "thẻ tín dụng": 1
+        }
     }
 ]

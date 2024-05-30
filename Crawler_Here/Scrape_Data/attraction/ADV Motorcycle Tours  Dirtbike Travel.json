@@ -78,7 +78,193 @@
             "https://www.tripadvisor.com/Attraction_Review-g35805-d104000-Reviews-Adler_Planetarium-Chicago_Illinois.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d4025487-Reviews-or10-ADV_Motorcycle_Tours_Dirtbike_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d4025487-Reviews-ADV_Motorcycle_Tours_Dirtbike_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d4025487-Reviews-ADV_Motorcycle_Tours_Dirtbike_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dãy nhà": 0.9946812548441812,
+            "hướng dẫn viên": 0.47151531744748354,
+            "đường đua": 0.9352160282433033,
+            "chuyến đi": 0.6955859482841333,
+            "đạp xe": 0.025575945910532027,
+            "đất nước": 0.9954918561852537,
+            "chuyến du lịch": 0.930583031848073,
+            "đồ ăn": 0.9955035970779136,
+            "nhà ở": 0.9955362977925688,
+            "chuyến tham quan": 0.9345920152457742,
+            "ngọn núi": 0.03482365654781461,
+            "dân tộc": 0.7639876740286127,
+            "món ăn": 0.9935651430860162,
+            "ngôi làng": 0.2539107045158744,
+            "hành trình": 0.7380928146885708,
+            "phong cảnh": 0.9952090876176953,
+            "chuyến phiêu lưu": 0.897701638401486,
+            "cuộc phiêu lưu": 0.9908607876859605,
+            "hướng dẫn viên du lịch": 0.381198494695127,
+            "hàng dặm": -0.9491000024136156,
+            "viên": 0.5,
+            "ngọc ẩn": 0.5,
+            "nhân vật": 0.9726787023246288,
+            "thị trấn": 0.5,
+            "xe đạp": -0.2235716060968116,
+            "chuyến đi giải trí": 0.9939309057081118,
+            "xe tay ga": 0.16171993874013424,
+            "chỗ ở": 0.9952584212878719,
+            "trải nghiệm": 0.9952929434366524,
+            "chỗ": 0.9950085509335622,
+            "đường mòn": 0.9946794069837779,
+            "văn hóa địa": 0.9018926424905658,
+            "chuyến du lịch đông bắc": 0.9756732829846442
+        },
+        "dicts_adj": {
+            "dãy nhà": [
+                "tuyệt vời",
+                "chăm chỉ",
+                "khắc nghiệt",
+                "đầy",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "đặc biệt",
+                "ấn tượng",
+                "nhất"
+            ],
+            "đường đua": [
+                "tốt",
+                "đầy"
+            ],
+            "chuyến đi": [
+                "tốt",
+                "hơn",
+                "cùng",
+                "cùng",
+                "muộn"
+            ],
+            "đạp xe": [
+                "vất vả",
+                "tuyệt vời"
+            ],
+            "đất nước": [
+                "tuyệt vời"
+            ],
+            "chuyến du lịch": [
+                "cùng"
+            ],
+            "đồ ăn": [
+                "tuyệt vời"
+            ],
+            "nhà ở": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "ngoạn mục",
+                "khắp",
+                "khó",
+                "độc đáo",
+                "thực sự",
+                "tốt"
+            ],
+            "ngọn núi": [
+                "ngon",
+                "đúng"
+            ],
+            "dân tộc": [
+                "ngon",
+                "đúng"
+            ],
+            "món ăn": [
+                "ngon",
+                "đúng"
+            ],
+            "ngôi làng": [
+                "xa xôi",
+                "hiếm"
+            ],
+            "hành trình": [
+                "ấn tượng",
+                "nhất"
+            ],
+            "phong cảnh": [
+                "khó"
+            ],
+            "chuyến phiêu lưu": [
+                "tuyệt vời",
+                "mới"
+            ],
+            "cuộc phiêu lưu": [],
+            "hướng dẫn viên du lịch": [
+                "mới"
+            ],
+            "hàng dặm": [],
+            "viên": [],
+            "ngọc ẩn": [],
+            "nhân vật": [
+                "siêu sôi nổi",
+                "nhiều",
+                "xuất sắc"
+            ],
+            "thị trấn": [],
+            "xe đạp": [
+                "rủi ro"
+            ],
+            "chuyến đi giải trí": [
+                "mới"
+            ],
+            "xe tay ga": [
+                "khó khăn",
+                "nguy hiểm",
+                "tốt"
+            ],
+            "chỗ ở": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "chỗ": [
+                "tốt"
+            ],
+            "đường mòn": [
+                "tuyệt vời"
+            ],
+            "văn hóa địa": [],
+            "chuyến du lịch đông bắc": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dãy nhà": 1.5,
+            "hướng dẫn viên": 3.0,
+            "đường đua": 1.5,
+            "chuyến đi": 6.0,
+            "đạp xe": 1.5,
+            "đất nước": 1.5,
+            "chuyến du lịch": 3.0,
+            "đồ ăn": 1.5,
+            "nhà ở": 1.5,
+            "chuyến tham quan": 4.5,
+            "ngọn núi": 1.5,
+            "dân tộc": 1.5,
+            "món ăn": 1.5,
+            "ngôi làng": 1.5,
+            "hành trình": 1.5,
+            "phong cảnh": 1.5,
+            "chuyến phiêu lưu": 3.0,
+            "cuộc phiêu lưu": 1.5,
+            "hướng dẫn viên du lịch": 3.0,
+            "hàng dặm": 1.5,
+            "viên": 1.5,
+            "ngọc ẩn": 1.5,
+            "nhân vật": 1.5,
+            "thị trấn": 1.5,
+            "xe đạp": 3.0,
+            "chuyến đi giải trí": 1.5,
+            "xe tay ga": 1.5,
+            "chỗ ở": 1.5,
+            "trải nghiệm": 1.5,
+            "chỗ": 1.5,
+            "đường mòn": 1.5,
+            "văn hóa địa": 1.5,
+            "chuyến du lịch đông bắc": 1.5
+        }
     },
     {
         "attraction_name": "ADV Motorcycle Tours & Dirtbike Travel",
@@ -166,6 +352,257 @@
             "https://www.tripadvisor.com/Attraction_Review-g60999-d532065-Reviews-Artist_Point-Yellowstone_National_Park_Wyoming.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d4025487-Reviews-or20-ADV_Motorcycle_Tours_Dirtbike_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d4025487-Reviews-or10-ADV_Motorcycle_Tours_Dirtbike_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d4025487-Reviews-or10-ADV_Motorcycle_Tours_Dirtbike_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trái đất": 0.010542417207034305,
+            "chuyến du lịch": 0.8043923129793257,
+            "chuyến đi": 0.80654544726041,
+            "đường mòn": 0.9619813417084515,
+            "chăm": 0.5,
+            "sóc xe chăm sóc": 0.5,
+            "lốp gai": 0.5134607087820768,
+            "uống rượu": 0.9939983538351953,
+            "đầu bếp": 0.9846056413371116,
+            "chỗ": 0.8737692451104522,
+            "vị trí": 0.99539563304279,
+            "dịch vụ lưu trữ": 0.8737692451104522,
+            "đồ ăn thì": 0.8737692451104522,
+            "xe đạp": 0.5187699226801106,
+            "chuyến đi tây bắc": 0.5,
+            "tay đua": 0.6113535020500421,
+            "trải nghiệm": 0.9683229069535931,
+            "phong cảnh": 0.9955315622501075,
+            "hướng dẫn viên": 0.8621290204623206,
+            "thức ăn": 0.8737692451104522,
+            "khách sạn": 0.9807459560455755,
+            "chuyến tham quan": 0.7931829229113646,
+            "đường cao": 0.5378695428371429,
+            "ngũ siêu": 0.5,
+            "chuyến phiêu lưu": 0.5,
+            "xe máy": 0.5,
+            "chuyến lưu diễn": 0.8967561284080148,
+            "tour du lịch": 0.994277493620757,
+            "ngọn núi": 0.542670039460063,
+            "bảo hiểm": 0.5,
+            "găng tay giày": 0.5,
+            "túi lạc": 0.6146670430898666,
+            "đồ ăn": 0.9229239684063941,
+            "cấp độ chuyên gia": 0.9799445453099906,
+            "cấp độ trung": 0.5,
+            "nông dân địa phương trẻ em ẩm thực": 0.5142881888896227,
+            "đất nước": 0.9954244214459322,
+            "tour xe đạp": 0.9900603207061067,
+            "nhà trọ": 0.8737692451104522,
+            "chủ nhà": 0.9336972537275869,
+            "lịch sử địa phương": 0.9866231603082269,
+            "khiển xe": 0.9463074007071555,
+            "tay nghề": 0.9925991844502278
+        },
+        "dicts_adj": {
+            "trái đất": [
+                "tuyệt vời",
+                "hơn"
+            ],
+            "chuyến du lịch": [
+                "cùng",
+                "khác"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "vất vả",
+                "tuyệt vời",
+                "tuyệt vời",
+                "nóng lòng",
+                "tốt",
+                "tốt",
+                "tốt",
+                "tốt",
+                "tốt",
+                "đầy",
+                "giống",
+                "đẹp",
+                "vắng vẻ"
+            ],
+            "đường mòn": [
+                "tốt"
+            ],
+            "chăm": [],
+            "sóc xe chăm sóc": [],
+            "lốp gai": [],
+            "uống rượu": [
+                "xuất sắc",
+                "đúng"
+            ],
+            "đầu bếp": [
+                "giỏi"
+            ],
+            "chỗ": [
+                "tuyệt vời",
+                "đặc biệt"
+            ],
+            "vị trí": [
+                "tuyệt vời"
+            ],
+            "dịch vụ lưu trữ": [
+                "tuyệt vời"
+            ],
+            "đồ ăn thì": [
+                "tuyệt vời"
+            ],
+            "xe đạp": [
+                "toàn",
+                "tốt",
+                "tốt",
+                "tốt",
+                "riêng",
+                "trẻ",
+                "riêng",
+                "trẻ",
+                "hơn",
+                "hơn"
+            ],
+            "chuyến đi tây bắc": [],
+            "tay đua": [
+                "khó",
+                "hơn",
+                "cùng"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tốt",
+                "tốt",
+                "tốt",
+                "đầy"
+            ],
+            "phong cảnh": [
+                "đẹp",
+                "khó"
+            ],
+            "hướng dẫn viên": [
+                "xuất sắc",
+                "tốt",
+                "tốt",
+                "tốt",
+                "đầy",
+                "tuyệt vời",
+                "tuyệt vời",
+                "giỏi",
+                "tuyệt vời"
+            ],
+            "thức ăn": [
+                "tuyệt"
+            ],
+            "khách sạn": [
+                "tốt",
+                "tuyệt đồ ăn"
+            ],
+            "chuyến tham quan": [
+                "chân thành",
+                "tuyệt vời",
+                "tuyệt vời",
+                "nhiều",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tốt",
+                "sẵn"
+            ],
+            "đường cao": [
+                "quan trọng"
+            ],
+            "ngũ siêu": [],
+            "chuyến phiêu lưu": [],
+            "xe máy": [],
+            "chuyến lưu diễn": [],
+            "tour du lịch": [
+                "dễ dàng"
+            ],
+            "ngọn núi": [],
+            "bảo hiểm": [],
+            "găng tay giày": [],
+            "túi lạc": [
+                "đầy"
+            ],
+            "đồ ăn": [
+                "tuyệt vời",
+                "hơn",
+                "nổi bật"
+            ],
+            "cấp độ chuyên gia": [
+                "giống"
+            ],
+            "cấp độ trung": [],
+            "nông dân địa phương trẻ em ẩm thực": [],
+            "đất nước": [
+                "xinh đẹp",
+                "giỏi"
+            ],
+            "tour xe đạp": [
+                "tốt",
+                "nhất"
+            ],
+            "nhà trọ": [
+                "tuyệt vời"
+            ],
+            "chủ nhà": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "lịch sử địa phương": [],
+            "khiển xe": [
+                "bất kỳ",
+                "tốt"
+            ],
+            "tay nghề": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trái đất": 1.5,
+            "chuyến du lịch": 2.5,
+            "chuyến đi": 6.5,
+            "đường mòn": 1.5,
+            "chăm": 1.5,
+            "sóc xe chăm sóc": 1.5,
+            "lốp gai": 1.5,
+            "uống rượu": 1.5,
+            "đầu bếp": 1.5,
+            "chỗ": 1.5,
+            "vị trí": 1.5,
+            "dịch vụ lưu trữ": 1.5,
+            "đồ ăn thì": 1.5,
+            "xe đạp": 7.0,
+            "chuyến đi tây bắc": 1.5,
+            "tay đua": 2.5,
+            "trải nghiệm": 4.5,
+            "phong cảnh": 1.5,
+            "hướng dẫn viên": 5.5,
+            "thức ăn": 1.5,
+            "khách sạn": 2.5,
+            "chuyến tham quan": 5,
+            "đường cao": 1,
+            "ngũ siêu": 1,
+            "chuyến phiêu lưu": 1,
+            "xe máy": 1,
+            "chuyến lưu diễn": 1,
+            "tour du lịch": 1,
+            "ngọn núi": 1,
+            "bảo hiểm": 1,
+            "găng tay giày": 1,
+            "túi lạc": 1,
+            "đồ ăn": 2,
+            "cấp độ chuyên gia": 1,
+            "cấp độ trung": 1,
+            "nông dân địa phương trẻ em ẩm thực": 1,
+            "đất nước": 1,
+            "tour xe đạp": 1,
+            "nhà trọ": 1,
+            "chủ nhà": 1,
+            "lịch sử địa phương": 1,
+            "khiển xe": 1,
+            "tay nghề": 1
+        }
     }
 ]

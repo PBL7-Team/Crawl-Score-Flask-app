@@ -73,7 +73,209 @@
             "https://www.tripadvisor.com/Attraction_Review-g293956-d7084045-Reviews-The_State_Department_Store-Ulaanbaatar.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or10-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.9339213522034697,
+            "nhân viên": 0.38877079409430737,
+            "chuyến du ngoạn": 0.9823635985667352,
+            "du thuyền viet": 0.8737692451104522,
+            "hành trình": 0.8632975726650329,
+            "tàu": 0.9951010857475922,
+            "phi hành đoàn": 0.9948322847485542,
+            "chuyến bay": 0.9950738950283267,
+            "du thuyền": 0.9512628089287318,
+            "thủy thủ đoàn": 0.9946930735604838,
+            "chuyến đi": 0.9180545127989413,
+            "thuyền": 0.0997062548995018,
+            "tam": -0.6223869640380144,
+            "món ăn": 0.5196884288452566,
+            "chuyến hành trình": 0.16415989809320308,
+            "sông mê": 0.8737692451104522,
+            "dịch vụ": 0.9872016276058275,
+            "đầu bếp": 0.5,
+            "công chúa mê kông": 0.8737692451104522,
+            "kỳ nghỉ": 0.5,
+            "thức ăn rượu vang": 0.5,
+            "chuyến tàu": 0.9955417740857229,
+            "cá nhân": 0.9955300396541134,
+            "chỗ ở": 0.8737692451104522,
+            "hướng dẫn viên": 0.6291651744395494,
+            "cuộc phiêu lưu": 0.5,
+            "ngôi chùa": 0.5,
+            "nhà thờ": 0.5,
+            "trường học": 0.5,
+            "làng mạc": 0.5,
+            "xe tuk tuk san": 0.5,
+            "xe đạp": 0.5,
+            "xe buýt": 0.5,
+            "chuyến đi khó tin": 0.9756959793157876,
+            "such an": 0.9955001219059341,
+            "đồng bằng sông cửu long": 0.8737692451104522,
+            "thức ăn": 0.8701367788016796,
+            "princess": 0.9951321182888933
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "hoàn toàn",
+                "tuyệt vời",
+                "đẹp",
+                "thú vị"
+            ],
+            "nhân viên": [
+                "hữu ích",
+                "tuyệt vời",
+                "hài lòng",
+                "thực sự",
+                "rắc rối"
+            ],
+            "chuyến du ngoạn": [
+                "thực sự",
+                "vui",
+                "độc đáo"
+            ],
+            "du thuyền viet": [
+                "hoàn toàn",
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "hành trình": [
+                "cùng",
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "tàu": [
+                "vui",
+                "vinh dự"
+            ],
+            "phi hành đoàn": [
+                "vui"
+            ],
+            "chuyến bay": [
+                "khoảng",
+                "vui vẻ",
+                "an toàn",
+                "an toàn",
+                "vui vẻ",
+                "an toàn",
+                "tuyệt vời",
+                "an toàn"
+            ],
+            "du thuyền": [
+                "nổi bật"
+            ],
+            "thủy thủ đoàn": [
+                "nổi bật"
+            ],
+            "chuyến đi": [
+                "nổi bật",
+                "thực sự",
+                "dọc"
+            ],
+            "thuyền": [
+                "đúng"
+            ],
+            "tam": [
+                "đúng"
+            ],
+            "món ăn": [],
+            "chuyến hành trình": [
+                "ngược",
+                "vinh dự",
+                "đặc biệt",
+                "ngược"
+            ],
+            "sông mê": [
+                "vui",
+                "vinh dự"
+            ],
+            "dịch vụ": [
+                "vui",
+                "xuất sắc"
+            ],
+            "đầu bếp": [],
+            "công chúa mê kông": [
+                "tuyệt vời"
+            ],
+            "kỳ nghỉ": [],
+            "thức ăn rượu vang": [],
+            "chuyến tàu": [
+                "nhiều",
+                "trọn vẹn"
+            ],
+            "cá nhân": [
+                "tuyệt vời"
+            ],
+            "chỗ ở": [
+                "xuất sắc"
+            ],
+            "hướng dẫn viên": [
+                "nhiều"
+            ],
+            "cuộc phiêu lưu": [],
+            "ngôi chùa": [],
+            "nhà thờ": [],
+            "trường học": [],
+            "làng mạc": [],
+            "xe tuk tuk san": [],
+            "xe đạp": [],
+            "xe buýt": [],
+            "chuyến đi khó tin": [
+                "tích cực",
+                "hơn"
+            ],
+            "such an": [],
+            "đồng bằng sông cửu long": [
+                "dọc"
+            ],
+            "thức ăn": [
+                "rắc rối"
+            ],
+            "princess": [
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 3.0,
+            "nhân viên": 7.5,
+            "chuyến du ngoạn": 3.0,
+            "du thuyền viet": 1.5,
+            "hành trình": 6.0,
+            "tàu": 1.5,
+            "phi hành đoàn": 1.5,
+            "chuyến bay": 6.0,
+            "du thuyền": 1.5,
+            "thủy thủ đoàn": 1.5,
+            "chuyến đi": 4.5,
+            "thuyền": 1.5,
+            "tam": 1.5,
+            "món ăn": 3.0,
+            "chuyến hành trình": 3.0,
+            "sông mê": 1.5,
+            "dịch vụ": 3.0,
+            "đầu bếp": 1.5,
+            "công chúa mê kông": 1.5,
+            "kỳ nghỉ": 1.5,
+            "thức ăn rượu vang": 1.5,
+            "chuyến tàu": 1.5,
+            "cá nhân": 1.5,
+            "chỗ ở": 1.5,
+            "hướng dẫn viên": 1.5,
+            "cuộc phiêu lưu": 1.5,
+            "ngôi chùa": 1.5,
+            "nhà thờ": 1.5,
+            "trường học": 1.5,
+            "làng mạc": 1.5,
+            "xe tuk tuk san": 1.5,
+            "xe đạp": 1.5,
+            "xe buýt": 1.5,
+            "chuyến đi khó tin": 1.5,
+            "such an": 1.5,
+            "đồng bằng sông cửu long": 1.5,
+            "thức ăn": 1.5,
+            "princess": 1.5
+        }
     },
     {
         "attraction_name": "VIETPRINCESS CRUISE LINE",
@@ -152,7 +354,183 @@
             "https://www.tripadvisor.com/Attraction_Review-g3695532-d2587557-Reviews-Flisvos_Marina-Paleo_Faliro_Attica.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or20-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or10-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or10-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thành phố hồ": 0.8737692451104522,
+            "nhân viên": 0.9956050160108134,
+            "đồ ăn": 0.9955971196177416,
+            "hướng dẫn viên": 0.7462641393067315,
+            "chuyến tàu": 0.9954569950932637,
+            "tàu mekong": 0.9343024076079018,
+            "hành trình": 0.7477780977205839,
+            "sông mê kông": 0.8737692451104522,
+            "con tàu": 0.7730711106560193,
+            "ngôi làng": 0.4993762908561621,
+            "phi hành đoàn": 0.5,
+            "bữa ăn": 0.8303725776883463,
+            "nhân viên khách sạn": 0.5,
+            "chuyến đi": 0.9877544507617131,
+            "thủy thủ": 0.3304763101041317,
+            "trải nghiệm": 0.9949682926720319,
+            "cabin": 0.9954825916211121,
+            "phòng chờ": 0.9954094802572703,
+            "chuyến du ngoạn": 0.5,
+            "chuyến hành trình": -0.9593139989301562,
+            "địa điểm": 0.995430251408834,
+            "công chúa mê kông": 0.9954076793510467,
+            "hành đoàn": 0.9939429387450218,
+            "dịch vụ": 0.7592639848589897,
+            "chuyến tham quan": 0.9936229131417349,
+            "làng nông thôn": 0.4875912293791771,
+            "sông mê": 0.8737692451104522,
+            "hướng dẫn viên du lịch": 0.9598307758569717,
+            "dãy phòng": 0.9949450035346672,
+            "công chúa mekong": 0.9910762697691098,
+            "đặc ân": 0.9952431952115148
+        },
+        "dicts_adj": {
+            "thành phố hồ": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "tuyệt vời",
+                "vui vẻ",
+                "niềm nở"
+            ],
+            "đồ ăn": [
+                "tuyệt"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "suốt"
+            ],
+            "chuyến tàu": [
+                "đầy",
+                "tuyệt vời"
+            ],
+            "tàu mekong": [
+                "cao",
+                "vui",
+                "hài lòng"
+            ],
+            "hành trình": [
+                "nhiều",
+                "tử tế"
+            ],
+            "sông mê kông": [
+                "đủ",
+                "cao",
+                "hoàn toàn"
+            ],
+            "con tàu": [
+                "xa xôi",
+                "nồng nhiệt"
+            ],
+            "ngôi làng": [
+                "xa xôi",
+                "nồng nhiệt"
+            ],
+            "phi hành đoàn": [],
+            "bữa ăn": [
+                "tuyệt vời",
+                "ngon"
+            ],
+            "nhân viên khách sạn": [],
+            "chuyến đi": [
+                "tuyệt vời",
+                "bất kỳ"
+            ],
+            "thủy thủ": [
+                "đủ"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "vui",
+                "hài lòng"
+            ],
+            "cabin": [
+                "đẹp",
+                "thoải mái",
+                "nhiều"
+            ],
+            "phòng chờ": [
+                "đẹp",
+                "thoải mái",
+                "nhiều"
+            ],
+            "chuyến du ngoạn": [],
+            "chuyến hành trình": [
+                "khác"
+            ],
+            "địa điểm": [
+                "độc đáo"
+            ],
+            "công chúa mê kông": [
+                "sang trọng"
+            ],
+            "hành đoàn": [
+                "đặc biệt"
+            ],
+            "dịch vụ": [
+                "đặc biệt"
+            ],
+            "chuyến tham quan": [
+                "nhiều"
+            ],
+            "làng nông thôn": [
+                "dọc"
+            ],
+            "sông mê": [
+                "nhiều"
+            ],
+            "hướng dẫn viên du lịch": [
+                "kỹ lưỡng"
+            ],
+            "dãy phòng": [
+                "tốt",
+                "thoải mái"
+            ],
+            "công chúa mekong": [],
+            "đặc ân": [
+                "chắc chắn",
+                "vui"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thành phố hồ": 1.5,
+            "nhân viên": 3.0,
+            "đồ ăn": 1.5,
+            "hướng dẫn viên": 3.0,
+            "chuyến tàu": 1.5,
+            "tàu mekong": 3.0,
+            "hành trình": 3.0,
+            "sông mê kông": 1.5,
+            "con tàu": 1.5,
+            "ngôi làng": 1.5,
+            "phi hành đoàn": 1.5,
+            "bữa ăn": 4.5,
+            "nhân viên khách sạn": 1.5,
+            "chuyến đi": 4.5,
+            "thủy thủ": 1.5,
+            "trải nghiệm": 4.5,
+            "cabin": 1.5,
+            "phòng chờ": 1.5,
+            "chuyến du ngoạn": 1.5,
+            "chuyến hành trình": 1.5,
+            "địa điểm": 1.5,
+            "công chúa mê kông": 1.5,
+            "hành đoàn": 1.5,
+            "dịch vụ": 1.5,
+            "chuyến tham quan": 1.5,
+            "làng nông thôn": 1.5,
+            "sông mê": 1.5,
+            "hướng dẫn viên du lịch": 1.5,
+            "dãy phòng": 1.5,
+            "công chúa mekong": 1.5,
+            "đặc ân": 1.5
+        }
     },
     {
         "attraction_name": "VIETPRINCESS CRUISE LINE",
@@ -232,7 +610,197 @@
             "https://www.tripadvisor.com/Attraction_Review-g60763-d548580-Reviews-The_Cock-New_York_City_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or30-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or20-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or20-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.38404055178398266,
+            "hành trình": 0.7452513984171674,
+            "trải nghiệm": 0.9925245931760097,
+            "món ăn": 0.9954839607817121,
+            "chuyến tham quan": 0.9289210018274995,
+            "chuyến đi": 0.9839775153377559,
+            "tàu mekong": 0.9231817037798464,
+            "ngôi đền angkor": 0.8737692451104522,
+            "chuyến bay": 0.995086483618555,
+            "ngũ": 0.5,
+            "công chúa mekong": 0.5,
+            "thức ăn": 0.934126723499503,
+            "sông mê kông": 0.8737692451104522,
+            "dịch vụ": 0.7867144823151951,
+            "đồ ăn": 0.9954479543957859,
+            "chuyến du ngoạn": 0.995386382099241,
+            "con tàu du lịch": 0.044090354815125465,
+            "nhà hàng": -0.19850061857141554,
+            "quầy bar": -0.24887202982790768,
+            "dãy phòng": 0.7976211741333827,
+            "chỗ chứa": 0.5,
+            "hướng dẫn viên": 0.9743527695536613,
+            "dịch vụ mẫu": 0.9914181616622955,
+            "ngũ ẩm ​​thực": 0.5966570116579533,
+            "đầu bếp": 0.9950749834533781,
+            "phong cách": 0.5,
+            "du thuyền": 0.5,
+            "bữa ăn": 0.987746997969225,
+            "phòng ăn": 0.8737692451104522,
+            "phòng chờ": 0.9953582093585283,
+            "liệu pháp": 0.9953705148072913,
+            "công chúa mê kông": 0.9934999945107847,
+            "siem reap": 0.9953414703486487
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "hoàn toàn",
+                "tuyệt vời",
+                "đủ",
+                "đủ",
+                "chu đáo",
+                "hơn",
+                "lịch sự",
+                "rực rỡ"
+            ],
+            "hành trình": [
+                "tuyệt vời",
+                "cùng",
+                "dọc"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "chân thực",
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "món ăn": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "thú vị",
+                "nhiều",
+                "đầy",
+                "ngắn",
+                "đa dạng"
+            ],
+            "chuyến đi": [
+                "cùng",
+                "vui mừng",
+                "vui"
+            ],
+            "tàu mekong": [
+                "cao",
+                "ngược"
+            ],
+            "ngôi đền angkor": [
+                "tuyệt vời"
+            ],
+            "chuyến bay": [
+                "an toàn",
+                "tuyệt vời",
+                "an toàn",
+                "tuyệt vời",
+                "an toàn"
+            ],
+            "ngũ": [],
+            "công chúa mekong": [],
+            "thức ăn": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "hài lòng"
+            ],
+            "sông mê kông": [
+                "nhiều",
+                "cao"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tối đa"
+            ],
+            "đồ ăn": [],
+            "chuyến du ngoạn": [],
+            "con tàu du lịch": [
+                "hơn",
+                "lớn",
+                "nhỏ"
+            ],
+            "nhà hàng": [
+                "chu đáo",
+                "hơn"
+            ],
+            "quầy bar": [
+                "chu đáo",
+                "hơn"
+            ],
+            "dãy phòng": [
+                "rộng rãi",
+                "nhiều"
+            ],
+            "chỗ chứa": [],
+            "hướng dẫn viên": [
+                "tốt"
+            ],
+            "dịch vụ mẫu": [
+                "mẫu mực"
+            ],
+            "ngũ ẩm ​​thực": [
+                "nhiều"
+            ],
+            "đầu bếp": [
+                "nhiều"
+            ],
+            "phong cách": [],
+            "du thuyền": [],
+            "bữa ăn": [
+                "ngon"
+            ],
+            "phòng ăn": [
+                "rực rỡ"
+            ],
+            "phòng chờ": [
+                "rực rỡ"
+            ],
+            "liệu pháp": [
+                "tuyệt vời"
+            ],
+            "công chúa mê kông": [],
+            "siem reap": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 6.0,
+            "hành trình": 4.5,
+            "trải nghiệm": 4.5,
+            "món ăn": 3.0,
+            "chuyến tham quan": 4.5,
+            "chuyến đi": 3.0,
+            "tàu mekong": 3.0,
+            "ngôi đền angkor": 1.5,
+            "chuyến bay": 4.5,
+            "ngũ": 1.5,
+            "công chúa mekong": 1.5,
+            "thức ăn": 3.0,
+            "sông mê kông": 1.5,
+            "dịch vụ": 4.5,
+            "đồ ăn": 1.5,
+            "chuyến du ngoạn": 1.5,
+            "con tàu du lịch": 1.5,
+            "nhà hàng": 1.5,
+            "quầy bar": 1.5,
+            "dãy phòng": 1.5,
+            "chỗ chứa": 1.5,
+            "hướng dẫn viên": 1.5,
+            "dịch vụ mẫu": 1.5,
+            "ngũ ẩm ​​thực": 1.5,
+            "đầu bếp": 1.5,
+            "phong cách": 1.5,
+            "du thuyền": 1.5,
+            "bữa ăn": 1.5,
+            "phòng ăn": 1.5,
+            "phòng chờ": 1.5,
+            "liệu pháp": 1.5,
+            "công chúa mê kông": 1.5,
+            "siem reap": 1.5
+        }
     },
     {
         "attraction_name": "VIETPRINCESS CRUISE LINE",
@@ -312,7 +880,167 @@
             "https://www.tripadvisor.com/Attraction_Review-g1777483-d6983533-Reviews-Kanawa_Island-Labuan_Bajo_Flores_East_Nusa_Tenggara.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or40-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or30-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or30-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thuyền": 0.9951295835198835,
+            "nhân viên": 0.9952120719535742,
+            "thức ăn": 0.9955578630324453,
+            "hành trình": 0.981999940588139,
+            "tàu": 0.5,
+            "đặc ân": 0.9955638848477975,
+            "chuyến hành trình": 0.9941653086959074,
+            "trải nghiệm": 0.8302160281067094,
+            "chuyến đi": 0.7486204084474594,
+            "phi hành đoàn": 0.9400589010600622,
+            "thuộc địa": 0.995360484579578,
+            "kỳ nghỉ": 0.9949677696373934,
+            "chuyến bay": 0.9938831562758423,
+            "chiếc thuyền": 0.9923103310866281,
+            "người dân dọc sông mê kông": 0.7994922045618296,
+            "phòng khánh": 0.9385114489123225,
+            "thủy thủ đoàn": 0.9868030787911266,
+            "hướng dẫn viên": 0.23836554742107788,
+            "công chúa mê kông": 0.5,
+            "đất liền": 0.9764730641618371,
+            "mặt": 0.9196487797889858,
+            "chuyến thăm bờ": 0.9952679395209998,
+            "phong tục": 0.9916589824715629,
+            "văn hóa": 0.6095649302005768,
+            "trái tim": 0.9922220739535987,
+            "trái đất": 0.8649571258574724
+        },
+        "dicts_adj": {
+            "thuyền": [
+                "đẹp"
+            ],
+            "nhân viên": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "thoải mái"
+            ],
+            "thức ăn": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "hành trình": [
+                "cùng"
+            ],
+            "tàu": [],
+            "đặc ân": [
+                "vinh dự"
+            ],
+            "chuyến hành trình": [
+                "an toàn",
+                "khó",
+                "vui",
+                "cùng",
+                "cùng"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tốt",
+                "vinh dự"
+            ],
+            "phi hành đoàn": [
+                "tuyệt vời",
+                "đẹp",
+                "chu đáo",
+                "tuyệt vời",
+                "nhiều",
+                "tương đối",
+                "nhỏ",
+                "trọn vẹn"
+            ],
+            "thuộc địa": [
+                "vui"
+            ],
+            "kỳ nghỉ": [
+                "tuyệt vời",
+                "nhiều",
+                "thoải mái"
+            ],
+            "chuyến bay": [
+                "an toàn"
+            ],
+            "chiếc thuyền": [
+                "thực sự",
+                "nhỏ"
+            ],
+            "người dân dọc sông mê kông": [
+                "rõ",
+                "hơn"
+            ],
+            "phòng khánh": [],
+            "thủy thủ đoàn": [
+                "cùng"
+            ],
+            "hướng dẫn viên": [
+                "cùng",
+                "xuất sắc",
+                "quan trọng"
+            ],
+            "công chúa mê kông": [],
+            "đất liền": [
+                "xuất sắc"
+            ],
+            "mặt": [
+                "hoàn toàn"
+            ],
+            "chuyến thăm bờ": [
+                "tuyệt vời"
+            ],
+            "phong tục": [
+                "tương phản"
+            ],
+            "văn hóa": [
+                "tương phản"
+            ],
+            "trái tim": [
+                "đủ",
+                "tử tế",
+                "thẳng",
+                "tốt",
+                "hơn"
+            ],
+            "trái đất": [
+                "sớm"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thuyền": 1.5,
+            "nhân viên": 3.0,
+            "thức ăn": 3.0,
+            "hành trình": 3.0,
+            "tàu": 3.0,
+            "đặc ân": 1.5,
+            "chuyến hành trình": 4.5,
+            "trải nghiệm": 4.5,
+            "chuyến đi": 7.5,
+            "phi hành đoàn": 4.5,
+            "thuộc địa": 1.5,
+            "kỳ nghỉ": 4.5,
+            "chuyến bay": 1.5,
+            "chiếc thuyền": 1.5,
+            "người dân dọc sông mê kông": 1.5,
+            "phòng khánh": 1.5,
+            "thủy thủ đoàn": 1.5,
+            "hướng dẫn viên": 4.5,
+            "công chúa mê kông": 1.5,
+            "đất liền": 1.5,
+            "mặt": 1.5,
+            "chuyến thăm bờ": 1.5,
+            "phong tục": 1.5,
+            "văn hóa": 1.5,
+            "trái tim": 1.5,
+            "trái đất": 1.5
+        }
     },
     {
         "attraction_name": "VIETPRINCESS CRUISE LINE",
@@ -390,7 +1118,190 @@
             "https://www.tripadvisor.com/Attraction_Review-g187323-d2421570-Reviews-Dong_Xuan_Center-Berlin.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or50-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or40-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or40-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9470659773796797,
+            "phi hành đoàn": 0.8299448765077008,
+            "chuyến đi": 0.9072627403220395,
+            "kỳ nghỉ": 0.9920980400056578,
+            "chuyến bay": 0.9946922080562217,
+            "du thuyền": 0.5,
+            "không gian": 0.9474595163483173,
+            "tàu": 0.9623454172979109,
+            "đồ ăn dịch vụ nhân viên": 0.9241741141304374,
+            "chuyến du ngoạn": 0.9833989746402949,
+            "sông mê": 0.8737692451104522,
+            "tàu mekong": 0.9955494603491388,
+            "đặc ân": 0.995501724362839,
+            "dịch vụ": 0.5,
+            "đồ ăn không gian nhân viên": 0.5,
+            "hướng dẫn viên": 0.8160891365259886,
+            "thành viên phi hành đoàn": 0.995300798676908,
+            "hành trình": 0.9869366207470497,
+            "đám đông": 0.9924851747928187,
+            "đội ngũ": 0.9954033454414457,
+            "ẩm thực": 0.5,
+            "bầu không khí": 0.5,
+            "công chúa": 0.8737692451104522,
+            "nhân viên": 0.5,
+            "thức ăn": 0.8737692451104522,
+            "bữa sáng tự chọn": 0.9821918518282473,
+            "bữa trưa": 0.8737692451104522,
+            "bữa": 0.5,
+            "nhà hàng": 0.5,
+            "nhân viên du thuyền": 0.9954880389850587,
+            "tàu princess": 0.8737692451104522,
+            "đồ ăn tour": 0.5
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "đủ",
+                "thú vị"
+            ],
+            "phi hành đoàn": [
+                "nhỏ",
+                "hoàn hảo",
+                "tuyệt vời",
+                "thực sự",
+                "tuyệt vời",
+                "vui"
+            ],
+            "chuyến đi": [
+                "nhiều",
+                "tốt đẹp",
+                "tuyệt vời",
+                "đặc biệt",
+                "an toàn",
+                "sớm"
+            ],
+            "kỳ nghỉ": [
+                "vui vẻ",
+                "tuyệt vời"
+            ],
+            "chuyến bay": [
+                "an toàn",
+                "vui vẻ",
+                "an toàn",
+                "tuyệt vời",
+                "tuyệt vời",
+                "an toàn",
+                "vui vẻ",
+                "an toàn"
+            ],
+            "du thuyền": [],
+            "không gian": [
+                "độc đáo",
+                "dọc"
+            ],
+            "tàu": [
+                "độc đáo",
+                "dọc"
+            ],
+            "đồ ăn dịch vụ nhân viên": [
+                "độc đáo",
+                "dọc"
+            ],
+            "chuyến du ngoạn": [
+                "độc đáo",
+                "dọc"
+            ],
+            "sông mê": [
+                "Xuất sắc"
+            ],
+            "tàu mekong": [
+                "nhiều",
+                "chân thành",
+                "cùng"
+            ],
+            "đặc ân": [],
+            "dịch vụ": [],
+            "đồ ăn không gian nhân viên": [],
+            "hướng dẫn viên": [
+                "vui"
+            ],
+            "thành viên phi hành đoàn": [
+                "sang trọng",
+                "khó",
+                "cùng"
+            ],
+            "hành trình": [
+                "thực sự",
+                "vui",
+                "vui",
+                "nhiều",
+                "cao",
+                "cùng"
+            ],
+            "đám đông": [
+                "dễ dàng"
+            ],
+            "đội ngũ": [
+                "tuyệt vời"
+            ],
+            "ẩm thực": [],
+            "bầu không khí": [],
+            "công chúa": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [],
+            "thức ăn": [
+                "tuyệt vời"
+            ],
+            "bữa sáng tự chọn": [
+                "nhiều"
+            ],
+            "bữa trưa": [
+                "nhiều"
+            ],
+            "bữa": [],
+            "nhà hàng": [],
+            "nhân viên du thuyền": [
+                "ăn ý"
+            ],
+            "tàu princess": [
+                "nhiều",
+                "chân thành"
+            ],
+            "đồ ăn tour": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 4.5,
+            "phi hành đoàn": 4.5,
+            "chuyến đi": 6.0,
+            "kỳ nghỉ": 1.5,
+            "chuyến bay": 6.0,
+            "du thuyền": 1.5,
+            "không gian": 1.5,
+            "tàu": 1.5,
+            "đồ ăn dịch vụ nhân viên": 1.5,
+            "chuyến du ngoạn": 1.5,
+            "sông mê": 1.5,
+            "tàu mekong": 1.5,
+            "đặc ân": 1.5,
+            "dịch vụ": 4.5,
+            "đồ ăn không gian nhân viên": 1.5,
+            "hướng dẫn viên": 3.0,
+            "thành viên phi hành đoàn": 1.5,
+            "hành trình": 4.5,
+            "đám đông": 1.5,
+            "đội ngũ": 1.5,
+            "ẩm thực": 1.5,
+            "bầu không khí": 1.5,
+            "công chúa": 1.5,
+            "nhân viên": 1.5,
+            "thức ăn": 1.5,
+            "bữa sáng tự chọn": 1.5,
+            "bữa trưa": 1.5,
+            "bữa": 1.5,
+            "nhà hàng": 1.5,
+            "nhân viên du thuyền": 1.5,
+            "tàu princess": 1.5,
+            "đồ ăn tour": 1.5
+        }
     },
     {
         "attraction_name": "VIETPRINCESS CRUISE LINE",
@@ -468,7 +1379,147 @@
             "https://www.tripadvisor.com/Attraction_Review-g190328-d7362107-Reviews-Embassy_Shopping_Complex-Valletta_Island_of_Malta.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or60-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or50-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or50-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến": 0.992184848873876,
+            "du thuyền đêm giao thừa": 0.3432404398918152,
+            "sông mê kông": 0.9950311038410291,
+            "chuyến bay": 0.9952242660219781,
+            "chuyến đi": 0.2389204282371793,
+            "dịch vụ": 0.9224611029960215,
+            "nhân viên": 0.9955008426331915,
+            "chuyến du ngoạn": 0.9950872249464737,
+            "chuyến thăm làng": 0.9852525296155363,
+            "viên ngọc": 0.9954106865334325,
+            "hành trình": 0.994802526627609,
+            "con tàu": 0.8737692451104522,
+            "hướng dẫn viên du lịch ẩm thực ngon": 0.9954175351886079,
+            "thủy thủ đoàn": 0.9858623299514875,
+            "công chúa": 0.9954500663443469,
+            "phi hành đoàn": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "lễ kỷ": 0.9935620311880484,
+            "đất nước": 0.9955548380385153,
+            "xe buýt": 0.8636605869978666,
+            "kỳ nghỉ - trang trí": 0.9955384380300529,
+            "tour du lịch": 0.9931892562890425,
+            "hướng dẫn viên": 0.9918415946303867,
+            "đồ uống": 0.9899515509605408,
+            "thiết bị tập thể dục": 0.5598845724016428
+        },
+        "dicts_adj": {
+            "chuyến": [
+                "cùng"
+            ],
+            "du thuyền đêm giao thừa": [
+                "cùng"
+            ],
+            "sông mê kông": [
+                "dọc"
+            ],
+            "chuyến bay": [
+                "tốt đẹp",
+                "nhất",
+                "an toàn"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "ngắn",
+                "hơn"
+            ],
+            "dịch vụ": [
+                "xuất sắc",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "hữu ích",
+                "tuyệt vời"
+            ],
+            "chuyến du ngoạn": [
+                "tốt",
+                "thú vị",
+                "đầy đủ",
+                "tuyệt vời"
+            ],
+            "chuyến thăm làng": [
+                "nổi bật"
+            ],
+            "viên ngọc": [
+                "tràn đầy"
+            ],
+            "hành trình": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "con tàu": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch ẩm thực ngon": [
+                "tốt"
+            ],
+            "thủy thủ đoàn": [
+                "tốt"
+            ],
+            "công chúa": [
+                "nhiều"
+            ],
+            "phi hành đoàn": [],
+            "hướng dẫn viên du lịch": [],
+            "lễ kỷ": [
+                "vui vẻ"
+            ],
+            "đất nước": [
+                "tuyệt vời"
+            ],
+            "xe buýt": [],
+            "kỳ nghỉ - trang trí": [
+                "đẹp"
+            ],
+            "tour du lịch": [
+                "đa dạng",
+                "thú vị"
+            ],
+            "hướng dẫn viên": [
+                "đủ",
+                "cao"
+            ],
+            "đồ uống": [
+                "thú vị"
+            ],
+            "thiết bị tập thể dục": [
+                "Cuối cùng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến": 1.5,
+            "du thuyền đêm giao thừa": 1.5,
+            "sông mê kông": 1.5,
+            "chuyến bay": 1.5,
+            "chuyến đi": 3.0,
+            "dịch vụ": 2.5,
+            "nhân viên": 3.0,
+            "chuyến du ngoạn": 4.0,
+            "chuyến thăm làng": 1.5,
+            "viên ngọc": 1.5,
+            "hành trình": 4.0,
+            "con tàu": 1.5,
+            "hướng dẫn viên du lịch ẩm thực ngon": 1.5,
+            "thủy thủ đoàn": 1.5,
+            "công chúa": 1.5,
+            "phi hành đoàn": 1.5,
+            "hướng dẫn viên du lịch": 1.5,
+            "lễ kỷ": 1.5,
+            "đất nước": 1.5,
+            "xe buýt": 1.5,
+            "kỳ nghỉ - trang trí": 1.5,
+            "tour du lịch": 1.5,
+            "hướng dẫn viên": 1.5,
+            "đồ uống": 1,
+            "thiết bị tập thể dục": 1
+        }
     },
     {
         "attraction_name": "VIETPRINCESS CRUISE LINE",
@@ -548,7 +1599,186 @@
             "https://www.tripadvisor.com/Attraction_Review-g187895-d1207225-Reviews-Piazza_Santo_Spirito-Florence_Tuscany.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or70-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or60-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or60-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.995393265155144,
+            "thức ăn rượu vang dịch vụ": 0.9952729173237458,
+            "nhân viên": 0.9954921741154976,
+            "công chúa": 0.8737692451104522,
+            "chuyến hành trình": -0.25194605195429176,
+            "cơ sở vật chất": 0.9953271387494169,
+            "bữa ăn": 0.9947114381939173,
+            "dịch vụ": 0.6651673575397581,
+            "hành trình": 0.7411215961037669,
+            "con tàu": 0.5083424737968016,
+            "phi hành đoàn": 0.7452214847435243,
+            "chuyến đi": 0.9937320125172846,
+            "đồ ăn": 0.993973279139027,
+            "nhà an": 0.9941427619196475,
+            "du thuyền": 0.5,
+            "chuyến du lịch đông": 0.5,
+            "thủy thủ đoàn": 0.9929013078799471,
+            "chuyến tham quan": 0.8617685170999417,
+            "đồng bằng sông cửu long": 0.8737692451104522,
+            "đám đông": 0.9869885940570384,
+            "dòng sông mê kông": 0.9955070488504134,
+            "chuyến du lịch": 0.9662515574600548,
+            "kỳ nghỉ": 0.5,
+            "dịch vụ người": 0.995358906686306,
+            "dòng sông": 0.7992097586393356,
+            "ngôi làng": 0.5065100705251098,
+            "bờ sông": 0.5,
+            "đồ sông": 0.8737692451104522,
+            "nhà in": 0.9872935214079916,
+            "sông mê": 0.8737692451104522,
+            "chuyến đi đồ ăn": 0.5,
+            "công chúa mekong": 0.8914079889655113
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời",
+                "hoàn toàn",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "thức ăn rượu vang dịch vụ": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "tuyệt vời",
+                "tự hào"
+            ],
+            "công chúa": [
+                "nhiều",
+                "cao",
+                "vui",
+                "sẵn sàng"
+            ],
+            "chuyến hành trình": [
+                "ngược",
+                "cùng",
+                "ngược"
+            ],
+            "cơ sở vật chất": [],
+            "bữa ăn": [
+                "tuyệt vời",
+                "nổi bật"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "hành trình": [
+                "cùng",
+                "cẩn thận",
+                "độc đáo",
+                "gần gũi",
+                "có thể"
+            ],
+            "con tàu": [
+                "nhỏ",
+                "sang trọng",
+                "lớn",
+                "hơn"
+            ],
+            "phi hành đoàn": [
+                "đông",
+                "hơn"
+            ],
+            "chuyến đi": [
+                "đẹp",
+                "tuyệt vời",
+                "vui",
+                "chắc chắn"
+            ],
+            "đồ ăn": [],
+            "nhà an": [
+                "an toàn",
+                "đẹp đẽ"
+            ],
+            "du thuyền": [],
+            "chuyến du lịch đông": [],
+            "thủy thủ đoàn": [
+                "đặc biệt"
+            ],
+            "chuyến tham quan": [
+                "kỹ lưỡng",
+                "thực sự",
+                "dọc"
+            ],
+            "đồng bằng sông cửu long": [
+                "tốt"
+            ],
+            "đám đông": [
+                "thực sự",
+                "tốt bụng"
+            ],
+            "dòng sông mê kông": [
+                "tuyệt vời",
+                "an toàn",
+                "đặc biệt"
+            ],
+            "chuyến du lịch": [
+                "nhiều"
+            ],
+            "kỳ nghỉ": [],
+            "dịch vụ người": [
+                "tươi cười",
+                "lớn"
+            ],
+            "dòng sông": [
+                "dọc"
+            ],
+            "ngôi làng": [
+                "dọc"
+            ],
+            "bờ sông": [],
+            "đồ sông": [
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "nhà in": [],
+            "sông mê": [
+                "hân hạnh"
+            ],
+            "chuyến đi đồ ăn": [],
+            "công chúa mekong": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 2,
+            "thức ăn rượu vang dịch vụ": 1,
+            "nhân viên": 1,
+            "công chúa": 1,
+            "chuyến hành trình": 2,
+            "cơ sở vật chất": 1,
+            "bữa ăn": 2,
+            "dịch vụ": 3,
+            "hành trình": 4,
+            "con tàu": 2,
+            "phi hành đoàn": 2,
+            "chuyến đi": 4,
+            "đồ ăn": 1,
+            "nhà an": 1,
+            "du thuyền": 2,
+            "chuyến du lịch đông": 1,
+            "thủy thủ đoàn": 1,
+            "chuyến tham quan": 1,
+            "đồng bằng sông cửu long": 1,
+            "đám đông": 1,
+            "dòng sông mê kông": 1,
+            "chuyến du lịch": 1,
+            "kỳ nghỉ": 1,
+            "dịch vụ người": 1,
+            "dòng sông": 1,
+            "ngôi làng": 2,
+            "bờ sông": 1,
+            "đồ sông": 1,
+            "nhà in": 1,
+            "sông mê": 1,
+            "chuyến đi đồ ăn": 1,
+            "công chúa mekong": 1
+        }
     },
     {
         "attraction_name": "VIETPRINCESS CRUISE LINE",
@@ -626,7 +1856,194 @@
             "https://www.tripadvisor.com/Attraction_Review-g42256-d21174315-Reviews-Relax_Massage_Asian_Spa_Open-Grand_Rapids_Kent_County_Michigan.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or80-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or70-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or70-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến du ngoạn": 0.5,
+            "chuyến du lịch": 0.5,
+            "phòng": 0.9955653677461669,
+            "trải nghiệm": 0.6650976478122175,
+            "chuyến đi": 0.888803043065127,
+            "nhân viên": 0.651647883726077,
+            "phi hành đoàn": 0.9515053147842991,
+            "dịch vụ": 0.6415535761043429,
+            "du thuyền": 0.9953648439841345,
+            "nước cam": 0.5,
+            "bữa sáng": 0.7474288972152863,
+            "công chúa": 0.8737692451104522,
+            "trung tâm thành phố": 0.5,
+            "tàu": 0.9873994933441281,
+            "tài sản": 0.9922303603379987,
+            "kỳ nghỉ": 0.8301329955478044,
+            "món ăn": 0.25130432564765215,
+            "ngũ": 0.5,
+            "đồ ăn": 0.9955165396095254,
+            "dịch vụ chu đáo": 0.5,
+            "tàu du lịch": 0.5,
+            "dịch vụ spa": 0.44714618287980556,
+            "mát-xa tuyệt vời": 0.9919119278201833,
+            "con tàu": 0.9923233463196084,
+            "hướng dẫn viên": 0.9922257529688068,
+            "câu chuyện": 0.9952641071868129,
+            "phòng chờ": 0.5,
+            "nhà hàng": 0.9952279677381739,
+            "bữa tối": 0.7138519007712603,
+            "quản gia": 0.9955526249832474,
+            "anh đào": 0.9945124296937138,
+            "công chúa mekong": 0.840806246366507,
+            "công chúa mê kông": 0.9346239285951015,
+            "hành trình": 0.6254151397151873
+        },
+        "dicts_adj": {
+            "chuyến du ngoạn": [],
+            "chuyến du lịch": [],
+            "phòng": [
+                "đẹp",
+                "thoải mái",
+                "rộng rãi",
+                "chung",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "cùng",
+                "quý giá",
+                "thoải mái",
+                "thú vị",
+                "đặc biệt",
+                "an toàn",
+                "an toàn",
+                "hơn"
+            ],
+            "nhân viên": [
+                "tuyệt vời",
+                "nổi bật",
+                "tuyệt vời"
+            ],
+            "phi hành đoàn": [
+                "tuyệt vời",
+                "thân thiện",
+                "nhất",
+                "chu đáo",
+                "nhất",
+                "khó khăn"
+            ],
+            "dịch vụ": [
+                "rộng"
+            ],
+            "du thuyền": [
+                "tốt",
+                "ngoạn mục"
+            ],
+            "nước cam": [],
+            "bữa sáng": [
+                "nổi bật"
+            ],
+            "công chúa": [
+                "kích thước",
+                "nhỏ bé"
+            ],
+            "trung tâm thành phố": [],
+            "tàu": [
+                "quý giá"
+            ],
+            "tài sản": [
+                "quý giá"
+            ],
+            "kỳ nghỉ": [
+                "thoải mái",
+                "thú vị",
+                "tuyệt vời"
+            ],
+            "món ăn": [
+                "nhất"
+            ],
+            "ngũ": [],
+            "đồ ăn": [
+                "tuyệt vời"
+            ],
+            "dịch vụ chu đáo": [],
+            "tàu du lịch": [],
+            "dịch vụ spa": [
+                "thấp"
+            ],
+            "mát-xa tuyệt vời": [
+                "thấp"
+            ],
+            "con tàu": [
+                "sang trọng"
+            ],
+            "hướng dẫn viên": [
+                "thú vị",
+                "tuyệt vời",
+                "vui"
+            ],
+            "câu chuyện": [
+                "thú vị"
+            ],
+            "phòng chờ": [],
+            "nhà hàng": [
+                "nổi bật"
+            ],
+            "bữa tối": [
+                "nổi bật"
+            ],
+            "quản gia": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "anh đào": [],
+            "công chúa mekong": [],
+            "công chúa mê kông": [
+                "tuyệt vời",
+                "xuất sắc"
+            ],
+            "hành trình": [
+                "chi tiết",
+                "thực sự",
+                "bất kỳ",
+                "dọc"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến du ngoạn": 2,
+            "chuyến du lịch": 1,
+            "phòng": 1,
+            "trải nghiệm": 3,
+            "chuyến đi": 5,
+            "nhân viên": 3,
+            "phi hành đoàn": 4,
+            "dịch vụ": 3,
+            "du thuyền": 1,
+            "nước cam": 1,
+            "bữa sáng": 2,
+            "công chúa": 1,
+            "trung tâm thành phố": 1,
+            "tàu": 1,
+            "tài sản": 1,
+            "kỳ nghỉ": 3,
+            "món ăn": 2,
+            "ngũ": 1,
+            "đồ ăn": 1,
+            "dịch vụ chu đáo": 1,
+            "tàu du lịch": 1,
+            "dịch vụ spa": 1,
+            "mát-xa tuyệt vời": 1,
+            "con tàu": 1,
+            "hướng dẫn viên": 2,
+            "câu chuyện": 1,
+            "phòng chờ": 1,
+            "nhà hàng": 1,
+            "bữa tối": 1,
+            "quản gia": 1,
+            "anh đào": 1,
+            "công chúa mekong": 3,
+            "công chúa mê kông": 2,
+            "hành trình": 2
+        }
     },
     {
         "attraction_name": "VIETPRINCESS CRUISE LINE",
@@ -664,6 +2081,11 @@
             "https://www.tripadvisor.com/Attraction_Review-g46696-d14784355-Reviews-Ocean_City_Welcome_Center-Ocean_City_Cape_May_County_New_Jersey.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or80-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d16872213-Reviews-or80-VIETPRINCESS_CRUISE_LINE-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     }
 ]
