@@ -10,13 +10,21 @@ from service_model import sentiment_analysis_all, fully_updated_sentiment_csv, e
 from dotenv import load_dotenv
 from functools import wraps
 from flask import Flask, request
+from flask_apscheduler import APScheduler
 
 app = Flask(__name__)
+scheduler = APScheduler()
+
 load_dotenv()
+
+
 
 # Lấy các giá trị của các biến môi trường
 API_KEY_1 = os.getenv("API_KEY_1")
 API_KEY_2 = os.getenv("API_KEY_2")
+
+
+
 
 crawl_thread = None
 crawl_thread_mode_2 = None
@@ -167,23 +175,6 @@ def recommend():
     }), 200
     
     
-@app.route('/update-db', methods = ['GET'])
-@require_api_key
-def update_db():
-    cursor = mysql.connection.cursor()
-    try:
-        cursor.execute("SELECT 1")
-        
-        mysql.connection.commit()
-        cursor.close()
-    except Exception as e:
-        print("Connection Error:", str(e))
-        cursor.close()
-        return "DB Connection Error", 500
-    return jsonify({
-        "ok": "Ok",
-    }),
-    
 @app.route('/search', methods = ['GET'])
 @require_api_key
 def search_attraction():
@@ -192,7 +183,9 @@ def search_attraction():
         "ok": msg,
     }), 200
     
-    
+@scheduler.task('interval', id='my_job', seconds=10)
+def my_job():
+    print('This job is executed every 10 seconds.')
 
 # bước 1: Crawl data bằng start-crawl
 # bước 2: Thực hiện sentiment caculate (để cập nhật score vào mỗi file json), sử dụng model entity extraction + sentiment analysis
@@ -202,4 +195,6 @@ def search_attraction():
 
 # bước 1.2: Crawl data bằng mode 2 (để cập nhật dữ liệu review từ địa điểm cũ)
 if __name__ == '__main__':
+    scheduler.init_app(app)
+    scheduler.start()
     app.run(host='localhost', port=8080)
