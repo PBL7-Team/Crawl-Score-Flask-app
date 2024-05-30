@@ -65,6 +65,8 @@ def get_features(sentence, tokens, tags):
     return features
   
 def annotate_text(text):
+    # # text = text.title()
+    # text = ' '.join(word.capitalize() for word in text.split())
     words = underthesea.word_tokenize(text)
     pos_tags = underthesea.pos_tag(text)
     ner_tags = underthesea.ner(text)
@@ -90,6 +92,8 @@ def annotate_text(text):
         results.append(result)
     
     return results
+
+# print(annotate_text("Tôi yêu Đà Nẵng, nhà hàng đồ ăn"))
 
 def classify_word(text):
   # result = next(iter(nlp_model.annotate_text(text).values()))
