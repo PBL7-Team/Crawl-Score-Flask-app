@@ -186,6 +186,12 @@ def search_attraction():
         "ok": msg,
     }), 200
     
+@app.route('/test-api', methods=['GET'])
+def test():
+    return jsonify({
+        "message": "API is working!",
+    }), 200
+    
 @scheduler.task('interval', id='my_job', seconds=10)
 def my_job():
     print('This job is executed every 10 seconds.')
