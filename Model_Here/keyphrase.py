@@ -14,13 +14,13 @@ from Model_Here.score_extract import get_sentence_score_and_info, combine_dicts
 def base_model_path():
   current_directory = os.path.dirname(os.path.abspath(__file__))  # Lấy thư mục chứa chương trình đang chạy
   model_directory = os.path.join(current_directory, "KeyPhraseModel")
-  model_path = os.path.join(model_directory, "bert-base-uncased")
+  model_path = os.path.join(model_directory, "bert-base-vietnamese-uncased")
   return model_path
 
 def bin_path(bin_name = 'trained_model_3.bin'):
   current_directory = os.path.dirname(os.path.abspath(__file__))  # Lấy thư mục chứa chương trình đang chạy
   model_directory = os.path.join(current_directory, "KeyPhraseModel")
-  model_path = os.path.join(model_directory, "BERT-BiLSTM-CRF")
+  model_path = os.path.join(model_directory, "bert-bilstm-crf-keyphrase")
   train_model_path = os.path.join(model_path, bin_name)
   return train_model_path
 
