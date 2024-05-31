@@ -10,8 +10,8 @@ from Crawler_Here.reading_info_restaurant import read_html_restaurant
 import time
 import random
 
-SERVICE_ACC  = 'TPVS_WEBAPI'
-SERVICE_PASS = 'Hoangkute_123'
+SERVICE_ACC  = 'ndst1_oDWXL'
+SERVICE_PASS = '9r9ym8bRuqCN3d'
 
 # Global flag for stopping the crawl
 stop_flag = threading.Event()
@@ -232,6 +232,7 @@ def crawl_all():
     while url and not stop_flag.is_set():
         try:
             url = get_random_url(file_path)
+            # url = r"https://www.tripadvisor.com/Attraction_Review-g298085-d6612108-Reviews-or60-Dragon_Bridge-Da_Nang.html"
             scrape_tourist_destination_data(url, file_path)
         except:
             if not stop_flag.is_set():
