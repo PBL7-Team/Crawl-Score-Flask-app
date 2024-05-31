@@ -1,4 +1,4 @@
-from Model_Here.auto_download_models import download_model
+import Model_Here.auto_download_models
 from flask import Flask, jsonify, request, send_file
 import threading
 from datetime import datetime
