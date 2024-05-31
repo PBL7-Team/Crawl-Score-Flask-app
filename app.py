@@ -3,6 +3,7 @@ from flask import Flask, jsonify, request, send_file
 import threading
 from datetime import datetime
 import os
+import time
 from recommend import recommend_system
 from search import query_attraction
 from service_crawl import get_all_json_data, update_csv_with_json_data, start_crawl, stop_crawl, get_json_statistics, start_crawl_mode_2
@@ -171,7 +172,7 @@ def get_synonyms_clusters():
 def recommend():
     msg = recommend_system(request.args.get('message'))
     return jsonify({
-        "ok": msg,
+        "message": msg,
     }), 200
     
     
@@ -186,6 +187,8 @@ def search_attraction():
 @scheduler.task('interval', id='my_job', seconds=10)
 def my_job():
     print('This job is executed every 10 seconds.')
+    time.sleep(8)
+    print("Hello")
 
 # bước 1: Crawl data bằng start-crawl
 # bước 2: Thực hiện sentiment caculate (để cập nhật score vào mỗi file json), sử dụng model entity extraction + sentiment analysis
