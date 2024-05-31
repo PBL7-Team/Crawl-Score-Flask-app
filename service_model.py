@@ -291,6 +291,9 @@ def get_synonyms_entities():
     current_directory = os.path.dirname(os.path.abspath(__file__))
     J_FOLDER = os.path.join(current_directory, 'Crawler_Here', 'Scrape_Data', 'attraction')
     json_file_paths = get_json_file_paths(J_FOLDER)
+    comment_json_path = os.path.join(current_directory, 'comment_store.json')
+
+    json_file_paths.insert(0,comment_json_path)
 
     entity_csv = os.path.join(current_directory, 'entity_translate.csv')
 
@@ -311,6 +314,9 @@ def get_synonyms_entities():
             if is_take == True:
                 writer.writerow([entity, en_entity])
                 print("Updated entity <" + entity + "> to the database.")
+    
+    with open(comment_json_path, 'w', encoding='utf-8') as file_comment:
+            json.dump([{}], file_comment, ensure_ascii=False, indent=4)
 
     # return the_entities_list, list_entities_english(the_entities_list)
 

@@ -2,6 +2,7 @@ import pandas as pd
 import json
 import re
 import unicodedata
+import os
 from Model_Here.keyphrase import TextEntities_Score
 from Model_Here.synonyms_prediction import re_cluster
 from Model_Here.score_extract import annotate_text
@@ -84,6 +85,8 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
         clusters_dict = json.load(f)
     
     keys_list = list(dicts_sentiment.keys())
+    storage_key_list = []
+
     # print(keys_list)
     # print(list_proper_noun_feature)
     comment_cluster_list = []
@@ -93,8 +96,11 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
         if in_cluster == None:
             comment_cluster_list.append(key)
             content_base_df[key] = 0
+            storage_key_list.append(key)
         else:
-            comment_cluster_list.append(in_cluster)  
+            comment_cluster_list.append(in_cluster)
+
+    update_json(storage_key_list)
 
     # print(comment_cluster_list)
     comment_cluster_list = comment_cluster_list + list_proper_noun_feature
@@ -126,5 +132,37 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
 
     return sorted_user_similarity_df
 
-# text = "giới thiệu cho tôi 1 chỗ nhà hàng đồ ăn tại Hoa Kỳ."
+def update_json(key_list, json_path='comment_storage.json'):
+    # Kiểm tra nếu tệp JSON đã tồn tại
+    if not os.path.exists(json_path):
+        # Nếu tệp chưa tồn tại, khởi tạo một list chứa một dict rỗng và lưu vào tệp JSON
+        with open(json_path, 'w', encoding='utf-8') as file:
+            json.dump([{}], file, ensure_ascii=False, indent=4)
+    
+    # Đọc nội dung từ tệp JSON
+    with open(json_path, 'r', encoding='utf-8') as file:
+        data = json.load(file)
+    
+    # Lấy dict đầu tiên trong list
+    first_dict = data[0]
+    
+    # Khởi tạo các trường nếu chưa tồn tại
+    if 'dicts_sentiment_average' not in first_dict:
+        first_dict['dicts_sentiment_average'] = {}
+    if 'factor_value' not in first_dict:
+        first_dict['factor value'] = {}
+    if 'dicts_adj' not in first_dict:
+        first_dict['dicts_adj'] = {}
+    
+    # Cập nhật các key trong key_list vào các trường tương ứng
+    for key in key_list:
+        first_dict['dicts_sentiment_average'][key] = 1
+        first_dict['factor value'][key] = 1
+        first_dict['dicts_adj'][key] = []
+    
+    # Lưu lại các thay đổi vào tệp JSON
+    with open(json_path, 'w', encoding='utf-8') as file:
+        json.dump(data, file, ensure_ascii=False, indent=4)
+
+# text = "giới thiệu cho tôi 1 chỗ nhà hàng đồ ăn và 1 kỳ quan thế giới, bảo tàng tại Hoa Kỳ."
 # print(recommend_system(text))
