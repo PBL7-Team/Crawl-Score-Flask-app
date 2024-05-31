@@ -3,6 +3,7 @@ import json
 import re
 import unicodedata
 import os
+from rapidfuzz import fuzz
 from Model_Here.keyphrase import TextEntities_Score
 from Model_Here.synonyms_prediction import re_cluster
 from Model_Here.score_extract import annotate_text
@@ -64,17 +65,30 @@ def recommend_system(text):
     
     return conduct_content_base(dicts_sentiment, list_proper_noun_feature)
 
+# def find_cluster(cluster_dict, entity):
+#     entity = re.sub(r'[^a-zA-Z0-9\s]', '', entity).strip().lower()
+#     entity = unicodedata.normalize('NFC', ''.join(c for c in unicodedata.normalize('NFD', entity) if unicodedata.category(c) != 'Mn'))
+#     for key, values in cluster_dict.items():
+#         for value in values:
+#           value = re.sub(r'[^a-zA-Z0-9\s]', '', value).strip().lower()
+#           value = unicodedata.normalize('NFC', ''.join(c for c in unicodedata.normalize('NFD', value) if unicodedata.category(c) != 'Mn'))
+#           if entity == value:
+#             return key
+
+#     return None
+
 def find_cluster(cluster_dict, entity):
-    entity = re.sub(r'[^a-zA-Z0-9\s]', '', entity).strip().lower()
-    entity = unicodedata.normalize('NFC', ''.join(c for c in unicodedata.normalize('NFD', entity) if unicodedata.category(c) != 'Mn'))
+    entity = entity.lower()
+    best_score = 0
+    best_key = None
     for key, values in cluster_dict.items():
         for value in values:
-          value = re.sub(r'[^a-zA-Z0-9\s]', '', value).strip().lower()
-          value = unicodedata.normalize('NFC', ''.join(c for c in unicodedata.normalize('NFD', value) if unicodedata.category(c) != 'Mn'))
-          if entity == value:
-            return key
-
-    return None
+            score = fuzz.ratio(value.lower(), entity)
+            if score > best_score and score >= 70:
+                best_score = score
+                best_key = key
+                
+    return best_key
 
 # get_new_contentbase_df()
 def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
