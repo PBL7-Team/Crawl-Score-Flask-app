@@ -60,7 +60,7 @@ def recommend_system(text):
     # new_contentbase_df = get_new_contentbase_df()
     # print(dicts_sentiment)
     # print(list_proper_noun_feature)
-    conduct_content_base(dicts_sentiment, list_proper_noun_feature)
+    # conduct_content_base(dicts_sentiment, list_proper_noun_feature)
     
     return conduct_content_base(dicts_sentiment, list_proper_noun_feature)
 
@@ -130,7 +130,14 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
     # Sắp xếp ma trận user_similarity_df theo thứ tự giảm dần của các giá trị tương tự
     sorted_user_similarity_df = user_similarity_df.apply(lambda row: row.sort_values(ascending=False), axis=1)
 
-    return sorted_user_similarity_df
+    # print(sorted_user_similarity_df)
+
+    threshold = 0.5
+    sorted_user_similarity_df = sorted_user_similarity_df.T
+    list_valid_attraction = sorted_user_similarity_df[sorted_user_similarity_df[0] > threshold].sort_values(by=0, ascending=False).index.tolist()
+
+
+    return list_valid_attraction
 
 def update_json(key_list, json_path='comment_storage.json'):
     # Kiểm tra nếu tệp JSON đã tồn tại
@@ -164,5 +171,5 @@ def update_json(key_list, json_path='comment_storage.json'):
     with open(json_path, 'w', encoding='utf-8') as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
 
-# text = "giới thiệu cho tôi 1 chỗ nhà hàng đồ ăn và 1 kỳ quan thế giới, bảo tàng tại Hoa Kỳ."
+# text = "giới thiệu cho tôi 1 chỗ nhà hàng đồ ăn và 1 kỳ quan thế giới, bảo tàng."
 # print(recommend_system(text))
