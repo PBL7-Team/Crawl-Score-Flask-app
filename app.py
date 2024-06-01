@@ -114,9 +114,11 @@ def get_crawl_info():
 def stop_crawl_route():
     stop_crawl()
     global crawl_starttime
-    if crawl_starttime is not None:
+    global crawl_thread
+    if crawl_thread is not None or crawl_thread.is_alive():
         new_json_amount, updated_json_amount = get_json_statistics(crawl_starttime)
         crawl_starttime = None
+        crawl_thread = None
         return jsonify({
         "new_json_amount": new_json_amount,
         "updated_json_amount": updated_json_amount,
