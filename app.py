@@ -33,6 +33,9 @@ crawl_thread = None
 crawl_thread_mode_2 = None
 crawl_starttime = None
 
+sentiment_scoring_thread = None
+sentiment_scoring_starttime = None
+
 def require_api_key(func):
     @wraps(func)
     def decorated_function(*args, **kwargs):
@@ -54,6 +57,10 @@ def start_crawl_thread():
 def start_crawl_mode_2_thread():
     with app.app_context():
         start_crawl_mode_2()
+
+def start_sentiment_scoring_thread():
+    with app.app_context():
+        sentiment_analysis_all()
 
 @app.route('/json-files', methods=['GET'])
 @require_api_key
@@ -133,11 +140,21 @@ def stop_crawl_route():
 @app.route('/sentiment-caculate', methods=['POST'])
 @require_api_key
 def sentiment_caculate():
-    try:
-        sentiment_analysis_all()
-        return jsonify({"message": "Re-caculating Sentiment..."}), 200
-    except Exception as e:
-        return jsonify({"message": "Sentiment analysis failed to start! " + e}), 400
+    global sentiment_scoring_thread
+    global sentiment_scoring_starttime
+
+    if sentiment_scoring_thread is None or not sentiment_scoring_thread.is_alive():
+        sentiment_scoring_thread = threading.Thread(target=start_sentiment_scoring_thread)
+        sentiment_scoring_starttime = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        sentiment_scoring_thread.start()
+        return jsonify({"message": "Sentiment Scoring started."}), 200
+    else:
+        return jsonify({"message": "Sentiment Scoring is already running."}), 400
+    # try:
+    #     sentiment_analysis_all()
+    #     return jsonify({"message": "Re-caculating Sentiment..."}), 200
+    # except Exception as e:
+    #     return jsonify({"message": "Sentiment analysis failed to start! " + e}), 400
 
 @app.route('/update-sentiment-csv', methods=['POST'])
 @require_api_key
