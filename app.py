@@ -1,9 +1,12 @@
-import Model_Here.auto_download_models
 from flask import Flask, jsonify, request, send_file
 import threading
 from datetime import datetime
 import os
 import time
+from Model_Here.auto_download_models import  dowwload_model
+
+dowwload_model()
+
 from recommend import recommend_system
 from search import query_attraction
 from service_crawl import get_all_json_data, update_csv_with_json_data, start_crawl, stop_crawl, get_json_statistics, start_crawl_mode_2
@@ -17,7 +20,6 @@ app = Flask(__name__)
 scheduler = APScheduler()
 
 load_dotenv()
-
 
 
 # Lấy các giá trị của các biến môi trường
@@ -184,6 +186,12 @@ def search_attraction():
     msg = query_attraction(request.args.get('query'))
     return jsonify({
         "ok": msg,
+    }), 200
+    
+@app.route('/test-api', methods=['GET'])
+def test():
+    return jsonify({
+        "message": "API is working!",
     }), 200
     
 @scheduler.task('interval', id='my_job', seconds=10)
