@@ -27,8 +27,6 @@ API_KEY_1 = os.getenv("API_KEY_1")
 API_KEY_2 = os.getenv("API_KEY_2")
 
 
-
-
 crawl_thread = None
 crawl_thread_mode_2 = None
 crawl_starttime = None
