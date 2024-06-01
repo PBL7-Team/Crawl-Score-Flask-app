@@ -117,7 +117,7 @@ def stop_crawl_route():
     stop_crawl()
     global crawl_starttime
     global crawl_thread
-    if crawl_thread is not None or crawl_thread.is_alive():
+    if crawl_starttime is not None:
         new_json_amount, updated_json_amount = get_json_statistics(crawl_starttime)
         crawl_starttime = None
         crawl_thread = None
