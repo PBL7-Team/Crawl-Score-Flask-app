@@ -7,7 +7,6 @@ __pycache__/
 # Loại bỏ tệp môi trường
 .env
 # Loại bỏ thư mục model
-Model_Here/BERT_Sentiment/phobert-base-vi-sentiment-analysis
-Model_Here/KeyPhraseModel/bert-base-uncased
-Model_Here/KeyPhraseModel/BERT-BiLSTM-CRF
-Model_Here/SynonymsModel/avodamed-synonym-generator1
+Model_Here/BERT_Sentiment/
+Model_Here/KeyPhraseModel
+Model_Here/SynonymsModel/
