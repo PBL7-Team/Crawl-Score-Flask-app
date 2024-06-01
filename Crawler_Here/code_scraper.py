@@ -234,7 +234,8 @@ def crawl_all():
             url = get_random_url(file_path)
             # url = r"https://www.tripadvisor.com/Attraction_Review-g298085-d6612108-Reviews-or60-Dragon_Bridge-Da_Nang.html"
             scrape_tourist_destination_data(url, file_path)
-        except:
+        except Exception as e:
+            print("Xuất hiện lỗi trong khi crawl, 90s tự động khởi động lại... "+ e)
             if not stop_flag.is_set():
                 time.sleep(90)
                 
