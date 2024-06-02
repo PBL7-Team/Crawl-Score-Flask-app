@@ -44,7 +44,7 @@
         "mua sắm quần áo",
         "áo khoác vải lanh",
         "áo khoác dài",
-        "quần vải",
+        "hàng quần",
         "vải",
         "bộ đồ -",
         "áo cánh vải",
@@ -123,7 +123,22 @@
         "quần áo -",
         "quần áo sản",
         "tường trần",
-        "vật phẩm"
+        "vật phẩm",
+        "món quần áo",
+        "khu mua sắm quần áo",
+        "quần áo giá",
+        "hàng quần",
+        "khóa kéo",
+        "trang phục hóa",
+        "hàng vải",
+        "vải bọc",
+        "vải - dệt",
+        "hàng dệt may",
+        "thực phẩm quần áo",
+        "chăn bông",
+        "đồ ăn áo cánh áo",
+        "đồ bơi",
+        "quần áo may sẵn"
     ],
     "cluster_1": [
         "set",
@@ -133,7 +148,8 @@
         "bộ phụ kiện",
         "set hải sản",
         "bộ đồ chơi",
-        "bộ cơ sở"
+        "bộ cơ sở",
+        "bộ nhạc"
     ],
     "cluster_2": [
         "trang phục",
@@ -152,7 +168,8 @@
         "kỹ thuật chuyên môn",
         "kiến ​​thức",
         "nghề",
-        "cấp độ chuyên gia"
+        "cấp độ chuyên gia",
+        "chuyên gia cắt may"
     ],
     "cluster_4": [
         "vật dụng",
@@ -182,11 +199,13 @@
         "sản",
         "vật dụng",
         "quà lưu",
-        "ảnh",
+        "hình ảnh",
         "mảnh",
         "mặt hàng mua sắm",
         "món quà",
-        "vật phẩm"
+        "vật phẩm",
+        "món quần áo",
+        "hình ảnh"
     ],
     "cluster_5": [
         "nhân viên",
@@ -251,7 +270,8 @@
         "hoa",
         "hồ chí",
         "du lịch hội an",
-        "hoi an farm"
+        "hoi an farm",
+        "nai"
     ],
     "cluster_9": [
         "doanh",
@@ -310,7 +330,8 @@
     "cluster_15": [
         "lượng thực sự",
         "lượng",
-        "giá trị"
+        "giá trị",
+        "giá thực"
     ],
     "cluster_16": [
         "khách sạn",
@@ -350,7 +371,7 @@
         "tour du lịch ẩm thực",
         "quán ăn địa",
         "dãy phòng",
-        "nhà hàng",
+        "hàng quán",
         "nhà hàng ngon",
         "nhà hàng ấm",
         "khu nghỉ dưỡng",
@@ -372,7 +393,10 @@
         "phòng massage",
         "sách du lịch",
         "khu du lịch",
-        "phòng ngủ"
+        "phòng ngủ",
+        "hàng quán",
+        "nơi giải trí nghệ",
+        "lạc bộ đêm"
     ],
     "cluster_17": [
         "hàng",
@@ -392,7 +416,9 @@
         "đồng xu",
         "túi lạc",
         "túi đeo",
-        "túi xách"
+        "túi xách",
+        "túi ngủ",
+        "khóa kéo"
     ],
     "cluster_19": [
         "người dân",
@@ -464,12 +490,14 @@
         "bộ đồ may đo",
         "áo sơ mi váy",
         "bộ đồ nhân viên",
-        "áo khoác vest"
+        "áo khoác vest",
+        "món quần áo",
+        "trang phục hóa"
     ],
     "cluster_22": [
         "thị",
         "trung tâm thành",
-        "câu lạc bộ",
+        "lạc bộ",
         "khu phố cổ",
         "trung",
         "trung tâm phố cổ",
@@ -533,7 +561,12 @@
         "chuyến thăm phố cổ",
         "làng tả",
         "khu du lịch",
-        "vùng ngoại"
+        "vùng ngoại",
+        "lạc bộ",
+        "khu phố phố",
+        "khu vực mua sắm",
+        "lạc bộ",
+        "khu phố cổ du lịch"
     ],
     "cluster_23": [
         "quý cô",
@@ -554,11 +587,13 @@
         "sản",
         "thủ công mỹ nghệ",
         "bộ kimono thành phẩm",
-        "mỹ nghệ"
+        "mỹ nghệ",
+        "quần áo may sẵn"
     ],
     "cluster_25": [
         "chiếc",
-        "phần cứng"
+        "phần cứng",
+        "máy tính"
     ],
     "cluster_26": [
         "bộ đồ playsuit"
@@ -621,7 +656,12 @@
         "thợ may nội",
         "tiệm may bé",
         "tiệm may be",
-        "chủ shop"
+        "chủ shop",
+        "món quần áo",
+        "khu mua sắm quần áo",
+        "khu vực mua sắm",
+        "hàng vải",
+        "chuyên gia cắt may"
     ],
     "cluster_30": [
         "trang trại cacao",
@@ -784,7 +824,8 @@
         "chuyến tham quan biên giới",
         "chuyến đi khó tin",
         "trải nghiệm chuyến tham quan",
-        "chuyến du lịch nhóm"
+        "chuyến du lịch nhóm",
+        "chuyến đi du ngoạn"
     ],
     "cluster_36": [
         "sô cô",
@@ -860,7 +901,8 @@
         "ô tô",
         "tay nghề thủ công",
         "đồ thủ",
-        "ô tô"
+        "ô tô",
+        "công nghệ sản"
     ],
     "cluster_41": [
         "chủ sở hữu",
@@ -878,7 +920,7 @@
         "chủ shop"
     ],
     "cluster_42": [
-        "khu chợ",
+        "thị trường",
         "chợ đêm",
         "chợ nằm",
         "chợ đêm cầu tình",
@@ -888,7 +930,7 @@
         "khu chợ sôi",
         "chợ lắm",
         "chợ đêm sơn",
-        "khu chợ",
+        "thị trường",
         "bán hàng",
         "chợ trời",
         "hàng hóa giá",
@@ -905,9 +947,19 @@
         "chợ bạch",
         "doanh số",
         "thương gia",
-        "khu chợ địa",
-        "chợ thực phẩm",
-        "chợ đêm địa phương"
+        "thị trường địa",
+        "chợ ẩm thực",
+        "chợ đêm địa phương",
+        "thị trường",
+        "chợ nổi",
+        "chợ ẩm",
+        "thị trường địa",
+        "chợ chợ",
+        "bán hàng hóa",
+        "chợ ẩm thực",
+        "chợ có",
+        "khu chợ ẩm thực chợ rau củ",
+        "chợ hôm"
     ],
     "cluster_43": [
         "cái răng",
@@ -960,7 +1012,8 @@
         "bản làng",
         "trang trại chè",
         "hoi an farm",
-        "trang trại nuôi"
+        "trang trại nuôi",
+        "nông sản"
     ],
     "cluster_49": [
         "phòng tập",
@@ -1024,7 +1077,12 @@
         "mỹ nghệ",
         "tác phẩm điêu",
         "nghệ nhân",
-        "công trình trang trí"
+        "công trình trang trí",
+        "art in",
+        "tác phẩm nghệ thuật 3d",
+        "tranh tường",
+        "bức tranh treo tường",
+        "ảo ảnh nghệ"
     ],
     "cluster_53": [
         "vạt",
@@ -1032,7 +1090,8 @@
         "cửa",
         "cáp treo",
         "cánh",
-        "túi đeo"
+        "túi đeo",
+        "khóa kéo"
     ],
     "cluster_54": [
         "quán rượu",
@@ -1047,8 +1106,11 @@
         "nhân viên pha chế",
         "nhân viên pha chế",
         "quán bia",
-        "nhà hàng",
-        "cocktail bar"
+        "hàng quán",
+        "cocktail bar",
+        "lạc bộ",
+        "hàng quán",
+        "lạc bộ"
     ],
     "cluster_55": [
         "món",
@@ -1083,7 +1145,7 @@
         "nhà bếp",
         "ẩm thực",
         "bát",
-        "nhà hàng",
+        "hàng quán",
         "phô mai",
         "nhà hàng ngon",
         "ẩm thực ban đêm",
@@ -1095,7 +1157,9 @@
         "tấm",
         "nền ẩm thực",
         "món dở",
-        "bàn ăn"
+        "bàn ăn",
+        "thực phẩm nấu",
+        "hàng quán"
     ],
     "cluster_56": [
         "bùa hộ",
@@ -1111,7 +1175,8 @@
         "kiến trúc",
         "kiến trúc",
         "nội thất",
-        "kiến ​​trúc truyền thống"
+        "kiến ​​trúc truyền thống",
+        "phòng trong"
     ],
     "cluster_58": [
         "ngôi nhà",
@@ -1166,7 +1231,12 @@
         "ngôi nhà trường học",
         "tòa nhà",
         "nhà lịch sử",
-        "phòng ngủ"
+        "phòng ngủ",
+        "khu phố phố",
+        "đồ gia dụng",
+        "phòng lớn",
+        "đồ dùng gia đình",
+        "phòng trong"
     ],
     "cluster_59": [
         "hàng gia",
@@ -1199,7 +1269,12 @@
         "bộ đồ họ",
         "mặt hàng mua sắm",
         "hàng bạc",
-        "vật phẩm"
+        "vật phẩm",
+        "rau củ hải sản tạp hóa đồ gia dụng",
+        "hàng vải",
+        "hàng bởi",
+        "hàng thô",
+        "bán hàng hóa"
     ],
     "cluster_60": [
         "mặt hàng thủ công mỹ nghệ",
@@ -1239,7 +1314,7 @@
         "nghề dệt",
         "váy lụa",
         "hàng may",
-        "nghề thêu thùa",
+        "bông thêu",
         "đồ thêu thủ công",
         "bông",
         "xưởng thêu",
@@ -1254,7 +1329,19 @@
         "hàng may",
         "mỹ nghệ",
         "lượng vải",
-        "bông"
+        "bông",
+        "lụa",
+        "chất liệu thêu",
+        "ren lụa vải",
+        "hàng vải",
+        "bông thêu",
+        "vải bọc",
+        "vải - dệt",
+        "hàng dệt may",
+        "sản phẩm lụa",
+        "tấm lụa",
+        "tơ nhân tạo",
+        "bán vải"
     ],
     "cluster_62": [
         "đồ trang trí",
@@ -1268,7 +1355,8 @@
         "biểu ngữ",
         "mỹ nghệ",
         "tác phẩm điêu",
-        "công trình trang trí"
+        "công trình trang trí",
+        "trang phục hóa"
     ],
     "cluster_63": [
         "sản phẩm tiêu",
@@ -1280,7 +1368,8 @@
     "cluster_64": [
         "chiếc nhẫn",
         "vòng cổ",
-        "viên ngọc"
+        "viên ngọc",
+        "hòa âm"
     ],
     "cluster_65": [
         "bán đồ lưu niệm",
@@ -1304,7 +1393,9 @@
         "quà lưu",
         "mặt hàng mua sắm",
         "đồ lưu niệm địa phương",
-        "kệ lưu niệm"
+        "kệ lưu niệm",
+        "bán hàng hóa",
+        "bán vải"
     ],
     "cluster_66": [
         "ông chủ -",
@@ -1366,7 +1457,7 @@
         "quán ăn địa",
         "ẩm thực",
         "bữa sáng",
-        "nhà hàng",
+        "hàng quán",
         "nhà hàng ngon",
         "ẩm thực ban đêm",
         "quán ăn địa phương",
@@ -1376,7 +1467,8 @@
         "đồng lúa bữa trưa",
         "món ăn đồ uống",
         "bữa sáng tự chọn",
-        "bàn ăn"
+        "bàn ăn",
+        "hàng quán"
     ],
     "cluster_72": [
         "đỉnh núi",
@@ -1425,7 +1517,8 @@
         "bữa tiệc sinh",
         "lễ hội",
         "khách",
-        "kỷ niệm"
+        "kỷ niệm",
+        "trang phục hóa"
     ],
     "cluster_75": [
         "đền chùa",
@@ -1464,7 +1557,9 @@
         "chùa cho",
         "ngôi chùa tráng lệ",
         "đền thờ",
-        "ngôi chùa tôn giáo phật giáo"
+        "ngôi chùa tôn giáo phật giáo",
+        "tranh tường",
+        "ngôi mộ"
     ],
     "cluster_76": [
         "vui chơi",
@@ -1495,7 +1590,8 @@
     "cluster_80": [
         "chuyến thăm hàn",
         "điểm du lịch",
-        "chuyến tham quan du lịch"
+        "chuyến tham quan du lịch",
+        "món ăn hàn quốc"
     ],
     "cluster_81": [
         "nền tảng kỹ năng"
@@ -1534,7 +1630,8 @@
         "tòa nhà",
         "xưởng",
         "tòa tháp",
-        "lắp ráp"
+        "lắp ráp",
+        "cơ sở hạ tầng"
     ],
     "cluster_84": [
         "du thuyền vịnh",
@@ -1569,7 +1666,9 @@
         "tour đi vịnh",
         "hành trình hạng",
         "du thuyền",
-        "bãi biển"
+        "bãi",
+        "bãi",
+        "sinh vật biển"
     ],
     "cluster_85": [
         "bông hoa",
@@ -1608,7 +1707,8 @@
         "đại dương",
         "hải",
         "cá vàng",
-        "cá"
+        "cá",
+        "sinh vật biển"
     ],
     "cluster_88": [
         "phương tiện di chuyển",
@@ -1640,7 +1740,8 @@
         "thủ công mỹ nghệ",
         "đống đổ nát",
         "mỹ nghệ",
-        "vật chất cần được"
+        "vật chất cần được",
+        "hàng vải"
     ],
     "cluster_90": [
         "sông mê kông",
@@ -1670,7 +1771,7 @@
         "đại lý"
     ],
     "cluster_93": [
-        "văn hóa địa phương",
+        "độ văn hóa địa",
         "lịch sử địa lý ẩm thực phong tục và văn hóa địa",
         "di sản văn hóa thế giới phố cổ",
         "lịch sử địa",
@@ -1714,13 +1815,13 @@
         "hàng thực phẩm địa phương",
         "người dân địa phương",
         "lịch sử văn hóa",
-        "văn hóa địa phương",
+        "độ văn hóa địa",
         "trải nghiệm ẩm thực địa phương",
         "cà phê địa",
         "làng dân tộc",
         "đồ uống địa phương",
         "văn hóa thổ dân",
-        "khu chợ địa",
+        "thị trường địa",
         "trang trại địa phương",
         "local cafe",
         "quán ăn địa phương",
@@ -1734,7 +1835,9 @@
         "văn hóa việt",
         "chuyến địa",
         "người văn hóa",
-        "người văn hóa"
+        "người văn hóa",
+        "độ văn hóa địa",
+        "thị trường địa"
     ],
     "cluster_94": [
         "chùa bù đá sơn",
@@ -1778,7 +1881,8 @@
         "phòng tắm",
         "thảo dược",
         "sân tắm",
-        "bồn"
+        "bồn",
+        "tắm rửa"
     ],
     "cluster_97": [
         "khu ẩm",
@@ -1809,7 +1913,8 @@
         "mây che phủ",
         "mái che",
         "mây trời",
-        "mây trời"
+        "mây trời",
+        "vân"
     ],
     "cluster_100": [
         "trang phục truyền thống",
@@ -1825,7 +1930,8 @@
         "áo sơ mi váy",
         "bộ đồ họ",
         "thời trang",
-        "họa tiết truyền thống"
+        "họa tiết truyền thống",
+        "trang phục hóa"
     ],
     "cluster_101": [
         "khu ramsar",
@@ -1865,7 +1971,8 @@
         "mũ bảo hiểm",
         "vest",
         "chiếc khăn",
-        "mặt"
+        "mặt",
+        "trang phục hóa"
     ],
     "cluster_105": [
         "tôm",
@@ -1884,7 +1991,8 @@
         "cá vàng",
         "hải sản",
         "cá",
-        "tôm hùm"
+        "tôm hùm",
+        "sinh vật biển"
     ],
     "cluster_106": [
         "đồ ăn cho",
@@ -1922,12 +2030,12 @@
         "phong cảnh thức ăn",
         "nơi ăn uống",
         "thực phẩm đóng",
-        "nhà hàng",
+        "hàng quán",
         "nhà hàng ngon",
         "thức ăn đường phố",
         "thực phẩm quốc",
         "đồ ăn đồ uống",
-        "chợ thực phẩm",
+        "chợ ẩm thực",
         "nhà hàng đồ ăn",
         "cầu ăn",
         "ẩm thực",
@@ -1936,7 +2044,11 @@
         "ẩm thực địa phương",
         "thức ăn ngon",
         "món ăn đồ uống",
-        "địa điểm ăn uống"
+        "địa điểm ăn uống",
+        "thực phẩm nấu",
+        "hàng quán",
+        "chợ ẩm thực",
+        "rau"
     ],
     "cluster_107": [
         "loại",
@@ -1978,7 +2090,8 @@
         "dòng sông",
         "thành phố hồ",
         "bản làng",
-        "hồ"
+        "hồ",
+        "hồ hoàn"
     ],
     "cluster_112": [
         "hoạt động đi bộ",
@@ -2006,11 +2119,14 @@
         "may quần áo",
         "tiệm may kim only",
         "quy trình vải",
-        "nghề thêu thùa",
+        "bông thêu",
         "đồ thêu thủ công",
         "xưởng thêu",
         "sản phẩm thêu",
-        "nhân viên bán đồ thêu"
+        "nhân viên bán đồ thêu",
+        "chất liệu thêu",
+        "bông thêu",
+        "vải - dệt"
     ],
     "cluster_116": [
         "trung tâm quận 1",
@@ -2087,7 +2203,8 @@
         "hải",
         "cảng du lịch",
         "thuyền năng lượng mặt",
-        "du thuyền"
+        "du thuyền",
+        "boong thuyền"
     ],
     "cluster_124": [
         "quán mì",
@@ -2098,7 +2215,8 @@
         "chợ trời",
         "mì thợ dệt",
         "món mì",
-        "cửa hàng vải"
+        "cửa hàng vải",
+        "khu mua sắm quần áo"
     ],
     "cluster_125": [
         "ngũ hành",
@@ -2118,7 +2236,8 @@
         "thể thao",
         "đôi dép",
         "giày dép",
-        "giày"
+        "giày",
+        "đồ bơi"
     ],
     "cluster_127": [
         "đấu trường khổng",
@@ -2182,7 +2301,7 @@
         "khu ẩm thực",
         "đồ ăn ngon giá",
         "nông dân địa phương trẻ em ẩm thực",
-        "nhà hàng",
+        "hàng quán",
         "hàng thực phẩm địa phương",
         "nhà hàng ngon",
         "thức ăn đường phố",
@@ -2191,12 +2310,12 @@
         "đồ uống địa phương",
         "thực phẩm quốc",
         "cửa hàng mua sắm",
-        "khu chợ địa",
+        "thị trường địa",
         "trang trại địa phương",
         "local cafe",
         "mặt hàng mua sắm",
         "quán ăn địa phương",
-        "chợ thực phẩm",
+        "chợ ẩm thực",
         "nhà hàng đồ ăn",
         "chợ đêm địa phương",
         "ẩm thực",
@@ -2206,7 +2325,15 @@
         "ẩm thực địa phương",
         "tiệm may bé",
         "tour du lịch ẩm thực đi bộ",
-        "địa điểm ăn uống"
+        "địa điểm ăn uống",
+        "khu mua sắm quần áo",
+        "rau củ hải sản tạp hóa đồ gia dụng",
+        "khu vực mua sắm",
+        "hàng quán",
+        "thị trường địa",
+        "chợ ẩm thực",
+        "khu chợ ẩm thực chợ rau củ",
+        "thực phẩm quần áo"
     ],
     "cluster_131": [
         "rượu rum",
@@ -2264,7 +2391,8 @@
         "nền văn hóa",
         "công nghệ",
         "thông dịch viên",
-        "nền văn hóa"
+        "nền văn hóa",
+        "trình độ tiếng anh"
     ],
     "cluster_137": [
         "hang động tam cốc",
@@ -2324,13 +2452,14 @@
         "quán ăn địa",
         "ẩm thực",
         "khu ẩm thực",
-        "nhà hàng",
+        "hàng quán",
         "nhà hàng ngon",
         "nhà hàng đồ ăn",
         "ẩm thực",
         "đồ ăn dịch vụ nhân viên",
         "cơm rượu vang",
-        "loại rượu"
+        "loại rượu",
+        "hàng quán"
     ],
     "cluster_143": [
         "buổi chiều",
@@ -2341,7 +2470,9 @@
         "đêm",
         "cảnh hoàng hôn",
         "dịch vụ qua đêm",
-        "buổi sáng"
+        "buổi sáng",
+        "u ám",
+        "cả đêm"
     ],
     "cluster_144": [
         "vũ chăm sóc",
@@ -2367,11 +2498,15 @@
         "ẩm thực ban đêm",
         "cảnh hoàng hôn",
         "cảnh đẹp",
-        "quang cảnh lịch sử"
+        "quang cảnh lịch sử",
+        "lạc bộ đêm",
+        "cả đêm"
     ],
     "cluster_146": [
         "tổng giá",
-        "giá"
+        "giá",
+        "giá thực",
+        "giá hơi"
     ],
     "cluster_147": [
         "điện thoại",
@@ -2379,7 +2514,10 @@
         "thiết bị",
         "ô tô",
         "ô tô",
-        "ô tô"
+        "ô tô",
+        "điện thoại di",
+        "số",
+        "máy tính"
     ],
     "cluster_148": [
         "bảo tàng chứng tích chiến tranh",
@@ -2390,7 +2528,10 @@
         "bảo tàng chiến tranh",
         "bảo tàng đường phố",
         "lịch sử quân sự",
-        "bảo tàng"
+        "bảo tàng",
+        "bảo tàng nghệ thuật",
+        "bảo tàng tượng",
+        "bảo tàng tranh"
     ],
     "cluster_149": [
         "con đỉa"
@@ -2439,7 +2580,8 @@
         "qua xuân",
         "cho xuân",
         "du lịch xuân tú",
-        "chuyến tham quan xuân"
+        "chuyến tham quan xuân",
+        "đồng xuân"
     ],
     "cluster_152": [
         "vết bỏng"
@@ -2453,7 +2595,8 @@
         "nhà vệ sinh",
         "nhà vệ sinh ngồi xổm",
         "phòng tắm",
-        "nhà vệ sinh"
+        "nhà vệ sinh",
+        "cống thoát nước"
     ],
     "cluster_154": [
         "tranh khảm",
@@ -2461,11 +2604,12 @@
         "gạch khảm",
         "đồ trang trí khảm",
         "khảm đá",
-        "nghề thêu thùa",
+        "bông thêu",
         "tranh khảm",
         "tác phẩm nghệ thuật khảm",
         "tranh khảm",
-        "bức tranh khảm gốm"
+        "bức tranh khảm gốm",
+        "bông thêu"
     ],
     "cluster_155": [
         "không"
@@ -2510,7 +2654,7 @@
         "quán ăn địa",
         "nơi ăn uống",
         "hàng cà phê",
-        "nhà hàng",
+        "hàng quán",
         "cà phê trứng cà phê",
         "địa điểm",
         "cà phê địa",
@@ -2523,7 +2667,9 @@
         "quán cà phê",
         "cà phê phin",
         "buổi cà phê",
-        "địa điểm ăn uống"
+        "địa điểm ăn uống",
+        "hàng quán",
+        "nơi giải trí nghệ"
     ],
     "cluster_159": [
         "khăn nóng",
@@ -2598,7 +2744,8 @@
         "thiên nhiên",
         "thảm thực vật",
         "môi trường",
-        "đồng cỏ và rừng"
+        "đồng cỏ và rừng",
+        "khu rừng nhiệt đới"
     ],
     "cluster_165": [
         "đồng xu mèo hoàng đạo",
@@ -2655,7 +2802,8 @@
         "ngôi chùa phật giáo tráng lệ",
         "trang sức phật giáo",
         "bức tượng nam",
-        "ngôi chùa tôn giáo phật giáo"
+        "ngôi chùa tôn giáo phật giáo",
+        "bảo tàng tượng"
     ],
     "cluster_169": [
         "giãn 90 phút"
@@ -2690,7 +2838,8 @@
     "cluster_173": [
         "độ",
         "nghề",
-        "độ học"
+        "độ học",
+        "nhà công nghệ"
     ],
     "cluster_174": [
         "giảng viên",
@@ -2705,7 +2854,8 @@
     ],
     "cluster_176": [
         "họ đo lường",
-        "đo chi"
+        "đo chi",
+        "đo -"
     ],
     "cluster_177": [
         "lướt ván",
@@ -2778,7 +2928,8 @@
         "tour du lịch ẩm thực đi bộ",
         "chuyến tham quan biên giới",
         "chuyến tham quan xuân-tử",
-        "trải nghiệm chuyến tham quan"
+        "trải nghiệm chuyến tham quan",
+        "người làm giỏ"
     ],
     "cluster_179": [
         "khỉ",
@@ -2813,7 +2964,9 @@
         "đi bộ xuyên rừng",
         "2 cây",
         "đồng cỏ và rừng",
-        "rừng tre"
+        "rừng tre",
+        "khu rừng nhiệt đới",
+        "gỗ sồi"
     ],
     "cluster_182": [
         "địa chỉ nhà",
@@ -2854,7 +3007,8 @@
         "nhỏ ruộng",
         "ruộng lúa",
         "đồng lúa",
-        "lĩnh"
+        "lĩnh",
+        "đồng xuân"
     ],
     "cluster_187": [
         "đại lý trang web",
@@ -2950,8 +3104,9 @@
     ],
     "cluster_205": [
         "cú đánh",
-        "sự",
-        "sự"
+        "cuộc",
+        "cuộc",
+        "cuộc"
     ],
     "cluster_206": [
         "hard rock",
@@ -3103,7 +3258,8 @@
         "thuyền gỗ",
         "leo cầu",
         "khung gỗ",
-        "gỗ chạm"
+        "gỗ chạm",
+        "gỗ sồi"
     ],
     "cluster_217": [
         "giàn giáo"
@@ -3126,12 +3282,14 @@
         "trang trại địa phương",
         "nhà nông dân",
         "thợ",
-        "trang trại nuôi"
+        "trang trại nuôi",
+        "nông sản"
     ],
     "cluster_221": [
         "bức tường danh",
         "bức tường nơi",
-        "bức tường"
+        "bức tường",
+        "bức tranh treo tường"
     ],
     "cluster_222": [
         "cơ quan",
@@ -3154,7 +3312,8 @@
         "ẩm thực",
         "nền ẩm thực",
         "lớp học nấu ăn",
-        "công thức nấu ăn"
+        "công thức nấu ăn",
+        "thực phẩm nấu"
     ],
     "cluster_225": [
         "nhà sư",
@@ -3230,7 +3389,7 @@
         "quán ăn địa",
         "ẩm thực",
         "lịch sử ẩm thực",
-        "nhà hàng",
+        "hàng quán",
         "buổi biểu diễn nấu ăn",
         "hướng dẫn viên địa phương",
         "chuyến tham quan hội an",
@@ -3254,10 +3413,13 @@
         "chuyến du lịch",
         "hoạt động chuyến tham quan",
         "tour du lịch ẩm thực đi bộ",
-        "trải nghiệm chuyến tham quan"
+        "trải nghiệm chuyến tham quan",
+        "chuyến đi du ngoạn",
+        "hàng quán"
     ],
     "cluster_229": [
-        "chuột"
+        "chuột",
+        "máy tính"
     ],
     "cluster_230": [
         "kính gửi",
@@ -3266,7 +3428,8 @@
         "lời chào"
     ],
     "cluster_231": [
-        "trăm"
+        "trăm",
+        "số"
     ],
     "cluster_232": [
         "chó bỏ túi",
@@ -3327,7 +3490,8 @@
         "ô tô",
         "phương tiện đi",
         "phong cách xe",
-        "ô tô"
+        "ô tô",
+        "túi ngủ"
     ],
     "cluster_239": [
         "sân bay",
@@ -3349,7 +3513,8 @@
         "thế",
         "địa điểm",
         "địa điểm",
-        "nơi"
+        "nơi",
+        "nơi giải trí nghệ"
     ],
     "cluster_241": [
         "điểm quan sát"
@@ -3374,7 +3539,11 @@
         "phòng trưng bày",
         "bảo tàng",
         "sàn gỗ",
-        "tầng"
+        "tầng",
+        "bảo tàng nghệ thuật",
+        "tầng trưng bày",
+        "bảo tàng nghệ thuật đánh lừa thị giác",
+        "bảo tàng tranh"
     ],
     "cluster_245": [
         "đồ uống ngon âm nhạc",
@@ -3455,7 +3624,9 @@
         "dãy phòng",
         "dãy phòng",
         "toa vip",
-        "phòng ngủ"
+        "phòng ngủ",
+        "phòng lớn",
+        "phòng trong"
     ],
     "cluster_252": [
         "mảnh thủy tinh",
@@ -3567,9 +3738,10 @@
         "nhân vật",
         "bức",
         "bức tranh",
-        "ảnh",
+        "hình ảnh",
         "mảnh",
-        "bức"
+        "bức",
+        "hình ảnh"
     ],
     "cluster_268": [
         "đi thuyền dừa",
@@ -3611,7 +3783,8 @@
         "tượng phật làm",
         "bức tượng - tượng đài",
         "tác phẩm điêu",
-        "công trình trang trí"
+        "công trình trang trí",
+        "bảo tàng tượng"
     ],
     "cluster_273": [
         "bản cát cát",
@@ -3668,7 +3841,8 @@
         "tấm ván",
         "chèo thuyền",
         "đại dương",
-        "hải"
+        "hải",
+        "sinh vật biển"
     ],
     "cluster_280": [
         "địa điểm quân sự",
@@ -3693,7 +3867,8 @@
         "áo khoác ấm",
         "áo ghi lê",
         "vest nữ",
-        "áo khoác vest"
+        "áo khoác vest",
+        "món quần áo"
     ],
     "cluster_282": [
         "giá trị kinh tế",
@@ -3716,7 +3891,9 @@
         "ẩm thực",
         "món chiên",
         "món ăn truyền thống",
-        "ẩm thực truyền"
+        "ẩm thực truyền",
+        "thực phẩm nấu",
+        "món ăn hàn quốc"
     ],
     "cluster_284": [
         "bác sĩ",
@@ -3724,7 +3901,8 @@
         "nghề",
         "hôn phu",
         "nhà trị liệu",
-        "đặc sản"
+        "đặc sản",
+        "nhà công nghệ"
     ],
     "cluster_285": [
         "gian hàng"
@@ -3756,7 +3934,8 @@
     "cluster_290": [
         "hầm trú ẩn",
         "thánh địa",
-        "sân thượng"
+        "sân thượng",
+        "chăn bông"
     ],
     "cluster_291": [
         "burger",
@@ -3770,13 +3949,14 @@
         "món khoai tây chiên phô mai ớt",
         "nhà bếp",
         "ẩm thực",
-        "nhà hàng",
+        "hàng quán",
         "nhà hàng ngon",
         "khoai tây chiên ngon",
         "nhà hàng đồ ăn",
         "ẩm thực",
         "món chiên",
-        "xích khoai tây chiên"
+        "xích khoai tây chiên",
+        "hàng quán"
     ],
     "cluster_292": [
         "tủ",
@@ -3789,8 +3969,9 @@
         "cát cát",
         "bãi biển mỹ khê",
         "sa mạc",
-        "bãi biển",
-        "bãi biển cát trắng"
+        "bãi",
+        "bãi biển cát trắng",
+        "bãi"
     ],
     "cluster_294": [
         "tráng lệ",
@@ -3820,7 +4001,9 @@
         "hàng may",
         "áo sơ mi váy",
         "chiếc khăn",
-        "hàng may"
+        "hàng may",
+        "món quần áo",
+        "ren lụa vải"
     ],
     "cluster_298": [
         "xe máy lạnh",
@@ -3830,7 +4013,8 @@
         "ô tô"
     ],
     "cluster_299": [
-        "cúi"
+        "cúi",
+        "mũi tên"
     ],
     "cluster_300": [
         "phần bơi",
@@ -3839,7 +4023,8 @@
         "áo tắm",
         "nước",
         "chèo thuyền kayak bơi",
-        "thủy"
+        "thủy",
+        "đồ bơi"
     ],
     "cluster_301": [
         "tách",
@@ -3974,7 +4159,9 @@
         "áo sơ mi váy",
         "quần áo áo sơ mi áo sơ mi",
         "áo vải lanh",
-        "sơ mi"
+        "sơ mi",
+        "món quần áo",
+        "đồ ăn áo cánh áo"
     ],
     "cluster_323": [
         "xe buýt du lịch",
@@ -3999,7 +4186,8 @@
         "sách du lịch",
         "giao thông vận tải",
         "hoạt động chuyến tham quan",
-        "khu du lịch"
+        "khu du lịch",
+        "khu phố cổ du lịch"
     ],
     "cluster_324": [
         "quầy hàng",
@@ -4007,7 +4195,8 @@
         "phòng chờ",
         "quầy hàng thực phẩm",
         "quầy hàng phi thực phẩm",
-        "gian hàng bánh xèo"
+        "gian hàng bánh xèo",
+        "quầy hàng bán"
     ],
     "cluster_325": [
         "cảnh tượng",
@@ -4018,7 +4207,8 @@
         "quang cảnh",
         "sương mù tầm nhìn",
         "thủy tinh",
-        "điểm tham quan"
+        "điểm tham quan",
+        "ống kính"
     ],
     "cluster_326": [
         "chất lượng",
@@ -4029,7 +4219,8 @@
         "buổi biểu diễn",
         "mùi vị",
         "tay nghề thủ công",
-        "may đo chất lượng"
+        "may đo chất lượng",
+        "dịch vụ chất lượng"
     ],
     "cluster_327": [
         "bán đảo mặt"
@@ -4209,7 +4400,9 @@
         "đêm",
         "thư giãn",
         "đồ ngủ",
-        "buổi sáng"
+        "buổi sáng",
+        "túi ngủ",
+        "cả đêm"
     ],
     "cluster_361": [
         "cư dân",
@@ -4233,7 +4426,9 @@
     ],
     "cluster_366": [
         "nước cam",
-        "thực phẩm nước trái cây bánh mì"
+        "thực phẩm nước trái cây bánh mì",
+        "quả chanh",
+        "trái cây - rau"
     ],
     "cluster_367": [
         "thác tình",
@@ -4260,10 +4455,12 @@
     "cluster_371": [
         "của chúng",
         "du",
-        "tam"
+        "tam",
+        "rau"
     ],
     "cluster_372": [
-        "điểm tham quan âm thanh"
+        "điểm tham quan âm thanh",
+        "hệ thống âm thanh"
     ],
     "cluster_373": [
         "hang động biểu diễn nấu ăn câu",
@@ -4283,7 +4480,8 @@
         "đồ ăn đồ uống",
         "món chiên",
         "ăn kiêng",
-        "món ăn đồ uống"
+        "món ăn đồ uống",
+        "rau củ quả rau thơm thịt"
     ],
     "cluster_375": [
         "viên"
@@ -4312,7 +4510,8 @@
     ],
     "cluster_381": [
         "gỗ lim",
-        "rừng rậm"
+        "rừng rậm",
+        "gỗ sồi"
     ],
     "cluster_382": [
         "mây homestay"
@@ -4322,7 +4521,8 @@
     ],
     "cluster_384": [
         "giấc mơ",
-        "tưởng tượng"
+        "tưởng tượng",
+        "trí tưởng tượng"
     ],
     "cluster_385": [
         "trả xe đạp",
@@ -4339,7 +4539,8 @@
         "công ty lữ hành",
         "địa điểm nghỉ dưỡng",
         "văn phòng du lịch",
-        "chuyến tham quan du lịch"
+        "chuyến tham quan du lịch",
+        "chuyến đi du ngoạn"
     ],
     "cluster_387": [
         "cầu phúc",
@@ -4375,7 +4576,8 @@
         "thuyền trưởng",
         "thủy thủ",
         "thành viên phi hành đoàn",
-        "phi hành đoàn"
+        "phi hành đoàn",
+        "sinh vật biển"
     ],
     "cluster_395": [
         "chuyến thăm hcm"
@@ -4394,7 +4596,8 @@
         "hang động",
         "hang khô",
         "rừng tre",
-        "hang động làng chài"
+        "hang động làng chài",
+        "gỗ sồi"
     ],
     "cluster_399": [
         "tắm nắng"
@@ -4419,7 +4622,8 @@
         "điểm ngắm cảnh",
         "công viên",
         "công viên sun",
-        "national park"
+        "national park",
+        "công viên vui"
     ],
     "cluster_404": [
         "bản tả",
@@ -4438,7 +4642,8 @@
         "thực phẩm đóng",
         "thức ăn đường phố",
         "ngộ độc thực phẩm",
-        "món chiên"
+        "món chiên",
+        "thực phẩm nấu"
     ],
     "cluster_408": [
         "ngọc ẩn",
@@ -4455,7 +4660,8 @@
         "ẩm thực"
     ],
     "cluster_411": [
-        "quầy"
+        "quầy",
+        "hàng nhái"
     ],
     "cluster_412": [
         "hồ chí min",
@@ -4465,7 +4671,8 @@
         "phố đi bộ nguyễn",
         "hồ chí",
         "làng củ chi",
-        "văn hóa việt"
+        "văn hóa việt",
+        "kiều -nguyen"
     ],
     "cluster_413": [
         "quản gia"
@@ -4485,7 +4692,9 @@
         "doanh số",
         "cửa hàng mua sắm",
         "cửa hàng rượu",
-        "quần áo sản"
+        "quần áo sản",
+        "khu vực mua sắm",
+        "giá thực"
     ],
     "cluster_417": [
         "lịch sử thế",
@@ -4498,7 +4707,8 @@
         "thảm họa"
     ],
     "cluster_419": [
-        "nhạc sống"
+        "nhạc sống",
+        "bộ nhạc"
     ],
     "cluster_420": [
         "cẩm thạch"
@@ -4515,7 +4725,13 @@
         "liệu vải thì",
         "chợ vải",
         "cửa hàng vải",
-        "lượng vải"
+        "lượng vải",
+        "ren lụa vải",
+        "hàng vải",
+        "vải bọc",
+        "vải - dệt",
+        "hàng dệt may",
+        "bán vải"
     ],
     "cluster_424": [
         "ngọn",
@@ -4582,7 +4798,8 @@
         "khu thuộc địa cũ",
         "rừng tre",
         "đầm lầy",
-        "trang trại chè"
+        "trang trại chè",
+        "gỗ sồi"
     ],
     "cluster_433": [
         "hàng trang sức lạc",
@@ -4604,7 +4821,8 @@
         "hở bụng"
     ],
     "cluster_437": [
-        "tầng địa"
+        "tầng địa",
+        "tầng trệt"
     ],
     "cluster_438": [
         "dịch vụ gội",
@@ -4615,7 +4833,8 @@
         "xi măng"
     ],
     "cluster_440": [
-        "đường may"
+        "đường may",
+        "khóa kéo"
     ],
     "cluster_441": [
         "áo sơ mi nữ",
@@ -4652,17 +4871,21 @@
         "chuyến tham quan thành phố",
         "lễ hội",
         "chuyến tham quan xuân",
-        "chuyến du lịch"
+        "chuyến du lịch",
+        "nơi giải trí nghệ"
     ],
     "cluster_446": [
         "nhiếp ảnh gia",
         "kỹ năng chụp ảnh",
         "bức tranh",
         "cẩm",
-        "ảnh",
+        "hình ảnh",
         "ảnh gia tuyệt",
         "bức ảnh lịch sử",
-        "bức"
+        "bức",
+        "hình ảnh",
+        "ống kính",
+        "bảo tàng tranh"
     ],
     "cluster_447": [
         "đồ giải khát"
@@ -4702,7 +4925,8 @@
     "cluster_457": [
         "sấy",
         "khăn",
-        "trái cây sấy khô trà"
+        "trái cây sấy khô trà",
+        "chợ ẩm"
     ],
     "cluster_458": [
         "sóc xe chăm sóc"
@@ -4794,14 +5018,16 @@
         "làng tre",
         "làng dừa",
         "làng tả",
-        "trang trại nuôi"
+        "trang trại nuôi",
+        "nông sản"
     ],
     "cluster_477": [
         "nhà hàng taphin",
-        "nhà hàng",
+        "hàng quán",
         "nhà hàng ngon",
         "nhà hàng đồ ăn",
-        "ẩm thực"
+        "ẩm thực",
+        "hàng quán"
     ],
     "cluster_478": [
         "anh đào"
@@ -4822,7 +5048,8 @@
         "nhà vệ sinh",
         "mây trời",
         "mây trời",
-        "nhà vệ sinh"
+        "nhà vệ sinh",
+        "vân"
     ],
     "cluster_482": [
         "khách hàng",
@@ -4835,7 +5062,8 @@
         "đỗ xe đạp",
         "công viên",
         "bãi đậu xe",
-        "xe đạp"
+        "xe đạp",
+        "đậu xe"
     ],
     "cluster_485": [
         "bộ ba"
@@ -4860,7 +5088,8 @@
         "gà nướng",
         "con chim",
         "ẩm thực",
-        "món chiên"
+        "món chiên",
+        "thực phẩm nấu"
     ],
     "cluster_492": [
         "dịch vụ lưu trữ",
@@ -4889,7 +5118,8 @@
         "trả xe",
         "ô tô",
         "ô tô",
-        "ô tô"
+        "ô tô",
+        "đậu xe"
     ],
     "cluster_498": [
         "gia tăng"
@@ -4922,7 +5152,8 @@
         "không khí"
     ],
     "cluster_505": [
-        "bối cảnh"
+        "bối cảnh",
+        "câu"
     ],
     "cluster_506": [
         "bức tượng bồ",
@@ -4930,14 +5161,18 @@
         "bức tượng - tượng đài",
         "bức tượng siêu khổng",
         "tác phẩm điêu",
-        "bức tượng nam"
+        "bức tượng nam",
+        "bảo tàng tượng"
     ],
     "cluster_507": [
         "quy trình bán hàng",
-        "chuyến chào hàng"
+        "chuyến chào hàng",
+        "quầy hàng bán",
+        "bán hàng hóa"
     ],
     "cluster_508": [
-        "bất"
+        "bất",
+        "giá thực"
     ],
     "cluster_509": [
         "hồ sơ"
@@ -4951,7 +5186,8 @@
     ],
     "cluster_512": [
         "trí tưởng tượng hình ảnh tôn giáo",
-        "khía cạnh tôn giáo"
+        "khía cạnh tôn giáo",
+        "trí tưởng tượng"
     ],
     "cluster_513": [
         "công tước"
@@ -4966,12 +5202,16 @@
     ],
     "cluster_515": [
         "bức tranh thêu tay",
-        "nhân viên bán đồ thêu"
+        "nhân viên bán đồ thêu",
+        "chất liệu thêu",
+        "bông thêu"
     ],
     "cluster_516": [
         "sơ mi quần short áo thun cà phê đồ ăn",
         "quần áo áo sơ mi áo sơ mi",
-        "sơ mi"
+        "sơ mi",
+        "thực phẩm quần áo",
+        "đồ ăn áo cánh áo"
     ],
     "cluster_517": [
         "động sản"
@@ -4987,7 +5227,8 @@
     ],
     "cluster_521": [
         "kỹ thuật viên",
-        "thợ"
+        "thợ",
+        "nhà công nghệ"
     ],
     "cluster_522": [
         "set menu"
@@ -4995,7 +5236,10 @@
     "cluster_523": [
         "tấm vải lanh",
         "áo vải lanh",
-        "bông"
+        "bông",
+        "vải - dệt",
+        "hàng dệt may",
+        "tấm lụa"
     ],
     "cluster_524": [
         "địa điểm tham quan"
@@ -5016,7 +5260,8 @@
     ],
     "cluster_529": [
         "chuyến thăm cảng",
-        "cảng du lịch"
+        "cảng du lịch",
+        "cảng thọ"
     ],
     "cluster_530": [
         "phương pháp học",
@@ -5073,7 +5318,8 @@
         "trải nghiệm chuyến tham quan"
     ],
     "cluster_542": [
-        "ăn chay"
+        "ăn chay",
+        "rau củ quả rau thơm thịt"
     ],
     "cluster_543": [
         "địa điểm tôn giáo buồn"
@@ -5083,7 +5329,9 @@
         "xích khoai tây chiên"
     ],
     "cluster_545": [
-        "cà"
+        "cà",
+        "trái cây rau",
+        "trái cây - rau"
     ],
     "cluster_546": [
         "nhân"
@@ -5093,7 +5341,8 @@
         "phương tiện đi",
         "giao thông",
         "phong cách xe",
-        "ô tô"
+        "ô tô",
+        "đậu xe"
     ],
     "cluster_548": [
         "món ngon địa",
@@ -5112,7 +5361,9 @@
     "cluster_552": [
         "phòng điều trị",
         "phòng massage",
-        "phòng ngủ"
+        "phòng ngủ",
+        "phòng lớn",
+        "phòng trong"
     ],
     "cluster_553": [
         "điểm dừng chân"
@@ -5134,7 +5385,8 @@
         "quán vắng"
     ],
     "cluster_559": [
-        "váy dạ hội"
+        "váy dạ hội",
+        "trang phục hóa"
     ],
     "cluster_560": [
         "trục trặc"
@@ -5156,7 +5408,8 @@
         "đồng lúa bữa trưa"
     ],
     "cluster_565": [
-        "lính thủy đánh"
+        "lính thủy đánh",
+        "sinh vật biển"
     ],
     "cluster_566": [
         "trà nóng",
@@ -5167,7 +5420,8 @@
         "đường đua"
     ],
     "cluster_568": [
-        "ty -"
+        "ty -",
+        "-"
     ],
     "cluster_569": [
         "phân phát đồ",
@@ -5189,16 +5443,19 @@
         "nhà phun hưng"
     ],
     "cluster_575": [
-        "dịch vụ chu đáo"
+        "dịch vụ chu đáo",
+        "dịch vụ chất lượng"
     ],
     "cluster_576": [
-        "biểu tượng"
+        "biểu tượng",
+        "hình ảnh"
     ],
     "cluster_577": [
         "kiến ​​thức địa"
     ],
     "cluster_578": [
-        "cho lưng"
+        "cho lưng",
+        "rau"
     ],
     "cluster_579": [
         "dì lam"
@@ -5217,15 +5474,119 @@
         "giao dịch mua hàng"
     ],
     "cluster_584": [
-        "lịch sử ninh"
+        "lịch sử ninh",
+        "kiểm tra an ninh"
     ],
     "cluster_585": [
         "móng chân"
     ],
     "cluster_586": [
-        "ghế sofa"
+        "ghế sofa",
+        "vải bọc"
     ],
     "cluster_587": [
         "tram chim"
+    ],
+    "cluster_588": [
+        "chương trình khuyến mãi"
+    ],
+    "cluster_589": [
+        "xác ướp"
+    ],
+    "cluster_590": [
+        "mô hình"
+    ],
+    "cluster_591": [
+        "cử chỉ"
+    ],
+    "cluster_592": [
+        "bài trí"
+    ],
+    "cluster_593": [
+        "khái niệm"
+    ],
+    "cluster_594": [
+        "màn hình"
+    ],
+    "cluster_595": [
+        "máy tính giấy"
+    ],
+    "cluster_596": [
+        "tự"
+    ],
+    "cluster_597": [
+        "té nước"
+    ],
+    "cluster_598": [
+        "đà nẵng"
+    ],
+    "cluster_599": [
+        "chân máy"
+    ],
+    "cluster_600": [
+        "2m ren",
+        "2m"
+    ],
+    "cluster_601": [
+        "trú ẩn"
+    ],
+    "cluster_602": [
+        "quốc tế và"
+    ],
+    "cluster_603": [
+        "hình ảnh sống động"
+    ],
+    "cluster_604": [
+        "overprint"
+    ],
+    "cluster_605": [
+        "và chất"
+    ],
+    "cluster_606": [
+        "thương hiệu"
+    ],
+    "cluster_607": [
+        "lỏng lẻo"
+    ],
+    "cluster_608": [
+        "quả xoài",
+        "trái cây - rau"
+    ],
+    "cluster_609": [
+        "thế giới cổ tích"
+    ],
+    "cluster_610": [
+        "cánh tay"
+    ],
+    "cluster_611": [
+        "mix nhạc việt"
+    ],
+    "cluster_612": [
+        "hàng rào"
+    ],
+    "cluster_613": [
+        "phông"
+    ],
+    "cluster_614": [
+        "nghệ thuật đánh lừa",
+        "ảo ảnh nghệ"
+    ],
+    "cluster_615": [
+        "họa tiết"
+    ],
+    "cluster_616": [
+        "giãn voan"
+    ],
+    "cluster_617": [
+        "kho tàng"
+    ],
+    "cluster_618": [
+        "bánh bao"
+    ],
+    "cluster_619": [
+        "mất cảnh giác"
+    ],
+    "cluster_620": [
+        "phố trần xuân"
     ]
 }

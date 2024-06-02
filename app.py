@@ -36,6 +36,8 @@ sentiment_scoring_starttime = None
 
 update_sentiment_thread = None
 
+clusing_thread = None
+
 def require_api_key(func):
     @wraps(func)
     def decorated_function(*args, **kwargs):
@@ -66,6 +68,10 @@ def start_sentiment_scoring_thread():
 def update_sentiment_csv_thread():
     with app.app_context():
         fully_updated_sentiment_csv()
+
+def update_clustring_thread():
+    with app.app_context():
+        export_synonyms_clusters()
 
 @app.route('/json-files', methods=['GET'])
 @require_api_key
@@ -186,16 +192,23 @@ def download_score_csv():
 
 @app.route('/get-synonyms-clusters', methods=['GET'])
 @require_api_key
-def get_synonyms_clusters():
-    try:
-        vi_clusters = export_synonyms_clusters()
-        return jsonify(vi_clusters)
-    except FileNotFoundError as e:
-        return jsonify({"error": str(e)}), 404
-    except ValueError as e:
-        return jsonify({"error": str(e)}), 400
-    except Exception as e:
-        return jsonify({"error": "An unexpected error occurred: " + str(e)}), 500
+def update_synonyms_clusters():
+    global clusing_thread
+    if clusing_thread is None or not clusing_thread.is_alive():
+        clusing_thread = threading.Thread(target=update_clustring_thread)
+        clusing_thread.start()
+        return jsonify({"message": "Update Synonyms started."}), 200
+    else:
+        return jsonify({"message": "Update Synonyms is already running."}), 400
+    # try:
+    #     vi_clusters = export_synonyms_clusters()
+    #     return jsonify(vi_clusters)
+    # except FileNotFoundError as e:
+    #     return jsonify({"error": str(e)}), 404
+    # except ValueError as e:
+    #     return jsonify({"error": str(e)}), 400
+    # except Exception as e:
+    #     return jsonify({"error": "An unexpected error occurred: " + str(e)}), 500
     
     
 @app.route('/recommend', methods=['GET'])

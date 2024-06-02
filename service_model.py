@@ -291,7 +291,7 @@ def get_synonyms_entities():
     current_directory = os.path.dirname(os.path.abspath(__file__))
     J_FOLDER = os.path.join(current_directory, 'Crawler_Here', 'Scrape_Data', 'attraction')
     json_file_paths = get_json_file_paths(J_FOLDER)
-    comment_json_path = os.path.join(current_directory, 'comment_store.json')
+    comment_json_path = os.path.join(current_directory, 'comment_storage.json')
 
     json_file_paths.insert(0,comment_json_path)
 
@@ -438,6 +438,7 @@ def export_synonyms_clusters():
         json.dump(vi_clusters, f, ensure_ascii=False, indent=4)
     
     convert_json_to_dict(cluster_json,cluster_json)
+    print("Hoàn tất trích entity cluster!")
 
     return vi_clusters
 
