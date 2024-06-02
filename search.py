@@ -5,9 +5,9 @@ import json
 
 def get_attraction_info(directory_path):
     absolute_path = os.path.abspath(directory_path)
-    print(absolute_path)
+    return absolute_path
     if not os.path.isdir(absolute_path):
-        print("Đường dẫn không tồn tại.")
+        return("Đường dẫn không tồn tại.")
         return {}
     
     attractions_dict = {}
@@ -46,8 +46,3 @@ def find_best_match(query, threshold=70):
         return matched_attraction
     else:
         return None
-
-def query_attraction(query):
-    return find_best_match(query)
-
-print(query_attraction("Ms Ao Dai Studio"))
