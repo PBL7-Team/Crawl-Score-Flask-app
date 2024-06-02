@@ -248,30 +248,19 @@ def crawl_specific_place(url):
     crawl_1_url(url)
     new_links, location, url_next, _ = read_html_attraction()
     for i in range(9):
-        crawl_1_url(url)
+        crawl_1_url(url_next)
         new_links, location, url_next, _ = read_html_attraction()
-        crawl_specific_place(url_next)
+        if url_next == "" or url_next is None:
+            break
 
-# crawl_specific_place(r"https://www.tripadvisor.com/Attraction_Review-g298085-d7687457-Reviews-My_Khe_Beach-Da_Nang.html")
+# crawl_specific_place(r"https://www.tripadvisor.com/Attraction_Review-g298085-d8090733-Reviews-Han_River_Bridge-Da_Nang.html")
 
 # crawl_all()
 
 # crawl_1_url('https://www.tripadvisor.com/Restaurant_Review-g1535794-d10495220-Reviews-Coc_Cafe_Tra_Vinh-Tra_Vinh_Tra_Vinh_Province_Mekong_Delta.html')
-
-
-# https://www.tripadvisor.com/Hotel_Review-g303942-d19735864-Reviews-Nha_Nghi_Ngoc_Thuy_3-Can_Tho_Mekong_Delta.html#REVIEWS
-# https://www.tripadvisor.com/Hotel_Review-g303942-d23664240-Reviews-Binh_Minh_Eco_Lodge-Can_Tho_Mekong_Delta.html
-# https://www.tripadvisor.com/Hotel_Review-g303942-d23664240-Reviews-Binh_Minh_Eco_Lodge-Can_Tho_Mekong_Delta.html#REVIEWS
-# https://www.tripadvisor.com/Hotel_Review-g303942-d17607361-Reviews-Huynh_Thanh_Hotel_Can_Tho-Can_Tho_Mekong_Delta.html
-# https://www.tripadvisor.com/Hotel_Review-g303942-d17607361-Reviews-Huynh_Thanh_Hotel_Can_Tho-Can_Tho_Mekong_Delta.html#REVIEWS
-# https://www.tripadvisor.com/Hotel_Review-g303942-d21370854-Reviews-Homestay_Cantho_River-Can_Tho_Mekong_Delta.html
-# https://www.tripadvisor.com/Hotel_Review-g303942-d21370854-Reviews-Homestay_Cantho_River-Can_Tho_Mekong_Delta.html#REVIEWS
-# https://www.tripadvisor.com/Hotel_Review-g303942-d16803351-Reviews-Sampan_House-Can_Tho_Mekong_Delta.html
-# https://www.tripadvisor.com/Hotel_Review-g303942-d16803351-Reviews-Sampan_House-Can_Tho_Mekong_Delta.html#REVIEWS
-# https://www.tripadvisor.com/Hotel_Review-g303942-d24984318-Reviews-MiMin_Hotel-Can_Tho_Mekong_Delta.html
-# https://www.tripadvisor.com/Hotel_Review-g303942-d24984318-Reviews-MiMin_Hotel-Can_Tho_Mekong_Delta.html#REVIEWS
-# https://www.tripadvisor.com/Hotel_Review-g303942-d23487985-Reviews-Khach_San_Diem_Minh-Can_Tho_Mekong_Delta.html
-# https://www.tripadvisor.com/Hotel_Review-g303942-d23487985-Reviews-Khach_San_Diem_Minh-Can_Tho_Mekong_Delta.html#REVIEWS
-# https://www.tripadvisor.com/Hotel_Review-g303942-d19907170-Reviews-Vu_Anh_Motel-Can_Tho_Mekong_Delta.html
-# https://www.tripadvisor.com/Hotel_Review-g303942-d19907170-Reviews-Vu_Anh_Motel-Can_Tho_Mekong_Delta.html#REVIEWS
-# Structure payload.
+# https://www.tripadvisor.com/Attraction_Review-g298085-d12912951-Reviews-Ba_Na_Cable_Car-Da_Nang.html
+# https://www.tripadvisor.com/Attraction_Review-g298085-d8115500-Reviews-DHC_Marina-Da_Nang.html
+# https://www.tripadvisor.com/Attraction_Review-g298085-d456220-Reviews-Non_Nuoc_Beach-Da_Nang.html
+# https://www.tripadvisor.com/Attraction_Review-g298085-d6963730-Reviews-Hoa_Nghiem_Cave-Da_Nang.html
+# https://www.tripadvisor.com/Attraction_Review-g298085-d7043562-Reviews-Sun_Wheel-Da_Nang.html
+# https://www.tripadvisor.com/Attraction_Review-g298085-d8090733-Reviews-Han_River_Bridge-Da_Nang.html
