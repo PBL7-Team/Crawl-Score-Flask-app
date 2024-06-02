@@ -91,6 +91,111 @@
             "https://www.tripadvisor.com/Attraction_Review-g60933-d6749668-Reviews-Rail_Yards_Market-Albuquerque_New_Mexico.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d26027120-Reviews-Du_ng_Sinh_Co_Ba_Qu_n_1-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d26027120-Reviews-Du_ng_Sinh_Co_Ba_Qu_n_1-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.5,
+            "spa": 0.5,
+            "trải nghiệm": 0.9689255002886057,
+            "nhân viên": 0.8151613419086465,
+            "phương pháp": 0.9883658636827022,
+            "sáng vẫn hơi": 0.9890050566755235,
+            "kỹ thuật": 0.9940623665461317,
+            "không gian": 0.5145999435335398,
+            "lông vũ": 0.9711912330240011,
+            "giá cả": 0.8737691454589367,
+            "cửa hàng": 0.5,
+            "dịch vụ": 0.9424893595278263,
+            "ấn": 0.8737691454589367,
+            "đúng huyệt tay": 0.9778400571085513,
+            "giường rộng": 0.8955912319943309,
+            "nhân viên lễ tân": 0.9951581624336541
+        },
+        "dicts_adj": {
+            "chuyến đi": [],
+            "spa": [],
+            "trải nghiệm": [
+                "ổn",
+                "đầu tiên",
+                "gần",
+                "thực sự",
+                "bất ngờ"
+            ],
+            "nhân viên": [
+                "nhẹ nhàng",
+                "đúng",
+                "liên tục",
+                "thoải mái",
+                "xuất sắc",
+                "thân thiện",
+                "hợp lý",
+                "rẻ",
+                "hơn",
+                "nhiệt tình",
+                "nhẹ nhàng",
+                "ổn"
+            ],
+            "phương pháp": [
+                "thực sự"
+            ],
+            "sáng vẫn hơi": [
+                "thẳng",
+                "chính xác"
+            ],
+            "kỹ thuật": [
+                "xuất sắc",
+                "thân thiện"
+            ],
+            "không gian": [
+                "nhỏ"
+            ],
+            "lông vũ": [
+                "hợp lý",
+                "rẻ",
+                "hơn"
+            ],
+            "giá cả": [
+                "cao"
+            ],
+            "cửa hàng": [],
+            "dịch vụ": [
+                "cao"
+            ],
+            "ấn": [
+                "mạnh"
+            ],
+            "đúng huyệt tay": [
+                "mạnh"
+            ],
+            "giường rộng": [
+                "mới"
+            ],
+            "nhân viên lễ tân": [
+                "tận tình",
+                "cao",
+                "thực sự",
+                "thư giãn",
+                "mệt mỏi"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 2,
+            "spa": 2,
+            "trải nghiệm": 4,
+            "nhân viên": 6,
+            "phương pháp": 2,
+            "sáng vẫn hơi": 2,
+            "kỹ thuật": 2,
+            "không gian": 2,
+            "lông vũ": 2,
+            "giá cả": 2,
+            "cửa hàng": 2,
+            "dịch vụ": 2,
+            "ấn": 2,
+            "đúng huyệt tay": 2,
+            "giường rộng": 2,
+            "nhân viên lễ tân": 1
+        }
     }
 ]

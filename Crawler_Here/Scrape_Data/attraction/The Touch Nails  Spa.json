@@ -107,7 +107,245 @@
             "https://www.tripadvisor.com/Attraction_Review-g41183-d6902197-Reviews-Cascade_Lake-Hampstead_Maryland.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-or10-The_Touch_Nails_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-The_Touch_Nails_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-The_Touch_Nails_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bằng đá": 0.9951616966864094,
+            "khách sạn": 0.019456051755696535,
+            "dịch vụ mát-xa thật tuyệt": 0.8737691454589367,
+            "mát-xa 90 phút nhưng": 0.5,
+            "mát-xa rất": 0.9090461144223809,
+            "mát xa chân": 0.991198341245763,
+            "làm massage": 0.9922915925271809,
+            "phương pháp mát-xa chân khác": 0.5041767060756683,
+            "massage": 0.9943709846120328,
+            "túi ấm": 0.9942252158652991,
+            "sơn gel": -0.909272382967174,
+            "quầy": -0.9492858885787427,
+            "lễ tân": 0.5012907534837723,
+            "dịch vụ mát-xa chân": -0.3544732676818967,
+            "dịch vụ": 0.204733874136582,
+            "nhân viên tiếp tân": 0.5,
+            "nhân viên mát-xa mới bắt": 0.5023002028465271,
+            "chiếc": -0.280157978568847,
+            "máy làm móng gel": -0.45484461286105216,
+            "dụng cụ": -0.9705285236705095,
+            "khử trùng": -0.9723510665353388,
+            "lớp biểu bì": -0.9606996783986688,
+            "dịch vụ làm móng": 0.5,
+            "vết viêm": 0.5,
+            "lời": 0.10362806916236877,
+            "bào chữa": 0.004477223381400108,
+            "trải nghiệm": 0.5,
+            "spa": 0.8737691454589367,
+            "mát-xa toàn thân": 0.9844599470961839,
+            "chỉ có áp": 0.0682670883834362,
+            "nhân viên mát-xa ban": -0.747916966676712,
+            "mát-xa nên biết -": 0.6960200741887093,
+            "cột sống": -0.3115631565451622,
+            "nhân viên mát-xa": 0.492036834359169,
+            "và chúng tôi": 0.5090552382171154,
+            "chuyên viên trị liệu": 0.9954698865767568,
+            "buổi bấm huyệt": 0.9954152905847877,
+            "nhà trị liệu": -0.9328267064411193,
+            "dịch vụ mát-xa cho": 0.9955780483433045,
+            "dịch vụ mát-xa bạn": 0.9262578538618982,
+            "massage bằng đá nóng": 0.9953565399628133
+        },
+        "dicts_adj": {
+            "bằng đá": [
+                "nóng",
+                "tuyệt vời"
+            ],
+            "khách sạn": [
+                "trong",
+                "chân thành",
+                "hài lòng"
+            ],
+            "dịch vụ mát-xa thật tuyệt": [
+                "tuyệt vời"
+            ],
+            "mát-xa 90 phút nhưng": [],
+            "mát-xa rất": [
+                "nhiều",
+                "khác"
+            ],
+            "mát xa chân": [
+                "tốt"
+            ],
+            "làm massage": [
+                "chuyên nghiệp"
+            ],
+            "phương pháp mát-xa chân khác": [
+                "trái ngược"
+            ],
+            "massage": [
+                "thực sự",
+                "khác biệt",
+                "tốt",
+                "hơn",
+                "khác"
+            ],
+            "túi ấm": [
+                "đẹp"
+            ],
+            "sơn gel": [
+                "tự phát",
+                "cơ bản"
+            ],
+            "quầy": [
+                "phải"
+            ],
+            "lễ tân": [
+                "phải"
+            ],
+            "dịch vụ mát-xa chân": [
+                "phải"
+            ],
+            "dịch vụ": [
+                "cơ bản",
+                "giống",
+                "cao",
+                "liên tục",
+                "thích hợp",
+                "cao",
+                "kịp thời",
+                "nổi tiếng",
+                "tuyệt vời",
+                "tuyệt vời",
+                "chuyên nghiệp"
+            ],
+            "nhân viên tiếp tân": [],
+            "nhân viên mát-xa mới bắt": [],
+            "chiếc": [
+                "thực sự",
+                "thoải mái",
+                "khó chịu"
+            ],
+            "máy làm móng gel": [
+                "thực sự",
+                "thoải mái",
+                "khó chịu"
+            ],
+            "dụng cụ": [
+                "khó chịu"
+            ],
+            "khử trùng": [
+                "đặc biệt",
+                "gáy"
+            ],
+            "lớp biểu bì": [
+                "đỏ"
+            ],
+            "dịch vụ làm móng": [],
+            "vết viêm": [],
+            "lời": [
+                "hoàn toàn"
+            ],
+            "bào chữa": [
+                "hoàn toàn"
+            ],
+            "trải nghiệm": [],
+            "spa": [
+                "đẹp",
+                "hợp lý"
+            ],
+            "mát-xa toàn thân": [
+                "sâu",
+                "nhiều",
+                "suốt"
+            ],
+            "chỉ có áp": [
+                "nhẹ"
+            ],
+            "nhân viên mát-xa ban": [
+                "khó",
+                "hơn",
+                "tối thiểu"
+            ],
+            "mát-xa nên biết -": [
+                "cuối cùng"
+            ],
+            "cột sống": [
+                "ít",
+                "kỳ lạ",
+                "trực tiếp",
+                "suốt"
+            ],
+            "nhân viên mát-xa": [
+                "giỏi",
+                "hơn"
+            ],
+            "và chúng tôi": [
+                "sâu",
+                "cùng"
+            ],
+            "chuyên viên trị liệu": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "buổi bấm huyệt": [
+                "tuyệt vời",
+                "hơn"
+            ],
+            "nhà trị liệu": [
+                "xuất sắc"
+            ],
+            "dịch vụ mát-xa cho": [
+                "tốt",
+                "sạch sẽ",
+                "tốt"
+            ],
+            "dịch vụ mát-xa bạn": [],
+            "massage bằng đá nóng": [
+                "thân thiện",
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bằng đá": 1.5,
+            "khách sạn": 3.0,
+            "dịch vụ mát-xa thật tuyệt": 1.5,
+            "mát-xa 90 phút nhưng": 1.5,
+            "mát-xa rất": 1.5,
+            "mát xa chân": 1,
+            "làm massage": 1,
+            "phương pháp mát-xa chân khác": 1,
+            "massage": 1,
+            "túi ấm": 1,
+            "sơn gel": 1,
+            "quầy": 1,
+            "lễ tân": 1,
+            "dịch vụ mát-xa chân": 1,
+            "dịch vụ": 2.5,
+            "nhân viên tiếp tân": 1,
+            "nhân viên mát-xa mới bắt": 1,
+            "chiếc": 1,
+            "máy làm móng gel": 1,
+            "dụng cụ": 1,
+            "khử trùng": 1,
+            "lớp biểu bì": 1,
+            "dịch vụ làm móng": 1,
+            "vết viêm": 1,
+            "lời": 1,
+            "bào chữa": 1,
+            "trải nghiệm": 1,
+            "spa": 0.5,
+            "mát-xa toàn thân": 0.5,
+            "chỉ có áp": 0.5,
+            "nhân viên mát-xa ban": 0.5,
+            "mát-xa nên biết -": 0.5,
+            "cột sống": 0.5,
+            "nhân viên mát-xa": 0.5,
+            "và chúng tôi": 0.5,
+            "chuyên viên trị liệu": 0.5,
+            "buổi bấm huyệt": 0.5,
+            "nhà trị liệu": 0.5,
+            "dịch vụ mát-xa cho": 0.5,
+            "dịch vụ mát-xa bạn": 0.5,
+            "massage bằng đá nóng": 0.5
+        }
     },
     {
         "attraction_name": "The Touch Nails & Spa",
@@ -217,7 +455,141 @@
             "https://www.tripadvisor.com/Attraction_Review-g187497-d2690761-Reviews-Maremagnum-Barcelona_Catalonia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-or20-The_Touch_Nails_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-or10-The_Touch_Nails_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-or10-The_Touch_Nails_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyên gia": 0.9949383338680491,
+            "dịch vụ": 0.9643931157382516,
+            "khu phố cổ": 0.9858730838168412,
+            "khách sạn": 0.7022403252776712,
+            "mỗi ngày": 0.9917148525128141,
+            "chuyên gia trị liệu": 0.995053137827199,
+            "giá cả": 0.994853152311407,
+            "đồ ăn": 0.9245396580081433,
+            "trải nghiệm": 0.862979645607993,
+            "kỹ năng": 0.986850744986441,
+            "cửa hàng": 0.9928946755826473,
+            "chuyến bay": 0.9948338452959433,
+            "bầu không khí": 0.9894180840346962,
+            "loại massage": 0.768627529963851,
+            "máy": 0.9390573129057884,
+            "dịch vụ mát-xa này trong": 0.9949441288481466,
+            "hôm nay": 0.9955575710628182,
+            "môi trường": 0.9955010039848275,
+            "kỹ thuật viên": 0.5,
+            "cử chỉ": 0.9153641304001212,
+            "bác sĩ trị liệu": 0.5,
+            "đá nóng": -0.2339941564714536,
+            "nhân viên": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "chuyên gia": [
+                "chắc chắn",
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "hợp lý",
+                "tốt",
+                "tuyệt vời",
+                "nhẹ nhàng",
+                "lịch sự",
+                "tốt",
+                "tuyệt vời",
+                "tốt"
+            ],
+            "khu phố cổ": [
+                "gần"
+            ],
+            "khách sạn": [
+                "đầu tiên"
+            ],
+            "mỗi ngày": [],
+            "chuyên gia trị liệu": [
+                "khác",
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "nhẹ"
+            ],
+            "trải nghiệm": [
+                "tốt",
+                "tuyệt vời",
+                "đầu tiên"
+            ],
+            "kỹ năng": [
+                "tốt"
+            ],
+            "cửa hàng": [],
+            "chuyến bay": [
+                "chu đáo"
+            ],
+            "bầu không khí": [
+                "tuyệt vời"
+            ],
+            "loại massage": [
+                "tinh tế"
+            ],
+            "máy": [
+                "Thực sự",
+                "lạnh"
+            ],
+            "dịch vụ mát-xa này trong": [
+                "thoải mái"
+            ],
+            "hôm nay": [
+                "thoải mái"
+            ],
+            "môi trường": [
+                "cơ bản",
+                "tốt",
+                "đắt",
+                "nhiều",
+                "tốt"
+            ],
+            "kỹ thuật viên": [],
+            "cử chỉ": [
+                "tốt"
+            ],
+            "bác sĩ trị liệu": [],
+            "đá nóng": [
+                "tốt",
+                "đặc biệt"
+            ],
+            "nhân viên": [
+                "tốt",
+                "đặc biệt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyên gia": 0.5,
+            "dịch vụ": 3.0,
+            "khu phố cổ": 0.5,
+            "khách sạn": 1.0,
+            "mỗi ngày": 0.5,
+            "chuyên gia trị liệu": 0.5,
+            "giá cả": 0.5,
+            "đồ ăn": 0.5,
+            "trải nghiệm": 1.0,
+            "kỹ năng": 0.5,
+            "cửa hàng": 0.5,
+            "chuyến bay": 0.5,
+            "bầu không khí": 0.5,
+            "loại massage": 0.5,
+            "máy": 0.5,
+            "dịch vụ mát-xa này trong": 0.5,
+            "hôm nay": 0.5,
+            "môi trường": 0.5,
+            "kỹ thuật viên": 0.5,
+            "cử chỉ": 0.5,
+            "bác sĩ trị liệu": 0.5,
+            "đá nóng": 0.5,
+            "nhân viên": 0.5
+        }
     },
     {
         "attraction_name": "The Touch Nails & Spa",
@@ -328,7 +700,174 @@
             "https://www.tripadvisor.com/Attraction_Review-g60314-d207067-Reviews-Whitefish_Dunes_State_Park-Sturgeon_Bay_Wisconsin.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-or30-The_Touch_Nails_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-or20-The_Touch_Nails_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-or20-The_Touch_Nails_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "touch": 0.990282702317927,
+            "spa": 0.9890535533777438,
+            "khách sạn": 0.9107531830202789,
+            "phương pháp điều trị": 0.9345578227657825,
+            "thủy mát-xa": 0.8737691454589367,
+            "rất tuyệt": 0.9954576964955777,
+            "mát-xa": 0.7472042930312455,
+            "chân và nó": 0.9930993996676989,
+            "loại dầu - vợ chọn": 0.9898394031915814,
+            "phương pháp mát-xa bằng": 0.2449336824938655,
+            "trong đó": 0.3409843109548092,
+            "nhân viên": 0.7736809737980366,
+            "giá cả": 0.9821519339457154,
+            "món phở bò": 0.9795987848192453,
+            "trải nghiệm": 0.9954836606630124,
+            "dịch vụ": 0.8298879138116414,
+            "kỹ thuật viên": 0.5,
+            "phòng": 0.6732764933258295,
+            "miếng chà": 0.49176925607025623,
+            "nước ép dưa": -0.9627661919221282,
+            "liệu pháp chăm sóc da mặt": 0.5,
+            "dịch vụ the": 0.5,
+            "chuyến thăm": 0.519857220351696,
+            "phương pháp điều trị chân": -0.9578465239610523,
+            "tích tắc": -0.9087125724181533,
+            "mà chúng": 0.42688633501529694,
+            "cặp đôi có": 0.5412719063460827,
+            "mát-xa và cơ": 0.5,
+            "vật chất rất cao": 0.5,
+            "dịch vụ mát-xa trong khách": -0.6627225310076028,
+            "rất hợp": 0.99435386370169,
+            "sáng": 0.5
+        },
+        "dicts_adj": {
+            "touch": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "spa": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "khách sạn": [
+                "đầu tiên",
+                "thuận tiện",
+                "tốt",
+                "tuyệt vời",
+                "thuận tiện"
+            ],
+            "phương pháp điều trị": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "thủy mát-xa": [
+                "tuyệt vời"
+            ],
+            "rất tuyệt": [
+                "tuyệt vời"
+            ],
+            "mát-xa": [
+                "chuyên nghiệp",
+                "thực sự"
+            ],
+            "chân và nó": [
+                "chuyên nghiệp",
+                "thực sự"
+            ],
+            "loại dầu - vợ chọn": [
+                "nhiều"
+            ],
+            "phương pháp mát-xa bằng": [
+                "khắp",
+                "nóng"
+            ],
+            "trong đó": [
+                "khắp",
+                "nóng"
+            ],
+            "nhân viên": [
+                "Thực sự"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "món phở bò": [],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "bất kỳ",
+                "tuyệt vời",
+                "đặc biệt",
+                "hợp lý"
+            ],
+            "kỹ thuật viên": [],
+            "phòng": [
+                "kỳ lạ"
+            ],
+            "miếng chà": [],
+            "nước ép dưa": [
+                "xa"
+            ],
+            "liệu pháp chăm sóc da mặt": [],
+            "dịch vụ the": [],
+            "chuyến thăm": [
+                "khác"
+            ],
+            "phương pháp điều trị chân": [
+                "khác"
+            ],
+            "tích tắc": [],
+            "mà chúng": [
+                "cùng"
+            ],
+            "cặp đôi có": [
+                "cùng"
+            ],
+            "mát-xa và cơ": [],
+            "vật chất rất cao": [],
+            "dịch vụ mát-xa trong khách": [
+                "hợp lý",
+                "đặc biệt"
+            ],
+            "rất hợp": [
+                "hợp lý",
+                "đặc biệt"
+            ],
+            "sáng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "touch": 0.5,
+            "spa": 0.5,
+            "khách sạn": 2.5,
+            "phương pháp điều trị": 1.0,
+            "thủy mát-xa": 0.5,
+            "rất tuyệt": 0.5,
+            "mát-xa": 1.0,
+            "chân và nó": 0.5,
+            "loại dầu - vợ chọn": 0.5,
+            "phương pháp mát-xa bằng": 0.5,
+            "trong đó": 0.5,
+            "nhân viên": 0.5,
+            "giá cả": 0.5,
+            "món phở bò": 0.5,
+            "trải nghiệm": 0.5,
+            "dịch vụ": 1.5,
+            "kỹ thuật viên": 0.5,
+            "phòng": 0.5,
+            "miếng chà": 0.5,
+            "nước ép dưa": 0.5,
+            "liệu pháp chăm sóc da mặt": 0.5,
+            "dịch vụ the": 0.5,
+            "chuyến thăm": 0.5,
+            "phương pháp điều trị chân": 0.5,
+            "tích tắc": 0.5,
+            "mà chúng": 0.5,
+            "cặp đôi có": 0.5,
+            "mát-xa và cơ": 0.5,
+            "vật chất rất cao": 0.5,
+            "dịch vụ mát-xa trong khách": 0.5,
+            "rất hợp": 0.5,
+            "sáng": 0.5
+        }
     },
     {
         "attraction_name": "The Touch Nails & Spa",
@@ -439,7 +978,137 @@
             "https://www.tripadvisor.com/Attraction_Review-g40658-d103712-Reviews-Moosehead_Lake-Greenville_Maine.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-or40-The_Touch_Nails_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-or30-The_Touch_Nails_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-or30-The_Touch_Nails_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "touch": 0.990282702317927,
+            "spa": 0.9890535533777438,
+            "nhân viên tiếp tân": 0.99554056712077,
+            "brilliant": -0.903978624381125,
+            "buổi mát xa": 0.9955064648917565,
+            "nhà": 0.9951037219725549,
+            "trị liệu mát xa": 0.9953337163315155,
+            "giá cả": 0.9930280394037254,
+            "dịch vụ": 0.9953232278542904,
+            "đề y tế": -0.17809916846454144,
+            "hà nội": 0.8273297008126974,
+            "nhà trị liệu": 0.994351725326851,
+            "massage hương thơm": 0.9955000273184851,
+            "nhân viên": 0.9947356088669039,
+            "khách sạn": -0.6934704147279263,
+            "và tẩy": 0.9877546762581915,
+            "chết toàn": 0.9903700465802103,
+            "vài ngày trước": 0.8923799246549606,
+            "tế bào": -0.9559613885357976,
+            "mật ong chanh": 0.35084182024002075,
+            "mát-xa và": 0.9722499391064048,
+            "này": 0.5,
+            "massage chân": 0.9929673334117979,
+            "chuyến đi": 0.9026010017842054
+        },
+        "dicts_adj": {
+            "touch": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "spa": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "nhân viên tiếp tân": [
+                "tốt bụng",
+                "hữu ích"
+            ],
+            "brilliant": [
+                "tình cờ"
+            ],
+            "buổi mát xa": [
+                "tuyệt vời",
+                "thân thiện",
+                "niềm nở"
+            ],
+            "nhà": [
+                "giỏi",
+                "tuyệt vời"
+            ],
+            "trị liệu mát xa": [
+                "giỏi",
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "đề y tế": [
+                "bất kỳ",
+                "yếu"
+            ],
+            "hà nội": [],
+            "nhà trị liệu": [],
+            "massage hương thơm": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "thoải mái",
+                "hữu ích"
+            ],
+            "khách sạn": [],
+            "và tẩy": [
+                "nhẹ nhàng"
+            ],
+            "chết toàn": [
+                "nhẹ nhàng"
+            ],
+            "vài ngày trước": [
+                "nhẹ"
+            ],
+            "tế bào": [
+                "dễ chịu"
+            ],
+            "mật ong chanh": [
+                "dễ chịu"
+            ],
+            "mát-xa và": [
+                "thực sự"
+            ],
+            "này": [],
+            "massage chân": [
+                "tốt"
+            ],
+            "chuyến đi": [
+                "dài"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "touch": 0.5,
+            "spa": 0.5,
+            "nhân viên tiếp tân": 1.0,
+            "brilliant": 0.5,
+            "buổi mát xa": 0.5,
+            "nhà": 0.5,
+            "trị liệu mát xa": 0.5,
+            "giá cả": 0.5,
+            "dịch vụ": 1.5,
+            "đề y tế": 0.5,
+            "hà nội": 0.5,
+            "nhà trị liệu": 0.5,
+            "massage hương thơm": 0.5,
+            "nhân viên": 1.0,
+            "khách sạn": 0.5,
+            "và tẩy": 0.5,
+            "chết toàn": 0.5,
+            "vài ngày trước": 0.5,
+            "tế bào": 0.5,
+            "mật ong chanh": 0.5,
+            "mát-xa và": 0.5,
+            "này": 0.5,
+            "massage chân": 0.5,
+            "chuyến đi": 0.5
+        }
     },
     {
         "attraction_name": "The Touch Nails & Spa",
@@ -550,7 +1219,123 @@
             "https://www.tripadvisor.com/Attraction_Review-g31259-d1657283-Reviews-Historic_Route_66_Museum-Kingman_Arizona.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-or50-The_Touch_Nails_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-or40-The_Touch_Nails_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-or40-The_Touch_Nails_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tế bào": 0.3192994110286236,
+            "giá cả": 0.980526060302509,
+            "nhà trị liệu": 0.9340017464128323,
+            "buổi mát-xa của tôi": 0.9944844499696046,
+            "dịch vụ": 0.9952624323195778,
+            "môi trường": 0.9951995209266897,
+            "lễ tân": 0.9950591304223053,
+            "trình massage": 0.7537826057523489,
+            "chuyên gia trị liệu": 0.9940591570921242,
+            "trải nghiệm": 0.9828430190682411,
+            "món khoai tây chiên": 0.9821801129728556,
+            "môi": 0.8737691454589367,
+            "trường spa": 0.9951174257439561,
+            "nhân viên": 0.7477194491948467,
+            "mô sâu và": 0.5,
+            "cho riêng": 0.5,
+            "cá nhân tuyệt vời": 0.5,
+            "liệu pháp": 0.9954649191349745,
+            "tấm biển": 0.0832484271377325,
+            "liệu pháp mát-xa bằng dầu": 0.9954615539172664,
+            "mai có kỹ thuật": 0.994926599028986,
+            "tẩy tế bào chết toàn": 0.973925891565159,
+            "thực đơn tẩy tế": -0.9736066022887826
+        },
+        "dicts_adj": {
+            "tế bào": [],
+            "giá cả": [
+                "hợp lý",
+                "hợp lý"
+            ],
+            "nhà trị liệu": [
+                "khéo léo",
+                "chuyên nghiệp",
+                "tuyệt",
+                "massage",
+                "tốt"
+            ],
+            "buổi mát-xa của tôi": [
+                "thoải mái"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "khuyến khích"
+            ],
+            "môi trường": [
+                "tốt",
+                "khuyến khích"
+            ],
+            "lễ tân": [
+                "tốt bụng"
+            ],
+            "trình massage": [
+                "riêng"
+            ],
+            "chuyên gia trị liệu": [],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "nóng"
+            ],
+            "món khoai tây chiên": [],
+            "môi": [
+                "đẹp"
+            ],
+            "trường spa": [
+                "đẹp"
+            ],
+            "nhân viên": [
+                "tuyệt"
+            ],
+            "mô sâu và": [],
+            "cho riêng": [],
+            "cá nhân tuyệt vời": [],
+            "liệu pháp": [
+                "tuyệt vời"
+            ],
+            "tấm biển": [],
+            "liệu pháp mát-xa bằng dầu": [
+                "tuyệt vời"
+            ],
+            "mai có kỹ thuật": [
+                "tuyệt vời"
+            ],
+            "tẩy tế bào chết toàn": [
+                "thư giãn",
+                "tốt"
+            ],
+            "thực đơn tẩy tế": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tế bào": 0.5,
+            "giá cả": 1.0,
+            "nhà trị liệu": 2.0,
+            "buổi mát-xa của tôi": 0.5,
+            "dịch vụ": 0.5,
+            "môi trường": 0.5,
+            "lễ tân": 0.5,
+            "trình massage": 0.5,
+            "chuyên gia trị liệu": 0.5,
+            "trải nghiệm": 0.5,
+            "món khoai tây chiên": 0.5,
+            "môi": 0.5,
+            "trường spa": 0.5,
+            "nhân viên": 1.0,
+            "mô sâu và": 0.5,
+            "cho riêng": 0.5,
+            "cá nhân tuyệt vời": 0.5,
+            "liệu pháp": 0.5,
+            "tấm biển": 0.5,
+            "liệu pháp mát-xa bằng dầu": 0.5,
+            "mai có kỹ thuật": 0.5,
+            "tẩy tế bào chết toàn": 0.5,
+            "thực đơn tẩy tế": 0.5
+        }
     },
     {
         "attraction_name": "The Touch Nails & Spa",
@@ -661,7 +1446,87 @@
             "https://www.tripadvisor.com/Attraction_Review-g34438-d2657212-Reviews-Club_50-Miami_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-or60-The_Touch_Nails_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-or50-The_Touch_Nails_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-or50-The_Touch_Nails_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhà trị liệu": 0.7472165842191316,
+            "mát-xa cho tôi": 0.5,
+            "bầu không khí": 0.9870406691916287,
+            "trong thời": -0.7817084500566125,
+            "dịch vụ": 0.9671029053977691,
+            "trái": 0.9573795739561319,
+            "trải nghiệm": 0.9954747076844797,
+            "chăm sóc da mặt": 0.9943015674361959,
+            "bằng dầu": 0.9955497964983806,
+            "5 sao": 0.5,
+            "trà ngon": 0.9953247425728478,
+            "đồ ăn": 0.6533634588122368,
+            "nhân viên": 0.9930469136743341,
+            "nơi sạch": 0.9955130707239732
+        },
+        "dicts_adj": {
+            "nhà trị liệu": [
+                "tuyệt vời"
+            ],
+            "mát-xa cho tôi": [],
+            "bầu không khí": [
+                "sạch sẽ"
+            ],
+            "trong thời": [
+                "ngắn"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "thư giãn",
+                "tuyệt vời",
+                "xuất sắc",
+                "tuyệt vời"
+            ],
+            "trái": [],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "chăm sóc da mặt": [
+                "Chắc chắn"
+            ],
+            "bằng dầu": [
+                "tuyệt vời"
+            ],
+            "5 sao": [],
+            "trà ngon": [
+                "nhẹ"
+            ],
+            "đồ ăn": [
+                "nhẹ"
+            ],
+            "nhân viên": [
+                "tử tế",
+                "tử tế",
+                "chuyên nghiệp",
+                "tuyệt vời"
+            ],
+            "nơi sạch": [
+                "sạch sẽ",
+                "thân thiện"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhà trị liệu": 1.0,
+            "mát-xa cho tôi": 0.5,
+            "bầu không khí": 0.5,
+            "trong thời": 0.5,
+            "dịch vụ": 2.5,
+            "trái": 0.5,
+            "trải nghiệm": 0.5,
+            "chăm sóc da mặt": 0.5,
+            "bằng dầu": 0.5,
+            "5 sao": 0.5,
+            "trà ngon": 0.5,
+            "đồ ăn": 0.5,
+            "nhân viên": 1.0,
+            "nơi sạch": 0.5
+        }
     },
     {
         "attraction_name": "The Touch Nails & Spa",
@@ -772,7 +1637,100 @@
             "https://www.tripadvisor.com/Attraction_Review-g60542-d2540111-Reviews-Wind_River_Casino-Riverton_Wyoming.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-or70-The_Touch_Nails_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-or60-The_Touch_Nails_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-or60-The_Touch_Nails_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.7476450655958615,
+            "nhân viên": 0.9936848817887949,
+            "massage": 0.5786322746425867,
+            "không khí": -0.9724778798408806,
+            "môi trường": 0.6868845727294683,
+            "dịch vụ mát-xa tốt ở": 0.9899030227679759,
+            "trải nghiệm": 0.9954123735854713,
+            "toàn thân": 0.5,
+            "bác sĩ": 0.5,
+            "trị liệu thảo dược": 0.5,
+            "cổ": 0.9590861550532281,
+            "việt nam": 0.9954657331691124,
+            "dịch vụ mát-xa nên": 0.9954853867529891,
+            "vào ngày": 0.9557352620176971,
+            "khuôn mặt": 0.9955396463046782,
+            "nhà trị liệu mát-xa xuất sắc": 0.9953247992089018,
+            "massage đá nóng": 0.9936268795281649
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tốt"
+            ],
+            "nhân viên": [
+                "tốt bụng",
+                "chuyên nghiệp",
+                "niềm nở",
+                "tốt đẹp"
+            ],
+            "massage": [
+                "nóng",
+                "sạch sẽ"
+            ],
+            "không khí": [
+                "đẹp"
+            ],
+            "môi trường": [
+                "tốt đẹp"
+            ],
+            "dịch vụ mát-xa tốt ở": [
+                "Chắc chắn"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "hoàn toàn",
+                "sảng khoái"
+            ],
+            "toàn thân": [],
+            "bác sĩ": [],
+            "trị liệu thảo dược": [],
+            "cổ": [
+                "nhanh"
+            ],
+            "việt nam": [
+                "tuyệt vời"
+            ],
+            "dịch vụ mát-xa nên": [
+                "chuyên nghiệp",
+                "sạch sẽ"
+            ],
+            "vào ngày": [
+                "đầu tiên"
+            ],
+            "khuôn mặt": [
+                "tuyệt vời"
+            ],
+            "nhà trị liệu mát-xa xuất sắc": [],
+            "massage đá nóng": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 1.0,
+            "nhân viên": 2.0,
+            "massage": 0.5,
+            "không khí": 0.5,
+            "môi trường": 1.0,
+            "dịch vụ mát-xa tốt ở": 0.5,
+            "trải nghiệm": 1.5,
+            "toàn thân": 0.5,
+            "bác sĩ": 0.5,
+            "trị liệu thảo dược": 0.5,
+            "cổ": 0.5,
+            "việt nam": 0.5,
+            "dịch vụ mát-xa nên": 0.5,
+            "vào ngày": 0.5,
+            "khuôn mặt": 0.5,
+            "nhà trị liệu mát-xa xuất sắc": 0.5,
+            "massage đá nóng": 0.5
+        }
     },
     {
         "attraction_name": "The Touch Nails & Spa",
@@ -883,6 +1841,154 @@
             "https://www.tripadvisor.com/Attraction_Review-g47621-d4040397-Reviews-Rolling_Hills_Asylum-East_Bethany_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-or80-The_Touch_Nails_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-or70-The_Touch_Nails_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13354761-Reviews-or70-The_Touch_Nails_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.8299226028611884,
+            "dịch vụ": -0.23509113065665588,
+            "buổi mát xa bấm": 0.9953327139955945,
+            "bác sĩ trị liệu": 0.9930145619437099,
+            "đá nóng": 0.5,
+            "giấc ngủ": 0.9923601519549266,
+            "chiếc": 0.5,
+            "khăn": 0.5,
+            "trải nghiệm": 0.01477688766317442,
+            "học viên": -0.974600030342117,
+            "khẩu trang nóng": 0.5,
+            "viên đá nóng": 0.5,
+            "mát-xa cho tôi": -0.8503406131640077,
+            "cốc bia": 0.47924209386110306,
+            "buổi mát-xa chân đáng": 0.995576401182916,
+            "rất đáng": 0.9956174825492781,
+            "nhà trị liệu": 0.9321895755711012,
+            "mát-xa tuyệt vời": 0.9952962804818526,
+            "áp lực": 0.995575618406292,
+            "hương thơm": 0.9955724886967801,
+            "môi trường": 0.995246460812632,
+            "kỹ thuật": 0.995111825352069,
+            "mạnh dầu": 0.9953897123574279,
+            "chuyến thăm": 0.8278284376719967,
+            "khách sạn": 0.2421681545674801,
+            "buổi mát xa trị liệu": 0.9955299291177653,
+            "đồ ăn": 0.9919991452479735
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "thực sự",
+                "đặc biệt",
+                "thân thiện"
+            ],
+            "dịch vụ": [
+                "cao"
+            ],
+            "buổi mát xa bấm": [],
+            "bác sĩ trị liệu": [],
+            "đá nóng": [],
+            "giấc ngủ": [
+                "thoải mái"
+            ],
+            "chiếc": [],
+            "khăn": [],
+            "trải nghiệm": [
+                "thú vị",
+                "xuất sắc",
+                "khác"
+            ],
+            "học viên": [
+                "đặc biệt"
+            ],
+            "khẩu trang nóng": [],
+            "viên đá nóng": [],
+            "mát-xa cho tôi": [
+                "khoảng"
+            ],
+            "cốc bia": [],
+            "buổi mát-xa chân đáng": [
+                "thơm",
+                "ngon"
+            ],
+            "rất đáng": [
+                "thơm",
+                "ngon"
+            ],
+            "nhà trị liệu": [
+                "đặc biệt",
+                "mệt mỏi",
+                "thân thiện"
+            ],
+            "mát-xa tuyệt vời": [
+                "đặc biệt",
+                "mệt mỏi"
+            ],
+            "áp lực": [
+                "tốt",
+                "thư giãn"
+            ],
+            "hương thơm": [
+                "tốt"
+            ],
+            "môi trường": [
+                "đẹp",
+                "tốt",
+                "đặc biệt",
+                "ân cần",
+                "suốt",
+                "chắc chắn"
+            ],
+            "kỹ thuật": [
+                "tốt"
+            ],
+            "mạnh dầu": [
+                "tốt",
+                "đặc biệt",
+                "ân cần",
+                "suốt",
+                "chắc chắn"
+            ],
+            "chuyến thăm": [
+                "thú vị",
+                "hơn"
+            ],
+            "khách sạn": [
+                "thú vị",
+                "hơn"
+            ],
+            "buổi mát xa trị liệu": [
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "nhẹ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 1.5,
+            "dịch vụ": 1.0,
+            "buổi mát xa bấm": 0.5,
+            "bác sĩ trị liệu": 0.5,
+            "đá nóng": 0.5,
+            "giấc ngủ": 0.5,
+            "chiếc": 0.5,
+            "khăn": 0.5,
+            "trải nghiệm": 1.0,
+            "học viên": 0.5,
+            "khẩu trang nóng": 0.5,
+            "viên đá nóng": 0.5,
+            "mát-xa cho tôi": 0.5,
+            "cốc bia": 0.5,
+            "buổi mát-xa chân đáng": 0.5,
+            "rất đáng": 0.5,
+            "nhà trị liệu": 1.0,
+            "mát-xa tuyệt vời": 0.5,
+            "áp lực": 0.5,
+            "hương thơm": 0.5,
+            "môi trường": 1.0,
+            "kỹ thuật": 0.5,
+            "mạnh dầu": 0.5,
+            "chuyến thăm": 0.5,
+            "khách sạn": 0.5,
+            "buổi mát xa trị liệu": 0.5,
+            "đồ ăn": 0.5
+        }
     }
 ]

@@ -86,6 +86,39 @@
             "https://www.tripadvisor.com/Attraction_Review-g60713-d105363-Reviews-Twin_Peaks-San_Francisco_California.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d23644743-Reviews-The_Muse_Art_Space-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d23644743-Reviews-The_Muse_Art_Space-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tranh lụa": 0.5,
+            "tranh sơn": 0.5,
+            "đặc sản": 0.5,
+            "nghệ thuật": 0.9949960814556107,
+            "phòng trưng bày": 0.8737691454589367,
+            "triển lãm": 0.8992920620366931,
+            "quản trị viên": 0.5
+        },
+        "dicts_adj": {
+            "tranh lụa": [],
+            "tranh sơn": [],
+            "đặc sản": [],
+            "nghệ thuật": [],
+            "phòng trưng bày": [
+                "đẹp"
+            ],
+            "triển lãm": [
+                "cẩn thận"
+            ],
+            "quản trị viên": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tranh lụa": 1,
+            "tranh sơn": 1,
+            "đặc sản": 1,
+            "nghệ thuật": 1,
+            "phòng trưng bày": 1,
+            "triển lãm": 1,
+            "quản trị viên": 1
+        }
     }
 ]

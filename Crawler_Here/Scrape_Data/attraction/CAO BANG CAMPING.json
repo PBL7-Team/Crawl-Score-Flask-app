@@ -63,6 +63,87 @@
             "https://www.tripadvisor.com/Attraction_Review-g612416-d674489-Reviews-Iles_Lavezzi-Bonifacio_Corse_du_Sud_Corsica.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1519989-d24176172-Reviews-CAO_BANG_CAMPING-Cao_Bang_Cao_Bang_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1519989-d24176172-Reviews-CAO_BANG_CAMPING-Cao_Bang_Cao_Bang_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ty du lịch": 0.994880469283089,
+            "dịch vụ": 0.9298676277038692,
+            "đồ ăn": 0.9955878636683337,
+            "công": 0.9933311060303822,
+            "trải nghiệm": 0.9813398192054592,
+            "bữa ăn giấc": 0.995081276865676,
+            "trải nhiệm": 0.9945281434920616,
+            "đồ ăn thì sạch": 0.9955333623802289,
+            "chuyến đi": 0.9954480105661787,
+            "núi mắt": 0.8737691454589367,
+            "dịch vụ cắm trại": 0.9951215639594011
+        },
+        "dicts_adj": {
+            "ty du lịch": [],
+            "dịch vụ": [
+                "đa dạng",
+                "nhiều",
+                "tốt",
+                "hơn",
+                "chuyên nghiệp",
+                "tận tình",
+                "đông",
+                "tốt",
+                "hơn",
+                "nhiều"
+            ],
+            "đồ ăn": [
+                "ngon",
+                "hợp vị"
+            ],
+            "công": [
+                "nhiều",
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tận tình",
+                "trẻ",
+                "nhiều",
+                "thực sự"
+            ],
+            "bữa ăn giấc": [],
+            "trải nhiệm": [
+                "tốt",
+                "hơn",
+                "tuyệt vời"
+            ],
+            "đồ ăn thì sạch": [
+                "sạch sẽ",
+                "ngon",
+                "hấp dẫn"
+            ],
+            "chuyến đi": [
+                "nhiều",
+                "nhiều",
+                "nhiều"
+            ],
+            "núi mắt": [
+                "thực sự"
+            ],
+            "dịch vụ cắm trại": [
+                "nhiều",
+                "vinh dự"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ty du lịch": 1,
+            "dịch vụ": 3,
+            "đồ ăn": 1,
+            "công": 1,
+            "trải nghiệm": 2,
+            "bữa ăn giấc": 1,
+            "trải nhiệm": 1,
+            "đồ ăn thì sạch": 1,
+            "chuyến đi": 1,
+            "núi mắt": 1,
+            "dịch vụ cắm trại": 1
+        }
     }
 ]

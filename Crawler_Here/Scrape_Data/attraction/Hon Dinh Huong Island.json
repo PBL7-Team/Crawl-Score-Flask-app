@@ -84,6 +84,30 @@
             "https://www.tripadvisor.com/Attraction_Review-g41671-d15547310-Reviews-Chevalier_Theatre-Medford_Massachusetts.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d25279692-Reviews-Hon_Dinh_Huong_Island-Halong_Bay_Quang_Ninh_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d25279692-Reviews-Hon_Dinh_Huong_Island-Halong_Bay_Quang_Ninh_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hòn đảo": 0.724686277564615,
+            "tạo hình thiên nhiên kỳ thú": 0.9875880409963429,
+            "thuyền": 0.50703414529562
+        },
+        "dicts_adj": {
+            "hòn đảo": [
+                "ấn tượng",
+                "hơn"
+            ],
+            "tạo hình thiên nhiên kỳ thú": [
+                "khác"
+            ],
+            "thuyền": [
+                "may"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hòn đảo": 1,
+            "tạo hình thiên nhiên kỳ thú": 0.5,
+            "thuyền": 0.5
+        }
     }
 ]
