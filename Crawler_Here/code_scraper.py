@@ -21,7 +21,7 @@ def crawl_1_url(url):
         'source': 'universal',
         'url': url,
         'user_agent_type': 'desktop',
-        'geo_location': 'Viet Nam'
+        'geo_location': 'United States'
     }
 
     # Get response.
@@ -242,6 +242,9 @@ def crawl_all():
 def stop_crawl():
     global stop_flag
     stop_flag.set()
+
+# crawl_1_url(r"https://www.tripadvisor.com.vn/Attraction_Review-g298085-d5531576-Reviews-Lady_Buddha-Da_Nang.html")
+# read_html_attraction()
 
 # crawl_all()
 
