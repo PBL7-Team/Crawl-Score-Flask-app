@@ -211,6 +211,7 @@ def save_sentiment_csv(json_path):
         data = json.load(file)
 
     location_values = data[0]['location']
+    review_amount = data[0]["review_amount"]
 
     # Lấy tên tệp JSON mà không có phần mở rộng
     attraction_name = os.path.splitext(os.path.basename(json_path))[0]
@@ -257,8 +258,18 @@ def save_sentiment_csv(json_path):
             writer.writerow([attraction_name, entity, sentiment_score, list_adj, factor])
 
         for location in location_values:
+            if location == "Việt Nam":
+                if review_amount <= 50:
+                    writer.writerow([attraction_name, location, 1, "", 2])
+                elif review_amount > 50 and review_amount <= 200:
+                    writer.writerow([attraction_name, location, 1.5, "", 2])
+                elif review_amount > 200 and review_amount < 500:
+                    writer.writerow([attraction_name, location, 1.75, "", 2])
+                else:
+                    writer.writerow([attraction_name, location, 2, "", 2])
             # Thêm hàng dữ liệu mới
-            writer.writerow([attraction_name, location, 2, "", 2])
+            else:
+                writer.writerow([attraction_name, location, 2, "", 2])
 
 def rename_columns_if_needed(file_path):
     # Đọc file CSV vào DataFrame
