@@ -61,6 +61,7 @@ def start_crawl_mode_2_thread():
 def start_sentiment_scoring_thread():
     with app.app_context():
         sentiment_analysis_all()
+        fully_updated_sentiment_csv()
 
 def update_sentiment_csv_thread():
     with app.app_context():
