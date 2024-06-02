@@ -133,7 +133,217 @@
             "https://www.tripadvisor.com/Attraction_Review-g55892-d117407-Reviews-On_the_Square-Georgetown_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-or10-Tuyen_Tailor-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-Tuyen_Tailor-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-Tuyen_Tailor-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "áo sơ mi ngắn": -0.9734101702924818,
+            "áo sơ mi": 0.5112395172473043,
+            "đo độ": 0.5147743187844753,
+            "dịch vụ": 0.867230710813601,
+            "áo khoác": 0.9952845067018643,
+            "nhà sản": 0.9561886442825198,
+            "thợ may": 0.630108139883738,
+            "bộ vest": 0.677255058362789,
+            "chất liệu vải": 0.9924757303670049,
+            "trang phục": 0.995354748214595,
+            "áo váy": 0.8737691454589367,
+            "cửa hàng": 0.8145583255682141,
+            "vị trí": 0.9941386762366164,
+            "cung điện": 0.9941289433627389,
+            "giá cả": 0.9809917271544691,
+            "áo blazer": 0.5,
+            "chuyến bay": 0.5774017446674407,
+            "hành trình": 0.6521112136542797,
+            "người chủ": 0.9683944855351001,
+            "vật liệu": 0.7883977293968201,
+            "trải nghiệm": 0.8737691454589367,
+            "bộ đồ": 0.7502447432489134,
+            "găng tay": 0.7452232468058355,
+            "cảm": 0.19994006361230277,
+            "tay nghề": 0.6297797253355384,
+            "quần áo": 0.5,
+            "nguyên liệu": 0.5
+        },
+        "dicts_adj": {
+            "áo sơ mi ngắn": [
+                "kém",
+                "thoải mái",
+                "hơn",
+                "kém",
+                "thoải mái",
+                "hơn"
+            ],
+            "áo sơ mi": [
+                "vừa vặn",
+                "sẵn sàng",
+                "Hơn",
+                "Hơn",
+                "vừa vặn",
+                "sẵn sàng"
+            ],
+            "đo độ": [
+                "vừa vặn",
+                "vừa vặn"
+            ],
+            "dịch vụ": [
+                "đặc biệt",
+                "tuyệt vời",
+                "xuất sắc",
+                "nhiều",
+                "khác",
+                "nhanh chóng",
+                "xuất sắc",
+                "nhiều",
+                "khác",
+                "nhanh",
+                "đặc biệt",
+                "tuyệt vời"
+            ],
+            "áo khoác": [
+                "thực sự",
+                "tuyệt vời",
+                "tuyệt vời",
+                "thực sự",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "nhà sản": [],
+            "thợ may": [
+                "giỏi",
+                "nhất",
+                "giỏi",
+                "nhất",
+                "giỏi",
+                "nhất",
+                "thực sự",
+                "hiếm",
+                "sẵn",
+                "nhiều",
+                "hiếm",
+                "sẵn",
+                "nhiều",
+                "giỏi",
+                "nhất",
+                "giỏi",
+                "nhất",
+                "giỏi",
+                "nhất",
+                "thực sự"
+            ],
+            "bộ vest": [
+                "riêng",
+                "phong cách",
+                "thông minh",
+                "Nhiều",
+                "riêng",
+                "phong cách",
+                "thông minh",
+                "Nhiều"
+            ],
+            "chất liệu vải": [
+                "tuyệt vời",
+                "hợp lý",
+                "tuyệt vời",
+                "hợp lý"
+            ],
+            "trang phục": [
+                "cùng",
+                "cùng"
+            ],
+            "áo váy": [
+                "nhiều",
+                "nhiều"
+            ],
+            "cửa hàng": [
+                "tốt",
+                "gần",
+                "tốt",
+                "gần"
+            ],
+            "vị trí": [
+                "tốt",
+                "gần",
+                "tốt",
+                "gần"
+            ],
+            "cung điện": [
+                "tốt",
+                "tốt"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "hợp lý",
+                "hợp lý"
+            ],
+            "áo blazer": [],
+            "chuyến bay": [
+                "muộn",
+                "sớm",
+                "muộn",
+                "sớm"
+            ],
+            "hành trình": [
+                "căng thẳng",
+                "bận rộn"
+            ],
+            "người chủ": [
+                "dễ tính"
+            ],
+            "vật liệu": [
+                "hợp lý"
+            ],
+            "trải nghiệm": [
+                "đầu tiên"
+            ],
+            "bộ đồ": [
+                "đầu tiên",
+                "hào hứng"
+            ],
+            "găng tay": [
+                "dễ chịu",
+                "tuyệt"
+            ],
+            "cảm": [
+                "dễ chịu",
+                "tuyệt"
+            ],
+            "tay nghề": [
+                "đơn giản",
+                "cao"
+            ],
+            "quần áo": [],
+            "nguyên liệu": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "áo sơ mi ngắn": 2.5,
+            "áo sơ mi": 6.0,
+            "đo độ": 2.5,
+            "dịch vụ": 6.0,
+            "áo khoác": 2.5,
+            "nhà sản": 2.5,
+            "thợ may": 7.0,
+            "bộ vest": 7.0,
+            "chất liệu vải": 3.5,
+            "trang phục": 3.5,
+            "áo váy": 3.5,
+            "cửa hàng": 3.5,
+            "vị trí": 3.5,
+            "cung điện": 3.5,
+            "giá cả": 5.0,
+            "áo blazer": 3.5,
+            "chuyến bay": 3.5,
+            "hành trình": 2,
+            "người chủ": 1.5,
+            "vật liệu": 1.5,
+            "trải nghiệm": 1.5,
+            "bộ đồ": 1.5,
+            "găng tay": 1.5,
+            "cảm": 1.5,
+            "tay nghề": 1.5,
+            "quần áo": 1.5,
+            "nguyên liệu": 1.5
+        }
     },
     {
         "attraction_name": "Tuyen Tailor",
@@ -254,7 +464,111 @@
             "https://www.tripadvisor.com/Attraction_Review-g187497-d25451235-Reviews-MUHBA_Turo_de_la_Rovira-Barcelona_Catalonia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-or20-Tuyen_Tailor-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-or10-Tuyen_Tailor-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-or10-Tuyen_Tailor-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thợ may": 0.819342425733339,
+            "bộ vest": 0.9946642705326667,
+            "áo sơ mi": 0.337168816360645,
+            "trang phục": 0.5815425552427769,
+            "trang phục công sở váy áo": 0.8737691454589367,
+            "váy dài": 0.5,
+            "cửa hàng": 0.7506849362204472,
+            "trải nghiệm thử": 0.995429876842536,
+            "trải nghiệm": 0.9943938070791773,
+            "dịch vụ": 0.9876065492862836,
+            "giá cả": 0.9953225745121017,
+            "loại vải": 0.9553347680775914,
+            "khí hậu nhiệt đới": 0.5,
+            "bộ đồ": 0.9863347292412072,
+            "quần áo": 0.9955713145318441
+        },
+        "dicts_adj": {
+            "thợ may": [
+                "giỏi",
+                "nhất",
+                "giỏi",
+                "nhất",
+                "thực sự"
+            ],
+            "bộ vest": [
+                "phong cách",
+                "thông minh",
+                "tuyệt vời",
+                "hợp lý",
+                "phong cách",
+                "thông minh",
+                "tuyệt vời",
+                "hợp lý"
+            ],
+            "áo sơ mi": [
+                "Hơn"
+            ],
+            "trang phục": [
+                "cùng"
+            ],
+            "trang phục công sở váy áo": [
+                "nhiều"
+            ],
+            "váy dài": [],
+            "cửa hàng": [
+                "sai",
+                "tốt",
+                "tốt",
+                "tốt"
+            ],
+            "trải nghiệm thử": [
+                "đúng",
+                "đúng",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "đầu tiên",
+                "hơn",
+                "hài lòng",
+                "tốt"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "đúng",
+                "tốt",
+                "tốt",
+                "tốt"
+            ],
+            "giá cả": [
+                "nhanh chóng",
+                "hữu ích"
+            ],
+            "loại vải": [
+                "mềm mại",
+                "thoải mái"
+            ],
+            "khí hậu nhiệt đới": [],
+            "bộ đồ": [
+                "sẵn sàng"
+            ],
+            "quần áo": [
+                "đáng giá"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thợ may": 1.5,
+            "bộ vest": 1.5,
+            "áo sơ mi": 3.5,
+            "trang phục": 1.5,
+            "trang phục công sở váy áo": 1.5,
+            "váy dài": 1.5,
+            "cửa hàng": 3,
+            "trải nghiệm thử": 2,
+            "trải nghiệm": 2,
+            "dịch vụ": 3,
+            "giá cả": 1,
+            "loại vải": 1,
+            "khí hậu nhiệt đới": 1,
+            "bộ đồ": 1,
+            "quần áo": 1
+        }
     },
     {
         "attraction_name": "Tuyen Tailor",
@@ -376,7 +690,149 @@
             "https://www.tripadvisor.com/Attraction_Review-g44929-d15636571-Reviews-Wild_Animal_Adventure-Stanton_Missouri.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-or30-Tuyen_Tailor-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-or20-Tuyen_Tailor-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-or20-Tuyen_Tailor-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.980548763461411,
+            "áo khoác": 0.6981539845000952,
+            "thợ may vest": 0.7235994599759579,
+            "thợ may": 0.960639959317632,
+            "vị trí": 0.9951691734022461,
+            "giá cả": 0.7826995460418402,
+            "bộ vest": 0.5,
+            "chuyến bay": 0.5810352270491421,
+            "chuyến đi": 0.9796672955853865,
+            "cửa hàng": 0.8747924196533858,
+            "món đồ": 0.995366400515195,
+            "áo sơ mi": -0.07474030461162329,
+            "tay nghề thủ công": 0.994515121798031,
+            "chiếc": 0.9946032188599929,
+            "áo sơ mi may": 0.9113773639934758,
+            "quần áo": 0.9654412653956872,
+            "kích thước": 0.9952216245001182,
+            "cảm quan thiết kế": 0.9848600646946579,
+            "đường thẳng": 0.9890137316930728,
+            "khách sạn": 0.9915164787089452,
+            "người thợ": 0.5,
+            "đường phố": 0.5
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "phi thường",
+                "tuyệt vời",
+                "tuyệt vời",
+                "nhiều",
+                "nhanh chóng"
+            ],
+            "áo khoác": [
+                "hoàn toàn",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt"
+            ],
+            "thợ may vest": [],
+            "thợ may": [
+                "nhiều",
+                "khác",
+                "chuyên nghiệp",
+                "sẵn sàng",
+                "phải chăng",
+                "thiên tài",
+                "chính xác",
+                "giỏi",
+                "nhất",
+                "cùng",
+                "tuyệt vời"
+            ],
+            "vị trí": [
+                "thuận tiện",
+                "gần",
+                "tốt"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "hợp lý"
+            ],
+            "bộ vest": [],
+            "chuyến bay": [
+                "muộn",
+                "sớm"
+            ],
+            "chuyến đi": [
+                "căng thẳng",
+                "bận rộn"
+            ],
+            "cửa hàng": [],
+            "món đồ": [
+                "vừa vặn"
+            ],
+            "áo sơ mi": [
+                "gần"
+            ],
+            "tay nghề thủ công": [],
+            "chiếc": [
+                "bất kỳ",
+                "khác",
+                "hợp lý"
+            ],
+            "áo sơ mi may": [
+                "bất kỳ",
+                "khác",
+                "hợp lý"
+            ],
+            "quần áo": [
+                "gần",
+                "hoàn hảo",
+                "đúng",
+                "hài lòng"
+            ],
+            "kích thước": [
+                "hoàn toàn"
+            ],
+            "cảm quan thiết kế": [
+                "hay",
+                "thực sự",
+                "phải",
+                "chắc chắn",
+                "đúng",
+                "may"
+            ],
+            "đường thẳng": [
+                "hoàn hảo",
+                "đúng",
+                "hài lòng"
+            ],
+            "khách sạn": [
+                "nhanh"
+            ],
+            "người thợ": [],
+            "đường phố": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 2.5,
+            "áo khoác": 2.5,
+            "thợ may vest": 1,
+            "thợ may": 2.5,
+            "vị trí": 1.5,
+            "giá cả": 4.0,
+            "bộ vest": 1.5,
+            "chuyến bay": 1.5,
+            "chuyến đi": 2.0,
+            "cửa hàng": 2.5,
+            "món đồ": 2,
+            "áo sơ mi": 0.5,
+            "tay nghề thủ công": 0.5,
+            "chiếc": 0.5,
+            "áo sơ mi may": 0.5,
+            "quần áo": 1.0,
+            "kích thước": 0.5,
+            "cảm quan thiết kế": 0.5,
+            "đường thẳng": 0.5,
+            "khách sạn": 0.5,
+            "người thợ": 0.5,
+            "đường phố": 0.5
+        }
     },
     {
         "attraction_name": "Tuyen Tailor",
@@ -498,7 +954,136 @@
             "https://www.tripadvisor.com/Attraction_Review-g60763-d143370-Reviews-Madison_Avenue-New_York_City_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-or40-Tuyen_Tailor-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-or30-Tuyen_Tailor-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-or30-Tuyen_Tailor-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "áo sơ mi": 0.37773218529210206,
+            "bộ vest": 0.7669473038986325,
+            "dịch vụ": 0.9775035517384475,
+            "lịch trình du lịch": 0.9945992705761455,
+            "vải -": 0.9908009393839166,
+            "quần": 0.5,
+            "nhã nhặn": 0.9913213960826397,
+            "chất liệu": 0.7273536585271358,
+            "nhà cung cấp": 0.6369095053523779,
+            "tiệm may tuyền": 0.5,
+            "quần áo": 0.518765889108181,
+            "dịch vụ mà": 0.9940359289369857,
+            "mặt hàng": 0.7258707825094461,
+            "tay nghề": 0.9702676178421825,
+            "thợ may tuyên": 0.5,
+            "bộ đồ chất lượng": 0.8737691454589367,
+            "phòng": 0.9789874852867797,
+            "bộ": 0.8784136070171371,
+            "- chảo": 0.7868085704394616,
+            "bờ biển": 0.9425291382940486
+        },
+        "dicts_adj": {
+            "áo sơ mi": [
+                "dài",
+                "ấn tượng",
+                "nhanh chóng",
+                "thực sự",
+                "tốt"
+            ],
+            "bộ vest": [
+                "dài",
+                "ấn tượng",
+                "nhanh chóng"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "thực sự",
+                "tốt",
+                "chuyên nghiệp",
+                "chu đáo",
+                "cẩn thận",
+                "tuyệt vời"
+            ],
+            "lịch trình du lịch": [
+                "tốt"
+            ],
+            "vải -": [
+                "nhiều",
+                "trực quan",
+                "đẹp"
+            ],
+            "quần": [],
+            "nhã nhặn": [
+                "ít",
+                "lịch sự"
+            ],
+            "chất liệu": [],
+            "nhà cung cấp": [
+                "thấp",
+                "tốt"
+            ],
+            "tiệm may tuyền": [],
+            "quần áo": [
+                "khó",
+                "đẹp",
+                "hoàn toàn"
+            ],
+            "dịch vụ mà": [
+                "chuyên nghiệp",
+                "chu đáo",
+                "cẩn thận"
+            ],
+            "mặt hàng": [
+                "sẵn sàng",
+                "chính xác",
+                "sẵn sàng",
+                "chính xác"
+            ],
+            "tay nghề": [
+                "xuất sắc"
+            ],
+            "thợ may tuyên": [],
+            "bộ đồ chất lượng": [
+                "cao",
+                "tốt"
+            ],
+            "phòng": [
+                "Tình cờ",
+                "tốt",
+                "gấp"
+            ],
+            "bộ": [
+                "thực sự",
+                "tốt"
+            ],
+            "- chảo": [
+                "thực sự",
+                "tốt"
+            ],
+            "bờ biển": [
+                "thực sự",
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "áo sơ mi": 3.5,
+            "bộ vest": 2.5,
+            "dịch vụ": 3.5,
+            "lịch trình du lịch": 2,
+            "vải -": 2,
+            "quần": 0.5,
+            "nhã nhặn": 0.5,
+            "chất liệu": 0.5,
+            "nhà cung cấp": 0.5,
+            "tiệm may tuyền": 0.5,
+            "quần áo": 1.0,
+            "dịch vụ mà": 0.5,
+            "mặt hàng": 0.5,
+            "tay nghề": 0.5,
+            "thợ may tuyên": 0.5,
+            "bộ đồ chất lượng": 0.5,
+            "phòng": 0.5,
+            "bộ": 0.5,
+            "- chảo": 0.5,
+            "bờ biển": 0.5
+        }
     },
     {
         "attraction_name": "Tuyen Tailor",
@@ -636,7 +1221,105 @@
             "https://www.tripadvisor.com/Attraction_Review-g1184643-d208230-Reviews-Terme_di_Saturnia_Parco_Termale-Saturnia_Manciano_Province_of_Grosseto_Tuscany.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-or50-Tuyen_Tailor-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-or40-Tuyen_Tailor-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-or40-Tuyen_Tailor-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "áo sơ mi": 0.7250938946381211,
+            "chủ sở": 0.9952238663099706,
+            "thị trấn": -0.903014169074595,
+            "điểm tham quan": -0.932332098018378,
+            "áo khoác thể thao thủ": 0.9857313823886216,
+            "bộ đồ": 0.801395975984633,
+            "quần áo": 0.4892931915819645,
+            "quần": 0.5,
+            "lịch may": 0.9796641122084111,
+            "nhân viên": 0.8737691454589367,
+            "thẻ tín dụng": 0.5,
+            "cửa hàng": 0.7717300589429215,
+            "quần tây": -0.3859358940972015,
+            "món hàng": 0.7369638773379847,
+            "quần vải": 0.5,
+            "bộ vest": 0.8110782948788255,
+            "cửa hàng địa phương": 0.3850052449852228,
+            "quay vòng": 0.9952237692195922
+        },
+        "dicts_adj": {
+            "áo sơ mi": [],
+            "chủ sở": [
+                "thân thiện",
+                "thực sự"
+            ],
+            "thị trấn": [
+                "khác"
+            ],
+            "điểm tham quan": [
+                "khác"
+            ],
+            "áo khoác thể thao thủ": [
+                "tuyệt vời",
+                "nhỏ"
+            ],
+            "bộ đồ": [
+                "đầu tiên",
+                "chuyên nghiệp"
+            ],
+            "quần áo": [],
+            "quần": [],
+            "lịch may": [
+                "nhiều",
+                "đúng"
+            ],
+            "nhân viên": [
+                "thân thiện"
+            ],
+            "thẻ tín dụng": [],
+            "cửa hàng": [
+                "thẳng",
+                "tuyệt vời"
+            ],
+            "quần tây": [
+                "hài lòng",
+                "hơn"
+            ],
+            "món hàng": [
+                "thấp",
+                "hơn"
+            ],
+            "quần vải": [],
+            "bộ vest": [
+                "cẩn thận",
+                "hoàn hảo"
+            ],
+            "cửa hàng địa phương": [
+                "giống",
+                "khác",
+                "bằng"
+            ],
+            "quay vòng": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "áo sơ mi": 1.0,
+            "chủ sở": 0.5,
+            "thị trấn": 0.5,
+            "điểm tham quan": 0.5,
+            "áo khoác thể thao thủ": 0.5,
+            "bộ đồ": 0.5,
+            "quần áo": 0.5,
+            "quần": 0.5,
+            "lịch may": 0.5,
+            "nhân viên": 0.5,
+            "thẻ tín dụng": 0.5,
+            "cửa hàng": 0.5,
+            "quần tây": 0.5,
+            "món hàng": 0.5,
+            "quần vải": 0.5,
+            "bộ vest": 0.5,
+            "cửa hàng địa phương": 0.5,
+            "quay vòng": 0.5
+        }
     },
     {
         "attraction_name": "Tuyen Tailor",
@@ -774,7 +1457,139 @@
             "https://www.tripadvisor.com/Attraction_Review-g150800-d209936-Reviews-La_Lagunilla_Market-Mexico_City_Central_Mexico_and_Gulf_Coast.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-or60-Tuyen_Tailor-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-or50-Tuyen_Tailor-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-or50-Tuyen_Tailor-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thợ may": 0.5682484813344976,
+            "đường may": 0.8737691454589367,
+            "chất liệu": 0.9931473221513443,
+            "khách sạn": 0.5,
+            "xe đạp": 0.5,
+            "trải nghiệm": 0.9954360480187461,
+            "lỗ": 0.329488692805171,
+            "sửa chữa chúng": 0.9901625378988683,
+            "dịch vụ": 0.8737691454589367,
+            "bộ đồ": 0.6844951675884658,
+            "nghề": 0.9913338973419741,
+            "thủ công": 0.9934992669441272,
+            "chuyến đi": 0.5736966896802187,
+            "cửa": 0.5,
+            "hàng may đo": 0.5,
+            "bộ vest": 0.5,
+            "cửa hàng": 0.8932944433763623,
+            "giá cả": 0.8594149304553866,
+            "chất": 0.8737691454589367,
+            "liệu vải": 0.993912095495034,
+            "đường cắt": 0.9941105123434681,
+            "áo sơ mi": 0.006068589340429753,
+            "chiếc": 0.9716456760652363,
+            "bộ vest thanh lịch": 0.9855828378349543
+        },
+        "dicts_adj": {
+            "thợ may": [
+                "tuyệt vời",
+                "tốt bụng"
+            ],
+            "đường may": [
+                "tuyệt vời",
+                "tinh tường"
+            ],
+            "chất liệu": [
+                "tuyệt vời",
+                "tinh tường"
+            ],
+            "khách sạn": [],
+            "xe đạp": [],
+            "trải nghiệm": [],
+            "lỗ": [
+                "nhỏ"
+            ],
+            "sửa chữa chúng": [
+                "tốt bụng"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "bộ đồ": [
+                "vừa vặn",
+                "đầu tiên",
+                "hoàn hảo"
+            ],
+            "nghề": [
+                "vừa vặn",
+                "đầu tiên"
+            ],
+            "thủ công": [
+                "vừa vặn",
+                "đầu tiên"
+            ],
+            "chuyến đi": [
+                "ngắn"
+            ],
+            "cửa": [],
+            "hàng may đo": [],
+            "bộ vest": [],
+            "cửa hàng": [
+                "nhiều"
+            ],
+            "giá cả": [
+                "sớm",
+                "hơn"
+            ],
+            "chất": [
+                "nổi bật",
+                "hợp lý"
+            ],
+            "liệu vải": [
+                "nổi bật",
+                "hợp lý"
+            ],
+            "đường cắt": [
+                "nổi bật",
+                "hợp lý"
+            ],
+            "áo sơ mi": [
+                "đẹp",
+                "hơn",
+                "đơn giản",
+                "hạnh phúc",
+                "hơn",
+                "cao"
+            ],
+            "chiếc": [
+                "cao"
+            ],
+            "bộ vest thanh lịch": [
+                "cao"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thợ may": 3.0,
+            "đường may": 2,
+            "chất liệu": 2,
+            "khách sạn": 2,
+            "xe đạp": 2,
+            "trải nghiệm": 2,
+            "lỗ": 0.5,
+            "sửa chữa chúng": 0.5,
+            "dịch vụ": 0.5,
+            "bộ đồ": 2.0,
+            "nghề": 0.5,
+            "thủ công": 0.5,
+            "chuyến đi": 0.5,
+            "cửa": 0.5,
+            "hàng may đo": 0.5,
+            "bộ vest": 0.5,
+            "cửa hàng": 0.5,
+            "giá cả": 0.5,
+            "chất": 0.5,
+            "liệu vải": 0.5,
+            "đường cắt": 0.5,
+            "áo sơ mi": 0.5,
+            "chiếc": 0.5,
+            "bộ vest thanh lịch": 0.5
+        }
     },
     {
         "attraction_name": "Tuyen Tailor",
@@ -896,7 +1711,111 @@
             "https://www.tripadvisor.com/Attraction_Review-g32989-d8546561-Reviews-Phoenix_Lake-Ross_Marin_County_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-or70-Tuyen_Tailor-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-or60-Tuyen_Tailor-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-or60-Tuyen_Tailor-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ đồ": 0.9467922532009349,
+            "bộ vest": 0.8957487938925623,
+            "áo blazer": 0.9927023492055014,
+            "áo sơ mi": 0.01714971921561907,
+            "trang": 0.5,
+            "web áo sơ mi": 0.5,
+            "chiếc": 0.4912450471892953,
+            "tay nghề": 0.9947566896444187,
+            "thợ may": 0.6544866959787518,
+            "áo sơ mi công sở": 0.5,
+            "giá trị": 0.9955045620445162,
+            "quần áo": 0.5061579998582602,
+            "chiếc quần": -0.9269151729531586,
+            "chất liệu": 0.5,
+            "quần": 0.5813411539420485
+        },
+        "dicts_adj": {
+            "bộ đồ": [
+                "sẵn",
+                "vừa vặn",
+                "hoàn hảo",
+                "vừa vặn",
+                "hoàn hảo",
+                "hài lòng",
+                "hài lòng",
+                "ngoài"
+            ],
+            "bộ vest": [
+                "hoàn hảo"
+            ],
+            "áo blazer": [
+                "hoàn hảo"
+            ],
+            "áo sơ mi": [
+                "riêng",
+                "khoảng",
+                "nhiều",
+                "hơn",
+                "giống",
+                "khác",
+                "tốt",
+                "vừa vặn",
+                "hoàn hảo",
+                "dài"
+            ],
+            "trang": [],
+            "web áo sơ mi": [],
+            "chiếc": [
+                "giống",
+                "khác"
+            ],
+            "tay nghề": [
+                "thực sự",
+                "xuất sắc",
+                "vui vẻ"
+            ],
+            "thợ may": [
+                "chính xác",
+                "vừa vặn",
+                "khác",
+                "vừa vặn",
+                "tốt",
+                "vừa vặn",
+                "hoàn hảo",
+                "vui"
+            ],
+            "áo sơ mi công sở": [],
+            "giá trị": [
+                "tuyệt vời"
+            ],
+            "quần áo": [
+                "phải",
+                "dễ tính",
+                "nhất"
+            ],
+            "chiếc quần": [
+                "kỳ diệu",
+                "duy nhất"
+            ],
+            "chất liệu": [],
+            "quần": [
+                "đúng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ đồ": 3.0,
+            "bộ vest": 2.5,
+            "áo blazer": 2,
+            "áo sơ mi": 1.5,
+            "trang": 0.5,
+            "web áo sơ mi": 0.5,
+            "chiếc": 0.5,
+            "tay nghề": 0.5,
+            "thợ may": 1.0,
+            "áo sơ mi công sở": 0.5,
+            "giá trị": 0.5,
+            "quần áo": 0.5,
+            "chiếc quần": 0.5,
+            "chất liệu": 0.5,
+            "quần": 0.5
+        }
     },
     {
         "attraction_name": "Tuyen Tailor",
@@ -1018,6 +1937,121 @@
             "https://www.tripadvisor.com/Attraction_Review-g60982-d131397-Reviews-Kapiolani_Park-Honolulu_Oahu_Hawaii.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-or80-Tuyen_Tailor-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-or70-Tuyen_Tailor-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10525874-Reviews-or70-Tuyen_Tailor-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "sơ mi tay": 0.5541883893311024,
+            "bộ": 0.5,
+            "quần áo": 0.5,
+            "khách sạn": 0.5,
+            "dịch vụ": 0.9954143435403239,
+            "xu hướng thời trang": 0.985626581707038,
+            "trực giác": 0.7338599618524313,
+            "bộ đồ": 0.932299740127443,
+            "bản đồ thế": 0.5,
+            "tác phẩm": -0.2809424214065075,
+            "áo sơ mi": 0.3793125761051973,
+            "chuyến bay": 0.6672569150105119,
+            "chất liệu": 0.9744039836805314,
+            "màu sắc": 0.5318287219852209,
+            "áo khoác": 0.8130340939387679,
+            "bộ vest": 0.5930633710231632,
+            "thợ may": -0.0037143850640859455,
+            "không khí": 0.8737691454589367,
+            "cửa hàng": 0.9956081063719466,
+            "giao dịch mua hàng": 0.5
+        },
+        "dicts_adj": {
+            "sơ mi tay": [
+                "ngắn",
+                "thoải mái",
+                "hơn"
+            ],
+            "bộ": [],
+            "quần áo": [],
+            "khách sạn": [],
+            "dịch vụ": [
+                "tốt",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tốt"
+            ],
+            "xu hướng thời trang": [
+                "nhất",
+                "tuyệt vời"
+            ],
+            "trực giác": [
+                "nhất"
+            ],
+            "bộ đồ": [
+                "đặc biệt",
+                "hài lòng",
+                "vừa vặn",
+                "mới",
+                "tương tự"
+            ],
+            "bản đồ thế": [],
+            "tác phẩm": [],
+            "áo sơ mi": [
+                "nhanh",
+                "rắc rối",
+                "khoảng",
+                "cố định"
+            ],
+            "chuyến bay": [
+                "sớm"
+            ],
+            "chất liệu": [
+                "tốt"
+            ],
+            "màu sắc": [
+                "tốt"
+            ],
+            "áo khoác": [
+                "ngoài"
+            ],
+            "bộ vest": [
+                "nhanh",
+                "rắc rối"
+            ],
+            "thợ may": [
+                "khác",
+                "nổi tiếng",
+                "rõ",
+                "thông minh",
+                "chăm chỉ",
+                "sẵn sàng"
+            ],
+            "không khí": [
+                "hoàn hảo"
+            ],
+            "cửa hàng": [
+                "hoàn hảo"
+            ],
+            "giao dịch mua hàng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "sơ mi tay": 1,
+            "bộ": 2.5,
+            "quần áo": 2.5,
+            "khách sạn": 2,
+            "dịch vụ": 2.5,
+            "xu hướng thời trang": 1.0,
+            "trực giác": 0.5,
+            "bộ đồ": 1.5,
+            "bản đồ thế": 0.5,
+            "tác phẩm": 0.5,
+            "áo sơ mi": 1.0,
+            "chuyến bay": 0.5,
+            "chất liệu": 0.5,
+            "màu sắc": 0.5,
+            "áo khoác": 0.5,
+            "bộ vest": 1.0,
+            "thợ may": 1.0,
+            "không khí": 0.5,
+            "cửa hàng": 0.5,
+            "giao dịch mua hàng": 0.5
+        }
     }
 ]

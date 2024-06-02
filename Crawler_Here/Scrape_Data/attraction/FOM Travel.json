@@ -78,7 +78,213 @@
             "https://www.tripadvisor.com/Attraction_Review-g60763-d136995-Reviews-Bowery-New_York_City_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d26766903-Reviews-or10-FOM_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26766903-Reviews-FOM_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26766903-Reviews-FOM_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thư": -0.9755428470671177,
+            "trải nghiệm": 0.26004579160144203,
+            "họ spam": -0.974968820810318,
+            "chuyến đi": 0.7274540449046375,
+            "địa chỉ": 0.5,
+            "phở": 0.9911344003630802,
+            "bánh mì": 0.9867671523243189,
+            "hướng dẫn viên": 0.4330317744752392,
+            "phòng nghỉ": 0.9954738080850802,
+            "boong tàu": -0.7092357072979212,
+            "không khí": -0.9535068550612777,
+            "cảnh": 0.9945543361827731,
+            "món ăn đường phố": 0.9927094584563747,
+            "con phố": 0.6646991744637489,
+            "người đi bộ": 0.9953977463883348,
+            "bánh mì cà phê trứng": 0.9954251238959841,
+            "bia": 0.9950228409143165,
+            "bữa tiệc": 0.9953709255205467,
+            "thức ăn": 0.9954367934260517,
+            "kỳ nghỉ": -0.6780301611870527,
+            "biển": 0.9953621326130815,
+            "hang động": 0.9919631973607466,
+            "du": 0.9954577048774809,
+            "thuyền": 0.9956241154577583,
+            "thuyền kayak": 0.518152266740799,
+            "đồ ăn": 0.9955946922418661,
+            "ghế xe": 0.8737691454589367,
+            "phong cảnh": 0.9954517395235598,
+            "thời": 0.8737691454589367,
+            "thức ăn ngon": 0.8737691454589367,
+            "nhân viên": 0.9803502273280174,
+            "tour du lịch ẩm thực đường": 0.8737691454589367,
+            "văn hóa ẩm thực cuộc sống": 0.5,
+            "bánh": 0.8737691454589367,
+            "mì phở": 0.8737691454589367,
+            "cà phê trứng bia": 0.8737691454589367,
+            "món ăn": 0.9954749430180527,
+            "lĩnh vực": 0.9954754958162084
+        },
+        "dicts_adj": {
+            "thư": [],
+            "trải nghiệm": [
+                "tồi tệ",
+                "tồi tệ",
+                "tuyệt vời",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "họ spam": [],
+            "chuyến đi": [
+                "ngắn",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "địa chỉ": [],
+            "phở": [
+                "nhất"
+            ],
+            "bánh mì": [
+                "nhất"
+            ],
+            "hướng dẫn viên": [
+                "xuất sắc",
+                "nhỏ",
+                "già",
+                "rộng rãi",
+                "thoải mái"
+            ],
+            "phòng nghỉ": [
+                "sang trọng",
+                "rộng rãi",
+                "hiện đại"
+            ],
+            "boong tàu": [
+                "trong lành"
+            ],
+            "không khí": [
+                "trong lành"
+            ],
+            "cảnh": [
+                "đẹp"
+            ],
+            "món ăn đường phố": [
+                "tuyệt vời"
+            ],
+            "con phố": [
+                "gần"
+            ],
+            "người đi bộ": [
+                "đầy"
+            ],
+            "bánh mì cà phê trứng": [
+                "đầy"
+            ],
+            "bia": [
+                "đầy"
+            ],
+            "bữa tiệc": [
+                "đầy"
+            ],
+            "thức ăn": [
+                "ngon",
+                "tuyệt vời",
+                "hơn"
+            ],
+            "kỳ nghỉ": [
+                "ngắn"
+            ],
+            "biển": [
+                "ngon"
+            ],
+            "hang động": [
+                "ngon"
+            ],
+            "du": [
+                "ngon"
+            ],
+            "thuyền": [
+                "ngon"
+            ],
+            "thuyền kayak": [
+                "ngắn"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "ghế xe": [
+                "rộng rãi",
+                "thoải mái"
+            ],
+            "phong cảnh": [
+                "đẹp"
+            ],
+            "thời": [
+                "tốt"
+            ],
+            "thức ăn ngon": [
+                "tốt"
+            ],
+            "nhân viên": [
+                "tốt"
+            ],
+            "tour du lịch ẩm thực đường": [
+                "tốt"
+            ],
+            "văn hóa ẩm thực cuộc sống": [],
+            "bánh": [
+                "tuyệt vời"
+            ],
+            "mì phở": [
+                "tuyệt vời"
+            ],
+            "cà phê trứng bia": [
+                "tuyệt vời"
+            ],
+            "món ăn": [
+                "tuyệt vời"
+            ],
+            "lĩnh vực": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thư": 1.5,
+            "trải nghiệm": 4.0,
+            "họ spam": 1.5,
+            "chuyến đi": 6.0,
+            "địa chỉ": 1.5,
+            "phở": 1.5,
+            "bánh mì": 1.5,
+            "hướng dẫn viên": 4.0,
+            "phòng nghỉ": 1.5,
+            "boong tàu": 1.5,
+            "không khí": 1.5,
+            "cảnh": 1.5,
+            "món ăn đường phố": 1.5,
+            "con phố": 1.5,
+            "người đi bộ": 1.5,
+            "bánh mì cà phê trứng": 1.5,
+            "bia": 1.5,
+            "bữa tiệc": 1.5,
+            "thức ăn": 1,
+            "kỳ nghỉ": 1,
+            "biển": 1,
+            "hang động": 1,
+            "du": 1,
+            "thuyền": 1,
+            "thuyền kayak": 1,
+            "đồ ăn": 1,
+            "ghế xe": 1,
+            "phong cảnh": 1,
+            "thời": 1,
+            "thức ăn ngon": 1,
+            "nhân viên": 1,
+            "tour du lịch ẩm thực đường": 1,
+            "văn hóa ẩm thực cuộc sống": 1,
+            "bánh": 1,
+            "mì phở": 1,
+            "cà phê trứng bia": 1,
+            "món ăn": 1,
+            "lĩnh vực": 1
+        }
     },
     {
         "attraction_name": "FOM Travel",
@@ -154,6 +360,112 @@
             "https://www.tripadvisor.com/Attraction_Review-g40476-d594562-Reviews-Chicot_State_Park-Ville_Platte_Louisiana.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26766903-Reviews-or10-FOM_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26766903-Reviews-or10-FOM_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9950533351220656,
+            "hướng dẫn viên": 0.7477280067978427,
+            "vịnh": 0.8737691454589367,
+            "khu vực": 0.9950366873526946,
+            "phòng sang": 0.9898826184216887,
+            "đồ ăn ngon": 0.9955822821648326,
+            "dịch vụ": 0.9942130966519471,
+            "nhân viên": 0.5557198576279916,
+            "món ngon": 0.9954689436708577,
+            "cảnh biển": 0.9933449433883652,
+            "kỳ quan": 0.9243984257336706,
+            "tạo hóa": 0.006833002378698438,
+            "phong": 0.8737691454589367,
+            "cảnh vịnh": 0.8737691454589367,
+            "chuyến du lịch": -0.7513505099341273,
+            "gió biển": 0.5,
+            "hang động": 0.5,
+            "chèo thuyền tắm vịnh": 0.5,
+            "xe": 0.994934716145508,
+            "hướng dẫn viên du lịch": 0.9955670085619204
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "hướng dẫn viên": [
+                "Đặc biệt"
+            ],
+            "vịnh": [
+                "đẹp",
+                "nhiều"
+            ],
+            "khu vực": [
+                "vui"
+            ],
+            "phòng sang": [
+                "sang trọng"
+            ],
+            "đồ ăn ngon": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "chu đáo"
+            ],
+            "nhân viên": [
+                "thân thiện"
+            ],
+            "món ngon": [],
+            "cảnh biển": [
+                "xanh"
+            ],
+            "kỳ quan": [
+                "đẹp",
+                "thật sự"
+            ],
+            "tạo hóa": [
+                "đẹp",
+                "thật sự"
+            ],
+            "phong": [
+                "đẹp"
+            ],
+            "cảnh vịnh": [
+                "đẹp"
+            ],
+            "chuyến du lịch": [
+                "ngắn"
+            ],
+            "gió biển": [],
+            "hang động": [],
+            "chèo thuyền tắm vịnh": [],
+            "xe": [
+                "rộng rãi",
+                "thoải mái"
+            ],
+            "hướng dẫn viên du lịch": [
+                "vui vẻ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 2,
+            "hướng dẫn viên": 2,
+            "vịnh": 1,
+            "khu vực": 1,
+            "phòng sang": 1,
+            "đồ ăn ngon": 2,
+            "dịch vụ": 2,
+            "nhân viên": 2,
+            "món ngon": 1,
+            "cảnh biển": 1,
+            "kỳ quan": 1,
+            "tạo hóa": 1,
+            "phong": 1,
+            "cảnh vịnh": 1,
+            "chuyến du lịch": 1,
+            "gió biển": 1,
+            "hang động": 1,
+            "chèo thuyền tắm vịnh": 1,
+            "xe": 1,
+            "hướng dẫn viên du lịch": 1
+        }
     }
 ]

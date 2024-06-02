@@ -90,6 +90,112 @@
             "https://www.tripadvisor.com/Attraction_Review-g274725-d3313876-Reviews-Oliwski_Park-Gdansk_Pomerania_Province_Northern_Poland.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d17653608-Reviews-Long_An_Temple-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d17653608-Reviews-Long_An_Temple-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bảo tàng điêu": 0.5632283060501019,
+            "điểm tham quan": 0.5,
+            "nhà hàng": 0.528831347823143,
+            "bức tượng": 0.0614602144487435,
+            "mái nhà": 0.5048585496842861,
+            "đường gờ": 0.2536543011665344,
+            "nhân viên": 0.5,
+            "ngôi chùa": 0.7812685190389553,
+            "xe máy": 0.5237714350223541,
+            "chiếc": 0.7547379173338413,
+            "thuyền đánh cá": 0.9921737853437662,
+            "chùa long": 0.6515929438173771,
+            "chùa an": 0.5,
+            "tam giác": 0.18365930765867233,
+            "đá đỉnh tròn": 0.8045085130142979,
+            "họa tiết": 0.5,
+            "chùa": 0.5,
+            "tượng phật": 0.5,
+            "tháp chuông": 0.5,
+            "dân làng nại": 0.5036382153630257,
+            "sân trong": 0.5477197505533695,
+            "chuông": 0.9913649116642773
+        },
+        "dicts_adj": {
+            "bảo tàng điêu": [
+                "dễ dàng",
+                "cùng"
+            ],
+            "điểm tham quan": [],
+            "nhà hàng": [
+                "khát",
+                "lạnh"
+            ],
+            "bức tượng": [
+                "phức tạp",
+                "Nhiều",
+                "tốt"
+            ],
+            "mái nhà": [
+                "phức tạp"
+            ],
+            "đường gờ": [
+                "phức tạp"
+            ],
+            "nhân viên": [],
+            "ngôi chùa": [
+                "hơn",
+                "nhiều"
+            ],
+            "xe máy": [
+                "Tốt",
+                "hơn"
+            ],
+            "chiếc": [
+                "bình thường"
+            ],
+            "thuyền đánh cá": [
+                "bình thường"
+            ],
+            "chùa long": [],
+            "chùa an": [],
+            "tam giác": [
+                "cao",
+                "rộng"
+            ],
+            "đá đỉnh tròn": [
+                "cao",
+                "rộng"
+            ],
+            "họa tiết": [],
+            "chùa": [],
+            "tượng phật": [],
+            "tháp chuông": [],
+            "dân làng nại": [],
+            "sân trong": [],
+            "chuông": [
+                "đẹp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bảo tàng điêu": 3.0,
+            "điểm tham quan": 1.5,
+            "nhà hàng": 1.5,
+            "bức tượng": 2.0,
+            "mái nhà": 1.5,
+            "đường gờ": 1.5,
+            "nhân viên": 1.5,
+            "ngôi chùa": 1.5,
+            "xe máy": 0.5,
+            "chiếc": 0.5,
+            "thuyền đánh cá": 0.5,
+            "chùa long": 0.5,
+            "chùa an": 0.5,
+            "tam giác": 0.5,
+            "đá đỉnh tròn": 0.5,
+            "họa tiết": 0.5,
+            "chùa": 0.5,
+            "tượng phật": 0.5,
+            "tháp chuông": 0.5,
+            "dân làng nại": 0.5,
+            "sân trong": 0.5,
+            "chuông": 0.5
+        }
     }
 ]

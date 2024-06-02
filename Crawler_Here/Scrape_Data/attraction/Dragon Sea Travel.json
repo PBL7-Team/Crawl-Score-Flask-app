@@ -68,7 +68,185 @@
             "https://www.tripadvisor.com/Attraction_Review-g2036467-d12827671-Reviews-Blue_Lakes-Linden_Upper_Demerara_Berbice.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or10-Dragon_Sea_Travel-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-Dragon_Sea_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-Dragon_Sea_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.8682042768050451,
+            "địa đạo củ chi": 0.6601867766252586,
+            "tour du lịch": 0.9955109454458579,
+            "hướng dẫn viên": 0.9937476783525199,
+            "kiến ​​thức": 0.9953583517344669,
+            "hướng dẫn viên du": 0.5,
+            "chuyến du lịch mê kông": 0.9302991852164268,
+            "bữa sáng": 0.9951797680696473,
+            "bữa trưa": 0.995309506484773,
+            "bữa tối": 0.9954797905811574,
+            "hương vị chất lượng": 0.9955429572437424,
+            "hướng dẫn viên du lịch": 0.9953901402020294,
+            "người": 0.9948986361850984,
+            "dịch vụ": 0.8764113948511129,
+            "ty du lịch": 0.9847290192381479,
+            "chuyến tham quan": 0.5,
+            "lái xe": 0.993175593437627,
+            "trải nghiệm du lịch": 0.9952425609808415,
+            "phố đi bộ": 0.5,
+            "chuyến tham": 0.5068258233368397,
+            "đồng bằng sông cửu long": 0.8737691454589367,
+            "hòn đảo": 0.5086006820201874,
+            "xe buýt": 0.9944837304647081,
+            "chuyến xe buýt": 0.5,
+            "tỷ giá": 0.7603546492755413,
+            "đại lý": 0.9940254896646366,
+            "du lịch biển": 0.9955738130374812,
+            "trải nghiệm": 0.9345526427496225,
+            "đồ ăn": -0.6016495488584042,
+            "nhân viên đại lý": 0.8737691454589367,
+            "chứa dịch vụ": 0.9920398554531857,
+            "nhân viên": 0.5
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "nổi bật"
+            ],
+            "địa đạo củ chi": [
+                "vui"
+            ],
+            "tour du lịch": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "lịch sự",
+                "nhiều",
+                "chi tiết",
+                "tuyệt vời",
+                "vui vẻ",
+                "tốt",
+                "tốt bụng"
+            ],
+            "kiến ​​thức": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du": [],
+            "chuyến du lịch mê kông": [],
+            "bữa sáng": [
+                "tuyệt vời",
+                "no"
+            ],
+            "bữa trưa": [
+                "tuyệt vời",
+                "no"
+            ],
+            "bữa tối": [
+                "tuyệt vời",
+                "no"
+            ],
+            "hương vị chất lượng": [
+                "tuyệt vời",
+                "no"
+            ],
+            "hướng dẫn viên du lịch": [
+                "đặc biệt",
+                "tốt bụng"
+            ],
+            "người": [
+                "xuất sắc",
+                "cao"
+            ],
+            "dịch vụ": [
+                "đặc biệt",
+                "tỉ mỉ"
+            ],
+            "ty du lịch": [
+                "đặc biệt",
+                "gần"
+            ],
+            "chuyến tham quan": [],
+            "lái xe": [
+                "thoải mái"
+            ],
+            "trải nghiệm du lịch": [
+                "khó"
+            ],
+            "phố đi bộ": [],
+            "chuyến tham": [
+                "nhỏ"
+            ],
+            "đồng bằng sông cửu long": [
+                "vui"
+            ],
+            "hòn đảo": [
+                "nhỏ"
+            ],
+            "xe buýt": [
+                "tỉ mỉ",
+                "đáng giá"
+            ],
+            "chuyến xe buýt": [],
+            "tỷ giá": [
+                "tốt"
+            ],
+            "đại lý": [
+                "bất kỳ",
+                "hơn"
+            ],
+            "du lịch biển": [
+                "hơn",
+                "vui tính",
+                "nhiều"
+            ],
+            "trải nghiệm": [
+                "thú vị",
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "cao"
+            ],
+            "nhân viên đại lý": [
+                "tốt"
+            ],
+            "chứa dịch vụ": [
+                "tốt"
+            ],
+            "nhân viên": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 4,
+            "địa đạo củ chi": 3.5,
+            "tour du lịch": 2,
+            "hướng dẫn viên": 5.5,
+            "kiến ​​thức": 2,
+            "hướng dẫn viên du": 2,
+            "chuyến du lịch mê kông": 2,
+            "bữa sáng": 2,
+            "bữa trưa": 2,
+            "bữa tối": 2,
+            "hương vị chất lượng": 2,
+            "hướng dẫn viên du lịch": 3.5,
+            "người": 2,
+            "dịch vụ": 5.5,
+            "ty du lịch": 5.0,
+            "chuyến tham quan": 3.5,
+            "lái xe": 2,
+            "trải nghiệm du lịch": 2,
+            "phố đi bộ": 1.5,
+            "chuyến tham": 1.5,
+            "đồng bằng sông cửu long": 1.5,
+            "hòn đảo": 1.5,
+            "xe buýt": 1.5,
+            "chuyến xe buýt": 1.5,
+            "tỷ giá": 1.5,
+            "đại lý": 1.5,
+            "du lịch biển": 1.5,
+            "trải nghiệm": 3.0,
+            "đồ ăn": 1.5,
+            "nhân viên đại lý": 1.5,
+            "chứa dịch vụ": 1.5,
+            "nhân viên": 1.5
+        }
     },
     {
         "attraction_name": "Dragon Sea Travel",
@@ -140,7 +318,178 @@
             "https://www.tripadvisor.com/Attraction_Review-g60763-d4587703-Reviews-Canal_Street-New_York_City_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or20-Dragon_Sea_Travel-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or10-Dragon_Sea_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or10-Dragon_Sea_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9955360997410025,
+            "hướng dẫn viên du lịch": 0.8689586106629577,
+            "ngôi chùa phật giáo": 0.6347586857154965,
+            "chuyến": 0.7666319800773636,
+            "đi thuyền": 0.760466207517311,
+            "đồng bằng sông cửu long": 0.8737691454589367,
+            "thức ăn": 0.8737691454589367,
+            "loại": 0.9953796048066579,
+            "trái cây": 0.9948144849622622,
+            "trải nghiệm": 0.8709519440017175,
+            "dịch vụ": 0.9941569048678502,
+            "thời tiết": 0.8737691454589367,
+            "mát mẻ": 0.9947219894384034,
+            "tâm họ": 0.8737691454589367,
+            "địa điểm": 0.5,
+            "trải nghiệm du lịch": 0.9954413382802159,
+            "chuyến tham quan": 0.830351453293891,
+            "đồ ăn": 0.5,
+            "phương tiện đi lại": 0.5,
+            "chuyến du ngoạn": 0.9952841027406976,
+            "bữa trưa": 0.9955568644218147,
+            "hướng dẫn viên": 0.7477193016966339,
+            "ty du lịch": 0.9950748429400846,
+            "chuyến tham quan đồng bằng sông cửu long": 0.5984650608152151,
+            "thuyền": 0.994485842762515,
+            "thuyền máy": 0.9879704947816208,
+            "chuyến đi xe đạp": 0.995317114633508,
+            "chuyến xe": 0.5,
+            "kỳ nghỉ": 0.9938801588723436,
+            "xe": 0.5,
+            "khách sạn": 0.5
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "tuyệt vời",
+                "hoàn toàn",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "giỏi",
+                "nhất",
+                "nhiều",
+                "đúng",
+                "tuyệt vời"
+            ],
+            "ngôi chùa phật giáo": [],
+            "chuyến": [
+                "vui vẻ",
+                "nhiều"
+            ],
+            "đi thuyền": [
+                "vui vẻ",
+                "nhiều"
+            ],
+            "đồng bằng sông cửu long": [
+                "vui vẻ",
+                "nhiều"
+            ],
+            "thức ăn": [
+                "tốt",
+                "nhiều"
+            ],
+            "loại": [
+                "thơm",
+                "ngon"
+            ],
+            "trái cây": [
+                "thơm",
+                "ngon"
+            ],
+            "trải nghiệm": [
+                "hạnh phúc",
+                "thực sự",
+                "tuyệt vời",
+                "tốt",
+                "tốt"
+            ],
+            "dịch vụ": [
+                "tốt"
+            ],
+            "thời tiết": [
+                "đẹp"
+            ],
+            "mát mẻ": [
+                "đặc biệt",
+                "tốt"
+            ],
+            "tâm họ": [
+                "đẹp"
+            ],
+            "địa điểm": [],
+            "trải nghiệm du lịch": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "thật sự",
+                "tuyệt"
+            ],
+            "đồ ăn": [],
+            "phương tiện đi lại": [],
+            "chuyến du ngoạn": [
+                "khó"
+            ],
+            "bữa trưa": [
+                "tuyệt vời",
+                "thú vị"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "cùng"
+            ],
+            "ty du lịch": [
+                "thực sự"
+            ],
+            "chuyến tham quan đồng bằng sông cửu long": [],
+            "thuyền": [
+                "tốt"
+            ],
+            "thuyền máy": [
+                "tốt"
+            ],
+            "chuyến đi xe đạp": [
+                "thú vị"
+            ],
+            "chuyến xe": [],
+            "kỳ nghỉ": [
+                "tử tế",
+                "dễ dàng",
+                "hơn",
+                "nhiều"
+            ],
+            "xe": [],
+            "khách sạn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 3.0,
+            "hướng dẫn viên du lịch": 6.0,
+            "ngôi chùa phật giáo": 1.5,
+            "chuyến": 1.5,
+            "đi thuyền": 1.5,
+            "đồng bằng sông cửu long": 1.5,
+            "thức ăn": 1.5,
+            "loại": 1.5,
+            "trái cây": 1.5,
+            "trải nghiệm": 6.0,
+            "dịch vụ": 1.5,
+            "thời tiết": 1.5,
+            "mát mẻ": 1.5,
+            "tâm họ": 1.5,
+            "địa điểm": 1.5,
+            "trải nghiệm du lịch": 1.5,
+            "chuyến tham quan": 4.5,
+            "đồ ăn": 1.5,
+            "phương tiện đi lại": 1.5,
+            "chuyến du ngoạn": 1.5,
+            "bữa trưa": 3.0,
+            "hướng dẫn viên": 3.0,
+            "ty du lịch": 1.5,
+            "chuyến tham quan đồng bằng sông cửu long": 1.5,
+            "thuyền": 1.5,
+            "thuyền máy": 1.5,
+            "chuyến đi xe đạp": 1.5,
+            "chuyến xe": 1.5,
+            "kỳ nghỉ": 1.5,
+            "xe": 1.5,
+            "khách sạn": 1.5
+        }
     },
     {
         "attraction_name": "Dragon Sea Travel",
@@ -213,7 +562,228 @@
             "https://www.tripadvisor.com/Attraction_Review-g34678-d2078476-Reviews-Glazer_Children_s_Museum-Tampa_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or30-Dragon_Sea_Travel-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or20-Dragon_Sea_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or20-Dragon_Sea_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.7255063091264068,
+            "sông mê": 0.5,
+            "chuyến tham quan": 0.9954218810016755,
+            "hướng dẫn viên": 0.9954895530827343,
+            "trải nghiệm": 0.9802377949963557,
+            "chuyến đi mũi né": 0.5,
+            "địa đạo": 0.5,
+            "đại lý du lịch": 0.9922698866575956,
+            "chuyến tham quan đồng bằng sông cửu long": 0.8737691454589367,
+            "hòn đảo": 0.6819901488100489,
+            "đồng bằng sông cửu long": 0.8737691454589367,
+            "bầu không khí": -0.20659108844120055,
+            "người dân": 0.8355105333030224,
+            "trà": 0.9951640617800876,
+            "mật ong": 0.9949579748208635,
+            "sữa ong chúa": 0.9950640208262485,
+            "trái cây nhiệt": -0.9274353643413633,
+            "bài hát": 0.9955321218003519,
+            "vương quốc dừa": 0.9955019411281683,
+            "bữa trưa": 0.9954499522573315,
+            "hàng cọ": 0.9906065302202478,
+            "địa đạo củ chi": 0.8737691454589367,
+            "hành trình": 0.8737691454589367,
+            "lịch sử văn hóa": 0.5,
+            "vẻ đẹp thiên nhiên": 0.5,
+            "món ngon": 0.9953274657018483,
+            "trà mật ong": 0.9714831188321114,
+            "kẹo dừa": 0.9735522139817476,
+            "khung cảnh": 0.8363379687070847,
+            "kiến thức": 0.9952081724186428,
+            "dịch vụ": 0.995563590870006,
+            "lệ phí": 0.5239615188911557,
+            "dragon sea": 0.9900697765406221,
+            "chuyến tham": 0.9557551126927137,
+            "đường hầm củ chi": 0.8737691454589367,
+            "xe buýt": 0.5,
+            "nhân viên": 0.9955698696430773
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "chính xác",
+                "tuyệt vời",
+                "nhất",
+                "rắc rối",
+                "suốt",
+                "tuyệt vời",
+                "chắc chắn",
+                "tuyệt vời"
+            ],
+            "sông mê": [],
+            "chuyến tham quan": [
+                "hiệu quả",
+                "vui",
+                "nhiều",
+                "hơn",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "thân thiện",
+                "vui vẻ",
+                "hữu ích"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "dễ thương",
+                "sôi nổi",
+                "thú vị",
+                "hơn",
+                "nhiều",
+                "độc đáo",
+                "tuyệt",
+                "tuyệt vời"
+            ],
+            "chuyến đi mũi né": [],
+            "địa đạo": [],
+            "đại lý du lịch": [],
+            "chuyến tham quan đồng bằng sông cửu long": [
+                "thực sự"
+            ],
+            "hòn đảo": [
+                "hoàn toàn",
+                "khác",
+                "quốc tế"
+            ],
+            "đồng bằng sông cửu long": [
+                "hoàn toàn",
+                "khác",
+                "quốc tế",
+                "tuyệt vời"
+            ],
+            "bầu không khí": [
+                "hoàn toàn",
+                "khác",
+                "quốc tế"
+            ],
+            "người dân": [
+                "nhiều",
+                "chăm chỉ",
+                "khác"
+            ],
+            "trà": [
+                "thơm",
+                "ngon"
+            ],
+            "mật ong": [
+                "thơm",
+                "ngon"
+            ],
+            "sữa ong chúa": [
+                "thơm",
+                "ngon"
+            ],
+            "trái cây nhiệt": [
+                "trực tiếp"
+            ],
+            "bài hát": [
+                "ngon"
+            ],
+            "vương quốc dừa": [
+                "ngon"
+            ],
+            "bữa trưa": [
+                "ngon",
+                "ngon lành"
+            ],
+            "hàng cọ": [
+                "dọc",
+                "xinh đẹp"
+            ],
+            "địa đạo củ chi": [
+                "tuyệt vời",
+                "độc đáo"
+            ],
+            "hành trình": [
+                "tốt",
+                "hoàn hảo"
+            ],
+            "lịch sử văn hóa": [],
+            "vẻ đẹp thiên nhiên": [],
+            "món ngon": [
+                "độc đáo"
+            ],
+            "trà mật ong": [
+                "độc đáo"
+            ],
+            "kẹo dừa": [
+                "độc đáo"
+            ],
+            "khung cảnh": [
+                "thanh bình",
+                "tuyệt vời",
+                "nhất"
+            ],
+            "kiến thức": [
+                "tốt",
+                "rõ ràng",
+                "chính xác"
+            ],
+            "dịch vụ": [
+                "bạn thương",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "lệ phí": [
+                "cao"
+            ],
+            "dragon sea": [],
+            "chuyến tham": [
+                "cuối cùng"
+            ],
+            "đường hầm củ chi": [
+                "cuối cùng"
+            ],
+            "xe buýt": [],
+            "nhân viên": [
+                "hữu ích",
+                "đặc biệt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 9.0,
+            "sông mê": 1.5,
+            "chuyến tham quan": 1.5,
+            "hướng dẫn viên": 1.5,
+            "trải nghiệm": 6.0,
+            "chuyến đi mũi né": 1.5,
+            "địa đạo": 1.5,
+            "đại lý du lịch": 1.5,
+            "chuyến tham quan đồng bằng sông cửu long": 1.5,
+            "hòn đảo": 1.5,
+            "đồng bằng sông cửu long": 3.0,
+            "bầu không khí": 1.5,
+            "người dân": 1.5,
+            "trà": 1.5,
+            "mật ong": 1.5,
+            "sữa ong chúa": 1.5,
+            "trái cây nhiệt": 1.5,
+            "bài hát": 1.5,
+            "vương quốc dừa": 1.5,
+            "bữa trưa": 3.0,
+            "hàng cọ": 1.5,
+            "địa đạo củ chi": 1.5,
+            "hành trình": 1.5,
+            "lịch sử văn hóa": 1.5,
+            "vẻ đẹp thiên nhiên": 1.5,
+            "món ngon": 1.5,
+            "trà mật ong": 1.5,
+            "kẹo dừa": 1.5,
+            "khung cảnh": 1.5,
+            "kiến thức": 1.5,
+            "dịch vụ": 3.0,
+            "lệ phí": 1.5,
+            "dragon sea": 1.5,
+            "chuyến tham": 1.5,
+            "đường hầm củ chi": 1.5,
+            "xe buýt": 1.5,
+            "nhân viên": 1.5
+        }
     },
     {
         "attraction_name": "Dragon Sea Travel",
@@ -286,7 +856,193 @@
             "https://www.tripadvisor.com/Attraction_Review-g188633-d191224-Reviews-Madurodam-The_Hague_South_Holland_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or40-Dragon_Sea_Travel-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or30-Dragon_Sea_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or30-Dragon_Sea_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.9950975614774507,
+            "chuyến đi củ chi": 0.8737691454589367,
+            "chuyến đi": 0.9558817888412159,
+            "hướng dẫn viên": 0.9406667479423858,
+            "văn phòng du lịch": 0.9947503065923229,
+            "chuyến đi mê kông": 0.8737691454589367,
+            "củ chi": 0.8737691454589367,
+            "trải nghiệm": 0.9952929429709911,
+            "hàng dừa": 0.9193395306356251,
+            "phi hành đoàn người lái xe": 0.993702729678868,
+            "hướng dẫn viên du lịch": 0.9950748858779358,
+            "thức ăn": 0.8737691454589367,
+            "du thuyền": 0.5522087644785643,
+            "họ": 0.5609539076685905,
+            "cuộc sống về đêm": 0.8737691454589367,
+            "chợ nổi": 0.9944969199132174,
+            "đồ ăn": 0.5,
+            "địa đạo củ chi": 0.5,
+            "hành trình": 0.9954177429899573,
+            "chuyến du lịch": 0.9909719855786534,
+            "lái xe": 0.9916833898751065,
+            "chương trình": -0.8618109542876482,
+            "dòng sông": 0.5,
+            "thẻ sim": 0.9951780807459727,
+            "xe buýt": 0.5,
+            "thuyền thuyền chèo": 0.5,
+            "chuyến tham": 0.9954001764999703,
+            "đồng bằng sông cửu long": 0.8737691454589367,
+            "phong cảnh": 0.8737691454589367,
+            "quang cảnh": 0.9954224441898987
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "thực sự",
+                "tuyệt vời",
+                "thực sự",
+                "đặc biệt",
+                "TỐT"
+            ],
+            "chuyến đi củ chi": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "thực sự",
+                "tuyệt vời",
+                "thú vị",
+                "hơn",
+                "riêng",
+                "tuyệt vời",
+                "độc đáo",
+                "nhiều",
+                "sâu sắc",
+                "thông minh",
+                "sâu sắc",
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "tốt bụng",
+                "hữu ích",
+                "chu đáo",
+                "nhiều",
+                "tuyệt vời",
+                "nhiều",
+                "tốt",
+                "nhiệt tình",
+                "chuyên nghiệp",
+                "vui vẻ",
+                "thông minh",
+                "tuyệt vời",
+                "đầy đủ",
+                "tốt"
+            ],
+            "văn phòng du lịch": [],
+            "chuyến đi mê kông": [
+                "tuyệt vời"
+            ],
+            "củ chi": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "hàng dừa": [
+                "khắp"
+            ],
+            "phi hành đoàn người lái xe": [
+                "ân cần",
+                "tốt bụng",
+                "sâu sắc"
+            ],
+            "hướng dẫn viên du lịch": [
+                "ân cần",
+                "tốt bụng",
+                "sâu sắc"
+            ],
+            "thức ăn": [
+                "ngon"
+            ],
+            "du thuyền": [
+                "trực tiếp"
+            ],
+            "họ": [
+                "trực tiếp"
+            ],
+            "cuộc sống về đêm": [
+                "nhiều"
+            ],
+            "chợ nổi": [
+                "mát mẻ"
+            ],
+            "đồ ăn": [],
+            "địa đạo củ chi": [],
+            "hành trình": [
+                "suôn sẻ"
+            ],
+            "chuyến du lịch": [
+                "trọn vẹn",
+                "nhiều"
+            ],
+            "lái xe": [
+                "lành nghề",
+                "thân thiện"
+            ],
+            "chương trình": [
+                "chật chội"
+            ],
+            "dòng sông": [],
+            "thẻ sim": [
+                "kiên nhẫn",
+                "tốt"
+            ],
+            "xe buýt": [],
+            "thuyền thuyền chèo": [],
+            "chuyến tham": [
+                "nhiều",
+                "hữu ích",
+                "nhất"
+            ],
+            "đồng bằng sông cửu long": [
+                "tuyệt vời",
+                "đầy đủ"
+            ],
+            "phong cảnh": [
+                "tuyệt vời"
+            ],
+            "quang cảnh": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 3.0,
+            "chuyến đi củ chi": 1.5,
+            "chuyến đi": 7.5,
+            "hướng dẫn viên": 9.0,
+            "văn phòng du lịch": 1.5,
+            "chuyến đi mê kông": 1.5,
+            "củ chi": 1.5,
+            "trải nghiệm": 1.5,
+            "hàng dừa": 1.5,
+            "phi hành đoàn người lái xe": 1.5,
+            "hướng dẫn viên du lịch": 1.5,
+            "thức ăn": 1.5,
+            "du thuyền": 1.5,
+            "họ": 1.5,
+            "cuộc sống về đêm": 1.5,
+            "chợ nổi": 1.5,
+            "đồ ăn": 1.5,
+            "địa đạo củ chi": 1.5,
+            "hành trình": 1.5,
+            "chuyến du lịch": 3.0,
+            "lái xe": 1.5,
+            "chương trình": 1.5,
+            "dòng sông": 1.5,
+            "thẻ sim": 1.5,
+            "xe buýt": 1.5,
+            "thuyền thuyền chèo": 1.5,
+            "chuyến tham": 1.5,
+            "đồng bằng sông cửu long": 1.5,
+            "phong cảnh": 1.5,
+            "quang cảnh": 1.5
+        }
     },
     {
         "attraction_name": "Dragon Sea Travel",
@@ -359,7 +1115,173 @@
             "https://www.tripadvisor.com/Attraction_Review-g293829-d6857363-Reviews-Kimironko_Market-Kigali_Kigali_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or50-Dragon_Sea_Travel-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or40-Dragon_Sea_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or40-Dragon_Sea_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chợ nổi": -0.9663589291740209,
+            "khách sạn": 0.8737691454589367,
+            "đồ ăn": 0.941933176247403,
+            "vấn du lịch": 0.9948944009083789,
+            "hành trình": 0.9767296672216617,
+            "nhân viên": 0.9955949823488481,
+            "trải nghiệm": 0.9954069690895266,
+            "công": 0.5,
+            "ty du lịch": 0.5,
+            "đại lý": 0.8607307566950718,
+            "con phố": 0.9895125295734033,
+            "chuyến tham quan": 0.9842835483141243,
+            "văn hóa": 0.5,
+            "bữa trưa": 0.5,
+            "hướng dẫn viên du lịch": 0.7477488388540223,
+            "chuyến đi": 0.8849013762535631,
+            "kỳ nghỉ": 0.6224082307890058,
+            "chuyến du lịch": 0.9866816351714078,
+            "tour du lịch": 0.9920610387343913,
+            "đồng bằng sông cửu long": 0.8737691454589367,
+            "chuyển xe buýt": 0.5,
+            "lái xe": 0.9907275439472869,
+            "hướng dẫn viên": 0.9032266145416846,
+            "điểm tham quan": 0.5,
+            "cảnh": 0.9954895843402483,
+            "bữa ăn": 0.9955675280070864,
+            "chương trình": 0.5,
+            "thức ăn": 0.9955652750795707,
+            "tài xế": 0.9944089469499886,
+            "chuyến tham quan đồng bằng sông cửu long": 0.8737691454589367,
+            "món ăn": 0.9810379818081856
+        },
+        "dicts_adj": {
+            "chợ nổi": [],
+            "khách sạn": [
+                "ổn",
+                "tốt"
+            ],
+            "đồ ăn": [
+                "ổn"
+            ],
+            "vấn du lịch": [
+                "tốt",
+                "nhiều"
+            ],
+            "hành trình": [
+                "tốt",
+                "thuận tiện"
+            ],
+            "nhân viên": [
+                "tốt bụng",
+                "lịch sự"
+            ],
+            "trải nghiệm": [
+                "tốt",
+                "tuyệt vời"
+            ],
+            "công": [],
+            "ty du lịch": [],
+            "đại lý": [
+                "đông đúc",
+                "tốt bụng",
+                "đẹp trai"
+            ],
+            "con phố": [
+                "đông đúc",
+                "tốt bụng",
+                "đẹp trai"
+            ],
+            "chuyến tham quan": [],
+            "văn hóa": [],
+            "bữa trưa": [],
+            "hướng dẫn viên du lịch": [
+                "tốt bụng",
+                "hữu ích",
+                "rõ ràng"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "khả thi",
+                "tuyệt vời",
+                "tốt"
+            ],
+            "kỳ nghỉ": [
+                "gần"
+            ],
+            "chuyến du lịch": [
+                "hữu ích",
+                "kiên nhẫn",
+                "tốt"
+            ],
+            "tour du lịch": [
+                "tốt"
+            ],
+            "đồng bằng sông cửu long": [
+                "chi tiết"
+            ],
+            "chuyển xe buýt": [],
+            "lái xe": [
+                "an toàn",
+                "đúng"
+            ],
+            "hướng dẫn viên": [
+                "chi tiết",
+                "kịp thời",
+                "tốt bụng"
+            ],
+            "điểm tham quan": [],
+            "cảnh": [
+                "đẹp",
+                "tuyệt vời",
+                "đủ"
+            ],
+            "bữa ăn": [
+                "ngon"
+            ],
+            "chương trình": [],
+            "thức ăn": [
+                "tuyệt vời"
+            ],
+            "tài xế": [
+                "tốt bụng"
+            ],
+            "chuyến tham quan đồng bằng sông cửu long": [
+                "tuyệt vời"
+            ],
+            "món ăn": [
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chợ nổi": 1.5,
+            "khách sạn": 2.5,
+            "đồ ăn": 1.5,
+            "vấn du lịch": 1.5,
+            "hành trình": 1.5,
+            "nhân viên": 1.5,
+            "trải nghiệm": 2.5,
+            "công": 1.5,
+            "ty du lịch": 1.5,
+            "đại lý": 1.5,
+            "con phố": 1.5,
+            "chuyến tham quan": 1.5,
+            "văn hóa": 1.5,
+            "bữa trưa": 1.5,
+            "hướng dẫn viên du lịch": 3.0,
+            "chuyến đi": 4.5,
+            "kỳ nghỉ": 1.5,
+            "chuyến du lịch": 1,
+            "tour du lịch": 1,
+            "đồng bằng sông cửu long": 1,
+            "chuyển xe buýt": 1,
+            "lái xe": 1,
+            "hướng dẫn viên": 3,
+            "điểm tham quan": 1,
+            "cảnh": 1,
+            "bữa ăn": 1,
+            "chương trình": 1,
+            "thức ăn": 1,
+            "tài xế": 1,
+            "chuyến tham quan đồng bằng sông cửu long": 1,
+            "món ăn": 1
+        }
     },
     {
         "attraction_name": "Dragon Sea Travel",
@@ -432,7 +1354,136 @@
             "https://www.tripadvisor.com/Attraction_Review-g187823-d2320142-Reviews-Boccadasse-Genoa_Italian_Riviera_Liguria.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or60-Dragon_Sea_Travel-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or50-Dragon_Sea_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or50-Dragon_Sea_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên": 0.9931971507612616,
+            "chuyến du lịch đồng bằng sông cửu long": 0.5888134595006704,
+            "dịch vụ": 0.8416293821970208,
+            "nhân viên": 0.5,
+            "chuyến tham": 0.9924441593466327,
+            "chuyến đi": 0.9946459634811617,
+            "đại lý": 0.995504489459563,
+            "đại lý du lịch": 0.995545861806022,
+            "chàng trai": 0.9950617558206432,
+            "ty du lịch": 0.9786032130165647,
+            "dịch vụ du lịch": -0.6652945522218943,
+            "chuyến tham quan": 0.8586431946605444,
+            "lớp học nấu ăn": 0.9947914986114483,
+            "công": 0.9948151567368768,
+            "lớp học": 0.9287130292505026,
+            "tour du lịch": 0.9953848451841623,
+            "đồng bằng sông cửu long": 0.8737691454589367,
+            "năng lượng": 0.9954757207306102,
+            "con phố": 0.9872983756940812,
+            "chuyến đi ăn uống": 0.5,
+            "người dân": 0.9955973455798812
+        },
+        "dicts_adj": {
+            "hướng dẫn viên": [
+                "xuất sắc",
+                "xuất sắc",
+                "thân thiện",
+                "nhất",
+                "nhiều",
+                "đặc biệt"
+            ],
+            "chuyến du lịch đồng bằng sông cửu long": [],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tốt",
+                "thấp",
+                "tốt"
+            ],
+            "nhân viên": [],
+            "chuyến tham": [
+                "thực sự"
+            ],
+            "chuyến đi": [
+                "đặc biệt"
+            ],
+            "đại lý": [
+                "đặc biệt"
+            ],
+            "đại lý du lịch": [
+                "tốt",
+                "tốt"
+            ],
+            "chàng trai": [
+                "tốt"
+            ],
+            "ty du lịch": [
+                "tốt",
+                "thấp",
+                "tốt",
+                "kiên nhẫn"
+            ],
+            "dịch vụ du lịch": [
+                "tốt",
+                "thấp",
+                "tốt"
+            ],
+            "chuyến tham quan": [
+                "ổn",
+                "suốt"
+            ],
+            "lớp học nấu ăn": [
+                "kiên nhẫn",
+                "tuyệt"
+            ],
+            "công": [
+                "kiên nhẫn"
+            ],
+            "lớp học": [
+                "tình cờ",
+                "duy nhất",
+                "riêng",
+                "tốt",
+                "hơn"
+            ],
+            "tour du lịch": [
+                "tuyệt vời",
+                "thích thú"
+            ],
+            "đồng bằng sông cửu long": [
+                "nhiều",
+                "cùng"
+            ],
+            "năng lượng": [],
+            "con phố": [
+                "đặc biệt"
+            ],
+            "chuyến đi ăn uống": [],
+            "người dân": [
+                "tốt bụng",
+                "vui vẻ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên": 2,
+            "chuyến du lịch đồng bằng sông cửu long": 1,
+            "dịch vụ": 3,
+            "nhân viên": 1,
+            "chuyến tham": 1,
+            "chuyến đi": 1,
+            "đại lý": 1,
+            "đại lý du lịch": 2,
+            "chàng trai": 1,
+            "ty du lịch": 2,
+            "dịch vụ du lịch": 1,
+            "chuyến tham quan": 1,
+            "lớp học nấu ăn": 1,
+            "công": 1,
+            "lớp học": 1,
+            "tour du lịch": 1,
+            "đồng bằng sông cửu long": 1,
+            "năng lượng": 1,
+            "con phố": 1,
+            "chuyến đi ăn uống": 1,
+            "người dân": 1
+        }
     },
     {
         "attraction_name": "Dragon Sea Travel",
@@ -505,7 +1556,137 @@
             "https://www.tripadvisor.com/Attraction_Review-g298562-d2558881-Reviews-Kobe_Motomachi_Shopping_Street-Kobe_Hyogo_Prefecture_Kinki.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or70-Dragon_Sea_Travel-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or60-Dragon_Sea_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or60-Dragon_Sea_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tour du lịch": 0.9428511271253228,
+            "chuyến đi": 0.888619187734245,
+            "lưu trú": 0.9950221981853247,
+            "thẻ sim": 0.7475516135746147,
+            "trải nghiệm": 0.9934298351290636,
+            "dịch vụ": 0.6128666065633297,
+            "văn": 0.1996554097471138,
+            "phòng du lịch": 0.5640111772809178,
+            "công ty du lịch": -0.1401688678500553,
+            "hướng dẫn viên": 0.9955234625958838,
+            "ty du lịch": 0.7385974647477269,
+            "công": 0.5,
+            "kỳ nghỉ": 0.5,
+            "đồng bằng sông cửu long địa đạo củ chi chuyến tham quan": 0.9924778697313741,
+            "hướng dẫn viên du lịch": 0.9949878888243499,
+            "chuyến tham quan": 0.7477376025053672,
+            "chuyến du lịch": 0.9940801042248495,
+            "mũi né": 0.8737691454589367,
+            "chuyến đi sông mê": 0.995514728652779,
+            "đại lý du lịch": 0.9955604293500073,
+            "bữa tối": 0.5,
+            "du thuyền": 0.5
+        },
+        "dicts_adj": {
+            "tour du lịch": [
+                "cuối cùng"
+            ],
+            "chuyến đi": [
+                "cuối cùng",
+                "chi tiết",
+                "vui",
+                "đầy đủ",
+                "bất kỳ",
+                "tốt đẹp",
+                "nhất",
+                "gần",
+                "chi tiết"
+            ],
+            "lưu trú": [
+                "thực sự",
+                "suốt"
+            ],
+            "thẻ sim": [
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "chi tiết"
+            ],
+            "văn": [
+                "khác",
+                "chân thực",
+                "tốt"
+            ],
+            "phòng du lịch": [
+                "khác",
+                "chân thực",
+                "tốt"
+            ],
+            "công ty du lịch": [
+                "khác",
+                "chân thực",
+                "tốt"
+            ],
+            "hướng dẫn viên": [
+                "chi tiết"
+            ],
+            "ty du lịch": [
+                "thực sự"
+            ],
+            "công": [],
+            "kỳ nghỉ": [],
+            "đồng bằng sông cửu long địa đạo củ chi chuyến tham quan": [],
+            "hướng dẫn viên du lịch": [
+                "hiếu khách",
+                "cẩn thận",
+                "thoải mái"
+            ],
+            "chuyến tham quan": [
+                "hiếu khách",
+                "cẩn thận",
+                "thoải mái"
+            ],
+            "chuyến du lịch": [
+                "dễ dàng",
+                "cao"
+            ],
+            "mũi né": [
+                "tốt bụng"
+            ],
+            "chuyến đi sông mê": [
+                "thú vị"
+            ],
+            "đại lý du lịch": [
+                "tốt đẹp"
+            ],
+            "bữa tối": [],
+            "du thuyền": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tour du lịch": 1,
+            "chuyến đi": 6,
+            "lưu trú": 1,
+            "thẻ sim": 2,
+            "trải nghiệm": 2,
+            "dịch vụ": 2,
+            "văn": 1,
+            "phòng du lịch": 1,
+            "công ty du lịch": 1,
+            "hướng dẫn viên": 1,
+            "ty du lịch": 2,
+            "công": 1,
+            "kỳ nghỉ": 1,
+            "đồng bằng sông cửu long địa đạo củ chi chuyến tham quan": 1,
+            "hướng dẫn viên du lịch": 1,
+            "chuyến tham quan": 2,
+            "chuyến du lịch": 2,
+            "mũi né": 1,
+            "chuyến đi sông mê": 1,
+            "đại lý du lịch": 1,
+            "bữa tối": 1,
+            "du thuyền": 1
+        }
     },
     {
         "attraction_name": "Dragon Sea Travel",
@@ -578,7 +1759,190 @@
             "https://www.tripadvisor.com/Attraction_Review-g33364-d276141-Reviews-Seven_Falls-Colorado_Springs_El_Paso_County_Colorado.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or80-Dragon_Sea_Travel-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or70-Dragon_Sea_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or70-Dragon_Sea_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.8377803008042974,
+            "địa đạo": 0.5,
+            "giá cạnh tranh": 0.5,
+            "bán hàng": 0.9952633165521547,
+            "chuyến du lịch": 0.969750992488116,
+            "hướng dẫn viên cường": 0.9953978774137795,
+            "sân bay": 0.9890368260676041,
+            "ni xa": 0.8737691454589367,
+            "chuyến tham quan": 0.0051404135301709175,
+            "ty du lịch": 0.8197454732144251,
+            "chuyến du lịch biển rồng": 0.5,
+            "lịch trình": 0.9250085563980974,
+            "du thuyền ăn": 0.8737691454589367,
+            "trang web": 0.5,
+            "hướng dẫn viên du lịch": 0.7203166764738853,
+            "chuyến tham quan chợ": 0.8883787728846073,
+            "món": 0.5,
+            "súp ăn": 0.5,
+            "cà phê ăn dứa": 0.5,
+            "khu chợ nội": 0.5326274819672108,
+            "đồ uống": 0.748712118511321,
+            "đồ ăn": 0.5,
+            "đại lý du lịch": 0.99556314421352,
+            "trải nghiệm": 0.9952929429709911,
+            "chuyến tham quan đồng bằng sông cửu long": 0.8737691454589367,
+            "dịch vụ": 0.9951868962089065,
+            "đạp xe": 0.5,
+            "chèo thuyền": 0.5,
+            "bữa ăn": 0.9955641661654226,
+            "bữa sáng": 0.5,
+            "chuyến tham quan sông mê": 0.8737691454589367,
+            "đồ ăn nhẹ": 0.5,
+            "chuyến đi xa": 0.9916134715313092,
+            "du lịch biển": 0.8737691454589367,
+            "chuyến tham quan mê kông": 0.9951529274112545
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "chắc chắn",
+                "thích lòng",
+                "suốt",
+                "vui",
+                "đầu tiên",
+                "suôn sẻ",
+                "hoàn hảo"
+            ],
+            "địa đạo": [],
+            "giá cạnh tranh": [],
+            "bán hàng": [
+                "tuyệt vời"
+            ],
+            "chuyến du lịch": [],
+            "hướng dẫn viên cường": [
+                "tuyệt vời"
+            ],
+            "sân bay": [
+                "cùng",
+                "an toàn"
+            ],
+            "ni xa": [
+                "tốt",
+                "đặc biệt",
+                "hiểu biết",
+                "tốt",
+                "đặc biệt",
+                "hiểu biết"
+            ],
+            "chuyến tham quan": [
+                "cùng",
+                "cùng",
+                "tử tế",
+                "dễ chịu"
+            ],
+            "ty du lịch": [
+                "may mắn",
+                "đầu tiên"
+            ],
+            "chuyến du lịch biển rồng": [],
+            "lịch trình": [
+                "tốt",
+                "đầy đủ"
+            ],
+            "du thuyền ăn": [
+                "tốt",
+                "đầy đủ"
+            ],
+            "trang web": [],
+            "hướng dẫn viên du lịch": [
+                "riêng",
+                "hoàn toàn",
+                "xứng đáng",
+                "hoàn toàn"
+            ],
+            "chuyến tham quan chợ": [
+                "cùng"
+            ],
+            "món": [],
+            "súp ăn": [],
+            "cà phê ăn dứa": [],
+            "khu chợ nội": [
+                "gần",
+                "nhiều"
+            ],
+            "đồ uống": [
+                "ngon",
+                "hơn"
+            ],
+            "đồ ăn": [],
+            "đại lý du lịch": [
+                "hoàn toàn"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan đồng bằng sông cửu long": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "đạp xe": [],
+            "chèo thuyền": [],
+            "bữa ăn": [
+                "ngon"
+            ],
+            "bữa sáng": [],
+            "chuyến tham quan sông mê": [
+                "rẻ",
+                "nhất"
+            ],
+            "đồ ăn nhẹ": [],
+            "chuyến đi xa": [
+                "đẹp"
+            ],
+            "du lịch biển": [
+                "bất kỳ",
+                "đặc biệt"
+            ],
+            "chuyến tham quan mê kông": [
+                "thực sự"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 4,
+            "địa đạo": 1,
+            "giá cạnh tranh": 1,
+            "bán hàng": 1,
+            "chuyến du lịch": 1,
+            "hướng dẫn viên cường": 1,
+            "sân bay": 1,
+            "ni xa": 1,
+            "chuyến tham quan": 2,
+            "ty du lịch": 3,
+            "chuyến du lịch biển rồng": 1,
+            "lịch trình": 1,
+            "du thuyền ăn": 1,
+            "trang web": 1,
+            "hướng dẫn viên du lịch": 2,
+            "chuyến tham quan chợ": 1,
+            "món": 1,
+            "súp ăn": 1,
+            "cà phê ăn dứa": 1,
+            "khu chợ nội": 1,
+            "đồ uống": 1,
+            "đồ ăn": 1,
+            "đại lý du lịch": 1,
+            "trải nghiệm": 1,
+            "chuyến tham quan đồng bằng sông cửu long": 1,
+            "dịch vụ": 2,
+            "đạp xe": 1,
+            "chèo thuyền": 1,
+            "bữa ăn": 1,
+            "bữa sáng": 1,
+            "chuyến tham quan sông mê": 1,
+            "đồ ăn nhẹ": 1,
+            "chuyến đi xa": 1,
+            "du lịch biển": 1,
+            "chuyến tham quan mê kông": 1
+        }
     },
     {
         "attraction_name": "Dragon Sea Travel",
@@ -651,7 +2015,155 @@
             "https://www.tripadvisor.com/Attraction_Review-g580292-d8509006-Reviews-Cala_Domingos-Calas_de_Majorca_Majorca_Balearic_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or90-Dragon_Sea_Travel-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or80-Dragon_Sea_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or80-Dragon_Sea_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "giá cả": 0.993308131583035,
+            "đường hầm cu-chin": 0.8737691454589367,
+            "sông cửu long": 0.8737691454589367,
+            "xe": 0.7281249860922495,
+            "dịch vụ": 0.7476127790578175,
+            "chuyến đi": 0.9470878070569597,
+            "du lịch biển rồng": 0.9954588782275096,
+            "nhân viên": 0.995459790516179,
+            "chuyến thăm thành phố hồ chí": 0.9894451608415693,
+            "xe buýt": 0.8034316110424697,
+            "máy lạnh": -0.06273405434330925,
+            "dịch vụ du lịch": 0.5,
+            "phạm ngũ lão": 0.7454772277269512,
+            "người hướng dẫn": 0.994777040585177,
+            "đồ ăn": 0.6533634588122368,
+            "túi": 0.9951794693479314,
+            "quà tặng": 0.995510759879835,
+            "trải nghiệm": 0.9954461282177363,
+            "đồng bằng sông cửu long": 0.9893194600008428,
+            "mũi né": 0.9651805954053998,
+            "đất nước": 0.9950848823064007,
+            "chuyến thăm": 0.9847144519444555,
+            "chuyến du lịch biển": 0.5,
+            "ty du lịch": -0.35468427930027246,
+            "cố vấn": 0.9545678639939675,
+            "chuyến du lịch": 0.5,
+            "đồ ăn địa": 0.9918843458290212
+        },
+        "dicts_adj": {
+            "giá cả": [
+                "nhiều",
+                "hợp lý"
+            ],
+            "đường hầm cu-chin": [
+                "cùng"
+            ],
+            "sông cửu long": [
+                "cùng"
+            ],
+            "xe": [
+                "vội vã",
+                "thoải mái"
+            ],
+            "dịch vụ": [
+                "xuất sắc"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tốt"
+            ],
+            "du lịch biển rồng": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "tốt"
+            ],
+            "chuyến thăm thành phố hồ chí": [],
+            "xe buýt": [
+                "cũ"
+            ],
+            "máy lạnh": [
+                "đủ",
+                "mát",
+                "đúng",
+                "an toàn"
+            ],
+            "dịch vụ du lịch": [],
+            "phạm ngũ lão": [
+                "tình cờ",
+                "cao",
+                "thú vị"
+            ],
+            "người hướng dẫn": [
+                "tốt",
+                "dễ"
+            ],
+            "đồ ăn": [
+                "nhẹ"
+            ],
+            "túi": [
+                "thực sự"
+            ],
+            "quà tặng": [
+                "thực sự"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tốt bụng",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "đồng bằng sông cửu long": [
+                "tốt"
+            ],
+            "mũi né": [],
+            "đất nước": [
+                "tốt",
+                "tốt"
+            ],
+            "chuyến thăm": [],
+            "chuyến du lịch biển": [],
+            "ty du lịch": [
+                "khác biệt"
+            ],
+            "cố vấn": [
+                "tốt",
+                "tốt",
+                "sớm"
+            ],
+            "chuyến du lịch": [],
+            "đồ ăn địa": [
+                "hoàn toàn",
+                "xứng đáng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "giá cả": 1,
+            "đường hầm cu-chin": 1,
+            "sông cửu long": 1,
+            "xe": 3,
+            "dịch vụ": 2,
+            "chuyến đi": 3,
+            "du lịch biển rồng": 1,
+            "nhân viên": 1,
+            "chuyến thăm thành phố hồ chí": 1,
+            "xe buýt": 1,
+            "máy lạnh": 1,
+            "dịch vụ du lịch": 1,
+            "phạm ngũ lão": 2,
+            "người hướng dẫn": 1,
+            "đồ ăn": 1,
+            "túi": 1,
+            "quà tặng": 1,
+            "trải nghiệm": 2,
+            "đồng bằng sông cửu long": 1,
+            "mũi né": 1,
+            "đất nước": 1,
+            "chuyến thăm": 1,
+            "chuyến du lịch biển": 1,
+            "ty du lịch": 1,
+            "cố vấn": 1,
+            "chuyến du lịch": 1,
+            "đồ ăn địa": 1
+        }
     },
     {
         "attraction_name": "Dragon Sea Travel",
@@ -724,6 +2236,93 @@
             "https://www.tripadvisor.com/Attraction_Review-g49610-d2039443-Reviews-Zootastic_Park-Troutman_North_Carolina.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or100-Dragon_Sea_Travel-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or90-Dragon_Sea_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25406507-Reviews-or90-Dragon_Sea_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "xe buýt - xe": 0.6653500273823738,
+            "phạm ngũ lão": 0.9888116208603606,
+            "mũi né": 0.9651805954053998,
+            "đường hầm củ": 0.9951531787519343,
+            "tour du lịch": 0.6868845727294683,
+            "máy chủ": 0.9954819307313301,
+            "bữa trưa": 0.9955404522479512,
+            "lịch trình": 0.7824861579574645,
+            "chú khỉ": 0.5,
+            "chủ nhà": 0.5,
+            "chuyến du lịch": 0.7818834141944535,
+            "chuyến đi": 0.9955424172221683,
+            "trải nghiệm": 0.9954785244772211,
+            "xe": 0.5,
+            "rung cảm": 0.9954494840349071,
+            "kỳ nghỉ": 0.9930473138811067,
+            "hướng dẫn viên": 0.9951717696385458
+        },
+        "dicts_adj": {
+            "xe buýt - xe": [
+                "thoải mái"
+            ],
+            "phạm ngũ lão": [
+                "tình cờ",
+                "cao",
+                "dễ chịu"
+            ],
+            "mũi né": [],
+            "đường hầm củ": [
+                "tốt"
+            ],
+            "tour du lịch": [
+                "tốt"
+            ],
+            "máy chủ": [
+                "tuyệt vời"
+            ],
+            "bữa trưa": [
+                "hoàn hảo"
+            ],
+            "lịch trình": [],
+            "chú khỉ": [],
+            "chủ nhà": [],
+            "chuyến du lịch": [
+                "riêng",
+                "tốt"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "xứng đáng"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "xe": [],
+            "rung cảm": [
+                "tích cực"
+            ],
+            "kỳ nghỉ": [],
+            "hướng dẫn viên": [
+                "hữu ích",
+                "tháo vát",
+                "đầy"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "xe buýt - xe": 1,
+            "phạm ngũ lão": 1,
+            "mũi né": 1,
+            "đường hầm củ": 1,
+            "tour du lịch": 2,
+            "máy chủ": 1,
+            "bữa trưa": 1,
+            "lịch trình": 1,
+            "chú khỉ": 1,
+            "chủ nhà": 1,
+            "chuyến du lịch": 1,
+            "chuyến đi": 1,
+            "trải nghiệm": 1,
+            "xe": 1,
+            "rung cảm": 1,
+            "kỳ nghỉ": 1,
+            "hướng dẫn viên": 1
+        }
     }
 ]

@@ -97,6 +97,130 @@
             "https://www.tripadvisor.com/Attraction_Review-g147289-d149670-Reviews-Boca_Chica-Santo_Domingo_Santo_Domingo_Province_Dominican_Republic.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d20324176-Reviews-Nasa_Club-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d20324176-Reviews-Nasa_Club-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "câu lạc bộ": 0.7593400428304449,
+            "đôi tai": 0.5,
+            "câu": 0.7872905919017891,
+            "lạc bộ cả đêm": 0.5,
+            "con chó": 0.5,
+            "cơ sở sản": 0.5,
+            "âm nhạc": 0.954959921965686,
+            "thị trấn": -0.22738864831626415,
+            "thời gian": 0.9949463630327955,
+            "đồ uống dịch vụ": 0.975613905233331,
+            "hệ": 0.9954157549655065,
+            "thống âm thanh": 0.9936450878158212,
+            "lạc bộ khiêu vũ": 0.5577340386807919,
+            "quán bar": 0.8838720535859466,
+            "chai giá": 0.9949089162400924,
+            "đồ uống": 0.5,
+            "ly cocktail": 0.5,
+            "hương vị": 0.8737691454589367,
+            "dịch vụ": 0.995489668333903,
+            "câu lạc bộ đêm": 0.8737691454589367,
+            "âm thanh": 0.9897330234137675,
+            "nhân viên": 0.9953572174999863,
+            "không khí": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "câu lạc bộ": [
+                "tốt"
+            ],
+            "đôi tai": [],
+            "câu": [
+                "tốt",
+                "tuyệt vời"
+            ],
+            "lạc bộ cả đêm": [],
+            "con chó": [],
+            "cơ sở sản": [],
+            "âm nhạc": [
+                "tuyệt vời",
+                "xinh đẹp",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "thị trấn": [
+                "Chắc chắn"
+            ],
+            "thời gian": [
+                "tốt"
+            ],
+            "đồ uống dịch vụ": [
+                "tốt"
+            ],
+            "hệ": [
+                "tuyệt vời"
+            ],
+            "thống âm thanh": [
+                "tuyệt vời"
+            ],
+            "lạc bộ khiêu vũ": [
+                "tốt",
+                "tuyệt vời"
+            ],
+            "quán bar": [],
+            "chai giá": [
+                "tốt"
+            ],
+            "đồ uống": [],
+            "ly cocktail": [],
+            "hương vị": [
+                "tốt"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "câu lạc bộ đêm": [
+                "thực sự",
+                "thường xuyên"
+            ],
+            "âm thanh": [
+                "cân bằng",
+                "dễ",
+                "nhiều"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "tuyệt vời"
+            ],
+            "không khí": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "câu lạc bộ": 1.5,
+            "đôi tai": 0.5,
+            "câu": 1.5,
+            "lạc bộ cả đêm": 0.5,
+            "con chó": 0.5,
+            "cơ sở sản": 0.5,
+            "âm nhạc": 1.5,
+            "thị trấn": 0.5,
+            "thời gian": 0.5,
+            "đồ uống dịch vụ": 0.5,
+            "hệ": 0.5,
+            "thống âm thanh": 0.5,
+            "lạc bộ khiêu vũ": 1.0,
+            "quán bar": 0.5,
+            "chai giá": 0.5,
+            "đồ uống": 0.5,
+            "ly cocktail": 0.5,
+            "hương vị": 0.5,
+            "dịch vụ": 0.5,
+            "câu lạc bộ đêm": 0.5,
+            "âm thanh": 0.5,
+            "nhân viên": 0.5,
+            "không khí": 0.5
+        }
     }
 ]
