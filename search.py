@@ -46,3 +46,6 @@ def find_best_match(query, threshold=70):
         return matched_attraction
     else:
         return None
+
+def query_attraction(query):
+    return find_best_match(query)
