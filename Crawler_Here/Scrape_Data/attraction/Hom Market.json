@@ -111,7 +111,170 @@
             "https://www.tripadvisor.com/Attraction_Review-g1177043-d8333083-Reviews-Livadi_Beach-Bali_Rethymnon_Prefecture_Crete.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d8431997-Reviews-or10-Hom_Market-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8431997-Reviews-Hom_Market-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8431997-Reviews-Hom_Market-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thị trường địa": 0.9949895080062561,
+            "sản phẩm": 0.5,
+            "cửa hàng": 0.8644350306130946,
+            "quần áo giá": 0.9257366200909019,
+            "hồ hoàn": 0.5047675706446171,
+            "chợ có": 0.8737691454589367,
+            "mặt hàng": 0.5,
+            "khu chợ": 0.9517058034252841,
+            "chợ hôm": 0.6537636760622263,
+            "chuyến đi": 0.985204377444461,
+            "quầy hàng": 0.5,
+            "hang động": 0.5,
+            "người thợ may": 0.5,
+            "đồng xuân": 0.5414467807859182,
+            "chợ ẩm thực": 0.6230810042470694,
+            "trái cây - rau": 0.5,
+            "món ăn": 0.5,
+            "tầng": 0.5,
+            "thành phẩm": 0.5,
+            "sản phẩm lụa": 0.5,
+            "khu phố cổ": 0.5,
+            "hàng thô": -0.9743141075596213,
+            "khu phố phố": 0.9708625455386937,
+            "khu phố cổ du lịch": 0.6606320515275002,
+            "trái cây": 0.5,
+            "-": 0.5,
+            "rau": 0.5,
+            "giày dép": 0.5,
+            "quần áo may sẵn": 0.5,
+            "đồ bơi": 0.5,
+            "chợ vải": 0.9917990062385798,
+            "chợ": 0.7645653593353927,
+            "số": 0.5,
+            "trái cây rau": 0.5,
+            "quần áo": 0.44511367194354534,
+            "loại vải": 0.5,
+            "đồ trang trí": 0.5,
+            "túi xách": 0.5,
+            "thương hiệu": 0.5,
+            "hàng nhái": -0.9750484845135361,
+            "bông thêu": 0.5076235961169004
+        },
+        "dicts_adj": {
+            "thị trường địa": [
+                "nhiều"
+            ],
+            "sản phẩm": [],
+            "cửa hàng": [
+                "rẻ",
+                "nhẹ nhàng"
+            ],
+            "quần áo giá": [
+                "rẻ"
+            ],
+            "hồ hoàn": [
+                "khoảng"
+            ],
+            "chợ có": [
+                "nhiều"
+            ],
+            "mặt hàng": [],
+            "khu chợ": [
+                "nhiều"
+            ],
+            "chợ hôm": [
+                "riêng"
+            ],
+            "chuyến đi": [
+                "đặc biệt"
+            ],
+            "quầy hàng": [],
+            "hang động": [],
+            "người thợ may": [],
+            "đồng xuân": [
+                "hơn"
+            ],
+            "chợ ẩm thực": [
+                "trệt"
+            ],
+            "trái cây - rau": [],
+            "món ăn": [],
+            "tầng": [],
+            "thành phẩm": [],
+            "sản phẩm lụa": [],
+            "khu phố cổ": [],
+            "hàng thô": [],
+            "khu phố phố": [],
+            "khu phố cổ du lịch": [
+                "Chân thực",
+                "hơn",
+                "nhiều"
+            ],
+            "trái cây": [],
+            "-": [],
+            "rau": [],
+            "giày dép": [],
+            "quần áo may sẵn": [],
+            "đồ bơi": [],
+            "chợ vải": [
+                "thực sự",
+                "thú vị",
+                "thực sự"
+            ],
+            "chợ": [
+                "tươi",
+                "trệt"
+            ],
+            "số": [],
+            "trái cây rau": [],
+            "quần áo": [],
+            "loại vải": [],
+            "đồ trang trí": [],
+            "túi xách": [],
+            "thương hiệu": [],
+            "hàng nhái": [],
+            "bông thêu": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thị trường địa": 2,
+            "sản phẩm": 2,
+            "cửa hàng": 2.5,
+            "quần áo giá": 2,
+            "hồ hoàn": 1.5,
+            "chợ có": 1.5,
+            "mặt hàng": 1.5,
+            "khu chợ": 2.0,
+            "chợ hôm": 0.5,
+            "chuyến đi": 0.5,
+            "quầy hàng": 1.0,
+            "hang động": 0.5,
+            "người thợ may": 0.5,
+            "đồng xuân": 0.5,
+            "chợ ẩm thực": 0.5,
+            "trái cây - rau": 0.5,
+            "món ăn": 0.5,
+            "tầng": 0.5,
+            "thành phẩm": 0.5,
+            "sản phẩm lụa": 0.5,
+            "khu phố cổ": 0.5,
+            "hàng thô": 0.5,
+            "khu phố phố": 0.5,
+            "khu phố cổ du lịch": 0.5,
+            "trái cây": 0.5,
+            "-": 0.5,
+            "rau": 0.5,
+            "giày dép": 1.0,
+            "quần áo may sẵn": 0.5,
+            "đồ bơi": 0.5,
+            "chợ vải": 0.5,
+            "chợ": 0.5,
+            "số": 0.5,
+            "trái cây rau": 0.5,
+            "quần áo": 0.5,
+            "loại vải": 0.5,
+            "đồ trang trí": 0.5,
+            "túi xách": 0.5,
+            "thương hiệu": 0.5,
+            "hàng nhái": 0.5,
+            "bông thêu": 0.5
+        }
     },
     {
         "attraction_name": "Hom Market",
@@ -221,7 +384,227 @@
             "https://www.tripadvisor.com/Attraction_Review-g57097-d116308-Reviews-Canyons_Village_at_Park_City-Park_City_Utah.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d8431997-Reviews-or20-Hom_Market-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8431997-Reviews-or10-Hom_Market-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8431997-Reviews-or10-Hom_Market-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa hàng": 0.39163892436772585,
+            "chợ đêm": 0.6071419566869736,
+            "đồ dùng gia đình": 0.523346234112978,
+            "nhà bếp": 0.39646512269973755,
+            "khu chợ": 0.7553954962641001,
+            "chợ ẩm": 0.7160215033218265,
+            "người dân địa phương": 0.5,
+            "không gian": 0.2512896778061986,
+            "thị trường": -0.9623970403335989,
+            "vải": 0.9898670637048781,
+            "giãn voan": 0.5,
+            "chất liệu thêu": 0.5,
+            "chất liệu": -0.9440571323502809,
+            "gian hàng": 0.26154059189138934,
+            "tấm lụa": -0.9420358336064965,
+            "máy tính giấy": 0.973242690321058,
+            "quầy hàng": 0.5286225266754627,
+            "tầng": 0.5246104411780834,
+            "vải - dệt": 0.4502030797302723,
+            "rau củ quả rau thơm thịt": 0.5,
+            "thực phẩm nấu": 0.5,
+            "the": 0.500250956043601,
+            "món quần áo": 0.5148330144584179,
+            "vải cotton": -0.9665916457306594,
+            "quầy hàng bán": 0.4181754644960165,
+            "máy tính": -0.9267190741375089,
+            "bán hàng": 0.8341713680808122,
+            "loại vải": 0.9781943536363542,
+            "khu vực mua sắm": 0.5471269180998206,
+            "khu phố": 0.6931196488440037,
+            "giá thực": 0.5060491133481264,
+            "cống thoát nước": 0.5,
+            "trú ẩn": 0.5,
+            "giá cả": 0.9954882165184245,
+            "chuyến thăm": 0.9862087431829423,
+            "thực phẩm": 0.9955709750647657,
+            "tầng trệt": 0.9946855022571981,
+            "độ văn hóa địa": 0.5,
+            "chợ trời": 0.3358320388942957,
+            "bán hàng hóa": -0.967374861240387,
+            "rau củ hải sản tạp hóa đồ gia dụng": 0.25541131012141705,
+            "món": 0.5,
+            "quà lưu niệm": 0.5,
+            "thực phẩm quần áo": 0.5,
+            "đồ gia dụng": 0.9822946425992996
+        },
+        "dicts_adj": {
+            "cửa hàng": [
+                "hơn"
+            ],
+            "chợ đêm": [
+                "hơn"
+            ],
+            "đồ dùng gia đình": [
+                "hơn"
+            ],
+            "nhà bếp": [
+                "hơn"
+            ],
+            "khu chợ": [
+                "khác",
+                "ngon",
+                "thú vị"
+            ],
+            "chợ ẩm": [
+                "nhiều"
+            ],
+            "người dân địa phương": [],
+            "không gian": [
+                "bận rộn",
+                "nhiều",
+                "nhỏ"
+            ],
+            "thị trường": [
+                "điên",
+                "khắp"
+            ],
+            "vải": [
+                "tuyệt vời"
+            ],
+            "giãn voan": [],
+            "chất liệu thêu": [],
+            "chất liệu": [
+                "chắc chắn"
+            ],
+            "gian hàng": [
+                "tốt",
+                "tương tự",
+                "hư",
+                "nhỏ",
+                "khác",
+                "khác"
+            ],
+            "tấm lụa": [
+                "hư"
+            ],
+            "máy tính giấy": [
+                "rõ ràng"
+            ],
+            "quầy hàng": [
+                "nhiệt tình"
+            ],
+            "tầng": [
+                "trệt"
+            ],
+            "vải - dệt": [
+                "trệt"
+            ],
+            "rau củ quả rau thơm thịt": [],
+            "thực phẩm nấu": [],
+            "the": [
+                "sớm"
+            ],
+            "món quần áo": [
+                "tương tự"
+            ],
+            "vải cotton": [],
+            "quầy hàng bán": [
+                "giả"
+            ],
+            "máy tính": [
+                "Tốt"
+            ],
+            "bán hàng": [
+                "đẹp",
+                "hơn",
+                "nhiều"
+            ],
+            "loại vải": [
+                "tốt",
+                "tốt"
+            ],
+            "khu vực mua sắm": [
+                "cổ",
+                "hơn"
+            ],
+            "khu phố": [
+                "cổ",
+                "hơn"
+            ],
+            "giá thực": [
+                "nhiều"
+            ],
+            "cống thoát nước": [],
+            "trú ẩn": [],
+            "giá cả": [
+                "tuyệt vời",
+                "thực sự",
+                "hợp lý"
+            ],
+            "chuyến thăm": [],
+            "thực phẩm": [
+                "thú vị"
+            ],
+            "tầng trệt": [
+                "thú vị"
+            ],
+            "độ văn hóa địa": [],
+            "chợ trời": [
+                "nhỏ"
+            ],
+            "bán hàng hóa": [
+                "khắp"
+            ],
+            "rau củ hải sản tạp hóa đồ gia dụng": [],
+            "món": [],
+            "quà lưu niệm": [],
+            "thực phẩm quần áo": [],
+            "đồ gia dụng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa hàng": 1.0,
+            "chợ đêm": 0.5,
+            "đồ dùng gia đình": 0.5,
+            "nhà bếp": 0.5,
+            "khu chợ": 1.0,
+            "chợ ẩm": 0.5,
+            "người dân địa phương": 0.5,
+            "không gian": 1.0,
+            "thị trường": 0.5,
+            "vải": 0.5,
+            "giãn voan": 0.5,
+            "chất liệu thêu": 0.5,
+            "chất liệu": 0.5,
+            "gian hàng": 1.0,
+            "tấm lụa": 0.5,
+            "máy tính giấy": 0.5,
+            "quầy hàng": 1.0,
+            "tầng": 0.5,
+            "vải - dệt": 0.5,
+            "rau củ quả rau thơm thịt": 0.5,
+            "thực phẩm nấu": 0.5,
+            "the": 0.5,
+            "món quần áo": 0.5,
+            "vải cotton": 0.5,
+            "quầy hàng bán": 0.5,
+            "máy tính": 0.5,
+            "bán hàng": 0.5,
+            "loại vải": 0.5,
+            "khu vực mua sắm": 0.5,
+            "khu phố": 0.5,
+            "giá thực": 0.5,
+            "cống thoát nước": 0.5,
+            "trú ẩn": 0.5,
+            "giá cả": 0.5,
+            "chuyến thăm": 0.5,
+            "thực phẩm": 0.5,
+            "tầng trệt": 0.5,
+            "độ văn hóa địa": 0.5,
+            "chợ trời": 0.5,
+            "bán hàng hóa": 0.5,
+            "rau củ hải sản tạp hóa đồ gia dụng": 0.5,
+            "món": 0.5,
+            "quà lưu niệm": 0.5,
+            "thực phẩm quần áo": 0.5,
+            "đồ gia dụng": 0.5
+        }
     },
     {
         "attraction_name": "Hom Market",
@@ -332,7 +715,287 @@
             "https://www.tripadvisor.com/Attraction_Review-g295414-d12956633-Reviews-Sea_View_Beach-Karachi_Sindh_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d8431997-Reviews-or30-Hom_Market-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8431997-Reviews-or20-Hom_Market-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8431997-Reviews-or20-Hom_Market-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hàng dệt may": 0.5,
+            "chợ hôm": 0.09679997526109219,
+            "cửa hàng": 0.42258884105831385,
+            "khu vực": -0.9719078482594341,
+            "không khí": -0.969809754518792,
+            "phòng tắm": 0.944695589132607,
+            "khu chợ": 0.8100205180235207,
+            "xe máy": 0.5,
+            "quầy": 0.44474807009100914,
+            "bán vải": -0.21443361649289727,
+            "chợ chợ": 0.9947455720393918,
+            "hàng quán": -0.8498818324878812,
+            "đồ ăn áo cánh áo": -0.3688553785905242,
+            "kho tàng": 0.9778494378551841,
+            "con": -0.9229855174198747,
+            "phố": -0.8175514964386821,
+            "ngôi đền": 0.9853953514248133,
+            "con phố": 0.9701207145117223,
+            "giá cả": 0.9607577011920512,
+            "người dân": 0.9429162405431271,
+            "khu chợ ẩm thực chợ rau củ": 0.9538518325425684,
+            "cửa": -0.8071100185625255,
+            "hàng vải": -0.7186102429404855,
+            "trình độ tiếng anh": 0.766403985209763,
+            "áo sơ mi": 0.9949033180018887,
+            "loại": 0.5,
+            "vải": -0.17628443893045187,
+            "trang phục hóa": 0.5,
+            "nhà cung cấp": 0.9874699227220844,
+            "chăn bông": 0.7082121567800641,
+            "đồ thủ công": 0.49374229088425636,
+            "chợ vải": 0.949505518656224,
+            "khu": 0.741212806198746,
+            "chợ": 0.612873419187963,
+            "món ăn": 0.9847297400701791,
+            "trái cây": 0.9948144849622622,
+            "bánh bao": -0.93573900568299,
+            "quán cà phê": 0.9936948719259817,
+            "vị trí": -0.9604222807101905,
+            "phố trần xuân": 0.7096038553863764,
+            "loại vải": 0.6414628140628338,
+            "trải nghiệm": 0.5,
+            "quầy hàng": 0.5,
+            "thị trường": 0.568026383407414,
+            "ren lụa vải": 0.987055647186935,
+            "2m": 0.5,
+            "lụa": 0.5,
+            "2m ren": 0.5,
+            "chợ thực phẩm": 0.5,
+            "nông sản": 0.5,
+            "hang động": 0.8115907460451126,
+            "thợ may": 0.994906107429415,
+            "tơ nhân tạo": 0.5,
+            "vải bọc": 0.5,
+            "khu mua sắm quần áo": 0.5,
+            "chiếc": 0.9879997685784474,
+            "áo": 0.9882133809151128
+        },
+        "dicts_adj": {
+            "hàng dệt may": [],
+            "chợ hôm": [
+                "nhiều"
+            ],
+            "cửa hàng": [
+                "gần",
+                "Dọc",
+                "nhỏ"
+            ],
+            "khu vực": [
+                "ngột ngạt"
+            ],
+            "không khí": [
+                "ngột ngạt"
+            ],
+            "phòng tắm": [],
+            "khu chợ": [
+                "thú vị"
+            ],
+            "xe máy": [],
+            "quầy": [
+                "nhiều"
+            ],
+            "bán vải": [
+                "nhiều"
+            ],
+            "chợ chợ": [
+                "vui"
+            ],
+            "hàng quán": [
+                "tràn ngập"
+            ],
+            "đồ ăn áo cánh áo": [],
+            "kho tàng": [
+                "phải",
+                "tuyệt vời"
+            ],
+            "con": [
+                "ngắn"
+            ],
+            "phố": [
+                "ngắn"
+            ],
+            "ngôi đền": [
+                "đẹp",
+                "trái"
+            ],
+            "con phố": [
+                "chênh lệch"
+            ],
+            "giá cả": [
+                "chênh lệch"
+            ],
+            "người dân": [
+                "chênh lệch"
+            ],
+            "khu chợ ẩm thực chợ rau củ": [
+                "trệt"
+            ],
+            "cửa": [
+                "hẹp"
+            ],
+            "hàng vải": [
+                "hẹp"
+            ],
+            "trình độ tiếng anh": [
+                "tốt",
+                "sẵn sàng"
+            ],
+            "áo sơ mi": [
+                "tuyệt vời",
+                "nhất",
+                "nhiều",
+                "hiện đại"
+            ],
+            "loại": [],
+            "vải": [
+                "nhiều"
+            ],
+            "trang phục hóa": [],
+            "nhà cung cấp": [
+                "vui",
+                "nhiều"
+            ],
+            "chăn bông": [
+                "nhỏ",
+                "hơn"
+            ],
+            "đồ thủ công": [
+                "nhỏ",
+                "hơn"
+            ],
+            "chợ vải": [
+                "giống",
+                "sẵn sàng",
+                "đặc biệt",
+                "lớn"
+            ],
+            "khu": [
+                "thơm",
+                "ngon"
+            ],
+            "chợ": [
+                "thơm",
+                "ngon"
+            ],
+            "món ăn": [
+                "thơm",
+                "ngon"
+            ],
+            "trái cây": [
+                "thơm",
+                "ngon"
+            ],
+            "bánh bao": [
+                "mờ"
+            ],
+            "quán cà phê": [
+                "hiện đại",
+                "hơn",
+                "mệt mỏi",
+                "thực sự"
+            ],
+            "vị trí": [
+                "sai"
+            ],
+            "phố trần xuân": [],
+            "loại vải": [
+                "trung bình",
+                "nhiều",
+                "cao"
+            ],
+            "trải nghiệm": [],
+            "quầy hàng": [],
+            "thị trường": [
+                "cao"
+            ],
+            "ren lụa vải": [],
+            "2m": [],
+            "lụa": [],
+            "2m ren": [],
+            "chợ thực phẩm": [],
+            "nông sản": [],
+            "hang động": [],
+            "thợ may": [
+                "bất kỳ"
+            ],
+            "tơ nhân tạo": [],
+            "vải bọc": [],
+            "khu mua sắm quần áo": [],
+            "chiếc": [
+                "đẹp",
+                "nhiều"
+            ],
+            "áo": [
+                "đẹp",
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hàng dệt may": 0.5,
+            "chợ hôm": 1.0,
+            "cửa hàng": 1.0,
+            "khu vực": 0.5,
+            "không khí": 0.5,
+            "phòng tắm": 0.5,
+            "khu chợ": 1.5,
+            "xe máy": 0.5,
+            "quầy": 1.0,
+            "bán vải": 1.0,
+            "chợ chợ": 0.5,
+            "hàng quán": 0.5,
+            "đồ ăn áo cánh áo": 0.5,
+            "kho tàng": 0.5,
+            "con": 0.5,
+            "phố": 0.5,
+            "ngôi đền": 0.5,
+            "con phố": 0.5,
+            "giá cả": 0.5,
+            "người dân": 0.5,
+            "khu chợ ẩm thực chợ rau củ": 0.5,
+            "cửa": 0.5,
+            "hàng vải": 0.5,
+            "trình độ tiếng anh": 0.5,
+            "áo sơ mi": 0.5,
+            "loại": 1.0,
+            "vải": 1.0,
+            "trang phục hóa": 0.5,
+            "nhà cung cấp": 0.5,
+            "chăn bông": 0.5,
+            "đồ thủ công": 0.5,
+            "chợ vải": 0.5,
+            "khu": 0.5,
+            "chợ": 1.0,
+            "món ăn": 0.5,
+            "trái cây": 0.5,
+            "bánh bao": 0.5,
+            "quán cà phê": 0.5,
+            "vị trí": 0.5,
+            "phố trần xuân": 0.5,
+            "loại vải": 0.5,
+            "trải nghiệm": 0.5,
+            "quầy hàng": 0.5,
+            "thị trường": 1.0,
+            "ren lụa vải": 0.5,
+            "2m": 0.5,
+            "lụa": 0.5,
+            "2m ren": 0.5,
+            "chợ thực phẩm": 0.5,
+            "nông sản": 1.0,
+            "hang động": 0.5,
+            "thợ may": 0.5,
+            "tơ nhân tạo": 0.5,
+            "vải bọc": 0.5,
+            "khu mua sắm quần áo": 0.5,
+            "chiếc": 0.5,
+            "áo": 0.5
+        }
     },
     {
         "attraction_name": "Hom Market",
@@ -429,6 +1092,11 @@
             "https://www.tripadvisor.com/Attraction_Review-g60713-d127854-Reviews-San_Francisco_Zoo-San_Francisco_California.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8431997-Reviews-or30-Hom_Market-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8431997-Reviews-or30-Hom_Market-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     }
 ]
