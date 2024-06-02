@@ -7,7 +7,7 @@ from Model_Here.auto_download_models import  dowwload_model
 
 dowwload_model()
 
-from recommend import recommend_system
+from recommend import recommend_system, get_new_contentbase_df
 from search import query_attraction
 from service_crawl import get_all_json_data, update_csv_with_json_data, start_crawl, stop_crawl, get_json_statistics, start_crawl_mode_2
 from service_model import sentiment_analysis_all, fully_updated_sentiment_csv, export_synonyms_clusters
@@ -62,8 +62,14 @@ def start_crawl_mode_2_thread():
 
 def start_sentiment_scoring_thread():
     with app.app_context():
-        sentiment_analysis_all()
-        fully_updated_sentiment_csv()
+        try:
+            sentiment_analysis_all()
+            fully_updated_sentiment_csv()
+            export_synonyms_clusters()
+            get_new_contentbase_df()
+            print("Hoàn tất tiến trình!")
+        except Exception as e:
+            print("Error :" + e)
 
 def update_sentiment_csv_thread():
     with app.app_context():
@@ -245,6 +251,7 @@ def my_job():
 # bước 3: Thực hiện update sentiment csv
 # bước 4: Thực hiện download score csv
 # bước 5: Thực hiện get synonyms clusters (trong đó bao gồm update entity translate, update file vi_cluster và download vi_cluster)
+# bước 6: Thực hiện tạo mới content_base_score_df.csv dựa trên 2 file trên
 
 # bước 1.2: Crawl data bằng mode 2 (để cập nhật dữ liệu review từ địa điểm cũ)
 if __name__ == '__main__':
