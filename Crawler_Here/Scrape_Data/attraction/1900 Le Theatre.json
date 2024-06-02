@@ -80,7 +80,175 @@
             "https://www.tripadvisor.com/Attraction_Review-g1758900-d7808470-Reviews-XYLO_at_The_Palace-Taguig_City_Metro_Manila_Luzon.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d9983238-Reviews-or10-1900_Le_Theatre-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d9983238-Reviews-1900_Le_Theatre-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d9983238-Reviews-1900_Le_Theatre-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "âm nhạc": 0.6484501684400519,
+            "giá hơi": 0.8737692451104522,
+            "đồ uống": 0.20400687133078463,
+            "câu lạc bộ": 0.2064813203954448,
+            "quầy bar": 0.5,
+            "vị trí": 0.5,
+            "hàng rào": 0.5,
+            "rung cảm": 0.9955548148136586,
+            "cuộc": -0.9738652992527932,
+            "kiểm tra an ninh": -0.9743527767714113,
+            "lạc bộ": 0.12250055108840267,
+            "ly rượu": 0.5,
+            "khu phố cổ": 0.5,
+            "người dân địa": 0.9771117616910487,
+            "câu lạc": -0.9583012883085757,
+            "cốc bia": 0.7362989239394665,
+            "sàn": 0.9314790363423526,
+            "câu": 0.09970520966453478,
+            "bầu": 0.5,
+            "không khí": 0.7242615470662713,
+            "giá cả": 0.9930280385888182,
+            "đồ ăn": 0.6533634075894952,
+            "hệ thống âm thanh": 0.9940159698016942,
+            "chương trình khuyến mãi": -0.6243250472471118,
+            "nhân viên": 0.9656290233833715,
+            "công nghệ sản": 0.8737692451104522,
+            "công nghệ": 0.9885035170591436,
+            "họ": 0.9955948379356414,
+            "hòa âm": 0.9951639715582132,
+            "phòng lớn": 0.5,
+            "nhà công nghệ": 0.5
+        },
+        "dicts_adj": {
+            "âm nhạc": [
+                "hay",
+                "thực sự",
+                "đa dạng",
+                "chung",
+                "hơn",
+                "nhiều"
+            ],
+            "giá hơi": [
+                "đắt"
+            ],
+            "đồ uống": [
+                "ngon",
+                "cao",
+                "khác",
+                "khác",
+                "ngon"
+            ],
+            "câu lạc bộ": [
+                "thực sự",
+                "tốt",
+                "tốt",
+                "có thể",
+                "chắc chắn",
+                "tuyệt vời",
+                "xứng đáng",
+                "nổi tiếng",
+                "khác"
+            ],
+            "quầy bar": [],
+            "vị trí": [],
+            "hàng rào": [],
+            "rung cảm": [
+                "tốt"
+            ],
+            "cuộc": [
+                "nguy hiểm"
+            ],
+            "kiểm tra an ninh": [
+                "nguy hiểm"
+            ],
+            "lạc bộ": [
+                "nguy hiểm",
+                "nguy hiểm",
+                "tốt",
+                "tốt"
+            ],
+            "ly rượu": [],
+            "khu phố cổ": [],
+            "người dân địa": [
+                "vui vẻ"
+            ],
+            "câu lạc": [],
+            "cốc bia": [
+                "nhẹ"
+            ],
+            "sàn": [
+                "đầy"
+            ],
+            "câu": [
+                "nhiều",
+                "đông",
+                "phải",
+                "tốt"
+            ],
+            "bầu": [],
+            "không khí": [
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "hợp lý",
+                "hợp lý"
+            ],
+            "đồ ăn": [
+                "nhẹ"
+            ],
+            "hệ thống âm thanh": [
+                "tốt"
+            ],
+            "chương trình khuyến mãi": [],
+            "nhân viên": [
+                "tốt"
+            ],
+            "công nghệ sản": [
+                "tốt"
+            ],
+            "công nghệ": [
+                "tốt"
+            ],
+            "họ": [
+                "tốt"
+            ],
+            "hòa âm": [
+                "tốt"
+            ],
+            "phòng lớn": [],
+            "nhà công nghệ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "âm nhạc": 3.5,
+            "giá hơi": 0.5,
+            "đồ uống": 2.5,
+            "câu lạc bộ": 7.0,
+            "quầy bar": 0.5,
+            "vị trí": 0.5,
+            "hàng rào": 0.5,
+            "rung cảm": 0.5,
+            "cuộc": 0.5,
+            "kiểm tra an ninh": 0.5,
+            "lạc bộ": 1.5,
+            "ly rượu": 0.5,
+            "khu phố cổ": 0.5,
+            "người dân địa": 0.5,
+            "câu lạc": 0.5,
+            "cốc bia": 2.5,
+            "sàn": 1,
+            "câu": 1,
+            "bầu": 1,
+            "không khí": 2.5,
+            "giá cả": 3.0,
+            "đồ ăn": 1.5,
+            "hệ thống âm thanh": 1.5,
+            "chương trình khuyến mãi": 1.5,
+            "nhân viên": 1.5,
+            "công nghệ sản": 1,
+            "công nghệ": 1,
+            "họ": 1,
+            "hòa âm": 1,
+            "phòng lớn": 1,
+            "nhà công nghệ": 1
+        }
     },
     {
         "attraction_name": "1900 Le Theatre",
@@ -167,6 +335,147 @@
             "https://www.tripadvisor.com/Attraction_Review-g187791-d4416917-Reviews-Torre_Argentina_Cat_Sanctuary-Rome_Lazio.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d9983238-Reviews-or20-1900_Le_Theatre-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d9983238-Reviews-or10-1900_Le_Theatre-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d9983238-Reviews-or10-1900_Le_Theatre-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "câu lạc bộ": 0.9873306599911302,
+            "mix nhạc việt": 0.9954298506199848,
+            "đồ uống": 0.6056004082784057,
+            "rung cảm": 0.9953458164818585,
+            "âm nhạc": 0.9346016853232868,
+            "không khí": -0.05824687425047159,
+            "nhân viên": 0.7476204361300915,
+            "phố cổ": 0.6301152585074306,
+            "cốc bia": -0.9663995925802737,
+            "cả đêm": 0.991237465525046,
+            "bộ nhạc": 0.8170774728059769,
+            "câu": -0.19885019585490227,
+            "lạc bộ đêm": -0.477752385661006,
+            "không gian": 0.6184458006173372,
+            "bầu không khí": 0.7986390572041273,
+            "họ": 0.8737692451104522,
+            "chuyến đi": 0.995247716200538,
+            "viên ngọc": 0.8651258209720254,
+            "dịch vụ": 0.6755160255474039,
+            "cho": 0.9947513918450568,
+            "cơ sở hạ tầng": 0.9824731007101946,
+            "khu phố": 0.6851961631327868,
+            "khu phố cổ": 0.5177685683593154,
+            "thị trấn": 0.5
+        },
+        "dicts_adj": {
+            "câu lạc bộ": [
+                "tốt"
+            ],
+            "mix nhạc việt": [
+                "tốt",
+                "nhiều"
+            ],
+            "đồ uống": [
+                "hợp lý"
+            ],
+            "rung cảm": [
+                "tốt"
+            ],
+            "âm nhạc": [
+                "tốt",
+                "bất kỳ",
+                "tuyệt vời"
+            ],
+            "không khí": [
+                "tốt",
+                "vui vẻ",
+                "nhanh"
+            ],
+            "nhân viên": [
+                "đầy",
+                "đơn giản"
+            ],
+            "phố cổ": [
+                "nhỏ bé"
+            ],
+            "cốc bia": [
+                "đầu tiên",
+                "đắt"
+            ],
+            "cả đêm": [],
+            "bộ nhạc": [
+                "nhiều",
+                "khác"
+            ],
+            "câu": [
+                "lớn"
+            ],
+            "lạc bộ đêm": [
+                "lớn"
+            ],
+            "không gian": [
+                "tốt",
+                "lớn"
+            ],
+            "bầu không khí": [
+                "tuyệt vời",
+                "đông",
+                "chủ yếu",
+                "trẻ"
+            ],
+            "họ": [
+                "hợp lý"
+            ],
+            "chuyến đi": [],
+            "viên ngọc": [
+                "xa xôi"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "đủ",
+                "ngon",
+                "tốt",
+                "hơn"
+            ],
+            "cho": [
+                "vui vẻ",
+                "nhanh"
+            ],
+            "cơ sở hạ tầng": [
+                "vui vẻ",
+                "nhanh"
+            ],
+            "khu phố": [
+                "cổ"
+            ],
+            "khu phố cổ": [
+                "thời thượng",
+                "nhất"
+            ],
+            "thị trấn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "câu lạc bộ": 1,
+            "mix nhạc việt": 1,
+            "đồ uống": 1.5,
+            "rung cảm": 0.5,
+            "âm nhạc": 1.0,
+            "không khí": 1.0,
+            "nhân viên": 1.0,
+            "phố cổ": 0.5,
+            "cốc bia": 0.5,
+            "cả đêm": 0.5,
+            "bộ nhạc": 0.5,
+            "câu": 0.5,
+            "lạc bộ đêm": 0.5,
+            "không gian": 0.5,
+            "bầu không khí": 0.5,
+            "họ": 0.5,
+            "chuyến đi": 0.5,
+            "viên ngọc": 0.5,
+            "dịch vụ": 0.5,
+            "cho": 0.5,
+            "cơ sở hạ tầng": 0.5,
+            "khu phố": 0.5,
+            "khu phố cổ": 0.5,
+            "thị trấn": 0.5
+        }
     }
 ]
