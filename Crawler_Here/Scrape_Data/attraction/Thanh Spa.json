@@ -111,7 +111,95 @@
             "https://www.tripadvisor.com/Attraction_Review-g3137978-d7161292-Reviews-Gili_Getaway-Serangan_Denpasar_Bali.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d15681094-Reviews-or10-Thanh_Spa-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15681094-Reviews-Thanh_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15681094-Reviews-Thanh_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.9683937040131746,
+            "dịch vụ": 0.8964954180943702,
+            "phương pháp massage": 0.5,
+            "mát-xa thật tuyệt": 0.9954644261742942,
+            "nhân viên mát xa": 0.9953766885155346,
+            "trị liệu": 0.8737691454589367,
+            "hương thơm": 0.916727869771421,
+            "mát-xa": -0.9743776172399521,
+            "bằng đá": -0.9523612738121301,
+            "giá cả": 0.8737691454589367,
+            "phòng": 0.5422588475048542,
+            "tảng đá nóng": -0.919602979440242,
+            "spa": 0.6969732057768852
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "tuyệt vời",
+                "đặc biệt",
+                "tốt",
+                "xứng đáng",
+                "tốt",
+                "tốt",
+                "chuyên nghiệp"
+            ],
+            "dịch vụ": [
+                "đặc biệt",
+                "tuyệt vời",
+                "lịch sự",
+                "tuyệt vời",
+                "nhiều",
+                "cao"
+            ],
+            "phương pháp massage": [],
+            "mát-xa thật tuyệt": [
+                "tuyệt vời"
+            ],
+            "nhân viên mát xa": [
+                "tốt",
+                "trẻ",
+                "tuyệt vời"
+            ],
+            "trị liệu": [
+                "nóng"
+            ],
+            "hương thơm": [
+                "nóng"
+            ],
+            "mát-xa": [
+                "nóng"
+            ],
+            "bằng đá": [
+                "nóng"
+            ],
+            "giá cả": [
+                "tốt",
+                "tốt"
+            ],
+            "phòng": [
+                "riêng",
+                "riêng"
+            ],
+            "tảng đá nóng": [
+                "thoải mái",
+                "thư giãn"
+            ],
+            "spa": [
+                "nhỏ",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 1.5,
+            "dịch vụ": 3.0,
+            "phương pháp massage": 0.5,
+            "mát-xa thật tuyệt": 0.5,
+            "nhân viên mát xa": 1.0,
+            "trị liệu": 0.5,
+            "hương thơm": 0.5,
+            "mát-xa": 0.5,
+            "bằng đá": 0.5,
+            "giá cả": 0.5,
+            "phòng": 0.5,
+            "tảng đá nóng": 0.5,
+            "spa": 0.5
+        }
     },
     {
         "attraction_name": "Thanh Spa",
@@ -225,6 +313,87 @@
             "https://www.tripadvisor.com/Attraction_Review-g304087-d548922-Reviews-Our_Lady_of_the_Rocks-Perast_Kotor_Municipality.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d15681094-Reviews-or20-Thanh_Spa-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15681094-Reviews-or10-Thanh_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15681094-Reviews-or10-Thanh_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.9859344384167343,
+            "sân bay": 0.9760145517066121,
+            "kỹ năng": 0.995230023690965,
+            "phong cách": 0.9954337201197632,
+            "dịch vụ": 0.8737691454589367,
+            "kỹ thuật viên": 0.9952734718535794,
+            "nhân viên kỹ năng": 0.9091596584767103,
+            "khu nghỉ dưỡng": 0.9954807438189164,
+            "trải nghiệm spa": 0.9954548390232958,
+            "dịch vụ spa": 0.9390972084656823,
+            "thai massage": 0.8737691454589367,
+            "dịch vụ nhân viên": 0.9953923251014203
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "đơn giản",
+                "đẹp",
+                "dễ thương",
+                "tốt",
+                "tốt bụng",
+                "cao"
+            ],
+            "sân bay": [],
+            "kỹ năng": [
+                "vui",
+                "bất ngờ",
+                "nhỏ",
+                "tốt"
+            ],
+            "phong cách": [
+                "chắc chắn",
+                "nhỏ",
+                "chuyên nghiệp",
+                "thân thiện"
+            ],
+            "dịch vụ": [
+                "xuất sắc"
+            ],
+            "kỹ thuật viên": [
+                "giỏi",
+                "thoải mái",
+                "tốt",
+                "đẹp"
+            ],
+            "nhân viên kỹ năng": [
+                "khác biệt"
+            ],
+            "khu nghỉ dưỡng": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm spa": [
+                "tuyệt vời"
+            ],
+            "dịch vụ spa": [
+                "tuyệt vời"
+            ],
+            "thai massage": [
+                "ổn",
+                "tuyệt vời"
+            ],
+            "dịch vụ nhân viên": [
+                "hài lòng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 2.5,
+            "sân bay": 0.5,
+            "kỹ năng": 0.5,
+            "phong cách": 0.5,
+            "dịch vụ": 0.5,
+            "kỹ thuật viên": 0.5,
+            "nhân viên kỹ năng": 0.5,
+            "khu nghỉ dưỡng": 0.5,
+            "trải nghiệm spa": 0.5,
+            "dịch vụ spa": 0.5,
+            "thai massage": 0.5,
+            "dịch vụ nhân viên": 0.5
+        }
     }
 ]

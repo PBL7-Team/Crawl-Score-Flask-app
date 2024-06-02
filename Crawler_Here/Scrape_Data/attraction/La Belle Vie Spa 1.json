@@ -114,7 +114,147 @@
             "https://www.tripadvisor.com/Attraction_Review-g60653-d108472-Reviews-Kane_ohe_Bay-Kaneohe_Oahu_Hawaii.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d17688564-Reviews-or10-La_Belle_Vie_Spa_1-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d17688564-Reviews-La_Belle_Vie_Spa_1-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d17688564-Reviews-La_Belle_Vie_Spa_1-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9916881710814778,
+            "cơ sở vật chất": 0.995313284220174,
+            "dịch vụ": 0.7807655887212605,
+            "bữa trưa": 0.8737691454589367,
+            "trị liệu": 0.9952597494702786,
+            "bữa ăn": 0.7779442593455315,
+            "toàn thân": 0.7536624184576795,
+            "mát-xa chuyên nghiệp": 0.5,
+            "đều hoàn": 0.9952934197499417,
+            "nhân viên": 0.9944136056583375,
+            "liệu pháp mát-xa phù hợp": 0.9903840197948739,
+            "mát-xa đó thực sự rất": 0.9954891025554389,
+            "nhân viên mát xa": 0.9955825516371988,
+            "thư giãn": 0.9954706402495503,
+            "dịch vụ mát-xa cho": 0.9207311710342765,
+            "ngâm chân": -0.46219579549506307,
+            "khu": 0.993988438975066,
+            "massage đôi": 0.970981324557215,
+            "rửa chân": 0.009567531291395426,
+            "trộn châu á": 0.9912027983227745,
+            "âm nhạc": 0.9955246591707692,
+            "massage thật": 0.9955044032540172,
+            "mát-xa và dịch": 0.9954485581838526
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "cơ sở vật chất": [
+                "sạch sẽ",
+                "sạch sẽ"
+            ],
+            "dịch vụ": [
+                "sẵn",
+                "sạch sẽ",
+                "sẵn"
+            ],
+            "bữa trưa": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "trị liệu": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "bữa ăn": [
+                "ngắn",
+                "ngắn"
+            ],
+            "toàn thân": [
+                "nồng nhiệt",
+                "nhất",
+                "nồng nhiệt",
+                "nhất"
+            ],
+            "mát-xa chuyên nghiệp": [],
+            "đều hoàn": [],
+            "nhân viên": [
+                "dễ thương",
+                "dễ thương"
+            ],
+            "liệu pháp mát-xa phù hợp": [
+                "tốt",
+                "tốt"
+            ],
+            "mát-xa đó thực sự rất": [
+                "tốt",
+                "tốt"
+            ],
+            "nhân viên mát xa": [
+                "tốt bụng",
+                "lành nghề",
+                "tuyệt vời",
+                "tốt bụng",
+                "lành nghề",
+                "tuyệt vời"
+            ],
+            "thư giãn": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "dịch vụ mát-xa cho": [
+                "rẻ"
+            ],
+            "ngâm chân": [
+                "bất kỳ",
+                "bất kỳ",
+                "nhanh"
+            ],
+            "khu": [
+                "nhanh"
+            ],
+            "massage đôi": [
+                "rẻ"
+            ],
+            "rửa chân": [
+                "bất kỳ",
+                "nhanh"
+            ],
+            "trộn châu á": [],
+            "âm nhạc": [
+                "tuyệt vời"
+            ],
+            "massage thật": [
+                "tuyệt vời"
+            ],
+            "mát-xa và dịch": [
+                "nhiều",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 5.0,
+            "cơ sở vật chất": 3.0,
+            "dịch vụ": 5.0,
+            "bữa trưa": 3.0,
+            "trị liệu": 3.0,
+            "bữa ăn": 3.0,
+            "toàn thân": 3.0,
+            "mát-xa chuyên nghiệp": 3.0,
+            "đều hoàn": 3.0,
+            "nhân viên": 3.0,
+            "liệu pháp mát-xa phù hợp": 3.0,
+            "mát-xa đó thực sự rất": 3.0,
+            "nhân viên mát xa": 3.0,
+            "thư giãn": 3.0,
+            "dịch vụ mát-xa cho": 1.5,
+            "ngâm chân": 3.0,
+            "khu": 1.5,
+            "massage đôi": 1.5,
+            "rửa chân": 1.5,
+            "trộn châu á": 1.5,
+            "âm nhạc": 1,
+            "massage thật": 1,
+            "mát-xa và dịch": 1
+        }
     },
     {
         "attraction_name": "La Belle Vie Spa 1",
@@ -226,6 +366,173 @@
             "https://www.tripadvisor.com/Attraction_Review-g32978-d156970-Reviews-Lake_Hemet-Riverside_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d17688564-Reviews-or20-La_Belle_Vie_Spa_1-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d17688564-Reviews-or10-La_Belle_Vie_Spa_1-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d17688564-Reviews-or10-La_Belle_Vie_Spa_1-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm spa": 0.9954328298335895,
+            "cơ sở": 0.9937579543911852,
+            "dịch vụ": 0.00041566183790564537,
+            "bữa trưa": 0.8737691454589367,
+            "trải nghiệm": 0.9953099895035848,
+            "bữa ăn": 0.8748441748321056,
+            "ở đây": 0.5,
+            "đều hoàn": 0.5,
+            "nhân viên": 0.5,
+            "buổi mát-xa phù hợp": 0.5,
+            "thực sự rất tuyệt": 0.5,
+            "nhân viên mát-xa rất": 0.9665376981720328,
+            "cao tôi": 0.9926523629110307,
+            "trà ngon": 0.989981783204712,
+            "nhân viên lễ tân": 0.9919848560821265,
+            "buổi mát-xa đích": 0.9927101447246969,
+            "không khí": 0.9955254519009031,
+            "nhân viên mát xa": -0.6196081032976508,
+            "mát-xa": 0.945750217884779,
+            "- giá gần như": 0.8737691454589367,
+            "dịch vụ mát xa": 0.9954600666533224,
+            "dịch vụ mát-xa và dịch": 0.5,
+            "đến mức": 0.5,
+            "dịch vụ mát-xa cũng như": 0.5112772881984711,
+            "đều tuyệt": 0.9954973541898653,
+            "buổi trị liệu": 0.9951982646016404,
+            "tòa nhà": 0.8737691454589367,
+            "phòng trị liệu": 0.5,
+            "nhân viên mát-xa": 0.8737691454589367,
+            "ở tầng": 0.6353882288870712,
+            "nhân viên massage": 0.5477069914340973,
+            "spa": 0.9922258544247597,
+            "chuyến thăm": -0.05887879431247711
+        },
+        "dicts_adj": {
+            "trải nghiệm spa": [
+                "tuyệt vời"
+            ],
+            "cơ sở": [],
+            "dịch vụ": [
+                "sẵn",
+                "tuyệt vời"
+            ],
+            "bữa trưa": [
+                "tuyệt"
+            ],
+            "trải nghiệm": [
+                "tuyệt",
+                "nhiều",
+                "khác",
+                "tuyệt vời"
+            ],
+            "bữa ăn": [
+                "ngắn"
+            ],
+            "ở đây": [],
+            "đều hoàn": [],
+            "nhân viên": [],
+            "buổi mát-xa phù hợp": [],
+            "thực sự rất tuyệt": [],
+            "nhân viên mát-xa rất": [
+                "tử tế"
+            ],
+            "cao tôi": [
+                "tuyệt vời"
+            ],
+            "trà ngon": [],
+            "nhân viên lễ tân": [
+                "rõ ràng"
+            ],
+            "buổi mát-xa đích": [
+                "thư giãn"
+            ],
+            "không khí": [
+                "tuyệt vời",
+                "niềm nở",
+                "thư giãn",
+                "đầy đủ"
+            ],
+            "nhân viên mát xa": [
+                "tương tự"
+            ],
+            "mát-xa": [
+                "tương tự"
+            ],
+            "- giá gần như": [
+                "tương tự"
+            ],
+            "dịch vụ mát xa": [
+                "tốt"
+            ],
+            "dịch vụ mát-xa và dịch": [],
+            "đến mức": [],
+            "dịch vụ mát-xa cũng như": [
+                "xuất sắc",
+                "sạch sẽ"
+            ],
+            "đều tuyệt": [
+                "tuyệt vời"
+            ],
+            "buổi trị liệu": [
+                "thực sự",
+                "thư giãn",
+                "thú vị"
+            ],
+            "tòa nhà": [
+                "sạch sẽ",
+                "đặc biệt"
+            ],
+            "phòng trị liệu": [],
+            "nhân viên mát-xa": [
+                "thực sự",
+                "tốt bụng",
+                "chuyên nghiệp"
+            ],
+            "ở tầng": [
+                "thực sự",
+                "tốt bụng",
+                "chuyên nghiệp"
+            ],
+            "nhân viên massage": [
+                "nổi bật"
+            ],
+            "spa": [
+                "cao",
+                "chắc chắn"
+            ],
+            "chuyến thăm": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm spa": 1.5,
+            "cơ sở": 1.5,
+            "dịch vụ": 2.5,
+            "bữa trưa": 1.5,
+            "trải nghiệm": 2.5,
+            "bữa ăn": 1.5,
+            "ở đây": 1.5,
+            "đều hoàn": 1.5,
+            "nhân viên": 1.5,
+            "buổi mát-xa phù hợp": 1.5,
+            "thực sự rất tuyệt": 1.5,
+            "nhân viên mát-xa rất": 1.5,
+            "cao tôi": 1.5,
+            "trà ngon": 1,
+            "nhân viên lễ tân": 1,
+            "buổi mát-xa đích": 1,
+            "không khí": 1,
+            "nhân viên mát xa": 1,
+            "mát-xa": 1,
+            "- giá gần như": 1,
+            "dịch vụ mát xa": 1,
+            "dịch vụ mát-xa và dịch": 1,
+            "đến mức": 1,
+            "dịch vụ mát-xa cũng như": 1,
+            "đều tuyệt": 1,
+            "buổi trị liệu": 1,
+            "tòa nhà": 1,
+            "phòng trị liệu": 1,
+            "nhân viên mát-xa": 1,
+            "ở tầng": 1,
+            "nhân viên massage": 1,
+            "spa": 1,
+            "chuyến thăm": 1
+        }
     }
 ]

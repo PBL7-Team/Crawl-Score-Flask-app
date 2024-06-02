@@ -90,6 +90,71 @@
             "https://www.tripadvisor.com/Attraction_Review-g32400-d103759-Reviews-MacKerricher_State_Park-Fort_Bragg_Mendocino_County_California.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d2482949-Reviews-Duong_Vietnam_Fine_Art-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d2482949-Reviews-Duong_Vietnam_Fine_Art-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "phòng trưng bày nghệ thuật": 0.5,
+            "tiệm bánh": 0.5,
+            "cửa hàng": 0.12356221303343773,
+            "chào chúa": 0.5,
+            "bộ sưu tập": 0.5,
+            "phòng": 0.5,
+            "trưng bày": 0.5,
+            "dãy nhà": -0.9298383044078946,
+            "trang web": 0.5,
+            "số điện": 0.5,
+            "tranh sơn dầu": 0.5,
+            "tác phẩm": 0.995556011039298,
+            "hội họa": 0.9952963118557818,
+            "khu phố cổ": -0.9225600101053715
+        },
+        "dicts_adj": {
+            "phòng trưng bày nghệ thuật": [],
+            "tiệm bánh": [],
+            "cửa hàng": [
+                "quan trọng"
+            ],
+            "chào chúa": [],
+            "bộ sưu tập": [],
+            "phòng": [],
+            "trưng bày": [],
+            "dãy nhà": [
+                "bối rối"
+            ],
+            "trang web": [],
+            "số điện": [],
+            "tranh sơn dầu": [],
+            "tác phẩm": [
+                "lớn",
+                "xuất sắc",
+                "yêu thích"
+            ],
+            "hội họa": [
+                "thân thiện",
+                "tốt"
+            ],
+            "khu phố cổ": [
+                "chuyên",
+                "cổ kính",
+                "mới mẻ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "phòng trưng bày nghệ thuật": 1.0,
+            "tiệm bánh": 0.5,
+            "cửa hàng": 1.0,
+            "chào chúa": 0.5,
+            "bộ sưu tập": 0.5,
+            "phòng": 0.5,
+            "trưng bày": 0.5,
+            "dãy nhà": 0.5,
+            "trang web": 0.5,
+            "số điện": 0.5,
+            "tranh sơn dầu": 0.5,
+            "tác phẩm": 0.5,
+            "hội họa": 0.5,
+            "khu phố cổ": 0.5
+        }
     }
 ]

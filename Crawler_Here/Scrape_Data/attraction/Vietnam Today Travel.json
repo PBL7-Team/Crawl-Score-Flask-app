@@ -64,6 +64,64 @@
             "https://www.tripadvisor.com/Attraction_Review-g1102949-d3768935-Reviews-Cave_of_Zeus-Filoti_Naxos_Cyclades_South_Aegean.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8856587-Reviews-Vietnam_Today_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8856587-Reviews-Vietnam_Today_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9944421554682776,
+            "địa điểm du lịch": 0.5,
+            "không khí": 0.5,
+            "đồ ăn đường phố": 0.530389535240829,
+            "dịch vụ": 0.4589736294001341,
+            "đại lý": 0.18732746317982674,
+            "chuyến đi": 0.9862727738800459,
+            "sân bay": 0.5,
+            "hướng dẫn viên": 0.9955322428140789,
+            "nhân viên": 0.9667030165437609,
+            "chuyến tham": 0.5
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "địa điểm du lịch": [],
+            "không khí": [],
+            "đồ ăn đường phố": [
+                "đầu tiên"
+            ],
+            "dịch vụ": [],
+            "đại lý": [
+                "bất kỳ",
+                "chắc chắn"
+            ],
+            "chuyến đi": [
+                "nhanh",
+                "hữu ích",
+                "yên tâm"
+            ],
+            "sân bay": [],
+            "hướng dẫn viên": [
+                "xuất sắc",
+                "thoải mái",
+                "nhiều"
+            ],
+            "nhân viên": [
+                "an toàn"
+            ],
+            "chuyến tham": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 0.5,
+            "địa điểm du lịch": 0.5,
+            "không khí": 0.5,
+            "đồ ăn đường phố": 0.5,
+            "dịch vụ": 1.0,
+            "đại lý": 0.5,
+            "chuyến đi": 0.5,
+            "sân bay": 0.5,
+            "hướng dẫn viên": 0.5,
+            "nhân viên": 0.5,
+            "chuyến tham": 0.5
+        }
     }
 ]

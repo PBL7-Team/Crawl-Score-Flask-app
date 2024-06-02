@@ -128,7 +128,146 @@
             "https://www.tripadvisor.com/Attraction_Review-g1025634-d1425027-Reviews-American_Village-Chatan_cho_Nakagami_gun_Okinawa_Prefecture.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d15149344-Reviews-or10-VN_Spa_Massage_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15149344-Reviews-VN_Spa_Massage_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15149344-Reviews-VN_Spa_Massage_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "buổi mát-xa đầu tiên": 0.9935090820072219,
+            "người mát-xa đã thể": 0.9934882868546993,
+            "dịch vụ mát-xa trẻ": -0.685227120295167,
+            "trải nghiệm": 0.9949964712723158,
+            "chuyến thăm hội an": 0.8737691454589367,
+            "không gian": 0.9955725927138701,
+            "dịch vụ mát-xa giá rẻ": 0.5,
+            "yên bình": 0.5,
+            "ngôi nhà điều trị": 0.8737691454589367,
+            "nhân viên": 0.9955585428397171,
+            "hương liệu": 0.9955129745067097,
+            "giá cả": 0.9524239103775471,
+            "người mát-xa đã khiến": 0.992111723870039,
+            "viên ngọc ẩn": 0.43988290056586266,
+            "dịch vụ": 0.9919151815120131,
+            "nhà trị liệu": 0.9733242094516754,
+            "kỹ thuật": 0.9838461086619645,
+            "nghỉ lễ": 0.9953289472614415,
+            "hội an": 0.8737691454589367,
+            "kỹ thuật viên trị liệu": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "buổi mát-xa đầu tiên": [
+                "thực sự",
+                "đặc biệt"
+            ],
+            "người mát-xa đã thể": [
+                "khéo léo"
+            ],
+            "dịch vụ mát-xa trẻ": [
+                "thực sự",
+                "bất kỳ"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "sớm",
+                "khác"
+            ],
+            "chuyến thăm hội an": [
+                "vui"
+            ],
+            "không gian": [
+                "đẹp",
+                "quan trọng",
+                "vui",
+                "đẹp"
+            ],
+            "dịch vụ mát-xa giá rẻ": [],
+            "yên bình": [],
+            "ngôi nhà điều trị": [
+                "nhỏ",
+                "dễ thương",
+                "đẹp đẽ"
+            ],
+            "nhân viên": [
+                "tuyệt vời"
+            ],
+            "hương liệu": [
+                "thú vị",
+                "nhiều"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "cổ"
+            ],
+            "người mát-xa đã khiến": [
+                "thư giãn",
+                "thoải mái",
+                "thư giãn",
+                "thoải mái"
+            ],
+            "viên ngọc ẩn": [
+                "Đúng",
+                "phải",
+                "sang trọng",
+                "Đúng",
+                "phải",
+                "sang trọng"
+            ],
+            "dịch vụ": [
+                "tử tế",
+                "thực sự",
+                "đặc biệt",
+                "tử tế",
+                "thực sự",
+                "đặc biệt"
+            ],
+            "nhà trị liệu": [
+                "tốt"
+            ],
+            "kỹ thuật": [
+                "tốt",
+                "sớm"
+            ],
+            "nghỉ lễ": [
+                "tuyệt vời"
+            ],
+            "hội an": [
+                "tốt",
+                "tốt",
+                "tử tế",
+                "thích Cách",
+                "nhiều",
+                "sớm"
+            ],
+            "kỹ thuật viên trị liệu": [
+                "tốt",
+                "tốt",
+                "tử tế",
+                "thích Cách",
+                "nhiều",
+                "sớm"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "buổi mát-xa đầu tiên": 1,
+            "người mát-xa đã thể": 1,
+            "dịch vụ mát-xa trẻ": 1,
+            "trải nghiệm": 1.5,
+            "chuyến thăm hội an": 1.5,
+            "không gian": 1.5,
+            "dịch vụ mát-xa giá rẻ": 1.5,
+            "yên bình": 1.5,
+            "ngôi nhà điều trị": 1.5,
+            "nhân viên": 1.5,
+            "hương liệu": 1.5,
+            "giá cả": 1.5,
+            "người mát-xa đã khiến": 3.0,
+            "viên ngọc ẩn": 3.0,
+            "dịch vụ": 3.0,
+            "nhà trị liệu": 1.5,
+            "kỹ thuật": 1.5,
+            "nghỉ lễ": 1.5,
+            "hội an": 1,
+            "kỹ thuật viên trị liệu": 1
+        }
     },
     {
         "attraction_name": "VN Spa Massage Hoi An",
@@ -257,7 +396,36 @@
             "https://www.tripadvisor.com/Attraction_Review-g60795-d4475420-Reviews-William_H_Gray_III_30th_Street_Station-Philadelphia_Pennsylvania.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d15149344-Reviews-or20-VN_Spa_Massage_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15149344-Reviews-or10-VN_Spa_Massage_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15149344-Reviews-or10-VN_Spa_Massage_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9954379241680726,
+            "liệu pháp mát-xa tốt nhất": 0.9938451983034611,
+            "dịch vụ mát-xa tôi": 0.5,
+            "mát-xa tốt nhất mà tôi": 0.5,
+            "nhân viên mát xa": 0.9954112352861557
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời",
+                "trẻ"
+            ],
+            "liệu pháp mát-xa tốt nhất": [],
+            "dịch vụ mát-xa tôi": [],
+            "mát-xa tốt nhất mà tôi": [],
+            "nhân viên mát xa": [
+                "tuyệt vời",
+                "hiểu biết"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 1,
+            "liệu pháp mát-xa tốt nhất": 1,
+            "dịch vụ mát-xa tôi": 1,
+            "mát-xa tốt nhất mà tôi": 1,
+            "nhân viên mát xa": 1
+        }
     },
     {
         "attraction_name": "VN Spa Massage Hoi An",
@@ -390,6 +558,64 @@
             "https://www.tripadvisor.com/Attraction_Review-g297549-d8750313-Reviews-Horas_Spa-Hurghada_Red_Sea_and_Sinai.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d15149344-Reviews-or30-VN_Spa_Massage_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15149344-Reviews-or20-VN_Spa_Massage_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15149344-Reviews-or20-VN_Spa_Massage_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ mát-xa tốt nhất": 0.9942515997681767,
+            "tốt nhất": 0.9947601657477207,
+            "trải nghiệm": 0.9956238429294899,
+            "liệu pháp mát-xa tốt nhất": 0.9939595976611599,
+            "nhân viên": 0.9919657653081231,
+            "thân thiện": 0.9934858607302886,
+            "spa": 0.995094382786192,
+            "động tác massage": 0.9897128732409328
+        },
+        "dicts_adj": {
+            "dịch vụ mát-xa tốt nhất": [
+                "Thực sự"
+            ],
+            "tốt nhất": [
+                "Thực sự"
+            ],
+            "trải nghiệm": [
+                "vui",
+                "hoàn hảo",
+                "vui",
+                "hoàn hảo"
+            ],
+            "liệu pháp mát-xa tốt nhất": [
+                "chuyên nghiệp",
+                "spa"
+            ],
+            "nhân viên": [
+                "chuyên nghiệp",
+                "spa"
+            ],
+            "thân thiện": [
+                "chuyên nghiệp",
+                "spa"
+            ],
+            "spa": [
+                "đầu tiên"
+            ],
+            "động tác massage": [
+                "mạnh mẽ",
+                "đầy",
+                "cổ",
+                "nhiều",
+                "hơn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ mát-xa tốt nhất": 0.5,
+            "tốt nhất": 0.5,
+            "trải nghiệm": 1.0,
+            "liệu pháp mát-xa tốt nhất": 0.5,
+            "nhân viên": 0.5,
+            "thân thiện": 0.5,
+            "spa": 0.5,
+            "động tác massage": 0.5
+        }
     }
 ]
