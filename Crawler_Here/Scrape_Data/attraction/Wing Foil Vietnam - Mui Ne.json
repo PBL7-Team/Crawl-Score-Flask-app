@@ -45,6 +45,43 @@
             "https://www.tripadvisor.com/Attraction_Review-g28947-d146615-Reviews-Paradise_Valley-Montana.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d27747632-Reviews-Wing_Foil_Vietnam_Mui_Ne-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d27747632-Reviews-Wing_Foil_Vietnam_Mui_Ne-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "huấn luyện viên": 0.9928248941141646,
+            "vị trí": 0.9955165873398073,
+            "bãi biển": 0.993539045623038,
+            "sở vật chất": 0.9953500364790671,
+            "dịch vụ": 0.9953158084535971
+        },
+        "dicts_adj": {
+            "huấn luyện viên": [
+                "hiểu biết",
+                "tuyệt vời"
+            ],
+            "vị trí": [
+                "hoàn hảo"
+            ],
+            "bãi biển": [
+                "đẹp",
+                "tốt"
+            ],
+            "sở vật chất": [
+                "sạch sẽ",
+                "thoải mái"
+            ],
+            "dịch vụ": [
+                "hữu ích",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "huấn luyện viên": 2,
+            "vị trí": 2,
+            "bãi biển": 2,
+            "sở vật chất": 2,
+            "dịch vụ": 2
+        }
     }
 ]

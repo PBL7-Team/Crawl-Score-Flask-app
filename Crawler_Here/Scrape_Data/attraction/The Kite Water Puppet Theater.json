@@ -98,6 +98,133 @@
             "https://www.tripadvisor.com/Attraction_Review-g293983-d558785-Reviews-Me_a_She_arim-Jerusalem_Jerusalem_District.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13453890-Reviews-The_Kite_Water_Puppet_Theater-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13453890-Reviews-The_Kite_Water_Puppet_Theater-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cốt truyện": 0.9841404454782605,
+            "ca hát": 0.9931399349588901,
+            "con": 0.7374245263636112,
+            "rối nước": 0.47842707950621843,
+            "bảo tàng hồ chí": 0.8737691454589367,
+            "thị trấn": 0.5,
+            "buổi biểu diễn": -0.8758061942644417,
+            "buổi biểu diễn múa rối nước": 0.6397902136668563,
+            "diễn viên": 0.7474098539969418,
+            "trải nghiệm": 0.995367196679581,
+            "chương trình múa rối nước": 0.9953111398499459,
+            "quan": 0.5,
+            "quần thể hồ chí": 0.5,
+            "múa": 0.5,
+            "chương trình": 0.9913361026556231,
+            "kéo nước": 0.5956936739385128,
+            "âm nhạc": 0.9954200924548786,
+            "bức tranh": 0.9955071256263182,
+            "hình nghệ thuật": 0.9953907461604103,
+            "hệ": 0.8737691454589367,
+            "thống âm thanh": -0.9085114867193624,
+            "nghệ sĩ": 0.5920968055725098,
+            "khu di tích hồ chí": 0.8737691454589367,
+            "nhà hát": 0.5312461853027344,
+            "công viên": 0.5,
+            "chương trình múa rối": 0.5
+        },
+        "dicts_adj": {
+            "cốt truyện": [],
+            "ca hát": [],
+            "con": [
+                "chuyên nghiệp",
+                "cùng"
+            ],
+            "rối nước": [
+                "chuyên nghiệp"
+            ],
+            "bảo tàng hồ chí": [
+                "thú vị",
+                "khác"
+            ],
+            "thị trấn": [],
+            "buổi biểu diễn": [
+                "nổi tiếng",
+                "khác"
+            ],
+            "buổi biểu diễn múa rối nước": [
+                "nổi tiếng",
+                "khác"
+            ],
+            "diễn viên": [
+                "thân thiện"
+            ],
+            "trải nghiệm": [],
+            "chương trình múa rối nước": [
+                "tuyệt vời"
+            ],
+            "quan": [],
+            "quần thể hồ chí": [],
+            "múa": [],
+            "chương trình": [
+                "tuyệt vời"
+            ],
+            "kéo nước": [
+                "cùng"
+            ],
+            "âm nhạc": [
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "bức tranh": [
+                "đẹp"
+            ],
+            "hình nghệ thuật": [
+                "độc đáo"
+            ],
+            "hệ": [
+                "đôi khi",
+                "to"
+            ],
+            "thống âm thanh": [
+                "đôi khi",
+                "to"
+            ],
+            "nghệ sĩ": [
+                "múa rối"
+            ],
+            "khu di tích hồ chí": [
+                "gần"
+            ],
+            "nhà hát": [
+                "gần"
+            ],
+            "công viên": [],
+            "chương trình múa rối": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cốt truyện": 0.5,
+            "ca hát": 0.5,
+            "con": 1.0,
+            "rối nước": 1.0,
+            "bảo tàng hồ chí": 0.5,
+            "thị trấn": 0.5,
+            "buổi biểu diễn": 0.5,
+            "buổi biểu diễn múa rối nước": 0.5,
+            "diễn viên": 1.0,
+            "trải nghiệm": 0.5,
+            "chương trình múa rối nước": 0.5,
+            "quan": 0.5,
+            "quần thể hồ chí": 0.5,
+            "múa": 0.5,
+            "chương trình": 1.0,
+            "kéo nước": 0.5,
+            "âm nhạc": 1.0,
+            "bức tranh": 0.5,
+            "hình nghệ thuật": 0.5,
+            "hệ": 0.5,
+            "thống âm thanh": 0.5,
+            "nghệ sĩ": 0.5,
+            "khu di tích hồ chí": 0.5,
+            "nhà hát": 0.5,
+            "công viên": 0.5,
+            "chương trình múa rối": 0.5
+        }
     }
 ]

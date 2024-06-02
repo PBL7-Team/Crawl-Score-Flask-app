@@ -90,6 +90,101 @@
             "https://www.tripadvisor.com/Attraction_Review-g48555-d18921801-Reviews-Sunflowers_Of_Sanborn-Sanborn_New_York.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12804466-Reviews-Virgo_Handmade_Leather-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12804466-Reviews-Virgo_Handmade_Leather-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cà": 0.02355843596160412,
+            "phê trứng": -0.4486868344247341,
+            "vì giáng sinh": -0.9048197609372437,
+            "ví tùy": 0.5,
+            "con sói": 0.5,
+            "dịch vụ": 0.5,
+            "sản phẩm": 0.5,
+            "giá trị": 0.9455559621565044,
+            "cửa hàng": 0.5351332239806652,
+            "đường khâu": 0.8737691454589367,
+            "chất liệu da": 0.02871992420114111,
+            "nghệ nhân": 0.5,
+            "nghệ thuật chạm": 0.5,
+            "da": 0.9945582985528745,
+            "thủ công": 0.9926272004377097,
+            "món": 0.5361985955387354,
+            "quà lưu niệm": 0.9246325297281146
+        },
+        "dicts_adj": {
+            "cà": [
+                "vụn"
+            ],
+            "phê trứng": [
+                "vụn"
+            ],
+            "vì giáng sinh": [
+                "gần",
+                "tốt",
+                "hơn"
+            ],
+            "ví tùy": [],
+            "con sói": [],
+            "dịch vụ": [],
+            "sản phẩm": [],
+            "giá trị": [
+                "đắt",
+                "tốt"
+            ],
+            "cửa hàng": [
+                "Đúng",
+                "nhiều",
+                "hơn",
+                "khác",
+                "tương tự",
+                "khác"
+            ],
+            "đường khâu": [
+                "tuyệt vời",
+                "nhiều",
+                "nhỏ",
+                "hoàn hảo"
+            ],
+            "chất liệu da": [
+                "tuyệt vời",
+                "nhiều",
+                "nhỏ",
+                "hoàn hảo"
+            ],
+            "nghệ nhân": [],
+            "nghệ thuật chạm": [],
+            "da": [
+                "hay"
+            ],
+            "thủ công": [
+                "hay"
+            ],
+            "món": [
+                "nhỏ"
+            ],
+            "quà lưu niệm": [
+                "nhỏ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cà": 0.5,
+            "phê trứng": 0.5,
+            "vì giáng sinh": 0.5,
+            "ví tùy": 0.5,
+            "con sói": 0.5,
+            "dịch vụ": 0.5,
+            "sản phẩm": 0.5,
+            "giá trị": 0.5,
+            "cửa hàng": 0.5,
+            "đường khâu": 0.5,
+            "chất liệu da": 0.5,
+            "nghệ nhân": 0.5,
+            "nghệ thuật chạm": 0.5,
+            "da": 0.5,
+            "thủ công": 0.5,
+            "món": 0.5,
+            "quà lưu niệm": 0.5
+        }
     }
 ]

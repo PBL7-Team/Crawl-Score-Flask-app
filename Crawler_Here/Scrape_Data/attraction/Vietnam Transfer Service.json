@@ -113,7 +113,91 @@
             "https://www.tripadvisor.com/Attraction_Review-g34152-d142790-Reviews-Fairchild_Tropical_Botanic_Garden-Coral_Gables_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d8608618-Reviews-or10-Vietnam_Transfer_Service-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8608618-Reviews-Vietnam_Transfer_Service-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8608618-Reviews-Vietnam_Transfer_Service-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tài xế": 0.9296972524607554,
+            "dịch vụ": 0.8095665770686336,
+            "lái xe": 0.9930103134247474,
+            "chuyến phiêu lưu": 0.9663349008187652,
+            "sân bay": 0.017704713391140103,
+            "dịch vụ chuyển hàng": 0.9903002165956423,
+            "phương tiện di chuyển": 0.5,
+            "chuyển khoản internet": 0.5,
+            "khách sạn": 0.5,
+            "phương tiện vận chuyển": -0.9675763300620019,
+            "nhập cảnh": 0.5448599625378847,
+            "người điều phối": 0.9462959985248744,
+            "dịch vụ tận nhà": 0.994928706495557,
+            "chuyến đi": 0.8737691454589367,
+            "chiếc xe": 0.9920710840669926
+        },
+        "dicts_adj": {
+            "tài xế": [
+                "đúng",
+                "sạch sẽ",
+                "giàu"
+            ],
+            "dịch vụ": [
+                "đúng",
+                "sạch sẽ",
+                "cạnh tranh"
+            ],
+            "lái xe": [
+                "xa",
+                "đúng",
+                "sạch sẽ",
+                "nhanh",
+                "an toàn"
+            ],
+            "chuyến phiêu lưu": [
+                "chắc chắn"
+            ],
+            "sân bay": [],
+            "dịch vụ chuyển hàng": [],
+            "phương tiện di chuyển": [],
+            "chuyển khoản internet": [],
+            "khách sạn": [],
+            "phương tiện vận chuyển": [
+                "khác",
+                "NHIỀU"
+            ],
+            "nhập cảnh": [
+                "chặt chẽ"
+            ],
+            "người điều phối": [
+                "chặt chẽ"
+            ],
+            "dịch vụ tận nhà": [
+                "chu đáo",
+                "hợp lý"
+            ],
+            "chuyến đi": [
+                "đẹp"
+            ],
+            "chiếc xe": [
+                "đẹp",
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tài xế": 1.0,
+            "dịch vụ": 1.5,
+            "lái xe": 1.0,
+            "chuyến phiêu lưu": 0.5,
+            "sân bay": 1.5,
+            "dịch vụ chuyển hàng": 0.5,
+            "phương tiện di chuyển": 0.5,
+            "chuyển khoản internet": 0.5,
+            "khách sạn": 0.5,
+            "phương tiện vận chuyển": 0.5,
+            "nhập cảnh": 0.5,
+            "người điều phối": 0.5,
+            "dịch vụ tận nhà": 0.5,
+            "chuyến đi": 0.5,
+            "chiếc xe": 1.0
+        }
     },
     {
         "attraction_name": "Vietnam Transfer Service",
@@ -220,6 +304,196 @@
             "https://www.tripadvisor.com/Attraction_Review-g297550-d10059319-Reviews-Mini_Egypt_Park-Makadi_Bay_Hurghada_Red_Sea_and_Sinai.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8608618-Reviews-or10-Vietnam_Transfer_Service-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8608618-Reviews-or10-Vietnam_Transfer_Service-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.9874505034531467,
+            "chuyến khứ hồi khi": 0.946930737234652,
+            "xếp xe": 0.9940711432136595,
+            "vận chuyển sân bay": 0.5,
+            "khách sạn": 0.17364601992691556,
+            "sân bay": 0.3142510333331302,
+            "xe đưa": 0.9955474705202505,
+            "chuyến bay": -0.953801897354424,
+            "người dân": 0.5,
+            "đất nước": 0.9955320426088292,
+            "chuyến công": 0.6149502257467248,
+            "đối tác": 0.5,
+            "dịch vụ chuyển nhượng": 0.925545078702271,
+            "chuyến đi": 0.7879731424157702,
+            "cảnh quan": 0.9955159101712828,
+            "tam cốc": 0.8737691454589367,
+            "vịnh": 0.6931853126734495,
+            "giá cả": 0.8737691454589367,
+            "đại lý": -0.9063941170461476,
+            "điện thoại di động": 0.5,
+            "dịch vụ chuyển tiếp": 0.9927235199138522,
+            "đất": 0.9947677510790527,
+            "dịch vụ vận chuyển việt": 0.5,
+            "dịch vụ du lịch": 0.7847770759835839,
+            "dịch vụ chuyển khoản": 0.90094702593827,
+            "tục nhập": 0.5,
+            "tấm biển": 0.5,
+            "địa điểm": 0.9920147304655984,
+            "địa điểm ngắm cảnh": 0.992259512306191,
+            "nhân viên điều hành": 0.5,
+            "văn phòng": 0.5,
+            "đại lý du lịch": 0.9955436013406143,
+            "bến tàu vịnh": 0.5,
+            "dịch vụ đưa": 0.9865965594071895
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "uy tín",
+                "rẻ",
+                "tốt",
+                "vui"
+            ],
+            "chuyến khứ hồi khi": [
+                "đúng"
+            ],
+            "xếp xe": [
+                "đặc biệt",
+                "đặc biệt"
+            ],
+            "vận chuyển sân bay": [],
+            "khách sạn": [
+                "tốt",
+                "hơn",
+                "nhiều",
+                "gần",
+                "thẳng"
+            ],
+            "sân bay": [
+                "suôn sẻ",
+                "khác",
+                "đông đúc"
+            ],
+            "xe đưa": [
+                "vinh dự"
+            ],
+            "chuyến bay": [
+                "khác"
+            ],
+            "người dân": [],
+            "đất nước": [
+                "xinh đẹp",
+                "xinh đẹp"
+            ],
+            "chuyến công": [
+                "ngắn",
+                "nhất",
+                "nhanh",
+                "nhất"
+            ],
+            "đối tác": [],
+            "dịch vụ chuyển nhượng": [
+                "tốt",
+                "ngắn",
+                "vinh dự",
+                "đặc biệt"
+            ],
+            "chuyến đi": [
+                "đẹp",
+                "cuối cùng",
+                "ngoạn mục",
+                "tuyệt vời",
+                "thú vị",
+                "tuyệt vời",
+                "hân hạnh",
+                "riêng",
+                "thuận lợi",
+                "đặc biệt",
+                "thường xuyên"
+            ],
+            "cảnh quan": [
+                "đẹp",
+                "cuối cùng",
+                "ngoạn mục"
+            ],
+            "tam cốc": [
+                "gần",
+                "thẳng"
+            ],
+            "vịnh": [],
+            "giá cả": [
+                "thuận tiện",
+                "hơn"
+            ],
+            "đại lý": [
+                "khác"
+            ],
+            "điện thoại di động": [],
+            "dịch vụ chuyển tiếp": [
+                "chắc chắn"
+            ],
+            "đất": [
+                "hơn",
+                "tốt"
+            ],
+            "dịch vụ vận chuyển việt": [],
+            "dịch vụ du lịch": [
+                "tốt"
+            ],
+            "dịch vụ chuyển khoản": [
+                "hoàn toàn",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "tục nhập": [],
+            "tấm biển": [],
+            "địa điểm": [
+                "đẹp"
+            ],
+            "địa điểm ngắm cảnh": [
+                "tốt",
+                "cẩn thận"
+            ],
+            "nhân viên điều hành": [],
+            "văn phòng": [],
+            "đại lý du lịch": [
+                "tốt",
+                "cao"
+            ],
+            "bến tàu vịnh": [],
+            "dịch vụ đưa": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 1.0,
+            "chuyến khứ hồi khi": 0.5,
+            "xếp xe": 0.5,
+            "vận chuyển sân bay": 0.5,
+            "khách sạn": 1.5,
+            "sân bay": 2.5,
+            "xe đưa": 0.5,
+            "chuyến bay": 0.5,
+            "người dân": 0.5,
+            "đất nước": 1.0,
+            "chuyến công": 0.5,
+            "đối tác": 0.5,
+            "dịch vụ chuyển nhượng": 1.0,
+            "chuyến đi": 3.0,
+            "cảnh quan": 0.5,
+            "tam cốc": 0.5,
+            "vịnh": 0.5,
+            "giá cả": 0.5,
+            "đại lý": 0.5,
+            "điện thoại di động": 0.5,
+            "dịch vụ chuyển tiếp": 0.5,
+            "đất": 0.5,
+            "dịch vụ vận chuyển việt": 0.5,
+            "dịch vụ du lịch": 0.5,
+            "dịch vụ chuyển khoản": 0.5,
+            "tục nhập": 0.5,
+            "tấm biển": 0.5,
+            "địa điểm": 0.5,
+            "địa điểm ngắm cảnh": 0.5,
+            "nhân viên điều hành": 0.5,
+            "văn phòng": 0.5,
+            "đại lý du lịch": 0.5,
+            "bến tàu vịnh": 0.5,
+            "dịch vụ đưa": 0.5
+        }
     }
 ]

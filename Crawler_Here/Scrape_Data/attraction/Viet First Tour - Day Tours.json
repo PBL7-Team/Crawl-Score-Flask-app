@@ -77,6 +77,110 @@
             "https://www.tripadvisor.com/Attraction_Review-g33423-d1489101-Reviews-Fossil_Creek_Park-Fort_Collins_Colorado.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8291627-Reviews-Viet_First_Tour_Day_Tours-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8291627-Reviews-Viet_First_Tour_Day_Tours-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham": 0.9810345226433128,
+            "chùa hương": 0.9445622409693897,
+            "chuyến đi": 0.7434782096534036,
+            "vịnh": 0.5,
+            "ngành du lịch": 0.9951932342373766,
+            "lưu diễn": 0.9942013949621469,
+            "dịch vụ": 0.9955429070978425,
+            "văn phòng": 0.9783592097228393,
+            "xe buýt": 0.5,
+            "chuyến tham quan": 0.5,
+            "tour đi xe đạp": 0.5,
+            "đất liền": 0.5,
+            "giá": 0.9919369913404807,
+            "cả vịnh": 0.8737691454589367,
+            "chuyến lưu diễn": 0.9953673255513422,
+            "văn hóa": 0.8309697071090341,
+            "trải nghiệm": 0.9949827576056123,
+            "uống nước": 0.9933052592677996,
+            "chuyến du lịch": 0.8239068044349551,
+            "hướng dẫn viên du lịch": 0.4121632594615221,
+            "du lịch vịnh": 0.9936449808301404
+        },
+        "dicts_adj": {
+            "chuyến tham": [
+                "nhiều",
+                "gần"
+            ],
+            "chùa hương": [
+                "cùng"
+            ],
+            "chuyến đi": [],
+            "vịnh": [],
+            "ngành du lịch": [
+                "tuyệt vời"
+            ],
+            "lưu diễn": [
+                "vui"
+            ],
+            "dịch vụ": [
+                "hoàn hảo",
+                "ấn tượng",
+                "hơn"
+            ],
+            "văn phòng": [
+                "nhỏ",
+                "thân thiện",
+                "tốt"
+            ],
+            "xe buýt": [],
+            "chuyến tham quan": [],
+            "tour đi xe đạp": [],
+            "đất liền": [],
+            "giá": [
+                "tốt"
+            ],
+            "cả vịnh": [
+                "tốt"
+            ],
+            "chuyến lưu diễn": [
+                "cùng"
+            ],
+            "văn hóa": [],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "uống nước": [
+                "thực sự",
+                "khoảng"
+            ],
+            "chuyến du lịch": [
+                "tốt"
+            ],
+            "hướng dẫn viên du lịch": [],
+            "du lịch vịnh": [
+                "tuyệt vời",
+                "khó"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham": 0.5,
+            "chùa hương": 0.5,
+            "chuyến đi": 1.0,
+            "vịnh": 1.5,
+            "ngành du lịch": 0.5,
+            "lưu diễn": 0.5,
+            "dịch vụ": 0.5,
+            "văn phòng": 0.5,
+            "xe buýt": 0.5,
+            "chuyến tham quan": 1.0,
+            "tour đi xe đạp": 0.5,
+            "đất liền": 0.5,
+            "giá": 0.5,
+            "cả vịnh": 0.5,
+            "chuyến lưu diễn": 0.5,
+            "văn hóa": 0.5,
+            "trải nghiệm": 0.5,
+            "uống nước": 0.5,
+            "chuyến du lịch": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "du lịch vịnh": 0.5
+        }
     }
 ]

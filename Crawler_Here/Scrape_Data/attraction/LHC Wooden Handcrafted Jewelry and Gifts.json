@@ -102,6 +102,106 @@
             "https://www.tripadvisor.com/Attraction_Review-g294197-d12309166-Reviews-Seoul_Sky-Seoul.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d12199240-Reviews-LHC_Wooden_Handcrafted_Jewelry_and_Gifts-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d12199240-Reviews-LHC_Wooden_Handcrafted_Jewelry_and_Gifts-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "loại đất": 0.5,
+            "quà tặng": 0.5,
+            "dịch vụ": 0.9954964039983073,
+            "hạt trầm hương": 0.5,
+            "cửa hàng": 0.6542015029117465,
+            "mùi trầm hương": 0.9942867368808948,
+            "trầm hương": 0.9803497442044318,
+            "hàng hóa": 0.9952136175706983,
+            "sản phẩm": 0.9953118593548425,
+            "vòng tay": 0.5,
+            "phong thủy": 0.5,
+            "giá cả": 0.9930280394037254,
+            "sở": 0.995041660964489,
+            "trang sức thủ công": 0.5,
+            "dây chuyền chạm": 0.7839259449392557,
+            "món quà lưu niệm": 0.9952360138122458,
+            "bán hàng": 0.9938832949846983,
+            "dây chuyền": 0.9938850062317215,
+            "chuyến bay": 0.5,
+            "khách sạn": 0.08881588838994503
+        },
+        "dicts_adj": {
+            "loại đất": [],
+            "quà tặng": [],
+            "dịch vụ": [
+                "tuyệt vời",
+                "Hoàn toàn",
+                "hài lòng",
+                "tuyệt vời"
+            ],
+            "hạt trầm hương": [],
+            "cửa hàng": [
+                "sẵn sàng"
+            ],
+            "mùi trầm hương": [
+                "thơm"
+            ],
+            "trầm hương": [
+                "tốt"
+            ],
+            "hàng hóa": [
+                "tuyệt vời"
+            ],
+            "sản phẩm": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "vòng tay": [],
+            "phong thủy": [],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "sở": [
+                "hữu ích"
+            ],
+            "trang sức thủ công": [],
+            "dây chuyền chạm": [
+                "nhiều",
+                "chạm khắc",
+                "cao"
+            ],
+            "món quà lưu niệm": [
+                "tốt bụng",
+                "kiên nhẫn"
+            ],
+            "bán hàng": [
+                "tốt bụng",
+                "kiên nhẫn"
+            ],
+            "dây chuyền": [
+                "sẵn sàng"
+            ],
+            "chuyến bay": [],
+            "khách sạn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "loại đất": 1,
+            "quà tặng": 1.5,
+            "dịch vụ": 1.5,
+            "hạt trầm hương": 0.5,
+            "cửa hàng": 1.5,
+            "mùi trầm hương": 0.5,
+            "trầm hương": 0.5,
+            "hàng hóa": 0.5,
+            "sản phẩm": 1.0,
+            "vòng tay": 0.5,
+            "phong thủy": 0.5,
+            "giá cả": 0.5,
+            "sở": 0.5,
+            "trang sức thủ công": 0.5,
+            "dây chuyền chạm": 0.5,
+            "món quà lưu niệm": 0.5,
+            "bán hàng": 0.5,
+            "dây chuyền": 0.5,
+            "chuyến bay": 0.5,
+            "khách sạn": 0.5
+        }
     }
 ]

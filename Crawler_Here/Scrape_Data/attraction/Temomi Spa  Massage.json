@@ -86,6 +86,32 @@
             "https://www.tripadvisor.com/Attraction_Review-g38668-d123645-Reviews-Boot_Hill_Museum-Dodge_City_Kansas.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d19617316-Reviews-Temomi_Spa_Massage-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d19617316-Reviews-Temomi_Spa_Massage-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "lễ tân": 0.18955071130767465,
+            "trình suy": 0.459584152403598
+        },
+        "dicts_adj": {
+            "lễ tân": [
+                "cùng",
+                "giống",
+                "Cuối cùng",
+                "cùng"
+            ],
+            "trình suy": [
+                "liên tục",
+                "đẹp",
+                "trung bình",
+                "tệ",
+                "tốt",
+                "hơn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "lễ tân": 1,
+            "trình suy": 1
+        }
     }
 ]

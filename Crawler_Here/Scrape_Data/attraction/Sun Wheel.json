@@ -125,7 +125,191 @@
             "https://www.tripadvisor.com/Attraction_Review-g2092512-d3805401-Reviews-Icheon_Ceramics_Village-Icheon_Gyeonggi_do.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d7043562-Reviews-or10-Sun_Wheel-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d7043562-Reviews-Sun_Wheel-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d7043562-Reviews-Sun_Wheel-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "công viên giải trí": 0.9954966446384788,
+            "trải nghiệm": 0.9953509796177968,
+            "tòa nhà": 0.8886513661127537,
+            "quán bar": 0.966388196994861,
+            "sân": 0.9488599899147326,
+            "bức tranh": 0.9934780523763038,
+            "chuyến đi": 0.9744887588894926,
+            "cảnh đêm": 0.5873904681357089,
+            "quang cảnh": 0.9941152236890047,
+            "biển cả": 0.15263681719079614,
+            "quầy bar": 0.9618208614410833,
+            "tầng": 0.76760067633586,
+            "tầm nhìn": 0.6238443960319273,
+            "tầm cao": 0.5,
+            "công viên": 0.6868845727294683,
+            "hàng đợi": 0.5,
+            "vòng đu": 0.8737691454589367,
+            "thành phố": 0.5,
+            "quầy": 0.5,
+            "đồ ăn": 0.5,
+            "đồ uống": 0.5,
+            "chuyến bao": 0.9951230571605265,
+            "khung cảnh": 0.9955325783230364,
+            "cảng": 0.5,
+            "trải nghiệm đi xe": 0.9919709177920595,
+            "trò chơi": 0.7614054325968027,
+            "cầu rồng": 0.5,
+            "cầu sông hans": 0.5,
+            "vòng quay mặt": 0.5,
+            "khu vui chơi giải trí": 0.5,
+            "bánh xe mặt": 0.9953352255979553,
+            "bánh xe": 0.7478365548304282,
+            "cây cầu": 0.8283423576503992,
+            "cảnh tượng": 0.5,
+            "trung tâm thành": 0.5,
+            "ống kính": 0.501801636070013
+        },
+        "dicts_adj": {
+            "công viên giải trí": [
+                "sạch",
+                "đẹp",
+                "sạch",
+                "đẹp"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "tòa nhà": [
+                "ngoạn mục",
+                "bao la",
+                "dài",
+                "mênh mông",
+                "dài"
+            ],
+            "quán bar": [
+                "tuyệt vời",
+                "cao",
+                "hoàn toàn"
+            ],
+            "sân": [
+                "tuyệt vời",
+                "cao",
+                "hoàn toàn"
+            ],
+            "bức tranh": [
+                "cao",
+                "hơn",
+                "cao",
+                "hơn"
+            ],
+            "chuyến đi": [
+                "khó",
+                "khó",
+                "vui vẻ"
+            ],
+            "cảnh đêm": [
+                "khó",
+                "tốt"
+            ],
+            "quang cảnh": [
+                "mênh mông",
+                "dài",
+                "vui vẻ",
+                "đẹp"
+            ],
+            "biển cả": [
+                "mênh mông",
+                "dài"
+            ],
+            "quầy bar": [
+                "thượng mang",
+                "tuyệt vời"
+            ],
+            "tầng": [
+                "thượng mang",
+                "tuyệt vời"
+            ],
+            "tầm nhìn": [
+                "đẹp"
+            ],
+            "tầm cao": [],
+            "công viên": [
+                "gần"
+            ],
+            "hàng đợi": [],
+            "vòng đu": [
+                "lớn"
+            ],
+            "thành phố": [],
+            "quầy": [],
+            "đồ ăn": [],
+            "đồ uống": [],
+            "chuyến bao": [],
+            "khung cảnh": [
+                "đẹp"
+            ],
+            "cảng": [],
+            "trải nghiệm đi xe": [
+                "cao"
+            ],
+            "trò chơi": [
+                "cao",
+                "cao"
+            ],
+            "cầu rồng": [],
+            "cầu sông hans": [],
+            "vòng quay mặt": [],
+            "khu vui chơi giải trí": [],
+            "bánh xe mặt": [
+                "đẹp"
+            ],
+            "bánh xe": [
+                "lân cận",
+                "lớn"
+            ],
+            "cây cầu": [
+                "lân cận"
+            ],
+            "cảnh tượng": [],
+            "trung tâm thành": [],
+            "ống kính": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "công viên giải trí": 3.0,
+            "trải nghiệm": 3.0,
+            "tòa nhà": 3.0,
+            "quán bar": 1.5,
+            "sân": 1.5,
+            "bức tranh": 3.0,
+            "chuyến đi": 3.5,
+            "cảnh đêm": 3.0,
+            "quang cảnh": 2.5,
+            "biển cả": 1.5,
+            "quầy bar": 1.5,
+            "tầng": 1.5,
+            "tầm nhìn": 2.0,
+            "tầm cao": 1.5,
+            "công viên": 3.0,
+            "hàng đợi": 1.5,
+            "vòng đu": 1.5,
+            "thành phố": 1.5,
+            "quầy": 1.5,
+            "đồ ăn": 1.5,
+            "đồ uống": 1.5,
+            "chuyến bao": 1,
+            "khung cảnh": 0.5,
+            "cảng": 0.5,
+            "trải nghiệm đi xe": 0.5,
+            "trò chơi": 0.5,
+            "cầu rồng": 0.5,
+            "cầu sông hans": 0.5,
+            "vòng quay mặt": 0.5,
+            "khu vui chơi giải trí": 0.5,
+            "bánh xe mặt": 0.5,
+            "bánh xe": 0.5,
+            "cây cầu": 0.5,
+            "cảnh tượng": 0.5,
+            "trung tâm thành": 0.5,
+            "ống kính": 0.5
+        }
     },
     {
         "attraction_name": "Sun Wheel",
@@ -237,7 +421,151 @@
             "https://www.tripadvisor.com/Attraction_Review-g147367-d4088002-Reviews-Governors_Beach-Seven_Mile_Beach_Grand_Cayman_Cayman_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d7043562-Reviews-or20-Sun_Wheel-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d7043562-Reviews-or10-Sun_Wheel-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d7043562-Reviews-or10-Sun_Wheel-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "giá cả hơi": 0.9816703365650028,
+            "cơ sở vật chất": 0.995526991377119,
+            "bánh xe": 0.7311576116830111,
+            "quang cảnh": 0.995377779006958,
+            "vòng quay mặt": 0.9938115702243522,
+            "world buffet": 0.9937844870146364,
+            "chuyến đi": 0.9954821390565485,
+            "công viên": 0.5922558070160449,
+            "bữa tối": 0.9938326250994578,
+            "nhân viên": 0.9955507443519309,
+            "sun wheel": 0.977785425260663,
+            "công viên giải trí": 0.9843128479551524,
+            "trò chơi": -0.9517654546070844,
+            "đi và": 0.5,
+            "tự chọn": 0.5,
+            "bữa ăn buffet": 0.9954850634676404,
+            "món ăn": 0.5272078532725573,
+            "hải sản": 0.5,
+            "thực phẩm chất": 0.9954955389839597,
+            "vòng tròn": 0.11516524478793144,
+            "vòng quay mặt trời": 0.8737691454589367,
+            "bánh xe mặt": 0.9933608297724277,
+            "cây": 0.9764168566034641,
+            "cầu": 0.9535312679363415,
+            "con thuyền": 0.8401101448107511,
+            "tòa nhà": 0.7470103568630293
+        },
+        "dicts_adj": {
+            "giá cả hơi": [
+                "thấp",
+                "thú vị",
+                "hơn"
+            ],
+            "cơ sở vật chất": [
+                "đẹp",
+                "thú vị"
+            ],
+            "bánh xe": [
+                "chậm",
+                "đủ",
+                "dài",
+                "kiên nhẫn"
+            ],
+            "quang cảnh": [
+                "tuyệt vời"
+            ],
+            "vòng quay mặt": [
+                "đẹp"
+            ],
+            "world buffet": [],
+            "chuyến đi": [
+                "thú vị"
+            ],
+            "công viên": [
+                "cao",
+                "im"
+            ],
+            "bữa tối": [
+                "bất kỳ",
+                "khác"
+            ],
+            "nhân viên": [
+                "tốt",
+                "tuyệt vời"
+            ],
+            "sun wheel": [],
+            "công viên giải trí": [
+                "nhiều"
+            ],
+            "trò chơi": [
+                "khác"
+            ],
+            "đi và": [],
+            "tự chọn": [],
+            "bữa ăn buffet": [
+                "tuyệt vời"
+            ],
+            "món ăn": [
+                "khác"
+            ],
+            "hải sản": [],
+            "thực phẩm chất": [
+                "tuyệt vời"
+            ],
+            "vòng tròn": [
+                "bất kỳ",
+                "gần"
+            ],
+            "vòng quay mặt trời": [
+                "cao"
+            ],
+            "bánh xe mặt": [
+                "xa",
+                "chắc chắn",
+                "liên tục"
+            ],
+            "cây": [
+                "cùng",
+                "tuyệt vời"
+            ],
+            "cầu": [
+                "cùng",
+                "tuyệt vời"
+            ],
+            "con thuyền": [
+                "cùng",
+                "tuyệt vời"
+            ],
+            "tòa nhà": [
+                "cùng",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "giá cả hơi": 1.5,
+            "cơ sở vật chất": 1.5,
+            "bánh xe": 2.5,
+            "quang cảnh": 1.5,
+            "vòng quay mặt": 0.5,
+            "world buffet": 0.5,
+            "chuyến đi": 0.5,
+            "công viên": 1.0,
+            "bữa tối": 0.5,
+            "nhân viên": 0.5,
+            "sun wheel": 0.5,
+            "công viên giải trí": 0.5,
+            "trò chơi": 0.5,
+            "đi và": 0.5,
+            "tự chọn": 0.5,
+            "bữa ăn buffet": 0.5,
+            "món ăn": 0.5,
+            "hải sản": 0.5,
+            "thực phẩm chất": 0.5,
+            "vòng tròn": 0.5,
+            "vòng quay mặt trời": 0.5,
+            "bánh xe mặt": 0.5,
+            "cây": 0.5,
+            "cầu": 0.5,
+            "con thuyền": 0.5,
+            "tòa nhà": 0.5
+        }
     },
     {
         "attraction_name": "Sun Wheel",
@@ -367,7 +695,140 @@
             "https://www.tripadvisor.com/Attraction_Review-g469404-d665903-Reviews-Bodyworks-Seminyak_Kuta_District_Bali.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d7043562-Reviews-or30-Sun_Wheel-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d7043562-Reviews-or20-Sun_Wheel-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d7043562-Reviews-or20-Sun_Wheel-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khu": 0.9879817145410925,
+            "cây cầu": 0.5134947411715984,
+            "chuyến đi chơi": 0.9955189647735097,
+            "công viên": 0.6606436671281699,
+            "chuyến đi": 0.9048071974733224,
+            "hàng đợi": -0.3562267366796732,
+            "chuyến xe": 0.5,
+            "vòng quay": 0.9331701062619686,
+            "quang cảnh": 0.9954224441898987,
+            "đồ uống": 0.5423731589689851,
+            "tầm nhìn": 0.5,
+            "đường ray": 0.5,
+            "công viên giải trí": -0.4281886132666841,
+            "khuôn viên": 0.8737691454589367,
+            "cấu": 0.9776343023404479,
+            "màn đêm": 0.9922533234348521,
+            "bánh xe": 0.7462157708941959,
+            "trò chơi điện": 0.6726167120117074,
+            "mặt": 0.5117936190217733,
+            "khung cảnh": 0.9954863202292472,
+            "xe chở": 0.5169121008366346,
+            "vòng quay mặt": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "khu": [],
+            "cây cầu": [
+                "dễ dàng",
+                "bất kỳ"
+            ],
+            "chuyến đi chơi": [
+                "tuyệt vời"
+            ],
+            "công viên": [
+                "chắc chắn",
+                "gần",
+                "đẹp",
+                "ít",
+                "tốt",
+                "hơn",
+                "ít",
+                "sạch sẽ",
+                "đông",
+                "nhanh",
+                "mạnh",
+                "khác",
+                "cao",
+                "chắc",
+                "phải",
+                "nhiều"
+            ],
+            "chuyến đi": [
+                "đúng",
+                "bất kỳ",
+                "tuyệt vời"
+            ],
+            "hàng đợi": [
+                "giống"
+            ],
+            "chuyến xe": [],
+            "vòng quay": [
+                "cao"
+            ],
+            "quang cảnh": [
+                "tuyệt vời"
+            ],
+            "đồ uống": [
+                "tốt",
+                "hơn"
+            ],
+            "tầm nhìn": [],
+            "đường ray": [],
+            "công viên giải trí": [
+                "tốt",
+                "khác",
+                "thực sự",
+                "khác"
+            ],
+            "khuôn viên": [
+                "đẹp",
+                "đẹp"
+            ],
+            "cấu": [
+                "đẹp",
+                "đẹp"
+            ],
+            "màn đêm": [
+                "kỳ diệu"
+            ],
+            "bánh xe": [
+                "lớn"
+            ],
+            "trò chơi điện": [
+                "mạnh",
+                "khác",
+                "cao"
+            ],
+            "mặt": [],
+            "khung cảnh": [
+                "tuyệt vời"
+            ],
+            "xe chở": [],
+            "vòng quay mặt": [
+                "rẻ",
+                "hơn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khu": 1.5,
+            "cây cầu": 1.5,
+            "chuyến đi chơi": 0.5,
+            "công viên": 3.0,
+            "chuyến đi": 1.5,
+            "hàng đợi": 0.5,
+            "chuyến xe": 0.5,
+            "vòng quay": 0.5,
+            "quang cảnh": 0.5,
+            "đồ uống": 0.5,
+            "tầm nhìn": 0.5,
+            "đường ray": 0.5,
+            "công viên giải trí": 1.5,
+            "khuôn viên": 0.5,
+            "cấu": 0.5,
+            "màn đêm": 0.5,
+            "bánh xe": 1.0,
+            "trò chơi điện": 0.5,
+            "mặt": 0.5,
+            "khung cảnh": 0.5,
+            "xe chở": 0.5,
+            "vòng quay mặt": 0.5
+        }
     },
     {
         "attraction_name": "Sun Wheel",
@@ -497,7 +958,143 @@
             "https://www.tripadvisor.com/Attraction_Review-g293916-d496987-Reviews-Wat_Pho_Thai_Traditional_Massage_School-Bangkok.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d7043562-Reviews-or40-Sun_Wheel-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d7043562-Reviews-or30-Sun_Wheel-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d7043562-Reviews-or30-Sun_Wheel-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9953509796177968,
+            "quang cảnh": 0.9938157431664877,
+            "tòa nhà": 0.8875282048247755,
+            "biển cả": 0.15263681719079614,
+            "quầy bar": 0.9618208614410833,
+            "tầng": 0.76760067633586,
+            "tầm nhìn": 0.5,
+            "tầm cao": 0.5,
+            "bức tranh": 0.9930368978530169,
+            "chuyến đi": 0.8270717257255455,
+            "trò chơi": 0.5,
+            "bánh xe mặt": 0.7476690354815219,
+            "đồ ăn": 0.9776243516243994,
+            "con": 0.5,
+            "mắt khổng lồ": 0.5,
+            "công viên": 0.8877305407756163,
+            "bánh xe": 0.9788072647061199,
+            "công viên giải trí": 0.7145267147570848,
+            "công viên giải trí asia": 0.971622780431062,
+            "-": 0.9566871725255623,
+            "trình diễn ánh sáng": 0.9881282872520387,
+            "trò": 0.9939081529155374,
+            "khung cảnh": 0.8737691454589367,
+            "cây cầu rồng": 0.9724162414204329,
+            "nhân viên": 0.9951825405005366
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "quang cảnh": [
+                "mênh mông",
+                "dài",
+                "khó khăn",
+                "tuyệt đẹp"
+            ],
+            "tòa nhà": [
+                "mênh mông",
+                "dài"
+            ],
+            "biển cả": [
+                "mênh mông",
+                "dài"
+            ],
+            "quầy bar": [
+                "thượng mang",
+                "tuyệt vời"
+            ],
+            "tầng": [
+                "thượng mang",
+                "tuyệt vời"
+            ],
+            "tầm nhìn": [],
+            "tầm cao": [],
+            "bức tranh": [
+                "cao",
+                "hơn"
+            ],
+            "chuyến đi": [
+                "khó",
+                "duy nhất",
+                "khoảng",
+                "tuyệt vời"
+            ],
+            "trò chơi": [],
+            "bánh xe mặt": [],
+            "đồ ăn": [
+                "an toàn",
+                "nhiều",
+                "nhẹ"
+            ],
+            "con": [],
+            "mắt khổng lồ": [],
+            "công viên": [
+                "tuyệt vời",
+                "mới"
+            ],
+            "bánh xe": [],
+            "công viên giải trí": [
+                "nhiều",
+                "lớn",
+                "chủ yếu"
+            ],
+            "công viên giải trí asia": [],
+            "-": [
+                "lớn",
+                "chủ yếu"
+            ],
+            "trình diễn ánh sáng": [
+                "nhẹ nhàng",
+                "rực rỡ",
+                "liên tục"
+            ],
+            "trò": [],
+            "khung cảnh": [
+                "tuyệt vời"
+            ],
+            "cây cầu rồng": [
+                "cao"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "tốt",
+                "dễ dàng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 1.5,
+            "quang cảnh": 2.5,
+            "tòa nhà": 1.5,
+            "biển cả": 1.5,
+            "quầy bar": 1.5,
+            "tầng": 1.5,
+            "tầm nhìn": 1.5,
+            "tầm cao": 1.5,
+            "bức tranh": 1.5,
+            "chuyến đi": 4.0,
+            "trò chơi": 0.5,
+            "bánh xe mặt": 1.0,
+            "đồ ăn": 0.5,
+            "con": 0.5,
+            "mắt khổng lồ": 0.5,
+            "công viên": 1.5,
+            "bánh xe": 0.5,
+            "công viên giải trí": 1.0,
+            "công viên giải trí asia": 0.5,
+            "-": 0.5,
+            "trình diễn ánh sáng": 0.5,
+            "trò": 0.5,
+            "khung cảnh": 0.5,
+            "cây cầu rồng": 0.5,
+            "nhân viên": 0.5
+        }
     },
     {
         "attraction_name": "Sun Wheel",
@@ -610,7 +1207,158 @@
             "https://www.tripadvisor.com/Attraction_Review-g31350-d142235-Reviews-Taliesin_West-Scottsdale_Arizona.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d7043562-Reviews-or50-Sun_Wheel-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d7043562-Reviews-or40-Sun_Wheel-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d7043562-Reviews-or40-Sun_Wheel-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "công viên vui chơi": 0.861575324088335,
+            "bánh xe": 0.9511909128341358,
+            "công viên": 0.5991540979593992,
+            "cửa hàng": 0.7037227442488074,
+            "khu": 0.9912857576273382,
+            "chuyến đi": 0.7439948235405609,
+            "tầm nhìn": 0.9950011653127149,
+            "bức tượng": 0.9945588046684861,
+            "thị trấn": -0.9751312599983066,
+            "nhân viên": 0.6097801098367199,
+            "bánh xe mặt": 0.23946469090878963,
+            "vòng quay mặt trời": 0.8737691454589367,
+            "công viên giải trí": 0.1256607662071474,
+            "bảo trì": 0.9929589269449934,
+            "bộ đàm": 0.5,
+            "ánh đèn": 0.994212347199209,
+            "chuyến thăm": 0.9873383342055604,
+            "trò chơi": 0.9842532030306756,
+            "buổi khiêu vũ": 0.9948034702101722,
+            "khu vui": 0.9955595568171702,
+            "món quà lưu niệm": 0.993987865629606,
+            "khung cảnh": 0.8737691454589367,
+            "khuôn viên": 0.0944371084915474,
+            "tàu lượn siêu": 0.5840199254453182,
+            "trò chơi điện tử": 0.1551373451948166,
+            "môn khúc côn cầu": 0.9946919644717127,
+            "quà tặng xa hoa": 0.5,
+            "mặt hàng hóa": 0.5
+        },
+        "dicts_adj": {
+            "công viên vui chơi": [
+                "cuối cùng"
+            ],
+            "bánh xe": [
+                "khác",
+                "đẹp"
+            ],
+            "công viên": [
+                "tốt",
+                "hơn",
+                "chắc chắn",
+                "khác",
+                "nhỏ",
+                "lớn"
+            ],
+            "cửa hàng": [
+                "đắt",
+                "đắt"
+            ],
+            "khu": [
+                "gần"
+            ],
+            "chuyến đi": [
+                "tuyệt vời"
+            ],
+            "tầm nhìn": [
+                "tuyệt vời",
+                "đặc biệt"
+            ],
+            "bức tượng": [
+                "đẹp"
+            ],
+            "thị trấn": [],
+            "nhân viên": [
+                "tốt",
+                "may",
+                "trẻ",
+                "khắp"
+            ],
+            "bánh xe mặt": [
+                "nóng"
+            ],
+            "vòng quay mặt trời": [
+                "kém",
+                "khác"
+            ],
+            "công viên giải trí": [
+                "kém",
+                "khác"
+            ],
+            "bảo trì": [
+                "tuyệt vời"
+            ],
+            "bộ đàm": [],
+            "ánh đèn": [
+                "nhỏ",
+                "kỳ diệu"
+            ],
+            "chuyến thăm": [
+                "dễ dàng"
+            ],
+            "trò chơi": [
+                "nhẹ nhàng"
+            ],
+            "buổi khiêu vũ": [
+                "tuyệt vời"
+            ],
+            "khu vui": [],
+            "món quà lưu niệm": [
+                "đắt"
+            ],
+            "khung cảnh": [
+                "tuyệt vời"
+            ],
+            "khuôn viên": [
+                "đẹp",
+                "rộng lớn"
+            ],
+            "tàu lượn siêu": [],
+            "trò chơi điện tử": [
+                "lớn"
+            ],
+            "môn khúc côn cầu": [
+                "hào hứng"
+            ],
+            "quà tặng xa hoa": [],
+            "mặt hàng hóa": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "công viên vui chơi": 1.5,
+            "bánh xe": 2.0,
+            "công viên": 1.0,
+            "cửa hàng": 1.0,
+            "khu": 0.5,
+            "chuyến đi": 1.0,
+            "tầm nhìn": 0.5,
+            "bức tượng": 0.5,
+            "thị trấn": 0.5,
+            "nhân viên": 1.0,
+            "bánh xe mặt": 1.5,
+            "vòng quay mặt trời": 0.5,
+            "công viên giải trí": 1.0,
+            "bảo trì": 0.5,
+            "bộ đàm": 0.5,
+            "ánh đèn": 0.5,
+            "chuyến thăm": 0.5,
+            "trò chơi": 0.5,
+            "buổi khiêu vũ": 0.5,
+            "khu vui": 0.5,
+            "món quà lưu niệm": 0.5,
+            "khung cảnh": 0.5,
+            "khuôn viên": 0.5,
+            "tàu lượn siêu": 0.5,
+            "trò chơi điện tử": 0.5,
+            "môn khúc côn cầu": 0.5,
+            "quà tặng xa hoa": 0.5,
+            "mặt hàng hóa": 0.5
+        }
     },
     {
         "attraction_name": "Sun Wheel",
@@ -723,7 +1471,85 @@
             "https://www.tripadvisor.com/Attraction_Review-g1826165-d1102622-Reviews-The_Jampot-Eagle_Harbor_Upper_Peninsula_Michigan.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d7043562-Reviews-or60-Sun_Wheel-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d7043562-Reviews-or50-Sun_Wheel-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d7043562-Reviews-or50-Sun_Wheel-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khung cảnh": 0.9021646098350175,
+            "công viên": 0.5,
+            "giả sử": 0.9953730494016781,
+            "tầm nhìn": 0.9947611950046849,
+            "quang cảnh": 0.9955072141601704,
+            "cây cầu": 0.9928867384248102,
+            "biển hiệu phòng tắm": 0.9937986534787342,
+            "vòng quay mặt trời": 0.12884499342180789,
+            "lotte mart": -0.9591662224847823,
+            "vòng quay mặt": 0.8737691454589367,
+            "bánh xe": 0.04116860777139664,
+            "thành phố": 0.6709913108497858
+        },
+        "dicts_adj": {
+            "khung cảnh": [
+                "tuyệt vời",
+                "thực sự",
+                "đẹp",
+                "đặc biệt",
+                "thực sự",
+                "ngoạn mục"
+            ],
+            "công viên": [],
+            "giả sử": [
+                "tuyệt vời"
+            ],
+            "tầm nhìn": [
+                "tuyệt vời",
+                "đặc biệt",
+                "đẹp"
+            ],
+            "quang cảnh": [
+                "thực sự",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "cây cầu": [
+                "sáng",
+                "đẹp",
+                "đẹp",
+                "sáng"
+            ],
+            "biển hiệu phòng tắm": [
+                "nhất"
+            ],
+            "vòng quay mặt trời": [
+                "khó khăn"
+            ],
+            "lotte mart": [
+                "gần",
+                "gần"
+            ],
+            "vòng quay mặt": [
+                "thực sự",
+                "ngoạn mục"
+            ],
+            "bánh xe": [
+                "lớn"
+            ],
+            "thành phố": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khung cảnh": 2.5,
+            "công viên": 1.5,
+            "giả sử": 1.5,
+            "tầm nhìn": 1.0,
+            "quang cảnh": 0.5,
+            "cây cầu": 1.5,
+            "biển hiệu phòng tắm": 0.5,
+            "vòng quay mặt trời": 0.5,
+            "lotte mart": 0.5,
+            "vòng quay mặt": 0.5,
+            "bánh xe": 0.5,
+            "thành phố": 0.5
+        }
     },
     {
         "attraction_name": "Sun Wheel",
@@ -850,6 +1676,119 @@
             "https://www.tripadvisor.com/Attraction_Review-g58856-d108070-Reviews-Beckley_Exhibition_Coal_Mine_and_Youth_Museum-Beckley_West_Virginia.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d7043562-Reviews-or60-Sun_Wheel-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d7043562-Reviews-or60-Sun_Wheel-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "giá cả": 0.8737691454589367,
+            "hành trình": -0.9357128122355789,
+            "cảnh quan": 0.9954544542124495,
+            "cây cầu": 0.8194088257150725,
+            "chuyên chở": 0.9909388743108138,
+            "nhân viên": -0.9753870033891872,
+            "bánh": -0.964982895180583,
+            "điều hòa": -0.7969558485783637,
+            "bánh xe": 0.7694536214694381,
+            "vòng quay mặt": 0.9911653741728514,
+            "​​ngọn": 0.5,
+            "lửa": 0.5,
+            "cầu rồng": 0.5,
+            "ngắm cảnh": 0.500066302716732,
+            "sun wheel": 0.5,
+            "bờ sông": 0.5,
+            "quang cảnh": 0.8737691454589367,
+            "đồ ăn": 0.9955712031805888,
+            "công viên giải trí": 0.995512991969008,
+            "tầm nhìn": 0.995513335452415
+        },
+        "dicts_adj": {
+            "giá cả": [
+                "hợp lý Sun Wheel",
+                "sạch sẽ",
+                "dễ dàng",
+                "xứng đáng"
+            ],
+            "hành trình": [
+                "chậm rãi"
+            ],
+            "cảnh quan": [
+                "tuyệt vời"
+            ],
+            "cây cầu": [
+                "sáng",
+                "tuyệt",
+                "tuyệt",
+                "lớn",
+                "liên tục"
+            ],
+            "chuyên chở": [
+                "mệt mỏi",
+                "già",
+                "dễ dàng",
+                "thú vị",
+                "hơn"
+            ],
+            "nhân viên": [
+                "thô lỗ"
+            ],
+            "bánh": [
+                "thô lỗ"
+            ],
+            "điều hòa": [
+                "đông",
+                "nóng"
+            ],
+            "bánh xe": [
+                "ướt",
+                "lớn",
+                "lớn"
+            ],
+            "vòng quay mặt": [
+                "lý tưởng"
+            ],
+            "​​ngọn": [],
+            "lửa": [],
+            "cầu rồng": [],
+            "ngắm cảnh": [],
+            "sun wheel": [],
+            "bờ sông": [],
+            "quang cảnh": [
+                "tuyệt",
+                "tốt"
+            ],
+            "đồ ăn": [
+                "đơn giản",
+                "ngon",
+                "rẻ"
+            ],
+            "công viên giải trí": [
+                "đẹp"
+            ],
+            "tầm nhìn": [
+                "đẹp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "giá cả": 1.5,
+            "hành trình": 1.5,
+            "cảnh quan": 1.5,
+            "cây cầu": 2.0,
+            "chuyên chở": 1.5,
+            "nhân viên": 1.5,
+            "bánh": 1.5,
+            "điều hòa": 0.5,
+            "bánh xe": 1.5,
+            "vòng quay mặt": 0.5,
+            "​​ngọn": 0.5,
+            "lửa": 0.5,
+            "cầu rồng": 0.5,
+            "ngắm cảnh": 0.5,
+            "sun wheel": 0.5,
+            "bờ sông": 0.5,
+            "quang cảnh": 0.5,
+            "đồ ăn": 0.5,
+            "công viên giải trí": 1,
+            "tầm nhìn": 1
+        }
     }
 ]
