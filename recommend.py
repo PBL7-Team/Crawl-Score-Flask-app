@@ -5,9 +5,7 @@ import unicodedata
 import os
 from rapidfuzz import fuzz
 from Model_Here.keyphrase import TextEntities_Score
-from Model_Here.synonyms_prediction import re_cluster
 from Model_Here.score_extract import annotate_text
-from Crawler_Here.translate_tool import final_translate_text
 from sklearn.metrics.pairwise import cosine_similarity
 
 def get_new_contentbase_df():
@@ -56,8 +54,10 @@ def get_new_contentbase_df():
 
 def recommend_system(text):
     # print("Hi")
+    if "Việt Nam" not in text:
+        text = text + " tại Việt Nam."
     dicts_sentiment, _, _, _ = TextEntities_Score(text,True)
-    list_proper_noun_feature = [word['wordForm'] for word in annotate_text(text) if word['nerLabel'] in ['B-LOC', 'B-PER']]
+    list_proper_noun_feature = [word['wordForm'] for word in annotate_text(text) if word['nerLabel'] in ['B-LOC']]
     # new_contentbase_df = get_new_contentbase_df()
     # print(dicts_sentiment)
     # print(list_proper_noun_feature)
@@ -127,7 +127,7 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
     
     filtered_df = content_base_df[comment_cluster_list]
 
-    vector = [2] * len(filtered_df.columns)
+    vector = [1] * len(filtered_df.columns)
     # # Duyệt qua từng tên cột và kiểm tra
     # for i, col in enumerate(column_names):
     #     if col in comment_cluster_list:
@@ -145,11 +145,13 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
     sorted_user_similarity_df = user_similarity_df.apply(lambda row: row.sort_values(ascending=False), axis=1)
 
     # print(sorted_user_similarity_df)
-
-    threshold = 0.5
+    if len(filtered_df.columns) > 0:
+        threshold = 0.5 + 0.5/len(filtered_df.columns)
+    else:
+        threshold = 1
+    # print(threshold)
     sorted_user_similarity_df = sorted_user_similarity_df.T
-    list_valid_attraction = sorted_user_similarity_df[sorted_user_similarity_df[0] > threshold].sort_values(by=0, ascending=False).index.tolist()
-
+    list_valid_attraction = sorted_user_similarity_df[sorted_user_similarity_df[0] >= threshold].sort_values(by=0, ascending=False).index.tolist()
 
     return list_valid_attraction
 
