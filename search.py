@@ -4,11 +4,13 @@ import os
 import json
 
 def get_attraction_info(directory_path):
-    if not os.path.isdir(directory_path):
+    absolute_path = os.path.abspath(directory_path)
+    if not os.path.isdir(absolute_path):
         print("Đường dẫn không tồn tại.")
-        return None
+        return {}
+    
     attractions_dict = {}
-    for filename in os.listdir(directory_path):
+    for filename in os.listdir(absolute_path):
         if filename.endswith('.json'):
             file_path = os.path.join(directory_path, filename)
             with open(file_path, 'r', encoding='utf-8') as file:
