@@ -121,7 +121,148 @@
             "https://www.tripadvisor.com/Attraction_Review-g304138-d6199245-Reviews-Hanthana_Mountain_Range-Kandy_Kandy_District_Central_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298086-d4520829-Reviews-or10-Yoga_House_on_the_Hill-Phan_Thiet_Binh_Thuan_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298086-d4520829-Reviews-Yoga_House_on_the_Hill-Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298086-d4520829-Reviews-Yoga_House_on_the_Hill-Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hành giả": 0.5,
+            "loại đạo cụ": 0.9894691798835993,
+            "không khí": 0.6328667402267456,
+            "tòa nhà": 0.9343760462361388,
+            "cảnh quan": 0.9955055563477799,
+            "hương thơm": 0.9951259896042757,
+            "trầm hương": 0.9943401596974581,
+            "trà ngon": 0.9955223463475704,
+            "đồ ăn": 0.6533634588122368,
+            "buổi tập": 0.6802504360675812,
+            "biển": 0.9945732570486143,
+            "cung điện hoàng gia": 0.995147003850434,
+            "giáo viên": 0.8380074090360162,
+            "cảnh hoàng hôn": 0.995360744476784,
+            "bình": 0.49199952371418476,
+            "lớp học yoga": 0.9949270463548601,
+            "lớp học": 0.7758657373487949,
+            "tập yoga ẩn giấu": 0.5158386826515198,
+            "khung cảnh": 0.9954602821380831,
+            "người": 0.9943396381568164,
+            "thực hành": 0.9954917930299416,
+            "giờ học": 0.5355505794286728,
+            "trải nghiệm": 0.9951701260870323,
+            "lớp yoga": 0.9612549678422511,
+            "tập yoga": 0.9879074054770172
+        },
+        "dicts_adj": {
+            "hành giả": [],
+            "loại đạo cụ": [
+                "cao",
+                "tốt",
+                "hơn"
+            ],
+            "không khí": [
+                "đẹp"
+            ],
+            "tòa nhà": [
+                "đẹp",
+                "mê hoặc",
+                "cổ kính"
+            ],
+            "cảnh quan": [
+                "đẹp"
+            ],
+            "hương thơm": [
+                "nhẹ"
+            ],
+            "trầm hương": [
+                "nhẹ"
+            ],
+            "trà ngon": [
+                "nhẹ"
+            ],
+            "đồ ăn": [
+                "nhẹ"
+            ],
+            "buổi tập": [
+                "khó"
+            ],
+            "biển": [
+                "xanh",
+                "vô tận",
+                "hoàn hảo"
+            ],
+            "cung điện hoàng gia": [
+                "cổ kính"
+            ],
+            "giáo viên": [
+                "cao",
+                "sâu sắc",
+                "chu đáo",
+                "cao",
+                "kiên định",
+                "xinh đẹp",
+                "tốt bụng",
+                "năng động"
+            ],
+            "cảnh hoàng hôn": [
+                "đẹp"
+            ],
+            "bình": [],
+            "lớp học yoga": [
+                "tuyệt vời"
+            ],
+            "lớp học": [
+                "Hoàn toàn"
+            ],
+            "tập yoga ẩn giấu": [
+                "quý"
+            ],
+            "khung cảnh": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "người": [
+                "tuyệt vời"
+            ],
+            "thực hành": [
+                "xinh đẹp"
+            ],
+            "giờ học": [],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "lớp yoga": [
+                "nhẹ",
+                "nhẹ"
+            ],
+            "tập yoga": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hành giả": 1,
+            "loại đạo cụ": 1,
+            "không khí": 1,
+            "tòa nhà": 2,
+            "cảnh quan": 1,
+            "hương thơm": 1,
+            "trầm hương": 1,
+            "trà ngon": 1,
+            "đồ ăn": 1,
+            "buổi tập": 1,
+            "biển": 1,
+            "cung điện hoàng gia": 1,
+            "giáo viên": 6.5,
+            "cảnh hoàng hôn": 1,
+            "bình": 1,
+            "lớp học yoga": 1,
+            "lớp học": 1,
+            "tập yoga ẩn giấu": 1.5,
+            "khung cảnh": 3.0,
+            "người": 1.5,
+            "thực hành": 1.5,
+            "giờ học": 3.0,
+            "trải nghiệm": 6.0,
+            "lớp yoga": 3.0,
+            "tập yoga": 3.0
+        }
     },
     {
         "attraction_name": "Yoga House on the Hill",
@@ -246,7 +387,87 @@
             "https://www.tripadvisor.com/Attraction_Review-g150807-d3665613-Reviews-Happy_Shuttle_Cancun-Cancun_Yucatan_Peninsula.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298086-d4520829-Reviews-or20-Yoga_House_on_the_Hill-Phan_Thiet_Binh_Thuan_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298086-d4520829-Reviews-or10-Yoga_House_on_the_Hill-Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298086-d4520829-Reviews-or10-Yoga_House_on_the_Hill-Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "biển": 0.9939971250714734,
+            "tòa nhà": 0.8737691454589367,
+            "cung điện hoàng gia": -0.9085045545361936,
+            "giáo viên": 0.9954290350433439,
+            "tiếng chim": 0.7272214544937015,
+            "trải nghiệm": 0.9953076486708596,
+            "mát thảm": 0.5,
+            "đạo cụ": 0.5,
+            "giờ học": 0.7569029619917274,
+            "mũi né": -0.1549655683338642,
+            "lớp yoga": 0.5,
+            "nhà yoga": 0.5,
+            "khung cảnh": 0.9955874492879957,
+            "không khí": 0.9932533173123375,
+            "bầu không khí": -0.9755259386729449
+        },
+        "dicts_adj": {
+            "biển": [
+                "xanh",
+                "bất tận"
+            ],
+            "tòa nhà": [
+                "quyến rũ"
+            ],
+            "cung điện hoàng gia": [
+                "cũ"
+            ],
+            "giáo viên": [
+                "cao",
+                "sâu sắc",
+                "chu đáo",
+                "cao",
+                "kiên định",
+                "chu đáo",
+                "đẹp"
+            ],
+            "tiếng chim": [],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "mát thảm": [],
+            "đạo cụ": [],
+            "giờ học": [
+                "nhanh chóng"
+            ],
+            "mũi né": [
+                "Chắc chắn"
+            ],
+            "lớp yoga": [],
+            "nhà yoga": [],
+            "khung cảnh": [
+                "chuyên nghiệp",
+                "đẹp"
+            ],
+            "không khí": [
+                "thực sự",
+                "thân thiện"
+            ],
+            "bầu không khí": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "biển": 1,
+            "tòa nhà": 1,
+            "cung điện hoàng gia": 1,
+            "giáo viên": 1,
+            "tiếng chim": 1.5,
+            "trải nghiệm": 1.5,
+            "mát thảm": 1,
+            "đạo cụ": 1,
+            "giờ học": 1,
+            "mũi né": 1,
+            "lớp yoga": 1,
+            "nhà yoga": 1,
+            "khung cảnh": 1,
+            "không khí": 1,
+            "bầu không khí": 1
+        }
     },
     {
         "attraction_name": "Yoga House on the Hill",
@@ -384,7 +605,86 @@
             "https://www.tripadvisor.com/Attraction_Review-g32491-d11823678-Reviews-Hesperia_Lake-Hesperia_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298086-d4520829-Reviews-or30-Yoga_House_on_the_Hill-Phan_Thiet_Binh_Thuan_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298086-d4520829-Reviews-or20-Yoga_House_on_the_Hill-Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298086-d4520829-Reviews-or20-Yoga_House_on_the_Hill-Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "giáo viên": 0.9707385180401615,
+            "bài tập": 0.5568549409508705,
+            "cảnh hoàng hôn": 0.995360744476784,
+            "trải nghiệm": 0.9953718477627262,
+            "lớp yoga": 0.9612549678422511,
+            "giáo viên hướng dẫn": 0.5,
+            "học viên": 0.5,
+            "tập yoga": 0.8659305541077629,
+            "tập hatha": 0.5,
+            "trà yoga": 0.9948289085878059,
+            "lớp học yoga": 0.9909904925152659,
+            "vật liệu": 0.48872562497854233,
+            "tập yoga chăn": 0.5,
+            "rung cảm": 0.9953441926045343,
+            "không khí": -0.9370632087811828
+        },
+        "dicts_adj": {
+            "giáo viên": [
+                "giàu",
+                "tốt bụng",
+                "giàu",
+                "đẹp",
+                "đẹp",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "bài tập": [
+                "thử thách",
+                "nhiều",
+                "khác"
+            ],
+            "cảnh hoàng hôn": [
+                "đẹp"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "lớp yoga": [
+                "nhẹ"
+            ],
+            "giáo viên hướng dẫn": [],
+            "học viên": [],
+            "tập yoga": [],
+            "tập hatha": [],
+            "trà yoga": [
+                "ngon"
+            ],
+            "lớp học yoga": [],
+            "vật liệu": [
+                "cần thiết"
+            ],
+            "tập yoga chăn": [],
+            "rung cảm": [
+                "đặc biệt"
+            ],
+            "không khí": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "giáo viên": 2.5,
+            "bài tập": 1,
+            "cảnh hoàng hôn": 1,
+            "trải nghiệm": 1.5,
+            "lớp yoga": 1.5,
+            "giáo viên hướng dẫn": 1.5,
+            "học viên": 1.5,
+            "tập yoga": 2.0,
+            "tập hatha": 0.5,
+            "trà yoga": 0.5,
+            "lớp học yoga": 0.5,
+            "vật liệu": 0.5,
+            "tập yoga chăn": 0.5,
+            "rung cảm": 0.5,
+            "không khí": 0.5
+        }
     },
     {
         "attraction_name": "Yoga House on the Hill",
@@ -514,6 +814,81 @@
             "https://www.tripadvisor.com/Attraction_Review-g55543-d10304036-Reviews-Lake_Bryan_Park-Bryan_Texas.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298086-d4520829-Reviews-or30-Yoga_House_on_the_Hill-Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298086-d4520829-Reviews-or30-Yoga_House_on_the_Hill-Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "vị trí": 0.99539563304279,
+            "huấn luyện viên": 0.9938421250553802,
+            "tập yoga": 0.935609458014369,
+            "lớp học": 0.5701066385954618,
+            "khung cảnh": 0.9953988085326273,
+            "tầm nhìn": 0.9919035498751327,
+            "loại yoga": 0.6577278198674321,
+            "trải nghiệm": 0.9835950690321624,
+            "ngôi nhà yoga": 0.9729448137804866,
+            "viên kẹo": 0.9717287828680128,
+            "kỹ thuật": 0.9604946272447705,
+            "trà thảo mộc": 0.9955181173863821
+        },
+        "dicts_adj": {
+            "vị trí": [
+                "tuyệt vời"
+            ],
+            "huấn luyện viên": [
+                "giàu",
+                "tuyệt vời",
+                "chuyên nghiệp"
+            ],
+            "tập yoga": [
+                "cao",
+                "cao"
+            ],
+            "lớp học": [
+                "nhiều",
+                "có thể"
+            ],
+            "khung cảnh": [
+                "đẹp",
+                "thực sự"
+            ],
+            "tầm nhìn": [
+                "đẹp"
+            ],
+            "loại yoga": [
+                "khác"
+            ],
+            "trải nghiệm": [
+                "khác biệt"
+            ],
+            "ngôi nhà yoga": [],
+            "viên kẹo": [
+                "nhỏ",
+                "xinh"
+            ],
+            "kỹ thuật": [
+                "tốt",
+                "đúng",
+                "hoàn toàn",
+                "đúng"
+            ],
+            "trà thảo mộc": [
+                "chắc chắn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "vị trí": 0.5,
+            "huấn luyện viên": 1.0,
+            "tập yoga": 0.5,
+            "lớp học": 0.5,
+            "khung cảnh": 1.0,
+            "tầm nhìn": 0.5,
+            "loại yoga": 0.5,
+            "trải nghiệm": 0.5,
+            "ngôi nhà yoga": 0.5,
+            "viên kẹo": 0.5,
+            "kỹ thuật": 0.5,
+            "trà thảo mộc": 0.5
+        }
     }
 ]

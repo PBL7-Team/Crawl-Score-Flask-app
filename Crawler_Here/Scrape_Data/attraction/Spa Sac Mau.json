@@ -91,6 +91,106 @@
             "https://www.tripadvisor.com/Attraction_Review-g34345-d14203507-Reviews-The_Kapok_Tree-Key_West_Florida_Keys_Florida.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298086-d13908432-Reviews-Spa_Sac_Mau-Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298086-d13908432-Reviews-Spa_Sac_Mau-Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "mũi né": 0.9030373013423135,
+            "tiệm làm đẹp": 0.5,
+            "kỳ nghỉ": 0.5,
+            "khu nghỉ dưỡng": 0.5,
+            "mát-xa vào lúc": 0.3292171470820904,
+            "quản trị viên": 0.5,
+            "salon": 0.5,
+            "mặt nạ": 0.7302315905690193,
+            "khách sạn": 0.05487101897597313,
+            "nhân viên": 0.9944396552513354,
+            "mát-xa kiểu việt": 0.8737691454589367,
+            "kỹ thuật": -0.9391315300017595,
+            "động như": -0.8804761366918683,
+            "spa": 0.9955641846172512,
+            "dịch vụ massage": 0.9874999879393727,
+            "không khí": 0.8737691454589367,
+            "trà ngon": 0.5,
+            "mát-xa": 0.5,
+            "salon nằm": 0.5,
+            "ngân hàng": 0.5
+        },
+        "dicts_adj": {
+            "mũi né": [
+                "cùng",
+                "cùng",
+                "quen thuộc",
+                "nhiều"
+            ],
+            "tiệm làm đẹp": [],
+            "kỳ nghỉ": [],
+            "khu nghỉ dưỡng": [],
+            "mát-xa vào lúc": [
+                "tình cờ"
+            ],
+            "quản trị viên": [],
+            "salon": [],
+            "mặt nạ": [
+                "trẻ",
+                "hơn"
+            ],
+            "khách sạn": [
+                "tình cờ"
+            ],
+            "nhân viên": [
+                "đầu tiên",
+                "mát mẻ",
+                "chuyên nghiệp",
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "mát-xa kiểu việt": [
+                "may mắn"
+            ],
+            "kỹ thuật": [
+                "khác thường"
+            ],
+            "động như": [
+                "hoàn toàn",
+                "giãn",
+                "mát mẻ"
+            ],
+            "spa": [
+                "tuyệt vời"
+            ],
+            "dịch vụ massage": [
+                "Tình cờ"
+            ],
+            "không khí": [
+                "đẹp"
+            ],
+            "trà ngon": [],
+            "mát-xa": [],
+            "salon nằm": [],
+            "ngân hàng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "mũi né": 1.5,
+            "tiệm làm đẹp": 0.5,
+            "kỳ nghỉ": 0.5,
+            "khu nghỉ dưỡng": 0.5,
+            "mát-xa vào lúc": 0.5,
+            "quản trị viên": 0.5,
+            "salon": 0.5,
+            "mặt nạ": 0.5,
+            "khách sạn": 0.5,
+            "nhân viên": 0.5,
+            "mát-xa kiểu việt": 0.5,
+            "kỹ thuật": 0.5,
+            "động như": 0.5,
+            "spa": 0.5,
+            "dịch vụ massage": 0.5,
+            "không khí": 0.5,
+            "trà ngon": 0.5,
+            "mát-xa": 0.5,
+            "salon nằm": 0.5,
+            "ngân hàng": 0.5
+        }
     }
 ]

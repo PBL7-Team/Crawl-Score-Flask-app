@@ -98,6 +98,126 @@
             "https://www.tripadvisor.com/Attraction_Review-g60864-d3965832-Reviews-Frenchmen_Art_Bazaar-New_Orleans_Louisiana.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d13453941-Reviews-An_Hoi_Sculpture_Garden-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d13453941-Reviews-An_Hoi_Sculpture_Garden-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bức tượng": 0.6177340475842357,
+            "vườn điêu": 0.9930644215201028,
+            "tác phẩm điêu": 0.7371096696879249,
+            "cây cối": 0.5,
+            "phố cổ": 0.8455488001927733,
+            "bờ sông": 0.5589745920151472,
+            "công viên điêu": 0.9801741810515523,
+            "đảo an": 0.8737691454589367,
+            "khu vườn điêu": 0.9909999975934625,
+            "tác phẩm điêu khắc": 0.9944923674920574,
+            "đá granit": 0.9721945204073563,
+            "chủ nghĩa trừu tượng": 0.963817982468754,
+            "nghệ sĩ": 0.5,
+            "chiếc": 0.5,
+            "giỏ": 0.5,
+            "vật trưng bày": 0.5,
+            "ánh sáng": 0.5,
+            "khu": 0.9947052109637298,
+            "nhà hàng": 0.5156686082482338,
+            "quán bar": 0.5210448950529099,
+            "ngôi nhà cổ đền chùa": 0.9839424788951874,
+            "sông": 0.8044938910752535,
+            "hội an": 0.8737691454589367,
+            "cảnh": -0.2260792776942253,
+            "tác phẩm chạm": 0.4129425138235092
+        },
+        "dicts_adj": {
+            "bức tượng": [],
+            "vườn điêu": [
+                "ngoạn mục",
+                "thú vị",
+                "hơn"
+            ],
+            "tác phẩm điêu": [
+                "nhiều",
+                "dài"
+            ],
+            "cây cối": [],
+            "phố cổ": [],
+            "bờ sông": [],
+            "công viên điêu": [
+                "gần"
+            ],
+            "đảo an": [
+                "dài"
+            ],
+            "khu vườn điêu": [
+                "dài",
+                "đầy"
+            ],
+            "tác phẩm điêu khắc": [
+                "khổng lồ"
+            ],
+            "đá granit": [
+                "thú vị",
+                "khổng lồ"
+            ],
+            "chủ nghĩa trừu tượng": [
+                "thú vị"
+            ],
+            "nghệ sĩ": [],
+            "chiếc": [],
+            "giỏ": [],
+            "vật trưng bày": [],
+            "ánh sáng": [],
+            "khu": [
+                "nhiều"
+            ],
+            "nhà hàng": [
+                "dọc"
+            ],
+            "quán bar": [
+                "dọc"
+            ],
+            "ngôi nhà cổ đền chùa": [
+                "nhiều"
+            ],
+            "sông": [
+                "dài"
+            ],
+            "hội an": [
+                "dọc"
+            ],
+            "cảnh": [
+                "khổng lồ"
+            ],
+            "tác phẩm chạm": [
+                "khổng lồ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bức tượng": 0.5,
+            "vườn điêu": 1.0,
+            "tác phẩm điêu": 2.0,
+            "cây cối": 0.5,
+            "phố cổ": 0.5,
+            "bờ sông": 1.0,
+            "công viên điêu": 0.5,
+            "đảo an": 0.5,
+            "khu vườn điêu": 1.0,
+            "tác phẩm điêu khắc": 0.5,
+            "đá granit": 1.0,
+            "chủ nghĩa trừu tượng": 0.5,
+            "nghệ sĩ": 0.5,
+            "chiếc": 0.5,
+            "giỏ": 0.5,
+            "vật trưng bày": 0.5,
+            "ánh sáng": 0.5,
+            "khu": 0.5,
+            "nhà hàng": 0.5,
+            "quán bar": 0.5,
+            "ngôi nhà cổ đền chùa": 0.5,
+            "sông": 0.5,
+            "hội an": 0.5,
+            "cảnh": 0.5,
+            "tác phẩm chạm": 0.5
+        }
     }
 ]

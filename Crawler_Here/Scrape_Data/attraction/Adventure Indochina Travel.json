@@ -90,7 +90,141 @@
             "https://www.tripadvisor.com/Attraction_Review-g47206-d8368801-Reviews-Park_Lake-Santa_Rosa_New_Mexico.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d3247001-Reviews-or10-Adventure_Indochina_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d3247001-Reviews-Adventure_Indochina_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d3247001-Reviews-Adventure_Indochina_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.9942623687064043,
+            "giá cả": 0.5,
+            "trải nghiệm": 0.8707952330811307,
+            "dịch vụ": 0.992463832157419,
+            "chuyến đi": 0.8763964913378004,
+            "adventure đông dương": 0.9954388028709218,
+            "dịch vụ cá": 0.9823322452139109,
+            "trải nghiệm vòng lặp": 0.9953068317845464,
+            "hướng dẫn viên du lịch": 0.8737691454589367,
+            "lái xe": 0.9862895247351844,
+            "chuyến tham": 0.9678239799104631,
+            "chuyển tuyến": 0.9799620838603005,
+            "xe buýt": 0.9093305250280537,
+            "xe lửa": 0.9936974522424862,
+            "tour du lịch": 0.9948966869851574,
+            "chuyến du lịch": 0.987081314669922,
+            "dịch vụ chăm sóc": 0.9955273985979147,
+            "phí ẩn": 0.5,
+            "đại lý du lịch": 0.994227294344455,
+            "thiên đã": 0.9942234541522339,
+            "hãng xe buýt": 0.500567127019167,
+            "xe": 0.025220519106369466
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "tốt",
+                "vui",
+                "vui",
+                "vui",
+                "tuyệt vời",
+                "vui"
+            ],
+            "giá cả": [],
+            "trải nghiệm": [
+                "tích cực",
+                "cao",
+                "tích cực",
+                "tích cực",
+                "tuyệt vời",
+                "tích cực",
+                "tích cực"
+            ],
+            "dịch vụ": [
+                "tích cực",
+                "tích cực",
+                "tích cực",
+                "tích cực",
+                "kịp thời",
+                "tích cực"
+            ],
+            "chuyến đi": [
+                "chủ chốt"
+            ],
+            "adventure đông dương": [
+                "tuyệt vời"
+            ],
+            "dịch vụ cá": [],
+            "trải nghiệm vòng lặp": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "dễ dàng",
+                "nhiều"
+            ],
+            "lái xe": [
+                "dễ dàng",
+                "nhiều"
+            ],
+            "chuyến tham": [
+                "cẩn thận",
+                "chuyên nghiệp"
+            ],
+            "chuyển tuyến": [
+                "cẩn thận",
+                "chuyên nghiệp"
+            ],
+            "xe buýt": [
+                "cẩn thận",
+                "chuyên nghiệp",
+                "đầy",
+                "đầy",
+                "đầy"
+            ],
+            "xe lửa": [
+                "cẩn thận",
+                "chuyên nghiệp"
+            ],
+            "tour du lịch": [
+                "vui"
+            ],
+            "chuyến du lịch": [],
+            "dịch vụ chăm sóc": [
+                "tuyệt vời"
+            ],
+            "phí ẩn": [],
+            "đại lý du lịch": [],
+            "thiên đã": [
+                "tuyệt đối"
+            ],
+            "hãng xe buýt": [
+                "vòng vòng"
+            ],
+            "xe": [
+                "thoải mái",
+                "khó chịu"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 10.0,
+            "giá cả": 2,
+            "trải nghiệm": 13.0,
+            "dịch vụ": 9.5,
+            "chuyến đi": 8.0,
+            "adventure đông dương": 1.5,
+            "dịch vụ cá": 1.5,
+            "trải nghiệm vòng lặp": 1.5,
+            "hướng dẫn viên du lịch": 1.5,
+            "lái xe": 1.5,
+            "chuyến tham": 1.5,
+            "chuyển tuyến": 1.5,
+            "xe buýt": 3.0,
+            "xe lửa": 1.5,
+            "tour du lịch": 1.5,
+            "chuyến du lịch": 1.5,
+            "dịch vụ chăm sóc": 1.5,
+            "phí ẩn": 1.5,
+            "đại lý du lịch": 1.5,
+            "thiên đã": 1.5,
+            "hãng xe buýt": 1.5,
+            "xe": 1.5
+        }
     },
     {
         "attraction_name": "Adventure Indochina Travel",
@@ -198,7 +332,212 @@
             "https://www.tripadvisor.com/Attraction_Review-g674246-d215841-Reviews-Kylemore_Abbey_Victorian_Walled_Garden-Kylemore_County_Galway_Western_Ireland.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d3247001-Reviews-or20-Adventure_Indochina_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d3247001-Reviews-or10-Adventure_Indochina_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d3247001-Reviews-or10-Adventure_Indochina_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.7431900471193431,
+            "dịch vụ": 0.03182868909789249,
+            "xe": 0.735945568070747,
+            "chuyến du lịch": 0.9927287361351773,
+            "du lịch đông dương": 0.8737691454589367,
+            "hướng dẫn viên": 0.9184542146653661,
+            "chuyến tham quan": 0.938915108947549,
+            "bảo tàng": 0.9906866060337052,
+            "khách sạn": 0.05942361877532676,
+            "chỗ ở": 0.9955361541942693,
+            "lịch sử việt": 0.8737691454589367,
+            "bài nói chuyện": 0.5,
+            "điện thoại di động": 0.5250169113278389,
+            "du lịch đông": 0.8737691454589367,
+            "chuyến du ngoạn vịnh": 0.9954494729172438,
+            "chuyến du lịch đông dương": 0.8737691454589367,
+            "trải nghiệm": 0.9952929429709911,
+            "vịnh": 0.8737691454589367,
+            "chuyến du lịch adventure đông dương": 0.9822094237897545,
+            "tổ": 0.9854409280233085,
+            "thức ăn": 0.9955244917655364,
+            "tour du lịch": 0.8737691454589367,
+            "điểm tham": 0.7489808491081931,
+            "chuyến": 0.5,
+            "đi thuyền": 0.5,
+            "tràng an hang động": 0.8737691454589367,
+            "ngắm cảnh mua la": 0.8737691454589367,
+            "tour": 0.8737691454589367,
+            "cấu": 0.9777872764039784,
+            "trình điều khiển": 0.8737691454589367,
+            "xe hơi": 0.745887300465256,
+            "chương trình": 0.9952297167037614
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "tuyệt vời",
+                "tốt",
+                "có thể",
+                "khác",
+                "suốt",
+                "thoải mái",
+                "sang trọng",
+                "thú vị",
+                "cần thiết",
+                "nhiều",
+                "có thể"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "thực sự",
+                "tốt",
+                "bất kỳ"
+            ],
+            "xe": [
+                "suốt",
+                "suôn sẻ"
+            ],
+            "chuyến du lịch": [
+                "tuyệt vời",
+                "xuất sắc"
+            ],
+            "du lịch đông dương": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "đúng",
+                "tốt",
+                "suốt",
+                "tuyệt vời",
+                "giàu",
+                "tốt đẹp",
+                "sẵn sàng",
+                "đầy đủ",
+                "lịch sự",
+                "tốt"
+            ],
+            "chuyến tham quan": [
+                "đúng",
+                "tốt",
+                "nhiều",
+                "hơn",
+                "đặc biệt"
+            ],
+            "bảo tàng": [
+                "gần"
+            ],
+            "khách sạn": [
+                "gần",
+                "tuyệt vời",
+                "giàu",
+                "tốt đẹp",
+                "sẵn sàng",
+                "đầy đủ",
+                "lịch sự"
+            ],
+            "chỗ ở": [
+                "tuyệt vời"
+            ],
+            "lịch sử việt": [
+                "nhiệt tình",
+                "nhiều"
+            ],
+            "bài nói chuyện": [],
+            "điện thoại di động": [],
+            "du lịch đông": [
+                "nhiều",
+                "hơn",
+                "đặc biệt"
+            ],
+            "chuyến du ngoạn vịnh": [
+                "tuyệt vời"
+            ],
+            "chuyến du lịch đông dương": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "vịnh": [
+                "khác"
+            ],
+            "chuyến du lịch adventure đông dương": [
+                "chắc chắn"
+            ],
+            "tổ": [
+                "đặc biệt"
+            ],
+            "thức ăn": [
+                "tuyệt vời"
+            ],
+            "tour du lịch": [
+                "tốt"
+            ],
+            "điểm tham": [
+                "tuyệt vời",
+                "gần"
+            ],
+            "chuyến": [],
+            "đi thuyền": [],
+            "tràng an hang động": [
+                "tốt"
+            ],
+            "ngắm cảnh mua la": [
+                "tốt"
+            ],
+            "tour": [
+                "tốt",
+                "khác"
+            ],
+            "cấu": [
+                "giàu",
+                "tốt đẹp",
+                "sẵn sàng",
+                "đầy đủ",
+                "lịch sự"
+            ],
+            "trình điều khiển": [
+                "tốt",
+                "an toàn"
+            ],
+            "xe hơi": [
+                "tốt",
+                "an toàn"
+            ],
+            "chương trình": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 9.0,
+            "dịch vụ": 3.0,
+            "xe": 1.5,
+            "chuyến du lịch": 3.0,
+            "du lịch đông dương": 1.5,
+            "hướng dẫn viên": 4.5,
+            "chuyến tham quan": 3.0,
+            "bảo tàng": 1.5,
+            "khách sạn": 4.5,
+            "chỗ ở": 1.5,
+            "lịch sử việt": 1.5,
+            "bài nói chuyện": 1.5,
+            "điện thoại di động": 1.5,
+            "du lịch đông": 1.5,
+            "chuyến du ngoạn vịnh": 1.5,
+            "chuyến du lịch đông dương": 1.5,
+            "trải nghiệm": 1.5,
+            "vịnh": 1.5,
+            "chuyến du lịch adventure đông dương": 1.5,
+            "tổ": 1.5,
+            "thức ăn": 1.5,
+            "tour du lịch": 1.5,
+            "điểm tham": 1.5,
+            "chuyến": 1.5,
+            "đi thuyền": 1.5,
+            "tràng an hang động": 1.5,
+            "ngắm cảnh mua la": 1.5,
+            "tour": 1.5,
+            "cấu": 1.5,
+            "trình điều khiển": 1.5,
+            "xe hơi": 1.5,
+            "chương trình": 1.5
+        }
     },
     {
         "attraction_name": "Adventure Indochina Travel",
@@ -307,7 +646,121 @@
             "https://www.tripadvisor.com/Attraction_Review-g60653-d1059208-Reviews-Tropical_Farms_The_Macadamia_Nut_Farm_Outlet-Kaneohe_Oahu_Hawaii.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d3247001-Reviews-or30-Adventure_Indochina_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d3247001-Reviews-or20-Adventure_Indochina_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d3247001-Reviews-or20-Adventure_Indochina_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "công ty lữ hành": 0.9673460591584444,
+            "đại lý": 0.6040322883054614,
+            "chuyến đi": 0.8489001704923188,
+            "vịnh": 0.9712075591087341,
+            "hành lý": 0.5,
+            "khách sạn": 0.38910541869699955,
+            "chuyến du lịch adventure": 0.8737691454589367,
+            "chuyến tham": 0.9948154314770363,
+            "chuyến tham quan": 0.9135334264234795,
+            "xe máy": 0.9954611845896579,
+            "tay đua": 0.8851862637966406,
+            "nhà trọ": 0.9922918813535944,
+            "giá cả - hoa": 0.9903604235732928,
+            "nhà hàng địa": 0.543474119156599,
+            "công ty lữ": 0.39523517340421677,
+            "tour đưa": 0.5,
+            "xe bán tải": 0.8833255236968398,
+            "trải nghiệm": 0.8737691454589367,
+            "du lịch đông dương": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "công ty lữ hành": [],
+            "đại lý": [],
+            "chuyến đi": [
+                "suốt",
+                "tuyệt vời",
+                "hợp lý",
+                "tình cờ",
+                "hoàn toàn",
+                "tình cờ",
+                "tuyệt vời"
+            ],
+            "vịnh": [],
+            "hành lý": [],
+            "khách sạn": [
+                "tốt",
+                "thấp"
+            ],
+            "chuyến du lịch adventure": [
+                "bất kỳ"
+            ],
+            "chuyến tham": [
+                "hợp lý",
+                "khắp",
+                "hoàn toàn",
+                "thoải mái"
+            ],
+            "chuyến tham quan": [
+                "tốt",
+                "thấp",
+                "tuyệt vời",
+                "Đặc biệt",
+                "suốt"
+            ],
+            "xe máy": [
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "tay đua": [
+                "an toàn",
+                "giàu"
+            ],
+            "nhà trọ": [
+                "đẹp",
+                "đông"
+            ],
+            "giá cả - hoa": [
+                "minh bạch"
+            ],
+            "nhà hàng địa": [
+                "ít",
+                "hơn",
+                "sẵn"
+            ],
+            "công ty lữ": [],
+            "tour đưa": [],
+            "xe bán tải": [
+                "đúng"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "hoàn toàn",
+                "tuyệt vời",
+                "hoàn toàn"
+            ],
+            "du lịch đông dương": [
+                "tuyệt vời",
+                "hoàn toàn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "công ty lữ hành": 1.5,
+            "đại lý": 3.0,
+            "chuyến đi": 4.5,
+            "vịnh": 1.5,
+            "hành lý": 1.5,
+            "khách sạn": 3.0,
+            "chuyến du lịch adventure": 1.5,
+            "chuyến tham": 1.5,
+            "chuyến tham quan": 4.5,
+            "xe máy": 1.5,
+            "tay đua": 1.5,
+            "nhà trọ": 1.5,
+            "giá cả - hoa": 1.5,
+            "nhà hàng địa": 1.5,
+            "công ty lữ": 1.5,
+            "tour đưa": 1.5,
+            "xe bán tải": 1.5,
+            "trải nghiệm": 1.5,
+            "du lịch đông dương": 1.5
+        }
     },
     {
         "attraction_name": "Adventure Indochina Travel",
@@ -402,6 +855,147 @@
             "https://www.tripadvisor.com/Attraction_Review-g37719-d2027330-Reviews-FunCity-Burlington_Iowa.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d3247001-Reviews-or40-Adventure_Indochina_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d3247001-Reviews-or30-Adventure_Indochina_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d3247001-Reviews-or30-Adventure_Indochina_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9955502304364927,
+            "đi trong": 0.0137084003072232,
+            "phòng của": 0.4241513512097299,
+            "du lịch đông dương": 0.9901628394145519,
+            "điện thoại di động": 0.9805994620546699,
+            "xe buýt cabin ngủ": 0.9953670734539628,
+            "hành trình": 0.9488367952144472,
+            "vịnh": 0.9955442259670235,
+            "tour du lịch": 0.9951797608518973,
+            "cảnh": 0.995277059962973,
+            "chuyến đi": 0.9466880844847765,
+            "hướng dẫn viên": 0.9909005634253845,
+            "đại lý du lịch": 0.8737691454589367,
+            "sân bay": 0.8778208783915034,
+            "hành trình du lịch": 0.8744910970854107,
+            "phong": 0.9954745566938072,
+            "cảnh vịnh": 0.8737691454589367,
+            "nội": -0.9263936062343419,
+            "nhân viên": 0.9954095364082605,
+            "cửa hàng": -0.9726037645014003,
+            "khu phố": 0.6851951582357287
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "đáng giá",
+                "tuyệt vời"
+            ],
+            "đi trong": [
+                "bất kỳ",
+                "tốt"
+            ],
+            "phòng của": [
+                "bất kỳ",
+                "tốt"
+            ],
+            "du lịch đông dương": [
+                "hữu ích"
+            ],
+            "điện thoại di động": [
+                "rắc rối"
+            ],
+            "xe buýt cabin ngủ": [
+                "tuyệt vời"
+            ],
+            "hành trình": [
+                "tuyệt vời",
+                "trực tuyến",
+                "tốt",
+                "nhiều",
+                "chu đáo"
+            ],
+            "vịnh": [
+                "tuyệt vời"
+            ],
+            "tour du lịch": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "cảnh": [
+                "đẹp"
+            ],
+            "chuyến đi": [
+                "nhỏ",
+                "tuyệt vời",
+                "hơn",
+                "nhiều",
+                "thực sự",
+                "tốt",
+                "nhiều",
+                "suốt"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "suốt"
+            ],
+            "đại lý du lịch": [
+                "trực tuyến",
+                "tốt",
+                "nhiều",
+                "chu đáo"
+            ],
+            "sân bay": [
+                "trực tuyến",
+                "tốt",
+                "nhiều",
+                "chu đáo"
+            ],
+            "hành trình du lịch": [
+                "trực tuyến",
+                "tốt",
+                "nhiều",
+                "chu đáo"
+            ],
+            "phong": [
+                "đẹp"
+            ],
+            "cảnh vịnh": [
+                "trực tuyến",
+                "tốt",
+                "nhiều",
+                "chu đáo"
+            ],
+            "nội": [],
+            "nhân viên": [
+                "tốt",
+                "đặc biệt",
+                "hữu ích"
+            ],
+            "cửa hàng": [
+                "khác"
+            ],
+            "khu phố": [
+                "cổ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 1.5,
+            "đi trong": 1.5,
+            "phòng của": 1.5,
+            "du lịch đông dương": 1.5,
+            "điện thoại di động": 1.5,
+            "xe buýt cabin ngủ": 1.5,
+            "hành trình": 3.0,
+            "vịnh": 1.5,
+            "tour du lịch": 1.5,
+            "cảnh": 1.5,
+            "chuyến đi": 3.0,
+            "hướng dẫn viên": 1.5,
+            "đại lý du lịch": 1.5,
+            "sân bay": 1.5,
+            "hành trình du lịch": 1.5,
+            "phong": 1.5,
+            "cảnh vịnh": 1.5,
+            "nội": 1.5,
+            "nhân viên": 1.5,
+            "cửa hàng": 1.5,
+            "khu phố": 1.5
+        }
     }
 ]
