@@ -34,6 +34,8 @@ crawl_starttime = None
 sentiment_scoring_thread = None
 sentiment_scoring_starttime = None
 
+update_sentiment_thread = None
+
 def require_api_key(func):
     @wraps(func)
     def decorated_function(*args, **kwargs):
@@ -59,6 +61,10 @@ def start_crawl_mode_2_thread():
 def start_sentiment_scoring_thread():
     with app.app_context():
         sentiment_analysis_all()
+
+def update_sentiment_csv_thread():
+    with app.app_context():
+        fully_updated_sentiment_csv()
 
 @app.route('/json-files', methods=['GET'])
 @require_api_key
@@ -157,8 +163,13 @@ def sentiment_caculate():
 @app.route('/update-sentiment-csv', methods=['GET'])
 @require_api_key
 def update_sentiment_csv():
-    fully_updated_sentiment_csv()
-    return jsonify({"message": "Update Sentiment CSV completed."}), 200
+    global update_sentiment_thread
+    if update_sentiment_thread is None or not update_sentiment_thread.is_alive():
+        update_sentiment_thread = threading.Thread(target=update_sentiment_csv_thread)
+        update_sentiment_thread.start()
+        return jsonify({"message": "Update Sentiment-csv started."}), 200
+    else:
+        return jsonify({"message": "Update Sentiment-csv is already running."}), 400
 
 @app.route('/download-score-csv', methods=['GET'])
 @require_api_key
