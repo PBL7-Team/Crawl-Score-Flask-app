@@ -106,7 +106,161 @@
             "https://www.tripadvisor.com/Attraction_Review-g32172-d116835-Reviews-Garrapata_State_Park-Carmel_Monterey_County_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d9978380-Reviews-or10-Cloth_Shop_VY_VY_II-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d9978380-Reviews-Cloth_Shop_VY_VY_II-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d9978380-Reviews-Cloth_Shop_VY_VY_II-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quần jean": 0.5,
+            "đồ trang trí": 0.5,
+            "quần áo": 0.6967109651304781,
+            "chiếc quần": 0.474111033603549,
+            "quần bơi": -0.2020454709418118,
+            "chân váy cạp": 0.040658078622072935,
+            "cửa hàng": 0.36489002795424313,
+            "áo": 0.9925711780088022,
+            "quần short": 0.5040636658668518,
+            "món đồ": 0.9027748570370022,
+            "thợ may": -0.5781470341995979,
+            "hàng chính": 0.6377152809873223,
+            "khách sạn": 0.005023395293392241,
+            "trang điểm": 0.5,
+            "chuyến du lịch": 0.9955075258621946,
+            "cửa": 0.7612500032410026,
+            "hàng may đo": 0.5181722710840404,
+            "bộ đồ": 0.7974445073050447,
+            "tiệm may": 0.13332859426736832,
+            "cửa hàng vải": 0.5590355601161718,
+            "công sở": 0.5,
+            "quần dài": 0.5,
+            "áo sơ mi vải": 0.9909569584997371,
+            "chuyến đi": 0.5,
+            "bộ đồ bơi": 0.9915500417118892,
+            "khoan dung": 0.9954523317865096,
+            "hội an": 0.8737691454589367,
+            "quần": 0.5,
+            "áo bà bầu": 0.5
+        },
+        "dicts_adj": {
+            "quần jean": [],
+            "đồ trang trí": [],
+            "quần áo": [
+                "giống",
+                "mới"
+            ],
+            "chiếc quần": [
+                "giống"
+            ],
+            "quần bơi": [
+                "cao",
+                "to"
+            ],
+            "chân váy cạp": [
+                "cao",
+                "to"
+            ],
+            "cửa hàng": [
+                "giống",
+                "rộng",
+                "to",
+                "đủ",
+                "riêng tư",
+                "đẹp"
+            ],
+            "áo": [
+                "dài"
+            ],
+            "quần short": [],
+            "món đồ": [
+                "mới",
+                "đẹp"
+            ],
+            "thợ may": [
+                "thấp",
+                "thấp",
+                "đủ",
+                "khác",
+                "giỏi"
+            ],
+            "hàng chính": [],
+            "khách sạn": [
+                "tốt",
+                "chăm chỉ",
+                "cuối cùng"
+            ],
+            "trang điểm": [],
+            "chuyến du lịch": [
+                "nhiều",
+                "hơn",
+                "sớm",
+                "tốt",
+                "nhiều",
+                "tuyệt vời",
+                "sớm",
+                "tốt"
+            ],
+            "cửa": [
+                "tồi tàn"
+            ],
+            "hàng may đo": [
+                "đủ",
+                "riêng tư"
+            ],
+            "bộ đồ": [
+                "len",
+                "tuyệt"
+            ],
+            "tiệm may": [
+                "khác"
+            ],
+            "cửa hàng vải": [],
+            "công sở": [],
+            "quần dài": [],
+            "áo sơ mi vải": [],
+            "chuyến đi": [],
+            "bộ đồ bơi": [
+                "xuất sắc",
+                "nhiều"
+            ],
+            "khoan dung": [
+                "tốt bụng"
+            ],
+            "hội an": [
+                "đẹp"
+            ],
+            "quần": [],
+            "áo bà bầu": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quần jean": 0.5,
+            "đồ trang trí": 0.5,
+            "quần áo": 1.0,
+            "chiếc quần": 0.5,
+            "quần bơi": 0.5,
+            "chân váy cạp": 0.5,
+            "cửa hàng": 2.5,
+            "áo": 0.5,
+            "quần short": 1.0,
+            "món đồ": 1.0,
+            "thợ may": 1.0,
+            "hàng chính": 0.5,
+            "khách sạn": 1.0,
+            "trang điểm": 0.5,
+            "chuyến du lịch": 0.5,
+            "cửa": 0.5,
+            "hàng may đo": 0.5,
+            "bộ đồ": 0.5,
+            "tiệm may": 0.5,
+            "cửa hàng vải": 0.5,
+            "công sở": 0.5,
+            "quần dài": 0.5,
+            "áo sơ mi vải": 0.5,
+            "chuyến đi": 0.5,
+            "bộ đồ bơi": 0.5,
+            "khoan dung": 0.5,
+            "hội an": 0.5,
+            "quần": 0.5,
+            "áo bà bầu": 0.5
+        }
     },
     {
         "attraction_name": "Cloth Shop VY VY II",
@@ -217,7 +371,173 @@
             "https://www.tripadvisor.com/Attraction_Review-g298420-d9739472-Reviews-Wakan_Village-Sohar_Al_Batinah_Governorate.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d9978380-Reviews-or20-Cloth_Shop_VY_VY_II-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d9978380-Reviews-or10-Cloth_Shop_VY_VY_II-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d9978380-Reviews-or10-Cloth_Shop_VY_VY_II-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.9512544603494462,
+            "vết bẩn": 0.9910169583745301,
+            "dịch vụ": 0.9346294068964198,
+            "vật liệu": 0.9881962302606553,
+            "chuyến đi": 0.991378664271906,
+            "bộ đồ": 0.9951662141247652,
+            "cửa hàng": 0.3345776832429692,
+            "loại bikini": 0.469696257263422,
+            "thợ may kích": 0.252270218974445,
+            "bộ bikini": 0.004716059134807438,
+            "núm vú": 0.5,
+            "nhà máy": -0.9741795172449201,
+            "kích thước": -0.8563215578906238,
+            "thợ may": 0.5655809547752142,
+            "giá cả": 0.9956219219020568,
+            "bộ váy": 0.9955544284312055,
+            "váy áo": 0.5,
+            "quần short": 0.5,
+            "áo khoác": 0.9932902446598746,
+            "váy nữ": 0.9953376354242209,
+            "chỉ trong": 0.23370791971683502,
+            "tấm vải": 0.99505871522706,
+            "đường viền": 0.9883628292009234,
+            "quần áo": 0.8454290851950645,
+            "chất liệu": 0.5155697837471962,
+            "chiếc": 0.5,
+            "áo phông": 0.5,
+            "tác phẩm nghệ thuật": 0.9944839926902205,
+            "áo sơ mi": 0.22512871213257313
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "thân thiện",
+                "đẹp",
+                "nhanh chóng",
+                "dễ thương",
+                "rẻ",
+                "tốt"
+            ],
+            "vết bẩn": [
+                "nhỏ",
+                "hài lòng"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "vật liệu": [
+                "cao"
+            ],
+            "chuyến đi": [
+                "Chắc chắn"
+            ],
+            "bộ đồ": [
+                "tuyệt"
+            ],
+            "cửa hàng": [
+                "vui",
+                "khác"
+            ],
+            "loại bikini": [
+                "nhiều",
+                "khác"
+            ],
+            "thợ may kích": [
+                "phải",
+                "quan trọng",
+                "chính xác",
+                "vui"
+            ],
+            "bộ bikini": [
+                "nhỏ",
+                "thực sự",
+                "phải"
+            ],
+            "núm vú": [],
+            "nhà máy": [
+                "thực sự"
+            ],
+            "kích thước": [
+                "lớn",
+                "hơn"
+            ],
+            "thợ may": [],
+            "giá cả": [
+                "hài lòng",
+                "nhanh",
+                "hợp lý"
+            ],
+            "bộ váy": [
+                "nhanh chóng",
+                "đẹp",
+                "hợp lý",
+                "khác"
+            ],
+            "váy áo": [],
+            "quần short": [],
+            "áo khoác": [
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "váy nữ": [
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "chỉ trong": [
+                "khác"
+            ],
+            "tấm vải": [
+                "hoàn hảo",
+                "đầu tiên",
+                "đầy đủ"
+            ],
+            "đường viền": [
+                "cổ",
+                "giống",
+                "đầu tiên",
+                "nhỏ",
+                "tại chỗ",
+                "vui"
+            ],
+            "quần áo": [],
+            "chất liệu": [
+                "hơn"
+            ],
+            "chiếc": [],
+            "áo phông": [],
+            "tác phẩm nghệ thuật": [
+                "độc đáo"
+            ],
+            "áo sơ mi": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 0.5,
+            "vết bẩn": 0.5,
+            "dịch vụ": 1.0,
+            "vật liệu": 0.5,
+            "chuyến đi": 0.5,
+            "bộ đồ": 0.5,
+            "cửa hàng": 1.5,
+            "loại bikini": 0.5,
+            "thợ may kích": 0.5,
+            "bộ bikini": 1.0,
+            "núm vú": 0.5,
+            "nhà máy": 0.5,
+            "kích thước": 0.5,
+            "thợ may": 0.5,
+            "giá cả": 0.5,
+            "bộ váy": 0.5,
+            "váy áo": 0.5,
+            "quần short": 0.5,
+            "áo khoác": 0.5,
+            "váy nữ": 0.5,
+            "chỉ trong": 0.5,
+            "tấm vải": 0.5,
+            "đường viền": 0.5,
+            "quần áo": 0.5,
+            "chất liệu": 0.5,
+            "chiếc": 0.5,
+            "áo phông": 0.5,
+            "tác phẩm nghệ thuật": 0.5,
+            "áo sơ mi": 0.5
+        }
     },
     {
         "attraction_name": "Cloth Shop VY VY II",
@@ -333,7 +653,140 @@
             "https://www.tripadvisor.com/Attraction_Review-g644388-d17467225-Reviews-Palmas_del_Mar_Beach-Humacao_Puerto_Rico.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d9978380-Reviews-or30-Cloth_Shop_VY_VY_II-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d9978380-Reviews-or20-Cloth_Shop_VY_VY_II-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d9978380-Reviews-or20-Cloth_Shop_VY_VY_II-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.954361724803069,
+            "mặt hàng": -0.9013848553877324,
+            "quần áo": 0.6487988443404902,
+            "vật liệu": 0.991272499319166,
+            "trải nghiệm": 0.9953259963076562,
+            "váy cho": 0.9860816670116037,
+            "quần": 0.9431923483498394,
+            "cửa hàng": 0.3174193183222087,
+            "khách sạn": 0.5,
+            "giá trị": 0.9948647717246786,
+            "váy": 0.001692241057753563,
+            "áo": -0.27552530355751514,
+            "bộ": 0.3977721128612757,
+            "áo tắm": -0.7069951337762177,
+            "trung tâm mua sắm": 0.995533084787894,
+            "trung tâm": 0.9953181576856878,
+            "cửa hàng thời trang": 0.5,
+            "thương hiệu": 0.5,
+            "sản phẩm": 0.5786816840991378,
+            "nhân viên phục vụ": 0.9954754097270779,
+            "mìnhtrung tâm mua sắm": 0.9955347938230261,
+            "nhân viên": 0.995423738961108
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "thực sự",
+                "nhanh chóng",
+                "nhanh",
+                "tuyệt vời"
+            ],
+            "mặt hàng": [
+                "hơn",
+                "đầu tiên",
+                "cùng"
+            ],
+            "quần áo": [
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "vật liệu": [
+                "kiên nhẫn"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "váy cho": [
+                "hoàn hảo"
+            ],
+            "quần": [
+                "Cuối cùng"
+            ],
+            "cửa hàng": [
+                "đắt",
+                "hơn"
+            ],
+            "khách sạn": [],
+            "giá trị": [
+                "tốt",
+                "hơn"
+            ],
+            "váy": [
+                "phức tạp"
+            ],
+            "áo": [
+                "phức tạp"
+            ],
+            "bộ": [
+                "phức tạp"
+            ],
+            "áo tắm": [
+                "phức tạp"
+            ],
+            "trung tâm mua sắm": [
+                "thực sự",
+                "thực sự",
+                "thực sự",
+                "thực sự"
+            ],
+            "trung tâm": [
+                "thuận tiện",
+                "thuận lợi",
+                "thuận tiện",
+                "thuận lợi",
+                "thuận tiện",
+                "thuận lợi",
+                "thuận tiện",
+                "thuận lợi",
+                "thuận tiện",
+                "thuận lợi"
+            ],
+            "cửa hàng thời trang": [],
+            "thương hiệu": [],
+            "sản phẩm": [],
+            "nhân viên phục vụ": [
+                "thân thiện",
+                "thân thiện",
+                "thân thiện",
+                "thân thiện"
+            ],
+            "mìnhtrung tâm mua sắm": [
+                "thực sự"
+            ],
+            "nhân viên": [
+                "thân thiện"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 1.5,
+            "mặt hàng": 0.5,
+            "quần áo": 1.0,
+            "vật liệu": 0.5,
+            "trải nghiệm": 0.5,
+            "váy cho": 0.5,
+            "quần": 0.5,
+            "cửa hàng": 2.0,
+            "khách sạn": 0.5,
+            "giá trị": 0.5,
+            "váy": 0.5,
+            "áo": 0.5,
+            "bộ": 0.5,
+            "áo tắm": 0.5,
+            "trung tâm mua sắm": 4.5,
+            "trung tâm": 6.0,
+            "cửa hàng thời trang": 6.0,
+            "thương hiệu": 6.0,
+            "sản phẩm": 6.0,
+            "nhân viên phục vụ": 4.5,
+            "mìnhtrung tâm mua sắm": 1.5,
+            "nhân viên": 1.5
+        }
     },
     {
         "attraction_name": "Cloth Shop VY VY II",
@@ -427,6 +880,46 @@
             "https://www.tripadvisor.com/Attraction_Review-g13806806-d1974076-Reviews-Dream_Mall-Qianzhen_Kaohsiung.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d9978380-Reviews-or30-Cloth_Shop_VY_VY_II-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d9978380-Reviews-or30-Cloth_Shop_VY_VY_II-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trung tâm mua sắm": 0.995533084787894,
+            "trung tâm": 0.995296108284189,
+            "cửa hàng thương": 0.5,
+            "cửa hàng thời trang": 0.5,
+            "thương hiệu": 0.5,
+            "sản phẩm": 0.5786816840991378,
+            "nhân viên phục vụ": 0.9954754097270779,
+            "bộ bikini": 0.5911432951688766
+        },
+        "dicts_adj": {
+            "trung tâm mua sắm": [
+                "thực sự"
+            ],
+            "trung tâm": [
+                "thuận tiện",
+                "đắc địa",
+                "đa dạng"
+            ],
+            "cửa hàng thương": [],
+            "cửa hàng thời trang": [],
+            "thương hiệu": [],
+            "sản phẩm": [],
+            "nhân viên phục vụ": [
+                "thân thiện"
+            ],
+            "bộ bikini": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trung tâm mua sắm": 1,
+            "trung tâm": 1,
+            "cửa hàng thương": 1,
+            "cửa hàng thời trang": 1,
+            "thương hiệu": 1,
+            "sản phẩm": 1,
+            "nhân viên phục vụ": 1,
+            "bộ bikini": 1.5
+        }
     }
 ]

@@ -102,7 +102,255 @@
             "https://www.tripadvisor.com/Attraction_Review-g293890-d3590698-Reviews-Paintball_Nepal-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Central_Region.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d1809048-Reviews-or10-Travel_Sense_Asia-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d1809048-Reviews-Travel_Sense_Asia-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d1809048-Reviews-Travel_Sense_Asia-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9819828047790603,
+            "thực tế": 0.5434177257120609,
+            "travel sense": 0.9137924368066402,
+            "phương tiện": 0.9953065514564514,
+            "sân bay": 0.7718144794926047,
+            "khách sạn": -0.1924749966710806,
+            "khu phố cổ": 0.8737691454589367,
+            "phố cổ": 0.8737691454589367,
+            "xe": 0.7953989318727205,
+            "hướng dẫn viên du lịch": 0.9900451003981289,
+            "lịch sử": 0.7365958687538902,
+            "hướng dẫn viên du lịch người dân tộc": 0.9902038329746574,
+            "vịnh": 0.8737691454589367,
+            "hành trình": 0.8404820235300576,
+            "hướng dẫn viên": 0.9911330468021333,
+            "ngũ siêu": 0.9951804808224551,
+            "chuyến tham quan": 0.9933009984961245,
+            "văn": 0.9955229574115947,
+            "dịch vụ": 0.8370997781069794,
+            "ty du lịch": 0.5,
+            "dịch vụ khách hàng": 0.995408849674277,
+            "kỳ nghỉ": 0.9952692923834547,
+            "chuyến tham": 0.5,
+            "dịch vụ chuyên nghiệp": 0.5,
+            "phương tiện đi": 0.9953694489668123,
+            "trải nghiệm du lịch": 0.9927199523663148,
+            "cánh hoa": 0.9955534200416878,
+            "phương tiện di chuyển": 0.9953583573224023,
+            "trải nghiệm": 0.9953219771559816,
+            "kỷ niệm du lịch": 0.9927118581254035,
+            "cảnh": 0.8737691454589367,
+            "món ăn": 0.995578886300791,
+            "chỗ ở": 0.990524003864266,
+            "chuyến lưu diễn": 0.9921377421123907
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "tùy chỉnh",
+                "tùy chỉnh",
+                "nhỏ",
+                "tuyệt vời",
+                "rắc rối",
+                "đặc biệt",
+                "nhỏ",
+                "tuyệt vời",
+                "hoàn toàn",
+                "bất kỳ",
+                "vui",
+                "an toàn",
+                "thú vị",
+                "thực sự",
+                "suốt",
+                "sẵn sàng",
+                "khó",
+                "kỹ lưỡng",
+                "vui",
+                "sẵn sàng",
+                "suốt",
+                "hoàn toàn",
+                "vui mừng",
+                "tuyệt vời"
+            ],
+            "thực tế": [
+                "nhiều"
+            ],
+            "travel sense": [
+                "chuyên nghiệp",
+                "vui mừng",
+                "tuyệt vời"
+            ],
+            "phương tiện": [
+                "thoải mái"
+            ],
+            "sân bay": [
+                "thực sự",
+                "thoải mái",
+                "suốt"
+            ],
+            "khách sạn": [
+                "thực sự",
+                "thoải mái",
+                "suốt"
+            ],
+            "khu phố cổ": [
+                "thoải mái"
+            ],
+            "phố cổ": [
+                "thoải mái"
+            ],
+            "xe": [
+                "thực sự",
+                "thoải mái",
+                "suốt"
+            ],
+            "hướng dẫn viên du lịch": [
+                "khéo léo",
+                "giỏi",
+                "trẻ",
+                "nhỏ",
+                "tuyệt vời",
+                "hoàn hảo",
+                "đặc biệt",
+                "giỏi",
+                "nhất",
+                "tốt",
+                "nhất"
+            ],
+            "lịch sử": [
+                "giỏi",
+                "trẻ",
+                "nhỏ"
+            ],
+            "hướng dẫn viên du lịch người dân tộc": [
+                "giỏi",
+                "nhỏ",
+                "chân thành",
+                "am hiểu"
+            ],
+            "vịnh": [
+                "tuyệt vời"
+            ],
+            "hành trình": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "kỹ lưỡng",
+                "mong đợi"
+            ],
+            "hướng dẫn viên": [
+                "am hiểu"
+            ],
+            "ngũ siêu": [],
+            "chuyến tham quan": [
+                "an toàn",
+                "thú vị",
+                "nhất",
+                "dễ dàng",
+                "rõ",
+                "đặc biệt",
+                "dễ dàng",
+                "cao",
+                "rõ"
+            ],
+            "văn": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "chuyên nghiệp",
+                "đầu tiên",
+                "đặc biệt",
+                "thực sự",
+                "thực sự",
+                "đặc biệt",
+                "tuyệt vời",
+                "nhanh chóng",
+                "tuyệt vời",
+                "nhanh chóng",
+                "vui"
+            ],
+            "ty du lịch": [],
+            "dịch vụ khách hàng": [],
+            "kỳ nghỉ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "chuyến tham": [],
+            "dịch vụ chuyên nghiệp": [],
+            "phương tiện đi": [
+                "chính xác",
+                "hoàn toàn"
+            ],
+            "trải nghiệm du lịch": [
+                "thực sự",
+                "bất kỳ",
+                "căng thẳng",
+                "thú vị",
+                "khó"
+            ],
+            "cánh hoa": [
+                "nhiều",
+                "rực rỡ"
+            ],
+            "phương tiện di chuyển": [
+                "thú vị",
+                "thoải mái"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "nhiều",
+                "hơn"
+            ],
+            "kỷ niệm du lịch": [
+                "nhiều",
+                "khó"
+            ],
+            "cảnh": [
+                "đẹp",
+                "nhiều"
+            ],
+            "món ăn": [
+                "ngon"
+            ],
+            "chỗ ở": [
+                "tốt đẹp",
+                "kịp thời"
+            ],
+            "chuyến lưu diễn": [
+                "chắc chắn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 16,
+            "thực tế": 2,
+            "travel sense": 6,
+            "phương tiện": 2,
+            "sân bay": 2,
+            "khách sạn": 2,
+            "khu phố cổ": 2,
+            "phố cổ": 2,
+            "xe": 2,
+            "hướng dẫn viên du lịch": 6,
+            "lịch sử": 2,
+            "hướng dẫn viên du lịch người dân tộc": 2,
+            "vịnh": 2,
+            "hành trình": 8,
+            "hướng dẫn viên": 2,
+            "ngũ siêu": 2,
+            "chuyến tham quan": 6,
+            "văn": 2,
+            "dịch vụ": 12,
+            "ty du lịch": 2,
+            "dịch vụ khách hàng": 6,
+            "kỳ nghỉ": 4,
+            "chuyến tham": 2,
+            "dịch vụ chuyên nghiệp": 2,
+            "phương tiện đi": 2,
+            "trải nghiệm du lịch": 4,
+            "cánh hoa": 2,
+            "phương tiện di chuyển": 2,
+            "trải nghiệm": 4,
+            "kỷ niệm du lịch": 2,
+            "cảnh": 2,
+            "món ăn": 2,
+            "chỗ ở": 2,
+            "chuyến lưu diễn": 2
+        }
     },
     {
         "attraction_name": "Travel Sense Asia",
@@ -210,7 +458,263 @@
             "https://www.tripadvisor.com/Attraction_Review-g60859-d2287532-Reviews-Ho_Chunk_Gaming_Madison-Madison_Wisconsin.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d1809048-Reviews-or20-Travel_Sense_Asia-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d1809048-Reviews-or10-Travel_Sense_Asia-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d1809048-Reviews-or10-Travel_Sense_Asia-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyên gia": 0.995027526281774,
+            "chuyến đi": 0.9097902628600584,
+            "chuyến du lịch": 0.773225976813895,
+            "người dân": 0.9955301454756409,
+            "hướng dẫn viên": 0.9590473612562553,
+            "khách sạn": 0.9934616595564876,
+            "trung tâm": 0.9954817322432064,
+            "travel sense": 0.899870736640878,
+            "trải nghiệm văn hóa địa": 0.9955176526564173,
+            "dịch vụ": 0.6834363384291018,
+            "chỗ ở": 0.9955625498259906,
+            "hành trình": 0.8083697580178048,
+            "trải nghiệm du lịch": 0.9654934912279713,
+            "văn hóa": 0.9544089613482356,
+            "cơ quan địa phương": -0.9066734202206135,
+            "dịch vụ chất lượng": 0.9953737037139945,
+            "đại lý": 0.5131330363219604,
+            "người hướng dẫn -": 0.9845951674118018,
+            "người lái xe": 0.9919676997233182,
+            "cảnh quan": 0.962999140843749,
+            "hướng dẫn viên du lịch phương tiện đi lại chỗ": 0.5,
+            "đồ ăn": 0.5662134772974241,
+            "hướng dẫn viên du lịch phương tiện đi lại chỗ ở": 0.5150438267737627,
+            "thời tiết": 0.08832156567950733,
+            "cảnh": 0.9945543361827731,
+            "kỳ nghỉ": 0.9009097694652155,
+            "đại lý du lịch": 0.9955231719650328,
+            "hướng dẫn viên du lịch phương tiện di chuyển chỗ": 0.9952436958701583,
+            "trải nghiệm": 0.995305389049463,
+            "dịch vụ khách hàng": 0.995408849674277
+        },
+        "dicts_adj": {
+            "chuyên gia": [
+                "khó"
+            ],
+            "chuyến đi": [
+                "khó",
+                "chật chội",
+                "nhiều",
+                "căng thẳng",
+                "chắc chắn",
+                "bất kỳ",
+                "khó",
+                "đặc biệt",
+                "tận tình",
+                "lớn",
+                "vui mừng",
+                "hoàn hảo",
+                "hoàn hảo",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "xa",
+                "nhỏ",
+                "cuối cùng",
+                "thực sự",
+                "đặc biệt",
+                "thuận tiện",
+                "khó khăn",
+                "dễ dàng",
+                "sẵn sàng",
+                "bất kỳ",
+                "hoàn hảo",
+                "vui",
+                "dễ dàng",
+                "chính xác",
+                "hoàn hảo",
+                "nhiều",
+                "tử tế",
+                "suốt",
+                "chắc chắn",
+                "nhiều",
+                "thú vị"
+            ],
+            "chuyến du lịch": [
+                "riêng",
+                "hoàn hảo",
+                "riêng",
+                "chắc chắn",
+                "khác"
+            ],
+            "người dân": [
+                "thực sự",
+                "thực sự",
+                "cao",
+                "xinh đẹp",
+                "thú vị"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "vui",
+                "cùng",
+                "nhiều",
+                "tốt"
+            ],
+            "khách sạn": [
+                "đẹp",
+                "sạch sẽ",
+                "đẹp",
+                "tuyệt vời",
+                "thú vị",
+                "vui"
+            ],
+            "trung tâm": [
+                "sạch sẽ",
+                "sạch sẽ",
+                "đẹp"
+            ],
+            "travel sense": [
+                "chật chội",
+                "nhiều",
+                "căng thẳng",
+                "khác",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "trải nghiệm văn hóa địa": [
+                "tuyệt vời",
+                "cao"
+            ],
+            "dịch vụ": [
+                "đầy",
+                "tử tế",
+                "tuyệt vời",
+                "hài lòng",
+                "đặc biệt"
+            ],
+            "chỗ ở": [
+                "sạch sẽ",
+                "đẹp"
+            ],
+            "hành trình": [
+                "dày đặc",
+                "căng thẳng",
+                "hoàn toàn",
+                "tuyệt vời",
+                "khác"
+            ],
+            "trải nghiệm du lịch": [
+                "nhiều",
+                "khó",
+                "hơn",
+                "tốt",
+                "khó"
+            ],
+            "văn hóa": [
+                "chân thực"
+            ],
+            "cơ quan địa phương": [
+                "khác"
+            ],
+            "dịch vụ chất lượng": [
+                "mạnh mẽ",
+                "lớn",
+                "cao",
+                "cao"
+            ],
+            "đại lý": [
+                "khác",
+                "tốt",
+                "vui",
+                "tốt"
+            ],
+            "người hướng dẫn -": [
+                "tốt bụng",
+                "rõ",
+                "hơn"
+            ],
+            "người lái xe": [
+                "tốt bụng",
+                "rõ",
+                "hơn"
+            ],
+            "cảnh quan": [
+                "nóng"
+            ],
+            "hướng dẫn viên du lịch phương tiện đi lại chỗ": [],
+            "đồ ăn": [
+                "cao",
+                "vui",
+                "chắc chắn",
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch phương tiện đi lại chỗ ở": [
+                "cao"
+            ],
+            "thời tiết": [
+                "nóng",
+                "vui"
+            ],
+            "cảnh": [
+                "đẹp"
+            ],
+            "kỳ nghỉ": [
+                "tuyệt vời",
+                "nóng",
+                "gần",
+                "khó",
+                "khác"
+            ],
+            "đại lý du lịch": [
+                "tốt",
+                "tốt",
+                "đặc biệt",
+                "cao",
+                "tốt đẹp"
+            ],
+            "hướng dẫn viên du lịch phương tiện di chuyển chỗ": [
+                "vui",
+                "chắc chắn",
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "vui mừng",
+                "tuyệt vời",
+                "nóng"
+            ],
+            "dịch vụ khách hàng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyên gia": 2,
+            "chuyến đi": 15.0,
+            "chuyến du lịch": 9.0,
+            "người dân": 2,
+            "hướng dẫn viên": 7.0,
+            "khách sạn": 8,
+            "trung tâm": 4,
+            "travel sense": 7.0,
+            "trải nghiệm văn hóa địa": 2,
+            "dịch vụ": 8.5,
+            "chỗ ở": 2,
+            "hành trình": 3.5,
+            "trải nghiệm du lịch": 5.0,
+            "văn hóa": 2,
+            "cơ quan địa phương": 2,
+            "dịch vụ chất lượng": 2,
+            "đại lý": 4.5,
+            "người hướng dẫn -": 1.5,
+            "người lái xe": 1.5,
+            "cảnh quan": 1.5,
+            "hướng dẫn viên du lịch phương tiện đi lại chỗ": 1.5,
+            "đồ ăn": 6.0,
+            "hướng dẫn viên du lịch phương tiện đi lại chỗ ở": 3.0,
+            "thời tiết": 1.5,
+            "cảnh": 1.5,
+            "kỳ nghỉ": 3.0,
+            "đại lý du lịch": 3.0,
+            "hướng dẫn viên du lịch phương tiện di chuyển chỗ": 1.5,
+            "trải nghiệm": 1.5,
+            "dịch vụ khách hàng": 3.0
+        }
     },
     {
         "attraction_name": "Travel Sense Asia",
@@ -306,7 +810,200 @@
             "https://www.tripadvisor.com/Attraction_Review-g37480-d4495605-Reviews-Raccoon_Lake_State_Recreation_Area-Rockville_Indiana.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d1809048-Reviews-or30-Travel_Sense_Asia-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d1809048-Reviews-or20-Travel_Sense_Asia-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d1809048-Reviews-or20-Travel_Sense_Asia-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "kỳ quan thế": 0.9882715318817645,
+            "đại lý du lịch": 0.9949828456155956,
+            "chuyến đi": 0.8562992627266794,
+            "kỳ quan": 0.995364053058438,
+            "hành trình": 0.946492291688628,
+            "dịch vụ khách hàng": 0.995408849674277,
+            "hướng dẫn viên": 0.6639132118628671,
+            "bãi biển": 0.8658847045929482,
+            "hướng dẫn viên du lịch": 0.9604766243137419,
+            "trải nghiệm": 0.663546562573174,
+            "chuyến phiêu lưu": 0.9933068533428013,
+            "không gian": 0.581274688243866,
+            "chuyến tham quan": 0.7660334523388883,
+            "trải nghiệm du lịch": 0.9953329937707167,
+            "dịch vụ": 0.9948765600953872,
+            "ngắm cảnh": 0.9570451538893394,
+            "thời gian": 0.7685216030222364,
+            "khách sạn": 0.5223578158766031,
+            "vị trí": 0.9955052661825903,
+            "vịnh": 0.8737691454589367,
+            "phương tiện giao thông mặt": 0.9887075872393325,
+            "chuyến tham quan travel sense": 0.9945284752175212,
+            "phương tiện di chuyển": 0.5,
+            "tour du lịch": 0.5,
+            "điểm tham": 0.5,
+            "công ty lữ hành": 0.5202912744134665,
+            "công": 0.5,
+            "ty lữ hành": 0.5,
+            "phòng": 0.5,
+            "travel sense": 0.5,
+            "thị thực điện tử": 0.5,
+            "trấn an": 0.9941708630649373,
+            "đại lý": -0.38113006949424744
+        },
+        "dicts_adj": {
+            "kỳ quan thế": [],
+            "đại lý du lịch": [
+                "biết ơn",
+                "đúng",
+                "nhanh chóng"
+            ],
+            "chuyến đi": [
+                "vui mừng",
+                "cùng",
+                "tuyệt vời",
+                "tốt",
+                "vui mừng",
+                "tuyệt vời"
+            ],
+            "kỳ quan": [
+                "tuyệt vời"
+            ],
+            "hành trình": [
+                "sớm",
+                "khác",
+                "tốt",
+                "vui",
+                "tốt đẹp",
+                "lớn tuổi",
+                "hóa",
+                "hơn",
+                "tốt"
+            ],
+            "dịch vụ khách hàng": [],
+            "hướng dẫn viên": [
+                "nhiều"
+            ],
+            "bãi biển": [
+                "xinh đẹp",
+                "đẹp",
+                "đẹp"
+            ],
+            "hướng dẫn viên du lịch": [
+                "sâu sắc"
+            ],
+            "trải nghiệm": [
+                "khó",
+                "vui",
+                "thú vị",
+                "vui"
+            ],
+            "chuyến phiêu lưu": [
+                "sớm",
+                "khác",
+                "cùng"
+            ],
+            "không gian": [
+                "riêng tư"
+            ],
+            "chuyến tham quan": [
+                "riêng",
+                "vui",
+                "cao",
+                "riêng",
+                "gần"
+            ],
+            "trải nghiệm du lịch": [
+                "tích cực",
+                "lớn",
+                "đặc biệt"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "xuất sắc",
+                "khác"
+            ],
+            "ngắm cảnh": [
+                "rảnh rỗi",
+                "dễ dàng"
+            ],
+            "thời gian": [
+                "rảnh rỗi",
+                "dễ dàng"
+            ],
+            "khách sạn": [
+                "tốt"
+            ],
+            "vị trí": [
+                "rộng rãi",
+                "tuyệt vời"
+            ],
+            "vịnh": [
+                "tốt",
+                "tuyệt vời"
+            ],
+            "phương tiện giao thông mặt": [
+                "tốt"
+            ],
+            "chuyến tham quan travel sense": [
+                "thực sự"
+            ],
+            "phương tiện di chuyển": [],
+            "tour du lịch": [],
+            "điểm tham": [],
+            "công ty lữ hành": [
+                "gần"
+            ],
+            "công": [],
+            "ty lữ hành": [],
+            "phòng": [],
+            "travel sense": [],
+            "thị thực điện tử": [],
+            "trấn an": [
+                "nhanh chóng",
+                "đơn giản",
+                "quan trọng"
+            ],
+            "đại lý": [
+                "thấp",
+                "hơn",
+                "khác",
+                "nhanh chóng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "kỳ quan thế": 1.5,
+            "đại lý du lịch": 1.5,
+            "chuyến đi": 6.0,
+            "kỳ quan": 1.5,
+            "hành trình": 6.0,
+            "dịch vụ khách hàng": 4.5,
+            "hướng dẫn viên": 4.5,
+            "bãi biển": 3.0,
+            "hướng dẫn viên du lịch": 1.5,
+            "trải nghiệm": 3.0,
+            "chuyến phiêu lưu": 4.5,
+            "không gian": 1.5,
+            "chuyến tham quan": 6.0,
+            "trải nghiệm du lịch": 3.0,
+            "dịch vụ": 4.5,
+            "ngắm cảnh": 1.5,
+            "thời gian": 1.5,
+            "khách sạn": 1.5,
+            "vị trí": 1.5,
+            "vịnh": 3.0,
+            "phương tiện giao thông mặt": 1.5,
+            "chuyến tham quan travel sense": 3.0,
+            "phương tiện di chuyển": 1.5,
+            "tour du lịch": 1.5,
+            "điểm tham": 1.5,
+            "công ty lữ hành": 1.5,
+            "công": 1.5,
+            "ty lữ hành": 1.5,
+            "phòng": 1.5,
+            "travel sense": 1.5,
+            "thị thực điện tử": 1.5,
+            "trấn an": 1.5,
+            "đại lý": 1.5
+        }
     },
     {
         "attraction_name": "Travel Sense Asia",
@@ -397,6 +1094,231 @@
             "https://www.tripadvisor.com/Attraction_Review-g35719-d131606-Reviews-Brookfield_Zoo-Brookfield_Illinois.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d1809048-Reviews-or40-Travel_Sense_Asia-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d1809048-Reviews-or30-Travel_Sense_Asia-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d1809048-Reviews-or30-Travel_Sense_Asia-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9818164378876746,
+            "cơ quan": 0.9937939806841314,
+            "chuyên gia": 0.995256167196203,
+            "đại lý": 0.9884167741984129,
+            "trải nghiệm": 0.9555162340596629,
+            "dịch vụ khách hàng": 0.995408849674277,
+            "chuyến du lịch": 0.994404148349228,
+            "khách sạn": 0.7477799739135662,
+            "đồ ăn hướng dẫn viên": 0.74776085477788,
+            "phương tiện đi": 0.7477317508601118,
+            "đồ ăn chay": 0.9951050211675465,
+            "chuyến tham quan": 0.9933206061832607,
+            "chuyến tham": 0.9933978922490496,
+            "tour du lịch": 0.594235522672534,
+            "hành trình": 0.9346762697095983,
+            "tài sản": 0.9311239889357239,
+            "phương tiện di chuyển": 0.5,
+            "chuyến phiêu lưu": 0.9935443149491524,
+            "dịch vụ": 0.9166535931096101,
+            "kỳ nghỉ": 0.8680265293005505,
+            "thức ăn": 0.9953652686672285,
+            "đại lý du lịch": 0.9955967497662641,
+            "travel sense": 0.9951444708858617,
+            "đồ ăn": 0.9954735153296497,
+            "chỗ ở": 0.99549939786084,
+            "trải nghiệm kỳ nghỉ": 0.9955122388200834,
+            "trang web": 0.555446432903409,
+            "kỷ niệm du lịch": 0.9952063080272637,
+            "văn hóa": 0.8159432786051184,
+            "thiên nhiên": 0.5,
+            "bản": 0.5,
+            "cát cát": 0.5,
+            "đỉnh phan-xi-păng": 0.5,
+            "du ngoạn vịnh": 0.9948276759823784,
+            "cảnh quan": 0.5,
+            "nền văn hóa": 0.5,
+            "hướng dẫn viên du lịch phương tiện di chuyển": 0.5,
+            "hành": 0.5,
+            "trình": 0.5,
+            "hướng dẫn viên du lịch": 0.5
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "tốt",
+                "hiệu quả",
+                "tốt",
+                "tốt",
+                "tuyệt vời",
+                "suốt",
+                "thực sự"
+            ],
+            "cơ quan": [
+                "tốt"
+            ],
+            "chuyên gia": [
+                "tuyệt vời",
+                "thực sự",
+                "tuyệt vời",
+                "chắc chắn",
+                "tử tế"
+            ],
+            "đại lý": [
+                "đặc biệt",
+                "vui"
+            ],
+            "trải nghiệm": [
+                "tích cực",
+                "tuyệt vời",
+                "vui",
+                "hài lòng",
+                "nhiều",
+                "hơn"
+            ],
+            "dịch vụ khách hàng": [],
+            "chuyến du lịch": [
+                "riêng",
+                "vui"
+            ],
+            "khách sạn": [
+                "tuyệt vời",
+                "ngon"
+            ],
+            "đồ ăn hướng dẫn viên": [
+                "tuyệt vời"
+            ],
+            "phương tiện đi": [
+                "tuyệt vời"
+            ],
+            "đồ ăn chay": [
+                "ngon"
+            ],
+            "chuyến tham quan": [
+                "linh hoạt",
+                "riêng tư"
+            ],
+            "chuyến tham": [
+                "đặc biệt",
+                "vui",
+                "riêng"
+            ],
+            "tour du lịch": [
+                "đặc biệt"
+            ],
+            "hành trình": [
+                "hoàn hảo",
+                "hoàn hảo"
+            ],
+            "tài sản": [
+                "vô giá"
+            ],
+            "phương tiện di chuyển": [],
+            "chuyến phiêu lưu": [
+                "vinh dự",
+                "thực sự",
+                "cao",
+                "khó",
+                "khác"
+            ],
+            "dịch vụ": [
+                "đặc biệt"
+            ],
+            "kỳ nghỉ": [
+                "tuyệt vời",
+                "vui mừng",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "thức ăn": [
+                "tuyệt vời"
+            ],
+            "đại lý du lịch": [
+                "thực sự",
+                "hiệu quả"
+            ],
+            "travel sense": [
+                "nhiều",
+                "tuyệt vời",
+                "nhiều",
+                "tuyệt vời",
+                "lớn"
+            ],
+            "đồ ăn": [
+                "ngon",
+                "vui"
+            ],
+            "chỗ ở": [
+                "chân thành",
+                "chắc chắn",
+                "tốt đẹp"
+            ],
+            "trải nghiệm kỳ nghỉ": [
+                "vui mừng",
+                "tuyệt vời"
+            ],
+            "trang web": [
+                "trực tiếp"
+            ],
+            "kỷ niệm du lịch": [
+                "nhiều",
+                "tuyệt vời",
+                "hơn"
+            ],
+            "văn hóa": [
+                "đẹp",
+                "tự nhiên"
+            ],
+            "thiên nhiên": [],
+            "bản": [],
+            "cát cát": [],
+            "đỉnh phan-xi-păng": [],
+            "du ngoạn vịnh": [
+                "đẹp"
+            ],
+            "cảnh quan": [],
+            "nền văn hóa": [],
+            "hướng dẫn viên du lịch phương tiện di chuyển": [],
+            "hành": [],
+            "trình": [],
+            "hướng dẫn viên du lịch": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 4.5,
+            "cơ quan": 1.5,
+            "chuyên gia": 3.0,
+            "đại lý": 1.5,
+            "trải nghiệm": 3.0,
+            "dịch vụ khách hàng": 4.5,
+            "chuyến du lịch": 4.5,
+            "khách sạn": 3.0,
+            "đồ ăn hướng dẫn viên": 3.0,
+            "phương tiện đi": 3.0,
+            "đồ ăn chay": 1.5,
+            "chuyến tham quan": 1.5,
+            "chuyến tham": 3.0,
+            "tour du lịch": 3.0,
+            "hành trình": 3.0,
+            "tài sản": 1.5,
+            "phương tiện di chuyển": 1.5,
+            "chuyến phiêu lưu": 4.5,
+            "dịch vụ": 4.5,
+            "kỳ nghỉ": 6.0,
+            "thức ăn": 1.5,
+            "đại lý du lịch": 1.5,
+            "travel sense": 6.0,
+            "đồ ăn": 1.5,
+            "chỗ ở": 1.5,
+            "trải nghiệm kỳ nghỉ": 1.5,
+            "trang web": 1.5,
+            "kỷ niệm du lịch": 1.5,
+            "văn hóa": 1.5,
+            "thiên nhiên": 1.5,
+            "bản": 1.5,
+            "cát cát": 1.5,
+            "đỉnh phan-xi-păng": 1.5,
+            "du ngoạn vịnh": 1.5,
+            "cảnh quan": 1.5,
+            "nền văn hóa": 1.5,
+            "hướng dẫn viên du lịch phương tiện di chuyển": 1.5,
+            "hành": 1.5,
+            "trình": 1.5,
+            "hướng dẫn viên du lịch": 1.5
+        }
     }
 ]

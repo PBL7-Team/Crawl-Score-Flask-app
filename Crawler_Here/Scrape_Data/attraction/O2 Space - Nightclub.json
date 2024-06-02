@@ -108,7 +108,144 @@
             "https://www.tripadvisor.com/Attraction_Review-g43810-d7350857-Reviews-The_Lucky_Rabbit-Hattiesburg_Mississippi.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-or10-O2_Space_Nightclub-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-O2_Space_Nightclub-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-O2_Space_Nightclub-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "âm nhạc": -0.21180910922121257,
+            "tin nhắn văn": -0.9756202169228345,
+            "đồ uống": 0.4172845777745048,
+            "nhân viên pha chế": 0.8121246481314301,
+            "vũ công": 0.973822497529909,
+            "âm thanh": 0.9935927437618375,
+            "câu lạc bộ": -0.1662705293201725,
+            "nhân viên": 0.6219856254756451,
+            "trải nghiệm": 0.4769993338074225,
+            "nhân viên câu lạc bộ": -0.8637362662702799,
+            "quán bar": 0.8087426833808422,
+            "chuyến đi": 0.5,
+            "câu": 0.8737691454589367,
+            "lạc bộ đêm opera": 0.8737691454589367,
+            "loại cocktail": 0.5278757624328136,
+            "- bia": 0.5,
+            "chai nước": 0.509653240442276,
+            "câu lạc bộ địa phương": 0.8381245983764529,
+            "bữa tiệc": 0.97762490529567,
+            "dịch vụ thì": 0.9704671939834952,
+            "đồ": 0.3168857805430889,
+            "cốc bia": 0.9631952834315598,
+            "bầu không khí": 0.11997467465698719,
+            "không gian mở": 0.5226087151095271,
+            "không gian": 0.5424026120454073
+        },
+        "dicts_adj": {
+            "âm nhạc": [
+                "ồn ào",
+                "an toàn",
+                "tuyệt vời"
+            ],
+            "tin nhắn văn": [
+                "kém"
+            ],
+            "đồ uống": [
+                "suốt",
+                "cơ bản"
+            ],
+            "nhân viên pha chế": [
+                "nhiều",
+                "lâu"
+            ],
+            "vũ công": [],
+            "âm thanh": [
+                "tuyệt"
+            ],
+            "câu lạc bộ": [
+                "cao",
+                "nhất",
+                "tuyệt vời",
+                "bí ẩn",
+                "tuyệt vời",
+                "tương tự"
+            ],
+            "nhân viên": [
+                "thô lỗ"
+            ],
+            "trải nghiệm": [
+                "khủng khiếp",
+                "nhiều",
+                "suốt",
+                "tồi tệ",
+                "nhất"
+            ],
+            "nhân viên câu lạc bộ": [],
+            "quán bar": [],
+            "chuyến đi": [],
+            "câu": [
+                "tuyệt vời"
+            ],
+            "lạc bộ đêm opera": [
+                "tuyệt vời"
+            ],
+            "loại cocktail": [
+                "cơ bản"
+            ],
+            "- bia": [],
+            "chai nước": [],
+            "câu lạc bộ địa phương": [
+                "tử tế",
+                "phải"
+            ],
+            "bữa tiệc": [],
+            "dịch vụ thì": [
+                "cao cấp",
+                "tuyệt vời"
+            ],
+            "đồ": [
+                "choáng váng"
+            ],
+            "cốc bia": [
+                "hợp lý"
+            ],
+            "bầu không khí": [
+                "nhiều",
+                "nhỏ"
+            ],
+            "không gian mở": [
+                "nhiều",
+                "nhỏ"
+            ],
+            "không gian": [
+                "rộng",
+                "hơn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "âm nhạc": 2.5,
+            "tin nhắn văn": 1.5,
+            "đồ uống": 1.0,
+            "nhân viên pha chế": 0.5,
+            "vũ công": 0.5,
+            "âm thanh": 0.5,
+            "câu lạc bộ": 2.0,
+            "nhân viên": 1.0,
+            "trải nghiệm": 1.0,
+            "nhân viên câu lạc bộ": 0.5,
+            "quán bar": 0.5,
+            "chuyến đi": 0.5,
+            "câu": 0.5,
+            "lạc bộ đêm opera": 0.5,
+            "loại cocktail": 0.5,
+            "- bia": 0.5,
+            "chai nước": 0.5,
+            "câu lạc bộ địa phương": 0.5,
+            "bữa tiệc": 0.5,
+            "dịch vụ thì": 0.5,
+            "đồ": 0.5,
+            "cốc bia": 0.5,
+            "bầu không khí": 0.5,
+            "không gian mở": 0.5,
+            "không gian": 0.5
+        }
     },
     {
         "attraction_name": "O2 Space - Nightclub",
@@ -220,7 +357,114 @@
             "https://www.tripadvisor.com/Attraction_Review-g60841-d1866427-Reviews-Zapata_Falls-Mosca_Colorado.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-or20-O2_Space_Nightclub-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-or10-O2_Space_Nightclub-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-or10-O2_Space_Nightclub-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "câu lạc bộ khiêu vũ": -0.9746394322719425,
+            "câu lạc bộ": 0.0457692620693706,
+            "quán bar": 0.9879839316708967,
+            "ly đồ uống": 0.9951653548632748,
+            "hộp đêm": 0.994944203295745,
+            "không khí": 0.8737691454589367,
+            "âm nhạc": 0.9224923250963911,
+            "đồ uống": 0.934642861073371,
+            "nhân viên": 0.9948723348556087,
+            "câu lạc bộ đêm": 0.23897993462742306,
+            "câu lạc bộ đêm opera": 0.9928290622774512,
+            "uống nước": -0.609220989048481,
+            "đêm": 0.9950679736211896,
+            "kỳ nghỉ": 0.8051170306280255,
+            "bữa tiệc": 0.9927717039827257
+        },
+        "dicts_adj": {
+            "câu lạc bộ khiêu vũ": [
+                "ồn ào"
+            ],
+            "câu lạc bộ": [
+                "ồn ào",
+                "khó chịu",
+                "thực sự",
+                "nhiều"
+            ],
+            "quán bar": [
+                "tốt"
+            ],
+            "ly đồ uống": [
+                "ngon"
+            ],
+            "hộp đêm": [],
+            "không khí": [
+                "tuyệt vời"
+            ],
+            "âm nhạc": [
+                "tuyệt vời",
+                "hay",
+                "hay",
+                "đầy",
+                "tốt",
+                "suốt",
+                "tuyệt vời"
+            ],
+            "đồ uống": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "tuyệt vời",
+                "thực sự",
+                "đặc biệt",
+                "có thể",
+                "thoải mái",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "đặc biệt",
+                "nhiều",
+                "tuyệt vời",
+                "tuyệt vời",
+                "thân thiện",
+                "nhiều"
+            ],
+            "câu lạc bộ đêm": [
+                "phải",
+                "tuyệt vời"
+            ],
+            "câu lạc bộ đêm opera": [
+                "thực sự",
+                "vui"
+            ],
+            "uống nước": [
+                "chắc chắn"
+            ],
+            "đêm": [
+                "thân thiện",
+                "nhiều"
+            ],
+            "kỳ nghỉ": [
+                "nổi bật"
+            ],
+            "bữa tiệc": [
+                "ngon"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "câu lạc bộ khiêu vũ": 0.5,
+            "câu lạc bộ": 1.0,
+            "quán bar": 0.5,
+            "ly đồ uống": 0.5,
+            "hộp đêm": 0.5,
+            "không khí": 0.5,
+            "âm nhạc": 2.5,
+            "đồ uống": 1.0,
+            "nhân viên": 2.5,
+            "câu lạc bộ đêm": 1.0,
+            "câu lạc bộ đêm opera": 0.5,
+            "uống nước": 0.5,
+            "đêm": 0.5,
+            "kỳ nghỉ": 1.0,
+            "bữa tiệc": 0.5
+        }
     },
     {
         "attraction_name": "O2 Space - Nightclub",
@@ -340,7 +584,136 @@
             "https://www.tripadvisor.com/Attraction_Review-g31582-d10435297-Reviews-Basin_Spring_Park-Eureka_Springs_Arkansas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-or30-O2_Space_Nightclub-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-or20-O2_Space_Nightclub-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-or20-O2_Space_Nightclub-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.9942951449484099,
+            "câu lạc bộ": 0.9954797488171607,
+            "âm nhạc": 0.9143800869351253,
+            "trải nghiệm": 0.9947034674114548,
+            "sàn": 0.5,
+            "âm thanh": 0.9245179794088472,
+            "câu": 0.8737691454589367,
+            "lạc bộ": 0.9953412596369162,
+            "thống ánh sáng": 0.9932374419877306,
+            "không khí": -0.9370632087811828,
+            "thực đơn đồ": 0.9950820074300282,
+            "hệ": 0.8737691454589367,
+            "thống âm thanh": 0.9946374486899003,
+            "ánh sáng": 0.995477958524134,
+            "sự": 0.8737691454589367,
+            "rung cảm": 0.9954361638519913,
+            "bầu không khí": -0.9380666511133313,
+            "chuyến đi": 0.8776433202438056,
+            "bầu": 0.9955045222304761,
+            "không khí mát mẻ": 0.9954575234442018,
+            "con người": 0.9954798729741015
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "thân thiện",
+                "thân thiện",
+                "thân thiện",
+                "nhiều",
+                "tuyệt vời",
+                "nhiều",
+                "thân thiện",
+                "tuyệt vời"
+            ],
+            "câu lạc bộ": [
+                "xinh đẹp",
+                "tuyệt vời"
+            ],
+            "âm nhạc": [
+                "hay",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "sàn": [],
+            "âm thanh": [
+                "mát mẻ",
+                "tuyệt vời",
+                "thân thiện",
+                "nhiều"
+            ],
+            "câu": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "lạc bộ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "thống ánh sáng": [
+                "thân thiện",
+                "nhiều"
+            ],
+            "không khí": [
+                "tuyệt vời"
+            ],
+            "thực đơn đồ": [
+                "thú vị"
+            ],
+            "hệ": [
+                "tuyệt vời"
+            ],
+            "thống âm thanh": [
+                "tuyệt vời"
+            ],
+            "ánh sáng": [
+                "tuyệt vời"
+            ],
+            "sự": [
+                "tuyệt vời"
+            ],
+            "rung cảm": [
+                "tuyệt vời"
+            ],
+            "bầu không khí": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "gần"
+            ],
+            "bầu": [
+                "tuyệt vời"
+            ],
+            "không khí mát mẻ": [
+                "tuyệt vời"
+            ],
+            "con người": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 3.5,
+            "câu lạc bộ": 0.5,
+            "âm nhạc": 1.5,
+            "trải nghiệm": 0.5,
+            "sàn": 0.5,
+            "âm thanh": 1.0,
+            "câu": 1.0,
+            "lạc bộ": 1.0,
+            "thống ánh sáng": 0.5,
+            "không khí": 0.5,
+            "thực đơn đồ": 0.5,
+            "hệ": 0.5,
+            "thống âm thanh": 0.5,
+            "ánh sáng": 0.5,
+            "sự": 0.5,
+            "rung cảm": 0.5,
+            "bầu không khí": 0.5,
+            "chuyến đi": 0.5,
+            "bầu": 0.5,
+            "không khí mát mẻ": 0.5,
+            "con người": 0.5
+        }
     },
     {
         "attraction_name": "O2 Space - Nightclub",
@@ -460,7 +833,90 @@
             "https://www.tripadvisor.com/Attraction_Review-g48713-d602662-Reviews-Rosamond_Gifford_Zoo-Syracuse_Finger_Lakes_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-or40-O2_Space_Nightclub-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-or30-O2_Space_Nightclub-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-or30-O2_Space_Nightclub-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "vị trí": 0.934596175677143,
+            "câu lạc bộ": 0.9953587293857709,
+            "bầu không khí": 0.9893701421096921,
+            "nhân viên": 0.9926581829204224,
+            "trải nghiệm": 0.9952929429709911,
+            "âm nhạc": 0.9648473011766328,
+            "đồ uống": 0.9954010462097358,
+            "chuyến đi": 0.9942644310649484,
+            "bầu": 0.8737691454589367,
+            "không khí": -0.3053022171370685,
+            "chỗ ngồi": 0.41031269170343876,
+            "địa điểm": 0.8470655850445231
+        },
+        "dicts_adj": {
+            "vị trí": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "câu lạc bộ": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "bầu không khí": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "thực sự",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "âm nhạc": [
+                "tuyệt vời",
+                "thực sự",
+                "tuyệt vời",
+                "tuyệt vời",
+                "vui vẻ",
+                "tuyệt vời"
+            ],
+            "đồ uống": [
+                "tuyệt",
+                "ngon"
+            ],
+            "chuyến đi": [],
+            "bầu": [
+                "tuyệt vời"
+            ],
+            "không khí": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "hơn",
+                "tuyệt vời"
+            ],
+            "chỗ ngồi": [
+                "thoải mái"
+            ],
+            "địa điểm": [
+                "tuyệt vời",
+                "hơn",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "vị trí": 1.0,
+            "câu lạc bộ": 1.0,
+            "bầu không khí": 0.5,
+            "nhân viên": 1.5,
+            "trải nghiệm": 0.5,
+            "âm nhạc": 2.0,
+            "đồ uống": 1.0,
+            "chuyến đi": 0.5,
+            "bầu": 0.5,
+            "không khí": 1.0,
+            "chỗ ngồi": 0.5,
+            "địa điểm": 0.5
+        }
     },
     {
         "attraction_name": "O2 Space - Nightclub",
@@ -580,7 +1036,100 @@
             "https://www.tripadvisor.com/Attraction_Review-g56350-d108001-Reviews-Gruene_Historic_District-New_Braunfels_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-or50-O2_Space_Nightclub-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-or40-O2_Space_Nightclub-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-or40-O2_Space_Nightclub-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "câu lạc bộ": 0.9906333992694272,
+            "không khí": 0.022531084716320038,
+            "bữa tiệc con người": 0.9954772592172958,
+            "đồ uống": 0.7477923936385196,
+            "nhân viên": 0.9491081832675263,
+            "bữa tiệc sinh": -0.9159019906073809,
+            "thị trấn": 0.9286351990886033,
+            "câu": 0.925694466510322,
+            "lạc bộ đêm": 0.988390512065962,
+            "bầu": 0.9952842589118518,
+            "nhân viên quán bar": 0.9955340537708253,
+            "dịch vụ": 0.9954926955397241,
+            "không khí tiệc": 0.992170684505254,
+            "khu phố cổ": 0.9820888636168092,
+            "âm nhạc": 0.5
+        },
+        "dicts_adj": {
+            "câu lạc bộ": [
+                "tốt",
+                "tốt",
+                "hơn"
+            ],
+            "không khí": [
+                "chắc chắn",
+                "sớm",
+                "tuyệt vời"
+            ],
+            "bữa tiệc con người": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "đồ uống": [
+                "ngon"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "tốt"
+            ],
+            "bữa tiệc sinh": [
+                "Chắc chắn",
+                "khác"
+            ],
+            "thị trấn": [
+                "Chắc chắn"
+            ],
+            "câu": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "lạc bộ đêm": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "bầu": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "nhân viên quán bar": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "chuyên nghiệp",
+                "đặc biệt"
+            ],
+            "không khí tiệc": [
+                "tuyệt vời"
+            ],
+            "khu phố cổ": [
+                "ổn"
+            ],
+            "âm nhạc": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "câu lạc bộ": 1.0,
+            "không khí": 1.0,
+            "bữa tiệc con người": 0.5,
+            "đồ uống": 1.0,
+            "nhân viên": 1.0,
+            "bữa tiệc sinh": 0.5,
+            "thị trấn": 0.5,
+            "câu": 1.0,
+            "lạc bộ đêm": 1.0,
+            "bầu": 1.0,
+            "nhân viên quán bar": 0.5,
+            "dịch vụ": 0.5,
+            "không khí tiệc": 0.5,
+            "khu phố cổ": 0.5,
+            "âm nhạc": 0.5
+        }
     },
     {
         "attraction_name": "O2 Space - Nightclub",
@@ -700,7 +1249,114 @@
             "https://www.tripadvisor.com/Attraction_Review-g60832-d14208544-Reviews-Glacier_National_Park-West_Glacier_Montana.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-or60-O2_Space_Nightclub-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-or50-O2_Space_Nightclub-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-or50-O2_Space_Nightclub-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chơi đêm": 0.9830244746990502,
+            "nhân viên": 0.8896917805774137,
+            "câu lạc bộ": 0.9943883263816437,
+            "giai điệu": 0.994379751937231,
+            "chuyến đi": 0.9954401621362194,
+            "bầu không khí": 0.33936378109501675,
+            "môi trường": 0.46946313965599984,
+            "nhân viên quán bar": 0.9955560075468384,
+            "nhà hát": 0.8737691454589367,
+            "trần nhà": -0.6610791757702827,
+            "bài trí": 0.5,
+            "khiêu vũ": 0.9955477074836381,
+            "câu": 0.8737691454589367,
+            "lạc bộ đêm opera": 0.8737691454589367,
+            "rung cảm": 0.6868845727294683,
+            "hộp đêm": 0.99480997788487,
+            "âm nhạc": 0.9954864181345329
+        },
+        "dicts_adj": {
+            "chơi đêm": [],
+            "nhân viên": [
+                "dễ thương",
+                "vui vẻ",
+                "chu đáo",
+                "vui vẻ",
+                "chu đáo"
+            ],
+            "câu lạc bộ": [
+                "nhất",
+                "đầy",
+                "cuồng nhiệt",
+                "vui vẻ",
+                "tuyệt vời",
+                "tốt"
+            ],
+            "giai điệu": [
+                "dễ thương",
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "nhiều",
+                "vui",
+                "nổi bật"
+            ],
+            "bầu không khí": [
+                "thực sự",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "môi trường": [
+                "thực sự",
+                "tốt",
+                "độc đáo"
+            ],
+            "nhân viên quán bar": [
+                "tuyệt vời"
+            ],
+            "nhà hát": [
+                "cao"
+            ],
+            "trần nhà": [
+                "cao"
+            ],
+            "bài trí": [],
+            "khiêu vũ": [
+                "thoải mái",
+                "cùng",
+                "dễ dàng"
+            ],
+            "câu": [
+                "tuyệt vời"
+            ],
+            "lạc bộ đêm opera": [
+                "tuyệt vời"
+            ],
+            "rung cảm": [
+                "tuyệt vời"
+            ],
+            "hộp đêm": [
+                "tốt"
+            ],
+            "âm nhạc": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chơi đêm": 0.5,
+            "nhân viên": 2.5,
+            "câu lạc bộ": 1.5,
+            "giai điệu": 1.0,
+            "chuyến đi": 0.5,
+            "bầu không khí": 1.0,
+            "môi trường": 1.0,
+            "nhân viên quán bar": 0.5,
+            "nhà hát": 0.5,
+            "trần nhà": 0.5,
+            "bài trí": 0.5,
+            "khiêu vũ": 0.5,
+            "câu": 0.5,
+            "lạc bộ đêm opera": 0.5,
+            "rung cảm": 1.0,
+            "hộp đêm": 0.5,
+            "âm nhạc": 0.5
+        }
     },
     {
         "attraction_name": "O2 Space - Nightclub",
@@ -813,7 +1469,113 @@
             "https://www.tripadvisor.com/Attraction_Review-g656615-d10393467-Reviews-Hermes-Fiumicino_Province_of_Rome_Lazio.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-or70-O2_Space_Nightclub-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-or60-O2_Space_Nightclub-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-or60-O2_Space_Nightclub-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "câu": 0.9776197875617072,
+            "lạc bộ đêm": 0.9813881280133501,
+            "giai điệu": 0.8737691454589367,
+            "nhân viên": 0.9951405000999026,
+            "bầu không khí": 0.6199170118197799,
+            "lạc bộ đêm opera": 0.5,
+            "đồ uống": 0.9827881009744791,
+            "người dân": 0.9946471675066277,
+            "câu lạc bộ": 0.4902240772207733,
+            "không khí": 0.9919920635875314,
+            "âm nhạc": 0.9941680176416412,
+            "vấn chuyến": 0.5262103239074349,
+            "dịch thuật": 0.14682116732001305,
+            "hộp đêm": 0.07199315020504098,
+            "cà phê": 0.5,
+            "nơi đó": -0.9723976618843153,
+            "khu phố cổ": 0.9185560271143913
+        },
+        "dicts_adj": {
+            "câu": [
+                "tốt"
+            ],
+            "lạc bộ đêm": [
+                "tốt"
+            ],
+            "giai điệu": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "dễ dàng",
+                "thực sự",
+                "tuyệt vời",
+                "tươi cười",
+                "tuyệt vời",
+                "thân thiện",
+                "sẵn sàng",
+                "tuyệt vời",
+                "vui vẻ",
+                "chu đáo"
+            ],
+            "bầu không khí": [
+                "dễ dàng"
+            ],
+            "lạc bộ đêm opera": [],
+            "đồ uống": [
+                "hợp lý",
+                "hợp lý",
+                "tuyệt vời"
+            ],
+            "người dân": [
+                "tốt",
+                "thú vị"
+            ],
+            "câu lạc bộ": [
+                "Chắc chắn",
+                "tuyệt bạn",
+                "thân thiện",
+                "sẵn sàng",
+                "khuya",
+                "tuyệt vời"
+            ],
+            "không khí": [
+                "tuyệt vời"
+            ],
+            "âm nhạc": [
+                "tuyệt vời",
+                "thực sự",
+                "trẻ",
+                "thực sự",
+                "lớn"
+            ],
+            "vấn chuyến": [],
+            "dịch thuật": [],
+            "hộp đêm": [
+                "ồn ào",
+                "muộn",
+                "hơn"
+            ],
+            "cà phê": [],
+            "nơi đó": [],
+            "khu phố cổ": [
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "câu": 0.5,
+            "lạc bộ đêm": 0.5,
+            "giai điệu": 0.5,
+            "nhân viên": 3.0,
+            "bầu không khí": 0.5,
+            "lạc bộ đêm opera": 0.5,
+            "đồ uống": 1.5,
+            "người dân": 0.5,
+            "câu lạc bộ": 2.0,
+            "không khí": 0.5,
+            "âm nhạc": 1.0,
+            "vấn chuyến": 0.5,
+            "dịch thuật": 0.5,
+            "hộp đêm": 0.5,
+            "cà phê": 0.5,
+            "nơi đó": 0.5,
+            "khu phố cổ": 0.5
+        }
     },
     {
         "attraction_name": "O2 Space - Nightclub",
@@ -933,6 +1695,109 @@
             "https://www.tripadvisor.com/Attraction_Review-g42235-d584879-Reviews-Call_of_the_Wild_Museum-Gaylord_Otsego_County_Michigan.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-or80-O2_Space_Nightclub-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-or70-O2_Space_Nightclub-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12212969-Reviews-or70-O2_Space_Nightclub-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.9950282248125101,
+            "nhân viên âm nhạc": 0.9955915582249872,
+            "đồ uống": 0.995560955372639,
+            "bữa tiệc": 0.5,
+            "câu lạc bộ": 0.819901090716788,
+            "quán rượu": 0.9531819256371818,
+            "dịch vụ": 0.8737691454589367,
+            "giá cả": 0.9953860425157472,
+            "âm nhạc": 0.6868845727294683,
+            "vũ công": 0.995584579068236,
+            "bầu": 0.5,
+            "không khí": 0.729291832074523,
+            "người dân": 0.9749530227854848,
+            "vị trí": 0.99539563304279,
+            "chai": 0.5,
+            "trái cây": 0.5,
+            "bầu không khí": -0.4593306500464678,
+            "người dân địa": 0.9636980453506112
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "tuyệt vời",
+                "niềm nở",
+                "suốt",
+                "thân thiện",
+                "thực sự"
+            ],
+            "nhân viên âm nhạc": [
+                "tuyệt vời"
+            ],
+            "đồ uống": [
+                "tuyệt vời"
+            ],
+            "bữa tiệc": [],
+            "câu lạc bộ": [
+                "tuyệt vời",
+                "nhất",
+                "Chắc chắn",
+                "tuyệt vời",
+                "khác",
+                "tuyệt vời",
+                "tuyệt vời",
+                "lớn tuổi",
+                "hơn"
+            ],
+            "quán rượu": [
+                "tuyệt vời",
+                "nhất"
+            ],
+            "dịch vụ": [
+                "thực sự",
+                "tốt"
+            ],
+            "giá cả": [
+                "tuyệt vời"
+            ],
+            "âm nhạc": [
+                "tuyệt vời"
+            ],
+            "vũ công": [
+                "xinh đẹp"
+            ],
+            "bầu": [],
+            "không khí": [
+                "tuyệt vời"
+            ],
+            "người dân": [],
+            "vị trí": [
+                "tuyệt vời"
+            ],
+            "chai": [],
+            "trái cây": [],
+            "bầu không khí": [
+                "phổ quát"
+            ],
+            "người dân địa": [
+                "cuối cùng",
+                "thú vị"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 1.5,
+            "nhân viên âm nhạc": 0.5,
+            "đồ uống": 0.5,
+            "bữa tiệc": 0.5,
+            "câu lạc bộ": 1.5,
+            "quán rượu": 0.5,
+            "dịch vụ": 0.5,
+            "giá cả": 0.5,
+            "âm nhạc": 1.0,
+            "vũ công": 0.5,
+            "bầu": 0.5,
+            "không khí": 1.0,
+            "người dân": 0.5,
+            "vị trí": 0.5,
+            "chai": 0.5,
+            "trái cây": 0.5,
+            "bầu không khí": 0.5,
+            "người dân địa": 0.5
+        }
     }
 ]

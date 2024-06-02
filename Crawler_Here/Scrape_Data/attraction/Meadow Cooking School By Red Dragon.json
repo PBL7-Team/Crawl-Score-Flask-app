@@ -106,7 +106,153 @@
             "https://www.tripadvisor.com/Attraction_Review-g31352-d8593685-Reviews-Seven_Sacred_Pools-Sedona_Arizona.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d12804452-Reviews-or10-Meadow_Cooking_School_By_Red_Dragon-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12804452-Reviews-Meadow_Cooking_School_By_Red_Dragon-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12804452-Reviews-Meadow_Cooking_School_By_Red_Dragon-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cá ngừ": 0.40279831558776397,
+            "bữa tối": 0.9955953559838235,
+            "bữa ăn": 0.8737691454589367,
+            "món ăn": 0.8085541569780617,
+            "chủ sở hữu": 0.9935122859315015,
+            "bữa": 0.9942290979670361,
+            "món cá ngừ": 0.9949227959926551,
+            "trường": 0.9947731402353384,
+            "giáo viên": 0.9951545185176656,
+            "món ngon": 0.9735337113961577,
+            "bánh mì": -0.030994566157460213,
+            "lớp học nấu ăn": 0.9732590931816958,
+            "đầu bếp": 0.7834693324499918,
+            "lớp học": 0.7403252876538318,
+            "nhà bếp": 0.9938931817887351,
+            "nguyên liệu": 0.5,
+            "trải nghiệm": 0.8777500767318998,
+            "chuyến tham": 0.9909415327711031,
+            "thị": 0.5,
+            "nhà hàng": 0.8737691454589367,
+            "cá bống tượng": 0.9947469170438126,
+            "con vịt": 0.9953585738549009,
+            "chủ nhà": 0.99560513504548,
+            "chuyên môn": 0.5
+        },
+        "dicts_adj": {
+            "cá ngừ": [
+                "tươi",
+                "hiếm",
+                "tươi",
+                "ngon",
+                "tươi",
+                "hiếm",
+                "tươi",
+                "ngon",
+                "nhỏ"
+            ],
+            "bữa tối": [],
+            "bữa ăn": [
+                "ngon",
+                "tuyệt vời"
+            ],
+            "món ăn": [
+                "tươi",
+                "ngon",
+                "đặc biệt",
+                "tuyệt vời",
+                "hiện đại",
+                "thực sự"
+            ],
+            "chủ sở hữu": [
+                "thân thiện"
+            ],
+            "bữa": [
+                "ngon"
+            ],
+            "món cá ngừ": [
+                "ngon",
+                "tuyệt vời"
+            ],
+            "trường": [
+                "ngon",
+                "nhất"
+            ],
+            "giáo viên": [
+                "tuyệt vời"
+            ],
+            "món ngon": [],
+            "bánh mì": [
+                "nhỏ"
+            ],
+            "lớp học nấu ăn": [
+                "đặc biệt",
+                "tuyệt vời"
+            ],
+            "đầu bếp": [
+                "đặc biệt",
+                "tuyệt vời",
+                "kiên nhẫn",
+                "xuất sắc"
+            ],
+            "lớp học": [
+                "đặc biệt",
+                "tuyệt vời"
+            ],
+            "nhà bếp": [
+                "nhiều",
+                "ngon"
+            ],
+            "nguyên liệu": [],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "đủ",
+                "cao",
+                "tuyệt vời",
+                "chắc chắn"
+            ],
+            "chuyến tham": [
+                "đầy"
+            ],
+            "thị": [],
+            "nhà hàng": [
+                "hiện đại",
+                "thực sự"
+            ],
+            "cá bống tượng": [
+                "tuyệt vời"
+            ],
+            "con vịt": [
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "chủ nhà": [
+                "tuyệt vời"
+            ],
+            "chuyên môn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cá ngừ": 1.5,
+            "bữa tối": 1,
+            "bữa ăn": 1.5,
+            "món ăn": 4.0,
+            "chủ sở hữu": 1,
+            "bữa": 1,
+            "món cá ngừ": 1.5,
+            "trường": 0.5,
+            "giáo viên": 0.5,
+            "món ngon": 0.5,
+            "bánh mì": 0.5,
+            "lớp học nấu ăn": 0.5,
+            "đầu bếp": 1.5,
+            "lớp học": 1.0,
+            "nhà bếp": 0.5,
+            "nguyên liệu": 0.5,
+            "trải nghiệm": 1.0,
+            "chuyến tham": 0.5,
+            "thị": 0.5,
+            "nhà hàng": 0.5,
+            "cá bống tượng": 0.5,
+            "con vịt": 0.5,
+            "chủ nhà": 0.5,
+            "chuyên môn": 0.5
+        }
     },
     {
         "attraction_name": "Meadow Cooking School By Red Dragon",
@@ -216,7 +362,322 @@
             "https://www.tripadvisor.com/Attraction_Review-g32655-d538096-Reviews-Melrose_Place-Los_Angeles_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d12804452-Reviews-or20-Meadow_Cooking_School_By_Red_Dragon-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12804452-Reviews-or10-Meadow_Cooking_School_By_Red_Dragon-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12804452-Reviews-or10-Meadow_Cooking_School_By_Red_Dragon-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thực phẩm địa": 0.5348033159971237,
+            "chuyên gia": 0.9955585792195052,
+            "bom": -0.7368072541430593,
+            "đầu bếp": 0.6021905948466155,
+            "thịt -": 0.847334981081076,
+            "sản phẩm": 0.9439410282648169,
+            "phong cách": 0.790232305880636,
+            "kỹ thuật nấu ăn": 0.9890918986056931,
+            "công thức nấu ăn": 0.7141011973726563,
+            "nhà bếp": 0.9953603799222037,
+            "ly cocktail": 0.5085687562823296,
+            "đĩa nếm": 0.5,
+            "món cá": 0.5,
+            "nhân viên": 0.9952922589727677,
+            "bữa": 0.9941258849576116,
+            "chuyến đi chợ": 0.7965778353391215,
+            "món ăn": 0.7713164896073673,
+            "lớp học nấu ăn cá": 0.9949849044205621,
+            "đầu bếp tú": 0.8737691454589367,
+            "trải nghiệm": 0.9953550643209989,
+            "kiến thức": 0.8737691454589367,
+            "hương vị": 0.9955249078630004,
+            "độ ăn uống": 0.518344059586525,
+            "thực đơn": 0.5,
+            "cá ngừ": 0.9912171844625846,
+            "lớp học nấu ăn": 0.8248418748495169,
+            "hội an": 0.8737691454589367,
+            "trái cây": 0.969170553755248,
+            "nguyên liệu": 0.17312350386055186,
+            "món ăn hảo hạng": 0.9929500354919583,
+            "chuyến đi": 0.9954021340236068,
+            "nhà hàng": 0.8573118983961953,
+            "đồ ăn": 0.9956082340795547,
+            "bếp": 0.750934386800509,
+            "khu chợ": 0.7820528335869312,
+            "rau quả": 0.9950074649532326,
+            "hải sản": 0.6846132539212704,
+            "bữa tiệc": 0.5,
+            "món phở": 0.8737691454589367,
+            "gà sả": 0.8364549460820854,
+            "cá": 0.6611443535463574,
+            "ngừ nướng mè": 0.8205245196004398,
+            "buổi sáng": 0.9927745143068023,
+            "mẹo nấu ăn": 0.7847804576158524,
+            "chef tú": 0.8737691454589367,
+            "buổi học nấu ăn": 0.9953347828704864,
+            "nhà hàng rồng": 0.8737691454589367,
+            "chuyến tham quan": 0.9729138696566224,
+            "nấu phở bò gà xiên sả": 0.5,
+            "salad": 0.5,
+            "tôm bơ xoài": 0.5,
+            "lớp học": 0.9955890731653199
+        },
+        "dicts_adj": {
+            "thực phẩm địa": [
+                "thực sự"
+            ],
+            "chuyên gia": [
+                "thực sự"
+            ],
+            "bom": [
+                "nhiều"
+            ],
+            "đầu bếp": [
+                "nhiều",
+                "sớm",
+                "thú vị",
+                "tuyệt vời",
+                "thân thiện",
+                "chuyên nghiệp",
+                "vui vẻ",
+                "nhiều",
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "thịt -": [
+                "kiên nhẫn",
+                "cẩn thận"
+            ],
+            "sản phẩm": [
+                "kiên nhẫn",
+                "cẩn thận",
+                "tuyệt vời"
+            ],
+            "phong cách": [
+                "kiên nhẫn",
+                "cẩn thận"
+            ],
+            "kỹ thuật nấu ăn": [
+                "tuyệt",
+                "nhanh chóng"
+            ],
+            "công thức nấu ăn": [
+                "tuyệt",
+                "đơn giản",
+                "cần thiết"
+            ],
+            "nhà bếp": [
+                "thực sự",
+                "dễ dàng",
+                "hơn",
+                "nhiều5"
+            ],
+            "ly cocktail": [],
+            "đĩa nếm": [],
+            "món cá": [],
+            "nhân viên": [
+                "thân thiện",
+                "dễ"
+            ],
+            "bữa": [
+                "rẻ",
+                "khác",
+                "hoàn toàn",
+                "xứng đáng"
+            ],
+            "chuyến đi chợ": [
+                "sớm",
+                "thú vị"
+            ],
+            "món ăn": [
+                "ngon lành",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "thân yêu",
+                "cùng",
+                "nhiều",
+                "khác",
+                "có thể"
+            ],
+            "lớp học nấu ăn cá": [
+                "tuyệt vời"
+            ],
+            "đầu bếp tú": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "ngon"
+            ],
+            "kiến thức": [
+                "tuyệt vời"
+            ],
+            "hương vị": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "độ ăn uống": [],
+            "thực đơn": [],
+            "cá ngừ": [
+                "chắc chắn",
+                "nổi bật"
+            ],
+            "lớp học nấu ăn": [
+                "chắc chắn",
+                "tuyệt vời",
+                "thực sự",
+                "vui",
+                "vui",
+                "tuyệt vời"
+            ],
+            "hội an": [
+                "chắc chắn"
+            ],
+            "trái cây": [
+                "tươi",
+                "khác"
+            ],
+            "nguyên liệu": [
+                "tươi",
+                "ngon",
+                "khác"
+            ],
+            "món ăn hảo hạng": [
+                "vui",
+                "an toàn",
+                "quan trọng"
+            ],
+            "chuyến đi": [
+                "Chắc chắn",
+                "nổi bật"
+            ],
+            "nhà hàng": [
+                "ngon",
+                "tuyệt vời",
+                "nhiều",
+                "tuyệt vời",
+                "phức tạp",
+                "có thể"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "bếp": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "khu chợ": [
+                "nhiều"
+            ],
+            "rau quả": [
+                "khác"
+            ],
+            "hải sản": [
+                "khác"
+            ],
+            "bữa tiệc": [],
+            "món phở": [
+                "xanh",
+                "tươi",
+                "ngon",
+                "đa năng",
+                "suốt"
+            ],
+            "gà sả": [
+                "đen",
+                "cực",
+                "ngon"
+            ],
+            "cá": [
+                "đen",
+                "cực",
+                "ngon"
+            ],
+            "ngừ nướng mè": [
+                "đen",
+                "cực",
+                "ngon"
+            ],
+            "buổi sáng": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "mẹo nấu ăn": [
+                "cần thiết"
+            ],
+            "chef tú": [
+                "cao",
+                "hơn"
+            ],
+            "buổi học nấu ăn": [
+                "tuyệt vời"
+            ],
+            "nhà hàng rồng": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "khác",
+                "tươi"
+            ],
+            "nấu phở bò gà xiên sả": [],
+            "salad": [],
+            "tôm bơ xoài": [],
+            "lớp học": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thực phẩm địa": 0.5,
+            "chuyên gia": 0.5,
+            "bom": 0.5,
+            "đầu bếp": 2.5,
+            "thịt -": 0.5,
+            "sản phẩm": 1.0,
+            "phong cách": 0.5,
+            "kỹ thuật nấu ăn": 1.0,
+            "công thức nấu ăn": 1.5,
+            "nhà bếp": 0.5,
+            "ly cocktail": 0.5,
+            "đĩa nếm": 0.5,
+            "món cá": 0.5,
+            "nhân viên": 0.5,
+            "bữa": 0.5,
+            "chuyến đi chợ": 0.5,
+            "món ăn": 3.0,
+            "lớp học nấu ăn cá": 0.5,
+            "đầu bếp tú": 0.5,
+            "trải nghiệm": 1.5,
+            "kiến thức": 0.5,
+            "hương vị": 1.0,
+            "độ ăn uống": 0.5,
+            "thực đơn": 0.5,
+            "cá ngừ": 0.5,
+            "lớp học nấu ăn": 2.5,
+            "hội an": 0.5,
+            "trái cây": 1.0,
+            "nguyên liệu": 1.5,
+            "món ăn hảo hạng": 0.5,
+            "chuyến đi": 0.5,
+            "nhà hàng": 1.5,
+            "đồ ăn": 0.5,
+            "bếp": 0.5,
+            "khu chợ": 0.5,
+            "rau quả": 0.5,
+            "hải sản": 0.5,
+            "bữa tiệc": 0.5,
+            "món phở": 0.5,
+            "gà sả": 0.5,
+            "cá": 0.5,
+            "ngừ nướng mè": 0.5,
+            "buổi sáng": 0.5,
+            "mẹo nấu ăn": 0.5,
+            "chef tú": 0.5,
+            "buổi học nấu ăn": 0.5,
+            "nhà hàng rồng": 0.5,
+            "chuyến tham quan": 0.5,
+            "nấu phở bò gà xiên sả": 0.5,
+            "salad": 0.5,
+            "tôm bơ xoài": 0.5,
+            "lớp học": 0.5
+        }
     },
     {
         "attraction_name": "Meadow Cooking School By Red Dragon",
@@ -327,7 +788,233 @@
             "https://www.tripadvisor.com/Attraction_Review-g294197-d12928976-Reviews-Digital_Media_City_Gallery-Seoul.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d12804452-Reviews-or30-Meadow_Cooking_School_By_Red_Dragon-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12804452-Reviews-or20-Meadow_Cooking_School_By_Red_Dragon-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12804452-Reviews-or20-Meadow_Cooking_School_By_Red_Dragon-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "lớp học": 0.9863976584165357,
+            "đầu bếp": 0.9438875415993001,
+            "nguyên liệu": 0.9899311074987054,
+            "phong tục": 0.5,
+            "trải nghiệm": 0.9953352951561101,
+            "nhà bếp": 0.7471484945272096,
+            "công thức nấu ăn": 0.657176451322933,
+            "món ăn": 0.9129223897810638,
+            "lớp học nấu ăn": 0.5591738481695453,
+            "chuyến thăm": 0.8339380938559771,
+            "hương vị": -0.16159828985109925,
+            "chợ": 0.5,
+            "đĩa cá ngừ": 0.5645029125735164,
+            "nhà hàng": 0.8874973894562572,
+            "chuyến tham quan": 0.5,
+            "chuyến tham": 0.9954206702532247,
+            "chi tiết trình bày": 0.8737691454589367,
+            "đầu bếp tú": 0.8737691454589367,
+            "buổi sáng": 0.9955712042283267,
+            "đầu": 0.5180640872567892,
+            "sản phẩm": -0.966109786182642,
+            "chợ địa": 0.9615420373156667,
+            "lao động": 0.5,
+            "kiến ​​thức": 0.5,
+            "khu chợ": 0.6901460591616342,
+            "sản phẩm địa": 0.5,
+            "món đó": 0.9953487063758075,
+            "giáo viên dạy nấu ăn": 0.9910144335590303,
+            "sa": 0.99456896353513,
+            "tế": 0.9948591857682914,
+            "gà": 0.9949214326916263,
+            "cá ngừ": 0.9911903771571815,
+            "bầu không khí quen": 0.9942940333858132,
+            "ẩm thực việt": 0.745870518265292,
+            "giá cả": 0.9948353612562642,
+            "bài giảng": 0.5,
+            "bếp": 0.9855666322400793,
+            "trải nghiệm học": 0.9953275247826241
+        },
+        "dicts_adj": {
+            "lớp học": [
+                "đơn giản",
+                "tốt",
+                "cao"
+            ],
+            "đầu bếp": [
+                "tuyệt vời",
+                "khác",
+                "thực sự",
+                "kiên nhẫn",
+                "thực sự",
+                "cùng",
+                "xuất sắc",
+                "xuất sắc",
+                "giỏi",
+                "thú vị",
+                "ngon",
+                "dễ"
+            ],
+            "nguyên liệu": [
+                "giàu"
+            ],
+            "phong tục": [],
+            "trải nghiệm": [
+                "chân thực chuyên nghiệp",
+                "thú vị",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "nhà bếp": [
+                "hoàn toàn",
+                "tuyệt vời",
+                "chuyên nghiệp"
+            ],
+            "công thức nấu ăn": [
+                "đơn giản",
+                "nhiều",
+                "tuyệt vời",
+                "hơn"
+            ],
+            "món ăn": [
+                "ngon",
+                "ngon",
+                "ngon",
+                "tuyệt vời",
+                "nhiều",
+                "ngon",
+                "dễ"
+            ],
+            "lớp học nấu ăn": [
+                "tuyệt vời",
+                "khác",
+                "may mắn",
+                "riêng",
+                "tuyệt vời"
+            ],
+            "chuyến thăm": [
+                "cao"
+            ],
+            "hương vị": [
+                "khác"
+            ],
+            "chợ": [],
+            "đĩa cá ngừ": [
+                "đen"
+            ],
+            "nhà hàng": [
+                "ngon",
+                "ngon",
+                "cùng",
+                "ngon",
+                "dễ"
+            ],
+            "chuyến tham quan": [],
+            "chuyến tham": [
+                "tuyệt vời"
+            ],
+            "chi tiết trình bày": [
+                "Chi tiết",
+                "quan trọng"
+            ],
+            "đầu bếp tú": [
+                "Chi tiết",
+                "quan trọng"
+            ],
+            "buổi sáng": [
+                "tuyệt vời"
+            ],
+            "đầu": [
+                "khác"
+            ],
+            "sản phẩm": [
+                "khác",
+                "khác"
+            ],
+            "chợ địa": [
+                "ngon"
+            ],
+            "lao động": [],
+            "kiến ​​thức": [],
+            "khu chợ": [
+                "gần",
+                "nhiều"
+            ],
+            "sản phẩm địa": [],
+            "món đó": [
+                "thực sự",
+                "nóng lòng"
+            ],
+            "giáo viên dạy nấu ăn": [
+                "tuyệt vời"
+            ],
+            "sa": [
+                "tươi"
+            ],
+            "tế": [
+                "tươi"
+            ],
+            "gà": [
+                "tươi"
+            ],
+            "cá ngừ": [
+                "tươi"
+            ],
+            "bầu không khí quen": [
+                "thân thiện",
+                "cao",
+                "quen thuộc"
+            ],
+            "ẩm thực việt": [
+                "Nhiều",
+                "thú vị"
+            ],
+            "giá cả": [],
+            "bài giảng": [],
+            "bếp": [
+                "ngon",
+                "dễ"
+            ],
+            "trải nghiệm học": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "lớp học": 1.0,
+            "đầu bếp": 4.0,
+            "nguyên liệu": 0.5,
+            "phong tục": 0.5,
+            "trải nghiệm": 1.5,
+            "nhà bếp": 1.0,
+            "công thức nấu ăn": 2.5,
+            "món ăn": 3.0,
+            "lớp học nấu ăn": 1.5,
+            "chuyến thăm": 0.5,
+            "hương vị": 1.0,
+            "chợ": 0.5,
+            "đĩa cá ngừ": 0.5,
+            "nhà hàng": 2.5,
+            "chuyến tham quan": 0.5,
+            "chuyến tham": 0.5,
+            "chi tiết trình bày": 0.5,
+            "đầu bếp tú": 0.5,
+            "buổi sáng": 0.5,
+            "đầu": 0.5,
+            "sản phẩm": 1.0,
+            "chợ địa": 0.5,
+            "lao động": 0.5,
+            "kiến ​​thức": 0.5,
+            "khu chợ": 1.0,
+            "sản phẩm địa": 0.5,
+            "món đó": 0.5,
+            "giáo viên dạy nấu ăn": 0.5,
+            "sa": 0.5,
+            "tế": 0.5,
+            "gà": 0.5,
+            "cá ngừ": 0.5,
+            "bầu không khí quen": 0.5,
+            "ẩm thực việt": 1.0,
+            "giá cả": 0.5,
+            "bài giảng": 0.5,
+            "bếp": 0.5,
+            "trải nghiệm học": 0.5
+        }
     },
     {
         "attraction_name": "Meadow Cooking School By Red Dragon",
@@ -438,7 +1125,74 @@
             "https://www.tripadvisor.com/Attraction_Review-g147289-d4469473-Reviews-Agora_Mall-Santo_Domingo_Santo_Domingo_Province_Dominican_Republic.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d12804452-Reviews-or40-Meadow_Cooking_School_By_Red_Dragon-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12804452-Reviews-or30-Meadow_Cooking_School_By_Red_Dragon-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12804452-Reviews-or30-Meadow_Cooking_School_By_Red_Dragon-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "món ăn": 0.9948184239910915,
+            "đầu bếp": 0.42533257172908634,
+            "thức thịt bò": 0.6252882555127144,
+            "thực phẩm địa": 0.5348033159971237,
+            "chuyên gia": 0.9955585792195052,
+            "thịt -": 0.8533867386868224,
+            "sản phẩm -": 0.8924687426770106,
+            "phong cách": 0.790232305880636,
+            "kỹ thuật nấu ăn": 0.9952830710681155,
+            "công thức nấu ăn": 0.9954766096198,
+            "nhà bếp": 0.9953603799222037
+        },
+        "dicts_adj": {
+            "món ăn": [],
+            "đầu bếp": [
+                "nhiều"
+            ],
+            "thức thịt bò": [
+                "ngắn gọn"
+            ],
+            "thực phẩm địa": [
+                "thực sự"
+            ],
+            "chuyên gia": [
+                "thực sự"
+            ],
+            "thịt -": [
+                "kiên nhẫn",
+                "cẩn thận"
+            ],
+            "sản phẩm -": [
+                "kiên nhẫn",
+                "cẩn thận"
+            ],
+            "phong cách": [
+                "kiên nhẫn",
+                "cẩn thận"
+            ],
+            "kỹ thuật nấu ăn": [
+                "tuyệt"
+            ],
+            "công thức nấu ăn": [
+                "tuyệt"
+            ],
+            "nhà bếp": [
+                "thực sự",
+                "dễ dàng",
+                "hơn",
+                "nhiều5"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "món ăn": 0.5,
+            "đầu bếp": 1.0,
+            "thức thịt bò": 0.5,
+            "thực phẩm địa": 0.5,
+            "chuyên gia": 0.5,
+            "thịt -": 0.5,
+            "sản phẩm -": 0.5,
+            "phong cách": 0.5,
+            "kỹ thuật nấu ăn": 0.5,
+            "công thức nấu ăn": 0.5,
+            "nhà bếp": 0.5
+        }
     },
     {
         "attraction_name": "Meadow Cooking School By Red Dragon",
@@ -549,7 +1303,301 @@
             "https://www.tripadvisor.com/Attraction_Review-g1450344-d1807424-Reviews-San_Kamphaeng_Hot_Springs-Mae_On.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d12804452-Reviews-or50-Meadow_Cooking_School_By_Red_Dragon-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12804452-Reviews-or40-Meadow_Cooking_School_By_Red_Dragon-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12804452-Reviews-or40-Meadow_Cooking_School_By_Red_Dragon-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nguyên liệu": 0.7473069874395151,
+            "nhà hàng": 0.6868845727294683,
+            "món ăn": 0.42842166878809057,
+            "công thức nấu ăn": 0.5500281737186015,
+            "đầu bếp giỏi": 0.5,
+            "giáo viên": 0.829210419615265,
+            "sản phẩm": 0.7386064091018245,
+            "đầu bếp": 0.8902897712192498,
+            "lớp học nấu ăn": 0.7488653025900324,
+            "trường": 0.299110003572423,
+            "chợ địa phương": 0.9869869262911379,
+            "đồ ăn": 0.9947677592863329,
+            "gà xiên": 0.8737691454589367,
+            "phở bò -": 0.8737691454589367,
+            "cá ngừ mè": 0.8737691454589367,
+            "bữa ăn": 0.9955641661654226,
+            "gà sả": 0.994714661152102,
+            "đầu bếp ngôi sao": 0.9955086061381735,
+            "trường dạy nấu ăn": 0.9737161728553474,
+            "hương vị": 0.9866117918281816,
+            "món phở cổ": 0.8737691454589367,
+            "sữa chua": -0.23420769744552672,
+            "độ": 0.9823178087826818,
+            "trang web": 0.9934456954943016,
+            "bữa tối": 0.9955037566251121,
+            "buổi sáng": 0.9954553721472621,
+            "ẩm thực việt": 0.9954146746313199,
+            "ăn chay": 0.6719064824283123,
+            "mặt hàng": 0.5,
+            "mẹo": 0.5,
+            "bảo quản": 0.5,
+            "hội an": 0.8737691454589367,
+            "chủ nhà": 0.9955978785292245,
+            "trải nghiệm": 0.5158321931958199,
+            "trường giảng dạy": 0.3711979202926159,
+            "thuyền": 0.5,
+            "xe đạp": 0.5,
+            "thức ăn": 0.6868845727294683,
+            "lớp học": 0.18251425124860057,
+            "cá ngừ": -0.11197846685536206,
+            "áp": 0.5,
+            "chảo phở chả giò": 0.5,
+            "giá trị": 0.9954997191671282,
+            "đầu bếp tú": 0.9951041807071306,
+            "viên ngọc": 0.9860257639084011,
+            "kiến ​​thức nấu nướng": 0.7164322342723608,
+            "nhà hàng rồng": 0.8737691454589367,
+            "phở bò": 0.5258241500705481,
+            "loại": -0.9639580915682018,
+            "trái cây": -0.9682034200523049
+        },
+        "dicts_adj": {
+            "nguyên liệu": [
+                "ngon",
+                "tươi"
+            ],
+            "nhà hàng": [
+                "nhanh chóng"
+            ],
+            "món ăn": [
+                "khác",
+                "thực sự",
+                "nhiều",
+                "ngon",
+                "tươi",
+                "khác",
+                "khác",
+                "giống",
+                "khác",
+                "khác",
+                "tuyệt vời",
+                "hay",
+                "ngon",
+                "khác"
+            ],
+            "công thức nấu ăn": [
+                "chắc chắn"
+            ],
+            "đầu bếp giỏi": [],
+            "giáo viên": [
+                "giỏi",
+                "xuất sắc"
+            ],
+            "sản phẩm": [
+                "tốt",
+                "tuyệt vời",
+                "sâu sắc"
+            ],
+            "đầu bếp": [
+                "xuất sắc",
+                "xuất sắc",
+                "tuyệt vời",
+                "nhất"
+            ],
+            "lớp học nấu ăn": [
+                "thực sự",
+                "tuyệt vời",
+                "chắc",
+                "ngon",
+                "nhiều"
+            ],
+            "trường": [
+                "thực sự",
+                "vui",
+                "chắc chắn",
+                "giống"
+            ],
+            "chợ địa phương": [
+                "nhanh chóng"
+            ],
+            "đồ ăn": [
+                "nhanh chóng",
+                "đẹp",
+                "ngon"
+            ],
+            "gà xiên": [
+                "xanh",
+                "xoài",
+                "đen"
+            ],
+            "phở bò -": [
+                "xanh",
+                "xoài",
+                "đen"
+            ],
+            "cá ngừ mè": [
+                "xanh",
+                "xoài",
+                "đen"
+            ],
+            "bữa ăn": [
+                "ngon"
+            ],
+            "gà sả": [
+                "xanh"
+            ],
+            "đầu bếp ngôi sao": [
+                "tốt"
+            ],
+            "trường dạy nấu ăn": [
+                "tốt"
+            ],
+            "hương vị": [
+                "tuyệt vời",
+                "khác"
+            ],
+            "món phở cổ": [
+                "khác"
+            ],
+            "sữa chua": [
+                "nhiều"
+            ],
+            "độ": [
+                "tươi"
+            ],
+            "trang web": [
+                "thực sự",
+                "nhiều",
+                "dễ"
+            ],
+            "bữa tối": [
+                "tuyệt vời",
+                "đúng"
+            ],
+            "buổi sáng": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "ẩm thực việt": [],
+            "ăn chay": [
+                "khác"
+            ],
+            "mặt hàng": [],
+            "mẹo": [],
+            "bảo quản": [],
+            "hội an": [
+                "tốt",
+                "tuyệt vời",
+                "sâu sắc"
+            ],
+            "chủ nhà": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "thân mật"
+            ],
+            "trường giảng dạy": [
+                "thân mật"
+            ],
+            "thuyền": [],
+            "xe đạp": [],
+            "thức ăn": [
+                "đặc biệt",
+                "nhiều",
+                "nhiều",
+                "đáng giá",
+                "nhiều"
+            ],
+            "lớp học": [
+                "bất kỳ",
+                "bất kỳ",
+                "khác",
+                "nhiều",
+                "hơn",
+                "hơn"
+            ],
+            "cá ngừ": [
+                "đỏ",
+                "mù",
+                "tạt"
+            ],
+            "áp": [],
+            "chảo phở chả giò": [],
+            "giá trị": [
+                "tuyệt vời"
+            ],
+            "đầu bếp tú": [
+                "tuyệt vời"
+            ],
+            "viên ngọc": [
+                "chắc"
+            ],
+            "kiến ​​thức nấu nướng": [
+                "nhỏ"
+            ],
+            "nhà hàng rồng": [
+                "tuyệt vời",
+                "nhất"
+            ],
+            "phở bò": [
+                "đơn giản"
+            ],
+            "loại": [
+                "khác"
+            ],
+            "trái cây": [
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nguyên liệu": 2.0,
+            "nhà hàng": 1.0,
+            "món ăn": 4.5,
+            "công thức nấu ăn": 1.0,
+            "đầu bếp giỏi": 0.5,
+            "giáo viên": 1.5,
+            "sản phẩm": 1.0,
+            "đầu bếp": 2.5,
+            "lớp học nấu ăn": 2.5,
+            "trường": 1.5,
+            "chợ địa phương": 0.5,
+            "đồ ăn": 1.0,
+            "gà xiên": 0.5,
+            "phở bò -": 0.5,
+            "cá ngừ mè": 0.5,
+            "bữa ăn": 0.5,
+            "gà sả": 0.5,
+            "đầu bếp ngôi sao": 0.5,
+            "trường dạy nấu ăn": 0.5,
+            "hương vị": 0.5,
+            "món phở cổ": 0.5,
+            "sữa chua": 1.0,
+            "độ": 0.5,
+            "trang web": 0.5,
+            "bữa tối": 0.5,
+            "buổi sáng": 1.0,
+            "ẩm thực việt": 0.5,
+            "ăn chay": 0.5,
+            "mặt hàng": 0.5,
+            "mẹo": 0.5,
+            "bảo quản": 0.5,
+            "hội an": 0.5,
+            "chủ nhà": 0.5,
+            "trải nghiệm": 0.5,
+            "trường giảng dạy": 0.5,
+            "thuyền": 0.5,
+            "xe đạp": 0.5,
+            "thức ăn": 1.0,
+            "lớp học": 0.5,
+            "cá ngừ": 1.0,
+            "áp": 0.5,
+            "chảo phở chả giò": 0.5,
+            "giá trị": 0.5,
+            "đầu bếp tú": 0.5,
+            "viên ngọc": 0.5,
+            "kiến ​​thức nấu nướng": 0.5,
+            "nhà hàng rồng": 0.5,
+            "phở bò": 0.5,
+            "loại": 0.5,
+            "trái cây": 0.5
+        }
     },
     {
         "attraction_name": "Meadow Cooking School By Red Dragon",
@@ -660,7 +1708,184 @@
             "https://www.tripadvisor.com/Attraction_Review-g30155-d1574237-Reviews-Allen_Premium_Outlets-Allen_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d12804452-Reviews-or60-Meadow_Cooking_School_By_Red_Dragon-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12804452-Reviews-or50-Meadow_Cooking_School_By_Red_Dragon-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12804452-Reviews-or50-Meadow_Cooking_School_By_Red_Dragon-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "lớp học": 0.9948572986177169,
+            "khu": 0.5,
+            "chợ nông sản": 0.5,
+            "món ăn": 0.658267269958742,
+            "nhà hàng": 0.5040023928595474,
+            "lượng thức ăn": 0.8958219685591757,
+            "trải nghiệm": 0.8470897059887648,
+            "công thức nấu ăn": 0.9784063366532791,
+            "ẩm thực": 0.9947653483832255,
+            "buổi sáng": 0.9955712042283267,
+            "đầu bếp": 0.813227521115914,
+            "nhà hàng rồng": 0.8737691454589367,
+            "trường": 0.5,
+            "bữa ăn": 0.993576859269524,
+            "chuyến đi": 0.5,
+            "chuyến tham quan chợ": 0.5,
+            "giáo viên": 0.98602782265516,
+            "đồ ăn": 0.7477973461209331,
+            "lớp học nấu ăn": 0.9948974686849397,
+            "sở hữu": 0.9924331977963448,
+            "nguyên liệu": 0.9214029992508586,
+            "trái cây": 0.5,
+            "gia vị": 0.5,
+            "ẩm thực việt": 0.5,
+            "xoài": 0.9807217695051804,
+            "chả giò": 0.9670151604805142,
+            "gà nướng": 0.5,
+            "sả cá ngừ nướng mè đen": 0.5,
+            "bún bò": 0.5,
+            "hương vị": 0.8957488221203675,
+            "bầu không khí": 0.015952742425724864,
+            "thức ăn": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "lớp học": [],
+            "khu": [],
+            "chợ nông sản": [],
+            "món ăn": [
+                "tuyệt vời",
+                "nhiều",
+                "khác",
+                "thực sự",
+                "ngon",
+                "sang trọng"
+            ],
+            "nhà hàng": [
+                "ngon",
+                "sang trọng",
+                "khác"
+            ],
+            "lượng thức ăn": [
+                "riêng"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "đa dạng"
+            ],
+            "công thức nấu ăn": [
+                "nhanh chóng",
+                "tuyệt vời",
+                "xanh",
+                "dễ",
+                "ngon",
+                "tuyệt vời",
+                "đơn giản",
+                "ngon"
+            ],
+            "ẩm thực": [
+                "xa"
+            ],
+            "buổi sáng": [
+                "tuyệt vời"
+            ],
+            "đầu bếp": [
+                "thân thiện",
+                "thực sự",
+                "ngon",
+                "tuyệt vời"
+            ],
+            "nhà hàng rồng": [
+                "tuyệt vời"
+            ],
+            "trường": [],
+            "bữa ăn": [
+                "ngon",
+                "nổi bật"
+            ],
+            "chuyến đi": [],
+            "chuyến tham quan chợ": [],
+            "giáo viên": [
+                "giỏi",
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "lớp học nấu ăn": [
+                "tuyệt vời",
+                "vui",
+                "tuyệt đối"
+            ],
+            "sở hữu": [
+                "thân thiện"
+            ],
+            "nguyên liệu": [
+                "tươi",
+                "tươi ngon",
+                "nhất",
+                "tốt",
+                "nhất"
+            ],
+            "trái cây": [],
+            "gia vị": [],
+            "ẩm thực việt": [],
+            "xoài": [
+                "tươi"
+            ],
+            "chả giò": [
+                "tươi"
+            ],
+            "gà nướng": [],
+            "sả cá ngừ nướng mè đen": [],
+            "bún bò": [],
+            "hương vị": [
+                "thơm",
+                "ngon",
+                "tuyệt vời",
+                "sang trọng"
+            ],
+            "bầu không khí": [
+                "thoải mái",
+                "dễ chịu"
+            ],
+            "thức ăn": [
+                "tươi ngon",
+                "nhất",
+                "tốt",
+                "nhất"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "lớp học": 0.5,
+            "khu": 0.5,
+            "chợ nông sản": 0.5,
+            "món ăn": 4.5,
+            "nhà hàng": 2.0,
+            "lượng thức ăn": 0.5,
+            "trải nghiệm": 0.5,
+            "công thức nấu ăn": 2.0,
+            "ẩm thực": 0.5,
+            "buổi sáng": 0.5,
+            "đầu bếp": 2.5,
+            "nhà hàng rồng": 0.5,
+            "trường": 0.5,
+            "bữa ăn": 0.5,
+            "chuyến đi": 1.0,
+            "chuyến tham quan chợ": 0.5,
+            "giáo viên": 1.0,
+            "đồ ăn": 1.0,
+            "lớp học nấu ăn": 1.0,
+            "sở hữu": 0.5,
+            "nguyên liệu": 1.0,
+            "trái cây": 0.5,
+            "gia vị": 0.5,
+            "ẩm thực việt": 0.5,
+            "xoài": 0.5,
+            "chả giò": 0.5,
+            "gà nướng": 0.5,
+            "sả cá ngừ nướng mè đen": 0.5,
+            "bún bò": 0.5,
+            "hương vị": 1.0,
+            "bầu không khí": 0.5,
+            "thức ăn": 0.5
+        }
     },
     {
         "attraction_name": "Meadow Cooking School By Red Dragon",
@@ -766,6 +1991,163 @@
             "https://www.tripadvisor.com/Attraction_Review-g154943-d155845-Reviews-Robson_Street-Vancouver_British_Columbia.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12804452-Reviews-or60-Meadow_Cooking_School_By_Red_Dragon-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12804452-Reviews-or60-Meadow_Cooking_School_By_Red_Dragon-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quán rồng": 0.8695917511358857,
+            "món ăn": 0.8819157591060502,
+            "trường dạy nấu ăn": -0.9698348387610167,
+            "món": 0.9794546102639288,
+            "gà": 0.5554152745753527,
+            "sa tế": 0.48554443567991257,
+            "sả cá": 0.9744844678789377,
+            "phở bò chả giò": 0.9811313115060329,
+            "trái cây rau củ": 0.5490916911512613,
+            "gia vị": 0.5004877150058746,
+            "lớp học nấu ăn": 0.8766639566165395,
+            "đầu bếp": 0.993332375442454,
+            "trải nghiệm": 0.9951465823105536,
+            "đồ ăn": 0.22370712265061835,
+            "chuyến đi": 0.9955060224747285,
+            "chợ địa phương": 0.9951747722225264,
+            "nguyên liệu": 0.995569737337064,
+            "đầu bếp nguyên": 0.995527655875776,
+            "thực phẩm": 0.9655439609923633,
+            "chuyến thăm": 0.9600353641435504,
+            "nhà hàng": 0.5,
+            "buổi sáng": 0.9955413913121447,
+            "cá": 0.5,
+            "ngừ sa tế": 0.5,
+            "món tráng": 0.9940206406172365,
+            "công thức nấu ăn": 0.99460643180646
+        },
+        "dicts_adj": {
+            "quán rồng": [
+                "đỏ"
+            ],
+            "món ăn": [
+                "khác",
+                "ấn tượng",
+                "ngon",
+                "tuyệt vời",
+                "cùng",
+                "trực tiếp"
+            ],
+            "trường dạy nấu ăn": [
+                "khác"
+            ],
+            "món": [
+                "nhanh"
+            ],
+            "gà": [
+                "nhanh"
+            ],
+            "sa tế": [
+                "nhanh"
+            ],
+            "sả cá": [
+                "nhanh"
+            ],
+            "phở bò chả giò": [
+                "tươi"
+            ],
+            "trái cây rau củ": [
+                "khác"
+            ],
+            "gia vị": [
+                "khác"
+            ],
+            "lớp học nấu ăn": [
+                "khác",
+                "khác",
+                "đơn giản",
+                "tuyệt vời",
+                "TUYỆT VỜI",
+                "nhất",
+                "riêng",
+                "sẵn"
+            ],
+            "đầu bếp": [
+                "Rõ ràng",
+                "khác",
+                "gần",
+                "tuyệt vời",
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "nhỏ",
+                "thực tế",
+                "thú vị",
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "nhiều",
+                "tuyệt vời",
+                "nóng lòng"
+            ],
+            "chuyến đi": [
+                "tươi ngon"
+            ],
+            "chợ địa phương": [
+                "tươi ngon"
+            ],
+            "nguyên liệu": [
+                "tươi ngon"
+            ],
+            "đầu bếp nguyên": [
+                "tuyệt vời"
+            ],
+            "thực phẩm": [
+                "tuyệt vời",
+                "ngon"
+            ],
+            "chuyến thăm": [
+                "nhiều",
+                "khác"
+            ],
+            "nhà hàng": [],
+            "buổi sáng": [
+                "tuyệt vời",
+                "độc đáo"
+            ],
+            "cá": [],
+            "ngừ sa tế": [],
+            "món tráng": [
+                "ngon"
+            ],
+            "công thức nấu ăn": [
+                "mới"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quán rồng": 0.5,
+            "món ăn": 3.0,
+            "trường dạy nấu ăn": 0.5,
+            "món": 0.5,
+            "gà": 0.5,
+            "sa tế": 0.5,
+            "sả cá": 0.5,
+            "phở bò chả giò": 0.5,
+            "trái cây rau củ": 0.5,
+            "gia vị": 0.5,
+            "lớp học nấu ăn": 2.0,
+            "đầu bếp": 1.5,
+            "trải nghiệm": 1.5,
+            "đồ ăn": 1.5,
+            "chuyến đi": 0.5,
+            "chợ địa phương": 0.5,
+            "nguyên liệu": 0.5,
+            "đầu bếp nguyên": 0.5,
+            "thực phẩm": 1.0,
+            "chuyến thăm": 0.5,
+            "nhà hàng": 0.5,
+            "buổi sáng": 0.5,
+            "cá": 0.5,
+            "ngừ sa tế": 0.5,
+            "món tráng": 0.5,
+            "công thức nấu ăn": 0.5
+        }
     }
 ]
