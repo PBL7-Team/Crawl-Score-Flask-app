@@ -7,6 +7,7 @@ from difflib import SequenceMatcher
 from Crawler_Here.reading_info_attraction import read_html_attraction
 from Crawler_Here.reading_info_hotel import read_html_hotel
 from Crawler_Here.reading_info_restaurant import read_html_restaurant
+
 import time
 import random
 
@@ -243,8 +244,15 @@ def stop_crawl():
     global stop_flag
     stop_flag.set()
 
-# crawl_1_url(r"https://www.tripadvisor.com.vn/Attraction_Review-g298085-d5531576-Reviews-Lady_Buddha-Da_Nang.html")
-# read_html_attraction()
+def crawl_specific_place(url):
+    crawl_1_url(url)
+    new_links, location, url_next, _ = read_html_attraction()
+    for i in range(9):
+        crawl_1_url(url)
+        new_links, location, url_next, _ = read_html_attraction()
+        crawl_specific_place(url_next)
+
+# crawl_specific_place(r"https://www.tripadvisor.com/Attraction_Review-g298085-d7687457-Reviews-My_Khe_Beach-Da_Nang.html")
 
 # crawl_all()
 
