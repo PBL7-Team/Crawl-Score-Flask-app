@@ -5,9 +5,9 @@ import json
 
 def get_attraction_info(directory_path):
     absolute_path = os.path.abspath(directory_path)
-    return absolute_path
+    print(absolute_path)
     if not os.path.isdir(absolute_path):
-        return("Đường dẫn không tồn tại.")
+        print("Đường dẫn không tồn tại.")
         return {}
     
     attractions_dict = {}
