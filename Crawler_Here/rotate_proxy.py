@@ -1,5 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
+import pandas as pd
+import datetime
 import csv
 import os
 def get_free_proxies():
@@ -23,6 +25,12 @@ def get_free_proxies():
     
     return proxies[:8]
 
+def keep_only_header(file_path):
+    # Đọc file CSV vào DataFrame, chỉ đọc dòng đầu tiên làm header
+    df = pd.read_csv(file_path, nrows=0)
+    
+    # Lưu lại DataFrame chỉ chứa header vào file CSV
+    df.to_csv(file_path, index=False)
 
 def check_csv(filename='sampleproxies.csv'):
     
@@ -37,6 +45,13 @@ def check_csv(filename='sampleproxies.csv'):
         reader = csv.reader(csvfile)
         next(reader)  # Skip header row
         row_count = sum(1 for row in reader)
+
+    current_time = datetime.datetime.now()
+    file_mod_time = datetime.datetime.fromtimestamp(os.path.getmtime(file_path))
+    time_difference = current_time - file_mod_time
+
+    if time_difference >= datetime.timedelta(days=1):
+        keep_only_header(file_path)
 
     if row_count <= 1:
         write_proxies_to_csv()
