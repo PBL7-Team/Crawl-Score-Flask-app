@@ -106,7 +106,189 @@
             "https://www.tripadvisor.com/Attraction_Review-g40827-d198673-Reviews-Casco_Bay-Portland_Maine.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d6027960-Reviews-or10-29_Twenty_Nine_Hoi_an-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6027960-Reviews-29_Twenty_Nine_Hoi_an-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6027960-Reviews-29_Twenty_Nine_Hoi_an-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chất liệu": 0.9954005862819031,
+            "bộ": 0.9955045490060002,
+            "quần áo": 0.6309454071257884,
+            "dịch vụ": 0.23032388277351856,
+            "áo sơ mi": 0.11991777131333947,
+            "bộ vest": 0.9930098942713812,
+            "đường may": 0.21439624804770574,
+            "áo": 0.8006402011184642,
+            "và chất": 0.9954605685779825,
+            "thợ may": 0.9453393374336884,
+            "giá cả": 0.5,
+            "bộ vest váy": 0.8969102865085006,
+            "áo khoác": 0.9628680864504228,
+            "áo khoác mùa đông": 0.5076313726603985,
+            "cửa hàng": -0.20548957254504785,
+            "hàng quần": 0.9954841153812595,
+            "váy lụa": 0.9918758888961747,
+            "dịch vụ chất lượng": 0.5,
+            "bộ áo": 0.2745723709464073,
+            "họa tiết": -0.965835178270936,
+            "giao hàng": 0.3749184999614954,
+            "khóa kéo": 0.595672257244587,
+            "cánh tay": 0.5,
+            "lỏng lẻo": 0.5,
+            "chuyên gia cắt may": 0.5878696615497271,
+            "cửa": 0.060165457893162966,
+            "hàng bởi": 0.13677576277405024,
+            "áo dài": 0.9815958854742348
+        },
+        "dicts_adj": {
+            "chất liệu": [
+                "thân thiện",
+                "tốt"
+            ],
+            "bộ": [
+                "hài lòng",
+                "hài lòng"
+            ],
+            "quần áo": [
+                "hài lòng",
+                "muộn",
+                "riêng",
+                "hài lòng"
+            ],
+            "dịch vụ": [
+                "xuất sắc"
+            ],
+            "áo sơ mi": [
+                "đẹp",
+                "cao"
+            ],
+            "bộ vest": [
+                "đẹp"
+            ],
+            "đường may": [
+                "vừa vặn",
+                "tuyệt vời",
+                "cao"
+            ],
+            "áo": [
+                "sát",
+                "hài lòng"
+            ],
+            "và chất": [
+                "thực sự",
+                "khác",
+                "hài lòng"
+            ],
+            "thợ may": [
+                "tốt",
+                "khó",
+                "đẹp",
+                "tốt",
+                "tương tự",
+                "đặc biệt",
+                "độc đáo",
+                "chắc chắn"
+            ],
+            "giá cả": [],
+            "bộ vest váy": [
+                "tương tự"
+            ],
+            "áo khoác": [
+                "tương tự",
+                "khác",
+                "lạ"
+            ],
+            "áo khoác mùa đông": [
+                "tương tự"
+            ],
+            "cửa hàng": [
+                "nhiều",
+                "hơn",
+                "khác"
+            ],
+            "hàng quần": [
+                "tuyệt"
+            ],
+            "váy lụa": [
+                "hạnh phúc",
+                "hơn"
+            ],
+            "dịch vụ chất lượng": [],
+            "bộ áo": [
+                "thực sự",
+                "cuối cùng",
+                "đơn giản",
+                "sai lầm",
+                "đúng"
+            ],
+            "họa tiết": [
+                "khác"
+            ],
+            "giao hàng": [
+                "đắt",
+                "hơn",
+                "nhiều",
+                "hơn",
+                "nhiều",
+                "hơn",
+                "rẻ",
+                "hơn"
+            ],
+            "khóa kéo": [
+                "giống"
+            ],
+            "cánh tay": [],
+            "lỏng lẻo": [],
+            "chuyên gia cắt may": [
+                "đơn giản",
+                "sai lầm",
+                "đúng"
+            ],
+            "cửa": [
+                "độc đáo",
+                "hiện đại"
+            ],
+            "hàng bởi": [
+                "độc đáo",
+                "hiện đại"
+            ],
+            "áo dài": [
+                "hữu ích",
+                "sẵn sàng",
+                "lớn",
+                "khác thường",
+                "nhất"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chất liệu": 0.5,
+            "bộ": 1.0,
+            "quần áo": 1.5,
+            "dịch vụ": 0.5,
+            "áo sơ mi": 1.0,
+            "bộ vest": 0.5,
+            "đường may": 1.0,
+            "áo": 1.5,
+            "và chất": 0.5,
+            "thợ may": 1.0,
+            "giá cả": 1.0,
+            "bộ vest váy": 0.5,
+            "áo khoác": 0.5,
+            "áo khoác mùa đông": 0.5,
+            "cửa hàng": 1.0,
+            "hàng quần": 0.5,
+            "váy lụa": 0.5,
+            "dịch vụ chất lượng": 0.5,
+            "bộ áo": 0.5,
+            "họa tiết": 0.5,
+            "giao hàng": 0.5,
+            "khóa kéo": 0.5,
+            "cánh tay": 0.5,
+            "lỏng lẻo": 0.5,
+            "chuyên gia cắt may": 0.5,
+            "cửa": 0.5,
+            "hàng bởi": 0.5,
+            "áo dài": 0.5
+        }
     },
     {
         "attraction_name": "29 Twenty Nine  Hoi an",
@@ -204,6 +386,58 @@
             "https://www.tripadvisor.com/Attraction_Review-g41297-d103305-Reviews-Deep_Creek_Lake_State_Park-Oakland_Garrett_County_Maryland.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6027960-Reviews-or10-29_Twenty_Nine_Hoi_an-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6027960-Reviews-or10-29_Twenty_Nine_Hoi_an-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "áo sơ mi": 0.8445586308759326,
+            "nhân viên": 0.9937186770839617,
+            "quần áo": 0.5,
+            "cửa hàng": 0.7402193389134482,
+            "sản phẩm": 0.5,
+            "khách sạn": 0.5,
+            "áo": 0.9919090778566897,
+            "dịch vụ giá cả": 0.5,
+            "thợ may": -0.9560989425517619
+        },
+        "dicts_adj": {
+            "áo sơ mi": [
+                "tuyệt vời",
+                "hài lòng"
+            ],
+            "nhân viên": [
+                "hữu ích",
+                "tốt bụng"
+            ],
+            "quần áo": [],
+            "cửa hàng": [
+                "nhỏ",
+                "hữu ích"
+            ],
+            "sản phẩm": [],
+            "khách sạn": [],
+            "áo": [
+                "hài lòng",
+                "nhanh",
+                "khác",
+                "cùng"
+            ],
+            "dịch vụ giá cả": [],
+            "thợ may": [
+                "chắc chắn",
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "áo sơ mi": 1.5,
+            "nhân viên": 1.0,
+            "quần áo": 0.5,
+            "cửa hàng": 1.0,
+            "sản phẩm": 0.5,
+            "khách sạn": 0.5,
+            "áo": 0.5,
+            "dịch vụ giá cả": 0.5,
+            "thợ may": 0.5
+        }
     }
 ]

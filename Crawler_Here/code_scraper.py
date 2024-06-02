@@ -111,7 +111,7 @@ def check_review_page(link):
                 # Lấy chỉ số của "or" và loại bỏ chữ "or" để lấy số
                 number = part[2:]
                 # Kiểm tra số và trả về True nếu lớn hơn 100
-                return int(number) > 70
+                return int(number) > 90
     except:
         return True
     # Trả về False nếu không tìm thấy số lớn hơn 100

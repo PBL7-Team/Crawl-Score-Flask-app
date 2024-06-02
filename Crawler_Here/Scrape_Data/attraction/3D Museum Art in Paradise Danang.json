@@ -113,7 +113,96 @@
             "https://www.tripadvisor.com/Attraction_Review-g297415-d4799797-Reviews-Nanshan_Park-Shenzhen_Guangdong.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d12639177-Reviews-or10-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html",
-        "url": "https://www.tripadvisor.com.vn/Attraction_Review-g298085-d12639177-Reviews-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html"
+        "url": "https://www.tripadvisor.com.vn/Attraction_Review-g298085-d12639177-Reviews-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bảo tàng": 0.6576414215815021,
+            "mô hình": 0.5,
+            "đo -": 0.526620976626873,
+            "khu": 0.8737692451104522,
+            "cảng thọ": 0.8737692451104522,
+            "không gian": 0.356728978571482,
+            "bài trí": 0.9954301728284918,
+            "hình ảnh sống động": 0.9907679494936019,
+            "nhân viên": 0.9949514502077363,
+            "cho": 0.9788160701282322,
+            "bức tranh": 0.6191533710807562,
+            "phòng trong": 0.9930964750237763,
+            "điểm du lịch": 0.9955391317489557
+        },
+        "dicts_adj": {
+            "bảo tàng": [
+                "nhiều",
+                "rộng rãi",
+                "lớn lao",
+                "lớn",
+                "lớn lao",
+                "lớn",
+                "lớn lao",
+                "lớn",
+                "lớn lao",
+                "lớn"
+            ],
+            "mô hình": [],
+            "đo -": [],
+            "khu": [
+                "rộng rãi"
+            ],
+            "cảng thọ": [
+                "rộng rãi"
+            ],
+            "không gian": [
+                "rộng rãi",
+                "rộng",
+                "dễ dàng",
+                "đẹp",
+                "lung linh"
+            ],
+            "bài trí": [
+                "đẹp"
+            ],
+            "hình ảnh sống động": [],
+            "nhân viên": [
+                "nhiệt tình",
+                "vui vẻ",
+                "hợp lý",
+                "nhiều",
+                "thần thánh",
+                "chu đáo"
+            ],
+            "cho": [
+                "duy nhất",
+                "cao"
+            ],
+            "bức tranh": [
+                "rõ"
+            ],
+            "phòng trong": [
+                "Đa dạng",
+                "đẹpĐo"
+            ],
+            "điểm du lịch": [
+                "mới",
+                "đẹp",
+                "chắc chắn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bảo tàng": 6,
+            "mô hình": 1,
+            "đo -": 3,
+            "khu": 1,
+            "cảng thọ": 1,
+            "không gian": 2,
+            "bài trí": 1,
+            "hình ảnh sống động": 1,
+            "nhân viên": 3,
+            "cho": 1,
+            "bức tranh": 1,
+            "phòng trong": 1,
+            "điểm du lịch": 1
+        }
     },
     {
         "attraction_name": "3D Museum Art in Paradise Danang",
@@ -244,7 +333,140 @@
             "https://www.tripadvisor.com/Attraction_Review-g9856222-d7619192-Reviews-Nungnung_Waterfall-Nungnung_Bali.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d12639177-Reviews-or20-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d12639177-Reviews-or10-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d12639177-Reviews-or10-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bảo tàng": 0.6851263573367355,
+            "nghệ thuật": 0.4394103701536854,
+            "bảo tàng nghệ thuật": 0.8243347876414191,
+            "té nước": 0.3707881346344948,
+            "hội trường": 0.6645563235506415,
+            "chuyến đi": 0.9521523339208215,
+            "tác phẩm nghệ thuật": 0.9927162041033929,
+            "bức ảnh": 0.9894928293069825,
+            "mũi tên": 0.602564899250865,
+            "bức tranh": 0.9955221876152791,
+            "u ám": 0.21594819612801075,
+            "điện thoại di": 0.8737692451104522,
+            "nhà vệ sinh": 0.5,
+            "quán cà phê": 0.5,
+            "bữa tiệc": 0.5678466130048037,
+            "trải nghiệm": 0.9954097121177862,
+            "taxi grab": 0.8696305081248283,
+            "giá vé": 0.5226469449698925,
+            "quán": 0.42769303172826767,
+            "cà phê": 0.10355726443231106,
+            "đồ uống": 0.5,
+            "khái niệm": 0.9934384525986388,
+            "overprint": 0.5,
+            "quốc tế và": 0.5,
+            "vân": 0.5,
+            "kiều -nguyen": 0.5
+        },
+        "dicts_adj": {
+            "bảo tàng": [
+                "khác",
+                "vui",
+                "khác",
+                "rộng"
+            ],
+            "nghệ thuật": [
+                "phải"
+            ],
+            "bảo tàng nghệ thuật": [
+                "nặng trĩu",
+                "nhiều",
+                "vui"
+            ],
+            "té nước": [],
+            "hội trường": [
+                "khác"
+            ],
+            "chuyến đi": [
+                "gần"
+            ],
+            "tác phẩm nghệ thuật": [
+                "nhiều",
+                "vui",
+                "tương tác",
+                "nhiều",
+                "thực sự",
+                "nhiều",
+                "vui vẻ"
+            ],
+            "bức ảnh": [
+                "tuyệt vời",
+                "chắc chắn"
+            ],
+            "mũi tên": [
+                "chung"
+            ],
+            "bức tranh": [
+                "nhiều",
+                "đẹp"
+            ],
+            "u ám": [
+                "nhiều",
+                "giống"
+            ],
+            "điện thoại di": [
+                "tuyệt khi"
+            ],
+            "nhà vệ sinh": [],
+            "quán cà phê": [],
+            "bữa tiệc": [
+                "cùng"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "taxi grab": [],
+            "giá vé": [],
+            "quán": [
+                "nhỏ"
+            ],
+            "cà phê": [
+                "nhỏ"
+            ],
+            "đồ uống": [],
+            "khái niệm": [
+                "thông minh"
+            ],
+            "overprint": [],
+            "quốc tế và": [],
+            "vân": [],
+            "kiều -nguyen": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bảo tàng": 1.5,
+            "nghệ thuật": 1.5,
+            "bảo tàng nghệ thuật": 2,
+            "té nước": 1,
+            "hội trường": 1,
+            "chuyến đi": 1.5,
+            "tác phẩm nghệ thuật": 3.0,
+            "bức ảnh": 1.5,
+            "mũi tên": 1.5,
+            "bức tranh": 1.5,
+            "u ám": 1,
+            "điện thoại di": 1,
+            "nhà vệ sinh": 1,
+            "quán cà phê": 1,
+            "bữa tiệc": 1,
+            "trải nghiệm": 1.5,
+            "taxi grab": 1,
+            "giá vé": 0.5,
+            "quán": 0.5,
+            "cà phê": 0.5,
+            "đồ uống": 0.5,
+            "khái niệm": 0.5,
+            "overprint": 0.5,
+            "quốc tế và": 0.5,
+            "vân": 0.5,
+            "kiều -nguyen": 0.5
+        }
     },
     {
         "attraction_name": "3D Museum Art in Paradise Danang",
@@ -384,7 +606,56 @@
             "https://www.tripadvisor.com/Attraction_Review-g295424-d17406643-Reviews-Stay_Play-Dubai_Emirate_of_Dubai.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d12639177-Reviews-or30-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d12639177-Reviews-or20-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d12639177-Reviews-or20-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tác phẩm nghệ thuật": 0.9954389923950657,
+            "trải nghiệm": 0.9955702221098667,
+            "bảo tàng tranh": 0.5,
+            "đà nẵng": 0.5,
+            "bức ảnh": 0.9952116386266425,
+            "bảo tàng": 0.9950867061270401,
+            "nghệ thuật": 0.9955271519138478
+        },
+        "dicts_adj": {
+            "tác phẩm nghệ thuật": [
+                "tuyệt vời",
+                "nhiều",
+                "bát gạo",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "vui mừng",
+                "tuyệt vời",
+                "vui mừng",
+                "tuyệt vời",
+                "vui mừng"
+            ],
+            "bảo tàng tranh": [],
+            "đà nẵng": [],
+            "bức ảnh": [
+                "tuyệt vời"
+            ],
+            "bảo tàng": [
+                "tốt",
+                "tốt"
+            ],
+            "nghệ thuật": [
+                "thú vị",
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tác phẩm nghệ thuật": 0.5,
+            "trải nghiệm": 1.5,
+            "bảo tàng tranh": 2.0,
+            "đà nẵng": 2.0,
+            "bức ảnh": 0.5,
+            "bảo tàng": 0.5,
+            "nghệ thuật": 0.5
+        }
     },
     {
         "attraction_name": "3D Museum Art in Paradise Danang",
@@ -524,7 +795,80 @@
             "https://www.tripadvisor.com/Attraction_Review-g40827-d198681-Reviews-Jewel_Falls-Portland_Maine.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d12639177-Reviews-or40-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d12639177-Reviews-or30-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d12639177-Reviews-or30-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tòa nhà": 0.2955044060945511,
+            "trải nghiệm": 0.9955739063055565,
+            "bảo tàng tranh": 0.5,
+            "đà nẵng": 0.5,
+            "trí tưởng tượng": 0.5568953333422542,
+            "sinh vật biển": 0.6765287667512894,
+            "thế giới cổ tích": 0.7513338780845515,
+            "khu rừng nhiệt đới": 0.6585920180659741,
+            "ngôi mộ": 0.7799960390354196,
+            "xác ướp": 0.5037427127438908,
+            "điện thoại": 0.9123765835538507,
+            "tầng": 0.5773932700976729
+        },
+        "dicts_adj": {
+            "tòa nhà": [],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "vui mừng",
+                "tuyệt vời",
+                "vui mừng",
+                "tuyệt vời",
+                "vui mừng"
+            ],
+            "bảo tàng tranh": [],
+            "đà nẵng": [],
+            "trí tưởng tượng": [],
+            "sinh vật biển": [
+                "đa dạng",
+                "đủ"
+            ],
+            "thế giới cổ tích": [
+                "tuyệt vời",
+                "sâu"
+            ],
+            "khu rừng nhiệt đới": [
+                "bí ẩn",
+                "nổi tiếng",
+                "gần gũi"
+            ],
+            "ngôi mộ": [
+                "bí ẩn",
+                "nổi tiếng",
+                "gần gũi"
+            ],
+            "xác ướp": [
+                "bí ẩn",
+                "nổi tiếng",
+                "gần gũi"
+            ],
+            "điện thoại": [
+                "đầy"
+            ],
+            "tầng": [
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tòa nhà": 0.5,
+            "trải nghiệm": 1.5,
+            "bảo tàng tranh": 2.0,
+            "đà nẵng": 2.0,
+            "trí tưởng tượng": 0.5,
+            "sinh vật biển": 0.5,
+            "thế giới cổ tích": 0.5,
+            "khu rừng nhiệt đới": 0.5,
+            "ngôi mộ": 0.5,
+            "xác ướp": 0.5,
+            "điện thoại": 0.5,
+            "tầng": 0.5
+        }
     },
     {
         "attraction_name": "3D Museum Art in Paradise Danang",
@@ -650,7 +994,106 @@
             "https://www.tripadvisor.com/Attraction_Review-g293960-d21498710-Reviews-2f2f_Karting_Club-Islamabad_Islamabad_Capital_Territory.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d12639177-Reviews-or50-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d12639177-Reviews-or40-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d12639177-Reviews-or40-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "con phố": 0.5034689214080572,
+            "quán": 0.42769303172826767,
+            "cà phê": 0.10355726443231106,
+            "khuôn viên": 0.5,
+            "trải nghiệm": 0.9955782186152646,
+            "bảo tàng tranh": 0.5,
+            "đà nẵng": 0.5,
+            "art in": 0.5,
+            "tác phẩm nghệ thuật": 0.6452289849985391,
+            "bảo tàng": 0.6599312941543758,
+            "nơi giải trí nghệ": 0.9952391693368554,
+            "nghệ thuật": 0.8161228680983186,
+            "nhân viên": 0.5112741983806094,
+            "văn hóa": 0.9416659437119961,
+            "công viên vui": 0.2354433536529541,
+            "bảo tàng tượng": 0.5825260076671839,
+            "bức tranh treo tường": -0.043688058853149414
+        },
+        "dicts_adj": {
+            "con phố": [
+                "nhỏ"
+            ],
+            "quán": [
+                "nhỏ"
+            ],
+            "cà phê": [
+                "nhỏ"
+            ],
+            "khuôn viên": [],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "vui mừng",
+                "tuyệt vời",
+                "vui mừng",
+                "tuyệt vời",
+                "vui mừng",
+                "tuyệt vời",
+                "vui mừng"
+            ],
+            "bảo tàng tranh": [],
+            "đà nẵng": [],
+            "art in": [],
+            "tác phẩm nghệ thuật": [
+                "tuyệt vời",
+                "đẹp",
+                "lớn",
+                "hơn",
+                "nhiều",
+                "giống"
+            ],
+            "bảo tàng": [
+                "tuyệt vời"
+            ],
+            "nơi giải trí nghệ": [
+                "tuyệt vời"
+            ],
+            "nghệ thuật": [
+                "nhiều"
+            ],
+            "nhân viên": [
+                "nhiều",
+                "nhiều"
+            ],
+            "văn hóa": [
+                "thực sự",
+                "phải"
+            ],
+            "công viên vui": [
+                "ngớ",
+                "ngẩn"
+            ],
+            "bảo tàng tượng": [],
+            "bức tranh treo tường": [
+                "cơ bản",
+                "giống"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "con phố": 0.5,
+            "quán": 0.5,
+            "cà phê": 0.5,
+            "khuôn viên": 0.5,
+            "trải nghiệm": 2.0,
+            "bảo tàng tranh": 2.0,
+            "đà nẵng": 2.0,
+            "art in": 0.5,
+            "tác phẩm nghệ thuật": 1.0,
+            "bảo tàng": 1.0,
+            "nơi giải trí nghệ": 0.5,
+            "nghệ thuật": 0.5,
+            "nhân viên": 0.5,
+            "văn hóa": 0.5,
+            "công viên vui": 0.5,
+            "bảo tàng tượng": 0.5,
+            "bức tranh treo tường": 0.5
+        }
     },
     {
         "attraction_name": "3D Museum Art in Paradise Danang",
@@ -775,7 +1218,101 @@
             "https://www.tripadvisor.com/Attraction_Review-g60970-d6651025-Reviews-Wat_Lao_Buddhist_Temple-Murfreesboro_Tennessee.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d12639177-Reviews-or60-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d12639177-Reviews-or50-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d12639177-Reviews-or50-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bức": 0.9953049425384961,
+            "tranh tường": 0.9954361854470335,
+            "mất cảnh giác": 0.48388953506946564,
+            "tự": -0.9527737081516534,
+            "quán": 0.5333614349365234,
+            "cà phê": 0.9830752396956086,
+            "đồ uống": 0.9849340033251792,
+            "món ăn hàn quốc": 0.8737692451104522,
+            "bãi": 0.5,
+            "đậu xe": 0.5,
+            "bảo tàng tranh": 0.5,
+            "đà nẵng": 0.5,
+            "thế giới": 0.5070995166897774,
+            "trải nghiệm": 0.9955709818168543,
+            "vị trí": 0.9271870856173337,
+            "nhân viên": 0.6275639990344644,
+            "nghệ thuật đánh lừa": 0.9544148072600365,
+            "phòng": 0.6578392628580332,
+            "tác phẩm nghệ thuật": 0.9951091798720881
+        },
+        "dicts_adj": {
+            "bức": [
+                "tốt"
+            ],
+            "tranh tường": [
+                "tốt"
+            ],
+            "mất cảnh giác": [],
+            "tự": [],
+            "quán": [
+                "đơn giản"
+            ],
+            "cà phê": [
+                "đơn giản"
+            ],
+            "đồ uống": [
+                "đơn giản"
+            ],
+            "món ăn hàn quốc": [
+                "đơn giản"
+            ],
+            "bãi": [],
+            "đậu xe": [],
+            "bảo tàng tranh": [],
+            "đà nẵng": [],
+            "thế giới": [],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "vui mừng",
+                "tuyệt vời",
+                "vui mừng"
+            ],
+            "vị trí": [
+                "khôn ngoan",
+                "thực sự"
+            ],
+            "nhân viên": [],
+            "nghệ thuật đánh lừa": [
+                "tuyệt khi",
+                "thực sự",
+                "lớn",
+                "hơn"
+            ],
+            "phòng": [
+                "thực sự"
+            ],
+            "tác phẩm nghệ thuật": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bức": 0.5,
+            "tranh tường": 0.5,
+            "mất cảnh giác": 0.5,
+            "tự": 0.5,
+            "quán": 0.5,
+            "cà phê": 0.5,
+            "đồ uống": 0.5,
+            "món ăn hàn quốc": 0.5,
+            "bãi": 0.5,
+            "đậu xe": 0.5,
+            "bảo tàng tranh": 1.5,
+            "đà nẵng": 1.5,
+            "thế giới": 0.5,
+            "trải nghiệm": 1.0,
+            "vị trí": 0.5,
+            "nhân viên": 0.5,
+            "nghệ thuật đánh lừa": 0.5,
+            "phòng": 0.5,
+            "tác phẩm nghệ thuật": 0.5
+        }
     },
     {
         "attraction_name": "3D Museum Art in Paradise Danang",
@@ -915,7 +1452,98 @@
             "https://www.tripadvisor.com/Attraction_Review-g297706-d1541645-Reviews-Bogor_Botanical_Gardens-Bogor_West_Java_Java.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d12639177-Reviews-or70-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d12639177-Reviews-or60-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d12639177-Reviews-or60-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ảo ảnh nghệ": 0.9952449911506847,
+            "màn hình": 0.9527215612179134,
+            "khung cảnh": -0.14084770798217505,
+            "hình ảnh": 0.5,
+            "phông": 0.5,
+            "giày dép": 0.5009057614952326,
+            "trải nghiệm": 0.9955778731964529,
+            "bảo tàng tranh": 0.5,
+            "đà nẵng": 0.5,
+            "khách sạn": 0.9882397947367281,
+            "thiết bị": -0.6977091655135155,
+            "quán cà phê": 0.9580836454406381,
+            "quả xoài": 0.5,
+            "quả chanh": 0.5,
+            "bức tranh": 0.6457909606397152,
+            "người dân": 0.5148357469588518,
+            "tác phẩm": 0.9774687900207937
+        },
+        "dicts_adj": {
+            "ảo ảnh nghệ": [
+                "tuyệt vời",
+                "đầy"
+            ],
+            "màn hình": [
+                "tốt",
+                "thú vị",
+                "độc đáo",
+                "thú vị"
+            ],
+            "khung cảnh": [
+                "3D",
+                "khác"
+            ],
+            "hình ảnh": [],
+            "phông": [],
+            "giày dép": [],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "vui mừng",
+                "tuyệt vời",
+                "vui mừng",
+                "tuyệt vời",
+                "vui mừng",
+                "tuyệt vời",
+                "vui mừng"
+            ],
+            "bảo tàng tranh": [],
+            "đà nẵng": [],
+            "khách sạn": [
+                "thú vị",
+                "khoảng",
+                "lái xe"
+            ],
+            "thiết bị": [],
+            "quán cà phê": [
+                "tuyệt"
+            ],
+            "quả xoài": [],
+            "quả chanh": [],
+            "bức tranh": [
+                "nhiều"
+            ],
+            "người dân": [],
+            "tác phẩm": [
+                "xuất sắc",
+                "giống",
+                "thực"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ảo ảnh nghệ": 0.5,
+            "màn hình": 0.5,
+            "khung cảnh": 0.5,
+            "hình ảnh": 0.5,
+            "phông": 0.5,
+            "giày dép": 0.5,
+            "trải nghiệm": 2.0,
+            "bảo tàng tranh": 2.0,
+            "đà nẵng": 2.0,
+            "khách sạn": 0.5,
+            "thiết bị": 0.5,
+            "quán cà phê": 0.5,
+            "quả xoài": 0.5,
+            "quả chanh": 0.5,
+            "bức tranh": 0.5,
+            "người dân": 0.5,
+            "tác phẩm": 0.5
+        }
     },
     {
         "attraction_name": "3D Museum Art in Paradise Danang",
@@ -1055,6 +1683,121 @@
             "https://www.tripadvisor.com/Attraction_Review-g186338-d218013-Reviews-Marylebone-London_England.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d12639177-Reviews-or80-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d12639177-Reviews-or70-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d12639177-Reviews-or70-3D_Museum_Art_in_Paradise_Danang-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bảo tàng": 0.9947256844025105,
+            "tác phẩm nghệ thuật 3d": 0.9954389979830012,
+            "bảo tàng nghệ thuật đánh lừa thị giác": 0.5,
+            "đà nẵng": 0.5,
+            "chân máy": 0.5172231961041689,
+            "nhân viên": 0.9896051547839306,
+            "cử chỉ": -0.15472062362823635,
+            "trải nghiệm": 0.9751556220726343,
+            "tầng trưng bày": -0.24675955064594746,
+            "tác phẩm nghệ thuật": 0.6651750138456313,
+            "chú": 0.9924389295047149,
+            "nai": 0.9916858931537718,
+            "nhiếp ảnh gia": 0.5,
+            "chân": 0.4131969269365072,
+            "quán cà phê": 0.5108585860580206,
+            "đồ ăn": 0.5,
+            "đồ uống": 0.5,
+            "nghệ thuật": 0.5,
+            "nhân vật": 0.5,
+            "bảo tàng nghệ thuật": 0.5,
+            "art in": 0.9841672524344176,
+            "ống kính": 0.9891420912463218
+        },
+        "dicts_adj": {
+            "bảo tàng": [
+                "đầu tiên",
+                "tuyệt vời"
+            ],
+            "tác phẩm nghệ thuật 3d": [
+                "nhiều",
+                "thú vị"
+            ],
+            "bảo tàng nghệ thuật đánh lừa thị giác": [],
+            "đà nẵng": [],
+            "chân máy": [
+                "nhỏ"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "tuyệt vời"
+            ],
+            "cử chỉ": [
+                "tốt đẹp",
+                "chắc chắn"
+            ],
+            "trải nghiệm": [
+                "thú vị",
+                "hơn",
+                "thú vị",
+                "nhiều",
+                "tuyệt vời",
+                "vui mừng",
+                "tuyệt vời",
+                "vui mừng",
+                "vui mừng"
+            ],
+            "tầng trưng bày": [
+                "nhiều"
+            ],
+            "tác phẩm nghệ thuật": [
+                "đẹp",
+                "hấp dẫn"
+            ],
+            "chú": [
+                "thú vị",
+                "nhiều"
+            ],
+            "nai": [
+                "thú vị",
+                "nhiều"
+            ],
+            "nhiếp ảnh gia": [],
+            "chân": [
+                "nhỏ"
+            ],
+            "quán cà phê": [
+                "nhỏ"
+            ],
+            "đồ ăn": [],
+            "đồ uống": [],
+            "nghệ thuật": [],
+            "nhân vật": [],
+            "bảo tàng nghệ thuật": [],
+            "art in": [],
+            "ống kính": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bảo tàng": 0.5,
+            "tác phẩm nghệ thuật 3d": 0.5,
+            "bảo tàng nghệ thuật đánh lừa thị giác": 0.5,
+            "đà nẵng": 2.0,
+            "chân máy": 0.5,
+            "nhân viên": 0.5,
+            "cử chỉ": 0.5,
+            "trải nghiệm": 2.0,
+            "tầng trưng bày": 0.5,
+            "tác phẩm nghệ thuật": 1.5,
+            "chú": 0.5,
+            "nai": 0.5,
+            "nhiếp ảnh gia": 0.5,
+            "chân": 0.5,
+            "quán cà phê": 0.5,
+            "đồ ăn": 0.5,
+            "đồ uống": 0.5,
+            "nghệ thuật": 1.0,
+            "nhân vật": 1.0,
+            "bảo tàng nghệ thuật": 1.5,
+            "art in": 0.5,
+            "ống kính": 0.5
+        }
     }
 ]

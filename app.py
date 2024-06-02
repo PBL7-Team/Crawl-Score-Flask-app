@@ -66,7 +66,7 @@ def get_json_files():
     json_data = get_all_json_data()
     return jsonify(json_data)
 
-@app.route('/update-backlog', methods=['POST'])
+@app.route('/update-backlog', methods=['GET'])
 @require_api_key
 def update_backlog():
     last_updated, new_json_amount, updated_json_amount = update_csv_with_json_data()
@@ -76,7 +76,7 @@ def update_backlog():
         "updated_json_amount": updated_json_amount
     }), 200
 
-@app.route('/start-crawl', methods=['POST'])
+@app.route('/start-crawl', methods=['GET'])
 @require_api_key
 def start_crawl_route():
     global crawl_thread
@@ -90,7 +90,7 @@ def start_crawl_route():
     else:
         return jsonify({"message": "Crawler is already running."}), 400
 
-@app.route('/start-crawl-mode-2', methods=['POST'])
+@app.route('/start-crawl-mode-2', methods=['GET'])
 @require_api_key
 def start_crawl_mode_2_route():
     global crawl_thread_mode_2
@@ -116,7 +116,7 @@ def get_crawl_info():
     else:
         return jsonify({"message": "Crawler has not started."}), 200
 
-@app.route('/stop-crawl', methods=['POST'])
+@app.route('/stop-crawl', methods=['GET'])
 @require_api_key
 def stop_crawl_route():
     stop_crawl()
@@ -135,7 +135,7 @@ def stop_crawl_route():
         return jsonify({"message": "Crawler has not started."}), 200
 
 
-@app.route('/sentiment-caculate', methods=['POST'])
+@app.route('/sentiment-caculate', methods=['GET'])
 @require_api_key
 def sentiment_caculate():
     global sentiment_scoring_thread
@@ -154,7 +154,7 @@ def sentiment_caculate():
     # except Exception as e:
     #     return jsonify({"message": "Sentiment analysis failed to start! " + e}), 400
 
-@app.route('/update-sentiment-csv', methods=['POST'])
+@app.route('/update-sentiment-csv', methods=['GET'])
 @require_api_key
 def update_sentiment_csv():
     fully_updated_sentiment_csv()
@@ -223,6 +223,6 @@ def my_job():
 
 # bước 1.2: Crawl data bằng mode 2 (để cập nhật dữ liệu review từ địa điểm cũ)
 if __name__ == '__main__':
-    scheduler.init_app(app)
-    scheduler.start()
+    # scheduler.init_app(app)
+    # scheduler.start()
     app.run(host='localhost', port=8080)
