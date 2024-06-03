@@ -38,6 +38,8 @@ update_sentiment_thread = None
 
 clusing_thread = None
 
+content_base_thread = None
+
 def require_api_key(func):
     @wraps(func)
     def decorated_function(*args, **kwargs):
@@ -78,6 +80,24 @@ def update_sentiment_csv_thread():
 def update_clustring_thread():
     with app.app_context():
         export_synonyms_clusters()
+
+def caculate_content_base_thread():
+    with app.app_context():
+        get_new_contentbase_df()
+        print("Hoàn tất tiến trình trích content base !")
+
+@app.route('/caculate-content-base', methods=['GET'])
+@require_api_key
+def start_caculate_content_base_route():
+    global content_base_thread
+
+    if content_base_thread is None or not content_base_thread.is_alive():
+        content_base_thread = threading.Thread(target=caculate_content_base_thread)
+
+        content_base_thread.start()
+        return jsonify({"message": "Content base caculate started."}), 200
+    else:
+        return jsonify({"message": "Content base caculate is already running."}), 400
 
 @app.route('/json-files', methods=['GET'])
 @require_api_key
