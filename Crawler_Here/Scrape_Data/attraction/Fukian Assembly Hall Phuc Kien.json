@@ -107,7 +107,230 @@
             "https://www.tripadvisor.com/Attraction_Review-g608496-d1727783-Reviews-Balian_Beach-Tabanan_Bali.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-or10-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trung": 0.5915922233834863,
+            "tâm thị trấn": 0.9955314674880356,
+            "cửa hàng": 0.5,
+            "ngôi đền": 0.5,
+            "bữa ăn": 0.5,
+            "xổ số": 0.5,
+            "hội trường": 0.6625970478136358,
+            "người dân": 0.5,
+            "chai nhựa": -0.8477550433017313,
+            "khắp sàn": -0.2927809488028288,
+            "thức ăn": -0.5508288070559502,
+            "bàn ăn": -0.34284412302076817,
+            "bừa bộn": -0.9732989396434277,
+            "trang web": 0.995456142409239,
+            "bức tượng": 0.9954553754068911,
+            "tác phẩm nghệ thuật": 0.9953741364879534,
+            "chùa phúc kiến": 0.8737691454589367,
+            "trung tâm hội an": 0.8737691454589367,
+            "ngôi": 0.5,
+            "chùa thờ nữ thần biển": 0.5,
+            "tôn giáo tâm linh": 0.9884980709757656,
+            "kiến ​​trúc": 0.9335338599048555,
+            "cánh cổng": 0.9707460394129157,
+            "tích": 0.5,
+            "sân vườn": 0.5,
+            "điểm du lịch": 0.9145720520755276,
+            "khu phố cổ": 0.8971580420766259,
+            "ngôi đền trang trí": 0.9360408154461766,
+            "kiến": 0.8737691454589367,
+            "đồ trang trí": 0.9954092904226854,
+            "đài phun nước": 0.993671769159846,
+            "ngôi nhà": 0.5340151730924845,
+            "hương thơm": 0.8737691454589367,
+            "bao": 0.5,
+            "gạo chất": 0.5,
+            "tòa nhà": 0.9954599589109421,
+            "làng minh": 0.48880656622350216,
+            "người nhập cư phúc": 0.5,
+            "hội": 0.5,
+            "quán phúc kiến": 0.5,
+            "thiên hậu": 0.8737691454589367,
+            "nữ thần biển": 0.9946716125705279,
+            "ngư dân": 0.9936826633056626,
+            "thủy thủ đi biển": 0.9938212138949893,
+            "chai nước khoáng": 0.6656564641743898,
+            "phương tiện giao thông": 0.5438029076904058,
+            "sân bay": 0.5,
+            "khách sạn hội an": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "trung": [
+                "gần"
+            ],
+            "tâm thị trấn": [
+                "gần"
+            ],
+            "cửa hàng": [],
+            "ngôi đền": [],
+            "bữa ăn": [],
+            "xổ số": [],
+            "hội trường": [
+                "nhỏ",
+                "thú vị"
+            ],
+            "người dân": [],
+            "chai nhựa": [
+                "cần thiết"
+            ],
+            "khắp sàn": [
+                "cần thiết"
+            ],
+            "thức ăn": [
+                "cần thiết"
+            ],
+            "bàn ăn": [
+                "cần thiết"
+            ],
+            "bừa bộn": [
+                "cần thiết"
+            ],
+            "trang web": [
+                "đẹp",
+                "tốt"
+            ],
+            "bức tượng": [
+                "tuyệt vời"
+            ],
+            "tác phẩm nghệ thuật": [
+                "tuyệt vời"
+            ],
+            "chùa phúc kiến": [
+                "chắc chắn"
+            ],
+            "trung tâm hội an": [
+                "chắc chắn"
+            ],
+            "ngôi": [],
+            "chùa thờ nữ thần biển": [],
+            "tôn giáo tâm linh": [],
+            "kiến ​​trúc": [
+                "tuyệt vời"
+            ],
+            "cánh cổng": [
+                "hơn"
+            ],
+            "tích": [],
+            "sân vườn": [],
+            "điểm du lịch": [
+                "nhỏ",
+                "thú vị"
+            ],
+            "khu phố cổ": [
+                "công phu",
+                "tuyệt khi",
+                "hối hả",
+                "nhộn nhịp"
+            ],
+            "ngôi đền trang trí": [
+                "công phu",
+                "tuyệt khi",
+                "hối hả",
+                "nhộn nhịp"
+            ],
+            "kiến": [
+                "đẹp"
+            ],
+            "đồ trang trí": [
+                "tuyệt vời"
+            ],
+            "đài phun nước": [
+                "đẹp"
+            ],
+            "ngôi nhà": [],
+            "hương thơm": [
+                "nhiều"
+            ],
+            "bao": [],
+            "gạo chất": [],
+            "tòa nhà": [
+                "đẹp"
+            ],
+            "làng minh": [
+                "Nhiều"
+            ],
+            "người nhập cư phúc": [],
+            "hội": [],
+            "quán phúc kiến": [],
+            "thiên hậu": [
+                "an toàn"
+            ],
+            "nữ thần biển": [
+                "an toàn"
+            ],
+            "ngư dân": [
+                "an toàn"
+            ],
+            "thủy thủ đi biển": [
+                "an toàn"
+            ],
+            "chai nước khoáng": [
+                "nóng"
+            ],
+            "phương tiện giao thông": [
+                "công cộng"
+            ],
+            "sân bay": [],
+            "khách sạn hội an": [
+                "công cộng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trung": 1.5,
+            "tâm thị trấn": 1.5,
+            "cửa hàng": 1.5,
+            "ngôi đền": 1.5,
+            "bữa ăn": 1.5,
+            "xổ số": 1.5,
+            "hội trường": 3.5,
+            "người dân": 1.5,
+            "chai nhựa": 1.5,
+            "khắp sàn": 1.5,
+            "thức ăn": 1.5,
+            "bàn ăn": 1.5,
+            "bừa bộn": 1.5,
+            "trang web": 1.5,
+            "bức tượng": 1.5,
+            "tác phẩm nghệ thuật": 1.5,
+            "chùa phúc kiến": 1.5,
+            "trung tâm hội an": 1.5,
+            "ngôi": 1.5,
+            "chùa thờ nữ thần biển": 1.5,
+            "tôn giáo tâm linh": 1.5,
+            "kiến ​​trúc": 1.5,
+            "cánh cổng": 1.5,
+            "tích": 1.5,
+            "sân vườn": 1.5,
+            "điểm du lịch": 1,
+            "khu phố cổ": 1,
+            "ngôi đền trang trí": 1,
+            "kiến": 1,
+            "đồ trang trí": 1,
+            "đài phun nước": 1,
+            "ngôi nhà": 1,
+            "hương thơm": 1,
+            "bao": 1,
+            "gạo chất": 1,
+            "tòa nhà": 1,
+            "làng minh": 1,
+            "người nhập cư phúc": 1,
+            "hội": 1,
+            "quán phúc kiến": 1,
+            "thiên hậu": 1,
+            "nữ thần biển": 1,
+            "ngư dân": 1,
+            "thủy thủ đi biển": 1,
+            "chai nước khoáng": 1,
+            "phương tiện giao thông": 1,
+            "sân bay": 1,
+            "khách sạn hội an": 1
+        }
     },
     {
         "attraction_name": "Fukian Assembly Hall (Phuc Kien)",
@@ -214,7 +437,125 @@
             "https://www.tripadvisor.com/Attraction_Review-g298453-d4277989-Reviews-Ace_Water_Spa-Pasig_Metro_Manila_Luzon.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-or20-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-or10-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-or10-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi dạo phố": 0.9812102753203362,
+            "bông hoa": 0.9954710820456967,
+            "cây cối": 0.9931285661878064,
+            "cảnh quan": 0.9955497484770603,
+            "cây nhang": -0.853942115791142,
+            "phức hợp": 0.7366599552333355,
+            "biểu tượng": 0.9872221982805058,
+            "bàn thờ": 0.47809518687427044,
+            "hương -": 0.9901898256503046,
+            "bức tượng rồng": 0.9905365079175681,
+            "thủy thủ": 0.7446454782038927,
+            "nhân viên": 0.9909238660475239,
+            "ngôi chùa": -0.23026639490853995,
+            "hội trường phật giáo": 0.5595434485003352,
+            "kiến trúc": 0.9952241234714165,
+            "nữ thần biển": 0.6373453736305237,
+            "cây bonsai": 0.991341095068492,
+            "tòa nhà": 0.5155737865716219,
+            "giờ ăn": 0.33513697795569897,
+            "chuyến tham quan": 0.9870483386330307,
+            "điểm tham quan": -0.6507583204656839,
+            "ngôi đền": -0.9524424057453871,
+            "chuyến đi": 0.5
+        },
+        "dicts_adj": {
+            "chuyến đi dạo phố": [],
+            "bông hoa": [
+                "đẹp"
+            ],
+            "cây cối": [
+                "đẹp"
+            ],
+            "cảnh quan": [
+                "đẹp"
+            ],
+            "cây nhang": [
+                "lớn"
+            ],
+            "phức hợp": [
+                "thanh thản"
+            ],
+            "biểu tượng": [
+                "nhiều"
+            ],
+            "bàn thờ": [
+                "Sâu"
+            ],
+            "hương -": [
+                "cổ",
+                "tốt",
+                "sạch sẽ",
+                "nhiều",
+                "khắp"
+            ],
+            "bức tượng rồng": [
+                "mờ",
+                "giống",
+                "đẹp"
+            ],
+            "thủy thủ": [],
+            "nhân viên": [
+                "tốt",
+                "tuyệt vời"
+            ],
+            "ngôi chùa": [
+                "khác",
+                "khác"
+            ],
+            "hội trường phật giáo": [],
+            "kiến trúc": [
+                "đẹp"
+            ],
+            "nữ thần biển": [
+                "hài lòng"
+            ],
+            "cây bonsai": [],
+            "tòa nhà": [
+                "số ít"
+            ],
+            "giờ ăn": [],
+            "chuyến tham quan": [],
+            "điểm tham quan": [
+                "khác",
+                "suốt"
+            ],
+            "ngôi đền": [
+                "đẹp"
+            ],
+            "chuyến đi": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi dạo phố": 1,
+            "bông hoa": 1,
+            "cây cối": 1,
+            "cảnh quan": 1,
+            "cây nhang": 1,
+            "phức hợp": 1,
+            "biểu tượng": 1,
+            "bàn thờ": 1,
+            "hương -": 1,
+            "bức tượng rồng": 1,
+            "thủy thủ": 1,
+            "nhân viên": 1,
+            "ngôi chùa": 2,
+            "hội trường phật giáo": 1,
+            "kiến trúc": 1,
+            "nữ thần biển": 1,
+            "cây bonsai": 1,
+            "tòa nhà": 1,
+            "giờ ăn": 1,
+            "chuyến tham quan": 1,
+            "điểm tham quan": 1,
+            "ngôi đền": 1,
+            "chuyến đi": 1
+        }
     },
     {
         "attraction_name": "Fukian Assembly Hall (Phuc Kien)",
@@ -322,7 +663,218 @@
             "https://www.tripadvisor.com/Attraction_Review-g189934-d245527-Reviews-Linnanmaki_Amusement_Park-Helsinki_Uusimaa.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-or30-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-or20-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-or20-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khu phố cổ": 0.9507311526685953,
+            "lịch sử": 0.9854798138840124,
+            "hội quán": 0.9951788566540927,
+            "người hoa phúc kiến": 0.8737691454589367,
+            "phố cổ": 0.5,
+            "bảo quản": 0.9935278426273726,
+            "ngôi": 0.9952670410275459,
+            "nhà buôn": 0.9952617012313567,
+            "hội trường trang trí": 0.8737691454589367,
+            "sân vườn": 0.9927884031785652,
+            "cánh cổng": 0.6615993247445052,
+            "chú cá vàng": 0.5579592185094953,
+            "khu phức hợp": 0.5,
+            "trung": 0.9852378034847789,
+            "tâm phố cổ": 0.8737691454589367,
+            "nữ": 0.5,
+            "thần biển cả": 0.5,
+            "thủy thủ": 0.5,
+            "quán phúc kiến": 0.8737691454589367,
+            "cổng sân": 0.5,
+            "tòa nhà": 0.46971826534718275,
+            "ao hồ": 0.5,
+            "nhân vật": 0.8131032035453245,
+            "tác phẩm nghệ thuật": 0.5,
+            "di sản thế": 0.9817681508138776,
+            "ngôi chùa": 0.955794028006494,
+            "thị trấn": -0.45942240953445435,
+            "hội trường": 0.5877511721191695,
+            "cư dân phúc": 0.5,
+            "ngôi đền thờ thiên hậu nữ thần biển": 0.5,
+            "thiên": 0.5730221662670374,
+            "lịch sử kiến ​​trúc tôn giáo": 0.9948397063999437,
+            "bức tượng động vật": 0.5,
+            "bức": 0.5,
+            "tranh tác phẩm điêu": 0.5,
+            "bữa trưa": 0.9954956148867495,
+            "hội": 0.8737691454589367,
+            "doanh nhân": 0.5528292842209339,
+            "vòng": -0.8132038032636046,
+            "tượng chuông": 0.20381729863584042,
+            "đài phun nước": 0.5,
+            "bức chạm": 0.5,
+            "ngôi đền": 0.9463096163235605,
+            "nữ thần biển": 0.5,
+            "điểm dừng": 0.5,
+            "old town": 0.5
+        },
+        "dicts_adj": {
+            "khu phố cổ": [
+                "nhiều"
+            ],
+            "lịch sử": [
+                "Giàu",
+                "nhiều",
+                "tốt"
+            ],
+            "hội quán": [
+                "đẹp",
+                "hoành tráng"
+            ],
+            "người hoa phúc kiến": [
+                "đẹp",
+                "hoành tráng"
+            ],
+            "phố cổ": [],
+            "bảo quản": [
+                "tốt"
+            ],
+            "ngôi": [
+                "xinh đẹp"
+            ],
+            "nhà buôn": [
+                "xinh đẹp"
+            ],
+            "hội trường trang trí": [
+                "công phu"
+            ],
+            "sân vườn": [
+                "đẹp"
+            ],
+            "cánh cổng": [
+                "lớn",
+                "công phu",
+                "chắc chắn"
+            ],
+            "chú cá vàng": [
+                "to lớn",
+                "lớn"
+            ],
+            "khu phức hợp": [],
+            "trung": [
+                "công phu",
+                "chắc chắn"
+            ],
+            "tâm phố cổ": [
+                "công phu",
+                "chắc chắn"
+            ],
+            "nữ": [],
+            "thần biển cả": [],
+            "thủy thủ": [],
+            "quán phúc kiến": [
+                "nổi tiếng",
+                "đầy",
+                "đẹp"
+            ],
+            "cổng sân": [],
+            "tòa nhà": [
+                "đầy"
+            ],
+            "ao hồ": [],
+            "nhân vật": [
+                "đẹp",
+                "cũ"
+            ],
+            "tác phẩm nghệ thuật": [],
+            "di sản thế": [],
+            "ngôi chùa": [],
+            "thị trấn": [],
+            "hội trường": [
+                "độc đáo",
+                "đẹp"
+            ],
+            "cư dân phúc": [],
+            "ngôi đền thờ thiên hậu nữ thần biển": [],
+            "thiên": [
+                "rộng rãi"
+            ],
+            "lịch sử kiến ​​trúc tôn giáo": [],
+            "bức tượng động vật": [],
+            "bức": [],
+            "tranh tác phẩm điêu": [],
+            "bữa trưa": [
+                "tuyệt vời"
+            ],
+            "hội": [
+                "đẹp"
+            ],
+            "doanh nhân": [
+                "đầu tiên",
+                "trầm"
+            ],
+            "vòng": [
+                "lớn"
+            ],
+            "tượng chuông": [
+                "trống"
+            ],
+            "đài phun nước": [],
+            "bức chạm": [],
+            "ngôi đền": [
+                "riêng"
+            ],
+            "nữ thần biển": [],
+            "điểm dừng": [],
+            "old town": []
+        },
+        "list_proper_noun": [
+            "hội quán phúc kiến",
+            "hội quán phúc kiến"
+        ],
+        "factor value": {
+            "khu phố cổ": 2,
+            "lịch sử": 2,
+            "hội quán": 2,
+            "người hoa phúc kiến": 1,
+            "phố cổ": 3,
+            "bảo quản": 1,
+            "ngôi": 1,
+            "nhà buôn": 1,
+            "hội trường trang trí": 1,
+            "sân vườn": 1,
+            "cánh cổng": 1.5,
+            "chú cá vàng": 1,
+            "khu phức hợp": 1,
+            "trung": 0.5,
+            "tâm phố cổ": 0.5,
+            "nữ": 0.5,
+            "thần biển cả": 0.5,
+            "thủy thủ": 1.0,
+            "quán phúc kiến": 1.0,
+            "cổng sân": 0.5,
+            "tòa nhà": 1.0,
+            "ao hồ": 0.5,
+            "nhân vật": 0.5,
+            "tác phẩm nghệ thuật": 1.0,
+            "di sản thế": 0.5,
+            "ngôi chùa": 0.5,
+            "thị trấn": 0.5,
+            "hội trường": 1.0,
+            "cư dân phúc": 0.5,
+            "ngôi đền thờ thiên hậu nữ thần biển": 0.5,
+            "thiên": 0.5,
+            "lịch sử kiến ​​trúc tôn giáo": 0.5,
+            "bức tượng động vật": 0.5,
+            "bức": 0.5,
+            "tranh tác phẩm điêu": 0.5,
+            "bữa trưa": 0.5,
+            "hội": 0.5,
+            "doanh nhân": 0.5,
+            "vòng": 0.5,
+            "tượng chuông": 0.5,
+            "đài phun nước": 0.5,
+            "bức chạm": 0.5,
+            "ngôi đền": 0.5,
+            "nữ thần biển": 0.5,
+            "điểm dừng": 0.5,
+            "old town": 0.5
+        }
     },
     {
         "attraction_name": "Fukian Assembly Hall (Phuc Kien)",
@@ -434,7 +986,208 @@
             "https://www.tripadvisor.com/Attraction_Review-g60898-d16744105-Reviews-Trap_Music_Museum-Atlanta_Georgia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-or40-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-or30-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-or30-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hội trường": 0.6592177674174309,
+            "doanh nhân phúc kiến": 0.5,
+            "phúc kiến": 0.564459178596735,
+            "cây nhang": -0.9699733273591846,
+            "không khí": 0.6838860015850514,
+            "phố cổ": 0.8737691454589367,
+            "chi": 0.9955617758678272,
+            "tòa nhà": 0.3449520676707228,
+            "khoảng sân": 0.810161337518366,
+            "cây cảnh": 0.7477092491656852,
+            "sảnh chính trần": -0.9737728395266458,
+            "hàng": -0.9745255033485591,
+            "tấn": -0.9749947879463434,
+            "hương": -0.9752360470592976,
+            "mùi": 0.5,
+            "ngôi chùa": 0.9279214515700005,
+            "địa điểm tham": 0.9955434827134013,
+            "lịch sử": 0.5,
+            "hành trình": 0.8359183327120263,
+            "người chian": 0.8737691454589367,
+            "bức tranh": -0.5842741311062127,
+            "con phố": 0.5,
+            "tòa nhà trang trí": 0.8531377741407292,
+            "khu vườn": 0.7630379878391977,
+            "quần thể": 0.994764609466074,
+            "tác phẩm nghệ thuật": 0.5,
+            "hướng dẫn viên du lịch": 0.9952396100852638,
+            "biểu tượng": 0.5,
+            "khu": 0.5,
+            "ngôi chùa phúc kiến truyền thống": 0.5199224352836609,
+            "cây cối": 0.5,
+            "quán phúc kiến": 0.5,
+            "di sản thế": 0.5,
+            "hội quán": 0.8737691454589367,
+            "thiên hậu phúc kiến": 0.8737691454589367,
+            "nữ thần biển cả": 0.5,
+            "đền": 0.5,
+            "thờ sinh sản": 0.5,
+            "đài phun nước": 0.5012746695429087
+        },
+        "dicts_adj": {
+            "hội trường": [],
+            "doanh nhân phúc kiến": [],
+            "phúc kiến": [],
+            "cây nhang": [
+                "nặng"
+            ],
+            "không khí": [
+                "nặng"
+            ],
+            "phố cổ": [
+                "đẹp",
+                "nhất",
+                "chắc chắn",
+                "xứng đáng"
+            ],
+            "chi": [
+                "đẹp"
+            ],
+            "tòa nhà": [
+                "đầy",
+                "đẹp",
+                "nhất",
+                "chắc chắn",
+                "công phu",
+                "tuyệt vời",
+                "công phu",
+                "tuyệt vời"
+            ],
+            "khoảng sân": [
+                "đầy",
+                "xinh xắn",
+                "tuyệt vời"
+            ],
+            "cây cảnh": [
+                "kỹ",
+                "hơn",
+                "đặc biệt"
+            ],
+            "sảnh chính trần": [
+                "nặng nề"
+            ],
+            "hàng": [
+                "từ từ"
+            ],
+            "tấn": [
+                "từ từ"
+            ],
+            "hương": [
+                "từ từ"
+            ],
+            "mùi": [],
+            "ngôi chùa": [
+                "thú vị",
+                "đẹp đẽ",
+                "lộng lẫy",
+                "công phu",
+                "tuyệt vời"
+            ],
+            "địa điểm tham": [
+                "nhiều",
+                "thú vị",
+                "xinh đẹp",
+                "đẹp",
+                "nhất"
+            ],
+            "lịch sử": [],
+            "hành trình": [
+                "đầy",
+                "nguy hiểm"
+            ],
+            "người chian": [
+                "nhiều"
+            ],
+            "bức tranh": [
+                "đầy",
+                "nguy hiểm"
+            ],
+            "con phố": [],
+            "tòa nhà trang trí": [
+                "công phu",
+                "xinh đẹp",
+                "tuyệt khi"
+            ],
+            "khu vườn": [
+                "nhỏ",
+                "xinh"
+            ],
+            "quần thể": [
+                "đẹp",
+                "nhiều"
+            ],
+            "tác phẩm nghệ thuật": [],
+            "hướng dẫn viên du lịch": [
+                "thực sự"
+            ],
+            "biểu tượng": [],
+            "khu": [],
+            "ngôi chùa phúc kiến truyền thống": [
+                "cũ"
+            ],
+            "cây cối": [],
+            "quán phúc kiến": [],
+            "di sản thế": [],
+            "hội quán": [
+                "riêng"
+            ],
+            "thiên hậu phúc kiến": [
+                "riêng"
+            ],
+            "nữ thần biển cả": [],
+            "đền": [],
+            "thờ sinh sản": [],
+            "đài phun nước": [
+                "khác thường"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hội trường": 1.0,
+            "doanh nhân phúc kiến": 0.5,
+            "phúc kiến": 0.5,
+            "cây nhang": 0.5,
+            "không khí": 1.0,
+            "phố cổ": 0.5,
+            "chi": 0.5,
+            "tòa nhà": 1.5,
+            "khoảng sân": 1.0,
+            "cây cảnh": 1.0,
+            "sảnh chính trần": 0.5,
+            "hàng": 0.5,
+            "tấn": 0.5,
+            "hương": 0.5,
+            "mùi": 0.5,
+            "ngôi chùa": 1.0,
+            "địa điểm tham": 0.5,
+            "lịch sử": 0.5,
+            "hành trình": 0.5,
+            "người chian": 0.5,
+            "bức tranh": 0.5,
+            "con phố": 0.5,
+            "tòa nhà trang trí": 0.5,
+            "khu vườn": 0.5,
+            "quần thể": 0.5,
+            "tác phẩm nghệ thuật": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "biểu tượng": 0.5,
+            "khu": 0.5,
+            "ngôi chùa phúc kiến truyền thống": 0.5,
+            "cây cối": 0.5,
+            "quán phúc kiến": 0.5,
+            "di sản thế": 0.5,
+            "hội quán": 0.5,
+            "thiên hậu phúc kiến": 0.5,
+            "nữ thần biển cả": 0.5,
+            "đền": 0.5,
+            "thờ sinh sản": 0.5,
+            "đài phun nước": 0.5
+        }
     },
     {
         "attraction_name": "Fukian Assembly Hall (Phuc Kien)",
@@ -546,7 +1299,97 @@
             "https://www.tripadvisor.com/Attraction_Review-g34176-d11843918-Reviews-Deerfield_Beach_Boardwalk-Deerfield_Beach_Broward_County_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-or50-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-or40-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-or40-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tòa nhà": 0.8737691454589367,
+            "văn hóa địa": 0.5,
+            "phố cổ": 0.7806792464107275,
+            "cây cảnh": 0.995484807761386,
+            "khu vườn": 0.5233289524912834,
+            "hồ bơi": 0.48715927079319954,
+            "chuyến tham quan": 0.5070415548980236,
+            "phố cổ hội an": 0.9504903112538159,
+            "ngôi đền": 0.8737691454589367,
+            "nữ thần biển": 0.5,
+            "chuyên gia": 0.5,
+            "kiến ​​trúc trung": 0.8737691454589367,
+            "di tích": 0.5,
+            "thiết kế nghệ thuật": 0.5,
+            "trang web": 0.9714502848219126,
+            "chàng trai": 0.99222009209916
+        },
+        "dicts_adj": {
+            "tòa nhà": [
+                "thú vị",
+                "hữu ích",
+                "sâu sắc",
+                "hữu ích"
+            ],
+            "văn hóa địa": [],
+            "phố cổ": [
+                "nhiều",
+                "duy nhất"
+            ],
+            "cây cảnh": [
+                "tuyệt vời"
+            ],
+            "khu vườn": [
+                "nhỏ"
+            ],
+            "hồ bơi": [
+                "nhỏ"
+            ],
+            "chuyến tham quan": [
+                "rõ"
+            ],
+            "phố cổ hội an": [
+                "tốt"
+            ],
+            "ngôi đền": [
+                "tốt"
+            ],
+            "nữ thần biển": [],
+            "chuyên gia": [],
+            "kiến ​​trúc trung": [
+                "phải"
+            ],
+            "di tích": [],
+            "thiết kế nghệ thuật": [],
+            "trang web": [
+                "tốt",
+                "hơn",
+                "nhiều",
+                "hơn",
+                "khác"
+            ],
+            "chàng trai": [
+                "khác",
+                "thú vị"
+            ]
+        },
+        "list_proper_noun": [
+            "hội quán phúc kiến",
+            "hội quán phúc"
+        ],
+        "factor value": {
+            "tòa nhà": 0.5,
+            "văn hóa địa": 0.5,
+            "phố cổ": 0.5,
+            "cây cảnh": 0.5,
+            "khu vườn": 0.5,
+            "hồ bơi": 0.5,
+            "chuyến tham quan": 0.5,
+            "phố cổ hội an": 0.5,
+            "ngôi đền": 0.5,
+            "nữ thần biển": 0.5,
+            "chuyên gia": 0.5,
+            "kiến ​​trúc trung": 0.5,
+            "di tích": 0.5,
+            "thiết kế nghệ thuật": 0.5,
+            "trang web": 0.5,
+            "chàng trai": 0.5
+        }
     },
     {
         "attraction_name": "Fukian Assembly Hall (Phuc Kien)",
@@ -654,7 +1497,116 @@
             "https://www.tripadvisor.com/Attraction_Review-g47087-d12661397-Reviews-La_Llorona_Park-Las_Cruces_New_Mexico.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-or60-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-or50-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-or50-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hội": 0.8737691454589367,
+            "quán phúc kiến - phúc kiến": 0.8737691454589367,
+            "kiến trúc": 0.9955065849353559,
+            "ngôi đền": 0.536240410991013,
+            "tòa nhà": -0.03571660242353877,
+            "đạp xe": 0.5368664348497987,
+            "kiến ​​trúc": 0.9603275978006423,
+            "hội trường": 0.9482471110823099,
+            "phòng": 0.5036782678216696,
+            "phố cổ hội an": 0.9707243333104998,
+            "ngôi chùa": 0.35922956550105783,
+            "sân": 0.8737691454589367,
+            "cây bonsai": 0.989536190056242,
+            "khu phức hợp": 0.8737691454589367,
+            "tòa nhà di sản": -0.9277187215629965,
+            "tòa nhà thời": 0.9936406232882291,
+            "không gian": 0.94773099408485,
+            "bức tường": 0.520719688385725
+        },
+        "dicts_adj": {
+            "hội": [
+                "đẹp"
+            ],
+            "quán phúc kiến - phúc kiến": [
+                "đẹp"
+            ],
+            "kiến trúc": [
+                "tuyệt vời"
+            ],
+            "ngôi đền": [
+                "bình thường",
+                "đủ",
+                "đầy đủ"
+            ],
+            "tòa nhà": [
+                "cổ",
+                "nhiều"
+            ],
+            "đạp xe": [
+                "cổ",
+                "nhiều"
+            ],
+            "kiến ​​trúc": [],
+            "hội trường": [
+                "lớn",
+                "hơn",
+                "nhất"
+            ],
+            "phòng": [],
+            "phố cổ hội an": [
+                "Chắc chắn",
+                "nổi bật"
+            ],
+            "ngôi chùa": [
+                "mới",
+                "cũ",
+                "xinh đẹp",
+                "cổ"
+            ],
+            "sân": [
+                "rộng"
+            ],
+            "cây bonsai": [
+                "đẹp"
+            ],
+            "khu phức hợp": [
+                "cũ"
+            ],
+            "tòa nhà di sản": [
+                "cũ"
+            ],
+            "tòa nhà thời": [
+                "cổ xưa",
+                "đẹp",
+                "tuyệt vời",
+                "hiện đại"
+            ],
+            "không gian": [
+                "rộng",
+                "rộng rãi"
+            ],
+            "bức tường": [
+                "nhiều",
+                "phức tạp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hội": 0.5,
+            "quán phúc kiến - phúc kiến": 0.5,
+            "kiến trúc": 0.5,
+            "ngôi đền": 0.5,
+            "tòa nhà": 0.5,
+            "đạp xe": 0.5,
+            "kiến ​​trúc": 0.5,
+            "hội trường": 1.0,
+            "phòng": 0.5,
+            "phố cổ hội an": 0.5,
+            "ngôi chùa": 1.5,
+            "sân": 0.5,
+            "cây bonsai": 0.5,
+            "khu phức hợp": 0.5,
+            "tòa nhà di sản": 0.5,
+            "tòa nhà thời": 0.5,
+            "không gian": 0.5,
+            "bức tường": 0.5
+        }
     },
     {
         "attraction_name": "Fukian Assembly Hall (Phuc Kien)",
@@ -762,7 +1714,179 @@
             "https://www.tripadvisor.com/Attraction_Review-g295414-d10286744-Reviews-Chunky_Monkey-Karachi_Sindh_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-or70-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-or60-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-or60-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi chùa": 0.9955536741472315,
+            "văn phòng du lịch": 0.5883226245641708,
+            "điểm tham quan": 0.9954097748268396,
+            "chuyến đi": 0.985836572246626,
+            "hội trường": 0.7634276920871343,
+            "phố cổ": 0.8284770927081505,
+            "thị trấn toe": 0.8737691454589367,
+            "kiến ​​trúc tác phẩm điêu": 0.5,
+            "hiện vật": 0.5,
+            "kiến -": 0.8737691454589367,
+            "công dân": 0.9832378542050719,
+            "người dân phúc kiến": 0.8737691454589367,
+            "tác phẩm nghệ thuật": 0.6993223273020703,
+            "khu phức hợp": 0.5,
+            "hội trường lắp ráp": 0.9717413843609393,
+            "bức tranh": 0.9935452265199274,
+            "khuôn viên": 0.5,
+            "kiến": 0.6785024702548981,
+            "bàn thờ": 0.5,
+            "tòa nhà": 0.7197161957155913,
+            "đồng người hoa": 0.8737691454589367,
+            "hội quán tỉnh": 0.9940832457505167,
+            "thị trấn": 0.7664301320910454,
+            "công trình xây": 0.5,
+            "sự kiện xã hội": 0.5,
+            "đống bao": 0.982086275704205,
+            "hướng dẫn viên du lịch": -0.9759282595477998,
+            "nghệ thuật": 0.8712437264621258,
+            "phúc kiến": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "ngôi chùa": [
+                "nhiều",
+                "đẹp",
+                "tốt",
+                "thích thú",
+                "tuyệt vời"
+            ],
+            "văn phòng du lịch": [
+                "nhiều"
+            ],
+            "điểm tham quan": [
+                "đáng giá"
+            ],
+            "chuyến đi": [
+                "hữu ích"
+            ],
+            "hội trường": [
+                "đẹp mắt",
+                "chắc chắn",
+                "khác",
+                "tệ",
+                "lớn",
+                "nhất",
+                "đẹp",
+                "nhất",
+                "đẹp",
+                "nhất",
+                "nhất",
+                "chăm chỉ",
+                "xinh xắn"
+            ],
+            "phố cổ": [
+                "lớn",
+                "hơn",
+                "hơn"
+            ],
+            "thị trấn toe": [
+                "cần thiết"
+            ],
+            "kiến ​​trúc tác phẩm điêu": [],
+            "hiện vật": [],
+            "kiến -": [
+                "hoàn toàn",
+                "khác",
+                "hoàn toàn",
+                "khác",
+                "hoàn toàn",
+                "khác",
+                "hoàn toàn",
+                "khác"
+            ],
+            "công dân": [
+                "Giống",
+                "rạng rỡ",
+                "đầy",
+                "tự hào"
+            ],
+            "người dân phúc kiến": [
+                "chăm chỉ"
+            ],
+            "tác phẩm nghệ thuật": [
+                "phức tạp",
+                "đẹp"
+            ],
+            "khu phức hợp": [],
+            "hội trường lắp ráp": [],
+            "bức tranh": [
+                "xinh xắn"
+            ],
+            "khuôn viên": [],
+            "kiến": [],
+            "bàn thờ": [],
+            "tòa nhà": [
+                "lớn"
+            ],
+            "đồng người hoa": [
+                "tốt"
+            ],
+            "hội quán tỉnh": [
+                "đẹp",
+                "nhất"
+            ],
+            "thị trấn": [
+                "phải",
+                "xinh đẹp"
+            ],
+            "công trình xây": [],
+            "sự kiện xã hội": [],
+            "đống bao": [
+                "khác"
+            ],
+            "hướng dẫn viên du lịch": [
+                "đông",
+                "ồn ào"
+            ],
+            "nghệ thuật": [
+                "khác"
+            ],
+            "phúc kiến": [
+                "đẹp",
+                "nhiều",
+                "đẹp",
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [
+            "hội quán phúc kiến"
+        ],
+        "factor value": {
+            "ngôi chùa": 1.0,
+            "văn phòng du lịch": 0.5,
+            "điểm tham quan": 0.5,
+            "chuyến đi": 0.5,
+            "hội trường": 1.5,
+            "phố cổ": 1.5,
+            "thị trấn toe": 0.5,
+            "kiến ​​trúc tác phẩm điêu": 0.5,
+            "hiện vật": 0.5,
+            "kiến -": 0.5,
+            "công dân": 0.5,
+            "người dân phúc kiến": 0.5,
+            "tác phẩm nghệ thuật": 0.5,
+            "khu phức hợp": 0.5,
+            "hội trường lắp ráp": 0.5,
+            "bức tranh": 0.5,
+            "khuôn viên": 0.5,
+            "kiến": 1.0,
+            "bàn thờ": 0.5,
+            "tòa nhà": 1.0,
+            "đồng người hoa": 0.5,
+            "hội quán tỉnh": 0.5,
+            "thị trấn": 0.5,
+            "công trình xây": 0.5,
+            "sự kiện xã hội": 0.5,
+            "đống bao": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "nghệ thuật": 0.5,
+            "phúc kiến": 0.5
+        }
     },
     {
         "attraction_name": "Fukian Assembly Hall (Phuc Kien)",
@@ -874,6 +1998,120 @@
             "https://www.tripadvisor.com/Attraction_Review-g147271-d9791266-Reviews-Buena_Vista_Social_Night-Havana_Ciudad_de_la_Habana_Province_Cuba.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-or80-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-or70-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d451145-Reviews-or70-Fukian_Assembly_Hall_Phuc_Kien-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cư dân phúc kiến": -0.9559595689643174,
+            "hội trường": 0.5,
+            "di sản văn hóa thế": 0.5,
+            "khuôn viên tượng": 0.8737691454589367,
+            "tranh tường": 0.9953847588039935,
+            "hội trường xã hội": 0.5173393376171589,
+            "ngôi đền thờ": 0.9335333993658423,
+            "thủy thủ": 0.7699960134923458,
+            "lễ vật": 0.9890532119316049,
+            "người dân địa phương": 0.5,
+            "ngôi chùa": 0.8529123800253728,
+            "cây hoa": 0.5,
+            "cảnh quan": 0.5,
+            "lịch sử": 0.5,
+            "hướng dẫn viên": 0.49712891317903996,
+            "kiến": 0.5,
+            "tôn giáo": 0.9539087521843612,
+            "ngôi đền": 0.9950643912598025,
+            "tác phẩm nghệ thuật": 0.9953308394178748,
+            "hương thơm": 0.9936385923065245,
+            "tòa nhà": 0.6574225030296171,
+            "cây cảnh": 0.8737691454589367,
+            "sân": 0.5
+        },
+        "dicts_adj": {
+            "cư dân phúc kiến": [],
+            "hội trường": [],
+            "di sản văn hóa thế": [],
+            "khuôn viên tượng": [
+                "tuyệt vời"
+            ],
+            "tranh tường": [
+                "tuyệt vời"
+            ],
+            "hội trường xã hội": [],
+            "ngôi đền thờ": [
+                "nguy hiểm"
+            ],
+            "thủy thủ": [
+                "nguy hiểm"
+            ],
+            "lễ vật": [
+                "đầy",
+                "phong phú"
+            ],
+            "người dân địa phương": [],
+            "ngôi chùa": [
+                "đầy",
+                "nhiều",
+                "muộn",
+                "tốt",
+                "đẹp"
+            ],
+            "cây hoa": [],
+            "cảnh quan": [],
+            "lịch sử": [],
+            "hướng dẫn viên": [
+                "nhiều"
+            ],
+            "kiến": [],
+            "tôn giáo": [],
+            "ngôi đền": [
+                "thú vị",
+                "chắc chắn",
+                "đẹp"
+            ],
+            "tác phẩm nghệ thuật": [
+                "nhiều",
+                "chắc chắn"
+            ],
+            "hương thơm": [
+                "nhiều"
+            ],
+            "tòa nhà": [
+                "công phu",
+                "nhất",
+                "cũ"
+            ],
+            "cây cảnh": [
+                "đẹp"
+            ],
+            "sân": []
+        },
+        "list_proper_noun": [
+            "hội quán phúc kiến",
+            "hội quán phúc kiến"
+        ],
+        "factor value": {
+            "cư dân phúc kiến": 0.5,
+            "hội trường": 0.5,
+            "di sản văn hóa thế": 0.5,
+            "khuôn viên tượng": 0.5,
+            "tranh tường": 0.5,
+            "hội trường xã hội": 0.5,
+            "ngôi đền thờ": 0.5,
+            "thủy thủ": 0.5,
+            "lễ vật": 0.5,
+            "người dân địa phương": 0.5,
+            "ngôi chùa": 2.0,
+            "cây hoa": 0.5,
+            "cảnh quan": 0.5,
+            "lịch sử": 1.0,
+            "hướng dẫn viên": 1.5,
+            "kiến": 0.5,
+            "tôn giáo": 0.5,
+            "ngôi đền": 1.0,
+            "tác phẩm nghệ thuật": 0.5,
+            "hương thơm": 0.5,
+            "tòa nhà": 0.5,
+            "cây cảnh": 0.5,
+            "sân": 0.5
+        }
     }
 ]

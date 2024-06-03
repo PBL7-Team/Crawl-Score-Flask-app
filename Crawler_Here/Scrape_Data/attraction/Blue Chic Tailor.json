@@ -126,7 +126,183 @@
             "https://www.tripadvisor.com/Attraction_Review-g34543-d15145623-Reviews-SkyWheel_Panama_City_Beach-Panama_City_Beach_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-or10-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.9633817380235996,
+            "bộ": 0.4662120722932741,
+            "vest áo blazer": 0.5261464919894934,
+            "áo sơ mi": -0.22243944043293595,
+            "địa điểm": -0.7102998709306121,
+            "chất liệu vải": 0.993598708223241,
+            "quần áo": 0.9374707291588291,
+            "trải nghiệm may": 0.9954309387831017,
+            "may quần áo": 0.9955187625600956,
+            "nhân viên": 0.5338687786716036,
+            "găng tay": 0.04012308828532696,
+            "bức ảnh": 0.4110766015946865,
+            "trải nghiệm": 0.9711209515458904,
+            "quần áo may đo": 0.9904378165956587,
+            "bộ áo liền": 0.9952526985434815,
+            "áo khoác": 0.7482646629214287,
+            "máy lạnh": -0.7540109734982252,
+            "đồ uống": 0.5,
+            "giá cả": 0.9143402229528874,
+            "quần lụa": 0.5,
+            "áo": 0.5,
+            "bộ vest": 0.5,
+            "quần short": 0.5,
+            "trang phục": 0.5,
+            "loại vải": 0.5,
+            "đường khâu": 0.9923508164938539,
+            "giá trị đồng tiền": 0.9870024139527231,
+            "thợ may": 0.8737691454589367,
+            "thị trấn": 0.5,
+            "bộ đồ": -0.9748570194933563
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "rực rỡ",
+                "nhanh",
+                "tốt",
+                "sẵn sàng",
+                "hoàn toàn",
+                "đặc biệt",
+                "nhanh chóng"
+            ],
+            "bộ": [
+                "nhỏ",
+                "đầu tiên",
+                "riêng",
+                "ấn tượng"
+            ],
+            "vest áo blazer": [
+                "nhỏ",
+                "đầu tiên"
+            ],
+            "áo sơ mi": [
+                "nhỏ",
+                "đầu tiên"
+            ],
+            "địa điểm": [
+                "nhiều",
+                "hơn"
+            ],
+            "chất liệu vải": [
+                "nhiệt tình",
+                "khác",
+                "ngoạn mục"
+            ],
+            "quần áo": [
+                "nhanh chóng",
+                "hài lòng",
+                "thực sự",
+                "riêng",
+                "ấn tượng",
+                "nhanh"
+            ],
+            "trải nghiệm may": [
+                "tuyệt vời"
+            ],
+            "may quần áo": [
+                "đầu tiên",
+                "nhanh chóng"
+            ],
+            "nhân viên": [
+                "chính xác",
+                "thân thiện",
+                "tốt",
+                "kỹ lưỡng",
+                "suốt"
+            ],
+            "găng tay": [
+                "vừa vặn"
+            ],
+            "bức ảnh": [
+                "nhiều",
+                "chính xác"
+            ],
+            "trải nghiệm": [
+                "thú vị",
+                "thực sự",
+                "thú vị",
+                "nhanh",
+                "tốt",
+                "tuyệt vời",
+                "tuyệt vời",
+                "hài lòng"
+            ],
+            "quần áo may đo": [
+                "thú vị"
+            ],
+            "bộ áo liền": [
+                "đặc biệt",
+                "vừa vặn",
+                "đẹp"
+            ],
+            "áo khoác": [],
+            "máy lạnh": [
+                "trong"
+            ],
+            "đồ uống": [],
+            "giá cả": [
+                "tuyệt vời",
+                "hợp lý",
+                "ngoạn mục"
+            ],
+            "quần lụa": [],
+            "áo": [],
+            "bộ vest": [],
+            "quần short": [],
+            "trang phục": [],
+            "loại vải": [],
+            "đường khâu": [
+                "tỉ mỉ"
+            ],
+            "giá trị đồng tiền": [
+                "trung bình",
+                "tuyệt vời"
+            ],
+            "thợ may": [
+                "giỏi",
+                "nhất"
+            ],
+            "thị trấn": [],
+            "bộ đồ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 4,
+            "bộ": 2,
+            "vest áo blazer": 1,
+            "áo sơ mi": 2,
+            "địa điểm": 1,
+            "chất liệu vải": 3,
+            "quần áo": 3,
+            "trải nghiệm may": 1,
+            "may quần áo": 1,
+            "nhân viên": 4,
+            "găng tay": 2,
+            "bức ảnh": 1,
+            "trải nghiệm": 5,
+            "quần áo may đo": 1,
+            "bộ áo liền": 1,
+            "áo khoác": 1,
+            "máy lạnh": 1,
+            "đồ uống": 1,
+            "giá cả": 3,
+            "quần lụa": 1,
+            "áo": 1,
+            "bộ vest": 1,
+            "quần short": 1,
+            "trang phục": 1,
+            "loại vải": 1,
+            "đường khâu": 1,
+            "giá trị đồng tiền": 1,
+            "thợ may": 2,
+            "thị trấn": 2,
+            "bộ đồ": 2
+        }
     },
     {
         "attraction_name": "Blue Chic Tailor",
@@ -256,7 +432,54 @@
             "https://www.tripadvisor.com/Attraction_Review-g303829-d554772-Reviews-Jama_Grotta_Baredine-Porec_Istria.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-or20-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-or10-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-or10-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.9955264872405678,
+            "giá cả": 0.9954539639293216,
+            "bộ": 0.4900298323482275,
+            "vest áo khoác": 0.47858683578670025,
+            "áo sơ mi": -0.9332661821972579,
+            "trải nghiệm": 0.9953151079049954,
+            "máy lạnh": 0.5,
+            "đồ uống": 0.8152663378665844
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "tốt",
+                "tuyệt vời",
+                "hợp lý"
+            ],
+            "bộ": [
+                "đầu tiên"
+            ],
+            "vest áo khoác": [
+                "đầu tiên"
+            ],
+            "áo sơ mi": [
+                "đầu tiên"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "máy lạnh": [],
+            "đồ uống": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 1,
+            "giá cả": 2,
+            "bộ": 1,
+            "vest áo khoác": 1,
+            "áo sơ mi": 1,
+            "trải nghiệm": 3,
+            "máy lạnh": 1,
+            "đồ uống": 3
+        }
     },
     {
         "attraction_name": "Blue Chic Tailor",
@@ -387,7 +610,55 @@
             "https://www.tripadvisor.com/Attraction_Review-g670337-d12922362-Reviews-Fun_Dunya-Gujranwala_Punjab_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-or30-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-or20-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-or20-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "áo sơ mi": -0.9750854120356962,
+            "quần vải": -0.8048310140147805,
+            "vải lanh": 0.9927331190556288,
+            "tay nghề": 0.9946961890091188,
+            "trang phục": 0.9955288409255445,
+            "may thủ công": 0.795958997681737,
+            "trải nghiệm": 0.994442705453063,
+            "nhà may": 0.5
+        },
+        "dicts_adj": {
+            "áo sơ mi": [
+                "thực sự"
+            ],
+            "quần vải": [
+                "thực sự"
+            ],
+            "vải lanh": [
+                "xuất sắc"
+            ],
+            "tay nghề": [
+                "xuất sắc"
+            ],
+            "trang phục": [
+                "xuất sắc"
+            ],
+            "may thủ công": [
+                "khéo léo"
+            ],
+            "trải nghiệm": [
+                "thực sự",
+                "thú vị",
+                "thực sự"
+            ],
+            "nhà may": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "áo sơ mi": 1.5,
+            "quần vải": 1.5,
+            "vải lanh": 1.5,
+            "tay nghề": 1.5,
+            "trang phục": 1.5,
+            "may thủ công": 1.5,
+            "trải nghiệm": 1.5,
+            "nhà may": 1.5
+        }
     },
     {
         "attraction_name": "Blue Chic Tailor",
@@ -520,7 +791,50 @@
             "https://www.tripadvisor.com/Attraction_Review-g34607-d8604740-Reviews-Jannus_Live-St_Petersburg_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-or40-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-or30-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-or30-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ": -0.9656796765048057,
+            "đồ da": -0.9766008073929697,
+            "nội thất": 0.5,
+            "quần": 0.5,
+            "áo vest": 0.5,
+            "rừng dừa": 0.5,
+            "bộ đồ": 0.9572125356644392,
+            "bộ vest": -0.9757428239099681,
+            "căn phòng": 0.9954043262987398
+        },
+        "dicts_adj": {
+            "bộ": [
+                "hoàn toàn"
+            ],
+            "đồ da": [
+                "hoàn toàn"
+            ],
+            "nội thất": [],
+            "quần": [],
+            "áo vest": [],
+            "rừng dừa": [],
+            "bộ đồ": [
+                "nhỏ"
+            ],
+            "bộ vest": [],
+            "căn phòng": [
+                "ngon"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ": 1.5,
+            "đồ da": 1.5,
+            "nội thất": 1.5,
+            "quần": 1.5,
+            "áo vest": 1.5,
+            "rừng dừa": 1.5,
+            "bộ đồ": 1.5,
+            "bộ vest": 1.5,
+            "căn phòng": 1.5
+        }
     },
     {
         "attraction_name": "Blue Chic Tailor",
@@ -651,7 +965,27 @@
             "https://www.tripadvisor.com/Attraction_Review-g187463-d4997613-Reviews-Tokio_Joes_R_B-Palma_de_Mallorca_Majorca_Balearic_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-or50-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-or40-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-or40-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "mặt hàng": 0.7321342305513099,
+            "dịch vụ": 0.994118198286742
+        },
+        "dicts_adj": {
+            "mặt hàng": [
+                "sang trọng",
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "chuyên nghiệp",
+                "nhanh chóng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "mặt hàng": 1.5,
+            "dịch vụ": 1.5
+        }
     },
     {
         "attraction_name": "Blue Chic Tailor",
@@ -784,7 +1118,69 @@
             "https://www.tripadvisor.com/Attraction_Review-g187337-d10471729-Reviews-LUXX_Lounge-Frankfurt_Hesse.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-or60-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-or50-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-or50-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ vest": 0.36048457024153324,
+            "áo sơ mi": 0.06398560672532767,
+            "quần short": 0.5,
+            "dịch vụ": 0.9955332959070802,
+            "trải nghiệm": 0.9952704424969852,
+            "cửa": 0.940248747530859,
+            "hàng may mặc": 0.7926237829960883,
+            "bộ lễ phục": 0.609695615246892,
+            "hàng": 0.5,
+            "hôn phu": 0.5,
+            "áo vest": 0.9934506309218705
+        },
+        "dicts_adj": {
+            "bộ vest": [
+                "tốt",
+                "hơn",
+                "giống"
+            ],
+            "áo sơ mi": [
+                "hơn"
+            ],
+            "quần short": [],
+            "dịch vụ": [
+                "tốt",
+                "sẵn sàng",
+                "vừa vặn"
+            ],
+            "trải nghiệm": [
+                "hài lòng",
+                "tuyệt vời"
+            ],
+            "cửa": [
+                "tốt",
+                "hơn"
+            ],
+            "hàng may mặc": [
+                "tốt",
+                "hơn"
+            ],
+            "bộ lễ phục": [],
+            "hàng": [],
+            "hôn phu": [],
+            "áo vest": [
+                "hoàn toàn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ vest": 2.5,
+            "áo sơ mi": 2.5,
+            "quần short": 1,
+            "dịch vụ": 1,
+            "trải nghiệm": 2.5,
+            "cửa": 1.5,
+            "hàng may mặc": 1.5,
+            "bộ lễ phục": 1.5,
+            "hàng": 1.5,
+            "hôn phu": 1.5,
+            "áo vest": 1.5
+        }
     },
     {
         "attraction_name": "Blue Chic Tailor",
@@ -917,7 +1313,53 @@
             "https://www.tripadvisor.com/Attraction_Review-g295424-d15215390-Reviews-Secret_Room-Dubai_Emirate_of_Dubai.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-or70-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-or60-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-or60-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "may đo quần áo": 0.993857124587521,
+            "nhân viên": 0.44658035412430763,
+            "đo quần áo": 0.5154672265052795,
+            "trải nghiệm": 0.9618465558742173,
+            "khách sạn": 0.9365610321983695,
+            "bộ": 0.9552874700166285,
+            "quần áo": 0.934268762357533
+        },
+        "dicts_adj": {
+            "may đo quần áo": [
+                "đầu tiên",
+                "nhanh chóng"
+            ],
+            "nhân viên": [
+                "chính xác"
+            ],
+            "đo quần áo": [
+                "thực sự"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "thực sự",
+                "hài lòng"
+            ],
+            "khách sạn": [],
+            "bộ": [
+                "cao"
+            ],
+            "quần áo": [
+                "cao",
+                "cao"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "may đo quần áo": 1,
+            "nhân viên": 1,
+            "đo quần áo": 1,
+            "trải nghiệm": 1.5,
+            "khách sạn": 1.5,
+            "bộ": 1.5,
+            "quần áo": 1.5
+        }
     },
     {
         "attraction_name": "Blue Chic Tailor",
@@ -1048,6 +1490,28 @@
             "https://www.tripadvisor.com/Attraction_Review-g56209-d1574245-Reviews-Luckenbach_Texas-Luckenbach_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-or80-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-or70-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15000385-Reviews-or70-Blue_Chic_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.995314500760287,
+            "bộ vest": 0.5,
+            "áo sơ mi": 0.5,
+            "túi vuông": 0.5
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "bộ vest": [],
+            "áo sơ mi": [],
+            "túi vuông": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 1.5,
+            "bộ vest": 1.5,
+            "áo sơ mi": 1.5,
+            "túi vuông": 1.5
+        }
     }
 ]

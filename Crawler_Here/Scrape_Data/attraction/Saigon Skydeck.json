@@ -95,6 +95,111 @@
             "https://www.tripadvisor.com/Attraction_Review-g612399-d2173108-Reviews-Xocomil-Retalhuleu_Retalhuleu_Department.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d21230453-Reviews-Saigon_Skydeck-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d21230453-Reviews-Saigon_Skydeck-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến thăm": 0.9954983533243649,
+            "chuyến tham quan": 0.5,
+            "hàng": 0.5,
+            "quầy bar": 0.41126203164458275,
+            "đài quan sát": 0.5930102728307247,
+            "khung cảnh": 0.9954537755693309,
+            "xe kéo": 0.9803803283721209,
+            "bức tường": 0.9927129207644612,
+            "sổ kính": -0.1344546489417553,
+            "dòng sông": -0.8867731643840671,
+            "quán": 0.9955903044901788,
+            "cà phê": 0.9956139462301508,
+            "nhà hàng": 0.9955799846793525,
+            "cửa hàng": 0.9955833420390263,
+            "trung tâm mua sắm": 0.5,
+            "triển lãm": 0.9700600845972076,
+            "chế độ": -0.918253040406853,
+            "chỗ ngồi": -0.018488303059712052,
+            "đồ uống": 0.5023136027157307,
+            "tòa nhà": -0.946450472343713
+        },
+        "dicts_adj": {
+            "chuyến thăm": [
+                "thú vị"
+            ],
+            "chuyến tham quan": [],
+            "hàng": [],
+            "quầy bar": [
+                "ít",
+                "vội vã",
+                "hơn"
+            ],
+            "đài quan sát": [
+                "ít",
+                "vội vã",
+                "hơn"
+            ],
+            "khung cảnh": [
+                "tuyệt vời"
+            ],
+            "xe kéo": [
+                "lạ hữu ích"
+            ],
+            "bức tường": [
+                "lạ hữu ích"
+            ],
+            "sổ kính": [
+                "duy nhất"
+            ],
+            "dòng sông": [
+                "bẩn",
+                "đặc biệt"
+            ],
+            "quán": [
+                "ngon"
+            ],
+            "cà phê": [
+                "ngon"
+            ],
+            "nhà hàng": [
+                "ngon"
+            ],
+            "cửa hàng": [
+                "ngon"
+            ],
+            "trung tâm mua sắm": [],
+            "triển lãm": [],
+            "chế độ": [],
+            "chỗ ngồi": [
+                "đúng",
+                "bất kỳ"
+            ],
+            "đồ uống": [
+                "khác",
+                "khác"
+            ],
+            "tòa nhà": [
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến thăm": 1.5,
+            "chuyến tham quan": 1.5,
+            "hàng": 1.5,
+            "quầy bar": 1.5,
+            "đài quan sát": 1.5,
+            "khung cảnh": 1.5,
+            "xe kéo": 1.5,
+            "bức tường": 1.5,
+            "sổ kính": 1.5,
+            "dòng sông": 1,
+            "quán": 1,
+            "cà phê": 1,
+            "nhà hàng": 1,
+            "cửa hàng": 1,
+            "trung tâm mua sắm": 1,
+            "triển lãm": 1,
+            "chế độ": 1,
+            "chỗ ngồi": 0.5,
+            "đồ uống": 0.5,
+            "tòa nhà": 0.5
+        }
     }
 ]

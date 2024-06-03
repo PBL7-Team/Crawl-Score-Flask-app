@@ -95,6 +95,35 @@
             "https://www.tripadvisor.com/Attraction_Review-g60834-d25016934-Reviews-Tse_Bighanilini_Tours-Page_Arizona.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d25365175-Reviews-The_Corner_Nail_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d25365175-Reviews-The_Corner_Nail_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ móng": 0.9936438794247806,
+            "móng tay": 0.8737691454589367,
+            "giá cả": 0.9345559530775063
+        },
+        "dicts_adj": {
+            "bộ móng": [
+                "đẹp",
+                "nhất",
+                "dài",
+                "tuyệt vời"
+            ],
+            "móng tay": [
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "tuyệt vời",
+                "tốt",
+                "nhẹ nhàng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ móng": 1.5,
+            "móng tay": 1,
+            "giá cả": 2
+        }
     }
 ]

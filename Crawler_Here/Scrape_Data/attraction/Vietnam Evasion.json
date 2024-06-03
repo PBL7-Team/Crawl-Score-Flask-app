@@ -85,7 +85,276 @@
             "https://www.tripadvisor.com/Attraction_Review-g35308-d1205061-Reviews-The_Rock_Ranch-The_Rock_Georgia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d10458978-Reviews-or10-Vietnam_Evasion-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d10458978-Reviews-Vietnam_Evasion-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d10458978-Reviews-Vietnam_Evasion-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.7349825848117083,
+            "chuyến tham quan": 0.8904384464646379,
+            "khách sạn": 0.42420481618804234,
+            "chuyến bay nội": -0.021152381940434378,
+            "mô tô": 0.9953230932005681,
+            "thuyền": 0.3069483955364881,
+            "du thuyền": 0.9946024144301191,
+            "khía cạnh": 0.8134138137102127,
+            "khía cạnh lịch sử văn hóa": 0.9400677168741822,
+            "chuyến du lịch": 0.9920347417937592,
+            "hành trình": 0.9954972013947554,
+            "sân bay": 0.5911672413349152,
+            "chuyến khởi hành": 0.6800301633775234,
+            "hướng dẫn viên": 0.7557226006008152,
+            "tài xế": 0.9949442278690791,
+            "chuyến đưa": 0.9878219033707865,
+            "công ty du lịch": -0.08886123076081276,
+            "trung tâm": 0.9792158626951277,
+            "điểm du lịch": 0.8738812170922756,
+            "sông mê kông": 0.9590417303843424,
+            "hồ lớn": -0.9745771875604987,
+            "nhà dân": -0.48731864616274834,
+            "khách sạn gia viễn": 0.8737691454589367,
+            "chuyến tàu đêm": -0.9677118256222457,
+            "thỉu tường chăn": -0.9748678796458989,
+            "toa ăn": -0.973619922529906,
+            "máy bay": 0.46574023365974426,
+            "phòng khách sạn": 0.6353947930037975,
+            "lớp du lịch": 0.5,
+            "đại lý": 0.8688282192160841,
+            "chuyến thăm": 0.8645438571693376,
+            "đất nước": 0.9955442630453035,
+            "dịch vụ": 0.990789994597435,
+            "trình độ tiếng": 0.9920158789609559,
+            "cảnh quan": 0.9954172065481544,
+            "chuyến du ngoạn": 0.8737691454589367,
+            "vịnh": 0.8737691454589367,
+            "cảnh quan thị trấn": 0.9953107008477673,
+            "thuyền thuyền": 0.5
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "tuyệt vời",
+                "khó",
+                "tuyệt vời",
+                "suôn sẻ",
+                "thường xuyên",
+                "trái ngược",
+                "khác",
+                "đẹp",
+                "tuyệt vời",
+                "cao"
+            ],
+            "chuyến tham quan": [
+                "nhanh chóng",
+                "tốt",
+                "ngắn",
+                "tuyệt vời",
+                "thoải mái"
+            ],
+            "khách sạn": [
+                "nhiều",
+                "thực sự",
+                "cao",
+                "tuyệt vời",
+                "gần",
+                "thoải mái",
+                "thuận tiện",
+                "đặc biệt",
+                "tốt",
+                "gần",
+                "thú vị"
+            ],
+            "chuyến bay nội": [
+                "nhiều",
+                "thực sự",
+                "cao"
+            ],
+            "mô tô": [
+                "tuyệt vời",
+                "thoải mái"
+            ],
+            "thuyền": [
+                "thú vị",
+                "tuyệt vời",
+                "đông đúc",
+                "thoải mái",
+                "ít",
+                "cao"
+            ],
+            "du thuyền": [
+                "đúng",
+                "nhiều",
+                "đẹp"
+            ],
+            "khía cạnh": [
+                "khắp",
+                "khác"
+            ],
+            "khía cạnh lịch sử văn hóa": [
+                "đặc biệt"
+            ],
+            "chuyến du lịch": [
+                "hoàn hảo",
+                "cùng",
+                "đầy"
+            ],
+            "hành trình": [
+                "tuyệt vời"
+            ],
+            "sân bay": [
+                "cuối cùng"
+            ],
+            "chuyến khởi hành": [
+                "cuối cùng"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "khác",
+                "tốt",
+                "đúng",
+                "nhanh",
+                "căng thẳng",
+                "hơn",
+                "tốt",
+                "cần thiết",
+                "nhiều",
+                "nhiều",
+                "đặc biệt",
+                "cùng",
+                "hoàn hảo",
+                "tốt",
+                "hữu ích"
+            ],
+            "tài xế": [
+                "tuyệt vời",
+                "tốt",
+                "đúng"
+            ],
+            "chuyến đưa": [
+                "tốt"
+            ],
+            "công ty du lịch": [
+                "khác",
+                "nhanh nhẹn"
+            ],
+            "trung tâm": [
+                "rõ",
+                "cụ thể",
+                "linh hoạt"
+            ],
+            "điểm du lịch": [
+                "phải",
+                "hơn"
+            ],
+            "sông mê kông": [
+                "nhiều",
+                "hơn",
+                "ít",
+                "hơn",
+                "đủ"
+            ],
+            "hồ lớn": [
+                "nâu",
+                "bẩn"
+            ],
+            "nhà dân": [
+                "nhiều"
+            ],
+            "khách sạn gia viễn": [
+                "gần"
+            ],
+            "chuyến tàu đêm": [],
+            "thỉu tường chăn": [
+                "lâu"
+            ],
+            "toa ăn": [
+                "ồn toa",
+                "bẩn"
+            ],
+            "máy bay": [
+                "hơn"
+            ],
+            "phòng khách sạn": [
+                "hơn"
+            ],
+            "lớp du lịch": [],
+            "đại lý": [
+                "Nghiêm túc",
+                "đầu tiên",
+                "e ngại",
+                "đặc biệt",
+                "hài lòng",
+                "chu đáo"
+            ],
+            "chuyến thăm": [
+                "cần thiết",
+                "nhiều",
+                "thú vị"
+            ],
+            "đất nước": [
+                "xinh đẹp"
+            ],
+            "dịch vụ": [],
+            "trình độ tiếng": [
+                "nhiều",
+                "đặc biệt",
+                "cùng"
+            ],
+            "cảnh quan": [
+                "hùng vĩ"
+            ],
+            "chuyến du ngoạn": [
+                "dễ chịu",
+                "tốt"
+            ],
+            "vịnh": [
+                "dễ chịu",
+                "tốt"
+            ],
+            "cảnh quan thị trấn": [
+                "thú vị"
+            ],
+            "thuyền thuyền": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 8.0,
+            "chuyến tham quan": 1.5,
+            "khách sạn": 6.0,
+            "chuyến bay nội": 1.5,
+            "mô tô": 1.5,
+            "thuyền": 4.5,
+            "du thuyền": 1.5,
+            "khía cạnh": 1,
+            "khía cạnh lịch sử văn hóa": 1,
+            "chuyến du lịch": 2,
+            "hành trình": 1,
+            "sân bay": 1,
+            "chuyến khởi hành": 1,
+            "hướng dẫn viên": 7.0,
+            "tài xế": 1.5,
+            "chuyến đưa": 1,
+            "công ty du lịch": 0.5,
+            "trung tâm": 0.5,
+            "điểm du lịch": 0.5,
+            "sông mê kông": 0.5,
+            "hồ lớn": 0.5,
+            "nhà dân": 0.5,
+            "khách sạn gia viễn": 0.5,
+            "chuyến tàu đêm": 0.5,
+            "thỉu tường chăn": 0.5,
+            "toa ăn": 0.5,
+            "máy bay": 0.5,
+            "phòng khách sạn": 0.5,
+            "lớp du lịch": 0.5,
+            "đại lý": 4,
+            "chuyến thăm": 2,
+            "đất nước": 2,
+            "dịch vụ": 2,
+            "trình độ tiếng": 2,
+            "cảnh quan": 2,
+            "chuyến du ngoạn": 2,
+            "vịnh": 2,
+            "cảnh quan thị trấn": 1,
+            "thuyền thuyền": 1
+        }
     },
     {
         "attraction_name": "Vietnam Evasion",
@@ -179,7 +448,173 @@
             "https://www.tripadvisor.com/Attraction_Review-g293916-d9582761-Reviews-Sing_Sing_Theater-Bangkok.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d10458978-Reviews-or20-Vietnam_Evasion-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d10458978-Reviews-or10-Vietnam_Evasion-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d10458978-Reviews-or10-Vietnam_Evasion-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.8384241421145442,
+            "chuyến đi khám phá đất nước": 0.9926207563839853,
+            "khách sạn": 0.7301312571798917,
+            "người dân": 0.6984197963029146,
+            "hướng dẫn viên": 0.6265087624451553,
+            "lịch sử phong tục đời sống": 0.994364142534323,
+            "dịch vụ": 0.9889138463477138,
+            "dịch vụ khách hàng": 0.9939891316462308,
+            "đồng tiền": 0.6279631704092026,
+            "kỳ nghỉ": 0.9954226528498111,
+            "tài xế": 0.18720803782343864,
+            "gian lưu trú": 0.9025740274228156,
+            "cơ quan trốn": 0.16620184294879436,
+            "chuyến du lịch": 0.9942966542439535,
+            "vịnh": 0.5,
+            "thuyền buồm": 0.5,
+            "vịnh lan": 0.5,
+            "trải nghiệm du lịch": 0.995179487625137,
+            "tài sản": 0.9947576450067572,
+            "đại lý": 0.9893479525344446,
+            "chuyến tham quan": 0.9518166841007769,
+            "lịch đại": 0.9616937208920717,
+            "nhà trọ": 0.6968084075022489,
+            "bữa ăn": 0.992038778756978,
+            "nhà dân": 0.9820924333762378,
+            "chuyến lưu diễn": 0.6199718853458762,
+            "chuyến tham": 0.9905087848892435,
+            "chuyến tàu giường nằm": 0.5,
+            "chuyến bay": 0.5
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "tuyệt vời",
+                "bất kỳ",
+                "tuyệt vời",
+                "bất kỳ",
+                "đặc biệt",
+                "hoàn hảo",
+                "tuyệt vời",
+                "chuyên nghiệp",
+                "hoàn hảo",
+                "bình thường",
+                "liên tục"
+            ],
+            "chuyến đi khám phá đất nước": [
+                "chu đáo"
+            ],
+            "khách sạn": [
+                "thoải mái",
+                "tốt"
+            ],
+            "người dân": [
+                "phong phú"
+            ],
+            "hướng dẫn viên": [
+                "tốt",
+                "thực sự",
+                "hài lòng",
+                "lớn lao",
+                "khác",
+                "tốt",
+                "chuyên nghiệp",
+                "dễ chịu",
+                "sẵn sàng",
+                "tối đa",
+                "chu đáo"
+            ],
+            "lịch sử phong tục đời sống": [
+                "thú vị"
+            ],
+            "dịch vụ": [
+                "hài lòng",
+                "chính xác"
+            ],
+            "dịch vụ khách hàng": [
+                "hài lòng"
+            ],
+            "đồng tiền": [
+                "tốt"
+            ],
+            "kỳ nghỉ": [
+                "riêng",
+                "tử tế",
+                "kỳ diệu"
+            ],
+            "tài xế": [
+                "khác"
+            ],
+            "gian lưu trú": [
+                "riêng"
+            ],
+            "cơ quan trốn": [],
+            "chuyến du lịch": [
+                "cẩn thận",
+                "tuyệt vời"
+            ],
+            "vịnh": [],
+            "thuyền buồm": [],
+            "vịnh lan": [],
+            "trải nghiệm du lịch": [
+                "đầu tiên",
+                "tuyệt vời"
+            ],
+            "tài sản": [
+                "quan trọng"
+            ],
+            "đại lý": [
+                "nhanh chóng",
+                "đầu tiên"
+            ],
+            "chuyến tham quan": [],
+            "lịch đại": [],
+            "nhà trọ": [
+                "tốt"
+            ],
+            "bữa ăn": [
+                "tuyệt vời",
+                "hơn"
+            ],
+            "nhà dân": [
+                "tuyệt vời",
+                "hơn"
+            ],
+            "chuyến lưu diễn": [
+                "cùng"
+            ],
+            "chuyến tham": [
+                "cùng"
+            ],
+            "chuyến tàu giường nằm": [],
+            "chuyến bay": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 8.5,
+            "chuyến đi khám phá đất nước": 1,
+            "khách sạn": 4.0,
+            "người dân": 1.5,
+            "hướng dẫn viên": 8.0,
+            "lịch sử phong tục đời sống": 1.5,
+            "dịch vụ": 2,
+            "dịch vụ khách hàng": 1,
+            "đồng tiền": 1,
+            "kỳ nghỉ": 3.0,
+            "tài xế": 1.5,
+            "gian lưu trú": 1,
+            "cơ quan trốn": 1.5,
+            "chuyến du lịch": 2,
+            "vịnh": 2.5,
+            "thuyền buồm": 1,
+            "vịnh lan": 1,
+            "trải nghiệm du lịch": 1.5,
+            "tài sản": 1.5,
+            "đại lý": 1,
+            "chuyến tham quan": 1,
+            "lịch đại": 1,
+            "nhà trọ": 2.5,
+            "bữa ăn": 1,
+            "nhà dân": 1,
+            "chuyến lưu diễn": 1,
+            "chuyến tham": 1,
+            "chuyến tàu giường nằm": 1.5,
+            "chuyến bay": 1.5
+        }
     },
     {
         "attraction_name": "Vietnam Evasion",
@@ -274,7 +709,158 @@
             "https://www.tripadvisor.com/Attraction_Review-g295424-d14800853-Reviews-Cora_Spa_Dubai-Dubai_Emirate_of_Dubai.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d10458978-Reviews-or30-Vietnam_Evasion-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d10458978-Reviews-or20-Vietnam_Evasion-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d10458978-Reviews-or20-Vietnam_Evasion-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên": 0.8123696569657315,
+            "ty du lịch": 0.9925662472378463,
+            "trung tâm": 0.9869793039979413,
+            "đất nước": 0.29154855854576456,
+            "chuyến đi": 0.9937558645411627,
+            "đại lý": 0.21883253157138824,
+            "hành trình": 0.9949229271383956,
+            "chuyến tham quan": 0.8878933094674721,
+            "phong cảnh": 0.9646653149684425,
+            "máy bay biểu diễn": 0.5,
+            "du thuyền": 0.5,
+            "du ngoạn": 0.5,
+            "ngũ": 0.8648827147844713,
+            "vì kỳ nghỉ": 0.992816666039289,
+            "kỳ nghỉ": 0.992422157083638,
+            "chuyến đi cá nhân": 0.9951549324032385,
+            "hướng dẫn viên vinh": 0.9951360453269444,
+            "tráng lệ": -0.057372381910681725,
+            "bẫy du lịch": 0.5,
+            "văn hóa địa": 0.5,
+            "vịnh lang-ha": 0.993316936888732,
+            "văn hóa": 0.5,
+            "lái xe": 0.9932975259725936,
+            "đo lường": 0.500102274119854,
+            "đường núi": 0.57764927088283
+        },
+        "dicts_adj": {
+            "hướng dẫn viên": [
+                "tốt bụng",
+                "chuyên nghiệp",
+                "đúng",
+                "chuyên nghiệp",
+                "đặc biệt",
+                "đúng",
+                "hoàn hảo",
+                "hoàn hảo",
+                "hoàn hảo",
+                "đơn giản"
+            ],
+            "ty du lịch": [],
+            "trung tâm": [],
+            "đất nước": [
+                "tuyệt vời",
+                "xa"
+            ],
+            "chuyến đi": [
+                "nhiều",
+                "đặc biệt",
+                "hơn",
+                "cùng",
+                "sẵn sàng",
+                "suốt",
+                "suốt",
+                "tuyệt vời",
+                "cụ thể"
+            ],
+            "đại lý": [
+                "thực sự",
+                "thân yêu"
+            ],
+            "hành trình": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "cụ thể"
+            ],
+            "phong cảnh": [
+                "tuyệt vời",
+                "đẹp",
+                "tuyệt vời",
+                "tối đa"
+            ],
+            "máy bay biểu diễn": [],
+            "du thuyền": [],
+            "du ngoạn": [],
+            "ngũ": [
+                "tuyệt vời",
+                "đầy",
+                "bất ngờ",
+                "thú vị"
+            ],
+            "vì kỳ nghỉ": [
+                "tuyệt vời",
+                "đầy",
+                "bất ngờ",
+                "thú vị"
+            ],
+            "kỳ nghỉ": [
+                "khó"
+            ],
+            "chuyến đi cá nhân": [
+                "tốt đẹp",
+                "cùng"
+            ],
+            "hướng dẫn viên vinh": [
+                "thân thiện",
+                "thú vị"
+            ],
+            "tráng lệ": [
+                "xa"
+            ],
+            "bẫy du lịch": [],
+            "văn hóa địa": [],
+            "vịnh lang-ha": [
+                "Đặc biệt",
+                "đông"
+            ],
+            "văn hóa": [],
+            "lái xe": [
+                "cẩn thận",
+                "kín đáo",
+                "nhỏ",
+                "tốt"
+            ],
+            "đo lường": [],
+            "đường núi": [
+                "nhỏ",
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên": 9.0,
+            "ty du lịch": 1,
+            "trung tâm": 1.5,
+            "đất nước": 2.5,
+            "chuyến đi": 5.0,
+            "đại lý": 2.5,
+            "hành trình": 2.5,
+            "chuyến tham quan": 3.0,
+            "phong cảnh": 4.0,
+            "máy bay biểu diễn": 1,
+            "du thuyền": 1,
+            "du ngoạn": 1,
+            "ngũ": 1,
+            "vì kỳ nghỉ": 1,
+            "kỳ nghỉ": 1.5,
+            "chuyến đi cá nhân": 3.0,
+            "hướng dẫn viên vinh": 1,
+            "tráng lệ": 1,
+            "bẫy du lịch": 1,
+            "văn hóa địa": 1,
+            "vịnh lang-ha": 1,
+            "văn hóa": 1.5,
+            "lái xe": 3.0,
+            "đo lường": 1.5,
+            "đường núi": 1.5
+        }
     },
     {
         "attraction_name": "Vietnam Evasion",
@@ -350,6 +936,140 @@
             "https://www.tripadvisor.com/Attraction_Review-g13808515-d2019764-Reviews-Elephant_Mountain_aka_Nangang_District_Hiking_Trail-Xinyi_District_Taipei.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d10458978-Reviews-or30-Vietnam_Evasion-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d10458978-Reviews-or30-Vietnam_Evasion-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "kỳ nghỉ": 0.9938985658664024,
+            "hướng dẫn viên": 0.6518927217402961,
+            "tài xế": 0.9937616944080219,
+            "văn hóa": -0.8754067169502378,
+            "thuyền xe đạp lớp học": 0.5,
+            "bộ": 0.5,
+            "câu cá mát-xa": 0.5,
+            "địa phương tham quan": 0.5,
+            "và lịch": 0.5,
+            "nhiều nhà": 0.5,
+            "-": 0.5,
+            "khách sạn": 0.9953912369091995,
+            "vị trí": 0.964884051354602,
+            "hồ bơi": 0.5,
+            "người dân": 0.747556695365347,
+            "dịch vụ": 0.9462288510985672,
+            "chuyến đi": 0.9245113519621857,
+            "trải nghiệm": 0.9474840362381656,
+            "khách sạn dịch vụ": 0.5,
+            "chuyến du ngoạn": 0.5,
+            "thuyền buồm": 0.8737691454589367,
+            "nhân viên": 0.9921010853722692,
+            "món ăn": 0.9954749430180527,
+            "mai châu": 0.5,
+            "nhà dân địa": 0.5,
+            "đồng bằng sông cửu long": 0.5,
+            "tour du lịch": 0.6564676780253649,
+            "bãi biển": 0.9949836091836914,
+            "cảnh quan": 0.09691611715243198
+        },
+        "dicts_adj": {
+            "kỳ nghỉ": [
+                "khó",
+                "chuyên nghiệp",
+                "hoàn hảo",
+                "hài lòng",
+                "hoàn toàn",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "ân cần",
+                "sẵn sàng",
+                "sáng suốt",
+                "tuyệt vời",
+                "đặc biệt"
+            ],
+            "tài xế": [
+                "ân cần"
+            ],
+            "văn hóa": [
+                "ân cần"
+            ],
+            "thuyền xe đạp lớp học": [],
+            "bộ": [],
+            "câu cá mát-xa": [],
+            "địa phương tham quan": [],
+            "và lịch": [],
+            "nhiều nhà": [],
+            "-": [],
+            "khách sạn": [
+                "đẹp"
+            ],
+            "vị trí": [
+                "thuận tiện"
+            ],
+            "hồ bơi": [],
+            "người dân": [],
+            "dịch vụ": [],
+            "chuyến đi": [
+                "đẹp",
+                "nhất",
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "đẹp",
+                "nhất"
+            ],
+            "khách sạn dịch vụ": [],
+            "chuyến du ngoạn": [],
+            "thuyền buồm": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "chu đáo"
+            ],
+            "món ăn": [
+                "tuyệt vời"
+            ],
+            "mai châu": [],
+            "nhà dân địa": [],
+            "đồng bằng sông cửu long": [],
+            "tour du lịch": [
+                "ông bà con"
+            ],
+            "bãi biển": [],
+            "cảnh quan": [
+                "ngoạn mục",
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "kỳ nghỉ": 4,
+            "hướng dẫn viên": 4,
+            "tài xế": 1,
+            "văn hóa": 1,
+            "thuyền xe đạp lớp học": 1,
+            "bộ": 1,
+            "câu cá mát-xa": 1,
+            "địa phương tham quan": 1,
+            "và lịch": 1,
+            "nhiều nhà": 1,
+            "-": 1,
+            "khách sạn": 1,
+            "vị trí": 1,
+            "hồ bơi": 1,
+            "người dân": 2,
+            "dịch vụ": 1,
+            "chuyến đi": 2,
+            "trải nghiệm": 1,
+            "khách sạn dịch vụ": 1,
+            "chuyến du ngoạn": 1,
+            "thuyền buồm": 1,
+            "nhân viên": 1,
+            "món ăn": 1,
+            "mai châu": 1,
+            "nhà dân địa": 1,
+            "đồng bằng sông cửu long": 1,
+            "tour du lịch": 1,
+            "bãi biển": 1,
+            "cảnh quan": 1
+        }
     }
 ]

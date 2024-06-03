@@ -105,7 +105,213 @@
             "https://www.tripadvisor.com/Attraction_Review-g54994-d2209611-Reviews-Douglas_Lake-Dandridge_Tennessee.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d10059506-Reviews-or10-Empty_Wall_Gallery-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d10059506-Reviews-Empty_Wall_Gallery-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d10059506-Reviews-Empty_Wall_Gallery-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "phòng tranh": 0.6519327015654804,
+            "viên ngọc": 0.5,
+            "chủ sở hữu": 0.8737691454589367,
+            "chủ nhà": 0.9935917227800625,
+            "tác phẩm nghệ thuật": 0.7007460192893632,
+            "phong": 0.9941858517704532,
+            "lịch sử": 0.5,
+            "chuyến đi": 0.5249513797461987,
+            "bức tranh": 0.2599668835900957,
+            "khách sạn": -0.1549348090775311,
+            "nhân viên khách sạn": 0.5090700406581163,
+            "phòng": 0.6868845727294683,
+            "trưng bày bức tường": 0.5,
+            "chuyến thăm": 0.9897415895247832,
+            "giá cả": 0.9611462768516503,
+            "phòng trưng bày": 0.7348801829153672,
+            "chuyển tác phẩm nghệ thuật": 0.7409539557993412,
+            "trưng bày": -0.20615039626136422,
+            "chủ sở": -0.961900696856901,
+            "loại": -0.9639580915682018,
+            "hình nghệ thuật": -0.929626784985885,
+            "ngôi nhà": 0.5,
+            "bức tranh sơn mài": 0.9407847712282091,
+            "khu phố cổ": 0.7464646118169185,
+            "bộ sưu tập": 0.5,
+            "mảnh": 0.8232909539171184,
+            "sơn mài": 0.4828719574337204,
+            "bức tường": 0.9233164311735891,
+            "tác phẩm": 0.010276811226503924,
+            "bệnh": 0.5,
+            "đa xơ cứng": 0.5,
+            "nghệ sĩ": 0.5,
+            "dịch vụ": 0.8293350144910315,
+            "thư viện": 0.8737691454589367,
+            "vị trí": 0.9934503764961846,
+            "cửa": -0.957299224101007,
+            "hàng may đo": -0.935901824850589
+        },
+        "dicts_adj": {
+            "phòng tranh": [
+                "tình cờ",
+                "nhiều",
+                "khác",
+                "đẹp"
+            ],
+            "viên ngọc": [],
+            "chủ sở hữu": [
+                "tốt bụng",
+                "hữu ích",
+                "dài"
+            ],
+            "chủ nhà": [
+                "tốt bụng",
+                "hữu ích",
+                "dài"
+            ],
+            "tác phẩm nghệ thuật": [
+                "chi tiết",
+                "tuyệt vời",
+                "khác",
+                "độc đáo"
+            ],
+            "phong": [
+                "chi tiết"
+            ],
+            "lịch sử": [],
+            "chuyến đi": [
+                "lớn"
+            ],
+            "bức tranh": [
+                "lớn",
+                "cuối cùng",
+                "hoàn hảo",
+                "riêng",
+                "tử tế",
+                "khác"
+            ],
+            "khách sạn": [
+                "cuối cùng",
+                "riêng"
+            ],
+            "nhân viên khách sạn": [
+                "riêng"
+            ],
+            "phòng": [
+                "nhiều"
+            ],
+            "trưng bày bức tường": [],
+            "chuyến thăm": [
+                "gần"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "hợp lý",
+                "tốt"
+            ],
+            "phòng trưng bày": [
+                "khác",
+                "lớn",
+                "đặc biệt",
+                "thuận tiện"
+            ],
+            "chuyển tác phẩm nghệ thuật": [],
+            "trưng bày": [
+                "nhiều"
+            ],
+            "chủ sở": [
+                "nồng nhiệt"
+            ],
+            "loại": [
+                "khác"
+            ],
+            "hình nghệ thuật": [
+                "khác"
+            ],
+            "ngôi nhà": [],
+            "bức tranh sơn mài": [],
+            "khu phố cổ": [
+                "thuận tiện"
+            ],
+            "bộ sưu tập": [],
+            "mảnh": [
+                "xanh",
+                "tuyệt",
+                "đẹp"
+            ],
+            "sơn mài": [
+                "xanh",
+                "tuyệt",
+                "đẹp"
+            ],
+            "bức tường": [
+                "hay",
+                "thú vị",
+                "nhiều"
+            ],
+            "tác phẩm": [
+                "hay",
+                "thú vị",
+                "xuất sắc",
+                "khác"
+            ],
+            "bệnh": [],
+            "đa xơ cứng": [],
+            "nghệ sĩ": [],
+            "dịch vụ": [
+                "tốt",
+                "tốt",
+                "trống"
+            ],
+            "thư viện": [
+                "tốt",
+                "trống"
+            ],
+            "vị trí": [
+                "thuận tiện"
+            ],
+            "cửa": [
+                "khác"
+            ],
+            "hàng may đo": [
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "phòng tranh": 1.5,
+            "viên ngọc": 1,
+            "chủ sở hữu": 1,
+            "chủ nhà": 1,
+            "tác phẩm nghệ thuật": 2.5,
+            "phong": 1,
+            "lịch sử": 1,
+            "chuyến đi": 1,
+            "bức tranh": 2.0,
+            "khách sạn": 1,
+            "nhân viên khách sạn": 1,
+            "phòng": 1.0,
+            "trưng bày bức tường": 0.5,
+            "chuyến thăm": 0.5,
+            "giá cả": 1.0,
+            "phòng trưng bày": 2.5,
+            "chuyển tác phẩm nghệ thuật": 0.5,
+            "trưng bày": 1.0,
+            "chủ sở": 0.5,
+            "loại": 0.5,
+            "hình nghệ thuật": 0.5,
+            "ngôi nhà": 0.5,
+            "bức tranh sơn mài": 0.5,
+            "khu phố cổ": 1.0,
+            "bộ sưu tập": 0.5,
+            "mảnh": 0.5,
+            "sơn mài": 0.5,
+            "bức tường": 1.0,
+            "tác phẩm": 1.0,
+            "bệnh": 0.5,
+            "đa xơ cứng": 0.5,
+            "nghệ sĩ": 1.0,
+            "dịch vụ": 0.5,
+            "thư viện": 0.5,
+            "vị trí": 0.5,
+            "cửa": 0.5,
+            "hàng may đo": 0.5
+        }
     },
     {
         "attraction_name": "Empty Wall Gallery",
@@ -201,6 +407,194 @@
             "https://www.tripadvisor.com/Attraction_Review-g44881-d107810-Reviews-City_Museum-Saint_Louis_Missouri.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d10059506-Reviews-or10-Empty_Wall_Gallery-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d10059506-Reviews-or10-Empty_Wall_Gallery-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nghệ thuật": 0.9751912433421239,
+            "tác phẩm": 0.7245788033954644,
+            "tranh": 0.5254515204578638,
+            "sơn": 0.536084164865315,
+            "tranh sơn mài": 0.8737691454589367,
+            "bức tranh": 0.991492163244402,
+            "cửa hàng": 0.5226611737161875,
+            "phòng trưng bày khoa trương": 0.9582942984998226,
+            "không gian": -0.11380791338160634,
+            "chiếc": 0.5,
+            "thùng chuyên dụng": 0.5,
+            "ốc vít": 0.5172099024057388,
+            "nghệ": 0.5,
+            "bức tường": 0.9955500612850301,
+            "giá cả": 0.8305403037284989,
+            "phòng trưng": 0.5,
+            "phòng trưng bày nghệ thuật": 0.9945359901757911,
+            "phòng trưng bày": -0.1362363085791003,
+            "tác phẩm nghệ thuật": 0.9911858903166528,
+            "nghệ sĩ": 0.2216327729790161,
+            "chủ sở hữu": 0.5,
+            "trải nghiệm": 0.9952907405095175,
+            "tòa nhà": 0.7633122643455863,
+            "phòng": 0.5,
+            "trưng bày": 0.5,
+            "chủ sở": 0.5,
+            "nhân viên bán hàng": 0.5,
+            "chuyến thăm": 0.994756184052676,
+            "bức": 0.9581733094528317,
+            "tranh sơn": 0.9149296376854181,
+            "họa sĩ": 0.5
+        },
+        "dicts_adj": {
+            "nghệ thuật": [
+                "phi thường",
+                "trẻ",
+                "sâu sắc",
+                "phong phú",
+                "tốt",
+                "hơn",
+                "trực tiếp"
+            ],
+            "tác phẩm": [
+                "đẹp",
+                "khác biệt",
+                "cuối cùng"
+            ],
+            "tranh": [
+                "chuyên"
+            ],
+            "sơn": [
+                "chuyên"
+            ],
+            "tranh sơn mài": [
+                "nhiều"
+            ],
+            "bức tranh": [
+                "tinh tế",
+                "đẹp"
+            ],
+            "cửa hàng": [
+                "ít",
+                "hơn"
+            ],
+            "phòng trưng bày khoa trương": [
+                "hợp lý",
+                "hợp lý",
+                "hơn",
+                "nhiều",
+                "gần"
+            ],
+            "không gian": [
+                "liền",
+                "khác"
+            ],
+            "chiếc": [],
+            "thùng chuyên dụng": [],
+            "ốc vít": [],
+            "nghệ": [],
+            "bức tường": [
+                "đẹp",
+                "đẹp",
+                "hơn"
+            ],
+            "giá cả": [
+                "rẻ",
+                "hơn",
+                "cao",
+                "cùng",
+                "tốt",
+                "hơn",
+                "nhiều",
+                "cùng",
+                "khác",
+                "tốt",
+                "hơn",
+                "trực tiếp"
+            ],
+            "phòng trưng": [],
+            "phòng trưng bày nghệ thuật": [
+                "đẹp"
+            ],
+            "phòng trưng bày": [
+                "đẹp",
+                "khác",
+                "thực sự",
+                "khác",
+                "khác",
+                "khác",
+                "khác",
+                "khác",
+                "cùng",
+                "liền",
+                "khác"
+            ],
+            "tác phẩm nghệ thuật": [
+                "tuyệt vời",
+                "tốt",
+                "cao",
+                "nhiều"
+            ],
+            "nghệ sĩ": [
+                "khác",
+                "lớn",
+                "cuối cùng"
+            ],
+            "chủ sở hữu": [],
+            "trải nghiệm": [
+                "Cuối cùng",
+                "thực sự",
+                "thực sự",
+                "thú vị"
+            ],
+            "tòa nhà": [
+                "khác"
+            ],
+            "phòng": [],
+            "trưng bày": [],
+            "chủ sở": [],
+            "nhân viên bán hàng": [],
+            "chuyến thăm": [
+                "khiêm tốn",
+                "vui"
+            ],
+            "bức": [
+                "hợp lý"
+            ],
+            "tranh sơn": [
+                "hợp lý"
+            ],
+            "họa sĩ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nghệ thuật": 1.0,
+            "tác phẩm": 1.0,
+            "tranh": 0.5,
+            "sơn": 0.5,
+            "tranh sơn mài": 0.5,
+            "bức tranh": 1.0,
+            "cửa hàng": 0.5,
+            "phòng trưng bày khoa trương": 0.5,
+            "không gian": 1.0,
+            "chiếc": 0.5,
+            "thùng chuyên dụng": 0.5,
+            "ốc vít": 0.5,
+            "nghệ": 0.5,
+            "bức tường": 0.5,
+            "giá cả": 1.5,
+            "phòng trưng": 0.5,
+            "phòng trưng bày nghệ thuật": 0.5,
+            "phòng trưng bày": 1.0,
+            "tác phẩm nghệ thuật": 1.0,
+            "nghệ sĩ": 0.5,
+            "chủ sở hữu": 0.5,
+            "trải nghiệm": 0.5,
+            "tòa nhà": 0.5,
+            "phòng": 0.5,
+            "trưng bày": 0.5,
+            "chủ sở": 0.5,
+            "nhân viên bán hàng": 0.5,
+            "chuyến thăm": 0.5,
+            "bức": 0.5,
+            "tranh sơn": 0.5,
+            "họa sĩ": 0.5
+        }
     }
 ]

@@ -85,6 +85,28 @@
             "https://www.tripadvisor.com/Attraction_Review-g42139-d636238-Reviews-The_Heidelberg_Project-Detroit_Michigan.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26851289-Reviews-Areca_Boutique_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26851289-Reviews-Areca_Boutique_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "spa": 0.9954193704761565,
+            "dịch vụ": 0.9709370885975659,
+            "nhân viên": 0.9951742842094973
+        },
+        "dicts_adj": {
+            "spa": [
+                "yên bình",
+                "sang trọng"
+            ],
+            "dịch vụ": [],
+            "nhân viên": [
+                "thân thiện"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "spa": 1.5,
+            "dịch vụ": 1.5,
+            "nhân viên": 1.5
+        }
     }
 ]

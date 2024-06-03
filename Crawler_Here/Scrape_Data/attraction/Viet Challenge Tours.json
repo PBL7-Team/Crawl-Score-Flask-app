@@ -92,7 +92,152 @@
             "https://www.tripadvisor.com/Attraction_Review-g31204-d2078635-Reviews-Blazin_M_Ranch-Cottonwood_Arizona.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-or10-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khách sạn": -0.1900870103854686,
+            "xe có máy lạnh": 0.5,
+            "chuyến đi": 0.9515322493643907,
+            "thác nước": 0.9940885245256746,
+            "nhà hàng": 0.9923605192452669,
+            "nhà máy": 0.5,
+            "trang trại chăn nuôi dế": 0.5,
+            "trang trại": 0.5,
+            "vùng quê": 0.9929032147629187,
+            "chuyến tham quan": 0.9946346296637785,
+            "hướng dẫn viên": 0.9527218628209084,
+            "leo núi": 0.5090673062950373,
+            "bữa trưa": 0.9956132869119756,
+            "nhân tố": 0.9952519533690065,
+            "văn hóa": 0.567198945209384,
+            "thiên nhiên": 0.995382341556251,
+            "trải nghiệm": 0.9955816030851565,
+            "hướng dẫn viên du lịch": 0.9953214933630079,
+            "khung cảnh": 0.9955844044452533,
+            "bữa": 0.8737691454589367,
+            "chủ nhà": 0.5,
+            "ga trải": -0.9721228573471308,
+            "phương tiện đi": 0.6308969352394342
+        },
+        "dicts_adj": {
+            "khách sạn": [
+                "sớm",
+                "đúng"
+            ],
+            "xe có máy lạnh": [],
+            "chuyến đi": [
+                "khác",
+                "kịp",
+                "vui",
+                "thực sự",
+                "mong đợi",
+                "vui",
+                "vui",
+                "vui",
+                "tuyệt vời",
+                "vui"
+            ],
+            "thác nước": [
+                "tuyệt vời",
+                "dài",
+                "nhiều",
+                "thú vị",
+                "kiệt sức",
+                "tốt",
+                "đặc biệt"
+            ],
+            "nhà hàng": [
+                "xinh xắn"
+            ],
+            "nhà máy": [],
+            "trang trại chăn nuôi dế": [],
+            "trang trại": [],
+            "vùng quê": [
+                "đẹp"
+            ],
+            "chuyến tham quan": [
+                "gần",
+                "chân thành",
+                "khác",
+                "chân thành",
+                "thực sự",
+                "đặc biệt",
+                "vui vẻ",
+                "tuyệt vời",
+                "hoàn toàn",
+                "nhiều",
+                "thú vị"
+            ],
+            "hướng dẫn viên": [
+                "an toàn",
+                "chi tiết",
+                "bất kỳ",
+                "nhiều",
+                "hóm hỉnh",
+                "thú vị",
+                "nhiệt tình",
+                "vui vẻ"
+            ],
+            "leo núi": [
+                "dài"
+            ],
+            "bữa trưa": [
+                "ngon",
+                "đầy đủ"
+            ],
+            "nhân tố": [
+                "tuyệt vời"
+            ],
+            "văn hóa": [
+                "sâu",
+                "hơn"
+            ],
+            "thiên nhiên": [
+                "bất kỳ",
+                "nhiều",
+                "hơn"
+            ],
+            "trải nghiệm": [],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời"
+            ],
+            "khung cảnh": [],
+            "bữa": [
+                "ngon"
+            ],
+            "chủ nhà": [],
+            "ga trải": [
+                "cơ bản",
+                "cứng"
+            ],
+            "phương tiện đi": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khách sạn": 4,
+            "xe có máy lạnh": 2,
+            "chuyến đi": 16,
+            "thác nước": 6,
+            "nhà hàng": 2,
+            "nhà máy": 2,
+            "trang trại chăn nuôi dế": 2,
+            "trang trại": 2,
+            "vùng quê": 2,
+            "chuyến tham quan": 8,
+            "hướng dẫn viên": 6,
+            "leo núi": 2,
+            "bữa trưa": 2,
+            "nhân tố": 2,
+            "văn hóa": 2,
+            "thiên nhiên": 2,
+            "trải nghiệm": 2,
+            "hướng dẫn viên du lịch": 2,
+            "khung cảnh": 2,
+            "bữa": 2,
+            "chủ nhà": 2,
+            "ga trải": 2,
+            "phương tiện đi": 2
+        }
     },
     {
         "attraction_name": "Viet Challenge Tours",
@@ -188,7 +333,115 @@
             "https://www.tripadvisor.com/Attraction_Review-g154943-d156254-Reviews-Queen_Elizabeth_Park-Vancouver_British_Columbia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-or20-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-or10-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-or10-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tour du lịch": 0.9955619167594705,
+            "thác nước": 0.9753716369935622,
+            "trang trại": -0.09600466389383655,
+            "bữa trưa": 0.5,
+            "nhà hàng": 0.5,
+            "nhà máy": -0.9736366035649553,
+            "lụa": 0.5,
+            "dế": 0.5,
+            "cà phê": 0.5,
+            "chuyến tham quan": 0.9269223928567953,
+            "ngôi đền": 0.5,
+            "bức tượng khổng lồ": 0.5,
+            "nhà máy tơ lụa": 0.5,
+            "trang trại cà phê": 0.4970015808939934,
+            "hướng dẫn viên": 0.9609090037847636,
+            "trải nghiệm": -0.9563727765344083,
+            "hướng dẫn viên du lịch": 0.995533314475324,
+            "nền tảng": -0.9517204836010933,
+            "hướng dẫn viên su": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "tour du lịch": [
+                "tốt",
+                "tốt",
+                "tuyệt vời",
+                "thú vị",
+                "thú vị"
+            ],
+            "thác nước": [
+                "khác",
+                "trọn vẹn",
+                "đẹp",
+                "khác"
+            ],
+            "trang trại": [
+                "khác",
+                "khác",
+                "thú vị",
+                "nhiều"
+            ],
+            "bữa trưa": [],
+            "nhà hàng": [],
+            "nhà máy": [
+                "khác"
+            ],
+            "lụa": [],
+            "dế": [],
+            "cà phê": [],
+            "chuyến tham quan": [
+                "thực sự",
+                "tuyệt vời",
+                "đẹp",
+                "khác",
+                "tuyệt vời",
+                "hơn"
+            ],
+            "ngôi đền": [],
+            "bức tượng khổng lồ": [],
+            "nhà máy tơ lụa": [],
+            "trang trại cà phê": [
+                "nhiều",
+                "đa dạng",
+                "phong phú"
+            ],
+            "hướng dẫn viên": [
+                "tốt",
+                "lịch sự",
+                "nhiều"
+            ],
+            "trải nghiệm": [
+                "khác"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "nền tảng": [
+                "khác"
+            ],
+            "hướng dẫn viên su": [
+                "tuyệt vời",
+                "hơn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tour du lịch": 4,
+            "thác nước": 6,
+            "trang trại": 8,
+            "bữa trưa": 2,
+            "nhà hàng": 2,
+            "nhà máy": 2,
+            "lụa": 2,
+            "dế": 2,
+            "cà phê": 2,
+            "chuyến tham quan": 8,
+            "ngôi đền": 2,
+            "bức tượng khổng lồ": 2,
+            "nhà máy tơ lụa": 2,
+            "trang trại cà phê": 2,
+            "hướng dẫn viên": 4,
+            "trải nghiệm": 2,
+            "hướng dẫn viên du lịch": 2,
+            "nền tảng": 2,
+            "hướng dẫn viên su": 2
+        }
     },
     {
         "attraction_name": "Viet Challenge Tours",
@@ -297,7 +550,74 @@
             "https://www.tripadvisor.com/Attraction_Review-g297549-d553098-Reviews-Giftun_Islands-Hurghada_Red_Sea_and_Sinai.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-or30-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-or20-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-or20-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "rừng rậm thác nước ngắm cảnh": 0.9954681727103889,
+            "thung lũng": 0.9924377308925614,
+            "hướng dẫn viên du lịch": 0.8699919187056366,
+            "chuyến tham": 0.977956201415509,
+            "thác nước": 0.8737691454589367,
+            "loại đường": -0.8019353458657861,
+            "đường": -0.9460050272755325,
+            "kỳ nghỉ": 0.5,
+            "chuyến lưu diễn": 0.9952678951667622,
+            "chuyến tham quan": 0.9899335169466212,
+            "chèo thuyền kayak": 0.5,
+            "hướng dẫn viên du": 0.5
+        },
+        "dicts_adj": {
+            "rừng rậm thác nước ngắm cảnh": [
+                "rõ ràng",
+                "tuyệt vời"
+            ],
+            "thung lũng": [
+                "thoải mái",
+                "chi tiết"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "tốt bụng",
+                "tuyệt vời",
+                "thân thiện"
+            ],
+            "chuyến tham": [],
+            "thác nước": [
+                "đẹp",
+                "nhiều"
+            ],
+            "loại đường": [
+                "khác"
+            ],
+            "đường": [
+                "khác"
+            ],
+            "kỳ nghỉ": [],
+            "chuyến lưu diễn": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "đặc biệt",
+                "nhiều"
+            ],
+            "chèo thuyền kayak": [],
+            "hướng dẫn viên du": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "rừng rậm thác nước ngắm cảnh": 2,
+            "thung lũng": 2,
+            "hướng dẫn viên du lịch": 8,
+            "chuyến tham": 2,
+            "thác nước": 2,
+            "loại đường": 2,
+            "đường": 2,
+            "kỳ nghỉ": 2,
+            "chuyến lưu diễn": 2,
+            "chuyến tham quan": 2,
+            "chèo thuyền kayak": 2,
+            "hướng dẫn viên du": 2
+        }
     },
     {
         "attraction_name": "Viet Challenge Tours",
@@ -394,7 +714,176 @@
             "https://www.tripadvisor.com/Attraction_Review-g35805-d1548142-Reviews-Water_Tower_Place-Chicago_Illinois.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-or40-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-or30-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-or30-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham": 0.3608114570379257,
+            "trải nghiệm văn hóa": 0.5,
+            "ngành công nghiệp": 0.5,
+            "hướng dẫn viên": 0.9548501880296195,
+            "chuyến đi": 0.9953433191403747,
+            "lái xe": 0.9905070719541982,
+            "chuyến trekking": 0.5802750373259187,
+            "chuyến tham quan": 0.01253620704385237,
+            "dịch vụ": 0.9954072419204749,
+            "đối tác du lịch": 0.9951349382754415,
+            "buổi sáng": 0.9947798079034934,
+            "chuyến du lịch": 0.5695862378925085,
+            "mặt trời": 0.5247843265533447,
+            "ly": 0.5,
+            "cà phê": 0.5,
+            "sản phẩm": 0.9950823801918887,
+            "hướng dẫn viên su": 0.9926266289548948,
+            "trình điều khiển": 0.9955429614637978,
+            "đồn điền cà phê": 0.9940836066380143,
+            "trang trại dế": 0.9943861349020153,
+            "nhà máy sản": 0.9942519345786422,
+            "thác nước": 0.5,
+            "tàu lượn siêu tốc": 0.5,
+            "núi cao": 0.5,
+            "trải nghiệm": 0.9949411469278857,
+            "bữa trưa": 0.98867566883564,
+            "hòn đảo": 0.5086006820201874,
+            "hướng dẫn viên tom": 0.990164753049612,
+            "mặt nước": 0.988408550620079
+        },
+        "dicts_adj": {
+            "chuyến tham": [
+                "nhiều",
+                "hơn"
+            ],
+            "trải nghiệm văn hóa": [],
+            "ngành công nghiệp": [],
+            "hướng dẫn viên": [
+                "thú vị",
+                "nhiều",
+                "tốt",
+                "hài lòng",
+                "nhiệt tình",
+                "chu đáo",
+                "bất kỳ"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "nhất"
+            ],
+            "lái xe": [
+                "tốt"
+            ],
+            "chuyến trekking": [],
+            "chuyến tham quan": [
+                "chân thành",
+                "cao",
+                "tích cực",
+                "chân thành",
+                "cao",
+                "tích cực",
+                "thực sự",
+                "tuyệt vời",
+                "đầy đủ",
+                "bận rộn",
+                "chân thành",
+                "cao",
+                "tích cực",
+                "chân thành",
+                "cao",
+                "tích cực"
+            ],
+            "dịch vụ": [
+                "lớn",
+                "cao",
+                "lớn",
+                "cao",
+                "lớn",
+                "cao",
+                "lớn",
+                "cao"
+            ],
+            "đối tác du lịch": [],
+            "buổi sáng": [
+                "thực sự",
+                "đẹp đẽ",
+                "duy nhất"
+            ],
+            "chuyến du lịch": [
+                "riêng"
+            ],
+            "mặt trời": [
+                "chính xác"
+            ],
+            "ly": [],
+            "cà phê": [],
+            "sản phẩm": [],
+            "hướng dẫn viên su": [
+                "nhiệt tình",
+                "hiểu biết",
+                "xuất sắc"
+            ],
+            "trình điều khiển": [
+                "tuyệt vời"
+            ],
+            "đồn điền cà phê": [
+                "thú vị"
+            ],
+            "trang trại dế": [
+                "thú vị"
+            ],
+            "nhà máy sản": [
+                "thú vị"
+            ],
+            "thác nước": [],
+            "tàu lượn siêu tốc": [],
+            "núi cao": [],
+            "trải nghiệm": [
+                "nhiều",
+                "độc đáo"
+            ],
+            "bữa trưa": [
+                "nhỏ"
+            ],
+            "hòn đảo": [
+                "nhỏ"
+            ],
+            "hướng dẫn viên tom": [
+                "thân thiện"
+            ],
+            "mặt nước": [
+                "thực sự",
+                "thú vị"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham": 1.5,
+            "trải nghiệm văn hóa": 1.5,
+            "ngành công nghiệp": 1.5,
+            "hướng dẫn viên": 4.5,
+            "chuyến đi": 1.5,
+            "lái xe": 1.5,
+            "chuyến trekking": 1.5,
+            "chuyến tham quan": 6.5,
+            "dịch vụ": 5.0,
+            "đối tác du lịch": 5.0,
+            "buổi sáng": 1,
+            "chuyến du lịch": 1,
+            "mặt trời": 1,
+            "ly": 1,
+            "cà phê": 1,
+            "sản phẩm": 1.5,
+            "hướng dẫn viên su": 1,
+            "trình điều khiển": 1,
+            "đồn điền cà phê": 1,
+            "trang trại dế": 1,
+            "nhà máy sản": 1,
+            "thác nước": 1,
+            "tàu lượn siêu tốc": 1,
+            "núi cao": 1,
+            "trải nghiệm": 3.0,
+            "bữa trưa": 1.5,
+            "hòn đảo": 1.5,
+            "hướng dẫn viên tom": 1.5,
+            "mặt nước": 1.5
+        }
     },
     {
         "attraction_name": "Viet Challenge Tours",
@@ -491,7 +980,127 @@
             "https://www.tripadvisor.com/Attraction_Review-g1066456-d19274143-Reviews-Shibuya_Sky-Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-or50-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-or40-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-or40-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.877937993966043,
+            "hướng dẫn viên": 0.9954200852080248,
+            "loại lá": 0.9717245572246611,
+            "cuộc phiêu lưu": 0.6282238662242889,
+            "leo núi langbian": 0.8737691454589367,
+            "khung cảnh": 0.8737691454589367,
+            "cây cối núi non": 0.6536893583834171,
+            "thành phố": 0.6154788844287395,
+            "món": 0.9955900556524284,
+            "từ": 0.9954719229135662,
+            "bánh mì đậu phụ": 0.9883884129812941,
+            "thịt lợn rau diếp": 0.9887069192482159,
+            "cà chua trái cây": 0.5135280322283506,
+            "chuyến dã ngoại": 0.49445042572915554,
+            "công viên": 0.5,
+            "chuyến tham quan": 0.9952134381552847,
+            "thác nước": 0.9955432225833647,
+            "trải nghiệm": 0.9955222086864524,
+            "kỳ quan": 0.9828442085999995,
+            "hướng dẫn viên du lịch": 0.9953178895520978,
+            "giá trị": 0.9863690729252994,
+            "hướng dẫn viên su": 0.9953056055819616
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "vất vả",
+                "duy nhất",
+                "dài",
+                "khác",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "ngoạn mục",
+                "tuyệt vời",
+                "rạng rỡ",
+                "tuyệt vời"
+            ],
+            "loại lá": [
+                "suốt",
+                "khác"
+            ],
+            "cuộc phiêu lưu": [],
+            "leo núi langbian": [
+                "đầu tiên"
+            ],
+            "khung cảnh": [
+                "tuyệt vời"
+            ],
+            "cây cối núi non": [
+                "xa"
+            ],
+            "thành phố": [
+                "xa"
+            ],
+            "món": [
+                "tươi"
+            ],
+            "từ": [
+                "tươi"
+            ],
+            "bánh mì đậu phụ": [
+                "tươi"
+            ],
+            "thịt lợn rau diếp": [
+                "tươi"
+            ],
+            "cà chua trái cây": [
+                "tươi"
+            ],
+            "chuyến dã ngoại": [],
+            "công viên": [],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "khác"
+            ],
+            "thác nước": [
+                "đẹp"
+            ],
+            "trải nghiệm": [
+                "thú vị"
+            ],
+            "kỳ quan": [
+                "chắc chắn"
+            ],
+            "hướng dẫn viên du lịch": [],
+            "giá trị": [
+                "chắc chắn",
+                "tốt"
+            ],
+            "hướng dẫn viên su": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 4,
+            "hướng dẫn viên": 4,
+            "loại lá": 2,
+            "cuộc phiêu lưu": 2,
+            "leo núi langbian": 2,
+            "khung cảnh": 2,
+            "cây cối núi non": 2,
+            "thành phố": 2,
+            "món": 2,
+            "từ": 2,
+            "bánh mì đậu phụ": 2,
+            "thịt lợn rau diếp": 2,
+            "cà chua trái cây": 2,
+            "chuyến dã ngoại": 2,
+            "công viên": 2,
+            "chuyến tham quan": 6,
+            "thác nước": 2,
+            "trải nghiệm": 2,
+            "kỳ quan": 2,
+            "hướng dẫn viên du lịch": 2,
+            "giá trị": 2,
+            "hướng dẫn viên su": 2
+        }
     },
     {
         "attraction_name": "Viet Challenge Tours",
@@ -588,7 +1197,119 @@
             "https://www.tripadvisor.com/Attraction_Review-g187147-d209789-Reviews-Jardin_du_Palais_Royal-Paris_Ile_de_France.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-or60-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-or50-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-or50-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9953214274428319,
+            "chèo thuyền": 0.5,
+            "hướng dẫn viên vin": 0.9942221398232505,
+            "bữa trưa dã ngoại": 0.9955657247337513,
+            "thuyền kayak": 0.5,
+            "ván chèo": 0.5,
+            "chuyến đi trekking": 0.9944240932818502,
+            "núi langbian": 0.8737691454589367,
+            "hướng dẫn viên du lịch": 0.9793852197142163,
+            "đỉnh núi": -0.6795167699456215,
+            "quang cảnh": 0.9955730469082482,
+            "chuyến tham": 0.5,
+            "bữa trưa dã": 0.9954580016201362,
+            "chuyến tham quan": 0.9937910209700931,
+            "dịch vụ": 0.5,
+            "khung cảnh": 0.8737691454589367,
+            "thác nước": 0.9870341972079283,
+            "hướng dẫn viên": 0.8737691454589367,
+            "chuyến đi": 0.995503299694974
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "thú vị",
+                "tốt",
+                "thân thiện",
+                "kiên nhẫn",
+                "tuyệt vời"
+            ],
+            "chèo thuyền": [],
+            "hướng dẫn viên vin": [
+                "tuyệt vời"
+            ],
+            "bữa trưa dã ngoại": [
+                "ngon"
+            ],
+            "thuyền kayak": [],
+            "ván chèo": [],
+            "chuyến đi trekking": [
+                "tuyệt vời"
+            ],
+            "núi langbian": [
+                "thực sự"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "xuất sắc",
+                "thực sự",
+                "tuyệt vời",
+                "suốt",
+                "đặc biệt",
+                "tốt bụng",
+                "đẹp trai"
+            ],
+            "đỉnh núi": [
+                "khác"
+            ],
+            "quang cảnh": [
+                "đẹp"
+            ],
+            "chuyến tham": [],
+            "bữa trưa dã": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "đẹp",
+                "tốt bụng",
+                "đẹp trai"
+            ],
+            "dịch vụ": [],
+            "khung cảnh": [
+                "tuyệt vời"
+            ],
+            "thác nước": [
+                "tuyệt vời",
+                "đầu tiên",
+                "rõ ràng",
+                "phải",
+                "sợ hãi",
+                "nhiều"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 4,
+            "chèo thuyền": 2,
+            "hướng dẫn viên vin": 2,
+            "bữa trưa dã ngoại": 2,
+            "thuyền kayak": 2,
+            "ván chèo": 2,
+            "chuyến đi trekking": 2,
+            "núi langbian": 2,
+            "hướng dẫn viên du lịch": 6,
+            "đỉnh núi": 2,
+            "quang cảnh": 2,
+            "chuyến tham": 2,
+            "bữa trưa dã": 2,
+            "chuyến tham quan": 4,
+            "dịch vụ": 2,
+            "khung cảnh": 2,
+            "thác nước": 2,
+            "hướng dẫn viên": 2,
+            "chuyến đi": 2
+        }
     },
     {
         "attraction_name": "Viet Challenge Tours",
@@ -697,7 +1418,72 @@
             "https://www.tripadvisor.com/Attraction_Review-g33996-d631917-Reviews-Lums_Pond_State_Park-Bear_Delaware.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-or70-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-or60-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-or60-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.9529235154138102,
+            "hướng dẫn viên du lịch": 0.5,
+            "trải nghiệm": 0.9950165441259742,
+            "hướng dẫn viên": 0.8296473317507965,
+            "bữa trưa": 0.8737691454589367,
+            "khung cảnh": 0.8737691454589367,
+            "đỉnh núi": 0.9954818916739896,
+            "chuyến đi bộ": 0.9946960672968999,
+            "chuyến đi": 0.9346739973989315
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "đúng",
+                "trọn vẹn",
+                "quan trọng",
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "hướng dẫn viên du lịch": [],
+            "trải nghiệm": [
+                "thú vị",
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "tốt bụng",
+                "nhiều",
+                "an toàn",
+                "tuyệt vời"
+            ],
+            "bữa trưa": [
+                "tuyệt nếu"
+            ],
+            "khung cảnh": [
+                "tuyệt vời"
+            ],
+            "đỉnh núi": [
+                "tuyệt vời"
+            ],
+            "chuyến đi bộ": [
+                "dài"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "nhiều",
+                "an toàn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 4.5,
+            "hướng dẫn viên du lịch": 1.5,
+            "trải nghiệm": 3.0,
+            "hướng dẫn viên": 4.5,
+            "bữa trưa": 1.5,
+            "khung cảnh": 1.5,
+            "đỉnh núi": 1.5,
+            "chuyến đi bộ": 1.5,
+            "chuyến đi": 1.5
+        }
     },
     {
         "attraction_name": "Viet Challenge Tours",
@@ -794,6 +1580,167 @@
             "https://www.tripadvisor.com/Attraction_Review-g29750-d269143-Reviews-Caesars_Atlantic_City_Casino-Atlantic_City_New_Jersey.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-or80-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-or70-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d4961014-Reviews-or70-Viet_Challenge_Tours-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chèo thuyền kayak": 0.5,
+            "hồ tuyền lâm": 0.5,
+            "phong cảnh": 0.9955079556675628,
+            "chuyến đi bộ": 0.7130829098750837,
+            "bữa trưa dã ngoại": 0.9954543162602931,
+            "thời tiết": 0.9939520941115916,
+            "chuyến đi": 0.9875924062604705,
+            "thiên nhiên": 0.774468831717968,
+            "chuyến tham quan": 0.9922811646247283,
+            "thác nước": 0.5,
+            "cà phê": 0.5,
+            "nông thôn": 0.515139177441597,
+            "chuyến du lịch": 0.776925610814942,
+            "ngọn núi": 0.46438314765691757,
+            "khung cảnh": 0.9951789606129751,
+            "chai nước": 0.9942728285677731,
+            "quang cảnh": 0.9954224441898987,
+            "hướng dẫn viên du lịch": 0.9946108938020188,
+            "địa điểm": 0.5,
+            "bữa trưa": 0.9956002798862755,
+            "hướng dẫn viên": 0.9897032550070435,
+            "bún": 0.9949865994858555,
+            "mi": 0.9945113618741743,
+            "bánh mì đậu phụ rau": 0.9922877519857138,
+            "trái cây": 0.9686415127944201,
+            "trải nghiệm": 0.9952929429709911,
+            "thuyền sup": 0.5,
+            "thuyền kayak": 0.5,
+            "hành trình": 0.9925265061901882,
+            "điểm du lịch": 0.5395286045968533,
+            "rau trái cây": 0.9955508396378718,
+            "món ăn": 0.995578886300791
+        },
+        "dicts_adj": {
+            "chèo thuyền kayak": [],
+            "hồ tuyền lâm": [],
+            "phong cảnh": [
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "chuyến đi bộ": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "bữa trưa dã ngoại": [
+                "tuyệt vời"
+            ],
+            "thời tiết": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "khó khăn",
+                "chắc chắn",
+                "yếu",
+                "đặc biệt",
+                "xứng đáng",
+                "tuyệt vời"
+            ],
+            "thiên nhiên": [],
+            "chuyến tham quan": [
+                "nổi bật"
+            ],
+            "thác nước": [],
+            "cà phê": [],
+            "nông thôn": [],
+            "chuyến du lịch": [
+                "nhỏ",
+                "tuyệt vời"
+            ],
+            "ngọn núi": [
+                "cao",
+                "dài"
+            ],
+            "khung cảnh": [
+                "ấn tượng"
+            ],
+            "chai nước": [
+                "hữu ích"
+            ],
+            "quang cảnh": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "nhiều",
+                "tốt bụng",
+                "nhiều",
+                "thú vị"
+            ],
+            "địa điểm": [],
+            "bữa trưa": [
+                "tươi"
+            ],
+            "hướng dẫn viên": [
+                "tươi"
+            ],
+            "bún": [
+                "tươi"
+            ],
+            "mi": [
+                "tươi"
+            ],
+            "bánh mì đậu phụ rau": [
+                "tươi"
+            ],
+            "trái cây": [
+                "tươi"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "thuyền sup": [],
+            "thuyền kayak": [],
+            "hành trình": [],
+            "điểm du lịch": [
+                "khác"
+            ],
+            "rau trái cây": [
+                "ngon"
+            ],
+            "món ăn": [
+                "ngon"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chèo thuyền kayak": 1.5,
+            "hồ tuyền lâm": 1.5,
+            "phong cảnh": 1.5,
+            "chuyến đi bộ": 3.0,
+            "bữa trưa dã ngoại": 1.5,
+            "thời tiết": 1.5,
+            "chuyến đi": 4.5,
+            "thiên nhiên": 1.5,
+            "chuyến tham quan": 1.5,
+            "thác nước": 1.5,
+            "cà phê": 1.5,
+            "nông thôn": 1.5,
+            "chuyến du lịch": 1.5,
+            "ngọn núi": 1.5,
+            "khung cảnh": 1.5,
+            "chai nước": 1.5,
+            "quang cảnh": 1.5,
+            "hướng dẫn viên du lịch": 1.5,
+            "địa điểm": 1.5,
+            "bữa trưa": 1.5,
+            "hướng dẫn viên": 1.5,
+            "bún": 1.5,
+            "mi": 1.5,
+            "bánh mì đậu phụ rau": 1.5,
+            "trái cây": 1.5,
+            "trải nghiệm": 1.5,
+            "thuyền sup": 1.5,
+            "thuyền kayak": 1.5,
+            "hành trình": 1.5,
+            "điểm du lịch": 1.5,
+            "rau trái cây": 1.5,
+            "món ăn": 1.5
+        }
     }
 ]

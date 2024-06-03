@@ -92,6 +92,165 @@
             "https://www.tripadvisor.com/Attraction_Review-g42673-d1014537-Reviews-Silver_Beach_County_Park-Saint_Joseph_Berrien_County_Michigan.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d25314420-Reviews-Happy_Trip_With_Vu-Sapa_Lao_Cai_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d25314420-Reviews-Happy_Trip_With_Vu-Sapa_Lao_Cai_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.8560999020352028,
+            "cánh đồng lúa": 0.7410837190691382,
+            "khu rừng": 0.7201765268109739,
+            "người hướng dẫn": 0.5120268501341343,
+            "người dân địa": 0.46882094629108906,
+            "ăn chay": 0.982688365271315,
+            "chuyến đi bộ": 0.8772219069069251,
+            "làng mạc": 0.5,
+            "dân tộc": 0.5,
+            "thung lũng tavan": 0.5,
+            "hướng dẫn viên": 0.9893827220075764,
+            "chuyến đi địa hình": 0.5,
+            "giờ": 0.9946597496164031,
+            "món ăn việt": 0.8737691454589367,
+            "hướng dẫn viên vũ": 0.8737691454589367,
+            "chuyến du lịch": 0.9859371755737811,
+            "khách sạn": 0.8941173907369375,
+            "chuyến tham quan": 0.6057500671595335,
+            "tầm nhìn": 0.5875882200489286,
+            "rừng": 0.3561329236254096,
+            "núi -": 0.5,
+            "đoạn": 0.9342465663794428,
+            "dốc vũ": 0.8737691454589367,
+            "sẵn que tre": 0.9828565905336291,
+            "ngọn núi": 0.4953894894570112,
+            "làng dân tộc": 0.43278196454048157,
+            "vũ khi": 0.9424347206950188,
+            "ngôi nhà": 0.9955946209956892
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "tuyệt vời",
+                "thoải mái",
+                "suốt",
+                "tuyệt vời",
+                "dễ dàng",
+                "dài",
+                "suốt"
+            ],
+            "cánh đồng lúa": [
+                "đặc biệt",
+                "hơn"
+            ],
+            "khu rừng": [
+                "đặc biệt",
+                "hơn"
+            ],
+            "người hướng dẫn": [
+                "chắc chắn"
+            ],
+            "người dân địa": [
+                "chắc chắn",
+                "như thế nào"
+            ],
+            "ăn chay": [],
+            "chuyến đi bộ": [
+                "dài",
+                "khó",
+                "thực sự",
+                "tuyệt vời",
+                "đẹp đẽ"
+            ],
+            "làng mạc": [],
+            "dân tộc": [],
+            "thung lũng tavan": [],
+            "hướng dẫn viên": [
+                "giỏi Vũ",
+                "đẹp đẽ"
+            ],
+            "chuyến đi địa hình": [],
+            "giờ": [
+                "ngon"
+            ],
+            "món ăn việt": [
+                "ngon"
+            ],
+            "hướng dẫn viên vũ": [
+                "lân cận"
+            ],
+            "chuyến du lịch": [
+                "dễ dàng",
+                "tốt",
+                "suốt"
+            ],
+            "khách sạn": [
+                "đẹp đẽ"
+            ],
+            "chuyến tham quan": [
+                "khó",
+                "hơn",
+                "dài",
+                "hơn"
+            ],
+            "tầm nhìn": [
+                "đẹp",
+                "hơn"
+            ],
+            "rừng": [
+                "trơn",
+                "dễ"
+            ],
+            "núi -": [],
+            "đoạn": [
+                "nhanh chóng"
+            ],
+            "dốc vũ": [
+                "nhanh chóng"
+            ],
+            "sẵn que tre": [
+                "liên tục"
+            ],
+            "ngọn núi": [
+                "khác"
+            ],
+            "làng dân tộc": [
+                "khác"
+            ],
+            "vũ khi": [
+                "thực sự",
+                "khuyên bạn"
+            ],
+            "ngôi nhà": [
+                "đẹp",
+                "tốt đẹp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 5,
+            "cánh đồng lúa": 2,
+            "khu rừng": 2,
+            "người hướng dẫn": 1,
+            "người dân địa": 1,
+            "ăn chay": 1,
+            "chuyến đi bộ": 3,
+            "làng mạc": 1,
+            "dân tộc": 1,
+            "thung lũng tavan": 1,
+            "hướng dẫn viên": 2,
+            "chuyến đi địa hình": 1,
+            "giờ": 1,
+            "món ăn việt": 1,
+            "hướng dẫn viên vũ": 1,
+            "chuyến du lịch": 1,
+            "khách sạn": 1,
+            "chuyến tham quan": 1,
+            "tầm nhìn": 1,
+            "rừng": 1,
+            "núi -": 1,
+            "đoạn": 1,
+            "dốc vũ": 1,
+            "sẵn que tre": 1,
+            "ngọn núi": 1,
+            "làng dân tộc": 1,
+            "vũ khi": 1,
+            "ngôi nhà": 1
+        }
     }
 ]

@@ -108,7 +108,195 @@
             "https://www.tripadvisor.com/Attraction_Review-g6351840-d272851-Reviews-Lido_Beach-Lido_Beach_Long_Island_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d13921377-Reviews-or10-Hoian_Cars-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d13921377-Reviews-Hoian_Cars-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d13921377-Reviews-Hoian_Cars-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hoi an": 0.5,
+            "chuyến đi": 0.6217317602495314,
+            "sân bay": 0.7193403719866183,
+            "khách sạn": 0.3723234061617404,
+            "tour du lịch": 0.5,
+            "chiếc xe": 0.871640027340618,
+            "bánh kem sữa trứng": 0.9811188827734441,
+            "hạt điều": 0.5,
+            "chợ hàn": 0.9539213497191668,
+            "xe hoian": 0.9810751009499654,
+            "họ": 0.9955842376220971,
+            "giá cả": 0.9330561376991682,
+            "chuyển xe": 0.9953424492268823,
+            "phòng": 0.9914850686909631,
+            "lái xe": 0.9951337722304743,
+            "buổi sáng": 0.938493609894067,
+            "dịch vụ": 0.8632346802623942,
+            "cầu vàng": 0.5,
+            "khu nghỉ dưỡng": 0.7310126945376396,
+            "chỗ ngồi": 0.9897709850920364,
+            "xe tải": 0.34702750054808956,
+            "ô tô": 0.9955758022260852,
+            "hành trình": 0.9891026944387704,
+            "trình điều": 0.5117291584610939,
+            "phương tiện di chuyển": 0.659367373213172,
+            "trình điều khiển": 0.8737691454589367,
+            "ứng dụng": 0.9725580480104933,
+            "chuyến đi khứ hồi": 0.9954305512364954,
+            "trải nghiệm": 0.9952929429709911,
+            "suv mazda": 0.8737691454589367,
+            "không gian": 0.5,
+            "đảo sơn trà": 0.5,
+            "ngũ hành sơn": 0.5,
+            "tài xế": 0.9904610615922138
+        },
+        "dicts_adj": {
+            "hoi an": [],
+            "chuyến đi": [
+                "tốt",
+                "an toàn",
+                "suốt"
+            ],
+            "sân bay": [
+                "vui"
+            ],
+            "khách sạn": [
+                "thơm",
+                "ngon",
+                "cao",
+                "hơn",
+                "nhiều"
+            ],
+            "tour du lịch": [],
+            "chiếc xe": [
+                "sạch sẽ",
+                "mới",
+                "sang trọng",
+                "sạch sẽ"
+            ],
+            "bánh kem sữa trứng": [
+                "thơm",
+                "ngon"
+            ],
+            "hạt điều": [],
+            "chợ hàn": [
+                "nhanh"
+            ],
+            "xe hoian": [],
+            "họ": [
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "tuyệt vời",
+                "đau đớn",
+                "buồn bã",
+                "đầu tiên",
+                "hợp lý",
+                "rẻ",
+                "nhất"
+            ],
+            "chuyển xe": [
+                "khuyến khích",
+                "an toàn",
+                "thuận tiện"
+            ],
+            "phòng": [
+                "dễ dàng"
+            ],
+            "lái xe": [
+                "an toàn",
+                "lành mạnh",
+                "xuất sắc"
+            ],
+            "buổi sáng": [],
+            "dịch vụ": [
+                "hợp lý",
+                "dễ chịu",
+                "hợp lý",
+                "hài lòng"
+            ],
+            "cầu vàng": [],
+            "khu nghỉ dưỡng": [
+                "đầu tiên"
+            ],
+            "chỗ ngồi": [],
+            "xe tải": [
+                "sạch sẽ",
+                "khác",
+                "sạch sẽ"
+            ],
+            "ô tô": [
+                "hài lòng"
+            ],
+            "hành trình": [
+                "đầy đủ",
+                "bất kỳ"
+            ],
+            "trình điều": [
+                "khác"
+            ],
+            "phương tiện di chuyển": [
+                "thực sự"
+            ],
+            "trình điều khiển": [
+                "chuyên nghiệp"
+            ],
+            "ứng dụng": [
+                "hợp lý",
+                "rẻ",
+                "nhất"
+            ],
+            "chuyến đi khứ hồi": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "suv mazda": [
+                "hoàn toàn",
+                "nhiều"
+            ],
+            "không gian": [],
+            "đảo sơn trà": [],
+            "ngũ hành sơn": [],
+            "tài xế": [
+                "cùng",
+                "hạnh phúc"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hoi an": 1.5,
+            "chuyến đi": 4.0,
+            "sân bay": 2.0,
+            "khách sạn": 2.0,
+            "tour du lịch": 1,
+            "chiếc xe": 2.0,
+            "bánh kem sữa trứng": 1,
+            "hạt điều": 1,
+            "chợ hàn": 1,
+            "xe hoian": 0.5,
+            "họ": 0.5,
+            "giá cả": 1.0,
+            "chuyển xe": 0.5,
+            "phòng": 0.5,
+            "lái xe": 1.0,
+            "buổi sáng": 0.5,
+            "dịch vụ": 2.0,
+            "cầu vàng": 0.5,
+            "khu nghỉ dưỡng": 0.5,
+            "chỗ ngồi": 0.5,
+            "xe tải": 0.5,
+            "ô tô": 0.5,
+            "hành trình": 0.5,
+            "trình điều": 0.5,
+            "phương tiện di chuyển": 0.5,
+            "trình điều khiển": 0.5,
+            "ứng dụng": 0.5,
+            "chuyến đi khứ hồi": 0.5,
+            "trải nghiệm": 0.5,
+            "suv mazda": 0.5,
+            "không gian": 0.5,
+            "đảo sơn trà": 0.5,
+            "ngũ hành sơn": 0.5,
+            "tài xế": 0.5
+        }
     },
     {
         "attraction_name": "Hoian Cars",
@@ -219,7 +407,193 @@
             "https://www.tripadvisor.com/Attraction_Review-g40827-d1113753-Reviews-Allagash_Brewing_Company-Portland_Maine.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d13921377-Reviews-or20-Hoian_Cars-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d13921377-Reviews-or10-Hoian_Cars-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d13921377-Reviews-or10-Hoian_Cars-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "phòng": 0.7476127217814792,
+            "hội an": 0.5679409774020314,
+            "lái xe": 0.9240664452081546,
+            "chiếc xe": 0.9937838401917057,
+            "sân bay": 0.24822339708528793,
+            "khách sạn": 0.5,
+            "chuyến bay": 0.5,
+            "dịch vụ": 0.6149183964230663,
+            "chuyến đi": 0.658995450445218,
+            "quảng cáo": 0.5,
+            "xe hơi hội an": 0.5,
+            "nhà hàng": 0.5,
+            "giá cả": 0.9346557001408655,
+            "dịch vụ taxi": 0.5,
+            "trang web": 0.9933609874569811,
+            "hành trình": 0.0048673387500457466,
+            "email xe": 0.9950842189136893,
+            "chùa mỹ sơn": 0.5436102878302336,
+            "quá trình": 0.9954195164027624,
+            "xe đạp": 0.7358237486332655,
+            "dãy nhà": 0.5,
+            "xe sạch tài xế": 0.9955251549836248,
+            "cảng hàng không quốc tế": 0.9765420788899064,
+            "lái xe nam": 0.8737691454589367,
+            "văn hóa việt": 0.9943307209759951,
+            "tô": 0.5,
+            "dịch vụ xe khách sạn": 0.5,
+            "chuyến đi bằng xe hội an": 0.9922759110340849,
+            "hoi an": 0.8737691454589367,
+            "trải nghiệm lái xe": 0.9954549701651558,
+            "đặt phòng": 0.9918919262709096
+        },
+        "dicts_adj": {
+            "phòng": [
+                "dễ dàng",
+                "nhanh chóng"
+            ],
+            "hội an": [
+                "bất kỳ"
+            ],
+            "lái xe": [
+                "đúng",
+                "nhiều",
+                "hữu ích",
+                "giỏi",
+                "chuyên nghiệp",
+                "cừ khôi",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tốt",
+                "hơn",
+                "nhiều",
+                "khác"
+            ],
+            "chiếc xe": [
+                "tốt",
+                "an toàn",
+                "dễ"
+            ],
+            "sân bay": [
+                "đúng",
+                "căng thẳng",
+                "đúng",
+                "căng thẳng",
+                "tuyệt vời",
+                "hợp lý"
+            ],
+            "khách sạn": [],
+            "chuyến bay": [],
+            "dịch vụ": [
+                "thân thiện",
+                "tốt",
+                "đúng",
+                "căng thẳng",
+                "tuyệt vời",
+                "đúng",
+                "nhanh",
+                "cao",
+                "hơn",
+                "xuất sắc",
+                "rẻ",
+                "hơn",
+                "nhiều",
+                "nhiều",
+                "riêng"
+            ],
+            "chuyến đi": [
+                "tuyệt vời"
+            ],
+            "quảng cáo": [],
+            "xe hơi hội an": [],
+            "nhà hàng": [],
+            "giá cả": [
+                "tuyệt vời",
+                "rẻ",
+                "hơn",
+                "xuất sắc",
+                "sạch sẽ",
+                "tốt",
+                "hợp lý",
+                "tốt"
+            ],
+            "dịch vụ taxi": [],
+            "trang web": [
+                "toàn diện",
+                "nhiều",
+                "dễ dàng"
+            ],
+            "hành trình": [
+                "khác",
+                "dễ"
+            ],
+            "email xe": [
+                "tuyệt vời",
+                "hợp lý"
+            ],
+            "chùa mỹ sơn": [
+                "riêng"
+            ],
+            "quá trình": [
+                "dễ dàng"
+            ],
+            "xe đạp": [],
+            "dãy nhà": [],
+            "xe sạch tài xế": [
+                "giỏi",
+                "tuyệt vời"
+            ],
+            "cảng hàng không quốc tế": [],
+            "lái xe nam": [
+                "cừ khôi",
+                "tuyệt vời"
+            ],
+            "văn hóa việt": [
+                "tốt",
+                "thú vị"
+            ],
+            "tô": [],
+            "dịch vụ xe khách sạn": [],
+            "chuyến đi bằng xe hội an": [
+                "chắc chắn"
+            ],
+            "hoi an": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm lái xe": [
+                "tuyệt vời"
+            ],
+            "đặt phòng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "phòng": 1.0,
+            "hội an": 1.0,
+            "lái xe": 2.0,
+            "chiếc xe": 0.5,
+            "sân bay": 1.5,
+            "khách sạn": 1.5,
+            "chuyến bay": 0.5,
+            "dịch vụ": 2.5,
+            "chuyến đi": 2.0,
+            "quảng cáo": 0.5,
+            "xe hơi hội an": 0.5,
+            "nhà hàng": 0.5,
+            "giá cả": 1.0,
+            "dịch vụ taxi": 0.5,
+            "trang web": 1.0,
+            "hành trình": 0.5,
+            "email xe": 0.5,
+            "chùa mỹ sơn": 0.5,
+            "quá trình": 0.5,
+            "xe đạp": 0.5,
+            "dãy nhà": 0.5,
+            "xe sạch tài xế": 0.5,
+            "cảng hàng không quốc tế": 0.5,
+            "lái xe nam": 0.5,
+            "văn hóa việt": 0.5,
+            "tô": 0.5,
+            "dịch vụ xe khách sạn": 0.5,
+            "chuyến đi bằng xe hội an": 0.5,
+            "hoi an": 0.5,
+            "trải nghiệm lái xe": 0.5,
+            "đặt phòng": 0.5
+        }
     },
     {
         "attraction_name": "Hoian Cars",
@@ -318,6 +692,75 @@
             "https://www.tripadvisor.com/Attraction_Review-g189541-d24027217-Reviews-Reffen_Copenhagen_Street_Food-Copenhagen_Zealand.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d13921377-Reviews-or20-Hoian_Cars-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d13921377-Reviews-or20-Hoian_Cars-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.8018307210295461,
+            "sân bay": 0.7530498805378253,
+            "chuyến bay": 0.611394390463829,
+            "chuyến thăm": 0.5,
+            "người lái xe": 0.9947751162108034,
+            "dịch vụ khách sạn": 0.9951515152934007,
+            "chuyến đi": 0.9955332057434134,
+            "xe": 0.995599877089262,
+            "giá cả": 0.8737691454589367,
+            "khách sạn": 0.5,
+            "xe ô tô": 0.9955312710953876,
+            "máy lạnh": 0.5
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "đúng",
+                "tuyệt vời"
+            ],
+            "sân bay": [
+                "nhanh chóng",
+                "riêng",
+                "hợp lý",
+                "riêng",
+                "hợp lý"
+            ],
+            "chuyến bay": [
+                "hơn"
+            ],
+            "chuyến thăm": [],
+            "người lái xe": [],
+            "dịch vụ khách sạn": [
+                "thực sự",
+                "tốt",
+                "rẻ",
+                "hơn",
+                "nhiều"
+            ],
+            "chuyến đi": [],
+            "xe": [
+                "đúng",
+                "sạch sẽ",
+                "thoải mái"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "khách sạn": [],
+            "xe ô tô": [
+                "sạch sẽ"
+            ],
+            "máy lạnh": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 1.5,
+            "sân bay": 1.5,
+            "chuyến bay": 0.5,
+            "chuyến thăm": 0.5,
+            "người lái xe": 0.5,
+            "dịch vụ khách sạn": 0.5,
+            "chuyến đi": 0.5,
+            "xe": 0.5,
+            "giá cả": 0.5,
+            "khách sạn": 0.5,
+            "xe ô tô": 0.5,
+            "máy lạnh": 0.5
+        }
     }
 ]

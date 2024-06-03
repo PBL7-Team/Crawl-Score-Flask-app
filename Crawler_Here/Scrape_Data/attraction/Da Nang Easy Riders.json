@@ -81,7 +81,306 @@
             "https://www.tripadvisor.com/Attraction_Review-g635753-d8627060-Reviews-Bohey_Dulang_Island-Semporna_Semporna_District_Sabah.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d10077795-Reviews-or10-Da_Nang_Easy_Riders-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d10077795-Reviews-Da_Nang_Easy_Riders-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d10077795-Reviews-Da_Nang_Easy_Riders-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "mini t bom": 0.9953652460244484,
+            "chuyến đi": 0.8437160659953953,
+            "hành trình": 0.9945980531629175,
+            "thác nước": 0.8395817004742899,
+            "khung cảnh": 0.5,
+            "thắng cảnh": 0.9953740863129497,
+            "cảnh": 0.994837156458137,
+            "xe đạp": 0.5,
+            "đất nước": 0.9953465154394507,
+            "son tra": 0.9808862470090389,
+            "ga xe lửa": 0.731443265452981,
+            "chỗ ở": 0.507756344974041,
+            "cà phê": 0.8301998631795868,
+            "chuyến tham": 0.5,
+            "chuyến tham quan": 0.5,
+            "xe máy": 0.7249842959281523,
+            "khách sạn": 0.7843341580883134,
+            "quang cảnh": 0.9952944771503098,
+            "thác nước đập nước": 0.5,
+            "trang trại": 0.5,
+            "khu tưởng niệm": 0.5,
+            "làng cơtu": 0.5,
+            "món ăn": 0.995578886300791,
+            "bữa ăn": 0.7704883217811584,
+            "chuyến tàu": -0.1457683276385069,
+            "hội an": 0.9890938147436827,
+            "dịch vụ": 0.9934216002002358,
+            "phòng": 0.9384834552183747,
+            "tour du lịch": 0.5,
+            "nhà nghỉ": 0.9916659449227154,
+            "núi đá cẩm": 0.9914713674224913,
+            "đèo hải": 0.8737691454589367,
+            "bãi biển": 0.9306659642606974,
+            "chuyến du lịch": 0.7459274642751552,
+            "trải nghiệm du lịch": 0.9954346943413839,
+            "lái xe": 0.9767272443859838,
+            "ngọn núi": 0.5,
+            "nét văn hóa": 0.9830757868476212,
+            "hát karaoke": 0.9955212557106279,
+            "chuyến lưu diễn": -0.22085494920611382,
+            "hướng dẫn viên": 0.5754558279489478,
+            "phong cảnh": 0.9944518146803603,
+            "trải nghiệm": 0.1713716108351946,
+            "ngắm cảnh": 0.792834563277817,
+            "đồ uống": 0.9955275983957108,
+            "nước mía nước dừa": 0.5,
+            "buổi bơi": 0.9955123193212785,
+            "thác nước hẻo": 0.9927890587132424,
+            "đặc sản": 0.5,
+            "thịt lợn nướng": 0.5,
+            "mì": 0.5,
+            "chuyến đi xe đạp": 0.9952583453850821,
+            "chuyên môn": 0.9910875408677384,
+            "tour xe đạp": 0.5
+        },
+        "dicts_adj": {
+            "mini t bom": [
+                "tuyệt vời",
+                "nhất",
+                "dễ dàng",
+                "nổi bật"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "bất kỳ",
+                "vui",
+                "cùng",
+                "sẵn sàng",
+                "chắc chắn",
+                "sớm",
+                "khác",
+                "tuyệt vời",
+                "vui",
+                "tuyệt vời",
+                "Cuối cùng",
+                "cùng",
+                "tuyệt vời",
+                "tốt",
+                "vui tính",
+                "nhanh",
+                "tuyệt vời",
+                "khó",
+                "tốt"
+            ],
+            "hành trình": [
+                "hoàn toàn"
+            ],
+            "thác nước": [
+                "hẻo lánh",
+                "nhiều",
+                "cần thiết"
+            ],
+            "khung cảnh": [],
+            "thắng cảnh": [
+                "đẹp",
+                "đẹp"
+            ],
+            "cảnh": [
+                "đẹp",
+                "đẹp",
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "xe đạp": [],
+            "đất nước": [
+                "đủ",
+                "xinh đẹp"
+            ],
+            "son tra": [],
+            "ga xe lửa": [
+                "mệt mỏi"
+            ],
+            "chỗ ở": [
+                "cùng"
+            ],
+            "cà phê": [
+                "cùng",
+                "nhiều"
+            ],
+            "chuyến tham": [],
+            "chuyến tham quan": [],
+            "xe máy": [
+                "tuyệt đối",
+                "mạnh"
+            ],
+            "khách sạn": [
+                "tuyệt vời",
+                "vui vẻ",
+                "vui"
+            ],
+            "quang cảnh": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "thác nước đập nước": [],
+            "trang trại": [],
+            "khu tưởng niệm": [],
+            "làng cơtu": [],
+            "món ăn": [
+                "ngon",
+                "ngon"
+            ],
+            "bữa ăn": [
+                "phải chăng"
+            ],
+            "chuyến tàu": [
+                "dài",
+                "bình thường",
+                "khắp",
+                "hơn"
+            ],
+            "hội an": [],
+            "dịch vụ": [
+                "bất kỳ"
+            ],
+            "phòng": [
+                "vui"
+            ],
+            "tour du lịch": [],
+            "nhà nghỉ": [
+                "xinh đẹp"
+            ],
+            "núi đá cẩm": [
+                "xinh đẹp"
+            ],
+            "đèo hải": [
+                "xinh đẹp"
+            ],
+            "bãi biển": [
+                "nhiều"
+            ],
+            "chuyến du lịch": [
+                "nhiều"
+            ],
+            "trải nghiệm du lịch": [
+                "tuyệt vời"
+            ],
+            "lái xe": [
+                "tuyệt vời",
+                "liên tục",
+                "đẹp"
+            ],
+            "ngọn núi": [],
+            "nét văn hóa": [
+                "nhiều",
+                "tuyệt vời",
+                "bất kỳ"
+            ],
+            "hát karaoke": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "chuyến lưu diễn": [
+                "chắc chắn",
+                "khác"
+            ],
+            "hướng dẫn viên": [
+                "giống",
+                "hơn",
+                "suốt"
+            ],
+            "phong cảnh": [
+                "đẹp"
+            ],
+            "trải nghiệm": [
+                "khó",
+                "tốt"
+            ],
+            "ngắm cảnh": [
+                "thơm",
+                "ngon",
+                "duy nhất"
+            ],
+            "đồ uống": [
+                "thơm",
+                "ngon"
+            ],
+            "nước mía nước dừa": [],
+            "buổi bơi": [
+                "sảng khoái"
+            ],
+            "thác nước hẻo": [
+                "hẻo lánh"
+            ],
+            "đặc sản": [],
+            "thịt lợn nướng": [],
+            "mì": [],
+            "chuyến đi xe đạp": [
+                "sau",
+                "cùng",
+                "hoàn toàn",
+                "tuyệt vời"
+            ],
+            "chuyên môn": [
+                "an toàn",
+                "hơn"
+            ],
+            "tour xe đạp": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "mini t bom": 0.5,
+            "chuyến đi": 5.0,
+            "hành trình": 0.5,
+            "thác nước": 3.5,
+            "khung cảnh": 0.5,
+            "thắng cảnh": 0.5,
+            "cảnh": 1.5,
+            "xe đạp": 1.5,
+            "đất nước": 0.5,
+            "son tra": 0.5,
+            "ga xe lửa": 2,
+            "chỗ ở": 1,
+            "cà phê": 3,
+            "chuyến tham": 1,
+            "chuyến tham quan": 2,
+            "xe máy": 2,
+            "khách sạn": 4,
+            "quang cảnh": 1,
+            "thác nước đập nước": 1,
+            "trang trại": 1,
+            "khu tưởng niệm": 1,
+            "làng cơtu": 1,
+            "món ăn": 2,
+            "bữa ăn": 1,
+            "chuyến tàu": 2,
+            "hội an": 2,
+            "dịch vụ": 1,
+            "phòng": 1,
+            "tour du lịch": 2,
+            "nhà nghỉ": 1,
+            "núi đá cẩm": 1,
+            "đèo hải": 1,
+            "bãi biển": 1,
+            "chuyến du lịch": 2,
+            "trải nghiệm du lịch": 1,
+            "lái xe": 1,
+            "ngọn núi": 1,
+            "nét văn hóa": 1,
+            "hát karaoke": 1,
+            "chuyến lưu diễn": 1,
+            "hướng dẫn viên": 1.5,
+            "phong cảnh": 0.5,
+            "trải nghiệm": 0.5,
+            "ngắm cảnh": 1,
+            "đồ uống": 1,
+            "nước mía nước dừa": 1,
+            "buổi bơi": 1,
+            "thác nước hẻo": 1,
+            "đặc sản": 1,
+            "thịt lợn nướng": 1,
+            "mì": 1,
+            "chuyến đi xe đạp": 1,
+            "chuyên môn": 1,
+            "tour xe đạp": 1
+        }
     },
     {
         "attraction_name": "Da Nang Easy Riders",
@@ -166,7 +465,290 @@
             "https://www.tripadvisor.com/Attraction_Review-g187791-d2422079-Reviews-Galleria_Alberto_Sordi-Rome_Lazio.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d10077795-Reviews-or20-Da_Nang_Easy_Riders-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d10077795-Reviews-or10-Da_Nang_Easy_Riders-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d10077795-Reviews-or10-Da_Nang_Easy_Riders-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.8454853814502712,
+            "đèo": 0.9954459121217951,
+            "hải vân": 0.8737691454589367,
+            "thác nước": 0.7897700939017037,
+            "đường hầm": 0.9955010588164441,
+            "ngũ hành sơn": 0.6868845727294683,
+            "lái xe": 0.9949822254711762,
+            "trải nghiệm": 0.2566826200854848,
+            "tàu hỏa cảnh": -0.9747143008280545,
+            "tài xế": 0.5,
+            "khách sạn": -0.3532370180415455,
+            "xe đạp": 0.5393515210598707,
+            "tô du lịch": 0.993631829158403,
+            "điện thoại di động": 0.6629757359623909,
+            "chuyến tham": 0.7451864405302331,
+            "di tích mỹ sơn": 0.5,
+            "chuyến tham quan": 0.7064908014856175,
+            "chuyến phiêu lưu mô tô": 0.5166168296709657,
+            "đúng như": 0.961484384490177,
+            "di sản văn hóa mỹ sơn": 0.8737691454589367,
+            "khu chợ địa": 0.9918415826978162,
+            "bánh tráng": 0.9951768436003476,
+            "mì gạo làng dừa": 0.9947930171620101,
+            "núi đá cẩm thạch": 0.9943435480818152,
+            "núi khỉ": 0.8737691454589367,
+            "tầm nhìn": 0.9954608453554101,
+            "bãi biển": 0.9838432636461221,
+            "viên giỏi luôn": 0.9954387078760192,
+            "giao thông": 0.9811235048109666,
+            "thác suối": 0.8737691454589367,
+            "làng chài": 0.5,
+            "bãi biển lăng cô": 0.8737691454589367,
+            "nhiếp ảnh gia": 0.6549212262034416,
+            "xe buýt": 0.5552734546363354,
+            "cuộc phiêu lưu": 0.9954097158042714,
+            "ngọn núi": 0.8436806170968337,
+            "địa điểm": 0.7770612236810847,
+            "ngũ hành": 0.8737691454589367,
+            "chuyến thăm": 0.5,
+            "công viên nước": 0.5,
+            "chuyến tàu": 0.9827342065982521,
+            "kiến ​​thức": 0.9953068353934214,
+            "dịch vụ xe hơi": 0.5003458671271801,
+            "cửa hàng": 0.9944440903491341,
+            "nhà hàng": 0.9914756165235303,
+            "xe hơi": 0.40914196234662087,
+            "chuyến du lịch": 0.5,
+            "đường núi làng mạc mỹ sơn đèo hải vân": 0.8737691454589367,
+            "khung cảnh": 0.995341528672725,
+            "đồ ăn": 0.9952837728196755
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "tuyệt vời",
+                "nhiều",
+                "tuyệt vời",
+                "chu đáo",
+                "an toàn",
+                "đủ",
+                "tuyệt vời",
+                "cùng"
+            ],
+            "đèo": [
+                "tuyệt vời"
+            ],
+            "hải vân": [
+                "tuyệt vời"
+            ],
+            "thác nước": [
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "đường hầm": [
+                "tuyệt vời"
+            ],
+            "ngũ hành sơn": [
+                "tuyệt vời"
+            ],
+            "lái xe": [
+                "cẩn thận",
+                "rõ ràng",
+                "giàu",
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "may mắn",
+                "tuyệt vời"
+            ],
+            "tàu hỏa cảnh": [
+                "thường ngày"
+            ],
+            "tài xế": [],
+            "khách sạn": [
+                "thân thiện",
+                "đông",
+                "tốt",
+                "tốt",
+                "khắp",
+                "nhiều"
+            ],
+            "xe đạp": [],
+            "tô du lịch": [],
+            "điện thoại di động": [
+                "cuối cùng"
+            ],
+            "chuyến tham": [
+                "tuyệt vời"
+            ],
+            "di tích mỹ sơn": [],
+            "chuyến tham quan": [
+                "bất kỳ",
+                "tuyệt vời",
+                "thực sự",
+                "vui",
+                "nhiều",
+                "tốt",
+                "cuối cùng",
+                "tốt",
+                "chắc chắn",
+                "phải",
+                "đủ"
+            ],
+            "chuyến phiêu lưu mô tô": [
+                "dài",
+                "ngắn"
+            ],
+            "đúng như": [],
+            "di sản văn hóa mỹ sơn": [
+                "tuyệt vời"
+            ],
+            "khu chợ địa": [
+                "tuyệt vời"
+            ],
+            "bánh tráng": [
+                "tuyệt vời"
+            ],
+            "mì gạo làng dừa": [
+                "tuyệt vời"
+            ],
+            "núi đá cẩm thạch": [
+                "tuyệt vời"
+            ],
+            "núi khỉ": [
+                "tuyệt vời"
+            ],
+            "tầm nhìn": [
+                "tuyệt vời"
+            ],
+            "bãi biển": [
+                "cuối cùng",
+                "xinh đẹp",
+                "xinh đẹp"
+            ],
+            "viên giỏi luôn": [
+                "bình tĩnh",
+                "lịch sự",
+                "tuyệt vời"
+            ],
+            "giao thông": [
+                "tốt",
+                "đông",
+                "an toàn",
+                "ổn định"
+            ],
+            "thác suối": [
+                "sảng khoái"
+            ],
+            "làng chài": [],
+            "bãi biển lăng cô": [
+                "sảng khoái"
+            ],
+            "nhiếp ảnh gia": [],
+            "xe buýt": [],
+            "cuộc phiêu lưu": [
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "ngọn núi": [
+                "ngoạn mục",
+                "đẹp",
+                "hơn",
+                "nhiều",
+                "bất kỳ"
+            ],
+            "địa điểm": [
+                "ngoạn mục",
+                "đẹp",
+                "hơn",
+                "nhiều",
+                "bất kỳ"
+            ],
+            "ngũ hành": [
+                "xinh đẹp"
+            ],
+            "chuyến thăm": [],
+            "công viên nước": [],
+            "chuyến tàu": [],
+            "kiến ​​thức": [
+                "tuyệt vời"
+            ],
+            "dịch vụ xe hơi": [],
+            "cửa hàng": [
+                "tốt"
+            ],
+            "nhà hàng": [
+                "tốt"
+            ],
+            "xe hơi": [
+                "hiện đại",
+                "sạch",
+                "đẹp",
+                "tuyệt vời",
+                "chuyên nghiệp"
+            ],
+            "chuyến du lịch": [],
+            "đường núi làng mạc mỹ sơn đèo hải vân": [
+                "khắp",
+                "nhiều"
+            ],
+            "khung cảnh": [
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "tuyệt",
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 10.0,
+            "đèo": 1.5,
+            "hải vân": 1.5,
+            "thác nước": 4.5,
+            "đường hầm": 1.5,
+            "ngũ hành sơn": 3.0,
+            "lái xe": 3.0,
+            "trải nghiệm": 4.0,
+            "tàu hỏa cảnh": 1.5,
+            "tài xế": 1.5,
+            "khách sạn": 2.5,
+            "xe đạp": 1.5,
+            "tô du lịch": 1.5,
+            "điện thoại di động": 1.5,
+            "chuyến tham": 3.0,
+            "di tích mỹ sơn": 1.5,
+            "chuyến tham quan": 4.5,
+            "chuyến phiêu lưu mô tô": 1.5,
+            "đúng như": 1.5,
+            "di sản văn hóa mỹ sơn": 1.5,
+            "khu chợ địa": 1.5,
+            "bánh tráng": 1.5,
+            "mì gạo làng dừa": 1.5,
+            "núi đá cẩm thạch": 1.5,
+            "núi khỉ": 1.5,
+            "tầm nhìn": 1.5,
+            "bãi biển": 3.0,
+            "viên giỏi luôn": 1.5,
+            "giao thông": 1.5,
+            "thác suối": 1.5,
+            "làng chài": 1.5,
+            "bãi biển lăng cô": 1.5,
+            "nhiếp ảnh gia": 1.5,
+            "xe buýt": 1.5,
+            "cuộc phiêu lưu": 1.5,
+            "ngọn núi": 1.5,
+            "địa điểm": 1.5,
+            "ngũ hành": 1.5,
+            "chuyến thăm": 1.5,
+            "công viên nước": 1.5,
+            "chuyến tàu": 1.5,
+            "kiến ​​thức": 1.5,
+            "dịch vụ xe hơi": 1,
+            "cửa hàng": 1,
+            "nhà hàng": 1,
+            "xe hơi": 1,
+            "chuyến du lịch": 1,
+            "đường núi làng mạc mỹ sơn đèo hải vân": 1,
+            "khung cảnh": 1,
+            "đồ ăn": 1
+        }
     },
     {
         "attraction_name": "Da Nang Easy Riders",
@@ -254,7 +836,250 @@
             "https://www.tripadvisor.com/Attraction_Review-g32070-d156413-Reviews-Mulholland_Drive-Beverly_Hills_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d10077795-Reviews-or30-Da_Nang_Easy_Riders-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d10077795-Reviews-or20-Da_Nang_Easy_Riders-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d10077795-Reviews-or20-Da_Nang_Easy_Riders-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến du lịch": 0.7822416854614858,
+            "vùng núi": 0.5,
+            "chuyến tham quan": 0.8737691454589367,
+            "xe máy": 0.8264264831668697,
+            "trải nghiệm": 0.9545769598335028,
+            "tuyến du lịch": -0.8871646649204195,
+            "chuyến đi": 0.7935543755302206,
+            "thủ thuật đánh bài": 0.9939246263820678,
+            "xe đạp": 0.4436242663883604,
+            "ghế đệm": 0.9885023401584476,
+            "chuyến phiêu lưu": 0.9357870193198323,
+            "hướng dẫn viên du lịch": 0.9325684243667638,
+            "ngọn núi": 0.5,
+            "thác nước": 0.7477705681230873,
+            "khách sạn": 0.74009770876728,
+            "nhà ga": 0.5438777003437281,
+            "tay đua": 0.991853027876156,
+            "hành trình": 0.9708355590701103,
+            "chuyến đi xe máy": 0.9955628214520402,
+            "chuyến đi khứ hồi": -0.48267426155507565,
+            "món ăn ngon thắng cảnh": 0.995526853366755,
+            "hướng dẫn viên": 0.9637656882405281,
+            "đường mòn hồ chí": 0.9912137456703931,
+            "đạp xe": 0.9939972427673638,
+            "quán cà phê": 0.9929484197637066,
+            "bữa trưa hải sản": 0.5,
+            "bãi biển lăng": 0.8737691454589367,
+            "điểm dừng": 0.6253752261400223,
+            "đường mòn": 0.5529418401420116,
+            "lái xe máy": 0.9490630433429033,
+            "cánh đồng lúa làng mạc": 0.5,
+            "rừng rậm": 0.5,
+            "người dân địa": -0.9672644338570535,
+            "đường núi": 0.8737691454589367,
+            "gia súc": 0.3779908884316683,
+            "cảnh": 0.9645416997373104,
+            "đất liền": 0.9147331696003675,
+            "ngôi làng": 0.8931242730468512,
+            "làng quê": 0.9913218377623707,
+            "quan rừng rậm": 0.905735993757844,
+            "kỳ nghỉ": 0.9486344018951058
+        },
+        "dicts_adj": {
+            "chuyến du lịch": [
+                "riêng",
+                "sớm",
+                "khác"
+            ],
+            "vùng núi": [],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "nhất",
+                "tuyệt vời",
+                "bất kỳ"
+            ],
+            "xe máy": [
+                "tuyệt vời",
+                "nhất",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "thực sự",
+                "tuyệt vời",
+                "nồng nhiệt",
+                "nhất",
+                "tuyệt vời"
+            ],
+            "tuyến du lịch": [
+                "xa",
+                "thông thường",
+                "khó khăn"
+            ],
+            "chuyến đi": [
+                "nhiều",
+                "hoàn toàn",
+                "tuyệt vời",
+                "hữu ích",
+                "nhiều",
+                "thư giãn",
+                "dễ dàng",
+                "hơn",
+                "nhất",
+                "nhất"
+            ],
+            "thủ thuật đánh bài": [
+                "nhiệt tình"
+            ],
+            "xe đạp": [
+                "thoải mái",
+                "lâu",
+                "hơn",
+                "cùng",
+                "bất kỳ",
+                "tuyệt vờiĐọc",
+                "hơn",
+                "riêng"
+            ],
+            "ghế đệm": [
+                "cùng"
+            ],
+            "chuyến phiêu lưu": [
+                "khác"
+            ],
+            "hướng dẫn viên du lịch": [
+                "giỏi",
+                "an toàn",
+                "xuất sắc"
+            ],
+            "ngọn núi": [],
+            "thác nước": [
+                "đẹp"
+            ],
+            "khách sạn": [
+                "ngon",
+                "tuyệt vời",
+                "chắc chắn"
+            ],
+            "nhà ga": [],
+            "tay đua": [
+                "giàu",
+                "kém",
+                "xuất sắc"
+            ],
+            "hành trình": [
+                "Riêng tư",
+                "hơn"
+            ],
+            "chuyến đi xe máy": [
+                "tuyệt vời"
+            ],
+            "chuyến đi khứ hồi": [
+                "dài"
+            ],
+            "món ăn ngon thắng cảnh": [
+                "tốt"
+            ],
+            "hướng dẫn viên": [
+                "tốt"
+            ],
+            "đường mòn hồ chí": [
+                "tuyệt vời",
+                "nhiều",
+                "hơn"
+            ],
+            "đạp xe": [
+                "tuyệt vời",
+                "cùng"
+            ],
+            "quán cà phê": [
+                "đầu tiên",
+                "ngoạn mục"
+            ],
+            "bữa trưa hải sản": [],
+            "bãi biển lăng": [
+                "đẹp"
+            ],
+            "điểm dừng": [
+                "nhiều",
+                "dọc",
+                "cuối cùng"
+            ],
+            "đường mòn": [
+                "cùng"
+            ],
+            "lái xe máy": [
+                "dễ dàng",
+                "hơn"
+            ],
+            "cánh đồng lúa làng mạc": [],
+            "rừng rậm": [],
+            "người dân địa": [],
+            "đường núi": [
+                "quanh co",
+                "đẹp"
+            ],
+            "gia súc": [
+                "dọc"
+            ],
+            "cảnh": [
+                "Nhiều"
+            ],
+            "đất liền": [
+                "giàu"
+            ],
+            "ngôi làng": [
+                "giàu"
+            ],
+            "làng quê": [
+                "vui"
+            ],
+            "quan rừng rậm": [
+                "vui"
+            ],
+            "kỳ nghỉ": [
+                "thân thiện"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến du lịch": 2,
+            "vùng núi": 1,
+            "chuyến tham quan": 3,
+            "xe máy": 3,
+            "trải nghiệm": 3,
+            "tuyến du lịch": 1,
+            "chuyến đi": 6,
+            "thủ thuật đánh bài": 1,
+            "xe đạp": 5,
+            "ghế đệm": 1,
+            "chuyến phiêu lưu": 1,
+            "hướng dẫn viên du lịch": 2,
+            "ngọn núi": 1,
+            "thác nước": 2,
+            "khách sạn": 1,
+            "nhà ga": 1,
+            "tay đua": 1,
+            "hành trình": 1,
+            "chuyến đi xe máy": 1,
+            "chuyến đi khứ hồi": 1,
+            "món ăn ngon thắng cảnh": 1,
+            "hướng dẫn viên": 1,
+            "đường mòn hồ chí": 1,
+            "đạp xe": 1,
+            "quán cà phê": 1,
+            "bữa trưa hải sản": 1,
+            "bãi biển lăng": 1,
+            "điểm dừng": 1,
+            "đường mòn": 1,
+            "lái xe máy": 1,
+            "cánh đồng lúa làng mạc": 1,
+            "rừng rậm": 1,
+            "người dân địa": 1,
+            "đường núi": 1,
+            "gia súc": 1,
+            "cảnh": 1,
+            "đất liền": 1,
+            "ngôi làng": 1,
+            "làng quê": 1,
+            "quan rừng rậm": 1,
+            "kỳ nghỉ": 1
+        }
     },
     {
         "attraction_name": "Da Nang Easy Riders",
@@ -340,7 +1165,196 @@
             "https://www.tripadvisor.com/Attraction_Review-g1215780-d1161264-Reviews-Kata_Noi_Beach-Karon_Phuket.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d10077795-Reviews-or40-Da_Nang_Easy_Riders-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d10077795-Reviews-or30-Da_Nang_Easy_Riders-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d10077795-Reviews-or30-Da_Nang_Easy_Riders-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.6976836952526355,
+            "khách sạn": 0.6169328892913958,
+            "xe đạp": 0.7940809161169454,
+            "hướng dẫn viên": 0.7934895237267483,
+            "chuyến đi": 0.8124024597720043,
+            "thị trấn nông thôn": 0.9951186156249605,
+            "phong cảnh": 0.9954637244227342,
+            "thác nước": 0.5,
+            "tầm nhìn": 0.9954608453554101,
+            "khung": 0.5,
+            "cảnh vịnh": 0.5,
+            "trải nghiệm": 0.9952929429709911,
+            "hướng dẫn viên du lịch": 0.9951147810012724,
+            "người dân": 0.5,
+            "ga xe lửa": 0.641568255610764,
+            "cà phê": 0.5,
+            "thợ may": 0.9778211037628353,
+            "phiêu lưu": 0.9955065291142091,
+            "tay đua": 0.5,
+            "rừng rậm": 0.5,
+            "chuyến du lịch": 0.9865848482586443,
+            "đường mòn hồ": 0.5194312706589699,
+            "tour du lịch": 0.9929686509130988,
+            "ký túc xá": 0.9955030858982354,
+            "điểm ngắm cảnh": 0.747735322045628,
+            "trạm": 0.7476997323392425,
+            "xe buýt": 0.5,
+            "xe máy": 0.5,
+            "điểm ăn trưa": 0.9955498807830736,
+            "chuyến đi tàu": 0.5748751563951373,
+            "bữa sáng": 0.9954084866330959,
+            "dịch vụ": 0.9730067332275212
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "rõ ràng",
+                "nhanh",
+                "riêng",
+                "tuyệt vời",
+                "ngoạn mục",
+                "giỏi",
+                "tuyệt vời",
+                "rõ"
+            ],
+            "khách sạn": [
+                "riêng",
+                "ngon lành"
+            ],
+            "xe đạp": [
+                "riêng",
+                "riêng",
+                "tuyệt vời",
+                "dễ",
+                "ngoạn mục"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "thực sự",
+                "vui vẻ",
+                "tốt bụng",
+                "giàu"
+            ],
+            "chuyến đi": [
+                "đẹp",
+                "tuyệt vời",
+                "tuyệt vời",
+                "phải",
+                "hoàn toàn",
+                "hài lòng",
+                "bất kỳ",
+                "thực sự",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "hơn",
+                "tuyệt vời",
+                "an toàn",
+                "suốt"
+            ],
+            "thị trấn nông thôn": [
+                "đẹp"
+            ],
+            "phong cảnh": [
+                "đẹp",
+                "ngoạn mục"
+            ],
+            "thác nước": [],
+            "tầm nhìn": [
+                "tuyệt vời"
+            ],
+            "khung": [],
+            "cảnh vịnh": [],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "hơn"
+            ],
+            "người dân": [],
+            "ga xe lửa": [
+                "may mắn"
+            ],
+            "cà phê": [],
+            "thợ may": [
+                "giỏi",
+                "tuyệt vời"
+            ],
+            "phiêu lưu": [
+                "thú vị",
+                "vui vẻ"
+            ],
+            "tay đua": [],
+            "rừng rậm": [],
+            "chuyến du lịch": [
+                "nhiều"
+            ],
+            "đường mòn hồ": [],
+            "tour du lịch": [
+                "tuyệt vời",
+                "nổi bật",
+                "nổi bật"
+            ],
+            "ký túc xá": [
+                "tuyệt vời"
+            ],
+            "điểm ngắm cảnh": [
+                "tuyệt vời"
+            ],
+            "trạm": [
+                "vinh quang",
+                "vinh quang"
+            ],
+            "xe buýt": [],
+            "xe máy": [],
+            "điểm ăn trưa": [
+                "đẹp"
+            ],
+            "chuyến đi tàu": [
+                "dài",
+                "mệt mỏi"
+            ],
+            "bữa sáng": [
+                "ngon lành"
+            ],
+            "dịch vụ": [
+                "đặc biệt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 4,
+            "khách sạn": 3,
+            "xe đạp": 1,
+            "hướng dẫn viên": 2,
+            "chuyến đi": 7,
+            "thị trấn nông thôn": 1,
+            "phong cảnh": 1,
+            "thác nước": 2,
+            "tầm nhìn": 1,
+            "khung": 1,
+            "cảnh vịnh": 1,
+            "trải nghiệm": 1,
+            "hướng dẫn viên du lịch": 2,
+            "người dân": 1,
+            "ga xe lửa": 1,
+            "cà phê": 1,
+            "thợ may": 1,
+            "phiêu lưu": 1,
+            "tay đua": 1,
+            "rừng rậm": 1,
+            "chuyến du lịch": 1,
+            "đường mòn hồ": 1,
+            "tour du lịch": 2,
+            "ký túc xá": 1,
+            "điểm ngắm cảnh": 2,
+            "trạm": 2,
+            "xe buýt": 1,
+            "xe máy": 2,
+            "điểm ăn trưa": 1,
+            "chuyến đi tàu": 1,
+            "bữa sáng": 1,
+            "dịch vụ": 1
+        }
     },
     {
         "attraction_name": "Da Nang Easy Riders",
@@ -421,6 +1435,111 @@
             "https://www.tripadvisor.com/Attraction_Review-g34296-d8393046-Reviews-Hard_Rock_Cafe-Hollywood_Broward_County_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d10077795-Reviews-or50-Da_Nang_Easy_Riders-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d10077795-Reviews-or40-Da_Nang_Easy_Riders-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d10077795-Reviews-or40-Da_Nang_Easy_Riders-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9954437270353083,
+            "chuyến tham quan": 0.5,
+            "hải": 0.8737691454589367,
+            "vân thác nước": 0.8737691454589367,
+            "xe": 0.9953883130801842,
+            "ngũ hành sơn": 0.7465086492011324,
+            "chuyến đi xe máy": 0.9954035365954041,
+            "thiên nhiên": 0.9952884333906695,
+            "rừng nhiệt đới": 0.5,
+            "chiến tranh": 0.5,
+            "bảo tàng": 0.5,
+            "ngôi làng": 0.38474446162581444,
+            "chuyến đi": 0.7707930598407984,
+            "khu vực": 0.3236794136464596,
+            "chuyến du lịch": 0.5,
+            "cảnh": 0.9955275755492039,
+            "chuyến tham": 0.9885041494853795,
+            "chủ nghĩa du lịch": 0.9538728874176741,
+            "chuyến lưu diễn": 0.9953214140259661,
+            "văn hóa": 0.5,
+            "lịch sử": 0.5
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời",
+                "vui"
+            ],
+            "chuyến tham quan": [],
+            "hải": [
+                "tuyệt vời"
+            ],
+            "vân thác nước": [
+                "tuyệt vời"
+            ],
+            "xe": [
+                "an toàn",
+                "thoải mái",
+                "đặc biệt"
+            ],
+            "ngũ hành sơn": [
+                "nhiệt tình"
+            ],
+            "chuyến đi xe máy": [
+                "tuyệt vời"
+            ],
+            "thiên nhiên": [
+                "tuyệt vời"
+            ],
+            "rừng nhiệt đới": [],
+            "chiến tranh": [],
+            "bảo tàng": [],
+            "ngôi làng": [
+                "nhỏ"
+            ],
+            "chuyến đi": [
+                "thực sự",
+                "cùng",
+                "nhiều"
+            ],
+            "khu vực": [],
+            "chuyến du lịch": [],
+            "cảnh": [
+                "tốt",
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "chuyến tham": [],
+            "chủ nghĩa du lịch": [
+                "khác biệt",
+                "điển hình",
+                "chắc chắn"
+            ],
+            "chuyến lưu diễn": [
+                "nhiều",
+                "đẹp"
+            ],
+            "văn hóa": [],
+            "lịch sử": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 2,
+            "chuyến tham quan": 1,
+            "hải": 1,
+            "vân thác nước": 1,
+            "xe": 1,
+            "ngũ hành sơn": 2,
+            "chuyến đi xe máy": 1,
+            "thiên nhiên": 1,
+            "rừng nhiệt đới": 1,
+            "chiến tranh": 1,
+            "bảo tàng": 1,
+            "ngôi làng": 1,
+            "chuyến đi": 2,
+            "khu vực": 1,
+            "chuyến du lịch": 1,
+            "cảnh": 1,
+            "chuyến tham": 1,
+            "chủ nghĩa du lịch": 1,
+            "chuyến lưu diễn": 1,
+            "văn hóa": 1,
+            "lịch sử": 1
+        }
     }
 ]

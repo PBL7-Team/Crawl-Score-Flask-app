@@ -77,7 +77,332 @@
             "https://www.tripadvisor.com/Attraction_Review-g60713-d156290-Reviews-Alamo_Square-San_Francisco_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d2435183-Reviews-or10-Urban_Discovery-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d2435183-Reviews-Urban_Discovery-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d2435183-Reviews-Urban_Discovery-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tour du lịch hồ": 0.8737691454589367,
+            "quán bar": 0.4319017920643091,
+            "hàng xe đạp": 0.5,
+            "tập thể xe đạp": 0.8737691454589367,
+            "hướng dẫn viên": 0.8515557427225369,
+            "chuyến tham quan": 0.3706869443477545,
+            "điểm tham": 0.40074041299521923,
+            "ngôi đền": 0.5238321963697672,
+            "trang trại": 0.5,
+            "hồ": 0.8174909129738808,
+            "ngũ xã": 0.8737691454589367,
+            "bữa trưa": 0.9586148350063013,
+            "món phở": -0.8940363125875592,
+            "lái xe": 0.9855415218044072,
+            "giao thông": 0.36121530840173366,
+            "xe đạp": 0.3769904209849691,
+            "mũ bảo hiểm": 0.9863290578359738,
+            "chuyến tham quan sông hồng": 0.860662353457883,
+            "trải nghiệm": 0.9916228062938899,
+            "tour du lịch hồ tây": 0.7115358971059322,
+            "hồ tây": 0.6868845727294683,
+            "cảnh": 0.9945543361827731,
+            "thức ăn địa phương": 0.5,
+            "cho bữa": 0.5,
+            "dòng xe": 0.5727938916534185,
+            "xe máy xe tải": 0.5,
+            "sông hồng": 0.5,
+            "hồ b-52": 0.5,
+            "biên đầy ấn": 0.5,
+            "đồ uống": 0.5,
+            "đồ ăn ngon": 0.5,
+            "thức ăn đường": 0.5,
+            "quan sát giao thông": 0.01050831563770771,
+            "chuyến tham": 0.6687846602872014,
+            "đạp xe": 0.6577819990925491,
+            "lịch sử": 0.5,
+            "nghĩa trang": 0.8298296442430001,
+            "đoàn": 0.8737691454589367,
+            "khu phố": 0.6851951582357287,
+            "buổi sáng": 0.20976045794668607,
+            "chuyến phiêu lưu": 0.9679671316407621,
+            "cầu": 0.9901810566079803,
+            "long biên": 0.8737691454589367,
+            "người dân": 0.00582777796080336,
+            "nông nghiệp": 0.9230160329025239,
+            "chuyến đi": 0.9692943608388305,
+            "đồi núi": 0.5963741522282362,
+            "hòn đá": -0.29334178543649614,
+            "xe máy": -0.6284066768130288,
+            "xe tải": -0.5812019694130868,
+            "ngõ ngách": 0.5,
+            "chuyến du lịch": 0.5,
+            "mặt": 0.503339858725667,
+            "thợ máy": 0.993645420530811,
+            "ngôi chùa": 0.9908823796431534,
+            "trại trẻ": -0.8683445653878152,
+            "hướng dẫn viên du lịch": 0.9950780743674841
+        },
+        "dicts_adj": {
+            "tour du lịch hồ": [
+                "nhỏ"
+            ],
+            "quán bar": [
+                "nhỏ"
+            ],
+            "hàng xe đạp": [],
+            "tập thể xe đạp": [
+                "nhỏ",
+                "gần"
+            ],
+            "hướng dẫn viên": [
+                "chu đáo",
+                "dũng cảm",
+                "thú vị",
+                "cẩn thận",
+                "linh hoạt",
+                "vui vẻ",
+                "thoải mái",
+                "chu đáo",
+                "thực sự",
+                "xa",
+                "thú vị"
+            ],
+            "chuyến tham quan": [
+                "gần",
+                "nhiều",
+                "bổ ích",
+                "thú vị",
+                "nhiều",
+                "tốt",
+                "ngoạn mục",
+                "xinh xắn",
+                "thú vị",
+                "tuyệt vời",
+                "tốt"
+            ],
+            "điểm tham": [
+                "dễ dàng"
+            ],
+            "ngôi đền": [
+                "đầu tiên"
+            ],
+            "trang trại": [],
+            "hồ": [
+                "khác"
+            ],
+            "ngũ xã": [
+                "đông đúc"
+            ],
+            "bữa trưa": [
+                "khác",
+                "ngon",
+                "tuyệt vời"
+            ],
+            "món phở": [
+                "khác"
+            ],
+            "lái xe": [
+                "dũng cảm"
+            ],
+            "giao thông": [
+                "nhiều",
+                "thực sự",
+                "nguy hiểm",
+                "nhanh chóng",
+                "dọc",
+                "nhỏ",
+                "dễ dàng",
+                "an toàn",
+                "điên cuồng"
+            ],
+            "xe đạp": [
+                "cuối cùng",
+                "gần",
+                "thú vị",
+                "nhiều",
+                "đầy đủ",
+                "tốt",
+                "ngoạn mục"
+            ],
+            "mũ bảo hiểm": [
+                "tốt"
+            ],
+            "chuyến tham quan sông hồng": [
+                "xinh đẹp",
+                "dọc",
+                "rộng rãi",
+                "ít",
+                "khó"
+            ],
+            "trải nghiệm": [
+                "khó"
+            ],
+            "tour du lịch hồ tây": [],
+            "hồ tây": [
+                "dọc"
+            ],
+            "cảnh": [
+                "đẹp",
+                "đẹp"
+            ],
+            "thức ăn địa phương": [],
+            "cho bữa": [],
+            "dòng xe": [
+                "đông đúc",
+                "đông đúc"
+            ],
+            "xe máy xe tải": [],
+            "sông hồng": [],
+            "hồ b-52": [],
+            "biên đầy ấn": [],
+            "đồ uống": [],
+            "đồ ăn ngon": [],
+            "thức ăn đường": [],
+            "quan sát giao thông": [],
+            "chuyến tham": [],
+            "đạp xe": [
+                "thực sự",
+                "dễ dàng",
+                "hơn",
+                "bất kỳ",
+                "khác"
+            ],
+            "lịch sử": [],
+            "nghĩa trang": [
+                "xinh đẹp",
+                "dọc",
+                "rộng rãi",
+                "ít",
+                "khó",
+                "chắc chắn",
+                "nổi bật"
+            ],
+            "đoàn": [
+                "thoải mái",
+                "chu đáo",
+                "thực sự",
+                "xa"
+            ],
+            "khu phố": [
+                "cổ"
+            ],
+            "buổi sáng": [
+                "xa",
+                "hối hả",
+                "nhộn nhịp",
+                "dễ dàng"
+            ],
+            "chuyến phiêu lưu": [
+                "khác"
+            ],
+            "cầu": [
+                "chắc chắn",
+                "nổi bật"
+            ],
+            "long biên": [
+                "chắc chắn",
+                "nổi bật"
+            ],
+            "người dân": [
+                "chắc chắn",
+                "nổi bật",
+                "thực sự"
+            ],
+            "nông nghiệp": [
+                "chắc chắn",
+                "nổi bật"
+            ],
+            "chuyến đi": [
+                "thư giãn"
+            ],
+            "đồi núi": [],
+            "hòn đá": [
+                "đá lăn",
+                "thẳm"
+            ],
+            "xe máy": [
+                "dọc",
+                "im lặng"
+            ],
+            "xe tải": [
+                "dọc",
+                "im lặng"
+            ],
+            "ngõ ngách": [],
+            "chuyến du lịch": [],
+            "mặt": [
+                "đông đúc"
+            ],
+            "thợ máy": [
+                "đầy đủ"
+            ],
+            "ngôi chùa": [
+                "xinh xắn"
+            ],
+            "trại trẻ": [
+                "mồ côi"
+            ],
+            "hướng dẫn viên du lịch": [
+                "giỏi",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tour du lịch hồ": 0.5,
+            "quán bar": 0.5,
+            "hàng xe đạp": 0.5,
+            "tập thể xe đạp": 1.0,
+            "hướng dẫn viên": 3.5,
+            "chuyến tham quan": 1.5,
+            "điểm tham": 0.5,
+            "ngôi đền": 0.5,
+            "trang trại": 0.5,
+            "hồ": 0.5,
+            "ngũ xã": 0.5,
+            "bữa trưa": 1.0,
+            "món phở": 0.5,
+            "lái xe": 0.5,
+            "giao thông": 2.5,
+            "xe đạp": 3.5,
+            "mũ bảo hiểm": 0.5,
+            "chuyến tham quan sông hồng": 1.0,
+            "trải nghiệm": 0.5,
+            "tour du lịch hồ tây": 1.0,
+            "hồ tây": 1.0,
+            "cảnh": 0.5,
+            "thức ăn địa phương": 0.5,
+            "cho bữa": 0.5,
+            "dòng xe": 1.0,
+            "xe máy xe tải": 0.5,
+            "sông hồng": 0.5,
+            "hồ b-52": 0.5,
+            "biên đầy ấn": 0.5,
+            "đồ uống": 0.5,
+            "đồ ăn ngon": 0.5,
+            "thức ăn đường": 0.5,
+            "quan sát giao thông": 0.5,
+            "chuyến tham": 1.0,
+            "đạp xe": 1.0,
+            "lịch sử": 0.5,
+            "nghĩa trang": 1.0,
+            "đoàn": 0.5,
+            "khu phố": 0.5,
+            "buổi sáng": 1.0,
+            "chuyến phiêu lưu": 0.5,
+            "cầu": 0.5,
+            "long biên": 0.5,
+            "người dân": 1.0,
+            "nông nghiệp": 0.5,
+            "chuyến đi": 0.5,
+            "đồi núi": 0.5,
+            "hòn đá": 0.5,
+            "xe máy": 0.5,
+            "xe tải": 0.5,
+            "ngõ ngách": 0.5,
+            "chuyến du lịch": 0.5,
+            "mặt": 0.5,
+            "thợ máy": 0.5,
+            "ngôi chùa": 0.5,
+            "trại trẻ": 0.5,
+            "hướng dẫn viên du lịch": 0.5
+        }
     },
     {
         "attraction_name": "Urban Discovery",
@@ -159,6 +484,153 @@
             "https://www.tripadvisor.com/Attraction_Review-g41818-d23776174-Reviews-Selfiewrld_Boston-Somerville_Massachusetts.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d2435183-Reviews-or10-Urban_Discovery-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d2435183-Reviews-or10-Urban_Discovery-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khu phố cổ": 0.9550791303627193,
+            "chuyến đi xe đạp": 0.9954635301837698,
+            "hướng dẫn viên": 0.7546774099027971,
+            "đô thị": 0.9907674612477422,
+            "xe đạp": 0.4933295911177993,
+            "ngóc": 0.5941261742264032,
+            "khu chợ": 0.5440130194183439,
+            "xe máy": 0.34522102773189545,
+            "khu phố": 0.6940604131668806,
+            "sinh viên đại học": 0.9371468983590603,
+            "cái nóng": 0.5,
+            "sinh viên": 0.5,
+            "cấu đô thị": 0.5,
+            "sản phẩm": 0.5,
+            "chuyến đi": 0.9911307457756872,
+            "cộng đồng du lịch": 0.9951789447804913,
+            "trải nghiệm": 0.14277759194374084,
+            "chuyến tham quan": 0.7423200897173956,
+            "chuyến phiêu lưu": 0.9954683040268719,
+            "bữa trưa": 0.6716924905776978,
+            "hành trình": 0.9953215338755399,
+            "con phố": 0.8042155020521022,
+            "người dân": -0.2612564265727997,
+            "tour đi xe đạp": 0.9951428904896602,
+            "thành phố văn hóa": -0.9026343110017478
+        },
+        "dicts_adj": {
+            "khu phố cổ": [
+                "Nhiều",
+                "lớn"
+            ],
+            "chuyến đi xe đạp": [
+                "nhiều",
+                "thú vị"
+            ],
+            "hướng dẫn viên": [
+                "xuất sắc",
+                "thực sự",
+                "nhỏ",
+                "lớn",
+                "tuyệt vời",
+                "đông đúc",
+                "đặc biệt",
+                "kiên nhẫn",
+                "kỹ lưỡng"
+            ],
+            "đô thị": [
+                "tuyệt vời"
+            ],
+            "xe đạp": [
+                "tốt"
+            ],
+            "ngóc": [
+                "Đủ",
+                "nhanh",
+                "nhiều",
+                "hơn",
+                "đủ",
+                "chậm"
+            ],
+            "khu chợ": [
+                "hẹp",
+                "chung"
+            ],
+            "xe máy": [
+                "cổ"
+            ],
+            "khu phố": [
+                "cổ"
+            ],
+            "sinh viên đại học": [
+                "chắc chắn"
+            ],
+            "cái nóng": [],
+            "sinh viên": [],
+            "cấu đô thị": [],
+            "sản phẩm": [],
+            "chuyến đi": [
+                "nhiều",
+                "thực sự",
+                "tuyệt vời",
+                "nổi bật"
+            ],
+            "cộng đồng du lịch": [],
+            "trải nghiệm": [],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "riêng",
+                "nhiều",
+                "thông thường"
+            ],
+            "chuyến phiêu lưu": [
+                "tuyệt vời"
+            ],
+            "bữa trưa": [
+                "cùng"
+            ],
+            "hành trình": [
+                "thú vị"
+            ],
+            "con phố": [
+                "đông đúc",
+                "tuyệt vời"
+            ],
+            "người dân": [
+                "thú vị",
+                "tích cực"
+            ],
+            "tour đi xe đạp": [
+                "hoàn hảo"
+            ],
+            "thành phố văn hóa": [
+                "nhiều",
+                "khác",
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khu phố cổ": 0.5,
+            "chuyến đi xe đạp": 0.5,
+            "hướng dẫn viên": 2.0,
+            "đô thị": 0.5,
+            "xe đạp": 1.0,
+            "ngóc": 0.5,
+            "khu chợ": 0.5,
+            "xe máy": 0.5,
+            "khu phố": 0.5,
+            "sinh viên đại học": 0.5,
+            "cái nóng": 0.5,
+            "sinh viên": 0.5,
+            "cấu đô thị": 0.5,
+            "sản phẩm": 0.5,
+            "chuyến đi": 1.5,
+            "cộng đồng du lịch": 0.5,
+            "trải nghiệm": 0.5,
+            "chuyến tham quan": 1.5,
+            "chuyến phiêu lưu": 0.5,
+            "bữa trưa": 0.5,
+            "hành trình": 0.5,
+            "con phố": 1.0,
+            "người dân": 0.5,
+            "tour đi xe đạp": 0.5,
+            "thành phố văn hóa": 0.5
+        }
     }
 ]
