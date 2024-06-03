@@ -124,7 +124,178 @@
             "https://www.tripadvisor.com/Attraction_Review-g56003-d15204206-Reviews-Rooftop_Cinema_Club-Houston_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d12940258-Reviews-or10-Orient_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12940258-Reviews-Orient_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12940258-Reviews-Orient_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bảo khánh hoàn": 0.9935188286472112,
+            "nhà trị liệu": 0.9936467750230804,
+            "nhân viên": 0.8657615995791275,
+            "khuôn mặt": -0.23641248233616352,
+            "sản phẩm": 0.19705183245241642,
+            "chống lão hóa da mặt": -0.7671647213865072,
+            "bữa trà chào": 0.9949994444614276,
+            "khay": 0.5,
+            "trà": 0.5,
+            "đối": -0.9679000049363822,
+            "nhà thờ st joseph": 0.5264108888804913,
+            "bầu không khí": 0.6170265879482031,
+            "có trà": 0.5,
+            "bánh quy": 0.5,
+            "phòng mát-xa": 0.565205717459321,
+            "phòng": 0.5422588475048542,
+            "phòng tắm": 0.5776153225451708,
+            "âm nhạc": 0.8737691454589367,
+            "phòng mát-xa tạo": 0.5378027688711882,
+            "trải nghiệm spa": 0.995569865568541,
+            "dịch vụ": 0.9780021023470908,
+            "buổi mát xa": 0.9955097054480575,
+            "nhân viên mát xa": 0.9869779505999758,
+            "dịch vụ mát xa": 0.9954974264837801,
+            "kiểu": -0.09850102383643389,
+            "massage": 0.7881557904571915,
+            "chăm sóc da mặt": 0.9954350296175107,
+            "tốt ở": -0.5319818630814552
+        },
+        "dicts_adj": {
+            "bảo khánh hoàn": [],
+            "nhà trị liệu": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "chuyên nghiệp",
+                "chu đáo",
+                "thân thiện",
+                "thân thiện",
+                "chu đáo",
+                "chuyên nghiệp",
+                "tuyệt vời",
+                "hữu ích",
+                "thô"
+            ],
+            "khuôn mặt": [
+                "ngắn",
+                "sạch",
+                "ngắn",
+                "sạch"
+            ],
+            "sản phẩm": [
+                "ngắn",
+                "sạch",
+                "ngắn",
+                "sạch"
+            ],
+            "chống lão hóa da mặt": [
+                "ngắn",
+                "sạch",
+                "ngắn",
+                "sạch"
+            ],
+            "bữa trà chào": [],
+            "khay": [],
+            "trà": [],
+            "đối": [
+                "buồn",
+                "buồn"
+            ],
+            "nhà thờ st joseph": [],
+            "bầu không khí": [
+                "bình tĩnh",
+                "thoải mái",
+                "bình tĩnh",
+                "thoải mái"
+            ],
+            "có trà": [],
+            "bánh quy": [],
+            "phòng mát-xa": [
+                "gần"
+            ],
+            "phòng": [
+                "riêng",
+                "riêng"
+            ],
+            "phòng tắm": [
+                "riêng",
+                "riêng"
+            ],
+            "âm nhạc": [
+                "êm dịu",
+                "nhẹ nhàng",
+                "êm dịu",
+                "nhẹ nhàng"
+            ],
+            "phòng mát-xa tạo": [
+                "gần"
+            ],
+            "trải nghiệm spa": [
+                "hợp lý",
+                "hợp lý"
+            ],
+            "dịch vụ": [
+                "nhiều",
+                "nhiều",
+                "hoàn hảo"
+            ],
+            "buổi mát xa": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "nhân viên mát xa": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "dịch vụ mát xa": [
+                "tốt"
+            ],
+            "kiểu": [
+                "thơm",
+                "sâu",
+                "nóng"
+            ],
+            "massage": [
+                "thơm",
+                "sâu",
+                "nóng"
+            ],
+            "chăm sóc da mặt": [
+                "tuyệt vời"
+            ],
+            "tốt ở": [
+                "chắc chắn",
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bảo khánh hoàn": 2,
+            "nhà trị liệu": 2,
+            "nhân viên": 10.0,
+            "khuôn mặt": 2,
+            "sản phẩm": 2,
+            "chống lão hóa da mặt": 2,
+            "bữa trà chào": 2,
+            "khay": 2,
+            "trà": 2,
+            "đối": 2,
+            "nhà thờ st joseph": 3.0,
+            "bầu không khí": 3.0,
+            "có trà": 3.0,
+            "bánh quy": 3.0,
+            "phòng mát-xa": 3.0,
+            "phòng": 3.0,
+            "phòng tắm": 3.0,
+            "âm nhạc": 3.0,
+            "phòng mát-xa tạo": 1.5,
+            "trải nghiệm spa": 3.0,
+            "dịch vụ": 4.0,
+            "buổi mát xa": 3.0,
+            "nhân viên mát xa": 5.0,
+            "dịch vụ mát xa": 2,
+            "kiểu": 2,
+            "massage": 2,
+            "chăm sóc da mặt": 1,
+            "tốt ở": 1
+        }
     },
     {
         "attraction_name": "Orient Spa",
@@ -241,7 +412,169 @@
             "https://www.tripadvisor.com/Attraction_Review-g60763-d10270499-Reviews-Graffiti_Hall_of_Fame-New_York_City_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d12940258-Reviews-or20-Orient_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12940258-Reviews-or10-Orient_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12940258-Reviews-or10-Orient_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "mát-xa toàn": 0.9949764334596694,
+            "trải nghiệm": 0.9954264456755482,
+            "nhân viên": 0.9464758995512966,
+            "nhà trị liệu": 0.9943262407323346,
+            "phòng": 0.677980305471768,
+            "tiện nghi": 0.9832212398760021,
+            "buổi": 0.5,
+            "tẩy tế": 0.5,
+            "trà xanh": 0.5,
+            "dịch vụ mát-xa qua": 0.9089716142043471,
+            "của chúng": 0.9868555862922221,
+            "chương trình khuyến mãi mùa thu": 0.991175590781495,
+            "nhà vệ sinh": 0.510755093768239,
+            "cơ sở vật chất": 0.7060634028166533,
+            "nhân viên lễ tân": 0.995520670840051,
+            "chuyên gia mát-xa": 0.453800642862916,
+            "dịch vụ chà chân": 0.8737691454589367,
+            "dịch vụ mát-xa của": 0.0388375956681557,
+            "nhân viên mát-xa từ": 0.5678732898086309,
+            "tế bào": -0.02724812924861908,
+            "chuyến bay": 0.962595724966377,
+            "orient spa": 0.8737691454589367,
+            "kỳ nghỉ": 0.9887391389347613,
+            "báo khánh": 0.5,
+            "hoàn kiếm": 0.5,
+            "dịch vụ": 0.9346857068303507,
+            "không khí": -0.1189488465897739,
+            "nhân viên mát xa tay nghề": 0.9944342930102721,
+            "môi trường": 0.9951002363814041,
+            "phương pháp điều trị": 0.5201399102807045
+        },
+        "dicts_adj": {
+            "mát-xa toàn": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "nhiệt tình",
+                "tận tình",
+                "thân thiện",
+                "đáng giá",
+                "tốt",
+                "chuyên nghiệp",
+                "thân thiện",
+                "chuyên nghiệp"
+            ],
+            "nhà trị liệu": [
+                "thực sự",
+                "giỏi"
+            ],
+            "phòng": [
+                "tốt",
+                "ồn ào",
+                "gần",
+                "riêng"
+            ],
+            "tiện nghi": [
+                "tốt"
+            ],
+            "buổi": [],
+            "tẩy tế": [],
+            "trà xanh": [],
+            "dịch vụ mát-xa qua": [
+                "dễ dàng"
+            ],
+            "của chúng": [
+                "dễ dàng"
+            ],
+            "chương trình khuyến mãi mùa thu": [
+                "sâu"
+            ],
+            "nhà vệ sinh": [
+                "riêng"
+            ],
+            "cơ sở vật chất": [
+                "sạch sẽ"
+            ],
+            "nhân viên lễ tân": [
+                "hữu ích",
+                "hữu ích"
+            ],
+            "chuyên gia mát-xa": [],
+            "dịch vụ chà chân": [
+                "tuyệt"
+            ],
+            "dịch vụ mát-xa của": [
+                "tốt",
+                "hơn"
+            ],
+            "nhân viên mát-xa từ": [
+                "khác",
+                "đủ"
+            ],
+            "tế bào": [],
+            "chuyến bay": [
+                "dịu"
+            ],
+            "orient spa": [
+                "tuyệt vời"
+            ],
+            "kỳ nghỉ": [
+                "chắc chắn"
+            ],
+            "báo khánh": [],
+            "hoàn kiếm": [],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "không khí": [
+                "tốt",
+                "tuyệt vời"
+            ],
+            "nhân viên mát xa tay nghề": [
+                "cao"
+            ],
+            "môi trường": [
+                "tuyệt vời"
+            ],
+            "phương pháp điều trị": [
+                "chuyên nghiệp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "mát-xa toàn": 1,
+            "trải nghiệm": 2,
+            "nhân viên": 5,
+            "nhà trị liệu": 1,
+            "phòng": 3,
+            "tiện nghi": 1,
+            "buổi": 1,
+            "tẩy tế": 1,
+            "trà xanh": 1,
+            "dịch vụ mát-xa qua": 1,
+            "của chúng": 1,
+            "chương trình khuyến mãi mùa thu": 1,
+            "nhà vệ sinh": 1,
+            "cơ sở vật chất": 2,
+            "nhân viên lễ tân": 1,
+            "chuyên gia mát-xa": 1,
+            "dịch vụ chà chân": 1,
+            "dịch vụ mát-xa của": 1,
+            "nhân viên mát-xa từ": 1,
+            "tế bào": 1,
+            "chuyến bay": 1,
+            "orient spa": 1,
+            "kỳ nghỉ": 1,
+            "báo khánh": 1,
+            "hoàn kiếm": 1,
+            "dịch vụ": 2,
+            "không khí": 2,
+            "nhân viên mát xa tay nghề": 1,
+            "môi trường": 1,
+            "phương pháp điều trị": 1
+        }
     },
     {
         "attraction_name": "Orient Spa",
@@ -360,7 +693,119 @@
             "https://www.tripadvisor.com/Attraction_Review-g303936-d618217-Reviews-Hamman_Bozori_Kord-Bukhara_Bukhara_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d12940258-Reviews-or30-Orient_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12940258-Reviews-or20-Orient_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12940258-Reviews-or20-Orient_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bằng dầu": 0.9952496674377471,
+            "bộ móng": 0.8737691454589367,
+            "dịch vụ mát-xa thật tuyệt": 0.9953312280122191,
+            "giờ": 0.9955421225749888,
+            "dịch vụ": 0.5,
+            "viên- xuất": 0.8737691454589367,
+            "mát-xa rất khuyến khích": 0.8737691454589367,
+            "chuyến đi": 0.7859102040529251,
+            "dịch vụ bổ": 0.7058751992881298,
+            "dịch vụ trơn": 0.9955934746540152,
+            "nhân viên mát xa đeo mặt nạ": 0.9955382553162053,
+            "nhân viên mát xa": 0.9950499526457861,
+            "loại": 0.5,
+            "massage": 0.5,
+            "đá nóng": 0.5,
+            "giá cả": 0.9941920633427799,
+            "- chúng": 0.9886711062863469,
+            "uống trước": 0.5,
+            "massage sạch": 0.5,
+            "chuyên nghiệp và giàu kinh": 0.5,
+            "viên có": 0.5,
+            "hiệu quả": 0.5,
+            "hàng ngày": 0.8582945996895432
+        },
+        "dicts_adj": {
+            "bằng dầu": [
+                "tuyệt vời"
+            ],
+            "bộ móng": [
+                "tuyệt vời"
+            ],
+            "dịch vụ mát-xa thật tuyệt": [
+                "tuyệt vời"
+            ],
+            "giờ": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "nhất"
+            ],
+            "dịch vụ": [],
+            "viên- xuất": [
+                "chuyên nghiệp",
+                "sạch sẽ",
+                "chuyên nghiệp",
+                "hài lòng"
+            ],
+            "mát-xa rất khuyến khích": [
+                "chuyên nghiệp",
+                "sạch sẽ",
+                "chuyên nghiệp",
+                "hài lòng"
+            ],
+            "chuyến đi": [
+                "bất kỳ"
+            ],
+            "dịch vụ bổ": [
+                "bất kỳ"
+            ],
+            "dịch vụ trơn": [
+                "tốt",
+                "sạch sẽ",
+                "trơn tru",
+                "hợp lý"
+            ],
+            "nhân viên mát xa đeo mặt nạ": [
+                "an toàn"
+            ],
+            "nhân viên mát xa": [],
+            "loại": [],
+            "massage": [],
+            "đá nóng": [],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "- chúng": [],
+            "uống trước": [],
+            "massage sạch": [],
+            "chuyên nghiệp và giàu kinh": [],
+            "viên có": [],
+            "hiệu quả": [],
+            "hàng ngày": [
+                "suốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bằng dầu": 1,
+            "bộ móng": 1,
+            "dịch vụ mát-xa thật tuyệt": 1,
+            "giờ": 1,
+            "dịch vụ": 1,
+            "viên- xuất": 1,
+            "mát-xa rất khuyến khích": 1,
+            "chuyến đi": 1,
+            "dịch vụ bổ": 1,
+            "dịch vụ trơn": 1,
+            "nhân viên mát xa đeo mặt nạ": 0.5,
+            "nhân viên mát xa": 0.5,
+            "loại": 0.5,
+            "massage": 0.5,
+            "đá nóng": 0.5,
+            "giá cả": 0.5,
+            "- chúng": 0.5,
+            "uống trước": 0.5,
+            "massage sạch": 0.5,
+            "chuyên nghiệp và giàu kinh": 0.5,
+            "viên có": 0.5,
+            "hiệu quả": 0.5,
+            "hàng ngày": 0.5
+        }
     },
     {
         "attraction_name": "Orient Spa",
@@ -479,7 +924,164 @@
             "https://www.tripadvisor.com/Attraction_Review-g147390-d23964122-Reviews-La_Vigie_Paramin_Lookout-Maraval_Trinidad_Trinidad_and_Tobago.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d12940258-Reviews-or40-Orient_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12940258-Reviews-or30-Orient_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12940258-Reviews-or30-Orient_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9649252265080577,
+            "nhân viên": 0.9945220349472947,
+            "nhân viên mát-xa của chúng": 0.995367931027431,
+            "liệu pháp mát-xa của": 0.20123112946748734,
+            "của": 0.4946376159787178,
+            "da mặt": 0.5,
+            "tẩy": 0.6868845727294683,
+            "tế bào": 0.7440524398698471,
+            "mặt -": 0.5,
+            "chăm sóc chân": 0.5,
+            "dịch vụ giáng sinh": 0.9954643892124295,
+            "bằng hương": 0.5,
+            "trong 75": 0.5,
+            "bác sĩ trị liệu": 0.9954566823435016,
+            "phương pháp điều trị": -0.9712544195353985,
+            "giá cả": 0.9941920633427799,
+            "sĩ trị liệu": 0.9920389867620543,
+            "buổi mát-xa ngẫu": 0.992064620833844,
+            "nhân viên mát xa": 0.9955023184302263,
+            "nhân viên tiếp tân": 0.8737691454589367,
+            "món ngon": 0.5,
+            "chỗ spa": 0.44705891609191895,
+            "dịch vụ": 0.9941790130687878,
+            "đồ uống": 0.84811743022874,
+            "dịch vụ mát-xa tuyệt vời": 0.9953483877470717,
+            "tài sản": 0.995568773127161,
+            "thảo dược massage": 0.5,
+            "tắm thảo dược": 0.9952449451084249,
+            "chuyến đi": 0.9945900972234085
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tốt",
+                "thực sự",
+                "chắc chắn",
+                "Thực sự",
+                "tuyệt vời",
+                "hoàn toàn"
+            ],
+            "nhân viên": [
+                "chuyên nghiệp",
+                "tử tế",
+                "đẹp",
+                "sạch sẽ"
+            ],
+            "nhân viên mát-xa của chúng": [
+                "tuyệt vời"
+            ],
+            "liệu pháp mát-xa của": [
+                "mạnh"
+            ],
+            "của": [
+                "mạnh"
+            ],
+            "da mặt": [],
+            "tẩy": [
+                "tuyệt vời",
+                "mềm mại"
+            ],
+            "tế bào": [
+                "tuyệt vời",
+                "mềm mại"
+            ],
+            "mặt -": [],
+            "chăm sóc chân": [],
+            "dịch vụ giáng sinh": [
+                "đặc biệt",
+                "hoàn toàn",
+                "xứng đáng"
+            ],
+            "bằng hương": [],
+            "trong 75": [],
+            "bác sĩ trị liệu": [
+                "tuyệt vời",
+                "căng thẳng",
+                "mạnh mẽ",
+                "dịu dàng"
+            ],
+            "phương pháp điều trị": [
+                "khác"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "sĩ trị liệu": [
+                "tài năng"
+            ],
+            "buổi mát-xa ngẫu": [
+                "chắc chắn"
+            ],
+            "nhân viên mát xa": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "nhân viên tiếp tân": [
+                "nồng hậu"
+            ],
+            "món ngon": [],
+            "chỗ spa": [
+                "sớm",
+                "hơn"
+            ],
+            "dịch vụ": [
+                "tốt"
+            ],
+            "đồ uống": [
+                "lạnh"
+            ],
+            "dịch vụ mát-xa tuyệt vời": [],
+            "tài sản": [
+                "sạch sẽ",
+                "chuyên nghiệp",
+                "tuyệt vời"
+            ],
+            "thảo dược massage": [],
+            "tắm thảo dược": [
+                "tuyệt vời",
+                "mềm mại"
+            ],
+            "chuyến đi": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 2.0,
+            "nhân viên": 1.0,
+            "nhân viên mát-xa của chúng": 0.5,
+            "liệu pháp mát-xa của": 0.5,
+            "của": 0.5,
+            "da mặt": 0.5,
+            "tẩy": 1.0,
+            "tế bào": 1.0,
+            "mặt -": 0.5,
+            "chăm sóc chân": 0.5,
+            "dịch vụ giáng sinh": 0.5,
+            "bằng hương": 0.5,
+            "trong 75": 0.5,
+            "bác sĩ trị liệu": 0.5,
+            "phương pháp điều trị": 0.5,
+            "giá cả": 0.5,
+            "sĩ trị liệu": 0.5,
+            "buổi mát-xa ngẫu": 0.5,
+            "nhân viên mát xa": 1.0,
+            "nhân viên tiếp tân": 0.5,
+            "món ngon": 0.5,
+            "chỗ spa": 0.5,
+            "dịch vụ": 0.5,
+            "đồ uống": 0.5,
+            "dịch vụ mát-xa tuyệt vời": 0.5,
+            "tài sản": 0.5,
+            "thảo dược massage": 0.5,
+            "tắm thảo dược": 0.5,
+            "chuyến đi": 0.5
+        }
     },
     {
         "attraction_name": "Orient Spa",
@@ -598,7 +1200,116 @@
             "https://www.tripadvisor.com/Attraction_Review-g1308789-d3603376-Reviews-Ada_Beach_Club-Heybeliada_Princes_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d12940258-Reviews-or50-Orient_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12940258-Reviews-or40-Orient_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12940258-Reviews-or40-Orient_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "môi trường": 0.9955880878842436,
+            "nhân viên": 0.9143699334041836,
+            "dịch vụ": 0.9944924672599882,
+            "nhà trị liệu": 0.9921623921836726,
+            "spa": 0.9933869735104963,
+            "trải nghiệm": 0.9791024041478522,
+            "dịch vụ mát-xa tuyệt vời": 0.5,
+            "dịch vụ mát-xa mô": 0.4826626982539892,
+            "trị liệu": 0.9694279985851608,
+            "chỉ dẫn": 0.17356272134929895,
+            "massage": 0.9944931392674334,
+            "lễ tân": 0.9954257966019213,
+            "để ăn": 0.5464443452656269,
+            "hương thơm": 0.9922927991719916,
+            "mát-xa": 0.553223267197609,
+            "tiệm mát-xa và dành": 0.9949440637137741,
+            "khách sạn": 0.9305301923304796,
+            "mát-xa tốt hơn": 0.9951281123794615
+        },
+        "dicts_adj": {
+            "môi trường": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "sạch sẽ",
+                "đẹp đẽ",
+                "chuyên nghiệp",
+                "tốt bụng",
+                "xuất sắc",
+                "hữu ích",
+                "sạch sẽ"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "nhà trị liệu": [
+                "chuyên nghiệp"
+            ],
+            "spa": [],
+            "trải nghiệm": [
+                "hữu ích",
+                "tử tế",
+                "tuyệt vời",
+                "tương tự"
+            ],
+            "dịch vụ mát-xa tuyệt vời": [],
+            "dịch vụ mát-xa mô": [
+                "sâu"
+            ],
+            "trị liệu": [
+                "khéo léo",
+                "tuyệt vời"
+            ],
+            "chỉ dẫn": [
+                "nhỏ",
+                "mong đợi"
+            ],
+            "massage": [
+                "Nghiêm túc",
+                "tốt"
+            ],
+            "lễ tân": [
+                "tuyệt vời",
+                "đầu tiên"
+            ],
+            "để ăn": [
+                "đầu tiên"
+            ],
+            "hương thơm": [
+                "nhiều"
+            ],
+            "mát-xa": [],
+            "tiệm mát-xa và dành": [
+                "sạch sẽ"
+            ],
+            "khách sạn": [
+                "thực sự",
+                "đủ",
+                "giống",
+                "tương tự"
+            ],
+            "mát-xa tốt hơn": [
+                "thực sự",
+                "đủ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "môi trường": 0.5,
+            "nhân viên": 1.5,
+            "dịch vụ": 0.5,
+            "nhà trị liệu": 1.0,
+            "spa": 0.5,
+            "trải nghiệm": 1.0,
+            "dịch vụ mát-xa tuyệt vời": 0.5,
+            "dịch vụ mát-xa mô": 0.5,
+            "trị liệu": 0.5,
+            "chỉ dẫn": 0.5,
+            "massage": 0.5,
+            "lễ tân": 0.5,
+            "để ăn": 0.5,
+            "hương thơm": 0.5,
+            "mát-xa": 0.5,
+            "tiệm mát-xa và dành": 0.5,
+            "khách sạn": 0.5,
+            "mát-xa tốt hơn": 0.5
+        }
     },
     {
         "attraction_name": "Orient Spa",
@@ -717,7 +1428,130 @@
             "https://www.tripadvisor.com/Attraction_Review-g46931-d4801688-Reviews-Island_Miniature_Golf-Wildwood_Cape_May_County_New_Jersey.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d12940258-Reviews-or60-Orient_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12940258-Reviews-or50-Orient_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12940258-Reviews-or50-Orient_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.47010451574654627,
+            "nồng nhiệt massage": 0.5,
+            "orient spa": 0.9942880048183724,
+            "nhân viên orient spa": 0.9955784740741365,
+            "lớn mới": -0.9749308333266526,
+            "trình mát-xa tiến triển": 0.5206132493913174,
+            "con vật": 0.5,
+            "nhân viên lễ tân": 0.9220447577536106,
+            "pháp mát-xa tồi": -0.9728631065227091,
+            "biên nhận": 0.9954042205354199,
+            "buổi": 0.7905757371336222,
+            "mát-xa khó": -0.8036152021959424,
+            "chuyên gia trị liệu": 0.9954532929696143,
+            "trải nghiệm": 0.9955229965489707,
+            "dịch vụ mát-xa mà chúng": 0.7328063626773655,
+            "cấp": 0.5,
+            "phòng chờ": 0.9726195679977536,
+            "dầu massage": 0.5,
+            "phòng massage": 0.8737691454589367,
+            "khách sạn": 0.5
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "nhiều",
+                "đầy đủ",
+                "thân thiện"
+            ],
+            "nồng nhiệt massage": [],
+            "orient spa": [
+                "nhiều"
+            ],
+            "nhân viên orient spa": [
+                "nhiều"
+            ],
+            "lớn mới": [
+                "đầu tiên",
+                "ngáp",
+                "cùng"
+            ],
+            "trình mát-xa tiến triển": [
+                "chậm rãi",
+                "khá",
+                "hơn"
+            ],
+            "con vật": [],
+            "nhân viên lễ tân": [
+                "hữu ích"
+            ],
+            "pháp mát-xa tồi": [
+                "tồi tệ"
+            ],
+            "biên nhận": [
+                "tuyệt vời",
+                "dễ chịu"
+            ],
+            "buổi": [
+                "hơn"
+            ],
+            "mát-xa khó": [
+                "hơn"
+            ],
+            "chuyên gia trị liệu": [
+                "tuyệt vời",
+                "chuyên nghiệp",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "thực sự",
+                "thực sự",
+                "sạch sẽ",
+                "lớn",
+                "khác",
+                "sang trọng",
+                "tốt",
+                "hơn",
+                "nhiều",
+                "cao cấp"
+            ],
+            "dịch vụ mát-xa mà chúng": [
+                "tốt",
+                "hơn",
+                "nhiều",
+                "cao cấp"
+            ],
+            "cấp": [],
+            "phòng chờ": [
+                "nhỏ"
+            ],
+            "dầu massage": [],
+            "phòng massage": [
+                "nhỏ",
+                "sạch sẽ",
+                "tốt",
+                "tốt",
+                "thư giãn"
+            ],
+            "khách sạn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 1.5,
+            "nồng nhiệt massage": 0.5,
+            "orient spa": 0.5,
+            "nhân viên orient spa": 0.5,
+            "lớn mới": 0.5,
+            "trình mát-xa tiến triển": 0.5,
+            "con vật": 0.5,
+            "nhân viên lễ tân": 0.5,
+            "pháp mát-xa tồi": 0.5,
+            "biên nhận": 0.5,
+            "buổi": 0.5,
+            "mát-xa khó": 0.5,
+            "chuyên gia trị liệu": 0.5,
+            "trải nghiệm": 1.0,
+            "dịch vụ mát-xa mà chúng": 0.5,
+            "cấp": 0.5,
+            "phòng chờ": 0.5,
+            "dầu massage": 0.5,
+            "phòng massage": 0.5,
+            "khách sạn": 0.5
+        }
     },
     {
         "attraction_name": "Orient Spa",
@@ -840,6 +1674,148 @@
             "https://www.tripadvisor.com/Attraction_Review-g46341-d1475250-Reviews-Willow_Creek_Winery-Cape_May_Cape_May_County_New_Jersey.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d12940258-Reviews-or70-Orient_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12940258-Reviews-or60-Orient_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12940258-Reviews-or60-Orient_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm spa": 0.9955369812087156,
+            "spa": -0.8390506961732171,
+            "nhân viên": 0.8724006157171971,
+            "dịch vụ": 0.9780022623890545,
+            "loại massage": 0.5,
+            "nhân viên massage": 0.9945662599056959,
+            "không gian": -0.9655077734496444,
+            "môi trường": 0.9955921526707243,
+            "massage thật": 0.9955044032540172,
+            "trái cây sấy": -0.41237353533506393,
+            "massage mô": 0.8737691454589367,
+            "liệu pháp mát-xa tôi quay": 0.9923792887711897,
+            "dịch vụ mát-xa thật": 0.8737691454589367,
+            "xuyên thấu": 0.5,
+            "quần áo": -0.8634622800163925,
+            "chiếc": -0.9468097367789596,
+            "ghế": -0.6864794827997684,
+            "phòng tắm": 0.5,
+            "mát-xa tuyệt": -0.8042420540004969,
+            "tế bào": -0.5415035150945187,
+            "tam cốc": 0.8737691454589367,
+            "lễ tân": 0.9952826136141084,
+            "nhân viên mát-xa rất tốt": 0.9950692969723605,
+            "giá cả": 0.9955348186194897,
+            "trải nghiệm": 0.9955412448616698
+        },
+        "dicts_adj": {
+            "trải nghiệm spa": [
+                "tuyệt vời",
+                "hợp lý"
+            ],
+            "spa": [
+                "khác",
+                "khác"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "sạch sẽ",
+                "tốt",
+                "lịch sự",
+                "thân thiện",
+                "chính xác",
+                "nhanh nhạy"
+            ],
+            "dịch vụ": [
+                "nhiều",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "loại massage": [],
+            "nhân viên massage": [
+                "tuyệt"
+            ],
+            "không gian": [
+                "sạch sẽ"
+            ],
+            "môi trường": [
+                "đẹp",
+                "sạch sẽ",
+                "Hoàn toàn",
+                "xứng đáng",
+                "tuyệt vời"
+            ],
+            "massage thật": [
+                "tuyệt vời"
+            ],
+            "trái cây sấy": [
+                "đầy",
+                "khô"
+            ],
+            "massage mô": [
+                "sâu"
+            ],
+            "liệu pháp mát-xa tôi quay": [
+                "tốt",
+                "hơn"
+            ],
+            "dịch vụ mát-xa thật": [
+                "tuyệt"
+            ],
+            "xuyên thấu": [],
+            "quần áo": [
+                "khác",
+                "khác"
+            ],
+            "chiếc": [
+                "khác"
+            ],
+            "ghế": [
+                "khác"
+            ],
+            "phòng tắm": [],
+            "mát-xa tuyệt": [
+                "tuyệt vời"
+            ],
+            "tế bào": [],
+            "tam cốc": [
+                "khác"
+            ],
+            "lễ tân": [
+                "lịch sự"
+            ],
+            "nhân viên mát-xa rất tốt": [
+                "lịch sự"
+            ],
+            "giá cả": [
+                "sẵn lòng"
+            ],
+            "trải nghiệm": [
+                "sẵn lòng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm spa": 1.5,
+            "spa": 2.0,
+            "nhân viên": 4.0,
+            "dịch vụ": 2.0,
+            "loại massage": 1.5,
+            "nhân viên massage": 1.5,
+            "không gian": 0.5,
+            "môi trường": 1.0,
+            "massage thật": 0.5,
+            "trái cây sấy": 0.5,
+            "massage mô": 0.5,
+            "liệu pháp mát-xa tôi quay": 0.5,
+            "dịch vụ mát-xa thật": 0.5,
+            "xuyên thấu": 0.5,
+            "quần áo": 0.5,
+            "chiếc": 0.5,
+            "ghế": 0.5,
+            "phòng tắm": 0.5,
+            "mát-xa tuyệt": 0.5,
+            "tế bào": 0.5,
+            "tam cốc": 0.5,
+            "lễ tân": 0.5,
+            "nhân viên mát-xa rất tốt": 0.5,
+            "giá cả": 0.5,
+            "trải nghiệm": 0.5
+        }
     }
 ]

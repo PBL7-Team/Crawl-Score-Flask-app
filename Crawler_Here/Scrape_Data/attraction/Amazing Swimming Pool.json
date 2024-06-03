@@ -88,6 +88,97 @@
             "https://www.tripadvisor.com/Attraction_Review-g186525-d19502009-Reviews-Edinburgh_Christmas_Market-Edinburgh_Scotland.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d8263439-Reviews-Amazing_Swimming_Pool-Sapa_Lao_Cai_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d8263439-Reviews-Amazing_Swimming_Pool-Sapa_Lao_Cai_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khách sạn": 0.5040559812623542,
+            "hồ bơi": 0.3538705003738869,
+            "cơ sở vật chất": 0.9955023588554468,
+            "khăn tắm": 0.8220960283651948,
+            "áo phao": 0.66248510312289,
+            "quán": 0.547954841516912,
+            "cà phê": 0.5258741062134504,
+            "nhân viên": 0.9937556205550209,
+            "bé": 0.5534306201152503,
+            "nhân viên lễ tân": 0.659391765948385,
+            "cảnh quan": 0.8737691454589367,
+            "sân thượng": 0.12887170165777206,
+            "ghế nằm": 0.884633291978389,
+            "quầy bar": 0.520678685978055
+        },
+        "dicts_adj": {
+            "khách sạn": [
+                "đẹp",
+                "hiện đại",
+                "tuyệt vời",
+                "sạch sẽ"
+            ],
+            "hồ bơi": [
+                "hơn",
+                "lớn",
+                "sâu",
+                "an toàn",
+                "khác",
+                "có thể",
+                "nhỏ"
+            ],
+            "cơ sở vật chất": [
+                "tuyệt vời",
+                "sạch sẽ"
+            ],
+            "khăn tắm": [
+                "đủ"
+            ],
+            "áo phao": [
+                "đủ"
+            ],
+            "quán": [
+                "khác"
+            ],
+            "cà phê": [
+                "khác"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "chuyên nghiệp"
+            ],
+            "bé": [
+                "có thể",
+                "nhỏ"
+            ],
+            "nhân viên lễ tân": [
+                "có thể",
+                "nhỏ"
+            ],
+            "cảnh quan": [
+                "đẹp"
+            ],
+            "sân thượng": [
+                "chắc chắn"
+            ],
+            "ghế nằm": [
+                "thoải mái"
+            ],
+            "quầy bar": [
+                "chắc chắn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khách sạn": 0.5,
+            "hồ bơi": 1.0,
+            "cơ sở vật chất": 0.5,
+            "khăn tắm": 0.5,
+            "áo phao": 0.5,
+            "quán": 0.5,
+            "cà phê": 0.5,
+            "nhân viên": 0.5,
+            "bé": 0.5,
+            "nhân viên lễ tân": 0.5,
+            "cảnh quan": 0.5,
+            "sân thượng": 0.5,
+            "ghế nằm": 0.5,
+            "quầy bar": 0.5
+        }
     }
 ]

@@ -74,7 +74,314 @@
             "https://www.tripadvisor.com/Attraction_Review-g42391-d282094-Reviews-Potter_Park_Zoo-Lansing_Ingham_County_Michigan.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g3648985-d2631204-Reviews-or10-Mekong_Emotion_Cruise-Cai_Be_Tien_Giang_Province_Mekong_Delta.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g3648985-d2631204-Reviews-Mekong_Emotion_Cruise-Cai_Be_Tien_Giang_Province_Mekong_Delta.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g3648985-d2631204-Reviews-Mekong_Emotion_Cruise-Cai_Be_Tien_Giang_Province_Mekong_Delta.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "du thuyền": 0.9813085885252804,
+            "chuyến đi": 0.9711195983807557,
+            "thủy thủ": 0.9955206123413518,
+            "hướng dẫn viên": 0.9838497249002103,
+            "đồ ăn": 0.9954545022919774,
+            "boong tàu ngắm": 0.9812609970977064,
+            "chuyến tham quan làng mạc": 0.985089016292477,
+            "dòng sông mê kông": 0.9955117141944356,
+            "dòng sông": 0.32679414557060227,
+            "đồng bằng sông cửu long": 0.9233486123848706,
+            "khung cảnh": 0.5060333609580994,
+            "giai điệu": 0.9954862044542097,
+            "thuyền trưởng": 0.5,
+            "đầu bếp": 0.8737691454589367,
+            "bữa ăn": 0.7787742264044937,
+            "dịch vụ mát-xa chân đáng": 0.9955617272644304,
+            "chuyến thăm": 0.7720276332693174,
+            "làng thị trấn": 0.5,
+            "đồng bằng": 0.5352455079555511,
+            "phi hành đoàn": 0.9920696644112468,
+            "khu vực nông": -0.21660029026679695,
+            "khu thủ công": 0.3942468494642526,
+            "đồ ăn thì": 0.9954840751597658,
+            "chuyến tham quan": 0.8566882479159783,
+            "chuyến": 0.5,
+            "đi thuyền": 0.5,
+            "sông mê": 0.8737691454589367,
+            "thuyền": 0.5,
+            "đảo": 0.5,
+            "trái cây nhiệt đới kẹo dừa": 0.5,
+            "mật": 0.5,
+            "ong rượu vang": 0.5,
+            "âm nhạc": 0.5,
+            "bài hát": 0.5,
+            "đảo thới": 0.5,
+            "hành trình": 0.5489977337419987,
+            "trải nghiệm": 0.8704238967038691,
+            "hướng dẫn viên chou": 0.8737691454589367,
+            "giấc ngủ đêm": 0.9950622687465511,
+            "thức ăn": 0.9954746343428269,
+            "thuyền cabin": 0.3210579790174961,
+            "phòng tắm": 0.6324409625182549,
+            "máy sấy": 0.9778116957750171,
+            "bữa tối": 0.8737691454589367,
+            "bữa trưa": 0.9917998240562156,
+            "món gà salad dưa chuột-cà rốt-tôm": 0.5,
+            "-": 0.5,
+            "- có": 0.004933333024382591,
+            "bữa sáng": 0.8737691454589367,
+            "trái cây": 0.9686415127944201,
+            "sữa chua mứt trứng": 0.9314147504046559,
+            "bánh mì": 0.6070021111518145,
+            "xe đạp": 0.9952512880554423,
+            "chợ nổi": -0.9762153694173321,
+            "chợ thường lệ": 0.8737691454589367,
+            "dòng sông hùng vĩ": 0.99249446275644,
+            "chuyến đi xe đạp": 0.8737691454589367,
+            "chuyến tham": 0.48490553349256516,
+            "trang trại": 0.5001466535031796
+        },
+        "dicts_adj": {
+            "du thuyền": [
+                "khó"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "thông thường",
+                "hơn"
+            ],
+            "thủy thủ": [
+                "chu đáo"
+            ],
+            "hướng dẫn viên": [
+                "tử tế",
+                "Cuối cùng",
+                "tốt bụng",
+                "nhất",
+                "có thể",
+                "tuyệt vời",
+                "hơn"
+            ],
+            "đồ ăn": [
+                "tuyệt vời"
+            ],
+            "boong tàu ngắm": [
+                "thú vị",
+                "căng thẳng"
+            ],
+            "chuyến tham quan làng mạc": [
+                "thú vị",
+                "căng thẳng"
+            ],
+            "dòng sông mê kông": [
+                "cuối cùng",
+                "tuyệt vời"
+            ],
+            "dòng sông": [
+                "giống",
+                "lầy lội",
+                "dài",
+                "nhỏ",
+                "lớn",
+                "hơn"
+            ],
+            "đồng bằng sông cửu long": [
+                "nhỏ",
+                "lớn",
+                "hơn"
+            ],
+            "khung cảnh": [
+                "khác",
+                "khác"
+            ],
+            "giai điệu": [
+                "hạnh phúc",
+                "hơn"
+            ],
+            "thuyền trưởng": [],
+            "đầu bếp": [
+                "ngon"
+            ],
+            "bữa ăn": [
+                "ngon"
+            ],
+            "dịch vụ mát-xa chân đáng": [],
+            "chuyến thăm": [
+                "thú vị",
+                "hơn"
+            ],
+            "làng thị trấn": [],
+            "đồng bằng": [
+                "xuất sắc"
+            ],
+            "phi hành đoàn": [
+                "xuất sắc",
+                "tuyệt vời"
+            ],
+            "khu vực nông": [
+                "nhiều",
+                "khác"
+            ],
+            "khu thủ công": [
+                "nhiều",
+                "khác"
+            ],
+            "đồ ăn thì": [
+                "đẹp cabin",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "trọn vẹn",
+                "thú vị",
+                "thú vị",
+                "hơn"
+            ],
+            "chuyến": [],
+            "đi thuyền": [],
+            "sông mê": [
+                "trọn vẹn"
+            ],
+            "thuyền": [],
+            "đảo": [],
+            "trái cây nhiệt đới kẹo dừa": [],
+            "mật": [],
+            "ong rượu vang": [],
+            "âm nhạc": [],
+            "bài hát": [],
+            "đảo thới": [],
+            "hành trình": [
+                "đủ",
+                "cao"
+            ],
+            "trải nghiệm": [
+                "tốt",
+                "hơn"
+            ],
+            "hướng dẫn viên chou": [
+                "đủ",
+                "cao"
+            ],
+            "giấc ngủ đêm": [],
+            "thức ăn": [
+                "tuyệt",
+                "lớn"
+            ],
+            "thuyền cabin": [
+                "nhỏ"
+            ],
+            "phòng tắm": [
+                "nhỏ",
+                "hơn",
+                "ướt"
+            ],
+            "máy sấy": [],
+            "bữa tối": [
+                "thực sự",
+                "ngon"
+            ],
+            "bữa trưa": [
+                "thực sự",
+                "ngon"
+            ],
+            "món gà salad dưa chuột-cà rốt-tôm": [],
+            "-": [],
+            "- có": [
+                "thực sự",
+                "ngon"
+            ],
+            "bữa sáng": [
+                "tươi"
+            ],
+            "trái cây": [
+                "tươi"
+            ],
+            "sữa chua mứt trứng": [
+                "ngọt"
+            ],
+            "bánh mì": [
+                "ngọt"
+            ],
+            "xe đạp": [
+                "thú vị"
+            ],
+            "chợ nổi": [],
+            "chợ thường lệ": [
+                "thú vị",
+                "hơn"
+            ],
+            "dòng sông hùng vĩ": [
+                "gần"
+            ],
+            "chuyến đi xe đạp": [
+                "thực sự"
+            ],
+            "chuyến tham": [
+                "thực sự"
+            ],
+            "trang trại": [
+                "thực sự"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "du thuyền": 1.0,
+            "chuyến đi": 2.5,
+            "thủy thủ": 0.5,
+            "hướng dẫn viên": 2.0,
+            "đồ ăn": 0.5,
+            "boong tàu ngắm": 0.5,
+            "chuyến tham quan làng mạc": 0.5,
+            "dòng sông mê kông": 0.5,
+            "dòng sông": 1.0,
+            "đồng bằng sông cửu long": 1.0,
+            "khung cảnh": 0.5,
+            "giai điệu": 0.5,
+            "thuyền trưởng": 0.5,
+            "đầu bếp": 0.5,
+            "bữa ăn": 1.0,
+            "dịch vụ mát-xa chân đáng": 0.5,
+            "chuyến thăm": 0.5,
+            "làng thị trấn": 0.5,
+            "đồng bằng": 0.5,
+            "phi hành đoàn": 1.0,
+            "khu vực nông": 0.5,
+            "khu thủ công": 0.5,
+            "đồ ăn thì": 0.5,
+            "chuyến tham quan": 1.0,
+            "chuyến": 0.5,
+            "đi thuyền": 0.5,
+            "sông mê": 0.5,
+            "thuyền": 0.5,
+            "đảo": 0.5,
+            "trái cây nhiệt đới kẹo dừa": 0.5,
+            "mật": 0.5,
+            "ong rượu vang": 0.5,
+            "âm nhạc": 0.5,
+            "bài hát": 0.5,
+            "đảo thới": 0.5,
+            "hành trình": 0.5,
+            "trải nghiệm": 0.5,
+            "hướng dẫn viên chou": 0.5,
+            "giấc ngủ đêm": 0.5,
+            "thức ăn": 0.5,
+            "thuyền cabin": 0.5,
+            "phòng tắm": 0.5,
+            "máy sấy": 0.5,
+            "bữa tối": 0.5,
+            "bữa trưa": 0.5,
+            "món gà salad dưa chuột-cà rốt-tôm": 0.5,
+            "-": 0.5,
+            "- có": 0.5,
+            "bữa sáng": 0.5,
+            "trái cây": 0.5,
+            "sữa chua mứt trứng": 0.5,
+            "bánh mì": 0.5,
+            "xe đạp": 0.5,
+            "chợ nổi": 0.5,
+            "chợ thường lệ": 0.5,
+            "dòng sông hùng vĩ": 0.5,
+            "chuyến đi xe đạp": 0.5,
+            "chuyến tham": 0.5,
+            "trang trại": 0.5
+        }
     },
     {
         "attraction_name": "Mekong Emotion Cruise",
@@ -141,6 +448,125 @@
             "https://www.tripadvisor.com/Attraction_Review-g59642-d144590-Reviews-Oglebay_Park-Wheeling_West_Virginia.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g3648985-d2631204-Reviews-or10-Mekong_Emotion_Cruise-Cai_Be_Tien_Giang_Province_Mekong_Delta.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g3648985-d2631204-Reviews-or10-Mekong_Emotion_Cruise-Cai_Be_Tien_Giang_Province_Mekong_Delta.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "giấc ngủ đêm": 0.9942058466840535,
+            "chuyến du ngoạn": 0.993866647031003,
+            "vịnh": 0.8737691454589367,
+            "ăn chay": 0.9716746462509036,
+            "thuyền": 0.7477487500000279,
+            "phong cảnh": 0.7476900673354976,
+            "món ăn": 0.7814412861577391,
+            "thức ăn": 0.7195845373207703,
+            "chuyến đi": 0.9815765894018114,
+            "thuyền ca": 0.9931456989143044,
+            "đồng bằng sông cửu long": 0.8737691454589367,
+            "du thuyền": 0.8737691454589367,
+            "thủy thủ": 0.9955809945822693,
+            "vùng quê": 0.987939415150322,
+            "đồng bằng sông cửu": 0.8737691454589367,
+            "chuyến tham quan": 0.9955147905857302,
+            "trang trại": 0.5,
+            "nhà máy kẹo dừa": 0.5,
+            "xe": 0.5
+        },
+        "dicts_adj": {
+            "giấc ngủ đêm": [
+                "lớn",
+                "hơn",
+                "trung bình",
+                "cao",
+                "thoải mái"
+            ],
+            "chuyến du ngoạn": [
+                "nổi bật",
+                "thú vị",
+                "Xuất sắc"
+            ],
+            "vịnh": [
+                "nổi bật"
+            ],
+            "ăn chay": [
+                "thực sự",
+                "vui vẻ",
+                "khác biệt"
+            ],
+            "thuyền": [
+                "tuyệt vời"
+            ],
+            "phong cảnh": [
+                "tuyệt vời"
+            ],
+            "món ăn": [
+                "tiêu cực",
+                "duy nhất",
+                "đơn độc",
+                "tuyệt vời",
+                "lạnh",
+                "hơn",
+                "tuyệt vời"
+            ],
+            "thức ăn": [
+                "nguyên",
+                "nóng",
+                "nhiều",
+                "cùng"
+            ],
+            "chuyến đi": [
+                "nhiều",
+                "tuyệt vời",
+                "chắc chắn"
+            ],
+            "thuyền ca": [
+                "ca nô"
+            ],
+            "đồng bằng sông cửu long": [
+                "khó",
+                "xinh đẹp"
+            ],
+            "du thuyền": [
+                "khó",
+                "xinh đẹp"
+            ],
+            "thủy thủ": [
+                "tuyệt vời"
+            ],
+            "vùng quê": [
+                "duyên dáng"
+            ],
+            "đồng bằng sông cửu": [
+                "tuyệt vời",
+                "chắc chắn"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời"
+            ],
+            "trang trại": [],
+            "nhà máy kẹo dừa": [],
+            "xe": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "giấc ngủ đêm": 0.5,
+            "chuyến du ngoạn": 0.5,
+            "vịnh": 0.5,
+            "ăn chay": 0.5,
+            "thuyền": 1.0,
+            "phong cảnh": 1.0,
+            "món ăn": 1.0,
+            "thức ăn": 0.5,
+            "chuyến đi": 1.0,
+            "thuyền ca": 0.5,
+            "đồng bằng sông cửu long": 0.5,
+            "du thuyền": 0.5,
+            "thủy thủ": 0.5,
+            "vùng quê": 0.5,
+            "đồng bằng sông cửu": 0.5,
+            "chuyến tham quan": 0.5,
+            "trang trại": 0.5,
+            "nhà máy kẹo dừa": 0.5,
+            "xe": 0.5
+        }
     }
 ]

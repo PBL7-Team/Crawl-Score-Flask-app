@@ -96,6 +96,49 @@
             "https://www.tripadvisor.com/Attraction_Review-g46486-d2322467-Reviews-Crystal_Springs_Golf_Club-Hamburg_New_Jersey.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d25444784-Reviews-Lee_Spa_Massage-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d25444784-Reviews-Lee_Spa_Massage-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ mát-xa chuyên nghiệp": 0.9941104108002037,
+            "và sau": 0.8737691454589367,
+            "để giúp": 0.9924971318105236,
+            "lee spa": 0.8737691454589367,
+            "chuyến đi bộ": 0.5,
+            "nhân viên": 0.6855138309067115
+        },
+        "dicts_adj": {
+            "dịch vụ mát-xa chuyên nghiệp": [
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "và sau": [
+                "nóng"
+            ],
+            "để giúp": [
+                "thực sự"
+            ],
+            "lee spa": [
+                "tình cờ"
+            ],
+            "chuyến đi bộ": [],
+            "nhân viên": [
+                "sạch sẽ",
+                "dễ thương",
+                "nhiệt tình",
+                "suốt",
+                "hơn",
+                "bền",
+                "nhẹ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ mát-xa chuyên nghiệp": 1,
+            "và sau": 1,
+            "để giúp": 1,
+            "lee spa": 1,
+            "chuyến đi bộ": 1,
+            "nhân viên": 2.5
+        }
     }
 ]

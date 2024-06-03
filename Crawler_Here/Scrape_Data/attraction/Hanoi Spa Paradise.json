@@ -106,7 +106,108 @@
             "https://www.tripadvisor.com/Attraction_Review-g45963-d106584-Reviews-Bellagio_Gallery_of_Fine_Art-Las_Vegas_Nevada.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or10-Hanoi_Spa_Paradise-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-Hanoi_Spa_Paradise-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-Hanoi_Spa_Paradise-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.5,
+            "tam cốc": 0.5,
+            "massage kiểu việt": 0.8737691454589367,
+            "dịch vụ": 0.8196660479685912,
+            "giá": 0.9796094991033897,
+            "nhân viên": 0.835700750151383,
+            "khu phố cổ": 0.9466666951775551,
+            "phố đi bộ": 0.6652975669130683,
+            "hồ hoàn kiếm": 0.8737691454589367,
+            "mát-xa": 0.9871171044651419,
+            "cũng rất": 0.9955024463124573,
+            "không khí": -0.9370632087811828,
+            "giá cả": 0.8472517849877477,
+            "móng tay": 0.7418526501278393,
+            "móng chân": 0.5,
+            "khách sạn": 0.5,
+            "dịch vụ massage": 0.9691158561035991,
+            "dịch vụ mát-xa chân của họ": 0.995170375390444,
+            "này": 0.5
+        },
+        "dicts_adj": {
+            "chuyến đi": [],
+            "tam cốc": [],
+            "massage kiểu việt": [
+                "hài lòng"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "hài lòng"
+            ],
+            "giá": [
+                "tốt"
+            ],
+            "nhân viên": [
+                "tốt",
+                "chuyên nghiệp",
+                "tốt đẹp",
+                "tuyệt vời",
+                "thân thiện",
+                "khéo léo",
+                "nhiệt tình"
+            ],
+            "khu phố cổ": [
+                "gần"
+            ],
+            "phố đi bộ": [
+                "gần"
+            ],
+            "hồ hoàn kiếm": [
+                "gần"
+            ],
+            "mát-xa": [
+                "tốt"
+            ],
+            "cũng rất": [
+                "tốt"
+            ],
+            "không khí": [
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "thông thường",
+                "đắt"
+            ],
+            "móng tay": [
+                "đẹp"
+            ],
+            "móng chân": [],
+            "khách sạn": [],
+            "dịch vụ massage": [
+                "mệt mỏi"
+            ],
+            "dịch vụ mát-xa chân của họ": [
+                "hài lòng"
+            ],
+            "này": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 0.5,
+            "tam cốc": 0.5,
+            "massage kiểu việt": 0.5,
+            "dịch vụ": 1.5,
+            "giá": 0.5,
+            "nhân viên": 3.5,
+            "khu phố cổ": 0.5,
+            "phố đi bộ": 0.5,
+            "hồ hoàn kiếm": 0.5,
+            "mát-xa": 0.5,
+            "cũng rất": 0.5,
+            "không khí": 0.5,
+            "giá cả": 0.5,
+            "móng tay": 1.0,
+            "móng chân": 0.5,
+            "khách sạn": 0.5,
+            "dịch vụ massage": 0.5,
+            "dịch vụ mát-xa chân của họ": 0.5,
+            "này": 0.5
+        }
     },
     {
         "attraction_name": "Hanoi Spa Paradise",
@@ -215,7 +316,95 @@
             "https://www.tripadvisor.com/Attraction_Review-g40988-d7901223-Reviews-Sandy_Point_Beach-Yarmouth_Maine.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or20-Hanoi_Spa_Paradise-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or10-Hanoi_Spa_Paradise-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or10-Hanoi_Spa_Paradise-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "spa khi": 0.9895873247878626,
+            "gót chân": 0.9953949868795462,
+            "nhân viên": 0.9955324694048613,
+            "dịch vụ": 0.9851470740783649,
+            "kỹ thuật massage": 0.9952170340111479,
+            "giá cả": 0.7554649570956826,
+            "móng tay": 0.9630907031241804,
+            "khu phố cổ": 0.556477228179574,
+            "lớp sơn móng": -0.9389056090731174,
+            "mani gel": 0.9955295425024815,
+            "nhân viên massage": 0.994846626999788,
+            "dũng thật": 0.9954351361375302,
+            "tẩy tế": 0.5,
+            "mát-xa": 0.5,
+            "và điều": 0.5,
+            "da mặt": 0.5
+        },
+        "dicts_adj": {
+            "spa khi": [
+                "nhiều"
+            ],
+            "gót chân": [
+                "mềm mại"
+            ],
+            "nhân viên": [
+                "đẹp",
+                "Hoàn toàn",
+                "hài lòng",
+                "đặc biệt",
+                "tốt bụng",
+                "phải chăng",
+                "thực sự",
+                "sạch sẽ",
+                "thực sự",
+                "tuyệt vời",
+                "dễ thương"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "Đẹp",
+                "sạch sẽ",
+                "thân thiện",
+                "tuyệt vời"
+            ],
+            "kỹ thuật massage": [
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "móng tay": [],
+            "khu phố cổ": [],
+            "lớp sơn móng": [],
+            "mani gel": [
+                "tuyệt vời"
+            ],
+            "nhân viên massage": [
+                "tốt"
+            ],
+            "dũng thật": [
+                "tuyệt vời"
+            ],
+            "tẩy tế": [],
+            "mát-xa": [],
+            "và điều": [],
+            "da mặt": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "spa khi": 0.5,
+            "gót chân": 0.5,
+            "nhân viên": 2.5,
+            "dịch vụ": 1.5,
+            "kỹ thuật massage": 0.5,
+            "giá cả": 1.0,
+            "móng tay": 0.5,
+            "khu phố cổ": 0.5,
+            "lớp sơn móng": 0.5,
+            "mani gel": 0.5,
+            "nhân viên massage": 0.5,
+            "dũng thật": 0.5,
+            "tẩy tế": 0.5,
+            "mát-xa": 0.5,
+            "và điều": 0.5,
+            "da mặt": 0.5
+        }
     },
     {
         "attraction_name": "Hanoi Spa Paradise",
@@ -326,7 +515,108 @@
             "https://www.tripadvisor.com/Attraction_Review-g147249-d7100419-Reviews-Gusto_Night_Club_Aruba-Palm_Eagle_Beach_Aruba.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or30-Hanoi_Spa_Paradise-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or20-Hanoi_Spa_Paradise-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or20-Hanoi_Spa_Paradise-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.9939328729718303,
+            "giá cả": 0.9903301105950959,
+            "dịch vụ": 0.8415799770931093,
+            "dịch vụ mát-xa và": -0.9652529594022781,
+            "chết toàn": 0.9952026578830555,
+            "hanoi spa": 0.9814917191397399,
+            "buổi mát-xa rất": 0.9925980721600354,
+            "móng chân": 0.9950544337625615,
+            "móng tay": 0.9938379450468346,
+            "chuyến thăm": 0.9955810515675694,
+            "hóp": 0.9832515614107251,
+            "nhà trị liệu": 0.9751479742117226,
+            "giá trung": 0.9174268264323473,
+            "chủ sở hữu": -0.9267484890297055,
+            "spa": 0.9955742519232444,
+            "mát-xa cho": 0.9923478252797698,
+            "không khí": 0.9947783659445122
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "thân thiện",
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "giá cả": [
+                "tốt",
+                "tốt"
+            ],
+            "dịch vụ": [
+                "chuyên nghiệp",
+                "giống",
+                "tuyệt vời",
+                "cẩn thận",
+                "tốt",
+                "hơn"
+            ],
+            "dịch vụ mát-xa và": [
+                "chuyên nghiệp",
+                "giống"
+            ],
+            "chết toàn": [
+                "tuyệt vời"
+            ],
+            "hanoi spa": [],
+            "buổi mát-xa rất": [
+                "thư giãn"
+            ],
+            "móng chân": [
+                "tốt"
+            ],
+            "móng tay": [
+                "tốt"
+            ],
+            "chuyến thăm": [
+                "tuyệt vời"
+            ],
+            "hóp": [],
+            "nhà trị liệu": [
+                "tốt",
+                "hơn",
+                "tốt",
+                "hơn"
+            ],
+            "giá trung": [],
+            "chủ sở hữu": [],
+            "spa": [
+                "tuyệt vời"
+            ],
+            "mát-xa cho": [
+                "tốt",
+                "thực sự",
+                "tốt"
+            ],
+            "không khí": [
+                "đẹp",
+                "chắc chắn",
+                "cao cấp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 1.5,
+            "giá cả": 1.0,
+            "dịch vụ": 1.5,
+            "dịch vụ mát-xa và": 0.5,
+            "chết toàn": 0.5,
+            "hanoi spa": 0.5,
+            "buổi mát-xa rất": 0.5,
+            "móng chân": 0.5,
+            "móng tay": 0.5,
+            "chuyến thăm": 0.5,
+            "hóp": 0.5,
+            "nhà trị liệu": 0.5,
+            "giá trung": 0.5,
+            "chủ sở hữu": 0.5,
+            "spa": 0.5,
+            "mát-xa cho": 0.5,
+            "không khí": 0.5
+        }
     },
     {
         "attraction_name": "Hanoi Spa Paradise",
@@ -436,7 +726,201 @@
             "https://www.tripadvisor.com/Attraction_Review-g59090-d4702354-Reviews-Cathedral_Falls-Gauley_Bridge_West_Virginia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or40-Hanoi_Spa_Paradise-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or30-Hanoi_Spa_Paradise-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or30-Hanoi_Spa_Paradise-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "kỹ năng massage": 0.9954965015640482,
+            "đội ngũ": 0.9945750464103185,
+            "mát-xa toàn": 0.9952590852626599,
+            "nhân viên": 0.9736887318334387,
+            "tế bào": 0.7546722451224923,
+            "dịch vụ": 0.8669787056278437,
+            "móng": 0.9954996132291853,
+            "chân spa": 0.9954970992403105,
+            "spa": 0.7172011998093998,
+            "bầu không khí": -0.9545105069410056,
+            "dịch vụ mát-xa và": 0.992622506339103,
+            "liệu pháp mát-xa tuyệt vời": 0.9947829792508855,
+            "móng chân": 0.8101238173258025,
+            "giá cả": 0.9732976674567908,
+            "phê chà": 0.5,
+            "tránh xa đám đông": 0.8556388840079308,
+            "dịch vụ mát-xa theo nhu": 0.9947871924960054,
+            "chà": 0.2098139300942421,
+            "cà phê": 0.48535631224513054,
+            "mát-xa chân": 0.5672528091818094,
+            "- và": 0.5208743903785944,
+            "và đánh": 0.5,
+            "xe ôm": 0.5,
+            "spa massage": 0.9889710035640746,
+            "không gian": 0.9955766807543114,
+            "buổi làm": 0.9955525148543529,
+            "móng tay": 0.9955692908843048,
+            "massage": 0.8737691454589367,
+            "cửa hàng": 0.9955376343568787,
+            "con phố": 0.6162571646273136,
+            "khu phố cổ": 0.8737691454589367,
+            "dịch vụ mát-xa tại hà": 0.8737691454589367,
+            "hay khi": 0.995196828735061,
+            "có đội ngũ nhân viên": 0.9941318297642283,
+            "sóc mọi": 0.5
+        },
+        "dicts_adj": {
+            "kỹ năng massage": [
+                "tuyệt vời",
+                "thực sự",
+                "thoải mái"
+            ],
+            "đội ngũ": [
+                "tốt bụng"
+            ],
+            "mát-xa toàn": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "tuyệt vời",
+                "thân thiện",
+                "thực sự",
+                "tuyệt vời",
+                "nhiều",
+                "thân thiện",
+                "lịch sự",
+                "đặc biệt",
+                "hữu ích",
+                "tốt"
+            ],
+            "tế bào": [
+                "tốt",
+                "hài lòng"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "móng": [
+                "tuyệt vời"
+            ],
+            "chân spa": [
+                "tuyệt vời"
+            ],
+            "spa": [
+                "nhiều",
+                "thực sự",
+                "cơ bản"
+            ],
+            "bầu không khí": [
+                "nhiều"
+            ],
+            "dịch vụ mát-xa và": [
+                "hợp lý"
+            ],
+            "liệu pháp mát-xa tuyệt vời": [],
+            "móng chân": [
+                "thực sự",
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "phê chà": [],
+            "tránh xa đám đông": [
+                "thoải mái",
+                "ồn ào"
+            ],
+            "dịch vụ mát-xa theo nhu": [
+                "nồng nhiệt",
+                "vui"
+            ],
+            "chà": [
+                "cơ bản"
+            ],
+            "cà phê": [
+                "cơ bản"
+            ],
+            "mát-xa chân": [
+                "cơ bản"
+            ],
+            "- và": [
+                "cơ bản"
+            ],
+            "và đánh": [],
+            "xe ôm": [],
+            "spa massage": [
+                "tốt"
+            ],
+            "không gian": [
+                "sạch sẽ"
+            ],
+            "buổi làm": [
+                "đẹp"
+            ],
+            "móng tay": [
+                "đẹp"
+            ],
+            "massage": [
+                "tuyệt vời"
+            ],
+            "cửa hàng": [
+                "chuyên nghiệp",
+                "sạch sẽ"
+            ],
+            "con phố": [
+                "đông đúc"
+            ],
+            "khu phố cổ": [
+                "đặc biệt"
+            ],
+            "dịch vụ mát-xa tại hà": [
+                "tuyệt vời"
+            ],
+            "hay khi": [
+                "Đặc biệt"
+            ],
+            "có đội ngũ nhân viên": [
+                "tốt bụng"
+            ],
+            "sóc mọi": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "kỹ năng massage": 0.5,
+            "đội ngũ": 0.5,
+            "mát-xa toàn": 0.5,
+            "nhân viên": 3.0,
+            "tế bào": 0.5,
+            "dịch vụ": 2.0,
+            "móng": 0.5,
+            "chân spa": 0.5,
+            "spa": 1.5,
+            "bầu không khí": 0.5,
+            "dịch vụ mát-xa và": 0.5,
+            "liệu pháp mát-xa tuyệt vời": 0.5,
+            "móng chân": 1.0,
+            "giá cả": 1.0,
+            "phê chà": 0.5,
+            "tránh xa đám đông": 0.5,
+            "dịch vụ mát-xa theo nhu": 0.5,
+            "chà": 0.5,
+            "cà phê": 0.5,
+            "mát-xa chân": 0.5,
+            "- và": 0.5,
+            "và đánh": 0.5,
+            "xe ôm": 0.5,
+            "spa massage": 0.5,
+            "không gian": 0.5,
+            "buổi làm": 0.5,
+            "móng tay": 0.5,
+            "massage": 0.5,
+            "cửa hàng": 0.5,
+            "con phố": 0.5,
+            "khu phố cổ": 0.5,
+            "dịch vụ mát-xa tại hà": 0.5,
+            "hay khi": 0.5,
+            "có đội ngũ nhân viên": 0.5,
+            "sóc mọi": 0.5
+        }
     },
     {
         "attraction_name": "Hanoi Spa Paradise",
@@ -547,7 +1031,102 @@
             "https://www.tripadvisor.com/Attraction_Review-g298566-d2471494-Reviews-Nobeha_no_Yu_Tsuruhashi-Osaka_Osaka_Prefecture_Kinki.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or50-Hanoi_Spa_Paradise-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or40-Hanoi_Spa_Paradise-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or40-Hanoi_Spa_Paradise-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "không gian": 0.7477609364432283,
+            "dịch vụ": 0.9818383690241413,
+            "nhân viên": 0.9458220565691591,
+            "tác phẩm nghệ thuật làm móng": 0.9955285480828024,
+            "nhân viên mát xa": 0.9855190205853432,
+            "giá cả bình dân": 0.8737691454589367,
+            "đồ thì": 0.9955795267014764,
+            "giao thông": 0.6262730546295643,
+            "móng chân": 0.9826805277261883,
+            "giá cả": 0.9529069985728711,
+            "dũng thật": 0.9954351361375302,
+            "vị trí": 0.9956004876294173,
+            "móng tay": 0.6839613616466522,
+            "mát xa chân": 0.9908938183216378,
+            "massage mô": 0.9952170172473416
+        },
+        "dicts_adj": {
+            "không gian": [
+                "sạch sẽ"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tốt",
+                "sạch sẽ",
+                "xa"
+            ],
+            "nhân viên": [
+                "thực sự",
+                "chuyên nghiệp",
+                "chuyên nghiệp",
+                "thân thiện"
+            ],
+            "tác phẩm nghệ thuật làm móng": [
+                "đẹp"
+            ],
+            "nhân viên mát xa": [
+                "hữu ích"
+            ],
+            "giá cả bình dân": [
+                "đẹp"
+            ],
+            "đồ thì": [
+                "đẹp"
+            ],
+            "giao thông": [
+                "muộn",
+                "phải"
+            ],
+            "móng chân": [
+                "thực sự",
+                "tuyệt vời",
+                "lạ"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "dũng thật": [
+                "tuyệt vời"
+            ],
+            "vị trí": [
+                "tốt"
+            ],
+            "móng tay": [
+                "lạ"
+            ],
+            "mát xa chân": [
+                "giỏi",
+                "lớn",
+                "nhiều"
+            ],
+            "massage mô": [
+                "sâu",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "không gian": 1.0,
+            "dịch vụ": 1.5,
+            "nhân viên": 2.5,
+            "tác phẩm nghệ thuật làm móng": 0.5,
+            "nhân viên mát xa": 0.5,
+            "giá cả bình dân": 0.5,
+            "đồ thì": 0.5,
+            "giao thông": 0.5,
+            "móng chân": 1.0,
+            "giá cả": 0.5,
+            "dũng thật": 0.5,
+            "vị trí": 0.5,
+            "móng tay": 0.5,
+            "mát xa chân": 0.5,
+            "massage mô": 0.5
+        }
     },
     {
         "attraction_name": "Hanoi Spa Paradise",
@@ -657,7 +1236,135 @@
             "https://www.tripadvisor.com/Attraction_Review-g60826-d4938195-Reviews-Alaska_Salmon_Bake-Fairbanks_Alaska.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or60-Hanoi_Spa_Paradise-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or50-Hanoi_Spa_Paradise-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or50-Hanoi_Spa_Paradise-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dũng ngọc": 0.5,
+            "nhà trị liệu mát-xa giỏi": 0.5,
+            "họ": 0.8737691454589367,
+            "lắng nghe": 0.9953278840985149,
+            "dịch vụ mát-xa và đây": 0.5,
+            "tốt nhất": 0.5,
+            "nghệ thuật": 0.9955426334636286,
+            "chuyến đi": 0.9955823569907807,
+            "massage thụy điển": 0.9954647282138467,
+            "mát-xa tuyệt vời": 0.9950947451870888,
+            "trị liệu": 0.995547235768754,
+            "nhân viên": 0.9922264456108678,
+            "massage": 0.8737691454589367,
+            "tế bào": 0.5,
+            "cà phê": 0.5,
+            "đặc sản": 0.5,
+            "dịch vụ": 0.9955019815824926,
+            "móng tay": 0.7759399136217932,
+            "tẩy tế bào": 0.8832957937847823,
+            "spa vì": 0.5,
+            "rất tốt": 0.5,
+            "phương pháp điều trị": 0.9578018400352448,
+            "khách sạn": 0.9853172823786736,
+            "buổi mát-xa kết hợp": 0.9825183968059719,
+            "spa": 0.8890591818490066,
+            "phương pháp tẩy tế bào": 0.9812051160261035,
+            "giờ massage": 0.8413753565400839
+        },
+        "dicts_adj": {
+            "dũng ngọc": [],
+            "nhà trị liệu mát-xa giỏi": [],
+            "họ": [
+                "mạnh mẽ",
+                "khoảng"
+            ],
+            "lắng nghe": [
+                "mạnh mẽ"
+            ],
+            "dịch vụ mát-xa và đây": [],
+            "tốt nhất": [],
+            "nghệ thuật": [
+                "xinh đẹp",
+                "tuyệt vời"
+            ],
+            "chuyến đi": [],
+            "massage thụy điển": [
+                "tuyệt vời",
+                "rẻ",
+                "hơn"
+            ],
+            "mát-xa tuyệt vời": [
+                "khoảng"
+            ],
+            "trị liệu": [
+                "tốt đẹp"
+            ],
+            "nhân viên": [
+                "thân thiện"
+            ],
+            "massage": [
+                "đẹp"
+            ],
+            "tế bào": [],
+            "cà phê": [],
+            "đặc sản": [],
+            "dịch vụ": [
+                "tuyệt vời",
+                "chu đáo"
+            ],
+            "móng tay": [
+                "tốt",
+                "sảng khoái",
+                "hợp lý"
+            ],
+            "tẩy tế bào": [
+                "tốt",
+                "sảng khoái",
+                "hợp lý"
+            ],
+            "spa vì": [],
+            "rất tốt": [],
+            "phương pháp điều trị": [
+                "hơn",
+                "tốt"
+            ],
+            "khách sạn": [],
+            "buổi mát-xa kết hợp": [],
+            "spa": [
+                "nhỏ",
+                "trung bình",
+                "cao cấp",
+                "hơn"
+            ],
+            "phương pháp tẩy tế bào": [],
+            "giờ massage": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dũng ngọc": 0.5,
+            "nhà trị liệu mát-xa giỏi": 0.5,
+            "họ": 1.0,
+            "lắng nghe": 0.5,
+            "dịch vụ mát-xa và đây": 0.5,
+            "tốt nhất": 0.5,
+            "nghệ thuật": 0.5,
+            "chuyến đi": 0.5,
+            "massage thụy điển": 0.5,
+            "mát-xa tuyệt vời": 0.5,
+            "trị liệu": 0.5,
+            "nhân viên": 1.0,
+            "massage": 0.5,
+            "tế bào": 1.0,
+            "cà phê": 0.5,
+            "đặc sản": 0.5,
+            "dịch vụ": 0.5,
+            "móng tay": 0.5,
+            "tẩy tế bào": 0.5,
+            "spa vì": 0.5,
+            "rất tốt": 0.5,
+            "phương pháp điều trị": 0.5,
+            "khách sạn": 0.5,
+            "buổi mát-xa kết hợp": 0.5,
+            "spa": 0.5,
+            "phương pháp tẩy tế bào": 0.5,
+            "giờ massage": 0.5
+        }
     },
     {
         "attraction_name": "Hanoi Spa Paradise",
@@ -768,7 +1475,110 @@
             "https://www.tripadvisor.com/Attraction_Review-g562812-d23693433-Reviews-Bonanza_Square-Benalmadena_Costa_del_Sol_Province_of_Malaga_Andalucia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or70-Hanoi_Spa_Paradise-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or60-Hanoi_Spa_Paradise-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or60-Hanoi_Spa_Paradise-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "phố cổ": 0.9926744217518717,
+            "nhân viên": 0.9938376935715496,
+            "giá cả": 0.9604921623249538,
+            "dịch vụ mát-xa rất tuyệt": 0.9955643168068491,
+            "móng chân": 0.5,
+            "mát-xa chân tốt nhất": 0.5,
+            "massage chân": 0.5,
+            "nhân viên lịch sự": 0.9937143131974153,
+            "dịch vụ": 0.9955506954865996,
+            "vị trí": 0.9955470045097172,
+            "con": -0.9739214272703975,
+            "phố": -0.9630789249204099,
+            "dịch vụ mát-xa aroma": 0.9954282691469416,
+            "trải nghiệm": 0.9952929429709911,
+            "bầu không khí": -0.9418335335794836,
+            "nhà": 0.9916455141501501,
+            "trị liệu massage": 0.9891109857708216,
+            "buổi": 0.9954797741957009,
+            "quá lạnh": 0.5
+        },
+        "dicts_adj": {
+            "phố cổ": [
+                "đẹp"
+            ],
+            "nhân viên": [
+                "hợp lý",
+                "thân thiện",
+                "thân thiện",
+                "thân thiện",
+                "chu đáo",
+                "liên tục",
+                "ổn"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "hợp lý"
+            ],
+            "dịch vụ mát-xa rất tuyệt": [
+                "tuyệt vời",
+                "hợp lý"
+            ],
+            "móng chân": [],
+            "mát-xa chân tốt nhất": [],
+            "massage chân": [],
+            "nhân viên lịch sự": [],
+            "dịch vụ": [
+                "tuyệt nhân viên",
+                "tuyệt vời"
+            ],
+            "vị trí": [
+                "hoàn hảo"
+            ],
+            "con": [
+                "sầm uất"
+            ],
+            "phố": [
+                "sầm uất"
+            ],
+            "dịch vụ mát-xa aroma": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "bầu không khí": [
+                "ràng buộc",
+                "dễ thương"
+            ],
+            "nhà": [
+                "chuyên nghiệp"
+            ],
+            "trị liệu massage": [
+                "chuyên nghiệp"
+            ],
+            "buổi": [
+                "tuyệt vời"
+            ],
+            "quá lạnh": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "phố cổ": 0.5,
+            "nhân viên": 2.0,
+            "giá cả": 1.0,
+            "dịch vụ mát-xa rất tuyệt": 0.5,
+            "móng chân": 1.0,
+            "mát-xa chân tốt nhất": 0.5,
+            "massage chân": 0.5,
+            "nhân viên lịch sự": 0.5,
+            "dịch vụ": 1.0,
+            "vị trí": 0.5,
+            "con": 0.5,
+            "phố": 0.5,
+            "dịch vụ mát-xa aroma": 0.5,
+            "trải nghiệm": 0.5,
+            "bầu không khí": 1.0,
+            "nhà": 0.5,
+            "trị liệu massage": 0.5,
+            "buổi": 0.5,
+            "quá lạnh": 0.5
+        }
     },
     {
         "attraction_name": "Hanoi Spa Paradise",
@@ -879,7 +1689,164 @@
             "https://www.tripadvisor.com/Attraction_Review-g274887-d276817-Reviews-Hungarian_Parliament_Building-Budapest_Central_Hungary.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or80-Hanoi_Spa_Paradise-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or70-Hanoi_Spa_Paradise-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or70-Hanoi_Spa_Paradise-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "căn phòng": 0.9950897262897342,
+            "dịch vụ": 0.3380161762276354,
+            "nhân viên": 0.9906825384940021,
+            "spa": 0.9545947655957813,
+            "chỗ": 0.9872495672025252,
+            "môi trường": 0.9943087171704974,
+            "trung tâm spa": 0.5304281301796436,
+            "cho massage": 0.6536523504182696,
+            "spa massage": 0.8737691454589367,
+            "khách sạn": 0.7475600840407424,
+            "buổi mát xa": 0.9954419884597883,
+            "dịch vụ họ": 0.9946194206131622,
+            "móng": 0.5,
+            "chân spa": 0.5,
+            "tay spa": 0.5,
+            "chà cà phê": 0.9955244575394318,
+            "cánh tay": 0.995532757777255,
+            "móng chân": 0.8737691454589367,
+            "móng tay": 0.9835610857699066,
+            "liệu pháp mát-xa truyền thống": 0.9952584723941982,
+            "dịch vụ mát-xa rất": 0.8737691454589367,
+            "bộ dài và": 0.5,
+            "cổ": 0.5,
+            "lễ tân": 0.5686180982738733,
+            "giá cả": 0.8737691454589367,
+            "- massage": 0.9954400274436921,
+            "hơn vì": 0.9334525144658983,
+            "đồ ăn": 0.9943140051327646
+        },
+        "dicts_adj": {
+            "căn phòng": [
+                "gọn gàng"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "cùng",
+                "khác",
+                "sai",
+                "đặc biệt"
+            ],
+            "nhân viên": [
+                "tốt",
+                "chuyên nghiệp",
+                "tốt",
+                "thân thiện",
+                "đặc biệt"
+            ],
+            "spa": [
+                "tuyệt vời",
+                "chắc chắn",
+                "tuyệt vời"
+            ],
+            "chỗ": [
+                "sạch sẽ",
+                "đẹp đẽ"
+            ],
+            "môi trường": [
+                "sạch sẽ",
+                "đẹp đẽ"
+            ],
+            "trung tâm spa": [
+                "khác",
+                "thấp",
+                "hơn"
+            ],
+            "cho massage": [
+                "thông thường",
+                "cao",
+                "hơn"
+            ],
+            "spa massage": [
+                "tuyệt vời"
+            ],
+            "khách sạn": [],
+            "buổi mát xa": [
+                "thực sự",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "dịch vụ họ": [
+                "hài lòng"
+            ],
+            "móng": [],
+            "chân spa": [],
+            "tay spa": [],
+            "chà cà phê": [],
+            "cánh tay": [
+                "mát",
+                "xa",
+                "thực sự",
+                "tốt đẹp"
+            ],
+            "móng chân": [
+                "gọn gàng"
+            ],
+            "móng tay": [
+                "gọn gàng"
+            ],
+            "liệu pháp mát-xa truyền thống": [
+                "tuyệt vời"
+            ],
+            "dịch vụ mát-xa rất": [
+                "tốt"
+            ],
+            "bộ dài và": [],
+            "cổ": [],
+            "lễ tân": [],
+            "giá cả": [
+                "hợp lý",
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "- massage": [
+                "tuyệt vời"
+            ],
+            "hơn vì": [
+                "cuối cùng",
+                "nhiều",
+                "nhiều"
+            ],
+            "đồ ăn": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "căn phòng": 0.5,
+            "dịch vụ": 1.5,
+            "nhân viên": 2.5,
+            "spa": 1.5,
+            "chỗ": 0.5,
+            "môi trường": 0.5,
+            "trung tâm spa": 0.5,
+            "cho massage": 0.5,
+            "spa massage": 0.5,
+            "khách sạn": 1.0,
+            "buổi mát xa": 0.5,
+            "dịch vụ họ": 0.5,
+            "móng": 0.5,
+            "chân spa": 0.5,
+            "tay spa": 0.5,
+            "chà cà phê": 0.5,
+            "cánh tay": 0.5,
+            "móng chân": 0.5,
+            "móng tay": 0.5,
+            "liệu pháp mát-xa truyền thống": 0.5,
+            "dịch vụ mát-xa rất": 0.5,
+            "bộ dài và": 0.5,
+            "cổ": 0.5,
+            "lễ tân": 0.5,
+            "giá cả": 0.5,
+            "- massage": 0.5,
+            "hơn vì": 0.5,
+            "đồ ăn": 0.5
+        }
     },
     {
         "attraction_name": "Hanoi Spa Paradise",
@@ -990,7 +1957,242 @@
             "https://www.tripadvisor.com/Attraction_Review-g40367-d2704630-Reviews-Gone_Wild_Safari_Park-Pineville_Louisiana.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or90-Hanoi_Spa_Paradise-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or80-Hanoi_Spa_Paradise-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or80-Hanoi_Spa_Paradise-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ghế": -0.8919347920455039,
+            "dịch vụ chăm sóc móng chân": 0.9624208066379651,
+            "lớp sơn móng": 0.3690198492258787,
+            "sơn": 0.8737691454589367,
+            "móng tay": -0.9624353103572503,
+            "bỏ móng chân": -0.9697962254285812,
+            "nhân viên": -0.31873734972517315,
+            "móng": 0.5,
+            "chân họ": 0.5,
+            "cho miếng": -0.9730272137094289,
+            "không dưỡng ẩm": -0.9345637399237603,
+            "móng chân": 0.6104657389223576,
+            "âm nhạc": 0.9953237603767775,
+            "massage": 0.8394784182310104,
+            "phẩm giá": -0.8377068303525448,
+            "căn phòng": 0.5,
+            "phòng tắm": 0.5,
+            "buổi biểu diễn": 0.6878587203100324,
+            "sân khấu": -0.18182163964957,
+            "mát-xa khá tốt": 0.33562026731669903,
+            "nhưng": 0.975219989195466,
+            "bộ sưởi ấm": 0.5,
+            "bộ sưởi": 0.5,
+            "môi": 0.7205189854527513,
+            "trường -": 0.6807187182130292,
+            "trải nghiệm": 0.9469313904022177,
+            "vì một": 0.0928715281188488,
+            "quần áo": -0.9403725517913699,
+            "kiểu điều trị": -0.007431783247739077,
+            "buổi mát-xa hiệu": 0.5,
+            "tẩy tế": 0.9327371679246426,
+            "cà phê": 0.9950432303594425,
+            "mát-xa": 0.5,
+            "bằng móng": 0.5,
+            "spa": 0.5,
+            "của mình": 0.5,
+            "miếng": 0.9911405663006008,
+            "buổi mát xa": 0.9954834952950478,
+            "bộ": 0.991864210460335,
+            "móng sơn": 0.9883213606663048,
+            "giá cả": 0.8737691454589367,
+            "dịch vụ": 0.995489668333903,
+            "không phản": -0.9716923418454826,
+            "dịch vụ mát-xa pha": 0.00814555783290416,
+            "thái": 0.8737691454589367,
+            "nhưng với tư": 0.01017881598090753
+        },
+        "dicts_adj": {
+            "ghế": [
+                "bình thường"
+            ],
+            "dịch vụ chăm sóc móng chân": [
+                "đầy đủ",
+                "thông thường",
+                "tốt"
+            ],
+            "lớp sơn móng": [],
+            "sơn": [
+                "tệ",
+                "lâu"
+            ],
+            "móng tay": [
+                "tệ",
+                "lâu"
+            ],
+            "bỏ móng chân": [
+                "tồi tệ"
+            ],
+            "nhân viên": [
+                "thô lỗ",
+                "thực sự",
+                "tốt bụng"
+            ],
+            "móng": [],
+            "chân họ": [],
+            "cho miếng": [],
+            "không dưỡng ẩm": [],
+            "móng chân": [
+                "bất kỳ",
+                "thông thường",
+                "cần thiết"
+            ],
+            "âm nhạc": [
+                "Sạch sẽ",
+                "riêng"
+            ],
+            "massage": [],
+            "phẩm giá": [],
+            "căn phòng": [],
+            "phòng tắm": [],
+            "buổi biểu diễn": [
+                "gần",
+                "ầm ĩ"
+            ],
+            "sân khấu": [
+                "gần",
+                "ầm ĩ"
+            ],
+            "mát-xa khá tốt": [
+                "gần",
+                "lạnh"
+            ],
+            "nhưng": [
+                "thực sự",
+                "tuyệt",
+                "khác",
+                "lạnh",
+                "cóng"
+            ],
+            "bộ sưởi ấm": [],
+            "bộ sưởi": [],
+            "môi": [
+                "tuyệt vời",
+                "hơn",
+                "nhiều"
+            ],
+            "trường -": [
+                "tuyệt vời",
+                "hơn",
+                "nhiều"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "hơn",
+                "nhiều"
+            ],
+            "vì một": [
+                "chắc chắn",
+                "đúng"
+            ],
+            "quần áo": [
+                "khó"
+            ],
+            "kiểu điều trị": [
+                "chắc chắn",
+                "hỏng"
+            ],
+            "buổi mát-xa hiệu": [],
+            "tẩy tế": [
+                "tuyệt vời"
+            ],
+            "cà phê": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "mát-xa": [],
+            "bằng móng": [],
+            "spa": [],
+            "của mình": [],
+            "miếng": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "buổi mát xa": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "bộ": [
+                "xinh xắn"
+            ],
+            "móng sơn": [
+                "xinh xắn"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "không phản": [],
+            "dịch vụ mát-xa pha": [
+                "tồi tệ",
+                "nhất"
+            ],
+            "thái": [
+                "tồi tệ",
+                "nhất"
+            ],
+            "nhưng với tư": [
+                "tồi tệ",
+                "nhất"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ghế": 0.5,
+            "dịch vụ chăm sóc móng chân": 1.0,
+            "lớp sơn móng": 0.5,
+            "sơn": 0.5,
+            "móng tay": 0.5,
+            "bỏ móng chân": 0.5,
+            "nhân viên": 1.5,
+            "móng": 0.5,
+            "chân họ": 0.5,
+            "cho miếng": 0.5,
+            "không dưỡng ẩm": 0.5,
+            "móng chân": 1.0,
+            "âm nhạc": 0.5,
+            "massage": 0.5,
+            "phẩm giá": 0.5,
+            "căn phòng": 0.5,
+            "phòng tắm": 0.5,
+            "buổi biểu diễn": 0.5,
+            "sân khấu": 0.5,
+            "mát-xa khá tốt": 0.5,
+            "nhưng": 0.5,
+            "bộ sưởi ấm": 0.5,
+            "bộ sưởi": 0.5,
+            "môi": 0.5,
+            "trường -": 0.5,
+            "trải nghiệm": 0.5,
+            "vì một": 0.5,
+            "quần áo": 0.5,
+            "kiểu điều trị": 0.5,
+            "buổi mát-xa hiệu": 0.5,
+            "tẩy tế": 0.5,
+            "cà phê": 1.0,
+            "mát-xa": 0.5,
+            "bằng móng": 0.5,
+            "spa": 0.5,
+            "của mình": 0.5,
+            "miếng": 0.5,
+            "buổi mát xa": 0.5,
+            "bộ": 0.5,
+            "móng sơn": 0.5,
+            "giá cả": 0.5,
+            "dịch vụ": 0.5,
+            "không phản": 0.5,
+            "dịch vụ mát-xa pha": 0.5,
+            "thái": 0.5,
+            "nhưng với tư": 0.5
+        }
     },
     {
         "attraction_name": "Hanoi Spa Paradise",
@@ -1101,6 +2303,181 @@
             "https://www.tripadvisor.com/Attraction_Review-g58491-d7158324-Reviews-Taidnapam_Park-Glenoma_Washington.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or100-Hanoi_Spa_Paradise-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or90-Hanoi_Spa_Paradise-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8523286-Reviews-or90-Hanoi_Spa_Paradise-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "mát-xa rất tốt": 0.9799729762598872,
+            "dịch vụ": 0.8716488583741011,
+            "nhân viên": 0.813664897083072,
+            "giá cả": 0.934577593987342,
+            "khách sạn": 0.737459470750764,
+            "sợi râu": 0.5823365934193134,
+            "mặt trái cây": -0.9694553313311189,
+            "kỹ năng ngôn ngữ": 0.9468199368566275,
+            "trị liệu": 0.5,
+            "trải nghiệm": 0.5823438605487657,
+            "môi trường": 0.9955769687658176,
+            "vị trí": 0.8737691454589367,
+            "khu phố cổ": 0.6868845727294683,
+            "cà phê chà": 0.9925500300014392,
+            "massage chân": 0.5779983140528202,
+            "nhân viên lễ tân": 0.5,
+            "giao dịch mua hàng": 0.5,
+            "tế bào": -0.7571300445124507,
+            "bùn toàn thân": 0.5,
+            "làm móng": 0.5,
+            "nhân viên mát-xa rất tốt": 0.9947791201120708,
+            "nước trà": 0.5,
+            "đồ ăn": 0.5,
+            "cửa hàng": 0.23036602709908038,
+            "mát-xa cơ thể": 0.5768987303599715,
+            "quán spa": 0.8737691454589367,
+            "quán ăn": 0.5,
+            "món ăn": 0.9513392809312791,
+            "sau đó": 0.5364387286826968,
+            "phố": 0.5,
+            "may may spa": 0.5,
+            "spa chân": 0.8704922962933779,
+            "trạng thái": 0.40912946313619614
+        },
+        "dicts_adj": {
+            "mát-xa rất tốt": [
+                "khó chịu"
+            ],
+            "dịch vụ": [
+                "thực sự",
+                "tốt",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "nhiều",
+                "chuyên nghiệp",
+                "thân thiện",
+                "khéo léo",
+                "tuyệt vời",
+                "chuyên nghiệp",
+                "thoải mái"
+            ],
+            "giá cả": [
+                "tuyệt vời",
+                "hợp lý",
+                "nhiều"
+            ],
+            "khách sạn": [],
+            "sợi râu": [
+                "cuối cùng"
+            ],
+            "mặt trái cây": [
+                "nặng"
+            ],
+            "kỹ năng ngôn ngữ": [
+                "cơ bản"
+            ],
+            "trị liệu": [],
+            "trải nghiệm": [
+                "tốt đẹp",
+                "xứng đáng",
+                "may",
+                "thoải mái",
+                "tốt bụng",
+                "thoải mái"
+            ],
+            "môi trường": [
+                "đẹp"
+            ],
+            "vị trí": [
+                "tuyệt vời"
+            ],
+            "khu phố cổ": [
+                "khác",
+                "tốt",
+                "hơn"
+            ],
+            "cà phê chà": [
+                "đặc biệt"
+            ],
+            "massage chân": [
+                "tốt",
+                "tuyệt vời"
+            ],
+            "nhân viên lễ tân": [],
+            "giao dịch mua hàng": [],
+            "tế bào": [
+                "sạch",
+                "nóng",
+                "mặt nạ"
+            ],
+            "bùn toàn thân": [],
+            "làm móng": [],
+            "nhân viên mát-xa rất tốt": [
+                "tốt bụng",
+                "thoải mái"
+            ],
+            "nước trà": [],
+            "đồ ăn": [],
+            "cửa hàng": [
+                "khác",
+                "tốt",
+                "hơn"
+            ],
+            "mát-xa cơ thể": [
+                "trung bình",
+                "hơn"
+            ],
+            "quán spa": [
+                "sạch sẽ"
+            ],
+            "quán ăn": [],
+            "món ăn": [
+                "châu Á",
+                "hơn"
+            ],
+            "sau đó": [],
+            "phố": [],
+            "may may spa": [],
+            "spa chân": [],
+            "trạng thái": [
+                "tốt",
+                "mạnh"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "mát-xa rất tốt": 0.5,
+            "dịch vụ": 2.0,
+            "nhân viên": 2.0,
+            "giá cả": 1.0,
+            "khách sạn": 1.0,
+            "sợi râu": 0.5,
+            "mặt trái cây": 0.5,
+            "kỹ năng ngôn ngữ": 0.5,
+            "trị liệu": 0.5,
+            "trải nghiệm": 1.5,
+            "môi trường": 0.5,
+            "vị trí": 0.5,
+            "khu phố cổ": 1.0,
+            "cà phê chà": 0.5,
+            "massage chân": 0.5,
+            "nhân viên lễ tân": 0.5,
+            "giao dịch mua hàng": 0.5,
+            "tế bào": 0.5,
+            "bùn toàn thân": 0.5,
+            "làm móng": 0.5,
+            "nhân viên mát-xa rất tốt": 0.5,
+            "nước trà": 0.5,
+            "đồ ăn": 0.5,
+            "cửa hàng": 0.5,
+            "mát-xa cơ thể": 0.5,
+            "quán spa": 0.5,
+            "quán ăn": 0.5,
+            "món ăn": 0.5,
+            "sau đó": 0.5,
+            "phố": 0.5,
+            "may may spa": 0.5,
+            "spa chân": 0.5,
+            "trạng thái": 0.5
+        }
     }
 ]

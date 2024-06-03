@@ -123,7 +123,326 @@
             "https://www.tripadvisor.com/Attraction_Review-g499173-d183716-Reviews-Fundy_National_Park-Alma_Albert_County_New_Brunswick.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-or10-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chiếc": 0.9303102147532627,
+            "xe": -0.037245995943279306,
+            "mui trần": 0.8681323889565343,
+            "công viên": 0.5215590156149119,
+            "công viên cá sấu": 0.008123748004436493,
+            "cáp treo": 0.5,
+            "bọn trẻ": 0.5,
+            "công viên giải trí": 0.21403852988234057,
+            "đồ ăn": -0.6767944283783436,
+            "trò chơi": 0.5669951708987355,
+            "mô": 0.5,
+            "hình kinh doanh": 0.5,
+            "chuyến đi": 0.5032275520155535,
+            "kỳ nghỉ gia đình": 0.5276545323431492,
+            "lâu đài": 0.10973605822073296,
+            "loại tàu": -0.23522442509420216,
+            "phong cảnh": 0.5,
+            "công viên nước": 0.6472012822715831,
+            "sở thú": 0.5,
+            "mục nhập": 0.5248788166791201,
+            "điểm tham": 0.6427396121434867,
+            "trang trại cá sấu": 0.5,
+            "dây câu": 0.5,
+            "xe ô": 0.41716560162603855,
+            "chuyến đi kiểu máy bay": -0.8302366631105542,
+            "ngôi nhà ma": 0.8737691454589367,
+            "chuyến tàu": 0.9955762141617015,
+            "món ăn": 0.8886120468378067,
+            "khu ẩm thực": 0.6252201711758971,
+            "giá cả": 0.5,
+            "nhân viên lịch sự": -0.9518337447661906,
+            "bóng râm": 0.7195022462401539,
+            "dụng dịch thuật": -0.9044434246607125,
+            "thị trấn": 0.5,
+            "chuyến xe": 0.5,
+            "trải nghiệm": 0.5,
+            "lâu đài tuyết": 0.5241165906190872,
+            "cho cá": 0.9906186528969556,
+            "con vật": -0.7476532608270645,
+            "thực phẩm phong cách": -0.9439718681387603,
+            "khoai tây chiên": 0.5,
+            "món": 0.5,
+            "mì xào bò ngon": 0.5,
+            "vị trí": 0.9955135488999076,
+            "đồ ăn kiểu": 0.2147300112992525,
+            "vụ nổ": 0.9951707924483344,
+            "nhân viên": 0.9956070499611087,
+            "bức tượng": 0.9952021584613249,
+            "ngôi đền": 0.9952932809828781,
+            "chuyến thăm": 0.9947220195317641,
+            "trò": -0.432471439242363,
+            "cảnh quan": 0.5,
+            "xe buýt": 0.5,
+            "trung tâm": 0.5,
+            "điểm tham quan": 0.98633699468337,
+            "hàng đợi": -0.6656224494799972,
+            "bầu không khí": -0.9750509795267135
+        },
+        "dicts_adj": {
+            "chiếc": [
+                "đủ",
+                "tốt",
+                "khắp"
+            ],
+            "xe": [
+                "đủ",
+                "tốt",
+                "khắp",
+                "nhỏ",
+                "nhỏ"
+            ],
+            "mui trần": [
+                "đủ",
+                "tốt",
+                "khắp"
+            ],
+            "công viên": [
+                "tương đối",
+                "tương đối"
+            ],
+            "công viên cá sấu": [],
+            "cáp treo": [],
+            "bọn trẻ": [],
+            "công viên giải trí": [
+                "rẻ",
+                "gần",
+                "nhiều",
+                "phải",
+                "riêng",
+                "nhiều",
+                "hơn",
+                "trẻ",
+                "riêng",
+                "phải"
+            ],
+            "đồ ăn": [
+                "đắt"
+            ],
+            "trò chơi": [
+                "bất kỳ",
+                "nhiều",
+                "hơn",
+                "trẻ",
+                "bất kỳ"
+            ],
+            "mô": [],
+            "hình kinh doanh": [],
+            "chuyến đi": [
+                "may mắn",
+                "nóng",
+                "điên cuồng",
+                "may mắn",
+                "nóng",
+                "điên cuồng",
+                "nửa tá",
+                "khác",
+                "nửa tá",
+                "khác",
+                "giả",
+                "dễ chịu",
+                "cũ kỹ",
+                "khủng khiếp"
+            ],
+            "kỳ nghỉ gia đình": [
+                "rẻ",
+                "nhiều",
+                "phải"
+            ],
+            "lâu đài": [
+                "tối",
+                "lớn",
+                "tối",
+                "lớn",
+                "tối",
+                "lớn",
+                "tối",
+                "lớn",
+                "quen"
+            ],
+            "loại tàu": [
+                "quen"
+            ],
+            "phong cảnh": [],
+            "công viên nước": [
+                "đông đúc",
+                "hơn",
+                "đông đúc",
+                "hơn"
+            ],
+            "sở thú": [],
+            "mục nhập": [
+                "cơ bản",
+                "cơ bản"
+            ],
+            "điểm tham": [
+                "mát mẻ",
+                "hơn",
+                "mát mẻ",
+                "hơn"
+            ],
+            "trang trại cá sấu": [],
+            "dây câu": [],
+            "xe ô": [
+                "nhỏ",
+                "nhỏ"
+            ],
+            "chuyến đi kiểu máy bay": [
+                "nhỏ",
+                "nhỏ"
+            ],
+            "ngôi nhà ma": [
+                "tối",
+                "lớn",
+                "tối",
+                "lớn"
+            ],
+            "chuyến tàu": [],
+            "món ăn": [
+                "đơn giản",
+                "đơn giản"
+            ],
+            "khu ẩm thực": [
+                "ổn",
+                "ổn"
+            ],
+            "giá cả": [],
+            "nhân viên lịch sự": [],
+            "bóng râm": [
+                "mát mẻ",
+                "hơn",
+                "mát mẻ",
+                "hơn"
+            ],
+            "dụng dịch thuật": [],
+            "thị trấn": [],
+            "chuyến xe": [],
+            "trải nghiệm": [],
+            "lâu đài tuyết": [
+                "nhỏ",
+                "nhỏ"
+            ],
+            "cho cá": [
+                "thú vị",
+                "thú vị"
+            ],
+            "con vật": [
+                "nhỏ",
+                "gần",
+                "buồn",
+                "nhỏ",
+                "gần",
+                "buồn"
+            ],
+            "thực phẩm phong cách": [],
+            "khoai tây chiên": [],
+            "món": [],
+            "mì xào bò ngon": [],
+            "vị trí": [
+                "nhiều",
+                "độc đáo",
+                "nhiều",
+                "độc đáo"
+            ],
+            "đồ ăn kiểu": [],
+            "vụ nổ": [
+                "tuyệt đối"
+            ],
+            "nhân viên": [
+                "nhiều"
+            ],
+            "bức tượng": [
+                "khổng lồ",
+                "khắp"
+            ],
+            "ngôi đền": [
+                "đẹp"
+            ],
+            "chuyến thăm": [],
+            "trò": [
+                "bất kỳ"
+            ],
+            "cảnh quan": [],
+            "xe buýt": [],
+            "trung tâm": [],
+            "điểm tham quan": [
+                "tuyệt vời"
+            ],
+            "hàng đợi": [
+                "cao",
+                "có thể",
+                "phải"
+            ],
+            "bầu không khí": [
+                "nhiều",
+                "đắt đỏ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chiếc": 1,
+            "xe": 5,
+            "mui trần": 1,
+            "công viên": 4.0,
+            "công viên cá sấu": 1,
+            "cáp treo": 1,
+            "bọn trẻ": 1,
+            "công viên giải trí": 7.0,
+            "đồ ăn": 1,
+            "trò chơi": 3.0,
+            "mô": 1.5,
+            "hình kinh doanh": 1.5,
+            "chuyến đi": 8.5,
+            "kỳ nghỉ gia đình": 1.5,
+            "lâu đài": 6.0,
+            "loại tàu": 3.0,
+            "phong cảnh": 1.5,
+            "công viên nước": 7.0,
+            "sở thú": 3.0,
+            "mục nhập": 3.0,
+            "điểm tham": 3.0,
+            "trang trại cá sấu": 3.0,
+            "dây câu": 3.0,
+            "xe ô": 3.0,
+            "chuyến đi kiểu máy bay": 3.0,
+            "ngôi nhà ma": 3.0,
+            "chuyến tàu": 3.0,
+            "món ăn": 3.0,
+            "khu ẩm thực": 3.0,
+            "giá cả": 3.0,
+            "nhân viên lịch sự": 3.0,
+            "bóng râm": 3.0,
+            "dụng dịch thuật": 4,
+            "thị trấn": 4,
+            "chuyến xe": 4,
+            "trải nghiệm": 4,
+            "lâu đài tuyết": 4,
+            "cho cá": 4,
+            "con vật": 4,
+            "thực phẩm phong cách": 2,
+            "khoai tây chiên": 4,
+            "món": 4,
+            "mì xào bò ngon": 4,
+            "vị trí": 4,
+            "đồ ăn kiểu": 2,
+            "vụ nổ": 1.5,
+            "nhân viên": 1.5,
+            "bức tượng": 1.5,
+            "ngôi đền": 1.5,
+            "chuyến thăm": 1.5,
+            "trò": 1.5,
+            "cảnh quan": 1.5,
+            "xe buýt": 1.5,
+            "trung tâm": 1.5,
+            "điểm tham quan": 1.5,
+            "hàng đợi": 1.5,
+            "bầu không khí": 1
+        }
     },
     {
         "attraction_name": "Suoi Tien Theme Park",
@@ -250,7 +569,140 @@
             "https://www.tripadvisor.com/Attraction_Review-g293890-d379305-Reviews-Thamel-Kathmandu_Kathmandu_Valley_Bagmati_Zone_Central_Region.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-or20-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-or10-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-or10-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "công viên trượt nước phật giáo": 0.798740092664957,
+            "ao": 0.5044273156672716,
+            "cá sấu": 0.5,
+            "công viên suối": 0.5463937502354383,
+            "sân chơi": -0.9724143596831709,
+            "nhà vệ sinh": 0.7504896792815998,
+            "nhân viên": -0.28927786243148146,
+            "khuôn mặt": 0.5099626276642084,
+            "địa điểm": 0.9955709961941466,
+            "miếng thịt treo": 0.5363813508301973,
+            "cá": 0.39456184417940676,
+            "công viên giải trí": 0.7470609064330347,
+            "vương quốc cá": 0.5,
+            "tản bộ": 0.5,
+            "công viên": 0.6472729843420286,
+            "khu": 0.6338369785808027,
+            "trò chơi": 0.5,
+            "công viên nước": 0.9951088752131909,
+            "chuyến đi": 0.8788563510752283,
+            "trang trại cá": -0.9483449521940202,
+            "vườn thú": 0.5,
+            "massage cá": 0.9736370525788516,
+            "xe lăn": 0.7754515754058957,
+            "xe đưa": 0.5,
+            "công viên nước khu bảo tồn": 0.973392485640943,
+            "nhà thám": 0.9941578973084688,
+            "thực phẩm": 0.9952038084156811
+        },
+        "dicts_adj": {
+            "công viên trượt nước phật giáo": [
+                "đầu tiên"
+            ],
+            "ao": [
+                "hơn"
+            ],
+            "cá sấu": [],
+            "công viên suối": [],
+            "sân chơi": [
+                "bẩn"
+            ],
+            "nhà vệ sinh": [
+                "sạch sẽ",
+                "hơn"
+            ],
+            "nhân viên": [
+                "cao",
+                "cao",
+                "chuyên nghiệp",
+                "hỏng"
+            ],
+            "khuôn mặt": [
+                "nghiêm túc"
+            ],
+            "địa điểm": [
+                "xinh đẹp"
+            ],
+            "miếng thịt treo": [],
+            "cá": [
+                "gần",
+                "bất ngờ",
+                "nhiều",
+                "hơn"
+            ],
+            "công viên giải trí": [
+                "thú vị"
+            ],
+            "vương quốc cá": [],
+            "tản bộ": [],
+            "công viên": [
+                "phức hợp",
+                "khổng lồ",
+                "cơ bản"
+            ],
+            "khu": [
+                "phức hợp",
+                "khổng lồ"
+            ],
+            "trò chơi": [],
+            "công viên nước": [
+                "xa",
+                "tuyệt"
+            ],
+            "chuyến đi": [
+                "ổn"
+            ],
+            "trang trại cá": [],
+            "vườn thú": [],
+            "massage cá": [],
+            "xe lăn": [],
+            "xe đưa": [],
+            "công viên nước khu bảo tồn": [
+                "thuận tiện"
+            ],
+            "nhà thám": [
+                "giỏi",
+                "thám hiểm",
+                "chắc chắn",
+                "tuyệt vời"
+            ],
+            "thực phẩm": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "công viên trượt nước phật giáo": 0.5,
+            "ao": 0.5,
+            "cá sấu": 0.5,
+            "công viên suối": 0.5,
+            "sân chơi": 0.5,
+            "nhà vệ sinh": 0.5,
+            "nhân viên": 0.5,
+            "khuôn mặt": 0.5,
+            "địa điểm": 0.5,
+            "miếng thịt treo": 0.5,
+            "cá": 1.0,
+            "công viên giải trí": 1.0,
+            "vương quốc cá": 0.5,
+            "tản bộ": 0.5,
+            "công viên": 1.0,
+            "khu": 0.5,
+            "trò chơi": 0.5,
+            "công viên nước": 0.5,
+            "chuyến đi": 0.5,
+            "trang trại cá": 0.5,
+            "vườn thú": 0.5,
+            "massage cá": 0.5,
+            "xe lăn": 0.5,
+            "xe đưa": 0.5,
+            "công viên nước khu bảo tồn": 0.5,
+            "nhà thám": 0.5,
+            "thực phẩm": 0.5
+        }
     },
     {
         "attraction_name": "Suoi Tien Theme Park",
@@ -363,7 +815,332 @@
             "https://www.tripadvisor.com/Attraction_Review-g187463-d4468348-Reviews-Playa_de_Palma_El_Arenal-Palma_de_Mallorca_Majorca_Balearic_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-or30-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-or20-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-or20-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "công viên giải trí": 0.09369102842451649,
+            "trò chơi": 0.04364452306957295,
+            "hình kinh doanh": 0.5,
+            "chuyến đi": 0.6422710104379803,
+            "lâu đài": 0.8737691454589367,
+            "loại tàu": -0.9610227043740451,
+            "cảnh quan": 0.5,
+            "tập sách": 0.9892665051156655,
+            "công viên": 0.5518372815451584,
+            "phượng": 0.5,
+            "rùa phật": 0.5,
+            "nền tảng cơ đốc giáo": 0.8737691454589367,
+            "tôn giáo": 0.9947844519629143,
+            "hãng phim phổ thông": 0.5,
+            "đường hầm": 0.5,
+            "đồng bằng sông cửu long": 0.8737691454589367,
+            "công viên nước": 0.2677208463428542,
+            "địa ngục phật giáo": 0.9758826182223856,
+            "chi tiết đồ họa": 0.5,
+            "hình": 0.5,
+            "chùa -": 0.5,
+            "chùa bửu long": 0.5,
+            "khu phức hợp": 0.9172874634775022,
+            "tòa nhà phật giáo": 0.8737691454589367,
+            "tác phẩm nghệ thuật": 0.4031413421034813,
+            "ngôi chùa": 0.9893544980150182,
+            "căn": 0.5329370824620128,
+            "phòng trung tâm": 0.9646125083090737,
+            "tác phẩm": 0.5,
+            "lịch sử phật giáo": 0.8737691454589367,
+            "ông sư": 0.5751616340130568,
+            "căn phòng": 0.8815320264548063,
+            "cửa hàng": 0.5,
+            "quà tặng": 0.5,
+            "xe buýt số": 0.5259869415313005,
+            "bãi đậu xe": 0.237952065654099,
+            "tòa nhà": -0.7437637654365972,
+            "xe ôm": 0.5744973158256875,
+            "bến xe": -0.9294663651380688,
+            "chiếc": 0.6079705404117703,
+            "xe": 0.38722624257206917,
+            "tầng": 0.9820157071808353,
+            "-": 0.8737691454589367,
+            "tầm nhìn": 0.99527965701418,
+            "bộ sưu tập": 0.9163071615621448,
+            "công viên giải trí phật giáo": 0.8737691454589367,
+            "đồ bơi": 0.9487357493489981,
+            "trang trại": 0.12775038555264473,
+            "chương trình biểu diễn": 0.44693485647439957,
+            "phòng lạnh": 0.7680087960325181,
+            "máng trượt": -0.9235943420790136,
+            "trượt nước": -0.747705589979887,
+            "người dân": 0.5,
+            "người điều hành": -0.972390360198915,
+            "điểm tham": 0.5,
+            "nhân viên": 0.5,
+            "cửa": 0.5,
+            "hàng thực phẩm": 0.5
+        },
+        "dicts_adj": {
+            "công viên giải trí": [
+                "riêng",
+                "phải",
+                "thú vị",
+                "khác",
+                "nổi tiếng",
+                "hơn"
+            ],
+            "trò chơi": [
+                "bất kỳ",
+                "trẻ",
+                "hơn",
+                "rẻ",
+                "chủ yếu",
+                "khó khăn",
+                "hơn"
+            ],
+            "hình kinh doanh": [],
+            "chuyến đi": [
+                "nửa tá",
+                "khác",
+                "nửa tá",
+                "khác",
+                "đắt",
+                "hơn",
+                "đắt",
+                "hơn",
+                "cao"
+            ],
+            "lâu đài": [
+                "quen"
+            ],
+            "loại tàu": [
+                "quen"
+            ],
+            "cảnh quan": [],
+            "tập sách": [],
+            "công viên": [
+                "lớn",
+                "hơn",
+                "nhiều",
+                "hoàn toàn",
+                "tốt",
+                "chủ yếu",
+                "Chắc chắn",
+                "vắng",
+                "đặc biệt",
+                "tuyệt vời",
+                "tuyệt",
+                "nhiều",
+                "ít",
+                "ít",
+                "công bằng"
+            ],
+            "phượng": [],
+            "rùa phật": [],
+            "nền tảng cơ đốc giáo": [
+                "nhiều"
+            ],
+            "tôn giáo": [
+                "thú vị"
+            ],
+            "hãng phim phổ thông": [],
+            "đường hầm": [],
+            "đồng bằng sông cửu long": [
+                "phải"
+            ],
+            "công viên nước": [
+                "tuyệt vời",
+                "riêng"
+            ],
+            "địa ngục phật giáo": [
+                "kỳ lân",
+                "Phật giáo"
+            ],
+            "chi tiết đồ họa": [],
+            "hình": [],
+            "chùa -": [],
+            "chùa bửu long": [],
+            "khu phức hợp": [
+                "lớn",
+                "nhiều",
+                "đẹp"
+            ],
+            "tòa nhà phật giáo": [
+                "lớn",
+                "nhiều",
+                "đẹp"
+            ],
+            "tác phẩm nghệ thuật": [
+                "phức tạp"
+            ],
+            "ngôi chùa": [
+                "lớn",
+                "cao",
+                "đẹp",
+                "gần"
+            ],
+            "căn": [
+                "lớn",
+                "nhiều"
+            ],
+            "phòng trung tâm": [
+                "lớn",
+                "nhiều"
+            ],
+            "tác phẩm": [],
+            "lịch sử phật giáo": [
+                "lớn",
+                "nhiều"
+            ],
+            "ông sư": [],
+            "căn phòng": [
+                "thú vị"
+            ],
+            "cửa hàng": [],
+            "quà tặng": [],
+            "xe buýt số": [],
+            "bãi đậu xe": [
+                "rộng",
+                "phải"
+            ],
+            "tòa nhà": [
+                "trắng",
+                "khác"
+            ],
+            "xe ôm": [
+                "tốt",
+                "hơn",
+                "khác",
+                "may mắn",
+                "gần",
+                "khác",
+                "may mắn",
+                "gần"
+            ],
+            "bến xe": [
+                "phải",
+                "thẳng"
+            ],
+            "chiếc": [
+                "khác",
+                "may mắn",
+                "gần"
+            ],
+            "xe": [
+                "cuối cùng"
+            ],
+            "tầng": [
+                "đẹp"
+            ],
+            "-": [
+                "đẹp"
+            ],
+            "tầm nhìn": [
+                "đẹp"
+            ],
+            "bộ sưu tập": [
+                "thú vị",
+                "hơn"
+            ],
+            "công viên giải trí phật giáo": [
+                "ít"
+            ],
+            "đồ bơi": [
+                "nhiều"
+            ],
+            "trang trại": [
+                "khổng lồ",
+                "nhiều",
+                "hơn"
+            ],
+            "chương trình biểu diễn": [
+                "khổng lồ",
+                "nhiều",
+                "hơn"
+            ],
+            "phòng lạnh": [
+                "khổng lồ",
+                "nhiều",
+                "hơn"
+            ],
+            "máng trượt": [
+                "khổng lồ",
+                "nhiều",
+                "hơn"
+            ],
+            "trượt nước": [
+                "khổng lồ",
+                "nhiều",
+                "hơn"
+            ],
+            "người dân": [],
+            "người điều hành": [
+                "nhiều",
+                "hơn"
+            ],
+            "điểm tham": [],
+            "nhân viên": [],
+            "cửa": [],
+            "hàng thực phẩm": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "công viên giải trí": 3.5,
+            "trò chơi": 2.5,
+            "hình kinh doanh": 1.5,
+            "chuyến đi": 2.5,
+            "lâu đài": 1.5,
+            "loại tàu": 1.5,
+            "cảnh quan": 1.5,
+            "tập sách": 0.5,
+            "công viên": 2.0,
+            "phượng": 0.5,
+            "rùa phật": 0.5,
+            "nền tảng cơ đốc giáo": 0.5,
+            "tôn giáo": 0.5,
+            "hãng phim phổ thông": 0.5,
+            "đường hầm": 0.5,
+            "đồng bằng sông cửu long": 0.5,
+            "công viên nước": 1.5,
+            "địa ngục phật giáo": 0.5,
+            "chi tiết đồ họa": 0.5,
+            "hình": 0.5,
+            "chùa -": 0.5,
+            "chùa bửu long": 0.5,
+            "khu phức hợp": 0.5,
+            "tòa nhà phật giáo": 0.5,
+            "tác phẩm nghệ thuật": 0.5,
+            "ngôi chùa": 0.5,
+            "căn": 0.5,
+            "phòng trung tâm": 0.5,
+            "tác phẩm": 0.5,
+            "lịch sử phật giáo": 0.5,
+            "ông sư": 0.5,
+            "căn phòng": 0.5,
+            "cửa hàng": 0.5,
+            "quà tặng": 0.5,
+            "xe buýt số": 0.5,
+            "bãi đậu xe": 0.5,
+            "tòa nhà": 0.5,
+            "xe ôm": 0.5,
+            "bến xe": 0.5,
+            "chiếc": 0.5,
+            "xe": 0.5,
+            "tầng": 0.5,
+            "-": 0.5,
+            "tầm nhìn": 0.5,
+            "bộ sưu tập": 0.5,
+            "công viên giải trí phật giáo": 0.5,
+            "đồ bơi": 0.5,
+            "trang trại": 0.5,
+            "chương trình biểu diễn": 0.5,
+            "phòng lạnh": 0.5,
+            "máng trượt": 0.5,
+            "trượt nước": 0.5,
+            "người dân": 0.5,
+            "người điều hành": 0.5,
+            "điểm tham": 0.5,
+            "nhân viên": 0.5,
+            "cửa": 0.5,
+            "hàng thực phẩm": 0.5
+        }
     },
     {
         "attraction_name": "Suoi Tien Theme Park",
@@ -491,7 +1268,263 @@
             "https://www.tripadvisor.com/Attraction_Review-g60763-d11669135-Reviews-Westfield_World_Trade_Center-New_York_City_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-or40-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-or30-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-or30-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trò chơi": 0.9945446064230055,
+            "công viên giải trí": 0.6385131346566292,
+            "lâu đài": 0.13902583834715188,
+            "lâu đài ma": 0.44581152126193047,
+            "nhện": -0.5766823650337756,
+            "cà rồng": 0.20559033254782358,
+            "trang trại cá sấu": 0.994306332198903,
+            "cái ao": 0.5,
+            "câu cá giải trí": 0.5,
+            "cho cá": 0.5,
+            "chuyến thăm": 0.5,
+            "cá sấu": 0.7534411360393278,
+            "ngôi chùa phật giáo": 0.8737691454589367,
+            "bài tụng": 0.5,
+            "bức tượng phật": 0.8737691454589367,
+            "cấu": -0.3664923161268234,
+            "công viên nước": -0.00579018983989954,
+            "đầu khổng": 0.19107496738433838,
+            "điểm tham": 0.9945902833715081,
+            "công viên": -0.20281493095293018,
+            "nhân viên": 0.18785502761602402,
+            "điểm tham quan": 0.5,
+            "phòng thay": 0.8737691454589367,
+            "chuyến tàu": 0.8737691454589367,
+            "trung tâm": 0.9938246718957089,
+            "xe buýt": 0.5116740148514509,
+            "công viên nước nơi": 0.5,
+            "cầu": 0.5,
+            "chuyến đi": -0.7314882840728387,
+            "âm nhạc": 0.9943556130165234,
+            "sở thú": -0.9522356584202498,
+            "lồng": -0.2631329894065857,
+            "con vượn": 0.5,
+            "tác phẩm nghệ thuật": 0.9954148010583594,
+            "con": 0.6157094221562147,
+            "rồng trượt nước": -0.938344084424898,
+            "chủ": -0.9757651260588318,
+            "đề thủy sinh": -0.9761743801645935,
+            "cá": 0.765488475561142,
+            "công viên cá sấu": 0.43463890813291073,
+            "miếng cần": 0.5,
+            "bức tượng": 0.9954664530814625,
+            "linh hồn": 0.9845361946305881,
+            "tác phẩm điêu khắc": 0.9917500475033497,
+            "mẫu giáo": 0.9868724860716611,
+            "cây kem": 0.9352314388379455,
+            "bữa ăn": 0.7940727453678846
+        },
+        "dicts_adj": {
+            "trò chơi": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "công viên giải trí": [
+                "chắc chắn",
+                "vui vẻ",
+                "giống",
+                "bất kỳ",
+                "tuyệt vời",
+                "khổng lồ",
+                "đầy",
+                "khắp"
+            ],
+            "lâu đài": [
+                "hoàn toàn"
+            ],
+            "lâu đài ma": [
+                "hoàn toàn"
+            ],
+            "nhện": [
+                "khổng lồ",
+                "sợ hãi",
+                "nghiêm trọng"
+            ],
+            "cà rồng": [
+                "khổng lồ",
+                "sợ hãi",
+                "nghiêm trọng"
+            ],
+            "trang trại cá sấu": [
+                "tuyệt vời"
+            ],
+            "cái ao": [],
+            "câu cá giải trí": [],
+            "cho cá": [],
+            "chuyến thăm": [],
+            "cá sấu": [
+                "mạnh",
+                "thú vị"
+            ],
+            "ngôi chùa phật giáo": [
+                "khổng lồ"
+            ],
+            "bài tụng": [],
+            "bức tượng phật": [
+                "khổng lồ"
+            ],
+            "cấu": [
+                "đồ sộ",
+                "bất kỳ"
+            ],
+            "công viên nước": [
+                "trung bình",
+                "phải",
+                "sạch sẽ",
+                "nhất",
+                "cùng",
+                "nóng"
+            ],
+            "đầu khổng": [
+                "khổng lồ"
+            ],
+            "điểm tham": [
+                "nhiều",
+                "khó",
+                "khác",
+                "thú vị"
+            ],
+            "công viên": [
+                "nhiều",
+                "tồi tệ",
+                "tuyệt vời",
+                "rộng lớn",
+                "mạo hiểm",
+                "đầu tiên",
+                "duy nhất"
+            ],
+            "nhân viên": [
+                "hơn"
+            ],
+            "điểm tham quan": [],
+            "phòng thay": [
+                "phải",
+                "sạch sẽ",
+                "nhất"
+            ],
+            "chuyến tàu": [
+                "sớm"
+            ],
+            "trung tâm": [
+                "sớm"
+            ],
+            "xe buýt": [],
+            "công viên nước nơi": [],
+            "cầu": [],
+            "chuyến đi": [
+                "rẻ",
+                "thấp"
+            ],
+            "âm nhạc": [
+                "kỳ lạ",
+                "khó chịu",
+                "khắp"
+            ],
+            "sở thú": [],
+            "lồng": [
+                "nhỏ xíu"
+            ],
+            "con vượn": [],
+            "tác phẩm nghệ thuật": [
+                "tuyệt vời"
+            ],
+            "con": [
+                "nhiều"
+            ],
+            "rồng trượt nước": [
+                "nhiều"
+            ],
+            "chủ": [
+                "khác"
+            ],
+            "đề thủy sinh": [
+                "khác"
+            ],
+            "cá": [
+                "lớn",
+                "nhiều",
+                "thú vị"
+            ],
+            "công viên cá sấu": [
+                "lớn"
+            ],
+            "miếng cần": [],
+            "bức tượng": [
+                "Thực sự",
+                "đẹp"
+            ],
+            "linh hồn": [
+                "khổng lồ",
+                "đầy",
+                "khắp"
+            ],
+            "tác phẩm điêu khắc": [
+                "khổng lồ",
+                "đầy",
+                "khắp"
+            ],
+            "mẫu giáo": [
+                "xa lạ",
+                "phổ biến"
+            ],
+            "cây kem": [],
+            "bữa ăn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trò chơi": 0.5,
+            "công viên giải trí": 1.5,
+            "lâu đài": 1.0,
+            "lâu đài ma": 0.5,
+            "nhện": 0.5,
+            "cà rồng": 0.5,
+            "trang trại cá sấu": 0.5,
+            "cái ao": 0.5,
+            "câu cá giải trí": 0.5,
+            "cho cá": 0.5,
+            "chuyến thăm": 0.5,
+            "cá sấu": 1.0,
+            "ngôi chùa phật giáo": 0.5,
+            "bài tụng": 0.5,
+            "bức tượng phật": 0.5,
+            "cấu": 0.5,
+            "công viên nước": 1.0,
+            "đầu khổng": 0.5,
+            "điểm tham": 0.5,
+            "công viên": 2.0,
+            "nhân viên": 1.5,
+            "điểm tham quan": 0.5,
+            "phòng thay": 0.5,
+            "chuyến tàu": 0.5,
+            "trung tâm": 0.5,
+            "xe buýt": 0.5,
+            "công viên nước nơi": 0.5,
+            "cầu": 0.5,
+            "chuyến đi": 1.0,
+            "âm nhạc": 0.5,
+            "sở thú": 0.5,
+            "lồng": 0.5,
+            "con vượn": 0.5,
+            "tác phẩm nghệ thuật": 0.5,
+            "con": 0.5,
+            "rồng trượt nước": 0.5,
+            "chủ": 0.5,
+            "đề thủy sinh": 0.5,
+            "cá": 1.0,
+            "công viên cá sấu": 0.5,
+            "miếng cần": 0.5,
+            "bức tượng": 0.5,
+            "linh hồn": 0.5,
+            "tác phẩm điêu khắc": 0.5,
+            "mẫu giáo": 0.5,
+            "cây kem": 0.5,
+            "bữa ăn": 0.5
+        }
     },
     {
         "attraction_name": "Suoi Tien Theme Park",
@@ -619,7 +1652,141 @@
             "https://www.tripadvisor.com/Attraction_Review-g304088-d8660917-Reviews-Waterfall_Niagara-Podgorica_Podgorica_Municipality.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-or50-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-or40-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-or40-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cho": 0.5,
+            "cá sấu": 0.5,
+            "cho thực phẩm": 0.7479302072897553,
+            "massage cá": 0.9421189473941922,
+            "cá": 0.5,
+            "xe buýt": 0.9605718166567385,
+            "công viên": 0.05963754071854055,
+            "điểm tham": 0.20069124332318702,
+            "công viên nước": 0.7470621361280791,
+            "trải nghiệm": 0.9948080686153844,
+            "giải nhiệt": 0.5,
+            "công viên bọn trẻ": 0.995502915000543,
+            "chỗ": 0.9946851854911074,
+            "điểm tham quan": 0.07301407074555755,
+            "chuyến đi": 0.5,
+            "cửa hàng": 0.5138468109071255,
+            "câu cá": 0.9580007907934487,
+            "con cá": 0.7605773257091641,
+            "công viên giải trí": 0.861636457091663,
+            "tượng phật": 0.9947179645532742,
+            "khu vườn": 0.8737691454589367,
+            "bác sĩ": 0.9946334642590955,
+            "cây điều": 0.9944932896178216,
+            "thủy sinh": 0.9955247312318534,
+            "đồ ăn": 0.9910180401057005,
+            "đồ uống": 0.8126759901642799
+        },
+        "dicts_adj": {
+            "cho": [],
+            "cá sấu": [],
+            "cho thực phẩm": [],
+            "massage cá": [],
+            "cá": [],
+            "xe buýt": [
+                "xa",
+                "công cộng",
+                "rẻ"
+            ],
+            "công viên": [
+                "nhiều"
+            ],
+            "điểm tham": [
+                "nhiều",
+                "khác",
+                "cơ bản"
+            ],
+            "công viên nước": [
+                "đặc biệt"
+            ],
+            "trải nghiệm": [
+                "rẻ tiền",
+                "thú vị"
+            ],
+            "giải nhiệt": [],
+            "công viên bọn trẻ": [
+                "nhiều",
+                "vui"
+            ],
+            "chỗ": [
+                "thú vị",
+                "nhiều",
+                "râm",
+                "mát"
+            ],
+            "điểm tham quan": [
+                "khó"
+            ],
+            "chuyến đi": [],
+            "cửa hàng": [
+                "ít",
+                "ít"
+            ],
+            "câu cá": [
+                "nhất",
+                "nhất"
+            ],
+            "con cá": [],
+            "công viên giải trí": [
+                "nhiều",
+                "khác"
+            ],
+            "tượng phật": [
+                "nhiều"
+            ],
+            "khu vườn": [
+                "nhiều"
+            ],
+            "bác sĩ": [
+                "nhiều"
+            ],
+            "cây điều": [
+                "nhiều"
+            ],
+            "thủy sinh": [
+                "nhiều"
+            ],
+            "đồ ăn": [
+                "khắp"
+            ],
+            "đồ uống": [
+                "khắp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cho": 1.0,
+            "cá sấu": 0.5,
+            "cho thực phẩm": 0.5,
+            "massage cá": 0.5,
+            "cá": 0.5,
+            "xe buýt": 0.5,
+            "công viên": 1.0,
+            "điểm tham": 1.5,
+            "công viên nước": 1.0,
+            "trải nghiệm": 0.5,
+            "giải nhiệt": 0.5,
+            "công viên bọn trẻ": 0.5,
+            "chỗ": 0.5,
+            "điểm tham quan": 1.0,
+            "chuyến đi": 0.5,
+            "cửa hàng": 0.5,
+            "câu cá": 0.5,
+            "con cá": 0.5,
+            "công viên giải trí": 0.5,
+            "tượng phật": 0.5,
+            "khu vườn": 0.5,
+            "bác sĩ": 0.5,
+            "cây điều": 0.5,
+            "thủy sinh": 0.5,
+            "đồ ăn": 0.5,
+            "đồ uống": 0.5
+        }
     },
     {
         "attraction_name": "Suoi Tien Theme Park",
@@ -732,7 +1899,176 @@
             "https://www.tripadvisor.com/Attraction_Review-g39426-d13109537-Reviews-Castle_Key_Distillery-Frankfort_Kentucky.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-or60-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-or50-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-or50-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "công viên": 0.24454276704151803,
+            "trường học": -0.9244662672281265,
+            "trung tâm hồ chí": -0.9527676326688379,
+            "trò chơi": 0.9902170796704013,
+            "điểm tham quan": 0.6169199315190781,
+            "rất sạch": 0.995592332619708,
+            "đồ ăn": -0.9610426337458193,
+            "gia vị": 0.9944933515507728,
+            "hạt tiêu": 0.9926442167488858,
+            "nhà hàng": 0.9929975122213364,
+            "quán cà phê": 0.9953588164644316,
+            "dịch vụ": 0.20704162120819092,
+            "ngôi đền": 0.4853420462459326,
+            "công viên giải trí": 0.516030709259212,
+            "kỳ nghỉ lễ": 0.9949490001890808,
+            "âm nhạc": 0.5991138033568859,
+            "điểm tham": 0.8055033786222339,
+            "đồ ăn -": 0.8872092226520181,
+            "đồ uống giải khát": 0.9949991095345467,
+            "triển lãm harry potter": -0.96897490369156,
+            "tàu lượn siêu tốc": 0.9392710877582431,
+            "rạp chiếu phim": 0.9944686285452917,
+            "xe go-cart": 0.17092102766036987,
+            "ma ám": -0.47220609220676124,
+            "nhỏ chương": 0.5,
+            "biểu diễn động vật - chúng": 0.5,
+            "nước": 0.5,
+            "chuyến đi": 0.008551969309337437,
+            "di tích": 0.9955382998450659,
+            "đền thờ": 0.9955726775224321,
+            "khu vườn": 0.995503255224321
+        },
+        "dicts_adj": {
+            "công viên": [
+                "gần",
+                "bất tiện",
+                "tuyệt",
+                "xa",
+                "thực sự",
+                "nhiều"
+            ],
+            "trường học": [
+                "khác",
+                "tương tự"
+            ],
+            "trung tâm hồ chí": [
+                "rẻ"
+            ],
+            "trò chơi": [
+                "tương đối",
+                "rẻ"
+            ],
+            "điểm tham quan": [
+                "tương đối",
+                "rẻ"
+            ],
+            "rất sạch": [
+                "sạch sẽ"
+            ],
+            "đồ ăn": [
+                "tệ"
+            ],
+            "gia vị": [
+                "duy nhất"
+            ],
+            "hạt tiêu": [
+                "thực sự"
+            ],
+            "nhà hàng": [
+                "thích hợp"
+            ],
+            "quán cà phê": [
+                "khủng khiếp"
+            ],
+            "dịch vụ": [
+                "khủng khiếp"
+            ],
+            "ngôi đền": [
+                "khác"
+            ],
+            "công viên giải trí": [
+                "khác",
+                "cũ"
+            ],
+            "kỳ nghỉ lễ": [
+                "lớn"
+            ],
+            "âm nhạc": [
+                "nhiều"
+            ],
+            "điểm tham": [
+                "thực sự",
+                "ít"
+            ],
+            "đồ ăn -": [
+                "sẵn"
+            ],
+            "đồ uống giải khát": [
+                "sẵn"
+            ],
+            "triển lãm harry potter": [
+                "lớn"
+            ],
+            "tàu lượn siêu tốc": [],
+            "rạp chiếu phim": [
+                "duy nhất"
+            ],
+            "xe go-cart": [
+                "khó",
+                "nhiều"
+            ],
+            "ma ám": [
+                "khó",
+                "nhiều"
+            ],
+            "nhỏ chương": [],
+            "biểu diễn động vật - chúng": [],
+            "nước": [],
+            "chuyến đi": [
+                "gần",
+                "giống",
+                "an toàn"
+            ],
+            "di tích": [
+                "đẹp"
+            ],
+            "đền thờ": [
+                "đẹp"
+            ],
+            "khu vườn": [
+                "đẹp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "công viên": 1.5,
+            "trường học": 0.5,
+            "trung tâm hồ chí": 0.5,
+            "trò chơi": 0.5,
+            "điểm tham quan": 1.0,
+            "rất sạch": 0.5,
+            "đồ ăn": 0.5,
+            "gia vị": 0.5,
+            "hạt tiêu": 0.5,
+            "nhà hàng": 0.5,
+            "quán cà phê": 0.5,
+            "dịch vụ": 0.5,
+            "ngôi đền": 0.5,
+            "công viên giải trí": 1.0,
+            "kỳ nghỉ lễ": 0.5,
+            "âm nhạc": 0.5,
+            "điểm tham": 0.5,
+            "đồ ăn -": 0.5,
+            "đồ uống giải khát": 0.5,
+            "triển lãm harry potter": 0.5,
+            "tàu lượn siêu tốc": 0.5,
+            "rạp chiếu phim": 0.5,
+            "xe go-cart": 0.5,
+            "ma ám": 0.5,
+            "nhỏ chương": 0.5,
+            "biểu diễn động vật - chúng": 0.5,
+            "nước": 0.5,
+            "chuyến đi": 0.5,
+            "di tích": 0.5,
+            "đền thờ": 0.5,
+            "khu vườn": 0.5
+        }
     },
     {
         "attraction_name": "Suoi Tien Theme Park",
@@ -845,7 +2181,153 @@
             "https://www.tripadvisor.com/Attraction_Review-g32859-d15237569-Reviews-Rose_Bowl_Flea_Market-Pasadena_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-or70-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-or60-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-or60-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "điểm tham quan": -0.30447821485965204,
+            "công viên": 0.22066629664914217,
+            "điểm": 0.5,
+            "chuyến đi": -0.23645195324206725,
+            "người dân": -0.9613657840527594,
+            "nhân viên": -0.2447008955059573,
+            "công viên giải trí": 0.935423132032156,
+            "bạn trả": 0.3136405311524868,
+            "khu": 0.5,
+            "chuyến xe": 0.5,
+            "hồ bơi": -0.8068788596428931,
+            "dòng nước": 0.5,
+            "lớp sơn": 0.5,
+            "điểm tham": 0.8737691454589367,
+            "cho": 0.5,
+            "cá sấu": -0.48609527945518494,
+            "gian hàng": 0.5,
+            "khu vườn": 0.5,
+            "công viên nước": 0.5842053638771176,
+            "sân chơi": 0.5080827567726374,
+            "trò chơi": 0.5,
+            "dịch vụ": 0.9933039559982717,
+            "nơi nhân": 0.7146063446998596,
+            "ngũ quản lý": 0.47501141764223576,
+            "hồ ao": 0.5,
+            "kênh nước": 0.5,
+            "trẻ em": 0.9816724443808198,
+            "chuyến du lịch": 0.934645764529705,
+            "lễ": 0.5,
+            "hội trái cây nhiệt": 0.5
+        },
+        "dicts_adj": {
+            "điểm tham quan": [
+                "khác"
+            ],
+            "công viên": [
+                "chắc chắn",
+                "tuyệt vời",
+                "đúng",
+                "thô",
+                "rộng",
+                "nhiều"
+            ],
+            "điểm": [],
+            "chuyến đi": [
+                "lớn"
+            ],
+            "người dân": [
+                "rõ ràng"
+            ],
+            "nhân viên": [
+                "nhiều",
+                "nhiều",
+                "nhiều",
+                "tốt",
+                "khắp",
+                "thô",
+                "đầy đủ",
+                "đủ",
+                "đủ",
+                "cao",
+                "trẻ",
+                "nhỏ",
+                "lỗi thời"
+            ],
+            "công viên giải trí": [
+                "tệ",
+                "tuyệt vời",
+                "nhất"
+            ],
+            "bạn trả": [],
+            "khu": [],
+            "chuyến xe": [],
+            "hồ bơi": [],
+            "dòng nước": [],
+            "lớp sơn": [],
+            "điểm tham": [
+                "đầy"
+            ],
+            "cho": [],
+            "cá sấu": [],
+            "gian hàng": [],
+            "khu vườn": [],
+            "công viên nước": [
+                "cao",
+                "hơn",
+                "đầy đủ",
+                "đủ",
+                "trẻ",
+                "cao",
+                "hơn"
+            ],
+            "sân chơi": [],
+            "trò chơi": [],
+            "dịch vụ": [
+                "tốt",
+                "chuyên nghiệp"
+            ],
+            "nơi nhân": [
+                "chủ yếu",
+                "nhân tạo",
+                "tự nhiên"
+            ],
+            "ngũ quản lý": [],
+            "hồ ao": [],
+            "kênh nước": [],
+            "trẻ em": [],
+            "chuyến du lịch": [],
+            "lễ": [],
+            "hội trái cây nhiệt": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "điểm tham quan": 1.5,
+            "công viên": 2.0,
+            "điểm": 0.5,
+            "chuyến đi": 1.0,
+            "người dân": 0.5,
+            "nhân viên": 1.5,
+            "công viên giải trí": 0.5,
+            "bạn trả": 0.5,
+            "khu": 0.5,
+            "chuyến xe": 0.5,
+            "hồ bơi": 0.5,
+            "dòng nước": 0.5,
+            "lớp sơn": 0.5,
+            "điểm tham": 0.5,
+            "cho": 0.5,
+            "cá sấu": 0.5,
+            "gian hàng": 0.5,
+            "khu vườn": 0.5,
+            "công viên nước": 0.5,
+            "sân chơi": 0.5,
+            "trò chơi": 0.5,
+            "dịch vụ": 0.5,
+            "nơi nhân": 0.5,
+            "ngũ quản lý": 0.5,
+            "hồ ao": 0.5,
+            "kênh nước": 0.5,
+            "trẻ em": 0.5,
+            "chuyến du lịch": 0.5,
+            "lễ": 0.5,
+            "hội trái cây nhiệt": 0.5
+        }
     },
     {
         "attraction_name": "Suoi Tien Theme Park",
@@ -952,6 +2434,242 @@
             "https://www.tripadvisor.com/Attraction_Review-g1060901-d581684-Reviews-Ghibli_Museum_Mitaka-Mitaka_Tokyo_Prefecture_Kanto.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-or80-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-or70-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2389145-Reviews-or70-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "xe": 0.9122515934480665,
+            "mui trần": 0.8681323889565343,
+            "công viên": 0.6768725170870311,
+            "công viên cá": 0.9759123893454671,
+            "tuyến": 0.5,
+            "cáp treo": 0.5,
+            "công viên giải trí": 0.2110200049355626,
+            "đồ ăn": -0.19303481994817653,
+            "công viên nước": 0.5812539136968553,
+            "vé tàu": 0.5,
+            "điểm tham quan": 0.5,
+            "trang trại cá sấu": 0.5934422863647342,
+            "cá sấu": 0.4809219529852271,
+            "dây câu": 0.5,
+            "nhỏ kiểu": 0.4661238119006157,
+            "ngôi nhà ma": 0.8737691454589367,
+            "lâu đài": -0.1918424074538052,
+            "chuyến đi": 0.9946933921310119,
+            "món ăn": 0.8886120468378067,
+            "khu ẩm thực": 0.6252201711758971,
+            "nhân viên lịch sự": 0.5,
+            "hàng": 0.5,
+            "điểm tham": 0.8489843988791108,
+            "bóng râm": 0.7389205903746188,
+            "cá heo": -0.22134068538434803,
+            "vòng chơi": 0.9944392454344779,
+            "không gian": -0.22260267718229443,
+            "cho cá": 0.5,
+            "lồng": 0.5541218975558877,
+            "vươn tay": 0.42587433755397797,
+            "lồng khỉ": -0.9707247265614569,
+            "động vật": 0.5,
+            "con khỉ": 0.7125890515744686,
+            "phương pháp huấn": -0.5082543212920427,
+            "động vật hoang dã": -0.9477012772113085,
+            "đường": 0.5,
+            "trượt nước": 0.5,
+            "hồ bơi đường đi bộ": 0.5,
+            "trường học": 0.4243014957755804,
+            "hồ bơi": 0.9955444225342944,
+            "tắm nước": 0.9836604890879244,
+            "lâu đài băng": 0.8681083340197802,
+            "sở thú": -0.8118889746256173,
+            "là một": 0.6376470178365707,
+            "chương trình": 0.5,
+            "thức ăn": -0.8595726704224944,
+            "xe buýt số": 0.5378450434654951,
+            "dịp lễ": 0.9917349054012448,
+            "trò chơi": 0.5,
+            "sách hướng dẫn": 0.12991583533585072
+        },
+        "dicts_adj": {
+            "xe": [
+                "đủ",
+                "tốt",
+                "khắp"
+            ],
+            "mui trần": [
+                "đủ",
+                "tốt",
+                "khắp"
+            ],
+            "công viên": [
+                "đẹp",
+                "cơ bản"
+            ],
+            "công viên cá": [
+                "cá sấu"
+            ],
+            "tuyến": [],
+            "cáp treo": [],
+            "công viên giải trí": [
+                "rẻ",
+                "gần",
+                "nhiều",
+                "phải",
+                "thông thường"
+            ],
+            "đồ ăn": [
+                "đắt",
+                "đắt"
+            ],
+            "công viên nước": [
+                "đặc biệt",
+                "thú vị"
+            ],
+            "vé tàu": [],
+            "điểm tham quan": [],
+            "trang trại cá sấu": [
+                "tốt"
+            ],
+            "cá sấu": [
+                "đông đúc",
+                "thú vị"
+            ],
+            "dây câu": [],
+            "nhỏ kiểu": [],
+            "ngôi nhà ma": [
+                "tối",
+                "lớn"
+            ],
+            "lâu đài": [
+                "tối",
+                "lớn",
+                "tối",
+                "lớn"
+            ],
+            "chuyến đi": [
+                "vui"
+            ],
+            "món ăn": [
+                "đơn giản"
+            ],
+            "khu ẩm thực": [
+                "ổn"
+            ],
+            "nhân viên lịch sự": [],
+            "hàng": [],
+            "điểm tham": [
+                "mát mẻ",
+                "hơn"
+            ],
+            "bóng râm": [
+                "mát mẻ",
+                "hơn"
+            ],
+            "cá heo": [],
+            "vòng chơi": [
+                "vui vẻ"
+            ],
+            "không gian": [
+                "nhiều",
+                "nhiều",
+                "đúng"
+            ],
+            "cho cá": [],
+            "lồng": [
+                "đúng"
+            ],
+            "vươn tay": [
+                "nóng"
+            ],
+            "lồng khỉ": [
+                "nghiêm trọng"
+            ],
+            "động vật": [],
+            "con khỉ": [
+                "sợ hãi"
+            ],
+            "phương pháp huấn": [],
+            "động vật hoang dã": [
+                "Hoàn toàn"
+            ],
+            "đường": [],
+            "trượt nước": [],
+            "hồ bơi đường đi bộ": [],
+            "trường học": [],
+            "hồ bơi": [
+                "sạch sẽ"
+            ],
+            "tắm nước": [
+                "cùng"
+            ],
+            "lâu đài băng": [
+                "thú vị"
+            ],
+            "sở thú": [
+                "hứng thú"
+            ],
+            "là một": [],
+            "chương trình": [],
+            "thức ăn": [],
+            "xe buýt số": [],
+            "dịp lễ": [
+                "đông"
+            ],
+            "trò chơi": [],
+            "sách hướng dẫn": [
+                "cơ bản"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "xe": 1,
+            "mui trần": 1,
+            "công viên": 2.5,
+            "công viên cá": 1,
+            "tuyến": 1,
+            "cáp treo": 1,
+            "công viên giải trí": 3.0,
+            "đồ ăn": 1.5,
+            "công viên nước": 3.0,
+            "vé tàu": 1.5,
+            "điểm tham quan": 1.5,
+            "trang trại cá sấu": 2.0,
+            "cá sấu": 2.0,
+            "dây câu": 1.5,
+            "nhỏ kiểu": 1.5,
+            "ngôi nhà ma": 1.5,
+            "lâu đài": 2.0,
+            "chuyến đi": 1.5,
+            "món ăn": 1.5,
+            "khu ẩm thực": 1.5,
+            "nhân viên lịch sự": 1.5,
+            "hàng": 1.5,
+            "điểm tham": 1.5,
+            "bóng râm": 1.5,
+            "cá heo": 1.0,
+            "vòng chơi": 0.5,
+            "không gian": 1.0,
+            "cho cá": 0.5,
+            "lồng": 0.5,
+            "vươn tay": 0.5,
+            "lồng khỉ": 0.5,
+            "động vật": 0.5,
+            "con khỉ": 0.5,
+            "phương pháp huấn": 0.5,
+            "động vật hoang dã": 0.5,
+            "đường": 0.5,
+            "trượt nước": 0.5,
+            "hồ bơi đường đi bộ": 0.5,
+            "trường học": 0.5,
+            "hồ bơi": 0.5,
+            "tắm nước": 0.5,
+            "lâu đài băng": 0.5,
+            "sở thú": 0.5,
+            "là một": 0.5,
+            "chương trình": 0.5,
+            "thức ăn": 0.5,
+            "xe buýt số": 0.5,
+            "dịp lễ": 0.5,
+            "trò chơi": 0.5,
+            "sách hướng dẫn": 0.5
+        }
     }
 ]
