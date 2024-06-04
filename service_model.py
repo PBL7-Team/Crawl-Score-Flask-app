@@ -260,16 +260,16 @@ def save_sentiment_csv(json_path):
         for location in location_values:
             if location == "Việt Nam":
                 if review_amount <= 50:
-                    writer.writerow([attraction_name, location, 1, "", 2])
+                    writer.writerow([attraction_name, location, 0.5, "", 10])
                 elif review_amount > 50 and review_amount <= 200:
-                    writer.writerow([attraction_name, location, 1.5, "", 2])
+                    writer.writerow([attraction_name, location, 0.75, "", 10])
                 elif review_amount > 200 and review_amount < 500:
-                    writer.writerow([attraction_name, location, 1.75, "", 2])
+                    writer.writerow([attraction_name, location, 0.875, "", 10])
                 else:
-                    writer.writerow([attraction_name, location, 2, "", 2])
+                    writer.writerow([attraction_name, location, 1, "", 10])
             # Thêm hàng dữ liệu mới
             else:
-                writer.writerow([attraction_name, location, 2, "", 2])
+                writer.writerow([attraction_name, location, 1, "", 5])
 
 def rename_columns_if_needed(file_path):
     # Đọc file CSV vào DataFrame
