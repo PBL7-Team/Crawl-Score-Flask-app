@@ -7,6 +7,8 @@ from rapidfuzz import fuzz
 from Model_Here.keyphrase import TextEntities_Score
 from Model_Here.score_extract import annotate_text
 from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.metrics.pairwise import euclidean_distances
+import numpy as np
 
 def get_new_contentbase_df():
     sentiment_df = pd.read_csv('./sentiment_value.csv')
@@ -27,7 +29,7 @@ def get_new_contentbase_df():
 
     location_groups = sentiment_df.groupby('Attraction Name')
     columns = list(set(cluster_dict.values()))
-    result_df = pd.DataFrame(index=sentiment_df['Attraction Name'].unique(), columns=columns).fillna(0)
+    result_df = pd.DataFrame(index=sentiment_df['Attraction Name'].unique(), columns=columns).fillna(0.5)
 
     for location, group in location_groups:
         scores = {}
@@ -46,8 +48,14 @@ def get_new_contentbase_df():
             weights[cluster] += weight
 
         for cluster in scores:
-            result_df.at[location, cluster] = scores[cluster] / weights[cluster]
-    
+            cluster_weight = weights[cluster]
+            # print(cluster_weight)
+            if cluster_weight <= 2:
+                result_df.at[location, cluster] = 0.5 + (0.4 * (scores[cluster] / cluster_weight))
+            elif cluster_weight > 2 and cluster_weight <= 5:
+                result_df.at[location, cluster] = 0.5 + (0.45 * (scores[cluster] / cluster_weight))
+            else:
+                result_df.at[location, cluster] = 0.5 + (0.5 * (scores[cluster] / cluster_weight))
     result_df.to_csv('content_base_score_df.csv', index=True, mode='w')
     return result_df
 
@@ -123,11 +131,14 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
     column_names = content_base_df.columns
     for proper_noun in list_proper_noun_feature:
         if proper_noun not in column_names:
-            content_base_df[proper_noun] = -2
+            content_base_df[proper_noun] = 0
     
     filtered_df = content_base_df[comment_cluster_list]
 
     vector = [1] * len(filtered_df.columns)
+    # print(vector)
+    # print(filtered_df.columns)
+    # print(filtered_df.loc['PAntheon Cocktail Bar'])
     # # Duyệt qua từng tên cột và kiểm tra
     # for i, col in enumerate(column_names):
     #     if col in comment_cluster_list:
@@ -136,19 +147,16 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
     # Tạo DataFrame từ lịch sử hoạt động của User1
     user_history_df = pd.DataFrame([vector], columns=filtered_df.columns)
     # Tính toán độ tương tự cosine giữa lịch sử hoạt động của người dùng và các địa danh
-    user_similarity = cosine_similarity(user_history_df, filtered_df)
+    user_similarity = 1 - euclidean_distances(user_history_df, filtered_df)
 
     # Chuyển ma trận độ tương tự thành DataFrame để dễ xử lý
     user_similarity_df = pd.DataFrame(user_similarity, index=user_history_df.index, columns=filtered_df.index)
 
     # Sắp xếp ma trận user_similarity_df theo thứ tự giảm dần của các giá trị tương tự
     sorted_user_similarity_df = user_similarity_df.apply(lambda row: row.sort_values(ascending=False), axis=1)
-
     # print(sorted_user_similarity_df)
-    if len(filtered_df.columns) > 0:
-        threshold = 0.5 + 0.5/len(filtered_df.columns)
-    else:
-        threshold = 1
+
+    threshold = 0.6
     # print(threshold)
     sorted_user_similarity_df = sorted_user_similarity_df.T
     list_valid_attraction = sorted_user_similarity_df[sorted_user_similarity_df[0] >= threshold].sort_values(by=0, ascending=False).index.tolist()
