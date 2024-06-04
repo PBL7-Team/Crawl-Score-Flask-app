@@ -2,6 +2,7 @@ import pandas as pd
 import json
 import re
 import unicodedata
+import math
 import os
 from rapidfuzz import fuzz
 from Model_Here.keyphrase import TextEntities_Score
@@ -134,11 +135,11 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
             content_base_df[proper_noun] = 0
     
     filtered_df = content_base_df[comment_cluster_list]
-
-    vector = [1] * len(filtered_df.columns)
+    len_n = len(filtered_df.columns)
+    vector = [1] * len_n
     # print(vector)
     # print(filtered_df.columns)
-    # print(filtered_df.loc['PAntheon Cocktail Bar'])
+    # print(filtered_df.loc['Thanh Spa'])
     # # Duyệt qua từng tên cột và kiểm tra
     # for i, col in enumerate(column_names):
     #     if col in comment_cluster_list:
@@ -147,7 +148,7 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
     # Tạo DataFrame từ lịch sử hoạt động của User1
     user_history_df = pd.DataFrame([vector], columns=filtered_df.columns)
     # Tính toán độ tương tự cosine giữa lịch sử hoạt động của người dùng và các địa danh
-    user_similarity = 1 - euclidean_distances(user_history_df, filtered_df)
+    user_similarity = 1 - euclidean_distances(user_history_df, filtered_df)/len_n
 
     # Chuyển ma trận độ tương tự thành DataFrame để dễ xử lý
     user_similarity_df = pd.DataFrame(user_similarity, index=user_history_df.index, columns=filtered_df.index)
@@ -156,7 +157,7 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
     sorted_user_similarity_df = user_similarity_df.apply(lambda row: row.sort_values(ascending=False), axis=1)
     # print(sorted_user_similarity_df)
 
-    threshold = 0.6
+    threshold = 1 - math.sqrt(len_n * 0.3 ** 2)/len_n
     # print(threshold)
     sorted_user_similarity_df = sorted_user_similarity_df.T
     list_valid_attraction = sorted_user_similarity_df[sorted_user_similarity_df[0] >= threshold].sort_values(by=0, ascending=False).index.tolist()
