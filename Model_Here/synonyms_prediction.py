@@ -22,7 +22,7 @@ def re_cluster(cluster_dict, entity):
           embedding_cluster_word = model_synonyms.encode(value)
 
           similarity_value = util.pytorch_cos_sim(embedding_cluster_word, embedding_new_word).item()
-          if similarity_value > 0.5:
+          if similarity_value > 0.6:
             cluster_dict[key].append(entity) 
             return cluster_dict, key
     cluster_dict[entity] = entity
