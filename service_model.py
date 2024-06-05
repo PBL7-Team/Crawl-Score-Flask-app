@@ -431,7 +431,7 @@ def export_synonyms_clusters():
 
     # Tính toán ma trận tương đồng và phân cụm từ
     similarity_matrix = synonyms_matrix(words_list)
-    clusters = cluster_words(words_list, similarity_matrix, 0.5)
+    clusters = cluster_words(words_list, similarity_matrix, 0.6)
 
     # Tạo dictionary ánh xạ từ Entity_EN sang Entity_VI
     en_to_vi_map = dict(zip(df['Entity_EN'], df['Entity_VI']))
