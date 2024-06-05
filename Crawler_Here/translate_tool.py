@@ -37,7 +37,7 @@ def translate_text(text, translate_from = "auto", translate_to = "vi", auth_key=
             return False, f"{TRANSLATION_ERROR}: {response.text}"
 
 def final_translate_text(text, translate_from = "auto", translate_to = "vi", auth_key=None, proxy_data = None):
-    text = re.sub(r'[^\w\s?!,;.:_\-]', ' - ', text)
+    text = re.sub(r'[^\w\s?!,;.:_\-]', '', text)
     try:
         is_success, translated_text = translate_text(text, translate_from, translate_to, auth_key, proxy_data)
     except:
