@@ -40,6 +40,8 @@ clusing_thread = None
 
 content_base_thread = None
 
+test_variable = 0
+
 def require_api_key(func):
     @wraps(func)
     def decorated_function(*args, **kwargs):
@@ -262,9 +264,15 @@ def test():
     
 @scheduler.task('interval', id='my_job', seconds=10)
 def my_job():
-    print('This job is executed every 10 seconds.')
-    time.sleep(8)
-    print("Hello")
+    global test_variable
+    test_variable = test_variable + 1
+
+@app.route('/test-scheduler', methods=['GET'])
+def test_scheduler():
+    global test_variable
+    return jsonify({
+        "message": test_variable,
+    }), 200
 
 # bước 1: Crawl data bằng start-crawl
 # bước 2: Thực hiện sentiment caculate (để cập nhật score vào mỗi file json), sử dụng model entity extraction + sentiment analysis
