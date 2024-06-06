@@ -40,7 +40,7 @@ clusing_thread = None
 
 content_base_thread = None
 
-test_variable = 0
+# test_variable = 0
 
 def require_api_key(func):
     @wraps(func)
@@ -262,17 +262,17 @@ def test():
         "message": "API is working!",
     }), 200
     
-@scheduler.task('interval', id='my_job', seconds=10)
-def my_job():
-    global test_variable
-    test_variable = test_variable + 1
+# @scheduler.task('interval', id='my_job', seconds=10)
+# def my_job():
+#     global test_variable
+#     test_variable = test_variable + 1
 
-@app.route('/test-scheduler', methods=['GET'])
-def test_scheduler():
-    global test_variable
-    return jsonify({
-        "message": test_variable,
-    }), 200
+# @app.route('/test-scheduler', methods=['GET'])
+# def test_scheduler():
+#     global test_variable
+#     return jsonify({
+#         "message": test_variable,
+#     }), 200
 
 # bước 1: Crawl data bằng start-crawl
 # bước 2: Thực hiện sentiment caculate (để cập nhật score vào mỗi file json), sử dụng model entity extraction + sentiment analysis
@@ -283,6 +283,6 @@ def test_scheduler():
 
 # bước 1.2: Crawl data bằng mode 2 (để cập nhật dữ liệu review từ địa điểm cũ)
 if __name__ == '__main__':
-    scheduler.init_app(app)
-    scheduler.start()
+    # scheduler.init_app(app)
+    # scheduler.start()
     app.run(host='localhost', port=8080)
