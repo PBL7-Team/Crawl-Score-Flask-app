@@ -67,6 +67,8 @@ def recommend_system(text):
         text = text + " tại Việt Nam."
     dicts_sentiment, _, _, _ = TextEntities_Score(text,True)
     list_proper_noun_feature = [word['wordForm'] for word in annotate_text(text) if word['nerLabel'] in ['B-LOC']]
+    if "Hồ Chí Minh" in list_proper_noun_feature:
+        list_proper_noun_feature.append("Ho Chi Minh City")
     # new_contentbase_df = get_new_contentbase_df()
     # print(dicts_sentiment)
     # print(list_proper_noun_feature)
