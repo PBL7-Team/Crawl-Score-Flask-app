@@ -3,6 +3,8 @@ import threading
 from datetime import datetime
 import os
 import time
+
+from sympy import sec
 from Model_Here.auto_download_models import  dowwload_model
 
 dowwload_model()
@@ -15,9 +17,11 @@ from dotenv import load_dotenv
 from functools import wraps
 from flask import Flask, request
 from flask_apscheduler import APScheduler
+from flask_crontab import Crontab
 
 app = Flask(__name__)
 scheduler = APScheduler()
+crontab = Crontab(app)
 
 load_dotenv()
 
@@ -274,6 +278,11 @@ def test_scheduler():
         "message": test_variable,
     }), 200
 
+@crontab.job(minute="*/1")
+def my_cron_job():
+    with app.app_context():
+        print('Cron job running every minute.')
+    
 # bước 1: Crawl data bằng start-crawl
 # bước 2: Thực hiện sentiment caculate (để cập nhật score vào mỗi file json), sử dụng model entity extraction + sentiment analysis
 # bước 3: Thực hiện update sentiment csv
@@ -283,6 +292,7 @@ def test_scheduler():
 
 # bước 1.2: Crawl data bằng mode 2 (để cập nhật dữ liệu review từ địa điểm cũ)
 if __name__ == '__main__':
-    scheduler.init_app(app)
-    scheduler.start()
+    # scheduler.init_app(app)
+    # scheduler.start()
+    crontab.init_app(app)
     app.run(host='localhost', port=8080)
