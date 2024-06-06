@@ -11,7 +11,7 @@ from Crawler_Here.reading_info_restaurant import read_html_restaurant
 import time
 import random
 
-SERVICE_ACC  = 'ndst1_oDWXL'
+SERVICE_ACC  = 'vinhndst1_ODHac'
 SERVICE_PASS = '9r9ym8bRuqCN3d'
 
 # Global flag for stopping the crawl
