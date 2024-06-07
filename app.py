@@ -290,4 +290,5 @@ def test():
 
 # bước 1.2: Crawl data bằng mode 2 (để cập nhật dữ liệu review từ địa điểm cũ)
 if __name__ == '__main__':
+    start_scheduler()
     app.run(host='localhost', port=8080)
