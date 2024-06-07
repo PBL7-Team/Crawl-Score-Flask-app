@@ -16,12 +16,23 @@ from service_model import sentiment_analysis_all, fully_updated_sentiment_csv, e
 from dotenv import load_dotenv
 from functools import wraps
 from flask import Flask, request
-from flask_apscheduler import APScheduler
-from flask_crontab import Crontab
+import atexit
+from apscheduler.schedulers.background import BackgroundScheduler
+
+
 
 app = Flask(__name__)
-scheduler = APScheduler()
-crontab = Crontab(app)
+
+def print_date_time():
+    print(time.strftime("%A, %d. %B %Y %I:%M:%S %p"))
+
+
+scheduler = BackgroundScheduler()
+scheduler.add_job(func=print_date_time, trigger="interval", seconds=60)
+scheduler.start()
+
+# Shut down the scheduler when exiting the app
+atexit.register(lambda: scheduler.shutdown())
 
 load_dotenv()
 
@@ -266,22 +277,6 @@ def test():
         "message": "API is working!",
     }), 200
     
-@scheduler.task('interval', id='my_job', seconds=10)
-def my_job():
-    global test_variable
-    test_variable = test_variable + 1
-
-@app.route('/test-scheduler', methods=['GET'])
-def test_scheduler():
-    global test_variable
-    return jsonify({
-        "message": test_variable,
-    }), 200
-
-@crontab.job(minute="*/1")
-def my_cron_job():
-    with app.app_context():
-        print('Cron job running every minute.')
     
 # bước 1: Crawl data bằng start-crawl
 # bước 2: Thực hiện sentiment caculate (để cập nhật score vào mỗi file json), sử dụng model entity extraction + sentiment analysis
@@ -292,7 +287,4 @@ def my_cron_job():
 
 # bước 1.2: Crawl data bằng mode 2 (để cập nhật dữ liệu review từ địa điểm cũ)
 if __name__ == '__main__':
-    # scheduler.init_app(app)
-    # scheduler.start()
-    crontab.init_app(app)
     app.run(host='localhost', port=8080)
