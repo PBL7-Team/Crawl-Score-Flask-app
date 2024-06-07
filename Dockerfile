@@ -5,8 +5,7 @@ WORKDIR /flask-app
 COPY Crawler_Here/ Model_Here/ .env.sample app.py requirements.txt //flask-app/
 COPY Crawler_Here/ /api-flask/Crawler_Here/
 COPY Model_Here/ /flask-app/Model_Here/
-COPY .env.sample app.py requirements.txt  /flask-app/
-COPY entrypoint.sh /flask-app/
+COPY .env.sample app.py requirements.txt entrypoint.sh  /flask-app/
 
 RUN mv /flask-app/.env.sample /flask-app/.env
 
