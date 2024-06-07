@@ -1,5 +1,5 @@
 FROM python:3.11-slim
-
+USER root
 WORKDIR /flask-app
 
 COPY Crawler_Here/ Model_Here/ .env.sample app.py requirements.txt //flask-app/
