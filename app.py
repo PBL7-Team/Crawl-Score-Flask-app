@@ -26,17 +26,14 @@ app = Flask(__name__)
 def print_date_time():
     print(time.strftime("%A, %d. %B %Y %I:%M:%S %p"))
 
-scheduler = BackgroundScheduler()
-scheduler.add_job(func=print_date_time, trigger="interval", seconds=10)
 
-def start_scheduler():
-    if not scheduler.running:
-        scheduler.start()
-        atexit.register(lambda: scheduler.shutdown())
-        
-def on_starting(server):
-    start_scheduler()
-    
+scheduler = BackgroundScheduler()
+scheduler.add_job(func=print_date_time, trigger="interval", seconds=60)
+scheduler.start()
+
+# Shut down the scheduler when exiting the app
+atexit.register(lambda: scheduler.shutdown())
+
 load_dotenv()
 
 
@@ -290,5 +287,4 @@ def test():
 
 # bước 1.2: Crawl data bằng mode 2 (để cập nhật dữ liệu review từ địa điểm cũ)
 if __name__ == '__main__':
-    start_scheduler()
     app.run(host='localhost', port=8080)

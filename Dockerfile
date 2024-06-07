@@ -6,6 +6,7 @@ COPY Crawler_Here/ Model_Here/ .env.sample app.py requirements.txt //flask-app/
 COPY Crawler_Here/ /api-flask/Crawler_Here/
 COPY Model_Here/ /flask-app/Model_Here/
 COPY .env.sample app.py requirements.txt  /flask-app/
+COPY entrypoint.sh /flask-app/
 
 RUN mv /flask-app/.env.sample /flask-app/.env
 
@@ -15,4 +16,6 @@ RUN pip install --upgrade pip && \
 
 EXPOSE 8080
 
-CMD ["gunicorn","--config", "gunicorn_config.py", "app:app", "-b", "0.0.0.0:8080"]
+# CMD ["gunicorn", "app:app", "-b", "0.0.0.0:8080"]
+ENTRYPOINT ["./entrypoint.sh"]
+
