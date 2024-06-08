@@ -7,6 +7,7 @@ from datetime import datetime
 from Model_Here.keyphrase import TextEntities_Score, caculate_average_dict
 from Model_Here.synonyms_prediction import synonyms_matrix, cluster_words
 from Crawler_Here.translate_tool import final_translate_text
+import math
 
 current_directory = os.path.dirname(os.path.abspath(__file__))
 J_FOLDER = os.path.join(current_directory, 'Crawler_Here', 'Scrape_Data', 'attraction')
@@ -215,6 +216,16 @@ def save_sentiment_csv(json_path):
 
     # Lấy tên tệp JSON mà không có phần mở rộng
     attraction_name = os.path.splitext(os.path.basename(json_path))[0]
+
+    # Lấy tất cả giá trị factor và sắp xếp giảm dần
+    factors = [combine_factor_value[entity] if combine_factor_value[entity] else 0 for entity in entities]
+    factors_sorted = sorted(factors, reverse=True)
+    if len(factors_sorted) >= 1:
+        # Tính toán giá trị ngưỡng
+        top_75_percent_index = math.ceil(len(factors_sorted) * 0.75) + 1
+        top_20_index = min(20, len(factors_sorted))
+        threshold_index = min(top_75_percent_index, top_20_index)
+        factor_threshold = factors_sorted[threshold_index - 1]  # vì index bắt đầu từ 0
     
     # Mở hoặc tạo tập tin CSV để ghi
     with open(sentiment_csv, 'a', newline='', encoding='utf-8') as file:
@@ -227,15 +238,12 @@ def save_sentiment_csv(json_path):
             # Lấy sentiment score và list adj tương ứng
             sentiment_score = combine_dicts_sentiment_average[entity]
 
-            if combine_factor_value[entity]:
-                factor = combine_factor_value[entity]
-            else:
-                factor = 0
+            factor = combine_factor_value[entity] if combine_factor_value[entity] else 0
+
+            if factor < factor_threshold:
+                factor = 0.25
             
-            if combine_dicts_adj[entity]:
-                list_adj = ', '.join(combine_dicts_adj[entity])
-            else:
-                list_adj = ''
+            list_adj = ', '.join(combine_dicts_adj[entity]) if combine_dicts_adj[entity] else ''
 
             # Kiểm tra xem có hàng dữ liệu nào trùng Entity và Attraction Name không
             rows_to_remove = []
