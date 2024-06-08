@@ -222,7 +222,7 @@ def save_sentiment_csv(json_path):
     factors_sorted = sorted(factors, reverse=True)
     if len(factors_sorted) >= 1:
         # Tính toán giá trị ngưỡng
-        top_75_percent_index = math.ceil(len(factors_sorted) * 0.75) + 1
+        top_75_percent_index = math.ceil(len(factors_sorted) * 0.75)
         top_20_index = min(20, len(factors_sorted))
         threshold_index = min(top_75_percent_index, top_20_index)
         factor_threshold = factors_sorted[threshold_index - 1]  # vì index bắt đầu từ 0
