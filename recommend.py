@@ -51,9 +51,9 @@ def get_new_contentbase_df():
         for cluster in scores:
             cluster_weight = weights[cluster]
             # print(cluster_weight)
-            if cluster_weight == 0.25:
+            if cluster_weight <= 0.5:
                 result_df.at[location, cluster] = 0.5 + (0.1 * (scores[cluster] / cluster_weight))
-            elif 0.25 < cluster_weight <= 2:
+            elif 0.5 < cluster_weight <= 2:
                 result_df.at[location, cluster] = 0.5 + (0.4 * (scores[cluster] / cluster_weight))
             elif cluster_weight > 2 and cluster_weight <= 5:
                 result_df.at[location, cluster] = 0.5 + (0.45 * (scores[cluster] / cluster_weight))
