@@ -17,7 +17,7 @@ def base_model_path():
   model_path = os.path.join(model_directory, "bert-base-vietnamese-uncased")
   return model_path
 
-def bin_path(bin_name = 'trained_model_3.bin'):
+def bin_path(bin_name = 'trained_model_20.bin'):
   current_directory = os.path.dirname(os.path.abspath(__file__))  # Lấy thư mục chứa chương trình đang chạy
   model_directory = os.path.join(current_directory, "KeyPhraseModel")
   model_path = os.path.join(model_directory, "bert-bilstm-crf-keyphrase")
