@@ -268,13 +268,13 @@ def save_sentiment_csv(json_path):
         for location in location_values:
             if location == "Việt Nam":
                 if review_amount <= 50:
-                    writer.writerow([attraction_name, location, 0.5, "", 10])
+                    writer.writerow([attraction_name, location, 0.5, "", 2])
                 elif review_amount > 50 and review_amount <= 200:
-                    writer.writerow([attraction_name, location, 0.75, "", 10])
+                    writer.writerow([attraction_name, location, 0.75, "", 2])
                 elif review_amount > 200 and review_amount < 500:
-                    writer.writerow([attraction_name, location, 0.875, "", 10])
+                    writer.writerow([attraction_name, location, 0.875, "", 2])
                 else:
-                    writer.writerow([attraction_name, location, 1, "", 10])
+                    writer.writerow([attraction_name, location, 1, "", 2])
             # Thêm hàng dữ liệu mới
             else:
                 writer.writerow([attraction_name, location, 1, "", 5])
