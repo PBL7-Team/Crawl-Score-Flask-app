@@ -105,7 +105,159 @@
             "https://www.tripadvisor.com/Attraction_Review-g44588-d1116218-Reviews-Paradise_Park-Lee_s_Summit_Missouri.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d8729937-Reviews-or10-Parkson-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d8729937-Reviews-Parkson-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d8729937-Reviews-Parkson-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hàng hóa": 0.8846485284739174,
+            "người dân": 0.9948576699825935,
+            "thị trấn": 0.5,
+            "sản phẩm": 0.735673664486967,
+            "trung tâm mua sắm": 0.8242429419420659,
+            "miếng dán mặt": 0.4221976660192013,
+            "cửa hàng": 0.1738724489308273,
+            "trung tâm thương mại": 0.7461415635771118,
+            "quần áo": -0.9717158888815902,
+            "trải nghiệm": -0.9738134739454836,
+            "nhân viên": -0.11500769917620346,
+            "ngôn ngữ": 0.5,
+            "khu ẩm thực": 0.4523573748883791,
+            "nhà hàng": 0.532421828713268,
+            "đồ ăn": 0.9505811478302348,
+            "trung": 0.5,
+            "tâm mua sắm": 0.5,
+            "bánh tráng rau trộn chiên": 0.5,
+            "thịt lợn nướng": 0.5,
+            "cơm chiên hải sản": 0.5,
+            "súp mì": 0.5,
+            "hải sản": 0.5,
+            "quầy hàng": 0.5,
+            "trò chơi": 0.5,
+            "cửa": 0.5,
+            "hàng bách hóa thời trang": 0.5,
+            "mỹ phẩm": 0.5,
+            "khu vực quầy": -0.953132628230378,
+            "món ăn": 0.5,
+            "sân chơi bowling": 0.5,
+            "tầng": 0.43815447948873043,
+            "quần áo hành lý": 0.5
+        },
+        "dicts_adj": {
+            "hàng hóa": [
+                "Đúng",
+                "vô số",
+                "dễ dàng",
+                "tinh tế",
+                "hơn"
+            ],
+            "người dân": [
+                "Chắc chắn",
+                "nhiều",
+                "hơn"
+            ],
+            "thị trấn": [],
+            "sản phẩm": [
+                "thông thường"
+            ],
+            "trung tâm mua sắm": [
+                "vắng",
+                "duy nhất",
+                "cao cấp",
+                "nhỏ",
+                "vắng vẻ",
+                "tinh tế",
+                "hơn"
+            ],
+            "miếng dán mặt": [
+                "đắt"
+            ],
+            "cửa hàng": [
+                "khác",
+                "vui vẻ"
+            ],
+            "trung tâm thương mại": [
+                "khoảng",
+                "dễ"
+            ],
+            "quần áo": [
+                "lỗi thời",
+                "lâu"
+            ],
+            "trải nghiệm": [],
+            "nhân viên": [
+                "có ích",
+                "đông đảo"
+            ],
+            "ngôn ngữ": [],
+            "khu ẩm thực": [
+                "giống",
+                "ngon",
+                "hơn"
+            ],
+            "nhà hàng": [
+                "giống"
+            ],
+            "đồ ăn": [
+                "hơn",
+                "ngon",
+                "rẻ"
+            ],
+            "trung": [],
+            "tâm mua sắm": [],
+            "bánh tráng rau trộn chiên": [],
+            "thịt lợn nướng": [],
+            "cơm chiên hải sản": [],
+            "súp mì": [],
+            "hải sản": [],
+            "quầy hàng": [],
+            "trò chơi": [],
+            "cửa": [],
+            "hàng bách hóa thời trang": [],
+            "mỹ phẩm": [],
+            "khu vực quầy": [
+                "khác"
+            ],
+            "món ăn": [],
+            "sân chơi bowling": [],
+            "tầng": [
+                "nhiều"
+            ],
+            "quần áo hành lý": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hàng hóa": 1.0,
+            "người dân": 0.5,
+            "thị trấn": 0.5,
+            "sản phẩm": 1.0,
+            "trung tâm mua sắm": 2.5,
+            "miếng dán mặt": 0.5,
+            "cửa hàng": 1.5,
+            "trung tâm thương mại": 1.0,
+            "quần áo": 1.0,
+            "trải nghiệm": 0.5,
+            "nhân viên": 1.0,
+            "ngôn ngữ": 0.5,
+            "khu ẩm thực": 2.0,
+            "nhà hàng": 1.0,
+            "đồ ăn": 1.0,
+            "trung": 0.5,
+            "tâm mua sắm": 0.5,
+            "bánh tráng rau trộn chiên": 0.5,
+            "thịt lợn nướng": 0.5,
+            "cơm chiên hải sản": 0.5,
+            "súp mì": 0.5,
+            "hải sản": 0.5,
+            "quầy hàng": 0.5,
+            "trò chơi": 0.5,
+            "cửa": 0.5,
+            "hàng bách hóa thời trang": 0.5,
+            "mỹ phẩm": 0.5,
+            "khu vực quầy": 0.5,
+            "món ăn": 0.5,
+            "sân chơi bowling": 0.5,
+            "tầng": 0.5,
+            "quần áo hành lý": 0.5
+        }
     },
     {
         "attraction_name": "Parkson",
@@ -215,7 +367,225 @@
             "https://www.tripadvisor.com/Attraction_Review-g48321-d3746893-Reviews-Olcott_Beach_Carousel_Park-Olcott_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d8729937-Reviews-or20-Parkson-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d8729937-Reviews-or10-Parkson-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d8729937-Reviews-or10-Parkson-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "không khí": -0.7289690235629678,
+            "giá thì": 0.9718441949225962,
+            "khu ẩm thực": 0.37441835082136093,
+            "cây cầu": 0.5,
+            "tòa nhà": 0.5,
+            "trung tâm mua sắm": 0.9929193352332472,
+            "mặt hàng": 0.8146590245887637,
+            "thương hiệu nhập": 0.9599966768873855,
+            "nhân viên": -0.974349542055279,
+            "đồ ăn": 0.708469146998444,
+            "cà phê": 0.5,
+            "cà phê vinh quang": 0.979212689679116,
+            "hương vị": 0.7477842443040572,
+            "đậm đà": 0.9955464518279769,
+            "người chủ": 0.5,
+            "ẩm thực việt": 0.5,
+            "nguyên liệu": 0.5,
+            "món lẩu": 0.74407963687554,
+            "món ăn": 0.9955254161322955,
+            "khu chợ": 0.9682380007579923,
+            "cửa": 0.5579583579674363,
+            "hàng bách hóa": 0.5190859064459801,
+            "giày": 0.5,
+            "dép": 0.5,
+            "túi xách quần áo": 0.5,
+            "món đặc sản hội an": 0.8737691454589367,
+            "giá cả": 0.5929320529103279,
+            "quán cà phê": 0.9954037244897336,
+            "ly": 0.9955204506404698,
+            "trung tâm thương mại": 0.9328498336253688,
+            "khách sạn": 0.8840983239933848,
+            "khu bách hóa vĩnh": 0.8737691454589367,
+            "khu": 0.5,
+            "khu vui chơi": 0.5,
+            "trẻ em nhà ăn": 0.5,
+            "trung": 0.8894424038007855,
+            "tâm mua sắm": 0.995540676638484,
+            "siêu thị big c": 0.8737691454589367,
+            "trung tâm trò chơi": 0.9587832232937217,
+            "trung tâm": 0.995296108284189,
+            "cửa hàng thương": 0.5,
+            "cửa hàng thời trang": 0.5,
+            "thương hiệu": 0.5,
+            "sản phẩm": 0.5786816840991378,
+            "nhân viên phục vụ": 0.9954754097270779
+        },
+        "dicts_adj": {
+            "không khí": [
+                "lạnh lẽo",
+                "ít"
+            ],
+            "giá thì": [
+                "cao"
+            ],
+            "khu ẩm thực": [
+                "đẹp",
+                "chán nản",
+                "rộng rãi"
+            ],
+            "cây cầu": [],
+            "tòa nhà": [],
+            "trung tâm mua sắm": [
+                "yên tĩnh",
+                "thực sự",
+                "thực sự"
+            ],
+            "mặt hàng": [
+                "thông thường"
+            ],
+            "thương hiệu nhập": [
+                "thông thường"
+            ],
+            "nhân viên": [
+                "chán nản"
+            ],
+            "đồ ăn": [
+                "ngon",
+                "thực sự",
+                "nhẹ"
+            ],
+            "cà phê": [],
+            "cà phê vinh quang": [],
+            "hương vị": [
+                "tuyệt"
+            ],
+            "đậm đà": [
+                "thơm",
+                "ngon"
+            ],
+            "người chủ": [],
+            "ẩm thực việt": [],
+            "nguyên liệu": [],
+            "món lẩu": [],
+            "món ăn": [
+                "nhiều",
+                "ngon",
+                "ngon"
+            ],
+            "khu chợ": [
+                "tương tự"
+            ],
+            "cửa": [
+                "tương tự"
+            ],
+            "hàng bách hóa": [
+                "tương tự"
+            ],
+            "giày": [],
+            "dép": [],
+            "túi xách quần áo": [],
+            "món đặc sản hội an": [
+                "Tuyệt vời"
+            ],
+            "giá cả": [
+                "phải chăng"
+            ],
+            "quán cà phê": [
+                "ngon"
+            ],
+            "ly": [
+                "ngon"
+            ],
+            "trung tâm thương mại": [
+                "lớn",
+                "hơn",
+                "trọng điểm"
+            ],
+            "khách sạn": [
+                "xanh"
+            ],
+            "khu bách hóa vĩnh": [
+                "trọng điểm"
+            ],
+            "khu": [],
+            "khu vui chơi": [],
+            "trẻ em nhà ăn": [],
+            "trung": [
+                "thực sự"
+            ],
+            "tâm mua sắm": [
+                "thực sự"
+            ],
+            "siêu thị big c": [
+                "thực sự"
+            ],
+            "trung tâm trò chơi": [
+                "nhiều",
+                "vui",
+                "cao",
+                "nhất"
+            ],
+            "trung tâm": [
+                "thuận tiện",
+                "đắc địa",
+                "đa dạng",
+                "thuận tiện",
+                "đắc địa",
+                "đa dạng"
+            ],
+            "cửa hàng thương": [],
+            "cửa hàng thời trang": [],
+            "thương hiệu": [],
+            "sản phẩm": [],
+            "nhân viên phục vụ": [
+                "thân thiện",
+                "thân thiện"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "không khí": 0.5,
+            "giá thì": 0.5,
+            "khu ẩm thực": 2.5,
+            "cây cầu": 0.5,
+            "tòa nhà": 0.5,
+            "trung tâm mua sắm": 3.5,
+            "mặt hàng": 0.5,
+            "thương hiệu nhập": 0.5,
+            "nhân viên": 0.5,
+            "đồ ăn": 1.5,
+            "cà phê": 0.5,
+            "cà phê vinh quang": 0.5,
+            "hương vị": 1.0,
+            "đậm đà": 0.5,
+            "người chủ": 0.5,
+            "ẩm thực việt": 0.5,
+            "nguyên liệu": 0.5,
+            "món lẩu": 1.0,
+            "món ăn": 1.0,
+            "khu chợ": 0.5,
+            "cửa": 0.5,
+            "hàng bách hóa": 0.5,
+            "giày": 0.5,
+            "dép": 0.5,
+            "túi xách quần áo": 0.5,
+            "món đặc sản hội an": 0.5,
+            "giá cả": 0.5,
+            "quán cà phê": 0.5,
+            "ly": 0.5,
+            "trung tâm thương mại": 1.0,
+            "khách sạn": 0.5,
+            "khu bách hóa vĩnh": 0.5,
+            "khu": 0.5,
+            "khu vui chơi": 0.5,
+            "trẻ em nhà ăn": 0.5,
+            "trung": 0.5,
+            "tâm mua sắm": 0.5,
+            "siêu thị big c": 0.5,
+            "trung tâm trò chơi": 0.5,
+            "trung tâm": 2.5,
+            "cửa hàng thương": 2.5,
+            "cửa hàng thời trang": 2.5,
+            "thương hiệu": 2.5,
+            "sản phẩm": 2.5,
+            "nhân viên phục vụ": 2.5
+        }
     },
     {
         "attraction_name": "Parkson",
@@ -309,6 +679,43 @@
             "https://www.tripadvisor.com/Attraction_Review-g41623-d3370015-Reviews-Veterans_Memorial_Park-Hyannis_Cape_Cod_Massachusetts.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d8729937-Reviews-or20-Parkson-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d8729937-Reviews-or20-Parkson-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trung tâm mua sắm": 0.995533084787894,
+            "trung tâm": 0.995296108284189,
+            "cửa hàng thương": 0.5,
+            "cửa hàng thời trang": 0.5,
+            "thương hiệu": 0.5,
+            "sản phẩm": 0.5786816840991378,
+            "nhân viên phục vụ": 0.9954754097270779
+        },
+        "dicts_adj": {
+            "trung tâm mua sắm": [
+                "thực sự"
+            ],
+            "trung tâm": [
+                "thuận tiện",
+                "đắc địa",
+                "đa dạng"
+            ],
+            "cửa hàng thương": [],
+            "cửa hàng thời trang": [],
+            "thương hiệu": [],
+            "sản phẩm": [],
+            "nhân viên phục vụ": [
+                "thân thiện"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trung tâm mua sắm": 1,
+            "trung tâm": 1,
+            "cửa hàng thương": 1,
+            "cửa hàng thời trang": 1,
+            "thương hiệu": 1,
+            "sản phẩm": 1,
+            "nhân viên phục vụ": 1
+        }
     }
 ]

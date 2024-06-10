@@ -80,7 +80,194 @@
             "https://www.tripadvisor.com/Attraction_Review-g35183-d5503818-Reviews-La_Vaquita_Flea_Market-Pendergrass_Georgia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g1544599-d25113570-Reviews-or10-Infinity_Ha_Giang_Loop-Ha_Giang_Ha_Giang_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1544599-d25113570-Reviews-Infinity_Ha_Giang_Loop-Ha_Giang_Ha_Giang_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1544599-d25113570-Reviews-Infinity_Ha_Giang_Loop-Ha_Giang_Ha_Giang_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.7916199552577878,
+            "tay đua": 0.9111223594401963,
+            "đồ ăn": 0.5,
+            "nhà trọ": 0.7330339394975454,
+            "trải nghiệm": 0.6814493952842895,
+            "chuyến xe buýt": 0.990997421904467,
+            "vòng quay": 0.8737691454589367,
+            "chuyến đi": 0.5566477153508458,
+            "chăn điện": 0.532174757681787,
+            "phòng": 0.5422588475048542,
+            "trình điều": 0.86876605078578,
+            "túc xá": 0.5859428597614169,
+            "đêm lưu trú": 0.5650458130985498,
+            "lần lưu trú": 0.9928272994293366,
+            "ty du lịch": 0.9648125087842345,
+            "xe đạp": 0.5,
+            "thiết bị an": 0.8737691454589367,
+            "tấm che mưa": 0.9859664009418339,
+            "chỉ dẫn": 0.6460867188870907,
+            "xe": 0.5,
+            "xe máy": 0.7582512207445689,
+            "chỗ": 0.5,
+            "chuyến phiêu": 0.5,
+            "văn phòng": 0.8737691454589367,
+            "điểm tham quan": -0.38215456157922745,
+            "chuyến du ngoạn": 0.9819299345836043,
+            "phong cảnh văn hóa": 0.9951636585174128,
+            "hướng dẫn viên sinh viên": 0.4298468064516783,
+            "khung cảnh": 0.9901331022847444
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "an toàn",
+                "nhỏ",
+                "lạnh",
+                "hoàn toàn",
+                "mới",
+                "tuyệt vời",
+                "lớn",
+                "hơn",
+                "hơn"
+            ],
+            "tay đua": [
+                "dễ chịu",
+                "rạng rỡ",
+                "vui vẻ",
+                "nhiều",
+                "cẩn thận"
+            ],
+            "đồ ăn": [],
+            "nhà trọ": [
+                "dễ chịu",
+                "rạng rỡ",
+                "vui vẻ",
+                "nhiều",
+                "lớn",
+                "đúng"
+            ],
+            "trải nghiệm": [
+                "đúng",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "nhất",
+                "khó"
+            ],
+            "chuyến xe buýt": [
+                "hữu ích"
+            ],
+            "vòng quay": [
+                "tuyệt đối"
+            ],
+            "chuyến đi": [
+                "nhiều",
+                "tốt đẹp",
+                "tuyệt vời",
+                "an toàn",
+                "liền mạch",
+                "tiềm ẩn",
+                "khó"
+            ],
+            "chăn điện": [
+                "riêng"
+            ],
+            "phòng": [
+                "riêng"
+            ],
+            "trình điều": [
+                "bất kỳ"
+            ],
+            "túc xá": [
+                "đầu tiên"
+            ],
+            "đêm lưu trú": [
+                "đầu tiên"
+            ],
+            "lần lưu trú": [
+                "sạch sẽ",
+                "ấm cúng"
+            ],
+            "ty du lịch": [
+                "chi tiết"
+            ],
+            "xe đạp": [],
+            "thiết bị an": [
+                "an toàn"
+            ],
+            "tấm che mưa": [
+                "rõ ràng"
+            ],
+            "chỉ dẫn": [
+                "rõ ràng"
+            ],
+            "xe": [],
+            "xe máy": [
+                "tuyệt vời",
+                "đông"
+            ],
+            "chỗ": [],
+            "chuyến phiêu": [],
+            "văn phòng": [
+                "liền mạch",
+                "tiềm ẩn"
+            ],
+            "điểm tham quan": [
+                "đông",
+                "đông"
+            ],
+            "chuyến du ngoạn": [
+                "giống",
+                "vui",
+                "thanh thản"
+            ],
+            "phong cảnh văn hóa": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên sinh viên": [
+                "khó"
+            ],
+            "khung cảnh": [
+                "dễ dàng",
+                "cùng",
+                "an toàn",
+                "thoải mái",
+                "chậm",
+                "hơn",
+                "khác",
+                "liên tục",
+                "ngoạn mục",
+                "thực sự"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 11.0,
+            "tay đua": 2,
+            "đồ ăn": 3.5,
+            "nhà trọ": 5.0,
+            "trải nghiệm": 8.0,
+            "chuyến xe buýt": 1.5,
+            "vòng quay": 1.5,
+            "chuyến đi": 7.5,
+            "chăn điện": 1.5,
+            "phòng": 1.5,
+            "trình điều": 1.5,
+            "túc xá": 1.5,
+            "đêm lưu trú": 1.5,
+            "lần lưu trú": 1.5,
+            "ty du lịch": 1.5,
+            "xe đạp": 3.0,
+            "thiết bị an": 1.5,
+            "tấm che mưa": 1.5,
+            "chỉ dẫn": 1.5,
+            "xe": 1.5,
+            "xe máy": 1.5,
+            "chỗ": 1.5,
+            "chuyến phiêu": 1.5,
+            "văn phòng": 1.5,
+            "điểm tham quan": 1.5,
+            "chuyến du ngoạn": 1.5,
+            "phong cảnh văn hóa": 1.5,
+            "hướng dẫn viên sinh viên": 1.5,
+            "khung cảnh": 1.5
+        }
     },
     {
         "attraction_name": "Infinity Ha Giang Loop",
@@ -172,7 +359,181 @@
             "https://www.tripadvisor.com/Attraction_Review-g2424710-d3393891-Reviews-Pigeon_Island_National_Park-Nilaveli_Eastern_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g1544599-d25113570-Reviews-or20-Infinity_Ha_Giang_Loop-Ha_Giang_Ha_Giang_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1544599-d25113570-Reviews-or10-Infinity_Ha_Giang_Loop-Ha_Giang_Ha_Giang_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1544599-d25113570-Reviews-or10-Infinity_Ha_Giang_Loop-Ha_Giang_Ha_Giang_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "người dân": 0.7151909889653325,
+            "hướng dẫn viên lái xe": 0.5,
+            "nhà trọ": 0.8735008571529761,
+            "tầm nhìn": 0.9900378557213116,
+            "món ăn": 0.9920110665552784,
+            "trải nghiệm": 0.9129703228993874,
+            "nhân viên": 0.7173187717562541,
+            "khách sạn": 0.5,
+            "xe máy": 0.6604997457387591,
+            "tay đua": 0.9860020874184556,
+            "chuyến đi": 0.9138942835852504,
+            "cảnh quan": 0.9955055563477799,
+            "thức ăn ngon": 0.9953811837476678,
+            "con người": 0.4396744482219219,
+            "công ty du lịch": 0.8166980507376138,
+            "chuyến tham quan": 0.8093462201262204,
+            "xế": 0.9388887141831219,
+            "đồ ăn ngon": 0.994786628492875,
+            "hướng dẫn viên": 0.9954726289724931,
+            "chuyến tham quan thiên nhiên": 0.9953477445524186,
+            "quang cảnh": 0.9954224441898987,
+            "ngôi nhà": 0.9950436927611008,
+            "khung cảnh": 0.9926065492909402,
+            "tour du lịch": 0.9953424378763884,
+            "đồ ăn": 0.9954970573307946,
+            "trải nghiệm thiên nhiên": 0.9952975276391953,
+            "ty du lịch": 0.5
+        },
+        "dicts_adj": {
+            "người dân": [],
+            "hướng dẫn viên lái xe": [],
+            "nhà trọ": [
+                "sạch sẽ",
+                "thực sự",
+                "đông"
+            ],
+            "tầm nhìn": [
+                "tuyệt vời",
+                "ấm cúng"
+            ],
+            "món ăn": [
+                "ngon",
+                "suốt"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "nhỏ",
+                "vui",
+                "vui",
+                "tuyệt vời",
+                "vui",
+                "thú vị",
+                "sớm"
+            ],
+            "nhân viên": [
+                "tuyệt vời",
+                "đáng giá"
+            ],
+            "khách sạn": [],
+            "xe máy": [
+                "tuyệt vời",
+                "thực sự",
+                "tốt",
+                "nhiều",
+                "tươi",
+                "thực sự",
+                "khuyên bạn",
+                "chính xác"
+            ],
+            "tay đua": [
+                "dễ dàng",
+                "chuyên nghiệp",
+                "an toàn",
+                "suốt"
+            ],
+            "chuyến đi": [
+                "xa",
+                "hơn"
+            ],
+            "cảnh quan": [
+                "đẹp"
+            ],
+            "thức ăn ngon": [
+                "tử tế"
+            ],
+            "con người": [
+                "tử tế"
+            ],
+            "công ty du lịch": [
+                "nhỏ",
+                "thân thiện",
+                "thực sự",
+                "hữu ích"
+            ],
+            "chuyến tham quan": [
+                "vui",
+                "giống",
+                "khác",
+                "vui"
+            ],
+            "xế": [
+                "chuyên nghiệp"
+            ],
+            "đồ ăn ngon": [
+                "thực sự",
+                "đông"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "dễ dàng",
+                "an toàn"
+            ],
+            "chuyến tham quan thiên nhiên": [
+                "tuyệt vời"
+            ],
+            "quang cảnh": [
+                "tuyệt vời"
+            ],
+            "ngôi nhà": [
+                "thực sự",
+                "tốt đẹp",
+                "khác"
+            ],
+            "khung cảnh": [
+                "ngoạn mục"
+            ],
+            "tour du lịch": [
+                "tuyệt vời",
+                "nhỏ"
+            ],
+            "đồ ăn": [
+                "cẩn thận",
+                "thoải mái",
+                "ngon",
+                "hoành tráng"
+            ],
+            "trải nghiệm thiên nhiên": [
+                "thực sự"
+            ],
+            "ty du lịch": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "người dân": 2,
+            "hướng dẫn viên lái xe": 1,
+            "nhà trọ": 2,
+            "tầm nhìn": 1,
+            "món ăn": 1,
+            "trải nghiệm": 7,
+            "nhân viên": 2,
+            "khách sạn": 1,
+            "xe máy": 2,
+            "tay đua": 1,
+            "chuyến đi": 1,
+            "cảnh quan": 1,
+            "thức ăn ngon": 1,
+            "con người": 1,
+            "công ty du lịch": 1,
+            "chuyến tham quan": 3,
+            "xế": 1,
+            "đồ ăn ngon": 1,
+            "hướng dẫn viên": 1,
+            "chuyến tham quan thiên nhiên": 1,
+            "quang cảnh": 1,
+            "ngôi nhà": 1,
+            "khung cảnh": 1,
+            "tour du lịch": 1,
+            "đồ ăn": 1,
+            "trải nghiệm thiên nhiên": 1,
+            "ty du lịch": 1
+        }
     },
     {
         "attraction_name": "Infinity Ha Giang Loop",
@@ -267,7 +628,205 @@
             "https://www.tripadvisor.com/Attraction_Review-g47582-d2527894-Reviews-Tanger_Outlets_Deer_Park-Deer_Park_Long_Island_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g1544599-d25113570-Reviews-or30-Infinity_Ha_Giang_Loop-Ha_Giang_Ha_Giang_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1544599-d25113570-Reviews-or20-Infinity_Ha_Giang_Loop-Ha_Giang_Ha_Giang_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1544599-d25113570-Reviews-or20-Infinity_Ha_Giang_Loop-Ha_Giang_Ha_Giang_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhà trọ": 0.8737691454589367,
+            "bữa sáng": 0.995362511719577,
+            "chuyến du lịch": 0.6836393720877822,
+            "phòng": 0.8438460967930345,
+            "thác nước sông": 0.9927732644136995,
+            "hang động": 0.9861116665415466,
+            "ngôi làng": 0.026226724265143275,
+            "chuyến đi": 0.5101025557054931,
+            "dịch vụ": 0.5017488940502517,
+            "xe buýt": 0.5426329728215933,
+            "chuyến tham quan": 0.8602157532528508,
+            "người dân": 0.6857766625471413,
+            "câu chuyện": 0.5,
+            "trải nghiệm": 0.8302703351558497,
+            "phong cảnh": 0.8737691454589367,
+            "điểm ngắm cảnh": 0.9036833809805103,
+            "áo": -0.8174473010003567,
+            "chuyến xe": 0.3519851006567478,
+            "lái xe": 0.9864230367238633,
+            "khuyến nghị ấm áp": 0.9911947925575078,
+            "ký túc xá": 0.9434539405629039,
+            "giá cả": 0.9954366534366272,
+            "hướng dẫn viên": 0.8737691454589367,
+            "chỗ ở": 0.9955525417462923,
+            "phòng riêng": -0.6143473917618394,
+            "thức ăn": 0.8737691454589367,
+            "nhà hàng": 0.7478330150479451,
+            "thư viện cộng": 0.4794265739619732,
+            "chuyến tham": 0.5,
+            "hành trình phương tiện đi lại thức ăn": 0.9951336438534781,
+            "chỗ": 0.9949846747913398,
+            "trái tim": 0.01115851104259491,
+            "thực phẩm chăn": -0.9697319596307352
+        },
+        "dicts_adj": {
+            "nhà trọ": [
+                "tuyệt vời",
+                "thoải mái"
+            ],
+            "bữa sáng": [
+                "ngon"
+            ],
+            "chuyến du lịch": [
+                "riêng",
+                "đẹp",
+                "truyền thống"
+            ],
+            "phòng": [
+                "riêng",
+                "đẹp",
+                "truyền thống"
+            ],
+            "thác nước sông": [
+                "chân thực"
+            ],
+            "hang động": [
+                "chân thực"
+            ],
+            "ngôi làng": [
+                "chân thực",
+                "nghèo"
+            ],
+            "chuyến đi": [
+                "tùy chỉnh",
+                "chuyên nghiệp",
+                "tốt",
+                "sẵn sàng",
+                "bất kỳ",
+                "an toàn",
+                "suốt",
+                "nghèo",
+                "phải",
+                "quan trọng"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "khác",
+                "tuyệt vời",
+                "suốt"
+            ],
+            "xe buýt": [],
+            "chuyến tham quan": [
+                "thực sự",
+                "ít",
+                "đông đúc",
+                "an toàn",
+                "hơn",
+                "khoảng",
+                "tuyệt vời"
+            ],
+            "người dân": [
+                "vui"
+            ],
+            "câu chuyện": [],
+            "trải nghiệm": [
+                "vui",
+                "vui",
+                "tuyệt vời"
+            ],
+            "phong cảnh": [
+                "đẹp"
+            ],
+            "điểm ngắm cảnh": [
+                "nhiều",
+                "đẹp"
+            ],
+            "áo": [
+                "cuối cùng"
+            ],
+            "chuyến xe": [
+                "cuối cùng"
+            ],
+            "lái xe": [
+                "cẩn thận",
+                "tốt",
+                "tốt"
+            ],
+            "khuyến nghị ấm áp": [
+                "khác"
+            ],
+            "ký túc xá": [],
+            "giá cả": [
+                "tuyệt vời",
+                "rẻ",
+                "hơn",
+                "khác"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời"
+            ],
+            "chỗ ở": [
+                "tuyệt vời"
+            ],
+            "phòng riêng": [
+                "phải"
+            ],
+            "thức ăn": [
+                "tuyệt vời"
+            ],
+            "nhà hàng": [
+                "vui vẻ",
+                "dọc"
+            ],
+            "thư viện cộng": [
+                "khác"
+            ],
+            "chuyến tham": [],
+            "hành trình phương tiện đi lại thức ăn": [
+                "dễ dàng"
+            ],
+            "chỗ": [
+                "dễ dàng"
+            ],
+            "trái tim": [
+                "rộng lớn"
+            ],
+            "thực phẩm chăn": [
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhà trọ": 1,
+            "bữa sáng": 1,
+            "chuyến du lịch": 2,
+            "phòng": 1,
+            "thác nước sông": 1,
+            "hang động": 1,
+            "ngôi làng": 2,
+            "chuyến đi": 3,
+            "dịch vụ": 2,
+            "xe buýt": 1,
+            "chuyến tham quan": 2,
+            "người dân": 2,
+            "câu chuyện": 1,
+            "trải nghiệm": 3,
+            "phong cảnh": 1,
+            "điểm ngắm cảnh": 1,
+            "áo": 1,
+            "chuyến xe": 1,
+            "lái xe": 2,
+            "khuyến nghị ấm áp": 1,
+            "ký túc xá": 1,
+            "giá cả": 1,
+            "hướng dẫn viên": 1,
+            "chỗ ở": 1,
+            "phòng riêng": 1,
+            "thức ăn": 1,
+            "nhà hàng": 1,
+            "thư viện cộng": 1,
+            "chuyến tham": 1,
+            "hành trình phương tiện đi lại thức ăn": 1,
+            "chỗ": 1,
+            "trái tim": 1,
+            "thực phẩm chăn": 1
+        }
     },
     {
         "attraction_name": "Infinity Ha Giang Loop",
@@ -362,7 +921,149 @@
             "https://www.tripadvisor.com/Attraction_Review-g297924-d1892148-Reviews-ElephantsWorld-Kanchanaburi_Kanchanaburi_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g1544599-d25113570-Reviews-or40-Infinity_Ha_Giang_Loop-Ha_Giang_Ha_Giang_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1544599-d25113570-Reviews-or30-Infinity_Ha_Giang_Loop-Ha_Giang_Ha_Giang_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1544599-d25113570-Reviews-or30-Infinity_Ha_Giang_Loop-Ha_Giang_Ha_Giang_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "xe máy": 0.7274510413408279,
+            "chuyến tham quan": 0.9937326773942914,
+            "đại lý": -0.9108732454478741,
+            "chuyến du lịch": -0.9505769349634647,
+            "nhà dân địa phương": 0.5,
+            "người dân địa": 0.5,
+            "chuyến đi": 0.7310536646594604,
+            "chuyến tham": 0.8276763614267111,
+            "địa điểm du lịch": 0.9928820412606001,
+            "trải nghiệm": 0.987467126105912,
+            "hướng dẫn viên": 0.6146076760875682,
+            "xe jeep": 0.8138015238801017,
+            "hướng dẫn viên du lịch": 0.8737691454589367,
+            "địa điểm": 0.9954302518744953,
+            "hành trình": 0.8477127457153983,
+            "nhà trọ": 0.9896020760643296,
+            "chủ sở": 0.5,
+            "ngôi trường": 0.5,
+            "thắng cảnh": 0.9894413128495216,
+            "ngôi làng": 0.49539418891072273,
+            "người dân": 0.5,
+            "khung cảnh": 0.9903947543352842,
+            "đồ ăn": 0.9955165396095254,
+            "tài xế": 0.5
+        },
+        "dicts_adj": {
+            "xe máy": [
+                "hơn"
+            ],
+            "chuyến tham quan": [
+                "liên tục",
+                "hữu ích",
+                "tốt"
+            ],
+            "đại lý": [
+                "thực sự"
+            ],
+            "chuyến du lịch": [
+                "hoàn toàn",
+                "giống",
+                "giống",
+                "cùng",
+                "thực sự",
+                "rõ"
+            ],
+            "nhà dân địa phương": [],
+            "người dân địa": [],
+            "chuyến đi": [
+                "lớn",
+                "nhất",
+                "nhỏ",
+                "tuyệt vời",
+                "nhất"
+            ],
+            "chuyến tham": [
+                "lớn"
+            ],
+            "địa điểm du lịch": [
+                "hơn"
+            ],
+            "trải nghiệm": [
+                "giống",
+                "đáng giá",
+                "hơn",
+                "nhiều",
+                "tuyệt vời",
+                "chắc chắn",
+                "nhiều",
+                "cùng",
+                "vui",
+                "thú vị",
+                "sớm"
+            ],
+            "hướng dẫn viên": [
+                "lịch sự",
+                "ân cần",
+                "nhất",
+                "suốt",
+                "vui tính"
+            ],
+            "xe jeep": [
+                "tiện lợi",
+                "thoải mái"
+            ],
+            "hướng dẫn viên du lịch": [
+                "hiểu biết"
+            ],
+            "địa điểm": [
+                "độc đáo"
+            ],
+            "hành trình": [
+                "an toàn"
+            ],
+            "nhà trọ": [
+                "đẹp"
+            ],
+            "chủ sở": [],
+            "ngôi trường": [],
+            "thắng cảnh": [
+                "khắp"
+            ],
+            "ngôi làng": [
+                "nhỏ"
+            ],
+            "người dân": [],
+            "khung cảnh": [
+                "đẹp"
+            ],
+            "đồ ăn": [
+                "tuyệt vời"
+            ],
+            "tài xế": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "xe máy": 2,
+            "chuyến tham quan": 2,
+            "đại lý": 1,
+            "chuyến du lịch": 1,
+            "nhà dân địa phương": 1,
+            "người dân địa": 1,
+            "chuyến đi": 3,
+            "chuyến tham": 1,
+            "địa điểm du lịch": 1,
+            "trải nghiệm": 4,
+            "hướng dẫn viên": 3,
+            "xe jeep": 1,
+            "hướng dẫn viên du lịch": 1,
+            "địa điểm": 1,
+            "hành trình": 1,
+            "nhà trọ": 2,
+            "chủ sở": 1,
+            "ngôi trường": 1,
+            "thắng cảnh": 1,
+            "ngôi làng": 1,
+            "người dân": 1,
+            "khung cảnh": 1,
+            "đồ ăn": 1,
+            "tài xế": 1
+        }
     },
     {
         "attraction_name": "Infinity Ha Giang Loop",
@@ -457,7 +1158,99 @@
             "https://www.tripadvisor.com/Attraction_Review-g154943-d591259-Reviews-SkyTrain-Vancouver_British_Columbia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g1544599-d25113570-Reviews-or50-Infinity_Ha_Giang_Loop-Ha_Giang_Ha_Giang_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1544599-d25113570-Reviews-or40-Infinity_Ha_Giang_Loop-Ha_Giang_Ha_Giang_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1544599-d25113570-Reviews-or40-Infinity_Ha_Giang_Loop-Ha_Giang_Ha_Giang_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên": 0.9346507722511888,
+            "lái xe": 0.9770206529647112,
+            "thức ăn": 0.8737691454589367,
+            "ký túc xá": 0.9904679965499478,
+            "trải nghiệm": 0.9954719863502154,
+            "ken": 0.8737691454589367,
+            "đại lý du lịch": 0.9955574345076457,
+            "ẩm thực": 0.5,
+            "chuyến đi": 0.9856675653330361,
+            "chuyến tham quan": 0.9951447230996564,
+            "nhân viên": 0.8286537277745083,
+            "chuyến xe ngủ vip": 0.950007516425103,
+            "xe buýt": 0.963854106143117,
+            "thức ăn chỗ ở": 0.5,
+            "đội ngũ": 0.9954586955718696
+        },
+        "dicts_adj": {
+            "hướng dẫn viên": [
+                "tử tế",
+                "tử tế",
+                "tốt",
+                "nhiều",
+                "vui"
+            ],
+            "lái xe": [
+                "dễ dàng"
+            ],
+            "thức ăn": [
+                "thực sự",
+                "vui vẻ",
+                "tốt"
+            ],
+            "ký túc xá": [
+                "thực sự",
+                "vui vẻ",
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "hài lòng",
+                "cùng",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "ken": [
+                "tốt bụng"
+            ],
+            "đại lý du lịch": [
+                "tốt bụng"
+            ],
+            "ẩm thực": [],
+            "chuyến đi": [
+                "gọn",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "tốt"
+            ],
+            "nhân viên": [
+                "thực sự",
+                "hữu ích",
+                "tốt bụng"
+            ],
+            "chuyến xe ngủ vip": [],
+            "xe buýt": [],
+            "thức ăn chỗ ở": [],
+            "đội ngũ": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên": 2,
+            "lái xe": 1,
+            "thức ăn": 1,
+            "ký túc xá": 1,
+            "trải nghiệm": 3,
+            "ken": 1,
+            "đại lý du lịch": 1,
+            "ẩm thực": 1,
+            "chuyến đi": 3,
+            "chuyến tham quan": 1,
+            "nhân viên": 3,
+            "chuyến xe ngủ vip": 1,
+            "xe buýt": 1,
+            "thức ăn chỗ ở": 1,
+            "đội ngũ": 1
+        }
     },
     {
         "attraction_name": "Infinity Ha Giang Loop",
@@ -552,7 +1345,194 @@
             "https://www.tripadvisor.com/Attraction_Review-g60982-d146833-Reviews-Aloha_Tower_Marketplace-Honolulu_Oahu_Hawaii.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g1544599-d25113570-Reviews-or60-Infinity_Ha_Giang_Loop-Ha_Giang_Ha_Giang_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1544599-d25113570-Reviews-or50-Infinity_Ha_Giang_Loop-Ha_Giang_Ha_Giang_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1544599-d25113570-Reviews-or50-Infinity_Ha_Giang_Loop-Ha_Giang_Ha_Giang_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9291219142382033,
+            "kỳ nghỉ tết": 0.8737691454589367,
+            "trải nghiệm": 0.9953071064082906,
+            "nhà dân địa": 0.9936213608598337,
+            "chủ nhà": 0.5,
+            "cà phê": 0.994990473263897,
+            "vịnh": 0.9954054503468797,
+            "thiết bị": 0.9534835075028241,
+            "lái xe": 0.9937945248675533,
+            "người dân địa": 0.9148544338531792,
+            "trải nghiệm văn hóa": 0.5,
+            "chuyến du lịch": 0.9949443147052079,
+            "chủ sở hữu": -0.9648619520012289,
+            "hướng dẫn viên": 0.8180041805899236,
+            "địa điểm": 0.8381004632683471,
+            "nhà trọ": 0.8596989295717018,
+            "món ăn": 0.9641014023218304,
+            "xe buýt": 0.5,
+            "ngôi làng": 0.9836630411446095,
+            "chuyến tham quan": 0.9922365682432428,
+            "người dân": 0.9934464690741152,
+            "phương tiện": 0.8737691454589367,
+            "túc xá hướng dẫn viên du lịch": 0.9791522086597979,
+            "khách sạn": 0.5,
+            "nhà dân": 0.5,
+            "dân tộc thiểu số": -0.9586780276149511,
+            "loại thực vật": 0.6817355835810304,
+            "môi trường": 0.8017064513405785,
+            "bữa sáng": 0.754288352560252,
+            "bữa trưa": 0.7400763658806682,
+            "bữa tối": 0.6160557405091822,
+            "sản phẩm": 0.5,
+            "rượu ngô": 0.5,
+            "sản phẩm dệt thủ": 0.8159620510414243
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "sẵn sàng",
+                "ví dụ"
+            ],
+            "kỳ nghỉ tết": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "nhà dân địa": [
+                "sạch sẽ"
+            ],
+            "chủ nhà": [],
+            "cà phê": [
+                "nhiều"
+            ],
+            "vịnh": [
+                "rẻ",
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "thiết bị": [
+                "tốt"
+            ],
+            "lái xe": [
+                "xuất sắc"
+            ],
+            "người dân địa": [
+                "chắc chắn",
+                "nổi bật"
+            ],
+            "trải nghiệm văn hóa": [],
+            "chuyến du lịch": [
+                "tuyệt vời"
+            ],
+            "chủ sở hữu": [
+                "khác",
+                "khác"
+            ],
+            "hướng dẫn viên": [
+                "thực sự",
+                "hoàn hảo",
+                "am hiểu"
+            ],
+            "địa điểm": [
+                "đẹp",
+                "thực sự",
+                "khác"
+            ],
+            "nhà trọ": [
+                "thực sự",
+                "vui vẻ",
+                "sạch sẽ"
+            ],
+            "món ăn": [
+                "tuyệt vời",
+                "ngon",
+                "nhiều"
+            ],
+            "xe buýt": [],
+            "ngôi làng": [
+                "nhiều",
+                "dọc"
+            ],
+            "chuyến tham quan": [
+                "thực sự"
+            ],
+            "người dân": [
+                "tích cực"
+            ],
+            "phương tiện": [
+                "ngắn"
+            ],
+            "túc xá hướng dẫn viên du lịch": [
+                "tươm tất"
+            ],
+            "khách sạn": [],
+            "nhà dân": [],
+            "dân tộc thiểu số": [
+                "khác"
+            ],
+            "loại thực vật": [
+                "cuối cùng",
+                "nhiều"
+            ],
+            "môi trường": [
+                "cuối cùng",
+                "nhiều"
+            ],
+            "bữa sáng": [
+                "ngon",
+                "nhiều"
+            ],
+            "bữa trưa": [
+                "ngon",
+                "nhiều"
+            ],
+            "bữa tối": [
+                "ngon",
+                "nhiều"
+            ],
+            "sản phẩm": [],
+            "rượu ngô": [],
+            "sản phẩm dệt thủ": [
+                "quan trọng",
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 5,
+            "kỳ nghỉ tết": 1,
+            "trải nghiệm": 2,
+            "nhà dân địa": 1,
+            "chủ nhà": 1,
+            "cà phê": 1,
+            "vịnh": 1,
+            "thiết bị": 1,
+            "lái xe": 1,
+            "người dân địa": 1,
+            "trải nghiệm văn hóa": 1,
+            "chuyến du lịch": 1,
+            "chủ sở hữu": 1,
+            "hướng dẫn viên": 2,
+            "địa điểm": 1,
+            "nhà trọ": 1,
+            "món ăn": 2,
+            "xe buýt": 1,
+            "ngôi làng": 1,
+            "chuyến tham quan": 1,
+            "người dân": 1,
+            "phương tiện": 1,
+            "túc xá hướng dẫn viên du lịch": 1,
+            "khách sạn": 1,
+            "nhà dân": 1,
+            "dân tộc thiểu số": 1,
+            "loại thực vật": 1,
+            "môi trường": 1,
+            "bữa sáng": 1,
+            "bữa trưa": 1,
+            "bữa tối": 1,
+            "sản phẩm": 1,
+            "rượu ngô": 1,
+            "sản phẩm dệt thủ": 1
+        }
     },
     {
         "attraction_name": "Infinity Ha Giang Loop",
@@ -647,7 +1627,92 @@
             "https://www.tripadvisor.com/Attraction_Review-g1070999-d523805-Reviews-Meteora-Kastraki_Kalambaka_Trikala_Region_Thessaly.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g1544599-d25113570-Reviews-or70-Infinity_Ha_Giang_Loop-Ha_Giang_Ha_Giang_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1544599-d25113570-Reviews-or60-Infinity_Ha_Giang_Loop-Ha_Giang_Ha_Giang_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1544599-d25113570-Reviews-or60-Infinity_Ha_Giang_Loop-Ha_Giang_Ha_Giang_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9839292475371622,
+            "hướng dẫn viên du lịch": 0.9946095552295446,
+            "hướng dẫn viên ken": 0.9954730030149221,
+            "khu vực": 0.9954335655202158,
+            "chuyến đi vòng quanh": -0.36893801018595695,
+            "trải nghiệm": 0.9951600261265412,
+            "xe đạp": 0.9791336422786117,
+            "người tốt xe đạp": 0.9953540054848418,
+            "xe máy": 0.9887845513876528,
+            "người dân": 0.5,
+            "phong cảnh": 0.5,
+            "nền văn hóa": 0.5,
+            "chuyến tham quan": 0.9955083247914445
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "nhiều",
+                "nổi bật",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "thực sự",
+                "an toàn",
+                "đầy đủ",
+                "tốt",
+                "tốt"
+            ],
+            "hướng dẫn viên ken": [
+                "nồng nhiệt",
+                "chu đáo"
+            ],
+            "khu vực": [
+                "an toàn",
+                "chuyên nghiệp",
+                "vui vẻ",
+                "xinh đẹp"
+            ],
+            "chuyến đi vòng quanh": [
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "tốt",
+                "tuyệt vời"
+            ],
+            "xe đạp": [
+                "thực sự",
+                "tốt"
+            ],
+            "người tốt xe đạp": [],
+            "xe máy": [
+                "nổi bật"
+            ],
+            "người dân": [],
+            "phong cảnh": [],
+            "nền văn hóa": [],
+            "chuyến tham quan": [
+                "thực sự",
+                "tích cực",
+                "bền vững",
+                "thực sự",
+                "chuyên nghiệp",
+                "cụ thể",
+                "tuyệt vời",
+                "nhất"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 2,
+            "hướng dẫn viên du lịch": 2,
+            "hướng dẫn viên ken": 1,
+            "khu vực": 1,
+            "chuyến đi vòng quanh": 1,
+            "trải nghiệm": 1,
+            "xe đạp": 1,
+            "người tốt xe đạp": 1,
+            "xe máy": 1,
+            "người dân": 1,
+            "phong cảnh": 1,
+            "nền văn hóa": 1,
+            "chuyến tham quan": 1
+        }
     },
     {
         "attraction_name": "Infinity Ha Giang Loop",
@@ -728,6 +1793,84 @@
             "https://www.tripadvisor.com/Attraction_Review-g294197-d5287781-Reviews-Tongin_Market-Seoul.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1544599-d25113570-Reviews-or70-Infinity_Ha_Giang_Loop-Ha_Giang_Ha_Giang_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1544599-d25113570-Reviews-or70-Infinity_Ha_Giang_Loop-Ha_Giang_Ha_Giang_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.8737691454589367,
+            "chuyến đi": 0.9828571458347142,
+            "trải nghiệm": 0.9345965722750407,
+            "chuyến tham quan": 0.8737691454589367,
+            "nhà trọ": 0.9954665866680443,
+            "văn phòng": 0.5,
+            "chuyến tham": 0.5,
+            "dịch vụ": 0.995489668333903,
+            "vòng lặp": 0.99537247128319,
+            "thức ăn": 0.9954782453132793,
+            "nền văn hóa": 0.9945977131137624,
+            "hướng dẫn viên": 0.9917271205922589,
+            "tài xế": 0.9928398875053972
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "dễ thương"
+            ],
+            "chuyến đi": [
+                "tốt",
+                "thoải mái"
+            ],
+            "trải nghiệm": [
+                "thực sự",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "khác"
+            ],
+            "nhà trọ": [
+                "xinh đẹp"
+            ],
+            "văn phòng": [],
+            "chuyến tham": [],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "vòng lặp": [
+                "tuyệt vời"
+            ],
+            "thức ăn": [
+                "xuất sắc",
+                "tốt",
+                "tuyệt vời",
+                "cao"
+            ],
+            "nền văn hóa": [
+                "khác",
+                "khác",
+                "thú vị"
+            ],
+            "hướng dẫn viên": [
+                "gọn gàng"
+            ],
+            "tài xế": [
+                "gọn gàng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 1,
+            "chuyến đi": 2,
+            "trải nghiệm": 2,
+            "chuyến tham quan": 1,
+            "nhà trọ": 1,
+            "văn phòng": 1,
+            "chuyến tham": 1,
+            "dịch vụ": 1,
+            "vòng lặp": 1,
+            "thức ăn": 1,
+            "nền văn hóa": 1,
+            "hướng dẫn viên": 1,
+            "tài xế": 1
+        }
     }
 ]

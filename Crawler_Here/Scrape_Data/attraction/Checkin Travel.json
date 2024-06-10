@@ -59,6 +59,29 @@
             "https://www.tripadvisor.com/Attraction_Review-g295424-d23342532-Reviews-BLU_Dubai-Dubai_Emirate_of_Dubai.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d21324508-Reviews-Checkin_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d21324508-Reviews-Checkin_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.8737691454589367,
+            "miền núi": 0.7648250422789715,
+            "dịch vụ": 0.5
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "đẹp tiếc",
+                "ít"
+            ],
+            "miền núi": [
+                "đẹp tiếc",
+                "ít"
+            ],
+            "dịch vụ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 0.5,
+            "miền núi": 0.5,
+            "dịch vụ": 0.5
+        }
     }
 ]

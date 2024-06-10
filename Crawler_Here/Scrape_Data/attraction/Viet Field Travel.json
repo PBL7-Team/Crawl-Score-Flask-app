@@ -61,6 +61,22 @@
             "https://www.tripadvisor.com/Attraction_Review-g293924-d15190048-Reviews-Hanoi_Train_Street-Hanoi.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d15582779-Reviews-Viet_Field_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d15582779-Reviews-Viet_Field_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.9955710208159871,
+            "ms linh": 0.5764983175322413
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "ms linh": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 0.5,
+            "ms linh": 0.5
+        }
     }
 ]

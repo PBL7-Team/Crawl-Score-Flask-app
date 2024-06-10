@@ -88,6 +88,64 @@
             "https://www.tripadvisor.com/Attraction_Review-g1067956-d11666282-Reviews-Aquarium_Terrarium-Krk_Krk_Island_Kvarner_Bay_Islands_Primorje_Gorski_Kotar_Cou.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d25435842-Reviews-Hanoi_train_station-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d25435842-Reviews-Hanoi_train_station-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tàu đêm": 0.5,
+            "nhà hát lớn": 0.5,
+            "xe buýt": 0.5,
+            "xe grab": 0.6088935872539878,
+            "tài xế": 0.666458597406745,
+            "đồng hồ": 0.5778828104957938,
+            "ứng dụng": 0.9407049007713795,
+            "tượng đài": 0.8737691454589367,
+            "thuộc địa": 0.7403747424250469,
+            "mùi": 0.5,
+            "vị đá": 0.5,
+            "đám đông": -0.8612637417390943,
+            "nhà vệ sinh": 0.9561681030318141
+        },
+        "dicts_adj": {
+            "chuyến tàu đêm": [],
+            "nhà hát lớn": [],
+            "xe buýt": [],
+            "xe grab": [],
+            "tài xế": [],
+            "đồng hồ": [
+                "cuối cùng"
+            ],
+            "ứng dụng": [],
+            "tượng đài": [
+                "đẹp",
+                "sáng"
+            ],
+            "thuộc địa": [
+                "đẹp",
+                "sáng"
+            ],
+            "mùi": [],
+            "vị đá": [],
+            "đám đông": [],
+            "nhà vệ sinh": [
+                "cơ bản",
+                "đầy đủ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tàu đêm": 1.5,
+            "nhà hát lớn": 1.5,
+            "xe buýt": 1.5,
+            "xe grab": 1.5,
+            "tài xế": 1.5,
+            "đồng hồ": 1.5,
+            "ứng dụng": 1.5,
+            "tượng đài": 1,
+            "thuộc địa": 1,
+            "mùi": 1,
+            "vị đá": 1,
+            "đám đông": 1,
+            "nhà vệ sinh": 1
+        }
     }
 ]
