@@ -68,19 +68,20 @@ def recommend_system(text):
     if "Việt Nam" not in text:
         text = text + " tại Việt Nam."
     # dicts_sentiment, _, _, _ = TextEntities_Score(text,True)
+    # list_entity = list(dicts_sentiment.keys())
     list_entity = TextEntities_recommend(text)
+    # print(list_entity)
     list_proper_noun_feature = [word['wordForm'] for word in annotate_text(text) if word['nerLabel'] in ['B-LOC', 'B-PER']]
-    if "Hồ Chí Minh" in list_proper_noun_feature or "Sài Gòn" in list_proper_noun_feature:
+    if "Hồ Chí Minh" in list_proper_noun_feature:
         list_proper_noun_feature.append("Ho Chi Minh City")
         if "Hồ Chí Minh" in list_proper_noun_feature:
             list_proper_noun_feature.remove("Hồ Chí Minh")
-        if "Sài Gòn" in list_proper_noun_feature:
-            list_proper_noun_feature.remove("Sài Gòn")
 
+    # print(list_proper_noun_feature)
     # new_contentbase_df = get_new_contentbase_df()
     # print(dicts_sentiment)
-    print(list_proper_noun_feature)
-    print(list_entity)
+    # print(list_proper_noun_feature)
+    # print(list_entity)
     # conduct_content_base(dicts_sentiment, list_proper_noun_feature)
     
     # return conduct_content_base(dicts_sentiment, list_proper_noun_feature)
@@ -113,7 +114,6 @@ def find_cluster(cluster_dict, entity):
 
 # get_new_contentbase_df()
 def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
-    sentiment_df = pd.read_csv('./sentiment_value.csv')
     content_base_df = pd.read_csv('./content_base_score_df.csv', index_col=0)
     
     with open('./vi_clusters.json', 'r', encoding='utf-8') as f:
@@ -129,7 +129,7 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
 
     for key in keys_list:
         in_cluster = find_cluster(clusters_dict, key)
-        if in_cluster == None:
+        if in_cluster is None:
             comment_cluster_list.append(key)
             content_base_df[key] = 0
             storage_key_list.append(key)
@@ -139,12 +139,12 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
     update_json(storage_key_list)
 
     # print(comment_cluster_list)
-    comment_cluster_list = comment_cluster_list + list_proper_noun_feature
+    comment_cluster_list += list_proper_noun_feature
     # print(comment_cluster_list)
 
-    column_names = content_base_df.columns
+    # Thêm các cột mới vào DataFrame nếu chưa tồn tại
     for proper_noun in list_proper_noun_feature:
-        if proper_noun not in column_names:
+        if proper_noun not in content_base_df.columns:
             content_base_df[proper_noun] = 0
     
     filtered_df = content_base_df[comment_cluster_list]
