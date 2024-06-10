@@ -4,7 +4,6 @@ from datetime import datetime
 import os
 import time
 from Model_Here.auto_download_models import  dowwload_model
-
 dowwload_model()
 
 from recommend import recommend_system, get_new_contentbase_df
@@ -14,10 +13,10 @@ from service_model import sentiment_analysis_all, fully_updated_sentiment_csv, e
 from dotenv import load_dotenv
 from functools import wraps
 from flask import Flask, request
-from flask_apscheduler import APScheduler
+# from flask_apscheduler import APScheduler
 
 app = Flask(__name__)
-scheduler = APScheduler()
+# scheduler = APScheduler()
 
 load_dotenv()
 
