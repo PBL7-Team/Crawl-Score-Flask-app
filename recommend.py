@@ -5,7 +5,7 @@ import unicodedata
 import math
 import os
 from rapidfuzz import fuzz
-from Model_Here.keyphrase import TextEntities_Score
+from Model_Here.keyphrase import TextEntities_Score, TextEntities_recommend
 from Model_Here.score_extract import annotate_text
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.metrics.pairwise import euclidean_distances
@@ -51,7 +51,9 @@ def get_new_contentbase_df():
         for cluster in scores:
             cluster_weight = weights[cluster]
             # print(cluster_weight)
-            if cluster_weight <= 2:
+            if cluster_weight <= 0.5:
+                result_df.at[location, cluster] = 0.5 + (0.1 * (scores[cluster] / cluster_weight))
+            elif 0.5 < cluster_weight <= 2:
                 result_df.at[location, cluster] = 0.5 + (0.4 * (scores[cluster] / cluster_weight))
             elif cluster_weight > 2 and cluster_weight <= 5:
                 result_df.at[location, cluster] = 0.5 + (0.45 * (scores[cluster] / cluster_weight))
@@ -65,16 +67,24 @@ def recommend_system(text):
     # print("Hi")
     if "Việt Nam" not in text:
         text = text + " tại Việt Nam."
-    dicts_sentiment, _, _, _ = TextEntities_Score(text,True)
-    list_proper_noun_feature = [word['wordForm'] for word in annotate_text(text) if word['nerLabel'] in ['B-LOC']]
-    if "Hồ Chí Minh" in list_proper_noun_feature:
+    # dicts_sentiment, _, _, _ = TextEntities_Score(text,True)
+    list_entity = TextEntities_recommend(text)
+    list_proper_noun_feature = [word['wordForm'] for word in annotate_text(text) if word['nerLabel'] in ['B-LOC', 'B-PER']]
+    if "Hồ Chí Minh" in list_proper_noun_feature or "Sài Gòn" in list_proper_noun_feature:
         list_proper_noun_feature.append("Ho Chi Minh City")
+        if "Hồ Chí Minh" in list_proper_noun_feature:
+            list_proper_noun_feature.remove("Hồ Chí Minh")
+        if "Sài Gòn" in list_proper_noun_feature:
+            list_proper_noun_feature.remove("Sài Gòn")
+
     # new_contentbase_df = get_new_contentbase_df()
     # print(dicts_sentiment)
-    # print(list_proper_noun_feature)
+    print(list_proper_noun_feature)
+    print(list_entity)
     # conduct_content_base(dicts_sentiment, list_proper_noun_feature)
     
-    return conduct_content_base(dicts_sentiment, list_proper_noun_feature)
+    # return conduct_content_base(dicts_sentiment, list_proper_noun_feature)
+    return conduct_content_base(list_entity, list_proper_noun_feature)
 
 # def find_cluster(cluster_dict, entity):
 #     entity = re.sub(r'[^a-zA-Z0-9\s]', '', entity).strip().lower()
@@ -109,7 +119,8 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
     with open('./vi_clusters.json', 'r', encoding='utf-8') as f:
         clusters_dict = json.load(f)
     
-    keys_list = list(dicts_sentiment.keys())
+    # keys_list = list(dicts_sentiment.keys())
+    keys_list = dicts_sentiment
     storage_key_list = []
 
     # print(keys_list)

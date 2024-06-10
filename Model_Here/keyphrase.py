@@ -8,7 +8,7 @@ import joblib
 # import preprocess
 import os
 import numpy as np
-from Model_Here.score_extract import get_sentence_score_and_info, combine_dicts
+from Model_Here.score_extract import get_sentence_score_and_info, combine_dicts, get_features, classify_words_list
 #pip scikit-learn
 
 def base_model_path():
@@ -277,6 +277,11 @@ def TextEntities_Score(text,flag = False):
 
     return dicts_sentiment, dicts_adj_feature, list_noun_feature, list_proper_noun_feature
 
+def TextEntities_recommend(text):
+    sentence_text, reversed_tokens, reversed_tags = entitesExtraction(text)
+    features = get_features(sentence_text, reversed_tokens, reversed_tags)
+    list_noun_feature = classify_words_list(features)[0]
+    return list_noun_feature
 
 # text = "Cho tôi 1 địa điểm du lịch với công viên nước, các con vật, thiên nhiên mát mẻ. Đặc biệt là chó, con trai tôi rất thích chó. Và ở gần đó tôi muốn có cả những khách sạn chuẩn 5 sao, tiện nghi, sang trọng để gia đình tôi có thể có trải nghiệm tốt nhất trong thời gian tại Việt Nam."
 # print(entitesExtraction(text))
