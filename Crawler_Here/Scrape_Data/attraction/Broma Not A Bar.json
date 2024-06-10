@@ -105,7 +105,154 @@
             "https://www.tripadvisor.com/Attraction_Review-g4971761-d13376318-Reviews-Damajagua_Waterfalls-Imbert_Puerto_Plata_Province_Dominican_Republic.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or10-Broma_Not_A_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-Broma_Not_A_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-Broma_Not_A_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.4003757659562065,
+            "sân thượng": 0.9911462418967858,
+            "đồ uống ngon": 0.9955663650180213,
+            "ban nhạc sống sôi": 0.9954024602775462,
+            "giá đồ uống": 0.991497591487132,
+            "quán bar": 0.8014714872464538,
+            "chuyến đi bộ": 0.974986236775294,
+            "vị trí": 0.995448045199737,
+            "loại cocktail": 0.9462559609673917,
+            "loại cocktail ngon": 0.9950747656985186,
+            "loại": 0.9869891502894461,
+            "bia thủ công": 0.9700462874025106,
+            "tầm nhìn": 0.7655512268247548,
+            "bầu không khí": -0.3265263633802533,
+            "dịch vụ": -0.2926994767040014,
+            "âm nhạc": 0.6324979686469305,
+            "phố đi bộ": -0.896092573646456,
+            "đồ uống": 0.9548591669590678,
+            "giá cả": 0.5,
+            "đồ ăn": -0.9557546272408217,
+            "cocktail": 0.995554386288859,
+            "đường phố": 0.9955524777178653,
+            "sân": -0.22912859061034396,
+            "trang phục": 0.5134870130568743
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "đẹp",
+                "thô",
+                "kiên quyết",
+                "sớm",
+                "hơn",
+                "nhiều",
+                "tốt",
+                "vội vàng"
+            ],
+            "sân thượng": [],
+            "đồ uống ngon": [
+                "sôi nổi"
+            ],
+            "ban nhạc sống sôi": [
+                "sôi nổi"
+            ],
+            "giá đồ uống": [
+                "rẻ",
+                "hơn"
+            ],
+            "quán bar": [
+                "thú vị",
+                "tốt",
+                "duy nhất",
+                "vui",
+                "lâu đời",
+                "tốt"
+            ],
+            "chuyến đi bộ": [],
+            "vị trí": [
+                "tốt"
+            ],
+            "loại cocktail": [
+                "hợp lý",
+                "đắt"
+            ],
+            "loại cocktail ngon": [
+                "tốt"
+            ],
+            "loại": [
+                "tốt"
+            ],
+            "bia thủ công": [
+                "tốt"
+            ],
+            "tầm nhìn": [
+                "tuyệt vời",
+                "cùng",
+                "đẹp",
+                "tốt"
+            ],
+            "bầu không khí": [
+                "tốt",
+                "tuyệt"
+            ],
+            "dịch vụ": [
+                "chậm",
+                "tốt",
+                "tốt"
+            ],
+            "âm nhạc": [
+                "ổn",
+                "ồn ào",
+                "đặc biệt",
+                "đàng hoàng",
+                "ồn ào",
+                "khó"
+            ],
+            "phố đi bộ": [
+                "nổi tiếng"
+            ],
+            "đồ uống": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt",
+                "ngon"
+            ],
+            "giá cả": [],
+            "đồ ăn": [],
+            "cocktail": [
+                "tuyệt"
+            ],
+            "đường phố": [
+                "tuyệt vời"
+            ],
+            "sân": [
+                "ồn ào",
+                "khó"
+            ],
+            "trang phục": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 3.5,
+            "sân thượng": 1,
+            "đồ uống ngon": 1,
+            "ban nhạc sống sôi": 1,
+            "giá đồ uống": 1,
+            "quán bar": 2.5,
+            "chuyến đi bộ": 1,
+            "vị trí": 1,
+            "loại cocktail": 1,
+            "loại cocktail ngon": 1,
+            "loại": 1,
+            "bia thủ công": 1,
+            "tầm nhìn": 1.5,
+            "bầu không khí": 1.5,
+            "dịch vụ": 1.5,
+            "âm nhạc": 2.0,
+            "phố đi bộ": 0.5,
+            "đồ uống": 1.5,
+            "giá cả": 0.5,
+            "đồ ăn": 0.5,
+            "cocktail": 0.5,
+            "đường phố": 0.5,
+            "sân": 0.5,
+            "trang phục": 0.5
+        }
     },
     {
         "attraction_name": "Broma Not A Bar",
@@ -212,7 +359,175 @@
             "https://www.tripadvisor.com/Attraction_Review-g60978-d108365-Reviews-Thames_Street-Newport_Rhode_Island.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or20-Broma_Not_A_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or10-Broma_Not_A_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or10-Broma_Not_A_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chơi nhạc": 0.9893114864826202,
+            "đồ uống": 0.4023105100786779,
+            "vị trí": 0.5223107715137303,
+            "hành lang": 0.9297144748270512,
+            "tòa nhà": 0.7600545240566134,
+            "quán bar": 0.3723801281070337,
+            "bãi đỗ xe": 0.5,
+            "của thổ dân": 0.9902204812970012,
+            "ban nhạc dj": 0.995587695913855,
+            "giá cả": 0.9587011463008821,
+            "không khí": -0.2330200142847995,
+            "decor view": 0.9956190418452024,
+            "địa điểm": 0.5,
+            "ẩm thực": 0.5,
+            "trạm lừa đảo": -0.9748099998105317,
+            "bữa tiệc": 0.9766464235726744,
+            "nhân viên pha chế": 0.5,
+            "quầy bar": 0.9931358430185355,
+            "nhân viên": 0.3766061630740296,
+            "nhân viên pha chế hướng dẫn": -0.5942781791090965,
+            "tầm nhìn": 0.9482613607542589,
+            "dịch vụ": 0.9935389497841243,
+            "không gian": 0.5649485047906637,
+            "cầu thang": 0.962483017006889,
+            "tầng thượng": 0.9931253837421536,
+            "loại cocktail": 0.5654233498498797,
+            "nhân viên cấp": 0.9641949962824583,
+            "loại": 0.5,
+            "bia ngon": 0.5,
+            "ly đồ uống": 0.5,
+            "bầu không khí": -0.9181831954047084,
+            "thuốc bổ": -0.3957339935004711,
+            "sân": 0.9955165473511443
+        },
+        "dicts_adj": {
+            "chơi nhạc": [
+                "tuyệt vời",
+                "đủ",
+                "lớn",
+                "đủ"
+            ],
+            "đồ uống": [
+                "đắt",
+                "xứng đáng",
+                "vui vẻ",
+                "đặc biệt"
+            ],
+            "vị trí": [],
+            "hành lang": [
+                "huyền ảo"
+            ],
+            "tòa nhà": [
+                "nhiều"
+            ],
+            "quán bar": [
+                "khác",
+                "cẩn thận",
+                "phải",
+                "tuyệt đẹp",
+                "sang trọng",
+                "ấm cúng",
+                "dễ",
+                "bình thường",
+                "nhiều"
+            ],
+            "bãi đỗ xe": [],
+            "của thổ dân": [
+                "Mát mẻ"
+            ],
+            "ban nhạc dj": [
+                "chill"
+            ],
+            "giá cả": [
+                "đắt"
+            ],
+            "không khí": [
+                "hài lòng",
+                "thú vị"
+            ],
+            "decor view": [
+                "đẹp"
+            ],
+            "địa điểm": [],
+            "ẩm thực": [],
+            "trạm lừa đảo": [],
+            "bữa tiệc": [],
+            "nhân viên pha chế": [],
+            "quầy bar": [
+                "mát mẻ",
+                "ngon",
+                "hơn",
+                "nhiều"
+            ],
+            "nhân viên": [
+                "thực sự",
+                "giỏi",
+                "lịch sự"
+            ],
+            "nhân viên pha chế hướng dẫn": [],
+            "tầm nhìn": [
+                "tốt",
+                "tuyệt đẹp",
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "không gian": [
+                "ổn",
+                "nhiều",
+                "hơn"
+            ],
+            "cầu thang": [],
+            "tầng thượng": [],
+            "loại cocktail": [
+                "thông thường"
+            ],
+            "nhân viên cấp": [],
+            "loại": [],
+            "bia ngon": [],
+            "ly đồ uống": [],
+            "bầu không khí": [],
+            "thuốc bổ": [
+                "trung bình"
+            ],
+            "sân": [
+                "đẹp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chơi nhạc": 0.5,
+            "đồ uống": 2.0,
+            "vị trí": 1.0,
+            "hành lang": 0.5,
+            "tòa nhà": 0.5,
+            "quán bar": 2.5,
+            "bãi đỗ xe": 0.5,
+            "của thổ dân": 0.5,
+            "ban nhạc dj": 0.5,
+            "giá cả": 0.5,
+            "không khí": 1.5,
+            "decor view": 0.5,
+            "địa điểm": 0.5,
+            "ẩm thực": 0.5,
+            "trạm lừa đảo": 0.5,
+            "bữa tiệc": 0.5,
+            "nhân viên pha chế": 1.0,
+            "quầy bar": 1.0,
+            "nhân viên": 2.0,
+            "nhân viên pha chế hướng dẫn": 0.5,
+            "tầm nhìn": 1.5,
+            "dịch vụ": 1.0,
+            "không gian": 1.0,
+            "cầu thang": 0.5,
+            "tầng thượng": 0.5,
+            "loại cocktail": 0.5,
+            "nhân viên cấp": 0.5,
+            "loại": 0.5,
+            "bia ngon": 0.5,
+            "ly đồ uống": 0.5,
+            "bầu không khí": 0.5,
+            "thuốc bổ": 0.5,
+            "sân": 0.5
+        }
     },
     {
         "attraction_name": "Broma Not A Bar",
@@ -322,7 +637,206 @@
             "https://www.tripadvisor.com/Attraction_Review-g295414-d23781494-Reviews-Wild_Venture_Water_Park_Resort-Karachi_Sindh_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or30-Broma_Not_A_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or20-Broma_Not_A_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or20-Broma_Not_A_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quầy bar": 0.8672516467049718,
+            "vị trí": 0.7314833803102374,
+            "đồ uống": 0.42455930947520154,
+            "quán bar": 0.5570181521276633,
+            "ly cocktail": -0.20917962968815118,
+            "pha chế": 0.15764717167864242,
+            "đồ": -0.7130586570128798,
+            "cốc": -0.9226779881864786,
+            "chương trình truyền hình": 0.5,
+            "quán rượu": 0.6155419200658798,
+            "không khí": -0.9370632087811828,
+            "chuyến đi": 0.5,
+            "biển báo": 0.49127127043902874,
+            "rung cảm mát mẻ": 0.8737691454589367,
+            "tầm nhìn": 0.9474838400055887,
+            "người dân": 0.5,
+            "giá cả": 0.9820483989315107,
+            "thức ăn": 0.5,
+            "đậu phộng": 0.5,
+            "loại cocktail": 0.9954383625881746,
+            "tầng": 0.9953475228976458,
+            "cầu thang": 0.4145324153942056,
+            "quảng trường": 0.9954382113646716,
+            "loại": 0.5,
+            "bia thủ công": 0.5,
+            "dịch vụ": -0.18265603319741786,
+            "nhân viên": -0.9643128528259695,
+            "cốc bia": 0.4298901632428169,
+            "bầu": 0.9953720710473135,
+            "chơi nhạc điện tử": 0.5802529277279973,
+            "tòa nhà": 0.007379267364740372,
+            "tầng mái": 0.5,
+            "vị trí trung tâm": 0.9900311267119832,
+            "âm nhạc": 0.7660652250051498
+        },
+        "dicts_adj": {
+            "quầy bar": [
+                "đẹp",
+                "đẹp",
+                "vui vẻ",
+                "hơn",
+                "dễ chịu"
+            ],
+            "vị trí": [
+                "đẹp",
+                "hơn"
+            ],
+            "đồ uống": [
+                "ngon bạn",
+                "mạnh",
+                "cao",
+                "hơn",
+                "thân mật",
+                "hơn",
+                "đắt"
+            ],
+            "quán bar": [
+                "nhỏ",
+                "thượng"
+            ],
+            "ly cocktail": [
+                "cao",
+                "hơn",
+                "đủ",
+                "may mắn"
+            ],
+            "pha chế": [
+                "vui vẻ",
+                "hơn",
+                "chuyên nghiệp"
+            ],
+            "đồ": [
+                "chuyên nghiệp"
+            ],
+            "cốc": [
+                "chuyên nghiệp"
+            ],
+            "chương trình truyền hình": [],
+            "quán rượu": [
+                "whisky",
+                "whisky"
+            ],
+            "không khí": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "chuyến đi": [],
+            "biển báo": [
+                "whisky"
+            ],
+            "rung cảm mát mẻ": [
+                "đẹp",
+                "hoàn toàn"
+            ],
+            "tầm nhìn": [
+                "đẹp",
+                "hoàn toàn",
+                "ngẫu nhiên",
+                "thực sự",
+                "thượng đẹp"
+            ],
+            "người dân": [],
+            "giá cả": [],
+            "thức ăn": [],
+            "đậu phộng": [],
+            "loại cocktail": [
+                "ngon"
+            ],
+            "tầng": [
+                "tuyệt vời"
+            ],
+            "cầu thang": [
+                "tuyệt vời",
+                "hẹp"
+            ],
+            "quảng trường": [
+                "tuyệt vời"
+            ],
+            "loại": [],
+            "bia thủ công": [],
+            "dịch vụ": [
+                "may",
+                "tồi tệ",
+                "tốt",
+                "hơn"
+            ],
+            "nhân viên": [
+                "Đúng",
+                "hơn"
+            ],
+            "cốc bia": [
+                "nhiều"
+            ],
+            "bầu": [
+                "tuyệt vời"
+            ],
+            "chơi nhạc điện tử": [
+                "ồn ào"
+            ],
+            "tòa nhà": [
+                "cũ"
+            ],
+            "tầng mái": [],
+            "vị trí trung tâm": [
+                "đủ",
+                "may mắn"
+            ],
+            "âm nhạc": [
+                "Jazz tối",
+                "ngon",
+                "nền tảng",
+                "Âm nhạc",
+                "ồn ào",
+                "khó",
+                "cùng",
+                "cao",
+                "hơn",
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quầy bar": 1.5,
+            "vị trí": 0.5,
+            "đồ uống": 2.5,
+            "quán bar": 1.5,
+            "ly cocktail": 1.0,
+            "pha chế": 0.5,
+            "đồ": 0.5,
+            "cốc": 0.5,
+            "chương trình truyền hình": 0.5,
+            "quán rượu": 1.0,
+            "không khí": 1.0,
+            "chuyến đi": 0.5,
+            "biển báo": 0.5,
+            "rung cảm mát mẻ": 0.5,
+            "tầm nhìn": 1.0,
+            "người dân": 0.5,
+            "giá cả": 0.5,
+            "thức ăn": 0.5,
+            "đậu phộng": 0.5,
+            "loại cocktail": 0.5,
+            "tầng": 0.5,
+            "cầu thang": 1.0,
+            "quảng trường": 0.5,
+            "loại": 0.5,
+            "bia thủ công": 0.5,
+            "dịch vụ": 0.5,
+            "nhân viên": 0.5,
+            "cốc bia": 0.5,
+            "bầu": 0.5,
+            "chơi nhạc điện tử": 0.5,
+            "tòa nhà": 0.5,
+            "tầng mái": 0.5,
+            "vị trí trung tâm": 0.5,
+            "âm nhạc": 0.5
+        }
     },
     {
         "attraction_name": "Broma Not A Bar",
@@ -440,7 +954,108 @@
             "https://www.tripadvisor.com/Attraction_Review-g189852-d244309-Reviews-Nordiska_Museet-Stockholm.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or40-Broma_Not_A_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or30-Broma_Not_A_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or30-Broma_Not_A_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "độ dịch vụ": 0.5544544896110892,
+            "tầm nhìn": 0.995506353356177,
+            "dịch vụ": 0.9826656277291477,
+            "đồ uống": 0.9913153387024067,
+            "tầng": 0.5,
+            "cầu thang": 0.5,
+            "loại cocktail": 0.74401075032074,
+            "quán bar": 0.6400974541757023,
+            "chỗ ngồi": 0.541536089964211,
+            "sân thượng": 0.7603507228486706,
+            "giá cả": 0.8737691454589367,
+            "nhân viên": 0.9938453129143454,
+            "âm nhạc": 0.9955761801102199,
+            "không khí": -0.9739895372185856,
+            "chuyến đi": -0.9612310701049864,
+            "đó uống nước": 0.5,
+            "giai điệu": 0.5,
+            "loại bia": 0.9928464902332053,
+            "phố đi bộ": 0.9529900215566158
+        },
+        "dicts_adj": {
+            "độ dịch vụ": [
+                "nhiều",
+                "tương tự"
+            ],
+            "tầm nhìn": [
+                "tuyệt vời",
+                "ngon",
+                "chắc chắn",
+                "đẹp"
+            ],
+            "dịch vụ": [
+                "nhanh chóng"
+            ],
+            "đồ uống": [
+                "tuyệt vời"
+            ],
+            "tầng": [],
+            "cầu thang": [],
+            "loại cocktail": [
+                "chắc chắn"
+            ],
+            "quán bar": [
+                "cao",
+                "tuyệt"
+            ],
+            "chỗ ngồi": [],
+            "sân thượng": [
+                "đông đúc",
+                "cao"
+            ],
+            "giá cả": [
+                "lịch sự"
+            ],
+            "nhân viên": [
+                "lịch sự"
+            ],
+            "âm nhạc": [
+                "tuyệt"
+            ],
+            "không khí": [
+                "tuyệt"
+            ],
+            "chuyến đi": [
+                "khác"
+            ],
+            "đó uống nước": [],
+            "giai điệu": [],
+            "loại bia": [
+                "tốt"
+            ],
+            "phố đi bộ": [
+                "tuyệt vời",
+                "nguy hiểm",
+                "sầm uất"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "độ dịch vụ": 0.5,
+            "tầm nhìn": 1.0,
+            "dịch vụ": 0.5,
+            "đồ uống": 1.0,
+            "tầng": 0.5,
+            "cầu thang": 0.5,
+            "loại cocktail": 1.0,
+            "quán bar": 1.0,
+            "chỗ ngồi": 0.5,
+            "sân thượng": 1.0,
+            "giá cả": 0.5,
+            "nhân viên": 0.5,
+            "âm nhạc": 0.5,
+            "không khí": 0.5,
+            "chuyến đi": 0.5,
+            "đó uống nước": 0.5,
+            "giai điệu": 0.5,
+            "loại bia": 0.5,
+            "phố đi bộ": 0.5
+        }
     },
     {
         "attraction_name": "Broma Not A Bar",
@@ -550,7 +1165,153 @@
             "https://www.tripadvisor.com/Attraction_Review-g1190300-d16813900-Reviews-Rent_a_Quad_Vrboska_Starigrad-Vrboska_Jelsa_Hvar_Island_Split_Dalmatia_County_D.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or50-Broma_Not_A_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or40-Broma_Not_A_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or40-Broma_Not_A_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tầng": 0.8737691454589367,
+            "âm nhạc": 0.8769489945698297,
+            "người pha chế": 0.7470366403867956,
+            "đồ uống": 0.11828046534210443,
+            "quán bar": 0.1678343042731285,
+            "cầu thang": 0.5238158144056797,
+            "chỗ ngồi": 0.5376839358359575,
+            "dịch vụ": 0.2977282328065485,
+            "khung cảnh": 0.013980736344819888,
+            "tòa nhà": 0.5,
+            "loại cocktail": 0.9952036922040861,
+            "bầu không khí ấm": 0.5,
+            "thức ăn": 0.6189810149371624,
+            "bữa": 0.5,
+            "thị trấn": 0.9936628568684682,
+            "đường phố": 0.5070602297782898,
+            "người phục vụ": 0.522116313688457,
+            "thái độ": -0.9699219092726707,
+            "hóa đơn": -0.9438648521900177,
+            "vị trí trang trí": 0.994465874042362,
+            "ban nhạc sống": 0.9919730009278283,
+            "bản nhạc": 0.9296556430635974,
+            "ly rượu": 0.9130956317530945,
+            "trải nghiệm": 0.8710350878536701
+        },
+        "dicts_adj": {
+            "tầng": [
+                "tuyệt vời"
+            ],
+            "âm nhạc": [
+                "tuyệt vời",
+                "hay",
+                "ồn ào",
+                "to",
+                "khác"
+            ],
+            "người pha chế": [
+                "thực sự",
+                "tốt bụng"
+            ],
+            "đồ uống": [
+                "ngon",
+                "cao",
+                "đắt",
+                "khác",
+                "cao",
+                "nhất",
+                "lạnh",
+                "ổn"
+            ],
+            "quán bar": [
+                "dễ dàng"
+            ],
+            "cầu thang": [
+                "hẹp"
+            ],
+            "chỗ ngồi": [
+                "nhiều",
+                "hơn",
+                "đầy"
+            ],
+            "dịch vụ": [
+                "ổn",
+                "tốt"
+            ],
+            "khung cảnh": [
+                "tuyệt vời",
+                "phải"
+            ],
+            "tòa nhà": [],
+            "loại cocktail": [
+                "tuyệt vời",
+                "mạnh"
+            ],
+            "bầu không khí ấm": [],
+            "thức ăn": [
+                "tốt"
+            ],
+            "bữa": [],
+            "thị trấn": [
+                "tuyệt vời"
+            ],
+            "đường phố": [],
+            "người phục vụ": [],
+            "thái độ": [
+                "xấu"
+            ],
+            "hóa đơn": [
+                "xa",
+                "xa"
+            ],
+            "vị trí trang trí": [
+                "duy nhất",
+                "đơn giản"
+            ],
+            "ban nhạc sống": [
+                "tuyệt vời",
+                "thực sự",
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "bản nhạc": [
+                "tuyệt vời",
+                "thực sự",
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "ly rượu": [
+                "nhiều",
+                "nhiều",
+                "hơn"
+            ],
+            "trải nghiệm": [
+                "tốt",
+                "hơn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tầng": 0.5,
+            "âm nhạc": 2.0,
+            "người pha chế": 0.5,
+            "đồ uống": 2.5,
+            "quán bar": 1.5,
+            "cầu thang": 0.5,
+            "chỗ ngồi": 0.5,
+            "dịch vụ": 1.5,
+            "khung cảnh": 0.5,
+            "tòa nhà": 0.5,
+            "loại cocktail": 0.5,
+            "bầu không khí ấm": 0.5,
+            "thức ăn": 0.5,
+            "bữa": 0.5,
+            "thị trấn": 0.5,
+            "đường phố": 0.5,
+            "người phục vụ": 0.5,
+            "thái độ": 0.5,
+            "hóa đơn": 0.5,
+            "vị trí trang trí": 0.5,
+            "ban nhạc sống": 0.5,
+            "bản nhạc": 0.5,
+            "ly rượu": 0.5,
+            "trải nghiệm": 0.5
+        }
     },
     {
         "attraction_name": "Broma Not A Bar",
@@ -663,7 +1424,163 @@
             "https://www.tripadvisor.com/Attraction_Review-g312804-d2037770-Reviews-Iguazu_Falls-Iguazu_National_Park_Province_of_Misiones_Litoral.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or60-Broma_Not_A_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or50-Broma_Not_A_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or50-Broma_Not_A_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": -0.06773711907278214,
+            "quán bar": 0.9295098378061084,
+            "sân": 0.11541634920286015,
+            "tòa nhà": 0.2536896336823702,
+            "sân thượng": -0.801670016720891,
+            "dịch vụ": 0.013016568613238633,
+            "điện": 0.5095220562070608,
+            "không khí thư giãn": -0.11341348197311163,
+            "không khí": -0.9611035317648202,
+            "hàng cocktail": 0.6686173565685749,
+            "chất độc": -0.6790559573564678,
+            "loại cocktail": 0.916491988231428,
+            "trải nghiệm": -0.9735385517124087,
+            "đồ uống": 0.6196001579519361,
+            "ly cocktail": 0.9906770616071299,
+            "sân khấu": 0.608875771984458,
+            "đoàn": 0.5,
+            "làm phim": 0.5,
+            "máy quay": -0.9593878421001136,
+            "tầm": 0.5,
+            "đoàn làm phim": 0.3822796456515789,
+            "cốc bia": 0.55061343498528,
+            "đĩa phô": -0.9687586458749138,
+            "tầm nhìn": 0.74763982850709,
+            "phố đi bộ": 0.747637022199342,
+            "bầu không khí": 0.8737691454589367,
+            "giá cả": 0.9529069985728711,
+            "quầy bar": 0.8737691454589367,
+            "trung tâm": 0.5,
+            "tòa tháp bitexco": 0.5
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "dễ thương",
+                "ổn",
+                "hơn",
+                "nhiều",
+                "tốt đẹp",
+                "nghiêm túc",
+                "bế tắc",
+                "nghiêm khắc",
+                "sai lệch",
+                "tốt"
+            ],
+            "quán bar": [
+                "nhỏ",
+                "thuận tiện",
+                "đẹp"
+            ],
+            "sân": [
+                "cũ",
+                "tuyệt vời"
+            ],
+            "tòa nhà": [
+                "cũ"
+            ],
+            "sân thượng": [
+                "nhỏ"
+            ],
+            "dịch vụ": [
+                "nhiều",
+                "tốt",
+                "hơn"
+            ],
+            "điện": [
+                "hơn"
+            ],
+            "không khí thư giãn": [
+                "tuyệt vời",
+                "hợp lý"
+            ],
+            "không khí": [
+                "trong lành"
+            ],
+            "hàng cocktail": [],
+            "chất độc": [],
+            "loại cocktail": [
+                "hoàn toàn",
+                "giống"
+            ],
+            "trải nghiệm": [
+                "vui"
+            ],
+            "đồ uống": [
+                "khác",
+                "tuyệt",
+                "đắt"
+            ],
+            "ly cocktail": [],
+            "sân khấu": [],
+            "đoàn": [],
+            "làm phim": [],
+            "máy quay": [],
+            "tầm": [],
+            "đoàn làm phim": [],
+            "cốc bia": [
+                "khác"
+            ],
+            "đĩa phô": [
+                "nhiều",
+                "mai tệ"
+            ],
+            "tầm nhìn": [
+                "đẹp"
+            ],
+            "phố đi bộ": [
+                "tuyệt vời"
+            ],
+            "bầu không khí": [
+                "thực sự",
+                "tốt"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "quầy bar": [
+                "tuyệt vời"
+            ],
+            "trung tâm": [],
+            "tòa tháp bitexco": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 3.5,
+            "quán bar": 2.0,
+            "sân": 1.0,
+            "tòa nhà": 1.0,
+            "sân thượng": 0.5,
+            "dịch vụ": 1.0,
+            "điện": 0.5,
+            "không khí thư giãn": 0.5,
+            "không khí": 0.5,
+            "hàng cocktail": 0.5,
+            "chất độc": 0.5,
+            "loại cocktail": 1.0,
+            "trải nghiệm": 0.5,
+            "đồ uống": 2.0,
+            "ly cocktail": 0.5,
+            "sân khấu": 0.5,
+            "đoàn": 0.5,
+            "làm phim": 0.5,
+            "máy quay": 0.5,
+            "tầm": 0.5,
+            "đoàn làm phim": 0.5,
+            "cốc bia": 0.5,
+            "đĩa phô": 0.5,
+            "tầm nhìn": 1.0,
+            "phố đi bộ": 1.0,
+            "bầu không khí": 0.5,
+            "giá cả": 0.5,
+            "quầy bar": 0.5,
+            "trung tâm": 0.5,
+            "tòa tháp bitexco": 0.5
+        }
     },
     {
         "attraction_name": "Broma Not A Bar",
@@ -771,7 +1688,213 @@
             "https://www.tripadvisor.com/Attraction_Review-g52024-d532090-Reviews-Forest_Park-Portland_Oregon.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or70-Broma_Not_A_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or60-Broma_Not_A_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or60-Broma_Not_A_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "âm nhạc": 0.4119620317942463,
+            "đồ uống": 0.8157971905554101,
+            "giá bia": 0.977751977276057,
+            "ly cocktail": 0.9830866254051216,
+            "tòa nhà": 0.9440681031846907,
+            "nhân viên": 0.7475361036340473,
+            "địa điểm": 0.9955477874609642,
+            "nhà vệ sinh": 0.5180267686955631,
+            "quán bar": 0.5717764823283586,
+            "chuyến thăm": 0.9429343775846064,
+            "vị trí": 0.995557049580384,
+            "bia cocktail": 0.5,
+            "đồ ăn": 0.12345690419897437,
+            "thanh bầu trời": 0.29637471586465836,
+            "tầm nhìn": 0.05333393011824228,
+            "khu": 0.6387075856328011,
+            "đồ": 0.9824818961787969,
+            "câu": 0.9912756134290248,
+            "lạc bộ bia": -0.96609873813577,
+            "dịch vụ": 0.5066799083724618,
+            "ngắm cảnh": 0.5,
+            "nghe nhạc": 0.5,
+            "môi trường": 0.9954373430227861,
+            "ngôi nhà": 0.9954331593471579,
+            "sống động": -0.9630463633220643,
+            "phố đi": 0.5590107254683971,
+            "dãy": -0.19566472619771957,
+            "cầu thang": -0.22629860416054726,
+            "cocktail": 0.5,
+            "bia đóng chai": 0.5,
+            "thực đơn": 0.5,
+            "món pizza ngon": 0.5,
+            "đám đông": 0.7283702557906508,
+            "đường chân trời": 0.9950714758597314,
+            "bản nhạc": 0.5288368333131075,
+            "tâm trạng": 0.5121831148862839,
+            "sân thượng": -0.14804883301258087
+        },
+        "dicts_adj": {
+            "âm nhạc": [
+                "hay",
+                "thú vị",
+                "giống",
+                "hài lòng",
+                "đông",
+                "hay",
+                "hay"
+            ],
+            "đồ uống": [
+                "rẻ",
+                "hơn",
+                "khoảng",
+                "đắt",
+                "hơn",
+                "tệ",
+                "ngon",
+                "tốt"
+            ],
+            "giá bia": [
+                "tốt"
+            ],
+            "ly cocktail": [
+                "thực sự",
+                "thú vị"
+            ],
+            "tòa nhà": [
+                "thực sự",
+                "thú vị",
+                "lớn",
+                "tràn ngập"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "hữu ích"
+            ],
+            "địa điểm": [
+                "đẹp"
+            ],
+            "nhà vệ sinh": [
+                "đông đúc",
+                "lớn"
+            ],
+            "quán bar": [
+                "đông đúc",
+                "lớn",
+                "Thực sự",
+                "rẻ",
+                "hơn",
+                "khác"
+            ],
+            "chuyến thăm": [],
+            "vị trí": [
+                "tuyệt vời"
+            ],
+            "bia cocktail": [],
+            "đồ ăn": [
+                "nhẹ"
+            ],
+            "thanh bầu trời": [
+                "tốt"
+            ],
+            "tầm nhìn": [
+                "tốt",
+                "đẹp",
+                "đủ",
+                "ồn ào",
+                "nhiều"
+            ],
+            "khu": [
+                "Thực sự"
+            ],
+            "đồ": [
+                "ấm cúng",
+                "nhỏ"
+            ],
+            "câu": [
+                "khác"
+            ],
+            "lạc bộ bia": [
+                "khác"
+            ],
+            "dịch vụ": [],
+            "ngắm cảnh": [],
+            "nghe nhạc": [],
+            "môi trường": [
+                "tuyệt vời",
+                "nhẹ",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "ngôi nhà": [
+                "ngon"
+            ],
+            "sống động": [],
+            "phố đi": [
+                "hẹp"
+            ],
+            "dãy": [
+                "hẹp"
+            ],
+            "cầu thang": [
+                "hẹp"
+            ],
+            "cocktail": [],
+            "bia đóng chai": [],
+            "thực đơn": [],
+            "món pizza ngon": [],
+            "đám đông": [
+                "trẻ",
+                "tốt"
+            ],
+            "đường chân trời": [
+                "đẹp"
+            ],
+            "bản nhạc": [
+                "ồn ào"
+            ],
+            "tâm trạng": [
+                "dễ chịu"
+            ],
+            "sân thượng": [
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "âm nhạc": 2.0,
+            "đồ uống": 2.0,
+            "giá bia": 0.5,
+            "ly cocktail": 0.5,
+            "tòa nhà": 1.0,
+            "nhân viên": 1.0,
+            "địa điểm": 0.5,
+            "nhà vệ sinh": 0.5,
+            "quán bar": 1.5,
+            "chuyến thăm": 0.5,
+            "vị trí": 0.5,
+            "bia cocktail": 0.5,
+            "đồ ăn": 1.0,
+            "thanh bầu trời": 0.5,
+            "tầm nhìn": 1.0,
+            "khu": 0.5,
+            "đồ": 0.5,
+            "câu": 0.5,
+            "lạc bộ bia": 0.5,
+            "dịch vụ": 1.0,
+            "ngắm cảnh": 0.5,
+            "nghe nhạc": 0.5,
+            "môi trường": 0.5,
+            "ngôi nhà": 0.5,
+            "sống động": 0.5,
+            "phố đi": 0.5,
+            "dãy": 0.5,
+            "cầu thang": 0.5,
+            "cocktail": 0.5,
+            "bia đóng chai": 0.5,
+            "thực đơn": 0.5,
+            "món pizza ngon": 0.5,
+            "đám đông": 0.5,
+            "đường chân trời": 0.5,
+            "bản nhạc": 0.5,
+            "tâm trạng": 0.5,
+            "sân thượng": 0.5
+        }
     },
     {
         "attraction_name": "Broma Not A Bar",
@@ -881,7 +2004,211 @@
             "https://www.tripadvisor.com/Attraction_Review-g42310-d3419698-Reviews-Tunnel_Park-Holland_Ottawa_County_Michigan.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or80-Broma_Not_A_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or70-Broma_Not_A_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or70-Broma_Not_A_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quầy bar": 0.8737691454589367,
+            "trung tâm hồ chí minh": 0.8737691454589367,
+            "cảm giác": 0.5,
+            "nhân viên": 0.7468218391877599,
+            "đồ uống": 0.44192607409786433,
+            "ly cocktail": 0.5,
+            "hạt quất cắm": 0.5,
+            "hua thì ngon": 0.676233671605587,
+            "đơn cocktail": 0.9953970578499138,
+            "thị trấn": 0.9927733240183443,
+            "vị trí": 0.9504712263199812,
+            "bản nhạc": 0.5,
+            "đồ ăn": 0.8236764785542618,
+            "cái bụng": -0.31241914443671703,
+            "tòa nhà": 0.9595246424432844,
+            "âm nhạc": 0.7155121741816401,
+            "giày cao": 0.5,
+            "hở hang": 0.5,
+            "buổi biểu diễn": 0.5,
+            "không gian": 0.5,
+            "khu sầm": 0.5,
+            "cầu thang": 0.4669151306152344,
+            "loại bia": 0.9157014228403568,
+            "hóa đơn": 0.9915509906131774,
+            "chỗ ngồi": 0.23462212644517422,
+            "mái che": 0.500808522105217,
+            "khung cảnh": 0.9954613519366831,
+            "bầu không khí": 0.9600798729807138,
+            "đám đông": 0.9857717857230455,
+            "bia lạnh": 0.9950263138744049,
+            "ngắm cảnh": 0.9921414818381891,
+            "quán bar": 0.9925470586167648,
+            "đỉnh mái": 0.8737691454589367,
+            "tầm nhìn": 0.9954608453554101,
+            "thức ăn": -0.04951507376972586,
+            "đậu phộng": 0.5,
+            "lộ": -0.9747659012209624,
+            "trung tâm": 0.9949979232624173,
+            "không khí": -0.9535068550612777
+        },
+        "dicts_adj": {
+            "quầy bar": [
+                "tuyệt vời"
+            ],
+            "trung tâm hồ chí minh": [
+                "tuyệt vời"
+            ],
+            "cảm giác": [],
+            "nhân viên": [
+                "sớm",
+                "duy nhất",
+                "tuyệt"
+            ],
+            "đồ uống": [
+                "tệ",
+                "tuyệt",
+                "thực sự"
+            ],
+            "ly cocktail": [],
+            "hạt quất cắm": [],
+            "hua thì ngon": [],
+            "đơn cocktail": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "thị trấn": [
+                "dễ dàng",
+                "lãng mạn",
+                "nhất",
+                "hay"
+            ],
+            "vị trí": [
+                "tuyệt vời",
+                "tốt",
+                "nhất",
+                "tuyệt vời"
+            ],
+            "bản nhạc": [],
+            "đồ ăn": [
+                "nhẹ",
+                "trống"
+            ],
+            "cái bụng": [
+                "trống"
+            ],
+            "tòa nhà": [
+                "nhỏ",
+                "xinh",
+                "gọn"
+            ],
+            "âm nhạc": [
+                "ồn ào",
+                "tối đa"
+            ],
+            "giày cao": [],
+            "hở hang": [],
+            "buổi biểu diễn": [],
+            "không gian": [],
+            "khu sầm": [],
+            "cầu thang": [
+                "hẹp",
+                "khó",
+                "chắc chắn",
+                "nhiều"
+            ],
+            "loại bia": [
+                "đắt"
+            ],
+            "hóa đơn": [
+                "đặc biệt",
+                "đắt"
+            ],
+            "chỗ ngồi": [
+                "cẩn thận",
+                "ướt"
+            ],
+            "mái che": [
+                "ướt"
+            ],
+            "khung cảnh": [
+                "tuyệt vời"
+            ],
+            "bầu không khí": [
+                "tuyệt vời"
+            ],
+            "đám đông": [
+                "sành điệu",
+                "thú vị",
+                "thường xuyên",
+                "rẻ"
+            ],
+            "bia lạnh": [
+                "đẹp"
+            ],
+            "ngắm cảnh": [
+                "đẹp"
+            ],
+            "quán bar": [],
+            "đỉnh mái": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "tầm nhìn": [
+                "tuyệt vời"
+            ],
+            "thức ăn": [
+                "duy nhất",
+                "lớn"
+            ],
+            "đậu phộng": [],
+            "lộ": [
+                "trong lành"
+            ],
+            "trung tâm": [
+                "trong lành"
+            ],
+            "không khí": [
+                "trong lành"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quầy bar": 0.5,
+            "trung tâm hồ chí minh": 0.5,
+            "cảm giác": 0.5,
+            "nhân viên": 1.0,
+            "đồ uống": 1.0,
+            "ly cocktail": 0.5,
+            "hạt quất cắm": 0.5,
+            "hua thì ngon": 0.5,
+            "đơn cocktail": 0.5,
+            "thị trấn": 1.0,
+            "vị trí": 1.5,
+            "bản nhạc": 0.5,
+            "đồ ăn": 0.5,
+            "cái bụng": 0.5,
+            "tòa nhà": 0.5,
+            "âm nhạc": 1.0,
+            "giày cao": 0.5,
+            "hở hang": 0.5,
+            "buổi biểu diễn": 0.5,
+            "không gian": 0.5,
+            "khu sầm": 0.5,
+            "cầu thang": 0.5,
+            "loại bia": 0.5,
+            "hóa đơn": 0.5,
+            "chỗ ngồi": 0.5,
+            "mái che": 0.5,
+            "khung cảnh": 0.5,
+            "bầu không khí": 0.5,
+            "đám đông": 0.5,
+            "bia lạnh": 0.5,
+            "ngắm cảnh": 0.5,
+            "quán bar": 0.5,
+            "đỉnh mái": 0.5,
+            "tầm nhìn": 0.5,
+            "thức ăn": 0.5,
+            "đậu phộng": 0.5,
+            "lộ": 0.5,
+            "trung tâm": 0.5,
+            "không khí": 0.5
+        }
     },
     {
         "attraction_name": "Broma Not A Bar",
@@ -994,7 +2321,139 @@
             "https://www.tripadvisor.com/Attraction_Review-g60754-d4761825-Reviews-Mayo_Beach-Wellfleet_Cape_Cod_Massachusetts.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or90-Broma_Not_A_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or80-Broma_Not_A_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or80-Broma_Not_A_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quán mở": -0.7350166141986847,
+            "quán bar": 0.9169516997977293,
+            "tầm nhìn": 0.9711330033955164,
+            "nhân viên": 0.826636636784921,
+            "tòa tháp bitexco": 0.9940631825011224,
+            "âm nhạc": 0.8737691454589367,
+            "loại cocktail": 0.5259134080260992,
+            "uống nước": 0.9797391463071108,
+            "bầu không khí": 0.5892607737332582,
+            "dịch vụ": 0.8737691454589367,
+            "đồ uống": -0.15481879135768395,
+            "giá cả": 0.9529069985728711,
+            "bức tường": 0.5549250971525908,
+            "loại bia": 0.4868941344320774,
+            "bia thủ công": 0.573051780462265,
+            "sân": 0.7436210234300233,
+            "tê tê": 0.8737691454589367,
+            "món ăn": 0.9946655759704299,
+            "nghệ": 0.8737691454589367,
+            "tầng": 0.9953458819072694,
+            "quảng trường": 0.5,
+            "nhân viên lịch sự": 0.974338426021859,
+            "đêm": 0.5258659571409225,
+            "ban nhạc": 0.9807519880123436
+        },
+        "dicts_adj": {
+            "quán mở": [],
+            "quán bar": [
+                "cuối cùng",
+                "đẹp",
+                "vui"
+            ],
+            "tầm nhìn": [
+                "đẹp",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "nhân viên": [
+                "tử tế",
+                "chu đáo"
+            ],
+            "tòa tháp bitexco": [
+                "đẹp"
+            ],
+            "âm nhạc": [
+                "hay"
+            ],
+            "loại cocktail": [],
+            "uống nước": [
+                "đầu tiên"
+            ],
+            "bầu không khí": [
+                "thực sự",
+                "tốt đẹp",
+                "độc đáo"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "đồ uống": [
+                "nhiều",
+                "hợp lý",
+                "đắt"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "bức tường": [
+                "dọc"
+            ],
+            "loại bia": [
+                "quốc tế"
+            ],
+            "bia thủ công": [
+                "chắc chắn"
+            ],
+            "sân": [],
+            "tê tê": [
+                "tuyệt vời"
+            ],
+            "món ăn": [
+                "chắc chắn"
+            ],
+            "nghệ": [
+                "sôi nổi",
+                "thoải mái"
+            ],
+            "tầng": [
+                "đẹp"
+            ],
+            "quảng trường": [],
+            "nhân viên lịch sự": [
+                "đặc biệt"
+            ],
+            "đêm": [
+                "nhiều"
+            ],
+            "ban nhạc": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quán mở": 0.5,
+            "quán bar": 3.5,
+            "tầm nhìn": 2.5,
+            "nhân viên": 1.5,
+            "tòa tháp bitexco": 0.5,
+            "âm nhạc": 0.5,
+            "loại cocktail": 0.5,
+            "uống nước": 0.5,
+            "bầu không khí": 1.0,
+            "dịch vụ": 0.5,
+            "đồ uống": 2.0,
+            "giá cả": 0.5,
+            "bức tường": 0.5,
+            "loại bia": 0.5,
+            "bia thủ công": 0.5,
+            "sân": 1.0,
+            "tê tê": 0.5,
+            "món ăn": 0.5,
+            "nghệ": 0.5,
+            "tầng": 0.5,
+            "quảng trường": 0.5,
+            "nhân viên lịch sự": 0.5,
+            "đêm": 0.5,
+            "ban nhạc": 0.5
+        }
     },
     {
         "attraction_name": "Broma Not A Bar",
@@ -1105,6 +2564,224 @@
             "https://www.tripadvisor.com/Attraction_Review-g8652730-d12295819-Reviews-Princess_Summer_Club_Mamaia-Mamaia_Constanta_Constanta_County_Southeast_Romania.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or100-Broma_Not_A_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or90-Broma_Not_A_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d3815598-Reviews-or90-Broma_Not_A_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quán bar": 0.4707046675030142,
+            "tầm nhìn": 0.04204141758964397,
+            "nhân viên": 0.6646769838601662,
+            "cocktail ngon": 0.8410349125042558,
+            "vị trí": 0.8354437660891563,
+            "sân thượng": 0.9933378717396408,
+            "cầu thang": 0.5853542301338166,
+            "bữa tiệc": 0.9317379454150796,
+            "không khí": -0.5628566755525147,
+            "ly cocktail": 0.5,
+            "tòa tháp": 0.5,
+            "đồ uống": 0.9633105390676064,
+            "loại cocktail": 0.8102572169736959,
+            "hương vị": 0.5,
+            "bầu": 0.5,
+            "không khí ấm áp": 0.5,
+            "phi hành đoàn": 0.5,
+            "bữa": 0.5,
+            "khách sạn": 0.46795455925166607,
+            "chế độ": 0.9926847441820428,
+            "mâm xôi phóng": -0.936233221553266,
+            "chỗ ngồi": 0.3288349359645508,
+            "vợ chồng": 0.9231556179001927,
+            "trải nghiệm": -0.961867592530325,
+            "quốc tịch": 0.5,
+            "khung cảnh": 0.8737691454589367,
+            "độ dịch vụ": 0.9954358965624124,
+            "nhà trọ": 0.9548863070085645,
+            "dịch vụ bàn": 0.9954528674134053,
+            "âm nhạc": 0.9955389077076688,
+            "bầu không khí": 0.9033991973847151,
+            "rung cảm": 0.5,
+            "không gian": 0.5,
+            "quang cảnh": 0.5,
+            "quán trà": 0.5751356156542897,
+            "bậc thang": -0.22529117204248905,
+            "phố đi bộ nguyễn": 0.9023483945056796,
+            "đồ uống ngon": 0.9915114006726071
+        },
+        "dicts_adj": {
+            "quán bar": [
+                "tuyệt vời",
+                "ấm",
+                "sang trọng",
+                "trung tâm",
+                "thực sự",
+                "đặc biệt",
+                "tuyệt vời"
+            ],
+            "tầm nhìn": [
+                "đẹp",
+                "đẹp"
+            ],
+            "nhân viên": [
+                "thoải mái",
+                "gọn gàng",
+                "chu đáo"
+            ],
+            "cocktail ngon": [
+                "nhạt"
+            ],
+            "vị trí": [
+                "trung tâm",
+                "đẹp",
+                "tuyệt vời",
+                "thực sự",
+                "nhỏ",
+                "lớn"
+            ],
+            "sân thượng": [
+                "trung tâm"
+            ],
+            "cầu thang": [
+                "hẹp",
+                "nhỏ",
+                "nhỏ"
+            ],
+            "bữa tiệc": [
+                "riêng tư"
+            ],
+            "không khí": [
+                "đông",
+                "hỗn tạp",
+                "cầu kỳ",
+                "thoải mái",
+                "lạnh",
+                "dễ chịu",
+                "nhanh"
+            ],
+            "ly cocktail": [],
+            "tòa tháp": [],
+            "đồ uống": [
+                "ngon",
+                "phải",
+                "rẻ",
+                "nhất",
+                "thú vị",
+                "nhanh chóng",
+                "ngon",
+                "tuyệt vời"
+            ],
+            "loại cocktail": [
+                "thú vị",
+                "ổn",
+                "tuyệt vời",
+                "cao",
+                "trung bình"
+            ],
+            "hương vị": [],
+            "bầu": [],
+            "không khí ấm áp": [],
+            "phi hành đoàn": [],
+            "bữa": [],
+            "khách sạn": [
+                "nhiều"
+            ],
+            "chế độ": [
+                "nhanh chóng"
+            ],
+            "mâm xôi phóng": [
+                "hoàn toàn"
+            ],
+            "chỗ ngồi": [
+                "thú vị",
+                "Cuối cùng",
+                "chủ yếu",
+                "rõ",
+                "Thông thường",
+                "linh hoạt",
+                "bận rộn"
+            ],
+            "vợ chồng": [
+                "trùng hợp",
+                "giống",
+                "khác"
+            ],
+            "trải nghiệm": [
+                "khó chịu"
+            ],
+            "quốc tịch": [],
+            "khung cảnh": [
+                "giật gân",
+                "tuyệt vời"
+            ],
+            "độ dịch vụ": [
+                "tuyệt vời"
+            ],
+            "nhà trọ": [],
+            "dịch vụ bàn": [
+                "hoàn hảo"
+            ],
+            "âm nhạc": [
+                "tuyệt vời"
+            ],
+            "bầu không khí": [
+                "đẹp"
+            ],
+            "rung cảm": [],
+            "không gian": [],
+            "quang cảnh": [],
+            "quán trà": [
+                "nhỏ",
+                "nhỏ"
+            ],
+            "bậc thang": [
+                "nhỏ",
+                "dễ chịu"
+            ],
+            "phố đi bộ nguyễn": [
+                "nhiều"
+            ],
+            "đồ uống ngon": [
+                "đắt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quán bar": 3.0,
+            "tầm nhìn": 1.0,
+            "nhân viên": 1.5,
+            "cocktail ngon": 0.5,
+            "vị trí": 1.5,
+            "sân thượng": 0.5,
+            "cầu thang": 1.0,
+            "bữa tiệc": 0.5,
+            "không khí": 1.5,
+            "ly cocktail": 0.5,
+            "tòa tháp": 0.5,
+            "đồ uống": 2.0,
+            "loại cocktail": 1.0,
+            "hương vị": 0.5,
+            "bầu": 0.5,
+            "không khí ấm áp": 0.5,
+            "phi hành đoàn": 0.5,
+            "bữa": 0.5,
+            "khách sạn": 1.0,
+            "chế độ": 0.5,
+            "mâm xôi phóng": 0.5,
+            "chỗ ngồi": 1.0,
+            "vợ chồng": 0.5,
+            "trải nghiệm": 0.5,
+            "quốc tịch": 0.5,
+            "khung cảnh": 1.0,
+            "độ dịch vụ": 0.5,
+            "nhà trọ": 0.5,
+            "dịch vụ bàn": 0.5,
+            "âm nhạc": 0.5,
+            "bầu không khí": 0.5,
+            "rung cảm": 0.5,
+            "không gian": 0.5,
+            "quang cảnh": 0.5,
+            "quán trà": 0.5,
+            "bậc thang": 0.5,
+            "phố đi bộ nguyễn": 0.5,
+            "đồ uống ngon": 0.5
+        }
     }
 ]

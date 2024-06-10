@@ -106,7 +106,160 @@
             "https://www.tripadvisor.com/Attraction_Review-g150809-d14416856-Reviews-Islands_Beach_Club-Cozumel_Yucatan_Peninsula.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d8305174-Reviews-or10-Dalat_Star-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d8305174-Reviews-Dalat_Star-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d8305174-Reviews-Dalat_Star-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "con người": -0.6025422131642699,
+            "cặp đôi du lịch": 0.6202734056860209,
+            "xe đẩy": 0.49644345852235955,
+            "cả": 0.46071415208280087,
+            "cơn ác": -0.906758806668222,
+            "hành trình": 0.9955838586320169,
+            "tác phẩm điêu": 0.4913204640033655,
+            "lịch sử thời gian": -0.9727922078454867,
+            "lớp sơn": -0.9725551581941545,
+            "xe máy": 0.9919850860023871,
+            "tác phẩm nghệ thuật": 0.9929258603951894,
+            "nghệ sĩ": 0.9930555081227794,
+            "chuyến đi": 0.9912533956812695,
+            "hố đất sét": 0.41568996757268906,
+            "bức chạm": 0.9377509206533432,
+            "bài hát cây bút táo": 0.4913709759712219,
+            "xe buýt du lịch": 0.5300482343882322,
+            "khu rừng thông": -0.9704510706942528,
+            "quần áo": -0.5103102009743452,
+            "đoàn tàu": 0.9888962296536192,
+            "máy bay": -0.9731992749730125,
+            "cảnh": 0.995500851480756,
+            "vùng đất": 0.2584051638841629,
+            "đất sét": 0.10640430497005582,
+            "khung cảnh": 0.9948582883225754,
+            "gian hàng": 0.5,
+            "đồ tào lao": 0.5
+        },
+        "dicts_adj": {
+            "con người": [
+                "nhỏ bé"
+            ],
+            "cặp đôi du lịch": [],
+            "xe đẩy": [
+                "cuối cùng",
+                "trẻ",
+                "nhỏ"
+            ],
+            "cả": [
+                "trẻ",
+                "nhỏ"
+            ],
+            "cơn ác": [],
+            "hành trình": [
+                "tốt đẹp"
+            ],
+            "tác phẩm điêu": [
+                "xấu",
+                "cũ kỹ",
+                "đẹp"
+            ],
+            "lịch sử thời gian": [
+                "xấu",
+                "cũ kỹ"
+            ],
+            "lớp sơn": [
+                "thú vị"
+            ],
+            "xe máy": [
+                "tuyệt vời",
+                "xa",
+                "khoảng"
+            ],
+            "tác phẩm nghệ thuật": [
+                "vĩ đại"
+            ],
+            "nghệ sĩ": [
+                "tốt"
+            ],
+            "chuyến đi": [
+                "vui vẻ",
+                "xa"
+            ],
+            "hố đất sét": [
+                "vĩ đại"
+            ],
+            "bức chạm": [
+                "khó"
+            ],
+            "bài hát cây bút táo": [
+                "nhiều",
+                "giống"
+            ],
+            "xe buýt du lịch": [
+                "nhiều"
+            ],
+            "khu rừng thông": [
+                "vô nghĩa"
+            ],
+            "quần áo": [
+                "cùng",
+                "cũ"
+            ],
+            "đoàn tàu": [
+                "đẹp"
+            ],
+            "máy bay": [
+                "lớn",
+                "lố bịch",
+                "nâu",
+                "ổn"
+            ],
+            "cảnh": [
+                "nhiều",
+                "đẹp"
+            ],
+            "vùng đất": [
+                "tưởng tượng"
+            ],
+            "đất sét": [
+                "thực sự",
+                "buồn cười",
+                "phải"
+            ],
+            "khung cảnh": [
+                "đẹp",
+                "tuyệt nếu"
+            ],
+            "gian hàng": [],
+            "đồ tào lao": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "con người": 0.5,
+            "cặp đôi du lịch": 0.5,
+            "xe đẩy": 0.5,
+            "cả": 0.5,
+            "cơn ác": 0.5,
+            "hành trình": 0.5,
+            "tác phẩm điêu": 1.0,
+            "lịch sử thời gian": 0.5,
+            "lớp sơn": 0.5,
+            "xe máy": 0.5,
+            "tác phẩm nghệ thuật": 1.0,
+            "nghệ sĩ": 0.5,
+            "chuyến đi": 0.5,
+            "hố đất sét": 0.5,
+            "bức chạm": 0.5,
+            "bài hát cây bút táo": 0.5,
+            "xe buýt du lịch": 0.5,
+            "khu rừng thông": 0.5,
+            "quần áo": 0.5,
+            "đoàn tàu": 0.5,
+            "máy bay": 0.5,
+            "cảnh": 0.5,
+            "vùng đất": 0.5,
+            "đất sét": 0.5,
+            "khung cảnh": 0.5,
+            "gian hàng": 0.5,
+            "đồ tào lao": 0.5
+        }
     },
     {
         "attraction_name": "Dalat Star",
@@ -201,6 +354,82 @@
             "https://www.tripadvisor.com/Attraction_Review-g60982-d561035-Reviews-Manoa_Falls-Honolulu_Oahu_Hawaii.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d8305174-Reviews-or10-Dalat_Star-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d8305174-Reviews-or10-Dalat_Star-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "xe máy": 0.7567460661521181,
+            "chuyến đi": 0.5,
+            "đồ vật": 0.9955752439564094,
+            "đất sét": 0.5,
+            "xe lửa vườn hoa": 0.995174894516822,
+            "nhà vệ sinh": 0.8746289564296603,
+            "đỗ xe": 0.8776912465691566,
+            "công viên": 0.5130406618118286,
+            "xe buýt": 0.5,
+            "tắm mưa": 0.9933579445350915,
+            "quán cà phê": 0.9938139888690785,
+            "mô tô": 0.7071281410753727,
+            "môi trường tự": 0.7535477711062413,
+            "khu du lịch nghỉ dưỡng": 0.5,
+            "môi trường": 0.5
+        },
+        "dicts_adj": {
+            "xe máy": [
+                "đẹp",
+                "hơn"
+            ],
+            "chuyến đi": [],
+            "đồ vật": [
+                "thú vị"
+            ],
+            "đất sét": [],
+            "xe lửa vườn hoa": [
+                "đẹp"
+            ],
+            "nhà vệ sinh": [],
+            "đỗ xe": [
+                "giống",
+                "ấn tượng"
+            ],
+            "công viên": [
+                "sướng",
+                "khác"
+            ],
+            "xe buýt": [],
+            "tắm mưa": [
+                "khác"
+            ],
+            "quán cà phê": [
+                "khác"
+            ],
+            "mô tô": [
+                "lớn",
+                "nhất"
+            ],
+            "môi trường tự": [
+                "tự nhiên",
+                "bền vững"
+            ],
+            "khu du lịch nghỉ dưỡng": [],
+            "môi trường": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "xe máy": 1.0,
+            "chuyến đi": 0.5,
+            "đồ vật": 0.5,
+            "đất sét": 0.5,
+            "xe lửa vườn hoa": 0.5,
+            "nhà vệ sinh": 0.5,
+            "đỗ xe": 0.5,
+            "công viên": 0.5,
+            "xe buýt": 0.5,
+            "tắm mưa": 0.5,
+            "quán cà phê": 0.5,
+            "mô tô": 0.5,
+            "môi trường tự": 0.5,
+            "khu du lịch nghỉ dưỡng": 0.5,
+            "môi trường": 0.5
+        }
     }
 ]

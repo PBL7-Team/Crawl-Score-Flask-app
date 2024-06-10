@@ -63,6 +63,138 @@
             "https://www.tripadvisor.com/Attraction_Review-g41185-d558917-Reviews-Arundel_Mills-Hanover_Maryland.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d6158963-Reviews-Wild_Vietnam_Day_Tours-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d6158963-Reviews-Wild_Vietnam_Day_Tours-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham": 0.9442026312462986,
+            "lái xe": 0.9770206529647112,
+            "hoàng họ -": 0.9955694601521827,
+            "chuyến đi": 0.8269263641365493,
+            "chuyến tham quan": 0.9307204996002838,
+            "người lái xe": 0.5,
+            "chuyến du lịch": 0.5873717917129397,
+            "ký túc xá": 0.5,
+            "hướng dẫn viên": 0.5,
+            "chuyến thăm": -0.9655846913810819,
+            "nhà máy": -0.9745057161198929,
+            "cà phê": -0.961974473670125,
+            "ngôi làng dân tộc": -0.47341829910874367,
+            "thác nước": 0.9954403169103898,
+            "xe đạp": 0.7436803457676433,
+            "khách sạn": 0.8104851855896413,
+            "mũi né": 0.5,
+            "bến xe": 0.5,
+            "xe": 0.5,
+            "đạp xe": 0.9949040986248292,
+            "điểm tham quan": 0.9942060592584312,
+            "đồn điền": -0.9442110436502844,
+            "làng mạc": 0.9370716093108058,
+            "thắng cảnh": 0.8873906224034727,
+            "bữa ăn": 0.5,
+            "quán ăn": 0.5,
+            "quán cà phê địa phương": 0.5,
+            "món ăn địa phương": 0.5
+        },
+        "dicts_adj": {
+            "chuyến tham": [
+                "dễ dàng"
+            ],
+            "lái xe": [
+                "dễ dàng"
+            ],
+            "hoàng họ -": [
+                "tuyệt vời",
+                "nhất",
+                "nhiều",
+                "vui tính"
+            ],
+            "chuyến đi": [
+                "dễ dàng",
+                "khắp",
+                "tốt"
+            ],
+            "chuyến tham quan": [
+                "dễ dàng",
+                "tuyệt vời",
+                "nhất"
+            ],
+            "người lái xe": [],
+            "chuyến du lịch": [],
+            "ký túc xá": [],
+            "hướng dẫn viên": [],
+            "chuyến thăm": [
+                "dân tộc thiểu số"
+            ],
+            "nhà máy": [
+                "dân tộc thiểu số"
+            ],
+            "cà phê": [
+                "dân tộc thiểu số",
+                "dân tộc thiểu số"
+            ],
+            "ngôi làng dân tộc": [
+                "dân tộc thiểu số"
+            ],
+            "thác nước": [
+                "tuyệt vời"
+            ],
+            "xe đạp": [
+                "chuyên nghiệp",
+                "tuyệt vời",
+                "nhất"
+            ],
+            "khách sạn": [],
+            "mũi né": [],
+            "bến xe": [],
+            "xe": [],
+            "đạp xe": [
+                "an toàn"
+            ],
+            "điểm tham quan": [],
+            "đồn điền": [
+                "dọc"
+            ],
+            "làng mạc": [
+                "dọc"
+            ],
+            "thắng cảnh": [
+                "dọc"
+            ],
+            "bữa ăn": [],
+            "quán ăn": [],
+            "quán cà phê địa phương": [],
+            "món ăn địa phương": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham": 0.5,
+            "lái xe": 0.5,
+            "hoàng họ -": 0.5,
+            "chuyến đi": 1.5,
+            "chuyến tham quan": 1.0,
+            "người lái xe": 0.5,
+            "chuyến du lịch": 0.5,
+            "ký túc xá": 0.5,
+            "hướng dẫn viên": 0.5,
+            "chuyến thăm": 0.5,
+            "nhà máy": 0.5,
+            "cà phê": 0.5,
+            "ngôi làng dân tộc": 0.5,
+            "thác nước": 0.5,
+            "xe đạp": 0.5,
+            "khách sạn": 0.5,
+            "mũi né": 0.5,
+            "bến xe": 0.5,
+            "xe": 0.5,
+            "đạp xe": 0.5,
+            "điểm tham quan": 0.5,
+            "đồn điền": 0.5,
+            "làng mạc": 0.5,
+            "thắng cảnh": 0.5,
+            "bữa ăn": 0.5,
+            "quán ăn": 0.5,
+            "quán cà phê địa phương": 0.5,
+            "món ăn địa phương": 0.5
+        }
     }
 ]

@@ -52,6 +52,46 @@
             "https://www.tripadvisor.com/Attraction_Review-g189164-d1198741-Reviews-Sintra_National_Palace-Sintra_Sintra_Municipality_Lisbon_District_Central_Portuga.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g737052-d25080600-Reviews-SAPA_FANSIPAN_TREKKING_TOUR-Lao_Cai_Lao_Cai_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g737052-d25080600-Reviews-SAPA_FANSIPAN_TREKKING_TOUR-Lao_Cai_Lao_Cai_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cảnh quan": 0.9951519378228113,
+            "khung cảnh": 0.995112557488028,
+            "văn hóa": 0.5,
+            "làng dân tộc": 0.5,
+            "chuyến đi": 0.9954519105376676,
+            "phong cảnh": 0.9954210626892745,
+            "ẩm thực": 0.9953575524268672
+        },
+        "dicts_adj": {
+            "cảnh quan": [
+                "tráng lệ"
+            ],
+            "khung cảnh": [
+                "ngoạn mục"
+            ],
+            "văn hóa": [],
+            "làng dân tộc": [],
+            "chuyến đi": [
+                "tuyệt vời"
+            ],
+            "phong cảnh": [
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "ẩm thực": [
+                "phong phú"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cảnh quan": 1.5,
+            "khung cảnh": 1.5,
+            "văn hóa": 1.5,
+            "làng dân tộc": 1.5,
+            "chuyến đi": 1.5,
+            "phong cảnh": 1,
+            "ẩm thực": 1
+        }
     }
 ]
