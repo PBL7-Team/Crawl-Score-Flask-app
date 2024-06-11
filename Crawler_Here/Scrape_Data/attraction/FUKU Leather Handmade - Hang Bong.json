@@ -106,7 +106,271 @@
             "https://www.tripadvisor.com/Attraction_Review-g60652-d3382692-Reviews-Kalama_Beach_Park-Kailua_Oahu_Hawaii.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d10824559-Reviews-or10-FUKU_Leather_Handmade_Hang_Bong-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d10824559-Reviews-FUKU_Leather_Handmade_Hang_Bong-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d10824559-Reviews-FUKU_Leather_Handmade_Hang_Bong-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa hàng": 0.31259224882038933,
+            "chuyến thăm": 0.5,
+            "bộ sưu tập": 0.9954881360172294,
+            "quần áo": 0.5,
+            "giày dép": 0.5,
+            "thắt lưng": 0.6728099565953016,
+            "da": 0.07237541815266013,
+            "chất lượng": 0.9921769790817052,
+            "dịch vụ": 0.9949787180521525,
+            "xưởng": 0.4047939362353645,
+            "thợ cắt tóc": 0.25656829215586185,
+            "quán cà phê": 0.4440235774964094,
+            "chú mèo": 0.9952302358578891,
+            "túi mới": 0.9954393699881621,
+            "họ": 0.8737691454589367,
+            "tiệm cắt": 0.9590899329632521,
+            "tiệm cắt tóc": 0.9877950464142486,
+            "tiệm đồ da": 0.5,
+            "nhà sản xuất đồ da": 0.8737691454589367,
+            "sản phẩm": 0.879787378537003,
+            "phòng trưng bày": 0.9460881610866636,
+            "món đồ": 0.9896741262637079,
+            "mặt hàng": 0.6507851742208004,
+            "giá cả": 0.982226075604558,
+            "đồ da": 0.4366203344325186,
+            "chợ": 0.5,
+            "đồ chất lượng": 0.5,
+            "người chủ": 0.8737691454589367,
+            "bố": 0.5,
+            "cà phê": 0.7831581679735489,
+            "phòng": 0.5035059521906078,
+            "cả": 0.9729205162147991,
+            "quán bar": 0.5,
+            "tác phẩm": 0.9558187182992697,
+            "nhà thờ": 0.523062827065587,
+            "phố cổ": 0.8737691454589367,
+            "giá": 0.5,
+            "nghệ sĩ": 0.8737691454589367,
+            "hàng buồm": 0.8737691454589367,
+            "bẫy": 0.9828217747854069,
+            "đồng hồ": 0.5,
+            "chuyến đi": 0.9391571874730289,
+            "vết cắt": 0.5,
+            "trà": 0.9929661403875798,
+            "không gian": 0.5090919081121683,
+            "quà lưu niệm": 0.9953953330405056,
+            "cà phê dừa": 0.5900935869722161,
+            "ly": 0.9950124472379684,
+            "kỷ vật": 0.99536837649066,
+            "vòng cổ bằng da": 0.9950268489774317,
+            "ly cà phê": 0.5
+        },
+        "dicts_adj": {
+            "cửa hàng": [
+                "gần",
+                "nhỏ",
+                "đầy"
+            ],
+            "chuyến thăm": [],
+            "bộ sưu tập": [
+                "tuyệt vời"
+            ],
+            "quần áo": [],
+            "giày dép": [],
+            "thắt lưng": [],
+            "da": [
+                "tốt",
+                "nhỏ"
+            ],
+            "chất lượng": [
+                "tốt"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "hữu ích"
+            ],
+            "xưởng": [
+                "cùng",
+                "giống"
+            ],
+            "thợ cắt tóc": [
+                "cùng"
+            ],
+            "quán cà phê": [
+                "cùng"
+            ],
+            "chú mèo": [
+                "tuyệt vời"
+            ],
+            "túi mới": [
+                "vui",
+                "hài lòng"
+            ],
+            "họ": [
+                "thân thiện"
+            ],
+            "tiệm cắt": [
+                "thân thiện"
+            ],
+            "tiệm cắt tóc": [
+                "thân thiện"
+            ],
+            "tiệm đồ da": [],
+            "nhà sản xuất đồ da": [
+                "thân thiện"
+            ],
+            "sản phẩm": [
+                "thú vị",
+                "cuối cùng",
+                "cao"
+            ],
+            "phòng trưng bày": [
+                "thú vị"
+            ],
+            "món đồ": [
+                "độc đáo"
+            ],
+            "mặt hàng": [
+                "cao"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "đồ da": [
+                "thực sự",
+                "tuyệt vời",
+                "nhỏ",
+                "nhỏ",
+                "nhỏ",
+                "tuyệt vời"
+            ],
+            "chợ": [],
+            "đồ chất lượng": [],
+            "người chủ": [
+                "thân thiện"
+            ],
+            "bố": [],
+            "cà phê": [
+                "tuyệt",
+                "đẹp mắt",
+                "cùng",
+                "thực sự",
+                "tuyệt vời",
+                "thơm",
+                "ngon",
+                "nhỏ",
+                "trung bình",
+                "đặc biệt",
+                "tuyệt vời"
+            ],
+            "phòng": [
+                "nhỏ",
+                "sát",
+                "nhỏ"
+            ],
+            "cả": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "quán bar": [],
+            "tác phẩm": [
+                "gần"
+            ],
+            "nhà thờ": [
+                "lớn"
+            ],
+            "phố cổ": [
+                "gần"
+            ],
+            "giá": [],
+            "nghệ sĩ": [
+                "hơn"
+            ],
+            "hàng buồm": [
+                "hơn"
+            ],
+            "bẫy": [
+                "đẹp"
+            ],
+            "đồng hồ": [],
+            "chuyến đi": [],
+            "vết cắt": [],
+            "trà": [
+                "thơm",
+                "ngon"
+            ],
+            "không gian": [
+                "nhỏ"
+            ],
+            "quà lưu niệm": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "cà phê dừa": [
+                "giống",
+                "ngon"
+            ],
+            "ly": [
+                "tuyệt vời"
+            ],
+            "kỷ vật": [
+                "thú vị"
+            ],
+            "vòng cổ bằng da": [
+                "đẹp"
+            ],
+            "ly cà phê": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa hàng": 1.5,
+            "chuyến thăm": 1.0,
+            "bộ sưu tập": 0.5,
+            "quần áo": 0.5,
+            "giày dép": 0.5,
+            "thắt lưng": 0.5,
+            "da": 1.0,
+            "chất lượng": 0.5,
+            "dịch vụ": 0.5,
+            "xưởng": 1.0,
+            "thợ cắt tóc": 0.5,
+            "quán cà phê": 0.5,
+            "chú mèo": 0.5,
+            "túi mới": 0.5,
+            "họ": 0.5,
+            "tiệm cắt": 0.5,
+            "tiệm cắt tóc": 0.5,
+            "tiệm đồ da": 0.5,
+            "nhà sản xuất đồ da": 0.5,
+            "sản phẩm": 0.5,
+            "phòng trưng bày": 0.5,
+            "món đồ": 1.0,
+            "mặt hàng": 0.5,
+            "giá cả": 0.5,
+            "đồ da": 2.0,
+            "chợ": 0.5,
+            "đồ chất lượng": 0.5,
+            "người chủ": 0.5,
+            "bố": 0.5,
+            "cà phê": 2.5,
+            "phòng": 1.0,
+            "cả": 0.5,
+            "quán bar": 0.5,
+            "tác phẩm": 0.5,
+            "nhà thờ": 0.5,
+            "phố cổ": 0.5,
+            "giá": 0.5,
+            "nghệ sĩ": 0.5,
+            "hàng buồm": 0.5,
+            "bẫy": 0.5,
+            "đồng hồ": 0.5,
+            "chuyến đi": 0.5,
+            "vết cắt": 0.5,
+            "trà": 0.5,
+            "không gian": 0.5,
+            "quà lưu niệm": 0.5,
+            "cà phê dừa": 1.0,
+            "ly": 0.5,
+            "kỷ vật": 0.5,
+            "vòng cổ bằng da": 0.5,
+            "ly cà phê": 0.5
+        }
     },
     {
         "attraction_name": "FUKU Leather Handmade - Hang Bong",
@@ -201,6 +465,64 @@
             "https://www.tripadvisor.com/Attraction_Review-g60834-d621712-Reviews-Horseshoe_Bend-Page_Arizona.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d10824559-Reviews-or10-FUKU_Leather_Handmade_Hang_Bong-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d10824559-Reviews-or10-FUKU_Leather_Handmade_Hang_Bong-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quán cà phê": 0.7672896571457386,
+            "bối cảnh": -0.9726898351218551,
+            "cà phê dừa đá": -0.76586002856493,
+            "đồ da": 0.8737691454589367,
+            "túi xách": 0.730226373532787,
+            "ly cà phê": 0.995496679621283,
+            "người": 0.5,
+            "môi trường": 0.5,
+            "cà phê": 0.9143533212287972,
+            "phố hàng bong": 0.8737691454589367,
+            "cửa hàng": 0.5,
+            "đồ da thủ công": 0.5
+        },
+        "dicts_adj": {
+            "quán cà phê": [
+                "nhỏ"
+            ],
+            "bối cảnh": [],
+            "cà phê dừa đá": [],
+            "đồ da": [
+                "đẹp",
+                "hoàn toàn"
+            ],
+            "túi xách": [],
+            "ly cà phê": [
+                "đẹp"
+            ],
+            "người": [],
+            "môi trường": [],
+            "cà phê": [
+                "đặc biệt",
+                "ngon",
+                "tuyệt vời"
+            ],
+            "phố hàng bong": [
+                "đặc biệt",
+                "ngon"
+            ],
+            "cửa hàng": [],
+            "đồ da thủ công": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quán cà phê": 0.5,
+            "bối cảnh": 0.5,
+            "cà phê dừa đá": 0.5,
+            "đồ da": 0.5,
+            "túi xách": 1.0,
+            "ly cà phê": 0.5,
+            "người": 0.5,
+            "môi trường": 0.5,
+            "cà phê": 0.5,
+            "phố hàng bong": 0.5,
+            "cửa hàng": 0.5,
+            "đồ da thủ công": 0.5
+        }
     }
 ]

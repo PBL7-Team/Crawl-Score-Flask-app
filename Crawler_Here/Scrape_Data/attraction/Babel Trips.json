@@ -65,6 +65,30 @@
             "https://www.tripadvisor.com/Attraction_Review-g150771-d1172821-Reviews-Playa_El_Tecolote_Tecolote_Beach-La_Paz_Baja_California.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15873703-Reviews-Babel_Trips-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15873703-Reviews-Babel_Trips-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quán cà phê": 0.5581432692706585,
+            "phòng": 0.5995995625853539,
+            "xe máy": 0.44724129512906075,
+            "người dân địa phương": 0.5056733973324299
+        },
+        "dicts_adj": {
+            "quán cà phê": [],
+            "phòng": [
+                "có thể"
+            ],
+            "xe máy": [
+                "lân cận"
+            ],
+            "người dân địa phương": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quán cà phê": 0.5,
+            "phòng": 0.5,
+            "xe máy": 0.5,
+            "người dân địa phương": 0.5
+        }
     }
 ]

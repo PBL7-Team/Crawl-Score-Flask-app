@@ -108,7 +108,177 @@
             "https://www.tripadvisor.com/Attraction_Review-g187147-d188150-Reviews-Musee_d_Orsay-Paris_Ile_de_France.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d11760647-Reviews-or10-Tra_Viet_Tea_Gift_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d11760647-Reviews-Tra_Viet_Tea_Gift_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d11760647-Reviews-Tra_Viet_Tea_Gift_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa hàng": 0.8323409071890637,
+            "trà": 0.6138205745082814,
+            "kỳ nghỉ": 0.8702441460530584,
+            "lịch": 0.5,
+            "sử cách": 0.5,
+            "--": 0.5,
+            "việt nam": 0.8737691454589367,
+            "trà chỉ": -0.838967775227502,
+            "trải nghiệm": 0.6002197697525844,
+            "văn hóa": 0.5,
+            "nhân viên": 0.9591641486234341,
+            "dịch vụ": 0.9955350942327641,
+            "dịch vụ khách hàng": 0.9952380856266245,
+            "không khí": 0.8737691454589367,
+            "quán trà": 0.7475760707166046,
+            "bầu không khí": 0.8737691454589367,
+            "trà cà phê": 0.8251509517431259,
+            "tam": 0.9954196640173905,
+            "chất lượng": 0.5,
+            "phong tục": 0.9789843787439167,
+            "nghệ thuật": 0.3903721272945404,
+            "trà po-er": 0.8737691454589367,
+            "về cây": 0.6282291412353516,
+            "thụ": 0.9627231052145362,
+            "trà này": 0.9955541436211206,
+            "chuyến thăm": 0.5,
+            "trà vn": 0.8737691454589367,
+            "cốc mẫu": 0.5285867834463716
+        },
+        "dicts_adj": {
+            "cửa hàng": [
+                "nhanh chóng",
+                "đẹp",
+                "ấm áp"
+            ],
+            "trà": [
+                "cuối cùng",
+                "cuối cùng",
+                "tuyệt vời",
+                "nhiều",
+                "khác",
+                "tuyệt vời",
+                "hữu ích",
+                "thơm",
+                "ngon",
+                "nhất",
+                "Tương tự",
+                "khác",
+                "hữu ích",
+                "vui"
+            ],
+            "kỳ nghỉ": [
+                "tuyệt vời",
+                "gần",
+                "nhiều"
+            ],
+            "lịch": [],
+            "sử cách": [],
+            "--": [],
+            "việt nam": [
+                "tình cờ"
+            ],
+            "trà chỉ": [
+                "phải",
+                "bất kỳ"
+            ],
+            "trải nghiệm": [
+                "phải",
+                "bất kỳ",
+                "tuyệt vời",
+                "sớm",
+                "biết ơn",
+                "tuyệt vời",
+                "thực sự",
+                "thú vị"
+            ],
+            "văn hóa": [],
+            "nhân viên": [
+                "thú vị",
+                "tốt bụng",
+                "dễ thương",
+                "hữu ích",
+                "tốt"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "rõ ràng",
+                "tuyệt vời"
+            ],
+            "dịch vụ khách hàng": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "không khí": [
+                "chung"
+            ],
+            "quán trà": [
+                "hài lòng"
+            ],
+            "bầu không khí": [
+                "ấm áp"
+            ],
+            "trà cà phê": [
+                "đủ"
+            ],
+            "tam": [
+                "tốt bụng"
+            ],
+            "chất lượng": [],
+            "phong tục": [
+                "nhiều"
+            ],
+            "nghệ thuật": [
+                "cần thiết"
+            ],
+            "trà po-er": [
+                "bất ngờ",
+                "tuyệt vời",
+                "bí ẩn"
+            ],
+            "về cây": [
+                "xa"
+            ],
+            "thụ": [
+                "xa"
+            ],
+            "trà này": [
+                "tuyệt vời"
+            ],
+            "chuyến thăm": [],
+            "trà vn": [
+                "dễ chịu"
+            ],
+            "cốc mẫu": [
+                "dễ chịu"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa hàng": 1.5,
+            "trà": 4.0,
+            "kỳ nghỉ": 0.5,
+            "lịch": 0.5,
+            "sử cách": 0.5,
+            "--": 0.5,
+            "việt nam": 0.5,
+            "trà chỉ": 0.5,
+            "trải nghiệm": 2.0,
+            "văn hóa": 0.5,
+            "nhân viên": 1.0,
+            "dịch vụ": 1.0,
+            "dịch vụ khách hàng": 0.5,
+            "không khí": 0.5,
+            "quán trà": 1.0,
+            "bầu không khí": 0.5,
+            "trà cà phê": 0.5,
+            "tam": 0.5,
+            "chất lượng": 0.5,
+            "phong tục": 0.5,
+            "nghệ thuật": 0.5,
+            "trà po-er": 0.5,
+            "về cây": 0.5,
+            "thụ": 0.5,
+            "trà này": 0.5,
+            "chuyến thăm": 0.5,
+            "trà vn": 0.5,
+            "cốc mẫu": 0.5
+        }
     },
     {
         "attraction_name": "Tra Viet - Tea Gift Shop",
@@ -219,7 +389,161 @@
             "https://www.tripadvisor.com/Attraction_Review-g187147-d10840345-Reviews-Little_India-Paris_Ile_de_France.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d11760647-Reviews-or10-Tra_Viet_Tea_Gift_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d11760647-Reviews-or10-Tra_Viet_Tea_Gift_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trà": 0.7403895743992136,
+            "cửa hàng": 0.48639492452558547,
+            "quán cà phê": 0.5,
+            "nhà hàng địa phương": 0.5,
+            "quận": 0.5,
+            "nhân viên": 0.6678300287264088,
+            "trà cho": 0.991902512323577,
+            "trà quế": 0.9778916528448462,
+            "tách trà": 0.9414906883612275,
+            "nhân viên bán hàng": 0.8737691454589367,
+            "trà khi": 0.555730520747602,
+            "bao bì": 0.9946356292930432,
+            "giá cả": 0.9758615375030786,
+            "giá": 0.9807483516633511,
+            "họ": 0.8737691454589367,
+            "quán": 0.9307845508155879,
+            "quà tặng": 0.9941712784930132,
+            "nguồn gốc": 0.5,
+            "hương vị": 0.8737691454589367,
+            "áo dài": 0.7794628622941673,
+            "phố cổ": 0.9919657952850685,
+            "khuôn mặt": 0.9801814408274367,
+            "dịch vụ": -0.7457101009786129,
+            "kỷ niệm": 0.9955421540653333
+        },
+        "dicts_adj": {
+            "trà": [
+                "tạm thời",
+                "tinh tế",
+                "chính xác",
+                "đúng",
+                "ngon",
+                "ngon",
+                "tốt",
+                "ngon",
+                "ngon",
+                "nhất",
+                "nhiều",
+                "khác",
+                "khác",
+                "khác",
+                "đắt",
+                "tươi",
+                "tuyệt vời",
+                "nhất",
+                "trực tuyến"
+            ],
+            "cửa hàng": [
+                "tạm thời",
+                "lâu dài",
+                "hơn",
+                "nhiều",
+                "nhiều",
+                "hơn",
+                "tình cờ",
+                "nhỏ",
+                "đẹp"
+            ],
+            "quán cà phê": [],
+            "nhà hàng địa phương": [],
+            "quận": [],
+            "nhân viên": [
+                "tốt đẹp",
+                "chào đón",
+                "tuyệt vời",
+                "đầu tiên"
+            ],
+            "trà cho": [
+                "vui"
+            ],
+            "trà quế": [
+                "đặc biệt"
+            ],
+            "tách trà": [
+                "nóng"
+            ],
+            "nhân viên bán hàng": [
+                "thân thiện",
+                "nhiều"
+            ],
+            "trà khi": [
+                "rảnh rỗi"
+            ],
+            "bao bì": [
+                "đẹp"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "giá": [
+                "tốt"
+            ],
+            "họ": [
+                "nhiều"
+            ],
+            "quán": [
+                "ngon",
+                "nhất"
+            ],
+            "quà tặng": [
+                "ngon",
+                "nhất"
+            ],
+            "nguồn gốc": [],
+            "hương vị": [
+                "tuyệt vời"
+            ],
+            "áo dài": [
+                "đầy đủ"
+            ],
+            "phố cổ": [
+                "giống",
+                "vui vẻ",
+                "thoải mái",
+                "dài"
+            ],
+            "khuôn mặt": [
+                "tươi cười"
+            ],
+            "dịch vụ": [],
+            "kỷ niệm": [
+                "đẹp",
+                "nhất"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trà": 4.5,
+            "cửa hàng": 1.5,
+            "quán cà phê": 0.5,
+            "nhà hàng địa phương": 0.5,
+            "quận": 0.5,
+            "nhân viên": 1.5,
+            "trà cho": 0.5,
+            "trà quế": 0.5,
+            "tách trà": 0.5,
+            "nhân viên bán hàng": 0.5,
+            "trà khi": 0.5,
+            "bao bì": 0.5,
+            "giá cả": 0.5,
+            "giá": 0.5,
+            "họ": 0.5,
+            "quán": 0.5,
+            "quà tặng": 0.5,
+            "nguồn gốc": 0.5,
+            "hương vị": 0.5,
+            "áo dài": 0.5,
+            "phố cổ": 0.5,
+            "khuôn mặt": 0.5,
+            "dịch vụ": 0.5,
+            "kỷ niệm": 0.5
+        }
     },
     {
         "attraction_name": "Tra Viet - Tea Gift Shop",
@@ -303,6 +627,11 @@
             "https://www.tripadvisor.com/Attraction_Review-g274887-d279413-Reviews-Rudas_Baths-Budapest_Central_Hungary.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d20364308-Reviews-Tra_Viet_Tea_Gift_Shop-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d20364308-Reviews-Tra_Viet_Tea_Gift_Shop-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     }
 ]

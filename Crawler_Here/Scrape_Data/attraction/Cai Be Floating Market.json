@@ -76,7 +76,181 @@
             "https://www.tripadvisor.com/Attraction_Review-g35004-d2408763-Reviews-Yonah_Mountain_Hiking_Trail-Helen_Georgia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g3648985-d7339855-Reviews-or10-Cai_Be_Floating_Market-Cai_Be_Tien_Giang_Province_Mekong_Delta.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g3648985-d7339855-Reviews-Cai_Be_Floating_Market-Cai_Be_Tien_Giang_Province_Mekong_Delta.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g3648985-d7339855-Reviews-Cai_Be_Floating_Market-Cai_Be_Tien_Giang_Province_Mekong_Delta.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đồ ăn": 0.5,
+            "đồ vật": 0.5,
+            "bố": 0.8737691454589367,
+            "dưa hấu": -0.9767023090971634,
+            "dứa": 0.937328222207725,
+            "chợ": 0.5,
+            "say sóng": 0.5,
+            "người dân": 0.5,
+            "bờ sông": 0.5,
+            "hướng dẫn viên": 0.717970987316221,
+            "chợ nổi": 0.5579619513824582,
+            "thuyền": 0.46573542452339706,
+            "cây cột": 0.3349652048200369,
+            "họ": 0.5,
+            "sông": 0.5158543279394507,
+            "mọi người": 0.8737691454589367,
+            "vẫy": 0.5,
+            "sản phẩm nông nghiệp": 0.5,
+            "vị trí": 0.7502683656057343,
+            "cầu": 0.5,
+            "bến phà": 0.5,
+            "chuyến tham quan": 0.9679957209154963,
+            "sản phẩm": 0.5,
+            "vĩnh lâm": 0.5,
+            "người hướng dẫn sam": 0.991412821225822,
+            "giá": 0.5,
+            "tàu cao tốc": 0.46735863387584686,
+            "địa điểm du lịch": 0.529321538284421,
+            "làng": 0.7061434024944901,
+            "sản phẩm địa phương": -0.012378521263599396,
+            "người dân địa phương": -0.22561924112960696,
+            "bánh tráng": 0.5,
+            "bếp bể chứa nước": 0.5,
+            "vườn trái cây": -0.7323378585278988,
+            "hòn đảo": -0.3512352295219898,
+            "trái cây": -0.7889627469703555,
+            "ngôi nhà địa phương": 0.5,
+            "cuộc sống": 0.5
+        },
+        "dicts_adj": {
+            "đồ ăn": [],
+            "đồ vật": [],
+            "bố": [
+                "nhiều"
+            ],
+            "dưa hấu": [
+                "nhiều",
+                "nhiều"
+            ],
+            "dứa": [
+                "nhiều"
+            ],
+            "chợ": [],
+            "say sóng": [],
+            "người dân": [],
+            "bờ sông": [],
+            "hướng dẫn viên": [
+                "giỏi"
+            ],
+            "chợ nổi": [
+                "đủ"
+            ],
+            "thuyền": [
+                "dài",
+                "dọc",
+                "nhiều",
+                "nhiều",
+                "đẹp"
+            ],
+            "cây cột": [
+                "dài"
+            ],
+            "họ": [],
+            "sông": [
+                "đủ"
+            ],
+            "mọi người": [
+                "thân thiện",
+                "vui vẻ"
+            ],
+            "vẫy": [],
+            "sản phẩm nông nghiệp": [],
+            "vị trí": [
+                "thuận lợi",
+                "dọc"
+            ],
+            "cầu": [],
+            "bến phà": [],
+            "chuyến tham quan": [
+                "đủ"
+            ],
+            "sản phẩm": [],
+            "vĩnh lâm": [],
+            "người hướng dẫn sam": [
+                "May mắn",
+                "xuất sắc",
+                "xuất sắc"
+            ],
+            "giá": [],
+            "tàu cao tốc": [
+                "đắt"
+            ],
+            "địa điểm du lịch": [
+                "giỏi"
+            ],
+            "làng": [
+                "ít",
+                "hơn"
+            ],
+            "sản phẩm địa phương": [
+                "đặc biệt",
+                "hơn"
+            ],
+            "người dân địa phương": [
+                "đặc biệt",
+                "hơn"
+            ],
+            "bánh tráng": [],
+            "bếp bể chứa nước": [],
+            "vườn trái cây": [
+                "khác"
+            ],
+            "hòn đảo": [
+                "khác"
+            ],
+            "trái cây": [
+                "khác"
+            ],
+            "ngôi nhà địa phương": [],
+            "cuộc sống": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đồ ăn": 1,
+            "đồ vật": 1,
+            "bố": 1,
+            "dưa hấu": 1,
+            "dứa": 1,
+            "chợ": 1.5,
+            "say sóng": 1,
+            "người dân": 0.5,
+            "bờ sông": 1.0,
+            "hướng dẫn viên": 1.0,
+            "chợ nổi": 2.5,
+            "thuyền": 3.0,
+            "cây cột": 0.5,
+            "họ": 0.5,
+            "sông": 1.5,
+            "mọi người": 0.5,
+            "vẫy": 0.5,
+            "sản phẩm nông nghiệp": 0.5,
+            "vị trí": 0.5,
+            "cầu": 0.5,
+            "bến phà": 0.5,
+            "chuyến tham quan": 0.5,
+            "sản phẩm": 1.0,
+            "vĩnh lâm": 0.5,
+            "người hướng dẫn sam": 0.5,
+            "giá": 0.5,
+            "tàu cao tốc": 0.5,
+            "địa điểm du lịch": 0.5,
+            "làng": 0.5,
+            "sản phẩm địa phương": 0.5,
+            "người dân địa phương": 0.5,
+            "bánh tráng": 0.5,
+            "bếp bể chứa nước": 0.5,
+            "vườn trái cây": 0.5,
+            "hòn đảo": 0.5,
+            "trái cây": 0.5,
+            "ngôi nhà địa phương": 0.5,
+            "cuộc sống": 0.5
+        }
     },
     {
         "attraction_name": "Cai Be Floating Market",
@@ -149,7 +323,247 @@
             "https://www.tripadvisor.com/Attraction_Review-g32530-d10423012-Reviews-Irvine_Spa-Irvine_California.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g3648985-d7339855-Reviews-or10-Cai_Be_Floating_Market-Cai_Be_Tien_Giang_Province_Mekong_Delta.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g3648985-d7339855-Reviews-or10-Cai_Be_Floating_Market-Cai_Be_Tien_Giang_Province_Mekong_Delta.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chợ nổi": 0.9141772341293594,
+            "hướng dẫn viên": 0.5,
+            "thuyền": 0.7366415956639685,
+            "cây": 0.5,
+            "cột treo": 0.5,
+            "nhà máy": 0.9954394582891837,
+            "bánh tráng": -0.01376223439729074,
+            "xưởng": 0.4639919698238373,
+            "chuyến tham quan": 0.621716279303655,
+            "sông": 0.5202707871794701,
+            "chuyến du lịch": 0.7474019359797239,
+            "phiêu lưu": 0.5,
+            "chân": -0.46715809870511293,
+            "bánh": 0.561064116191119,
+            "bình thủy": 0.5091179236769676,
+            "con rắn": 0.7487946469336748,
+            "giống rắn": 0.5,
+            "tình nguyện viên": 0.5,
+            "uống nước": 0.5,
+            "thuốc": 0.5,
+            "con trăn": 0.10950993187725544,
+            "điểm dừng chân": -0.5655697416514158,
+            "chợ": 0.3781399969011545,
+            "thuyền nhân": 0.48477703891694546,
+            "văn hóa đường sông": 0.5,
+            "vĩnh": 0.5,
+            "du lịch ven": 0.5,
+            "mê kông": 0.5,
+            "thú vị": 0.5,
+            "thống trong làng": 0.5,
+            "chùa": 0.5,
+            "thiền vài": 0.5,
+            "đậm nét truyền": 0.5,
+            "-": 0.5,
+            "sống địa": 0.5,
+            "và văn hóa đường": 0.5,
+            "- có nhà dân": 0.5,
+            "món ăn": 0.9954749430180527,
+            "trải nghiệm": 0.747481634025462,
+            "đồng bằng sông cửu long": 0.5,
+            "khu chợ nổi": 0.7756192814558744,
+            "bờ sông": 0.5,
+            "hàng hóa": 0.05477968975901604,
+            "người dân làng địa phương": -0.9693530832882971,
+            "kẹo dừa": -0.9509163098409772,
+            "cơm": -0.5052788183093071,
+            "rượu rắn": 0.5138651840388775,
+            "rượu thủy tinh": 0.9752153430599719,
+            "con người": 0.9953667018562555,
+            "di tích vì giao thông": 0.9785451060160995,
+            "khu chợ": -0.9749579934868962,
+            "trải nghiệm khi": 0.9940066689159721
+        },
+        "dicts_adj": {
+            "chợ nổi": [
+                "nhỏ",
+                "thú vị",
+                "ngon",
+                "hơn",
+                "nhiều",
+                "sớm"
+            ],
+            "hướng dẫn viên": [],
+            "thuyền": [
+                "nhỏ",
+                "nhỏ",
+                "tuyệt vời",
+                "xa",
+                "thú vị"
+            ],
+            "cây": [],
+            "cột treo": [],
+            "nhà máy": [
+                "thực sự"
+            ],
+            "bánh tráng": [
+                "thực sự",
+                "gần",
+                "lớn",
+                "khác",
+                "thực sự"
+            ],
+            "xưởng": [
+                "nhỏ"
+            ],
+            "chuyến tham quan": [
+                "khác",
+                "ổn"
+            ],
+            "sông": [
+                "nhỏ"
+            ],
+            "chuyến du lịch": [
+                "yên bình",
+                "nhiều"
+            ],
+            "phiêu lưu": [],
+            "chân": [
+                "nhỏ"
+            ],
+            "bánh": [
+                "lớn",
+                "khác"
+            ],
+            "bình thủy": [
+                "lớn"
+            ],
+            "con rắn": [
+                "tốt"
+            ],
+            "giống rắn": [],
+            "tình nguyện viên": [],
+            "uống nước": [],
+            "thuốc": [],
+            "con trăn": [
+                "nặng",
+                "mạnh",
+                "dài",
+                "nặng",
+                "có thể"
+            ],
+            "điểm dừng chân": [
+                "ngắn ngủi"
+            ],
+            "chợ": [
+                "Thực sự",
+                "nhiều"
+            ],
+            "thuyền nhân": [],
+            "văn hóa đường sông": [],
+            "vĩnh": [],
+            "du lịch ven": [],
+            "mê kông": [],
+            "thú vị": [],
+            "thống trong làng": [],
+            "chùa": [],
+            "thiền vài": [],
+            "đậm nét truyền": [],
+            "-": [],
+            "sống địa": [],
+            "và văn hóa đường": [],
+            "- có nhà dân": [],
+            "món ăn": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "thú vị"
+            ],
+            "đồng bằng sông cửu long": [],
+            "khu chợ nổi": [
+                "xa"
+            ],
+            "bờ sông": [],
+            "hàng hóa": [
+                "cao"
+            ],
+            "người dân làng địa phương": [
+                "thực sự"
+            ],
+            "kẹo dừa": [
+                "thực sự"
+            ],
+            "cơm": [
+                "thực sự"
+            ],
+            "rượu rắn": [
+                "thực sự",
+                "thực sự"
+            ],
+            "rượu thủy tinh": [
+                "lớn"
+            ],
+            "con người": [],
+            "di tích vì giao thông": [
+                "hiện đại"
+            ],
+            "khu chợ": [
+                "lỗi"
+            ],
+            "trải nghiệm khi": [
+                "khả thi"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chợ nổi": 1.5,
+            "hướng dẫn viên": 0.5,
+            "thuyền": 2.0,
+            "cây": 0.5,
+            "cột treo": 0.5,
+            "nhà máy": 0.5,
+            "bánh tráng": 1.0,
+            "xưởng": 0.5,
+            "chuyến tham quan": 1.0,
+            "sông": 0.5,
+            "chuyến du lịch": 1.0,
+            "phiêu lưu": 0.5,
+            "chân": 0.5,
+            "bánh": 0.5,
+            "bình thủy": 0.5,
+            "con rắn": 0.5,
+            "giống rắn": 0.5,
+            "tình nguyện viên": 0.5,
+            "uống nước": 0.5,
+            "thuốc": 0.5,
+            "con trăn": 1.0,
+            "điểm dừng chân": 0.5,
+            "chợ": 0.5,
+            "thuyền nhân": 0.5,
+            "văn hóa đường sông": 0.5,
+            "vĩnh": 0.5,
+            "du lịch ven": 0.5,
+            "mê kông": 0.5,
+            "thú vị": 0.5,
+            "thống trong làng": 0.5,
+            "chùa": 0.5,
+            "thiền vài": 0.5,
+            "đậm nét truyền": 0.5,
+            "-": 0.5,
+            "sống địa": 0.5,
+            "và văn hóa đường": 0.5,
+            "- có nhà dân": 0.5,
+            "món ăn": 0.5,
+            "trải nghiệm": 1.0,
+            "đồng bằng sông cửu long": 0.5,
+            "khu chợ nổi": 0.5,
+            "bờ sông": 0.5,
+            "hàng hóa": 0.5,
+            "người dân làng địa phương": 0.5,
+            "kẹo dừa": 0.5,
+            "cơm": 0.5,
+            "rượu rắn": 0.5,
+            "rượu thủy tinh": 0.5,
+            "con người": 0.5,
+            "di tích vì giao thông": 0.5,
+            "khu chợ": 0.5,
+            "trải nghiệm khi": 0.5
+        }
     },
     {
         "attraction_name": "Cai Be Floating Market",
@@ -238,6 +652,287 @@
             "https://www.tripadvisor.com/Attraction_Review-g580284-d12938537-Reviews-C_an_Picafort_Market-Ca_n_Picafort_Majorca_Balearic_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g3648985-d1865775-Reviews-or10-Cai_Be_Floating_Market-Cai_Be_Tien_Giang_Province_Mekong_Delta.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g3648985-d1865775-Reviews-Cai_Be_Floating_Market-Cai_Be_Tien_Giang_Province_Mekong_Delta.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g3648985-d1865775-Reviews-Cai_Be_Floating_Market-Cai_Be_Tien_Giang_Province_Mekong_Delta.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chợ": 0.3844449382741004,
+            "đồng bằng sông cửu long": 0.8737691454589367,
+            "sà lan": 0.5,
+            "sản": 0.5,
+            "trái cây": 0.2614978306228295,
+            "rau củ": 0.5,
+            "thuyền": 0.39683625870384276,
+            "xà": -0.8988024853751995,
+            "ngô": 0.8737691454589367,
+            "dưa": -0.9559812487568706,
+            "quán cà phê": 0.5,
+            "tàu": 0.5,
+            "ăn dứa": 0.5,
+            "ngôi làng": -0.9679141661617905,
+            "người hướng dẫn": 0.661594758508727,
+            "thùng rác": 0.5,
+            "vứt": 0.5678744493052363,
+            "rác thải": 0.5,
+            "sông": 0.5991058682557195,
+            "biển": 0.5,
+            "chợ nổi": 0.4524527204533418,
+            "cuộc sống địa phương": 0.8737691454589367,
+            "văn hóa miền nam": 0.8737691454589367,
+            "thuyền bán": -0.974395131575875,
+            "sản phẩm": -0.9759748301003128,
+            "rau tươi": 0.9954239156795666,
+            "cá dừa nóng": 0.9294031532481313,
+            "chợ thuyền": 0.9953256283770315,
+            "chuyến tham quan": -0.023931627976708114,
+            "thực phẩm": 0.5,
+            "kẹo dừa": 0.8737691454589367,
+            "món cơm rang": 0.5,
+            "khu chợ": 0.9885581510607153,
+            "ngôi nhà sàn": 0.5255166534334421,
+            "bờ": 0.5352951623499393,
+            "vẫy": 0.9948501571197994,
+            "lối": -0.9742676250170916,
+            "du ngoạn": 0.9949495298787951,
+            "được": 0.5,
+            "kênh": 0.5,
+            "người dân địa phương": 0.5,
+            "chèo": 0.5,
+            "thuyền kayak": 0.5144860539585352,
+            "xe đạp": 0.5,
+            "bến thuyền": 0.9709880581358448,
+            "tầm nhìn": 0.7055935440585017,
+            "nhà máy": 0.5,
+            "bánh tráng": 0.5,
+            "rượu vang": 0.5,
+            "đó ăn trưa": 0.9947661992628127,
+            "hướng dẫn viên": 0.44631203822791576,
+            "chèo thuyền kayak": 0.5224935840815306,
+            "chèo thuyền": 0.9950135144172236,
+            "bởi thảm": 0.5,
+            "thực vật": 0.5,
+            "hàng tấn": 0.5,
+            "trình bày": -0.09540980379097164,
+            "chuyến đi": -0.9006927073933184,
+            "trang phục": 0.4762995317578316
+        },
+        "dicts_adj": {
+            "chợ": [
+                "nhỏ",
+                "công cộng",
+                "nhiều"
+            ],
+            "đồng bằng sông cửu long": [
+                "chủ yếu",
+                "thú vị",
+                "riêng"
+            ],
+            "sà lan": [],
+            "sản": [],
+            "trái cây": [
+                "khác",
+                "cổ",
+                "khác",
+                "cổ"
+            ],
+            "rau củ": [],
+            "thuyền": [
+                "nhỏ",
+                "khác",
+                "nhỏ",
+                "nhỏ",
+                "khác",
+                "cổ",
+                "khác",
+                "cổ",
+                "nhỏ",
+                "nhỏ"
+            ],
+            "xà": [
+                "đầy",
+                "bí"
+            ],
+            "ngô": [
+                "bí"
+            ],
+            "dưa": [
+                "bí"
+            ],
+            "quán cà phê": [],
+            "tàu": [],
+            "ăn dứa": [],
+            "ngôi làng": [
+                "gần",
+                "bẩn thỉu"
+            ],
+            "người hướng dẫn": [
+                "thú vị",
+                "tốt"
+            ],
+            "thùng rác": [],
+            "vứt": [
+                "dễ dàng",
+                "hơn"
+            ],
+            "rác thải": [],
+            "sông": [
+                "tuyệt vời"
+            ],
+            "biển": [],
+            "chợ nổi": [
+                "nhỏ"
+            ],
+            "cuộc sống địa phương": [
+                "hấp dẫn"
+            ],
+            "văn hóa miền nam": [
+                "hấp dẫn"
+            ],
+            "thuyền bán": [
+                "chủ yếu"
+            ],
+            "sản phẩm": [
+                "chủ yếu"
+            ],
+            "rau tươi": [
+                "nóng hổi"
+            ],
+            "cá dừa nóng": [
+                "nóng hổi"
+            ],
+            "chợ thuyền": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "nhiều",
+                "sai",
+                "hoàn toàn"
+            ],
+            "thực phẩm": [],
+            "kẹo dừa": [
+                "tuyệt vời"
+            ],
+            "món cơm rang": [],
+            "khu chợ": [
+                "vui",
+                "yên tĩnh"
+            ],
+            "ngôi nhà sàn": [
+                "hơn"
+            ],
+            "bờ": [
+                "hơn"
+            ],
+            "vẫy": [],
+            "lối": [
+                "khó khăn"
+            ],
+            "du ngoạn": [
+                "thú vị"
+            ],
+            "được": [],
+            "kênh": [],
+            "người dân địa phương": [],
+            "chèo": [],
+            "thuyền kayak": [
+                "nhỏ"
+            ],
+            "xe đạp": [],
+            "bến thuyền": [
+                "khác",
+                "cổ"
+            ],
+            "tầm nhìn": [
+                "khác",
+                "cổ"
+            ],
+            "nhà máy": [],
+            "bánh tráng": [],
+            "rượu vang": [],
+            "đó ăn trưa": [
+                "ngon"
+            ],
+            "hướng dẫn viên": [
+                "nhỏ"
+            ],
+            "chèo thuyền kayak": [
+                "nhỏ"
+            ],
+            "chèo thuyền": [
+                "hào hứng"
+            ],
+            "bởi thảm": [],
+            "thực vật": [],
+            "hàng tấn": [],
+            "trình bày": [
+                "sai",
+                "hoàn toàn"
+            ],
+            "chuyến đi": [
+                "bất kỳ"
+            ],
+            "trang phục": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chợ": 2.0,
+            "đồng bằng sông cửu long": 2.0,
+            "sà lan": 1,
+            "sản": 1,
+            "trái cây": 1.5,
+            "rau củ": 1,
+            "thuyền": 3.0,
+            "xà": 1,
+            "ngô": 1,
+            "dưa": 1,
+            "quán cà phê": 1.5,
+            "tàu": 1,
+            "ăn dứa": 1,
+            "ngôi làng": 1,
+            "người hướng dẫn": 1.5,
+            "thùng rác": 1,
+            "vứt": 1,
+            "rác thải": 1.5,
+            "sông": 2.5,
+            "biển": 1,
+            "chợ nổi": 1.5,
+            "cuộc sống địa phương": 0.5,
+            "văn hóa miền nam": 0.5,
+            "thuyền bán": 0.5,
+            "sản phẩm": 0.5,
+            "rau tươi": 0.5,
+            "cá dừa nóng": 0.5,
+            "chợ thuyền": 0.5,
+            "chuyến tham quan": 1.0,
+            "thực phẩm": 0.5,
+            "kẹo dừa": 0.5,
+            "món cơm rang": 0.5,
+            "khu chợ": 0.5,
+            "ngôi nhà sàn": 0.5,
+            "bờ": 0.5,
+            "vẫy": 0.5,
+            "lối": 0.5,
+            "du ngoạn": 0.5,
+            "được": 0.5,
+            "kênh": 0.5,
+            "người dân địa phương": 0.5,
+            "chèo": 0.5,
+            "thuyền kayak": 0.5,
+            "xe đạp": 0.5,
+            "bến thuyền": 0.5,
+            "tầm nhìn": 0.5,
+            "nhà máy": 0.5,
+            "bánh tráng": 0.5,
+            "rượu vang": 0.5,
+            "đó ăn trưa": 0.5,
+            "hướng dẫn viên": 0.5,
+            "chèo thuyền kayak": 0.5,
+            "chèo thuyền": 0.5,
+            "bởi thảm": 0.5,
+            "thực vật": 0.5,
+            "hàng tấn": 0.5,
+            "trình bày": 0.5,
+            "chuyến đi": 0.5,
+            "trang phục": 0.5
+        }
     }
 ]

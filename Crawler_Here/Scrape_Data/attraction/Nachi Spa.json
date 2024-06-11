@@ -119,7 +119,201 @@
             "https://www.tripadvisor.com/Attraction_Review-g28954-d143682-Reviews-Coquina_Beach-North_Carolina.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-or10-Nachi_Spa-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-Nachi_Spa-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-Nachi_Spa-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.819400851323735,
+            "xoài": 0.9936990134883672,
+            "dịch vụ mát-xa trẻ hóa": -0.7715050000697374,
+            "và": -0.9711468790192157,
+            "không gian": 0.8737691454589367,
+            "chuyên gia trị liệu": 0.5,
+            "chuyến đi": 0.9954474013065919,
+            "massage": 0.563334336704429,
+            "dịch vụ": 0.9693189047975466,
+            "chất lượng quá": 0.9954087596852332,
+            "là": 0.5,
+            "xoa bóp": 0.3856099098920822,
+            "dịch vụ mát-xa cổ và": 0.7352483951253816,
+            "của chúng": 0.5,
+            "mát-xa": 0.8183733309124364,
+            "buổi": 0.9956071865162812,
+            "mát-xa tuyệt vời": 0.9954177888575941,
+            "giá cả": 0.9259743156809626,
+            "spa": 0.8737691454589367,
+            "phố cổ": 0.9947594112018123,
+            "trà xoài": 0.5,
+            "bồn ngâm chân": 0.5,
+            "cũng thật": 0.9472249631362502,
+            "được sử": 0.9930464562494308,
+            "giá": 0.9948356293025427,
+            "trải nghiệm": 0.9938696512544993,
+            "bầu không khí": 0.9666090975515544,
+            "giá trị": 0.9950628653168678,
+            "trẻ hóa": 0.12236475199460983,
+            "trái cây": 0.7465966465533711,
+            "cơ sở": 0.9942482884507626,
+            "đồ uống": 0.5,
+            "massage chân": 0.9939390399958938,
+            "thị trấn": 0.9955484693055041,
+            "mát-xa chân 30 phút": 0.9952972111059353
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "thân thiện",
+                "tốt bụng",
+                "kỹ",
+                "tốt bụng"
+            ],
+            "xoài": [
+                "ngon",
+                "ngon"
+            ],
+            "dịch vụ mát-xa trẻ hóa": [
+                "đủ"
+            ],
+            "và": [
+                "đủ"
+            ],
+            "không gian": [
+                "thanh bình"
+            ],
+            "chuyên gia trị liệu": [],
+            "chuyến đi": [
+                "thực sự",
+                "tuyệt vời",
+                "sớm"
+            ],
+            "massage": [
+                "tốt",
+                "cổ",
+                "thực sự",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "chất lượng quá": [
+                "tuyệt vời"
+            ],
+            "là": [],
+            "xoa bóp": [],
+            "dịch vụ mát-xa cổ và": [
+                "tình cờ",
+                "gần"
+            ],
+            "của chúng": [],
+            "mát-xa": [
+                "tuyệt vời",
+                "nhẹ nhàng",
+                "đầu đầu",
+                "bất ngờ",
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "buổi": [
+                "hài lòng"
+            ],
+            "mát-xa tuyệt vời": [
+                "hài lòng"
+            ],
+            "giá cả": [
+                "thực sự",
+                "tuyệt vời",
+                "sạch sẽ"
+            ],
+            "spa": [
+                "cổ",
+                "thực sự"
+            ],
+            "phố cổ": [
+                "niềm nở"
+            ],
+            "trà xoài": [],
+            "bồn ngâm chân": [],
+            "cũng thật": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "được sử": [
+                "thực sự"
+            ],
+            "giá": [
+                "chắc chắn",
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "tốt",
+                "tuyệt vời"
+            ],
+            "bầu không khí": [
+                "đẹp",
+                "thư giãn"
+            ],
+            "giá trị": [
+                "tốt"
+            ],
+            "trẻ hóa": [
+                "tràn đầy"
+            ],
+            "trái cây": [
+                "tươi",
+                "thú vị"
+            ],
+            "cơ sở": [
+                "sạch sẽ"
+            ],
+            "đồ uống": [],
+            "massage chân": [
+                "chắc chắn"
+            ],
+            "thị trấn": [
+                "sạch sẽ",
+                "chuyên nghiệp"
+            ],
+            "mát-xa chân 30 phút": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 4.5,
+            "xoài": 1,
+            "dịch vụ mát-xa trẻ hóa": 1.5,
+            "và": 1.5,
+            "không gian": 1.5,
+            "chuyên gia trị liệu": 1.5,
+            "chuyến đi": 1.5,
+            "massage": 8.0,
+            "dịch vụ": 3.5,
+            "chất lượng quá": 1.5,
+            "là": 1.5,
+            "xoa bóp": 1.5,
+            "dịch vụ mát-xa cổ và": 1.5,
+            "của chúng": 1.5,
+            "mát-xa": 3.0,
+            "buổi": 1.5,
+            "mát-xa tuyệt vời": 1.5,
+            "giá cả": 3.5,
+            "spa": 1.5,
+            "phố cổ": 1.5,
+            "trà xoài": 1.5,
+            "bồn ngâm chân": 1.5,
+            "cũng thật": 1.5,
+            "được sử": 1.5,
+            "giá": 1.5,
+            "trải nghiệm": 4,
+            "bầu không khí": 2,
+            "giá trị": 2,
+            "trẻ hóa": 2,
+            "trái cây": 4,
+            "cơ sở": 2,
+            "đồ uống": 2,
+            "massage chân": 2,
+            "thị trấn": 2,
+            "mát-xa chân 30 phút": 2
+        }
     },
     {
         "attraction_name": "Nachi Spa",
@@ -242,7 +436,138 @@
             "https://www.tripadvisor.com/Attraction_Review-g1475965-d116440-Reviews-FORT_MORGAN_HISTORIC_SITE-Fort_Morgan_Alabama.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-or20-Nachi_Spa-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-or10-Nachi_Spa-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-or10-Nachi_Spa-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ mát-xa trẻ hóa": -0.2974546644836664,
+            "và": -0.8767487895675004,
+            "bầu không khí": 0.2770622381940484,
+            "nhà trị liệu": 0.5,
+            "mát-xa": 0.7786827506109452,
+            "cổ và chúng": 0.8445160235278308,
+            "của chúng": 0.5,
+            "và đã": 0.5,
+            "buổi mát-xa": 0.7692070102784783,
+            "đầu": 0.7471370006096549,
+            "giá cả": 0.9813383896835148,
+            "massage": 0.37564426800236106,
+            "không khí": 0.5,
+            "nhân viên": 0.9346453024481889,
+            "dịch vụ": 0.9346294068964198,
+            "xoài": 0.9953686413937248,
+            "trà": 0.9843022504355758,
+            "dịch vụ mát-xa cổ và": 0.7352483951253816,
+            "buổi": 0.9956071865162812,
+            "mát-xa tuyệt vời": 0.9954177888575941,
+            "cửa hàng": 0.8530204187651785,
+            "trải nghiệm": 0.9952929429709911
+        },
+        "dicts_adj": {
+            "dịch vụ mát-xa trẻ hóa": [
+                "đủ"
+            ],
+            "và": [
+                "đủ"
+            ],
+            "bầu không khí": [
+                "thanh thản",
+                "dễ chịu"
+            ],
+            "nhà trị liệu": [],
+            "mát-xa": [
+                "tình cờ",
+                "gần",
+                "tuyệt vời",
+                "hài lòng",
+                "tuyệt vời",
+                "nhẹ nhàng",
+                "đầu đầu",
+                "bất ngờ"
+            ],
+            "cổ và chúng": [
+                "tình cờ",
+                "gần"
+            ],
+            "của chúng": [],
+            "và đã": [],
+            "buổi mát-xa": [
+                "nhẹ nhàng",
+                "đầu đầu"
+            ],
+            "đầu": [
+                "bất ngờ"
+            ],
+            "giá cả": [
+                "thực sự",
+                "thực sự",
+                "tuyệt",
+                "thực sự",
+                "tuyệt vời",
+                "hợp lý"
+            ],
+            "massage": [
+                "tuyệt vời",
+                "tuyệt",
+                "tuyệt vời"
+            ],
+            "không khí": [],
+            "nhân viên": [
+                "ngọt ngào",
+                "lịch sự",
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "xoài": [
+                "cuối cùng"
+            ],
+            "trà": [],
+            "dịch vụ mát-xa cổ và": [
+                "tình cờ",
+                "gần"
+            ],
+            "buổi": [
+                "hài lòng"
+            ],
+            "mát-xa tuyệt vời": [
+                "hài lòng"
+            ],
+            "cửa hàng": [
+                "sạch sẽ",
+                "gọn gàng",
+                "dễ chịu"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ mát-xa trẻ hóa": 1.5,
+            "và": 1.5,
+            "bầu không khí": 3.0,
+            "nhà trị liệu": 1.5,
+            "mát-xa": 4.5,
+            "cổ và chúng": 1.5,
+            "của chúng": 3.0,
+            "và đã": 1.5,
+            "buổi mát-xa": 1.5,
+            "đầu": 3.0,
+            "giá cả": 4.5,
+            "massage": 4.5,
+            "không khí": 1.5,
+            "nhân viên": 3.0,
+            "dịch vụ": 3.0,
+            "xoài": 1.5,
+            "trà": 1.5,
+            "dịch vụ mát-xa cổ và": 1.5,
+            "buổi": 1.5,
+            "mát-xa tuyệt vời": 1.5,
+            "cửa hàng": 1.5,
+            "trải nghiệm": 1.5
+        }
     },
     {
         "attraction_name": "Nachi Spa",
@@ -366,7 +691,109 @@
             "https://www.tripadvisor.com/Attraction_Review-g641824-d12833819-Reviews-Naaaktstrand_Bredene-Bredene_West_Flanders_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-or30-Nachi_Spa-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-or20-Nachi_Spa-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-or20-Nachi_Spa-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "massage": 0.9884163275244645,
+            "spa": 0.8737691454589367,
+            "phố cổ": 0.9753931416198611,
+            "trà xoài": 0.5,
+            "buổi": 0.7134064170531929,
+            "kỹ thuật": -0.11377779440954328,
+            "giá cả": 0.99453265190823,
+            "mát-xa tốt nhất": 0.5,
+            "châu á": 0.8737691454589367,
+            "quanh thái": 0.8737691454589367,
+            "mát-xa": 0.6015627073356882,
+            "kiểu thái": 0.8737691454589367,
+            "họ còn": 0.5,
+            "một": 0.5,
+            "dịch vụ": 0.995541918266099,
+            "nhân viên": 0.9955687005422078,
+            "mùi": 0.9955320814042352
+        },
+        "dicts_adj": {
+            "massage": [
+                "cổ",
+                "thực sự",
+                "tuyệt vời",
+                "tuyệt vời",
+                "nhiều",
+                "tốt",
+                "tốt"
+            ],
+            "spa": [
+                "cổ",
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "phố cổ": [
+                "nồng nhiệt"
+            ],
+            "trà xoài": [],
+            "buổi": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "kỹ thuật": [
+                "khác",
+                "thực sự"
+            ],
+            "giá cả": [
+                "chắc chắn",
+                "tốt"
+            ],
+            "mát-xa tốt nhất": [],
+            "châu á": [
+                "thực sự"
+            ],
+            "quanh thái": [
+                "thực sự"
+            ],
+            "mát-xa": [
+                "đầu tiên",
+                "tuyệt"
+            ],
+            "kiểu thái": [
+                "đầu tiên",
+                "tuyệt"
+            ],
+            "họ còn": [],
+            "một": [],
+            "dịch vụ": [
+                "tốt",
+                "chuyên nghiệp",
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "tuyệt vời"
+            ],
+            "mùi": [
+                "sạch sẽ",
+                "thơm",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "massage": 4.5,
+            "spa": 1.5,
+            "phố cổ": 1.5,
+            "trà xoài": 1.5,
+            "buổi": 3.0,
+            "kỹ thuật": 1.5,
+            "giá cả": 1.5,
+            "mát-xa tốt nhất": 1.5,
+            "châu á": 1.5,
+            "quanh thái": 1.5,
+            "mát-xa": 3.0,
+            "kiểu thái": 1.5,
+            "họ còn": 1.5,
+            "một": 1.5,
+            "dịch vụ": 3.0,
+            "nhân viên": 1.5,
+            "mùi": 1.5
+        }
     },
     {
         "attraction_name": "Nachi Spa",
@@ -490,7 +917,67 @@
             "https://www.tripadvisor.com/Attraction_Review-g55863-d145690-Reviews-Enchanted_Rock_Cave-Fredericksburg_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-or40-Nachi_Spa-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-or30-Nachi_Spa-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-or30-Nachi_Spa-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "massage": 0.7997739368681019,
+            "chất lượng": 0.9955364377819933,
+            "nhân viên": 0.7585950633801986,
+            "bố": 0.9948647439014167,
+            "dịch vụ": 0.995085010130424,
+            "na": 0.5,
+            "trà": 0.5,
+            "bánh quy": 0.5,
+            "chuyến thăm": 0.9944086574832909,
+            "na chi": 0.8737691454589367,
+            "bánh": 0.9688624397385865
+        },
+        "dicts_adj": {
+            "massage": [
+                "đầu tiên",
+                "hài lòng",
+                "tuyệt vời",
+                "thân thiện",
+                "thư giãn"
+            ],
+            "chất lượng": [
+                "tuyệt"
+            ],
+            "nhân viên": [
+                "cẩn thận"
+            ],
+            "bố": [
+                "hữu ích"
+            ],
+            "dịch vụ": [
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "na": [],
+            "trà": [],
+            "bánh quy": [],
+            "chuyến thăm": [
+                "tốt đẹp"
+            ],
+            "na chi": [
+                "hài lòng"
+            ],
+            "bánh": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "massage": 4.5,
+            "chất lượng": 1.5,
+            "nhân viên": 3.0,
+            "bố": 1.5,
+            "dịch vụ": 3.0,
+            "na": 1.5,
+            "trà": 1.5,
+            "bánh quy": 1.5,
+            "chuyến thăm": 1.5,
+            "na chi": 1.5,
+            "bánh": 1.5
+        }
     },
     {
         "attraction_name": "Nachi Spa",
@@ -614,7 +1101,69 @@
             "https://www.tripadvisor.com/Attraction_Review-g499445-d3844517-Reviews-Cenote_Santa_Cruz-Akumal_Yucatan_Peninsula.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-or50-Nachi_Spa-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-or40-Nachi_Spa-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-or40-Nachi_Spa-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "massage": 0.9955666205496527,
+            "giá cả": 0.9954154303995892,
+            "na chi": 0.8737691454589367,
+            "spa": 0.6182548375800252,
+            "chuyến thăm": 0.5,
+            "massage chân": 0.8737691454589367,
+            "trải nghiệm": 0.5,
+            "mọi": 0.9939677687943913,
+            "thời tiết": -0.9621511090081185,
+            "mát-xa": 0.5,
+            "toàn bộ": 0.5,
+            "nhân viên": 0.9956053670030087
+        },
+        "dicts_adj": {
+            "massage": [
+                "đẹp"
+            ],
+            "giá cả": [
+                "tuyệt vời"
+            ],
+            "na chi": [
+                "tuyệt vời"
+            ],
+            "spa": [
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "chuyến thăm": [],
+            "massage chân": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [],
+            "mọi": [
+                "thân thiện"
+            ],
+            "thời tiết": [
+                "đẹp"
+            ],
+            "mát-xa": [],
+            "toàn bộ": [],
+            "nhân viên": [
+                "Chắc chắn",
+                "thân thiện"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "massage": 1,
+            "giá cả": 1,
+            "na chi": 1,
+            "spa": 2,
+            "chuyến thăm": 1,
+            "massage chân": 1,
+            "trải nghiệm": 1,
+            "mọi": 1,
+            "thời tiết": 1,
+            "mát-xa": 1,
+            "toàn bộ": 1,
+            "nhân viên": 1
+        }
     },
     {
         "attraction_name": "Nachi Spa",
@@ -738,7 +1287,75 @@
             "https://www.tripadvisor.com/Attraction_Review-g298298-d8522360-Reviews-Concubine_Lane-Ipoh_Kinta_District_Perak.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-or60-Nachi_Spa-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-or50-Nachi_Spa-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-or50-Nachi_Spa-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa hàng": 0.9953435360803269,
+            "mát-xa rất tốt": 0.9952961737290025,
+            "dịch vụ": 0.9345372391690034,
+            "nhân viên": 0.8553079299454112,
+            "đồ uống": 0.9939336498500779,
+            "căn phòng": 0.9953527739271522,
+            "trải nghiệm": 0.7477071406901814,
+            "giấy": 0.5,
+            "spa": 0.995527273917105,
+            "massage": 0.9897287850035354,
+            "trà": 0.9955477936309762
+        },
+        "dicts_adj": {
+            "cửa hàng": [
+                "đẹp"
+            ],
+            "mát-xa rất tốt": [],
+            "dịch vụ": [
+                "hoàn hảo",
+                "tốt"
+            ],
+            "nhân viên": [
+                "nhẹ",
+                "ân cần",
+                "liên tục",
+                "ổn",
+                "xinh đẹp",
+                "tốt",
+                "tốt"
+            ],
+            "đồ uống": [
+                "nhẹ"
+            ],
+            "căn phòng": [
+                "kỳ diệu"
+            ],
+            "trải nghiệm": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "giấy": [],
+            "spa": [
+                "vui vẻ"
+            ],
+            "massage": [
+                "tốt"
+            ],
+            "trà": [
+                "thực sự",
+                "ngon"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa hàng": 1,
+            "mát-xa rất tốt": 1,
+            "dịch vụ": 2,
+            "nhân viên": 4,
+            "đồ uống": 1,
+            "căn phòng": 1,
+            "trải nghiệm": 2,
+            "giấy": 1,
+            "spa": 1,
+            "massage": 1,
+            "trà": 1
+        }
     },
     {
         "attraction_name": "Nachi Spa",
@@ -862,7 +1479,75 @@
             "https://www.tripadvisor.com/Attraction_Review-g297913-d13295127-Reviews-Lake_Duluti-Arusha_Arusha_Region.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-or70-Nachi_Spa-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-or60-Nachi_Spa-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-or60-Nachi_Spa-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "spa": 0.9296227624872699,
+            "dịch vụ": 0.9956147758639418,
+            "nhân viên": 0.9942233711772133,
+            "buổi": 0.9950587685889332,
+            "mát xa dầu thái": 0.8737691454589367,
+            "trải nghiệm": 0.9923687020200305,
+            "mát-xa": 0.9945092420093715,
+            "mát-xa toàn thân": 0.9950185372726992,
+            "trong": 0.995384092675522,
+            "thời gian ngắn": 0.994805094669573
+        },
+        "dicts_adj": {
+            "spa": [
+                "Thực sự",
+                "tốt"
+            ],
+            "dịch vụ": [
+                "tuyệt"
+            ],
+            "nhân viên": [
+                "tốt bụng",
+                "thú vị",
+                "tốt"
+            ],
+            "buổi": [
+                "mạnh mẽ",
+                "tuyệt vời",
+                "nhất",
+                "dài"
+            ],
+            "mát xa dầu thái": [
+                "mạnh mẽ",
+                "tuyệt vời",
+                "nhất",
+                "dài"
+            ],
+            "trải nghiệm": [
+                "tốt"
+            ],
+            "mát-xa": [
+                "Chắc chắn",
+                "tuyệt vời"
+            ],
+            "mát-xa toàn thân": [
+                "tuyệt vời"
+            ],
+            "trong": [
+                "hoàn toàn"
+            ],
+            "thời gian ngắn": [
+                "hoàn toàn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "spa": 2,
+            "dịch vụ": 1,
+            "nhân viên": 2,
+            "buổi": 1,
+            "mát xa dầu thái": 1,
+            "trải nghiệm": 1,
+            "mát-xa": 1,
+            "mát-xa toàn thân": 1,
+            "trong": 1,
+            "thời gian ngắn": 1
+        }
     },
     {
         "attraction_name": "Nachi Spa",
@@ -986,6 +1671,52 @@
             "https://www.tripadvisor.com/Attraction_Review-g1798615-d283397-Reviews-The_Gondola_at_Heavenly-South_Lake_Tahoe_Lake_Tahoe_California_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-or80-Nachi_Spa-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-or70-Nachi_Spa-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15603763-Reviews-or70-Nachi_Spa-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "massage": 0.9487815947407702,
+            "sức mạnh": 0.9946593031054363,
+            "nhân viên": 0.8737691454589367,
+            "trải nghiệm": 0.9955263141891919,
+            "mát-xa": 0.3577176183462143,
+            "khô và người": 0.947767018340528
+        },
+        "dicts_adj": {
+            "massage": [
+                "dài",
+                "tốt",
+                "sạch sẽ",
+                "đẹp",
+                "nồng hậu",
+                "sạch sẽ",
+                "tuyệt vời",
+                "nóng"
+            ],
+            "sức mạnh": [
+                "đúng"
+            ],
+            "nhân viên": [
+                "thực sự"
+            ],
+            "trải nghiệm": [
+                "đẹp",
+                "tốt"
+            ],
+            "mát-xa": [
+                "mạnh"
+            ],
+            "khô và người": [
+                "mạnh"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "massage": 3,
+            "sức mạnh": 1,
+            "nhân viên": 1,
+            "trải nghiệm": 1,
+            "mát-xa": 1,
+            "khô và người": 1
+        }
     }
 ]

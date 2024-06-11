@@ -83,6 +83,35 @@
             "https://www.tripadvisor.com/Attraction_Review-g293974-d2037618-Reviews-Besiktas-Istanbul.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d19849875-Reviews-Ariyana_Convention_Centre-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d19849875-Reviews-Ariyana_Convention_Centre-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "sự kiện": 0.9944493117800448,
+            "cơ sở vật chất": 0.8737691454589367,
+            "view": 0.9956059468095191,
+            "đồ ăn buffet": 0.9955440709018148
+        },
+        "dicts_adj": {
+            "sự kiện": [
+                "đẹp",
+                "hoành tráng"
+            ],
+            "cơ sở vật chất": [
+                "sạch sẽ"
+            ],
+            "view": [
+                "sạch sẽ"
+            ],
+            "đồ ăn buffet": [
+                "ngon"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "sự kiện": 1,
+            "cơ sở vật chất": 1,
+            "view": 1,
+            "đồ ăn buffet": 1
+        }
     }
 ]

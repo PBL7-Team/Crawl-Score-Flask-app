@@ -53,6 +53,90 @@
             "https://www.tripadvisor.com/Attraction_Review-g425061-d3183608-Reviews-Cirque_de_Gavarnie-Gavarnie_Hautes_Pyrenees_Occitanie.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g469420-d12179022-Reviews-Sa_Lon_Pagoda-Soc_Trang_Soc_Trang_Province_Mekong_Delta.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g469420-d12179022-Reviews-Sa_Lon_Pagoda-Soc_Trang_Soc_Trang_Province_Mekong_Delta.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chùa sà lôn": 0.8737691454589367,
+            "hành hương": 0.5,
+            "vãn cảnh": 0.5,
+            "sân": 0.5,
+            "tượng": 0.5,
+            "điển tích rắn": 0.5,
+            "dãy nhà": 0.5378961302340031,
+            "pho tượng": 0.5000656396150589,
+            "câu chuyện": 0.5,
+            "sa": 0.9951353804208338,
+            "ngôi chùa": 0.894195836794097,
+            "tòa nhà": 0.4763527736067772,
+            "sàn": 0.5190862063318491,
+            "mảnh": 0.5,
+            "sa thạch": 0.5,
+            "công viên": -0.908377496059984,
+            "biển báo": 0.9149756636470556,
+            "ca": -0.5914185307919979,
+            "nhà kho": 0.5
+        },
+        "dicts_adj": {
+            "chùa sà lôn": [
+                "đông đảo"
+            ],
+            "hành hương": [],
+            "vãn cảnh": [],
+            "sân": [],
+            "tượng": [],
+            "điển tích rắn": [],
+            "dãy nhà": [],
+            "pho tượng": [
+                "lớn nhỏ"
+            ],
+            "câu chuyện": [],
+            "sa": [
+                "to"
+            ],
+            "ngôi chùa": [
+                "nổi bật",
+                "độc đáo"
+            ],
+            "tòa nhà": [
+                "trần"
+            ],
+            "sàn": [
+                "trần"
+            ],
+            "mảnh": [],
+            "sa thạch": [],
+            "công viên": [
+                "đặc biệt"
+            ],
+            "biển báo": [
+                "đặc biệt"
+            ],
+            "ca": [
+                "dài"
+            ],
+            "nhà kho": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chùa sà lôn": 0.5,
+            "hành hương": 0.5,
+            "vãn cảnh": 0.5,
+            "sân": 0.5,
+            "tượng": 0.5,
+            "điển tích rắn": 0.5,
+            "dãy nhà": 0.5,
+            "pho tượng": 0.5,
+            "câu chuyện": 0.5,
+            "sa": 0.5,
+            "ngôi chùa": 0.5,
+            "tòa nhà": 0.5,
+            "sàn": 0.5,
+            "mảnh": 0.5,
+            "sa thạch": 0.5,
+            "công viên": 0.5,
+            "biển báo": 0.5,
+            "ca": 0.5,
+            "nhà kho": 0.5
+        }
     }
 ]

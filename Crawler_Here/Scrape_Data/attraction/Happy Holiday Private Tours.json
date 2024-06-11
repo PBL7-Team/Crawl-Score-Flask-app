@@ -88,7 +88,175 @@
             "https://www.tripadvisor.com/Attraction_Review-g658914-d4355603-Reviews-Dimitris_restaurant_Greek_Nights-Kamari_Santorini_Cyclades_South_Aegean.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or10-Happy_Holiday_Private_Tours-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-Happy_Holiday_Private_Tours-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-Happy_Holiday_Private_Tours-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên du lịch": 0.8140049907590516,
+            "sân bay": 0.9928782665519975,
+            "núi khỉ núi đá cẩm thạch sông hàn": 0.9875560435466468,
+            "chuyến du lịch": 0.9952089349972084,
+            "tâm": 0.8737691454589367,
+            "thế giới": -0.9459084901027381,
+            "khu vườn": 0.9911230326397344,
+            "thời tiết mát mẻ": 0.9834342104149982,
+            "phong cảnh": 0.9944267470855266,
+            "bánh kếp phô mai": -0.9667452706489712,
+            "bánh xèo": 0.03472532448358834,
+            "trải nghiệm": 0.8737691454589367,
+            "hướng dẫn viên quân": 0.8737691454589367,
+            "mỹ sơn": 0.5098171345889568,
+            "lịch sử": 0.5,
+            "cuộc sống": 0.5,
+            "hướng dẫn quân": 0.8841186240315437,
+            "chuyến lưu diễn": 0.7331063002347946,
+            "văn hóa": 0.5,
+            "chuyến tham": 0.9953450748871546,
+            "món ăn": 0.8737691454589367,
+            "hội an": 0.8737691454589367,
+            "chuyến đi": 0.9955300359870307,
+            "hướng dẫn viên": 0.3719174834162307,
+            "tour du lịch": 0.8737691454589367,
+            "khách sạn": 0.9953905236325227,
+            "cáp treo": 0.5652982462197542,
+            "nhà hàng": 0.6916952431201935,
+            "địa điểm": 0.9948217188939452,
+            "buổi": 0.763418226968497,
+            "chuyến thăm": 0.5,
+            "trang phục": 0.5,
+            "rạp giải trí": 0.9823745070025325,
+            "chuyến tham quan": 0.5448309257626534
+        },
+        "dicts_adj": {
+            "hướng dẫn viên du lịch": [
+                "Đặc biệt",
+                "nhiệt tình"
+            ],
+            "sân bay": [],
+            "núi khỉ núi đá cẩm thạch sông hàn": [],
+            "chuyến du lịch": [
+                "đặc biệt",
+                "riêng",
+                "vui vẻ"
+            ],
+            "tâm": [
+                "vui vẻ",
+                "thú vị"
+            ],
+            "thế giới": [],
+            "khu vườn": [
+                "đầy"
+            ],
+            "thời tiết mát mẻ": [],
+            "phong cảnh": [
+                "tốt"
+            ],
+            "bánh kếp phô mai": [],
+            "bánh xèo": [
+                "cũ",
+                "tươi"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên quân": [
+                "tuyệt vời"
+            ],
+            "mỹ sơn": [
+                "cùng"
+            ],
+            "lịch sử": [],
+            "cuộc sống": [],
+            "hướng dẫn quân": [
+                "khuyến khích"
+            ],
+            "chuyến lưu diễn": [],
+            "văn hóa": [],
+            "chuyến tham": [
+                "tốt đẹp",
+                "dễ dàng",
+                "nhiều",
+                "thú vị"
+            ],
+            "món ăn": [
+                "ngon"
+            ],
+            "hội an": [
+                "ngon"
+            ],
+            "chuyến đi": [
+                "xuất sắc",
+                "thú vị",
+                "hơn"
+            ],
+            "hướng dẫn viên": [
+                "xuất sắc",
+                "hiểu biết",
+                "vui vẻ",
+                "xuất sắc",
+                "hiểu biết",
+                "vui vẻ"
+            ],
+            "tour du lịch": [
+                "tuyệt vời"
+            ],
+            "khách sạn": [
+                "xinh đẹp"
+            ],
+            "cáp treo": [],
+            "nhà hàng": [],
+            "địa điểm": [
+                "sẵn sàng",
+                "đẹp"
+            ],
+            "buổi": [
+                "Tốt",
+                "sớm",
+                "đông đúc"
+            ],
+            "chuyến thăm": [],
+            "trang phục": [],
+            "rạp giải trí": [
+                "nóng"
+            ],
+            "chuyến tham quan": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên du lịch": 5.5,
+            "sân bay": 2,
+            "núi khỉ núi đá cẩm thạch sông hàn": 2,
+            "chuyến du lịch": 2,
+            "tâm": 2,
+            "thế giới": 2,
+            "khu vườn": 2,
+            "thời tiết mát mẻ": 2,
+            "phong cảnh": 2,
+            "bánh kếp phô mai": 2,
+            "bánh xèo": 2,
+            "trải nghiệm": 1.5,
+            "hướng dẫn viên quân": 1.5,
+            "mỹ sơn": 1.5,
+            "lịch sử": 3.0,
+            "cuộc sống": 1.5,
+            "hướng dẫn quân": 1.5,
+            "chuyến lưu diễn": 1.5,
+            "văn hóa": 1.5,
+            "chuyến tham": 3.0,
+            "món ăn": 1.5,
+            "hội an": 1.5,
+            "chuyến đi": 1.5,
+            "hướng dẫn viên": 1.5,
+            "tour du lịch": 1.5,
+            "khách sạn": 1.5,
+            "cáp treo": 1.5,
+            "nhà hàng": 1.5,
+            "địa điểm": 1.5,
+            "buổi": 1.5,
+            "chuyến thăm": 1.5,
+            "trang phục": 1.5,
+            "rạp giải trí": 1.5,
+            "chuyến tham quan": 1.5
+        }
     },
     {
         "attraction_name": "Happy Holiday Private Tours",
@@ -185,7 +353,168 @@
             "https://www.tripadvisor.com/Attraction_Review-g33260-d2477995-Reviews-Asian_Garden_Mall-Westminster_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or20-Happy_Holiday_Private_Tours-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or10-Happy_Holiday_Private_Tours-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or10-Happy_Holiday_Private_Tours-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9954014013055712,
+            "cáp treo": 0.9167595457402058,
+            "cầu vàng": 0.8737691454589367,
+            "làng pháp": 0.8737691454589367,
+            "bánh": 0.5,
+            "anh đào": 0.5,
+            "hương vị": 0.9954862998565659,
+            "kiến ​​trúc pháp": 0.8737691454589367,
+            "hướng dẫn viên du lịch": 0.9953841182286851,
+            "lịch sử": 0.983541211928241,
+            "chuyến tham": 0.978667055722326,
+            "chuyến tham quan": 0.4491030207330671,
+            "hội an": 0.8737691454589367,
+            "thuyền thúng": 0.5,
+            "ẩm thực đường phố": 0.5,
+            "sân bay": 0.987974792253226,
+            "bánh mì": 0.9596913924906403,
+            "bahn mi": 0.853495180606842,
+            "nhiếp ảnh gia": 0.9954878877615556,
+            "đêm": 0.5,
+            "bộ đồ lụa giày": 0.8737691454589367,
+            "túi da": 0.5,
+            "thị trấn": 0.9947300890926272,
+            "mua sắm quần áo": 0.985250280238688,
+            "quán bar": 0.6474620774388313,
+            "lịch sử mỹ sơn": 0.995537567709107,
+            "cổng cảng": 0.9570191849488765,
+            "núi khỉ ngũ hành sơn": 0.8737691454589367,
+            "dịch vụ du lịch": 0.987579049076885
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "cáp treo": [
+                "cổ",
+                "tuyệt vời"
+            ],
+            "cầu vàng": [
+                "cổ",
+                "tuyệt vời"
+            ],
+            "làng pháp": [
+                "cổ",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "bánh": [],
+            "anh đào": [],
+            "hương vị": [
+                "tuyệt vời"
+            ],
+            "kiến ​​trúc pháp": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "đẹp trời",
+                "thực sự",
+                "hữu ích"
+            ],
+            "lịch sử": [
+                "dễ",
+                "rõ",
+                "đúng"
+            ],
+            "chuyến tham": [
+                "đặc biệt"
+            ],
+            "chuyến tham quan": [
+                "đúng",
+                "tốt",
+                "chuyên nghiệp"
+            ],
+            "hội an": [
+                "sớm",
+                "đông",
+                "đẹp"
+            ],
+            "thuyền thúng": [],
+            "ẩm thực đường phố": [],
+            "sân bay": [
+                "tốt bụng",
+                "đúng"
+            ],
+            "bánh mì": [
+                "muộn",
+                "ngon"
+            ],
+            "bahn mi": [
+                "tốt"
+            ],
+            "nhiếp ảnh gia": [
+                "đặc biệt",
+                "hiểu biết",
+                "giỏi",
+                "tuyệt vời"
+            ],
+            "đêm": [],
+            "bộ đồ lụa giày": [
+                "cuối cùng"
+            ],
+            "túi da": [],
+            "thị trấn": [
+                "tốt",
+                "có giá"
+            ],
+            "mua sắm quần áo": [
+                "tốt"
+            ],
+            "quán bar": [
+                "Cuối cùng",
+                "cổ"
+            ],
+            "lịch sử mỹ sơn": [
+                "thực sự",
+                "kiên nhẫn",
+                "rõ ràng",
+                "xuất sắc"
+            ],
+            "cổng cảng": [],
+            "núi khỉ ngũ hành sơn": [
+                "đẹp"
+            ],
+            "dịch vụ du lịch": [
+                "may mắn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 1.5,
+            "cáp treo": 1.5,
+            "cầu vàng": 1.5,
+            "làng pháp": 1.5,
+            "bánh": 1.5,
+            "anh đào": 1.5,
+            "hương vị": 1.5,
+            "kiến ​​trúc pháp": 1.5,
+            "hướng dẫn viên du lịch": 1.5,
+            "lịch sử": 3.0,
+            "chuyến tham": 1.5,
+            "chuyến tham quan": 4.5,
+            "hội an": 3.0,
+            "thuyền thúng": 1.5,
+            "ẩm thực đường phố": 1.5,
+            "sân bay": 1.5,
+            "bánh mì": 1.5,
+            "bahn mi": 1.5,
+            "nhiếp ảnh gia": 1.5,
+            "đêm": 1.5,
+            "bộ đồ lụa giày": 1.5,
+            "túi da": 1.5,
+            "thị trấn": 1.5,
+            "mua sắm quần áo": 1.5,
+            "quán bar": 1.5,
+            "lịch sử mỹ sơn": 1.5,
+            "cổng cảng": 1.5,
+            "núi khỉ ngũ hành sơn": 1.5,
+            "dịch vụ du lịch": 1.5
+        }
     },
     {
         "attraction_name": "Happy Holiday Private Tours",
@@ -279,7 +608,168 @@
             "https://www.tripadvisor.com/Attraction_Review-g298307-d455059-Reviews-Poring_Hot_Springs-Kota_Kinabalu_Kota_Kinabalu_District_West_Coast_Division_Sabah.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or30-Happy_Holiday_Private_Tours-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or20-Happy_Holiday_Private_Tours-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or20-Happy_Holiday_Private_Tours-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thời tiết": -0.9340275293216109,
+            "hướng dẫn viên": 0.8468289287162146,
+            "lịch trình": 0.5,
+            "nhà máy ngọc": -0.9731832557590678,
+            "nhân viên": 0.5,
+            "hành trình": 0.9358996681403369,
+            "trình điều": 0.9912525007966906,
+            "trải nghiệm": 0.9952929429709911,
+            "chuyến tham quan": 0.520462254062295,
+            "lịch sử": 0.25271035550395027,
+            "thức ăn": 0.9955393312848173,
+            "chuyến đi": 0.9870222373720026,
+            "nhà hàng": 0.8737691454589367,
+            "món ăn": 0.995578886300791,
+            "phòng": 0.9875767498742789,
+            "khách sạn": -0.9737121199723333,
+            "cây cầu": -0.9739838850218803,
+            "ngôi làng pháp": 0.5530798938125372,
+            "lái xe": 0.9946285643964075,
+            "nghề thủ công": 0.9925796225434169,
+            "thời tiết mát mẻ": 0.8737691454589367,
+            "tiện nghi": 0.9928086854633875,
+            "cầu vàng": 0.5587573060765862,
+            "chơi tàu lượn": 0.9702759659849107,
+            "công viên": 0.9904646161012352,
+            "rạp chiếu phim": 0.9952745684422553,
+            "vườn hoa": 0.9955030750134028,
+            "thành phố hoàng gia": 0.8737691454589367,
+            "câu chuyện hướng dẫn": -0.9707814489956945,
+            "hoàng đế": -0.969254974508658
+        },
+        "dicts_adj": {
+            "thời tiết": [
+                "phải",
+                "tốt",
+                "lạnh"
+            ],
+            "hướng dẫn viên": [
+                "thực sự",
+                "tốt bụng",
+                "nhiều",
+                "tuyệt vời",
+                "đúng",
+                "đặc biệt",
+                "hữu ích",
+                "thoải mái"
+            ],
+            "lịch trình": [],
+            "nhà máy ngọc": [
+                "thực sự"
+            ],
+            "nhân viên": [],
+            "hành trình": [
+                "May mắn",
+                "rồng"
+            ],
+            "trình điều": [
+                "hữu ích"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "riêng"
+            ],
+            "lịch sử": [
+                "thực sự",
+                "đặc biệt",
+                "phong phú",
+                "sống động"
+            ],
+            "thức ăn": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "thực sự",
+                "thích thú"
+            ],
+            "nhà hàng": [
+                "ngon"
+            ],
+            "món ăn": [
+                "ngon"
+            ],
+            "phòng": [
+                "đúng"
+            ],
+            "khách sạn": [
+                "đúng"
+            ],
+            "cây cầu": [],
+            "ngôi làng pháp": [],
+            "lái xe": [
+                "xuất sắc"
+            ],
+            "nghề thủ công": [
+                "lớn",
+                "đẹp"
+            ],
+            "thời tiết mát mẻ": [
+                "tốt"
+            ],
+            "tiện nghi": [
+                "tốt"
+            ],
+            "cầu vàng": [],
+            "chơi tàu lượn": [],
+            "công viên": [],
+            "rạp chiếu phim": [
+                "tuyệt vời"
+            ],
+            "vườn hoa": [
+                "đẹp"
+            ],
+            "thành phố hoàng gia": [
+                "sống động"
+            ],
+            "câu chuyện hướng dẫn": [
+                "sống động"
+            ],
+            "hoàng đế": [
+                "sống động"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thời tiết": 1.5,
+            "hướng dẫn viên": 7.0,
+            "lịch trình": 1.5,
+            "nhà máy ngọc": 1.5,
+            "nhân viên": 1.5,
+            "hành trình": 1.5,
+            "trình điều": 1.5,
+            "trải nghiệm": 1.5,
+            "chuyến tham quan": 1.5,
+            "lịch sử": 2.5,
+            "thức ăn": 1.5,
+            "chuyến đi": 4,
+            "nhà hàng": 1,
+            "món ăn": 1,
+            "phòng": 1,
+            "khách sạn": 1,
+            "cây cầu": 1,
+            "ngôi làng pháp": 1,
+            "lái xe": 1,
+            "nghề thủ công": 1,
+            "thời tiết mát mẻ": 1,
+            "tiện nghi": 1,
+            "cầu vàng": 1,
+            "chơi tàu lượn": 1,
+            "công viên": 1,
+            "rạp chiếu phim": 1,
+            "vườn hoa": 1,
+            "thành phố hoàng gia": 1,
+            "câu chuyện hướng dẫn": 1,
+            "hoàng đế": 1
+        }
     },
     {
         "attraction_name": "Happy Holiday Private Tours",
@@ -373,7 +863,229 @@
             "https://www.tripadvisor.com/Attraction_Review-g60944-d10413066-Reviews-Pebble_Beach-Crescent_City_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or40-Happy_Holiday_Private_Tours-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or30-Happy_Holiday_Private_Tours-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or30-Happy_Holiday_Private_Tours-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thành phố": 0.8451211259234697,
+            "lịch sử": 0.630984046215114,
+            "khách sạn": 0.9631365626701154,
+            "di tích": 0.5128355994820595,
+            "lịch sử -": 0.9847976273158565,
+            "tàn tích": 0.7788701676763594,
+            "bữa sáng": 0.995413298602216,
+            "đám đông": 0.5,
+            "đồ ăn": 0.5,
+            "hàng đợi cáp treo": 0.5,
+            "chuyến lưu diễn": 0.9953255718573928,
+            "hướng dẫn viên": 0.9346228894719388,
+            "địa điểm ăn uống": 0.9954401624854654,
+            "ki-ốt": 0.5,
+            "phẩm đều đóng": 0.5,
+            "đồ uống": 0.17419293784769252,
+            "nhân viên": 0.5,
+            "quán bia": 0.5,
+            "chuyến du lịch": 0.5695862378925085,
+            "cầu vàng": 0.8737691454589367,
+            "kiến ​​thức": 0.9953353788005188,
+            "chuyến đi": 0.9948662734823301,
+            "hướng dẫn viên du lịch": 0.9955502069205977,
+            "nhà hàng địa phương": 0.9943927763961256,
+            "thủydịch vụ": 0.9956098988768645,
+            "hướng dẫn viên du": 0.19402070343494415,
+            "chuyến tham quan": 0.445737662143074,
+            "địa điểm du lịch": 0.5,
+            "khuôn viên": 0.9955644720466807,
+            "ngọn núi": 0.5,
+            "bánh mì": 0.8737691454589367,
+            "món": 0.9918412852566689,
+            "tòa nhà": 0.35452061775140464,
+            "đèn lồng": 0.6546640936285257,
+            "khu đất": 0.9730398340616375,
+            "di sản": 0.8737691454589367,
+            "khu phố": 0.8737691454589367,
+            "chuyến đi cáp treo": 0.8737691454589367,
+            "tầm nhìn": 0.9954608453554101,
+            "phố": 0.5526277404278517,
+            "thảm thực vật": -0.9605042501352727,
+            "kỳ quan thiên nhiên": 0.5,
+            "viên ngọc": 0.505142904818058,
+            "giá cả": 0.9529069985728711
+        },
+        "dicts_adj": {
+            "thành phố": [
+                "xinh đẹp",
+                "nhiều",
+                "tuyệt khi"
+            ],
+            "lịch sử": [
+                "nhiều",
+                "nhiều"
+            ],
+            "khách sạn": [
+                "hoàn toàn",
+                "xứng đáng",
+                "đúng"
+            ],
+            "di tích": [
+                "đông"
+            ],
+            "lịch sử -": [
+                "tuyệt vời",
+                "nguyên vẹn"
+            ],
+            "tàn tích": [
+                "tuyệt vời",
+                "nguyên vẹn"
+            ],
+            "bữa sáng": [
+                "thú vị"
+            ],
+            "đám đông": [],
+            "đồ ăn": [],
+            "hàng đợi cáp treo": [],
+            "chuyến lưu diễn": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "thân thiện",
+                "tốt"
+            ],
+            "địa điểm ăn uống": [
+                "tuyệt vời"
+            ],
+            "ki-ốt": [],
+            "phẩm đều đóng": [],
+            "đồ uống": [
+                "phong phú"
+            ],
+            "nhân viên": [],
+            "quán bia": [],
+            "chuyến du lịch": [
+                "riêng"
+            ],
+            "cầu vàng": [
+                "vui"
+            ],
+            "kiến ​​thức": [
+                "tốt"
+            ],
+            "chuyến đi": [
+                "thú vị"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời"
+            ],
+            "nhà hàng địa phương": [
+                "tuyệt vời"
+            ],
+            "thủydịch vụ": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du": [
+                "nhiều",
+                "thú vị"
+            ],
+            "chuyến tham quan": [
+                "ngắn gọn",
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "địa điểm du lịch": [],
+            "khuôn viên": [
+                "đẹp"
+            ],
+            "ngọn núi": [],
+            "bánh mì": [
+                "ngon",
+                "ngon"
+            ],
+            "món": [
+                "ngon"
+            ],
+            "tòa nhà": [
+                "cổ",
+                "thoải mái",
+                "khắp"
+            ],
+            "đèn lồng": [
+                "sáng"
+            ],
+            "khu đất": [],
+            "di sản": [
+                "phong phú",
+                "đẹp"
+            ],
+            "khu phố": [
+                "thực sự",
+                "kỳ diệu"
+            ],
+            "chuyến đi cáp treo": [
+                "tuyệt vời"
+            ],
+            "tầm nhìn": [
+                "tuyệt vời"
+            ],
+            "phố": [
+                "nhiều"
+            ],
+            "thảm thực vật": [
+                "nhiều"
+            ],
+            "kỳ quan thiên nhiên": [],
+            "viên ngọc": [
+                "khắp"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thành phố": 1,
+            "lịch sử": 2,
+            "khách sạn": 2,
+            "di tích": 1,
+            "lịch sử -": 1,
+            "tàn tích": 1,
+            "bữa sáng": 1,
+            "đám đông": 1,
+            "đồ ăn": 1,
+            "hàng đợi cáp treo": 1,
+            "chuyến lưu diễn": 1,
+            "hướng dẫn viên": 2,
+            "địa điểm ăn uống": 1,
+            "ki-ốt": 1,
+            "phẩm đều đóng": 1,
+            "đồ uống": 2,
+            "nhân viên": 1,
+            "quán bia": 1,
+            "chuyến du lịch": 1,
+            "cầu vàng": 1,
+            "kiến ​​thức": 1,
+            "chuyến đi": 1,
+            "hướng dẫn viên du lịch": 1,
+            "nhà hàng địa phương": 1,
+            "thủydịch vụ": 1,
+            "hướng dẫn viên du": 1,
+            "chuyến tham quan": 2,
+            "địa điểm du lịch": 1,
+            "khuôn viên": 1,
+            "ngọn núi": 1,
+            "bánh mì": 1,
+            "món": 1,
+            "tòa nhà": 2,
+            "đèn lồng": 1,
+            "khu đất": 1,
+            "di sản": 1,
+            "khu phố": 1,
+            "chuyến đi cáp treo": 1,
+            "tầm nhìn": 1,
+            "phố": 1,
+            "thảm thực vật": 1,
+            "kỳ quan thiên nhiên": 1,
+            "viên ngọc": 1,
+            "giá cả": 1
+        }
     },
     {
         "attraction_name": "Happy Holiday Private Tours",
@@ -475,7 +1187,111 @@
             "https://www.tripadvisor.com/Attraction_Review-g295370-d17434683-Reviews-Game_of_Thrones_Museum_Split-Split_Split_Dalmatia_County_Dalmatia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or50-Happy_Holiday_Private_Tours-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or40-Happy_Holiday_Private_Tours-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or40-Happy_Holiday_Private_Tours-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên du lịch": 0.9950611183594447,
+            "chuyến tham": 0.967809284105897,
+            "chuyến du lịch": 0.9756629266776145,
+            "chuyến tham quan": 0.866857084154617,
+            "thị trấn": 0.9956103538861498,
+            "quán cà phê": 0.9955723933526315,
+            "hướng dẫn viên thảo": 0.9723345949314535,
+            "tòa nhà": 0.9904233564157039,
+            "hội du lịch": 0.9944155455450527,
+            "hướng dẫn viên": 0.954250923396709,
+            "điểm dừng": 0.8597019128501415,
+            "cà phê việt nam": 0.8737691454589367,
+            "món": 0.5,
+            "chả giò": 0.5,
+            "nhà hàng ms ly": 0.8737691454589367,
+            "chuyến đi": 0.9955266007455066,
+            "xế lái xe": 0.9929268023115583
+        },
+        "dicts_adj": {
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "tốt bụng",
+                "tuyệt khi"
+            ],
+            "chuyến tham": [
+                "thông tin",
+                "nhiều"
+            ],
+            "chuyến du lịch": [
+                "riêng",
+                "đầu tiên",
+                "chắc chắn"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "đặc biệt",
+                "tốt",
+                "riêng"
+            ],
+            "thị trấn": [
+                "xinh đẹp"
+            ],
+            "quán cà phê": [
+                "xinh xắn"
+            ],
+            "hướng dẫn viên thảo": [],
+            "tòa nhà": [
+                "cổ",
+                "xinh đẹp"
+            ],
+            "hội du lịch": [
+                "thân thiện"
+            ],
+            "hướng dẫn viên": [
+                "nhiệt tình",
+                "tuyệt vời",
+                "thực sự",
+                "tốt",
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "điểm dừng": [
+                "nhiều",
+                "khác",
+                "đủ",
+                "vội vã"
+            ],
+            "cà phê việt nam": [
+                "thực sự"
+            ],
+            "món": [],
+            "chả giò": [],
+            "nhà hàng ms ly": [
+                "thực sự"
+            ],
+            "chuyến đi": [
+                "tuyệt vời"
+            ],
+            "xế lái xe": [
+                "giỏi"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên du lịch": 1,
+            "chuyến tham": 1,
+            "chuyến du lịch": 1,
+            "chuyến tham quan": 3,
+            "thị trấn": 1,
+            "quán cà phê": 1,
+            "hướng dẫn viên thảo": 1,
+            "tòa nhà": 1,
+            "hội du lịch": 1,
+            "hướng dẫn viên": 3,
+            "điểm dừng": 1,
+            "cà phê việt nam": 1,
+            "món": 1,
+            "chả giò": 1,
+            "nhà hàng ms ly": 1,
+            "chuyến đi": 1,
+            "xế lái xe": 1
+        }
     },
     {
         "attraction_name": "Happy Holiday Private Tours",
@@ -577,7 +1393,110 @@
             "https://www.tripadvisor.com/Attraction_Review-g54087-d290663-Reviews-Beavertail_Lighthouse_and_Park-Jamestown_Rhode_Island.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or60-Happy_Holiday_Private_Tours-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or50-Happy_Holiday_Private_Tours-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or50-Happy_Holiday_Private_Tours-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "món ăn": 0.9955112729221582,
+            "hướng dẫn viên du lịch": 0.9252001287726065,
+            "hướng dẫn viên": 0.9881673841446172,
+            "nhà hàng ẩm thực địa phương": 0.9889445209410042,
+            "chuyến du lịch": 0.9942697506630793,
+            "cáp treo": 0.8342532720804835,
+            "công viên": 0.8737691454589367,
+            "trò chơi": 0.601069264113903,
+            "khung cảnh": 0.9936146968975663,
+            "khí hậu": 0.9858478363603354,
+            "chuyến đi nghỉ mát": 0.8737691454589367,
+            "nơi đi": 0.5266118235886097,
+            "dịch vụ": 0.9955264872405678,
+            "chuyến tham quan": 0.9944362936075777,
+            "tour du lịch": 0.9112136008916423,
+            "ty du lịch": 0.5,
+            "trải nghiệm": 0.9932176056900062
+        },
+        "dicts_adj": {
+            "món ăn": [
+                "thực sự",
+                "đặc biệt",
+                "tuyệt vời",
+                "vui"
+            ],
+            "hướng dẫn viên du lịch": [
+                "hạnh phúc",
+                "hơn"
+            ],
+            "hướng dẫn viên": [
+                "am hiểu",
+                "thực sự",
+                "thân thiện",
+                "hữu ích"
+            ],
+            "nhà hàng ẩm thực địa phương": [
+                "đặc biệt"
+            ],
+            "chuyến du lịch": [
+                "cùng"
+            ],
+            "cáp treo": [
+                "vui Công viên",
+                "đầu tiên",
+                "đầu tiên"
+            ],
+            "công viên": [
+                "đẹp"
+            ],
+            "trò chơi": [
+                "khoảng"
+            ],
+            "khung cảnh": [
+                "bất ngờ"
+            ],
+            "khí hậu": [
+                "bất ngờ"
+            ],
+            "chuyến đi nghỉ mát": [
+                "thú vị",
+                "nhiều"
+            ],
+            "nơi đi": [
+                "đông"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "tốt"
+            ],
+            "tour du lịch": [
+                "riêng",
+                "rẻ",
+                "hơn"
+            ],
+            "ty du lịch": [],
+            "trải nghiệm": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "món ăn": 1,
+            "hướng dẫn viên du lịch": 1.5,
+            "hướng dẫn viên": 2.0,
+            "nhà hàng ẩm thực địa phương": 1,
+            "chuyến du lịch": 1,
+            "cáp treo": 1.5,
+            "công viên": 1,
+            "trò chơi": 1,
+            "khung cảnh": 0.5,
+            "khí hậu": 0.5,
+            "chuyến đi nghỉ mát": 0.5,
+            "nơi đi": 0.5,
+            "dịch vụ": 0.5,
+            "chuyến tham quan": 0.5,
+            "tour du lịch": 0.5,
+            "ty du lịch": 0.5,
+            "trải nghiệm": 0.5
+        }
     },
     {
         "attraction_name": "Happy Holiday Private Tours",
@@ -670,7 +1589,193 @@
             "https://www.tripadvisor.com/Attraction_Review-g47602-d10164411-Reviews-Waterfront_Park-Dobbs_Ferry_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or70-Happy_Holiday_Private_Tours-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or60-Happy_Holiday_Private_Tours-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or60-Happy_Holiday_Private_Tours-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.9932089857757092,
+            "hướng dẫn viên": 0.6722238085931167,
+            "làng pháp": 0.9921605153940618,
+            "hội an": 0.5,
+            "chuyến thăm": 0.9953500607516617,
+            "tour du lịch": 0.9929567615035921,
+            "nhiếp ảnh gia": 0.982760751969181,
+            "chuyến tham": 0.9930066263768822,
+            "sương mù": 0.9713947516866028,
+            "bầu": 0.8055615304037929,
+            "bức ảnh": 0.9945155071327463,
+            "trải nghiệm": 0.9952929429709911,
+            "bà nah": 0.992514195968397,
+            "phong cảnh": 0.8737691454589367,
+            "dịch vụ": 0.9954851390211843,
+            "cáp treo": 0.9752873098477721,
+            "ngôi làng": 0.9954032851965167,
+            "cây cầu vàng": 0.8737691454589367,
+            "khu vườn": 0.995437323814258,
+            "quang cảnh": 0.995454395529426,
+            "chuyến du lịch": 0.9905120764160529,
+            "điểm đến thiên nhiên": 0.9954308983869851,
+            "món ăn địa phương": 0.9954374298686162,
+            "công ty du lịch": 0.98660286096856,
+            "chuyến đi cáp treo": 0.8737691454589367,
+            "công viên giải trí": 0.8737691454589367,
+            "quán cà phê": 0.5,
+            "nhà hàng": 0.7477746113727335,
+            "ngôi đền cổ": 0.942388235591352,
+            "phố cổ": 0.8737691454589367,
+            "thị trấn": 0.5191677808761597,
+            "ngôi nhà": 0.9792528324760497,
+            "bữa ăn": 0.9951648195274174,
+            "bánh mì": 0.994961945922114
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "chuyên nghiệp",
+                "may mắn",
+                "thân thiện",
+                "tốt",
+                "may mắn",
+                "thân thiện",
+                "thực sự"
+            ],
+            "làng pháp": [
+                "tuyệt vời"
+            ],
+            "hội an": [],
+            "chuyến thăm": [],
+            "tour du lịch": [
+                "rẻ",
+                "hơn"
+            ],
+            "nhiếp ảnh gia": [
+                "giỏi"
+            ],
+            "chuyến tham": [
+                "tuyệt vời",
+                "xinh đẹp",
+                "khoảng"
+            ],
+            "sương mù": [
+                "nhiều"
+            ],
+            "bầu": [
+                "quang đãng"
+            ],
+            "bức ảnh": [],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "bà nah": [
+                "bất kỳ"
+            ],
+            "phong cảnh": [
+                "đẹp"
+            ],
+            "dịch vụ": [
+                "hài lòng"
+            ],
+            "cáp treo": [],
+            "ngôi làng": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "cây cầu vàng": [
+                "ấn tượng",
+                "ấn tượng"
+            ],
+            "khu vườn": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "quang cảnh": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "đẹp",
+                "nhiều"
+            ],
+            "chuyến du lịch": [
+                "riêng",
+                "năng động"
+            ],
+            "điểm đến thiên nhiên": [
+                "ngon"
+            ],
+            "món ăn địa phương": [
+                "ngon"
+            ],
+            "công ty du lịch": [
+                "mạnh mẽ"
+            ],
+            "chuyến đi cáp treo": [
+                "thú vị"
+            ],
+            "công viên giải trí": [
+                "nhiều"
+            ],
+            "quán cà phê": [],
+            "nhà hàng": [
+                "tuyệt vời"
+            ],
+            "ngôi đền cổ": [
+                "nhiều"
+            ],
+            "phố cổ": [
+                "nhỏ"
+            ],
+            "thị trấn": [
+                "nhỏ"
+            ],
+            "ngôi nhà": [
+                "đặc biệt"
+            ],
+            "bữa ăn": [
+                "ngon"
+            ],
+            "bánh mì": [
+                "ngon"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 1.5,
+            "hướng dẫn viên": 3.0,
+            "làng pháp": 0.5,
+            "hội an": 0.5,
+            "chuyến thăm": 0.5,
+            "tour du lịch": 0.5,
+            "nhiếp ảnh gia": 0.5,
+            "chuyến tham": 1.0,
+            "sương mù": 0.5,
+            "bầu": 0.5,
+            "bức ảnh": 0.5,
+            "trải nghiệm": 0.5,
+            "bà nah": 0.5,
+            "phong cảnh": 0.5,
+            "dịch vụ": 0.5,
+            "cáp treo": 1.0,
+            "ngôi làng": 1.0,
+            "cây cầu vàng": 1.0,
+            "khu vườn": 1.0,
+            "quang cảnh": 1.5,
+            "chuyến du lịch": 0.5,
+            "điểm đến thiên nhiên": 0.5,
+            "món ăn địa phương": 0.5,
+            "công ty du lịch": 0.5,
+            "chuyến đi cáp treo": 0.5,
+            "công viên giải trí": 0.5,
+            "quán cà phê": 0.5,
+            "nhà hàng": 1.0,
+            "ngôi đền cổ": 0.5,
+            "phố cổ": 0.5,
+            "thị trấn": 0.5,
+            "ngôi nhà": 0.5,
+            "bữa ăn": 0.5,
+            "bánh mì": 0.5
+        }
     },
     {
         "attraction_name": "Happy Holiday Private Tours",
@@ -765,7 +1870,220 @@
             "https://www.tripadvisor.com/Attraction_Review-g187791-d191367-Reviews-Via_Condotti-Rome_Lazio.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or80-Happy_Holiday_Private_Tours-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or70-Happy_Holiday_Private_Tours-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or70-Happy_Holiday_Private_Tours-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9890924315841403,
+            "hướng dẫn viên": 0.8170508959301515,
+            "trạm cáp": 0.5,
+            "chuyến tham quan": 0.7870369459560607,
+            "hướng dẫn viên du lịch": 0.687480424036039,
+            "kiến ​​thức": 0.9953583517344669,
+            "lịch sử bữa trưa": 0.8737691454589367,
+            "nhà hàng xoài mango": 0.8737691454589367,
+            "chiếc": 0.9954969004611485,
+            "khăn cổ": 0.9954736639047042,
+            "ngôi": 0.9955011576530524,
+            "đền ẩn": 0.9954087956575677,
+            "rừng": 0.9954643861856312,
+            "hội an": 0.8737691454589367,
+            "nhà": 0.9955229660845362,
+            "hàng rau muống đồ ăn": 0.9954447740456089,
+            "phố cổ": 0.5,
+            "âm nhạc truyền": 0.5,
+            "dịch vụ": 0.8737691454589367,
+            "buổi sáng": 0.5,
+            "ngôi đền": 0.5,
+            "bánh mì": 0.8737691454589367,
+            "món ăn địa phương": 0.549761725589633,
+            "ngôi nhà": 0.8505121488124132,
+            "cáp treo": 0.9921666611917317,
+            "cầu vàng": 0.8737691454589367,
+            "đám mây": 0.5,
+            "bữa trưa": 0.9954245917615481,
+            "trải nghiệm": 0.995001717004925,
+            "lịch sử": 0.9848704417236149,
+            "thánh địa mỹ sơn": 0.8737691454589367,
+            "kỳ nghỉ": 0.5934432744979858,
+            "món ăn": 0.5
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "đầu tiên",
+                "tốt",
+                "hạnh phúc",
+                "đầu tiên"
+            ],
+            "hướng dẫn viên": [
+                "thực sự",
+                "suốt",
+                "đông đúc",
+                "nhiều",
+                "tốt",
+                "thực sự",
+                "thoải mái",
+                "thực sự",
+                "tuyệt vời",
+                "nhiều",
+                "tuyệt vời",
+                "goodChúng",
+                "tuyệt vời",
+                "tốt"
+            ],
+            "trạm cáp": [],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "tốt",
+                "thực sự",
+                "thoải mái",
+                "thực sự",
+                "tuyệt vời",
+                "nhiều",
+                "tuyệt vời",
+                "goodChúng",
+                "tuyệt vời",
+                "hạnh phúc",
+                "hơn",
+                "tuyệt vời",
+                "dễ chịu",
+                "suốt"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tốt",
+                "nhất",
+                "đẹp",
+                "lớn"
+            ],
+            "kiến ​​thức": [
+                "tuyệt vời"
+            ],
+            "lịch sử bữa trưa": [
+                "tốt",
+                "thực sự",
+                "thoải mái",
+                "thực sự",
+                "tuyệt vời",
+                "nhiều",
+                "tuyệt vời",
+                "goodChúng",
+                "tuyệt vời"
+            ],
+            "nhà hàng xoài mango": [
+                "tốt",
+                "thực sự",
+                "thoải mái",
+                "thực sự",
+                "tuyệt vời",
+                "nhiều",
+                "tuyệt vời",
+                "goodChúng",
+                "tuyệt vời"
+            ],
+            "chiếc": [
+                "tuyệt vời"
+            ],
+            "khăn cổ": [
+                "tuyệt vời"
+            ],
+            "ngôi": [
+                "tuyệt vời"
+            ],
+            "đền ẩn": [
+                "tuyệt vời"
+            ],
+            "rừng": [
+                "tuyệt vời"
+            ],
+            "hội an": [
+                "đẹp",
+                "đẹp"
+            ],
+            "nhà": [
+                "tuyệt vời"
+            ],
+            "hàng rau muống đồ ăn": [
+                "tuyệt vời"
+            ],
+            "phố cổ": [],
+            "âm nhạc truyền": [],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "buổi sáng": [],
+            "ngôi đền": [],
+            "bánh mì": [
+                "nhất"
+            ],
+            "món ăn địa phương": [
+                "nhất"
+            ],
+            "ngôi nhà": [
+                "cổ"
+            ],
+            "cáp treo": [],
+            "cầu vàng": [
+                "tuyệt vời",
+                "huyền diệu",
+                "hơn"
+            ],
+            "đám mây": [],
+            "bữa trưa": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "lịch sử": [
+                "đẹp",
+                "lớn"
+            ],
+            "thánh địa mỹ sơn": [
+                "đẹp",
+                "lớn"
+            ],
+            "kỳ nghỉ": [
+                "chắc chắn",
+                "khác",
+                "cùng"
+            ],
+            "món ăn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 1.0,
+            "hướng dẫn viên": 2.5,
+            "trạm cáp": 0.5,
+            "chuyến tham quan": 3.0,
+            "hướng dẫn viên du lịch": 1.5,
+            "kiến ​​thức": 0.5,
+            "lịch sử bữa trưa": 0.5,
+            "nhà hàng xoài mango": 0.5,
+            "chiếc": 0.5,
+            "khăn cổ": 0.5,
+            "ngôi": 0.5,
+            "đền ẩn": 0.5,
+            "rừng": 0.5,
+            "hội an": 0.5,
+            "nhà": 0.5,
+            "hàng rau muống đồ ăn": 0.5,
+            "phố cổ": 0.5,
+            "âm nhạc truyền": 0.5,
+            "dịch vụ": 0.5,
+            "buổi sáng": 0.5,
+            "ngôi đền": 0.5,
+            "bánh mì": 0.5,
+            "món ăn địa phương": 0.5,
+            "ngôi nhà": 0.5,
+            "cáp treo": 0.5,
+            "cầu vàng": 0.5,
+            "đám mây": 0.5,
+            "bữa trưa": 0.5,
+            "trải nghiệm": 0.5,
+            "lịch sử": 0.5,
+            "thánh địa mỹ sơn": 0.5,
+            "kỳ nghỉ": 0.5,
+            "món ăn": 0.5
+        }
     },
     {
         "attraction_name": "Happy Holiday Private Tours",
@@ -861,7 +2179,171 @@
             "https://www.tripadvisor.com/Attraction_Review-g664154-d3360036-Reviews-Isola_del_Garda-San_Felice_del_Benaco_Province_of_Brescia_Lombardy.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or90-Happy_Holiday_Private_Tours-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or80-Happy_Holiday_Private_Tours-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or80-Happy_Holiday_Private_Tours-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên": 0.8745295263341785,
+            "khách sạn": 0.7690859565627761,
+            "ngôi đền": 0.5,
+            "bức tượng ngàn": 0.5,
+            "nhà hàng": 0.9955056880717166,
+            "đồ ăn": 0.9955971196177416,
+            "khu phố cổ": 0.6868845727294683,
+            "chiếc xe": 0.5,
+            "lịch sử": 0.7990405447393035,
+            "kiến trúc": 0.5,
+            "lang": 0.5,
+            "thang": 0.5,
+            "chuyến tham quan": 0.8929060663795099,
+            "kiến ​​thức": 0.9096933988136395,
+            "dịch vụ": 0.5,
+            "thị trấn": 0.5,
+            "chương trình": 0.9948070647078566,
+            "vị trí": 0.9841187694109976,
+            "di tích": -0.8223936660215259,
+            "hội an": 0.9345685280277394,
+            "chuyến đi": 0.8672680914460216,
+            "chuyến": 0.8515281458385289,
+            "ngôi nhà": 0.7355690279509872,
+            "bữa trưa": 0.9918503571534529,
+            "đồ ăn hội an": 0.9955236248788424,
+            "di sản thế giới": 0.9951960144098848,
+            "chuyến du lịch": 0.994695849600248,
+            "di sản văn hóa thế giới": 0.9825096735730767,
+            "chàng trai": 0.969376671477221
+        },
+        "dicts_adj": {
+            "hướng dẫn viên": [
+                "tuyệt vì",
+                "nóng",
+                "tuyệt vời",
+                "vui vẻ",
+                "gần",
+                "trẻ",
+                "tốt bụng"
+            ],
+            "khách sạn": [
+                "tuyệt vì",
+                "nóng"
+            ],
+            "ngôi đền": [],
+            "bức tượng ngàn": [],
+            "nhà hàng": [
+                "tuyệt"
+            ],
+            "đồ ăn": [
+                "tuyệt"
+            ],
+            "khu phố cổ": [
+                "đẹp"
+            ],
+            "chiếc xe": [],
+            "lịch sử": [
+                "vui vẻ",
+                "vui vẻ",
+                "dài"
+            ],
+            "kiến trúc": [],
+            "lang": [],
+            "thang": [],
+            "chuyến tham quan": [
+                "sớm",
+                "đông",
+                "tuyệt vời"
+            ],
+            "kiến ​​thức": [
+                "tuyệt vời",
+                "vui vẻ",
+                "gần",
+                "tốt",
+                "nhiệt tình",
+                "lịch sự"
+            ],
+            "dịch vụ": [],
+            "thị trấn": [],
+            "chương trình": [
+                "năng động",
+                "xuất sắc",
+                "nhiều",
+                "thú vị"
+            ],
+            "vị trí": [
+                "Rõ ràng",
+                "nhiều",
+                "tốt"
+            ],
+            "di tích": [
+                "đơn giản"
+            ],
+            "hội an": [
+                "đẹp",
+                "tốt"
+            ],
+            "chuyến đi": [
+                "tốt",
+                "cổ",
+                "nhiều",
+                "khoảng"
+            ],
+            "chuyến": [
+                "cổ",
+                "nhiều"
+            ],
+            "ngôi nhà": [
+                "cổ",
+                "nhiều"
+            ],
+            "bữa trưa": [
+                "tuyệt vời"
+            ],
+            "đồ ăn hội an": [
+                "ngon"
+            ],
+            "di sản thế giới": [
+                "tuyệt vời"
+            ],
+            "chuyến du lịch": [
+                "chắc chắn"
+            ],
+            "di sản văn hóa thế giới": [
+                "tuyệt vời"
+            ],
+            "chàng trai": [
+                "tốt bụng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên": 2.5,
+            "khách sạn": 0.5,
+            "ngôi đền": 0.5,
+            "bức tượng ngàn": 0.5,
+            "nhà hàng": 0.5,
+            "đồ ăn": 0.5,
+            "khu phố cổ": 1.0,
+            "chiếc xe": 0.5,
+            "lịch sử": 1.5,
+            "kiến trúc": 0.5,
+            "lang": 0.5,
+            "thang": 0.5,
+            "chuyến tham quan": 1.0,
+            "kiến ​​thức": 1.0,
+            "dịch vụ": 0.5,
+            "thị trấn": 0.5,
+            "chương trình": 0.5,
+            "vị trí": 0.5,
+            "di tích": 0.5,
+            "hội an": 0.5,
+            "chuyến đi": 0.5,
+            "chuyến": 0.5,
+            "ngôi nhà": 0.5,
+            "bữa trưa": 0.5,
+            "đồ ăn hội an": 0.5,
+            "di sản thế giới": 0.5,
+            "chuyến du lịch": 0.5,
+            "di sản văn hóa thế giới": 0.5,
+            "chàng trai": 0.5
+        }
     },
     {
         "attraction_name": "Happy Holiday Private Tours",
@@ -963,6 +2445,91 @@
             "https://www.tripadvisor.com/Attraction_Review-g295371-d552786-Reviews-Kolocep_Island-Dubrovnik_Dubrovnik_Neretva_County_Dalmatia.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or90-Happy_Holiday_Private_Tours-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d18936559-Reviews-or90-Happy_Holiday_Private_Tours-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên": 0.9953930696647149,
+            "chuyến tham quan": -0.9351127580739558,
+            "đồ ăn": 0.9953959148260765,
+            "phở cao lầu bánh": 0.5,
+            "hướng dẫn viên du lịch": 0.830209568181696,
+            "thánh địa mỹ sơn": 0.5,
+            "ký túc xá": 0.5,
+            "bầu không khí": 0.5,
+            "chuyến thăm thánh địa": 0.8737691454589367,
+            "chuyến đi": 0.5274483128450811,
+            "thời tiết": 0.8737691454589367,
+            "đỉnh núi": 0.5,
+            "cầu vàng": 0.9549937401898205,
+            "hôn phu": 0.9920214171288535,
+            "tuần trăng": 0.5,
+            "hội an": 0.5,
+            "món ăn": 0.5
+        },
+        "dicts_adj": {
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "giàu",
+                "thân thiện",
+                "vui vẻ"
+            ],
+            "chuyến tham quan": [
+                "hài lòng"
+            ],
+            "đồ ăn": [
+                "chắc chắn",
+                "đặc biệt",
+                "đẹp",
+                "ngon"
+            ],
+            "phở cao lầu bánh": [],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "thân thiện"
+            ],
+            "thánh địa mỹ sơn": [],
+            "ký túc xá": [],
+            "bầu không khí": [],
+            "chuyến thăm thánh địa": [
+                "nổi bật"
+            ],
+            "chuyến đi": [
+                "riêng"
+            ],
+            "thời tiết": [
+                "tuyệt vời",
+                "choáng ngợp"
+            ],
+            "đỉnh núi": [],
+            "cầu vàng": [
+                "nhiều"
+            ],
+            "hôn phu": [
+                "đẹp"
+            ],
+            "tuần trăng": [],
+            "hội an": [],
+            "món ăn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên": 1.0,
+            "chuyến tham quan": 0.5,
+            "đồ ăn": 0.5,
+            "phở cao lầu bánh": 0.5,
+            "hướng dẫn viên du lịch": 1.5,
+            "thánh địa mỹ sơn": 0.5,
+            "ký túc xá": 0.5,
+            "bầu không khí": 0.5,
+            "chuyến thăm thánh địa": 0.5,
+            "chuyến đi": 1.0,
+            "thời tiết": 0.5,
+            "đỉnh núi": 0.5,
+            "cầu vàng": 0.5,
+            "hôn phu": 0.5,
+            "tuần trăng": 0.5,
+            "hội an": 0.5,
+            "món ăn": 0.5
+        }
     }
 ]

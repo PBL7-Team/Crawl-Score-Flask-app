@@ -84,6 +84,125 @@
             "https://www.tripadvisor.com/Attraction_Review-g293916-d2624878-Reviews-Union_Mall-Bangkok.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g11923533-d19945421-Reviews-Nathan_Private_Transfer_Danang_Hoi_An_Hue_My_Son-Lang_Co_Phu_Loc_District_Thua.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g11923533-d19945421-Reviews-Nathan_Private_Transfer_Danang_Hoi_An_Hue_My_Son-Lang_Co_Phu_Loc_District_Thua.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "lăng": 0.8445217557924075,
+            "trải nghiệm": 0.7676889600115828,
+            "người lái xe": 0.9431061478680931,
+            "hướng dẫn viên du lịch địa phương": -0.9678175116423517,
+            "địa điểm": -0.9675139239989221,
+            "thắng cảnh": 0.7813451904803514,
+            "địa điểm ăn uống": 0.5147357247769833,
+            "khu chợ hoàng thành": 0.9022617330774665,
+            "chỗ": 0.9930166292469949,
+            "phương tiện giao thông": 0.9825232515577227,
+            "ngũ hành sơn": 0.8737691454589367,
+            "khách sạn": 0.5,
+            "bãi biển": 0.5,
+            "dịch vụ": 0.6245897151529789,
+            "chuyến tham quan": 0.977252344135195,
+            "chuyến đi": 0.8266541041278591,
+            "lang": 0.8737691454589367,
+            "khu nghỉ dưỡng": 0.5,
+            "nhà hàng bé thân": 0.5,
+            "hải sản": 0.5,
+            "lăng cô": 0.7439535788726062,
+            "xe": 0.9956009638262913,
+            "thức ăn": 0.9954336694208905
+        },
+        "dicts_adj": {
+            "lăng": [
+                "vui",
+                "cuối cùng",
+                "chắc chắn",
+                "Chắc chắn"
+            ],
+            "trải nghiệm": [
+                "khác",
+                "tuyệt vời"
+            ],
+            "người lái xe": [
+                "an toàn",
+                "giỏi",
+                "nhất"
+            ],
+            "hướng dẫn viên du lịch địa phương": [
+                "nổi tiếng"
+            ],
+            "địa điểm": [
+                "nổi tiếng"
+            ],
+            "thắng cảnh": [
+                "nổi tiếng"
+            ],
+            "địa điểm ăn uống": [
+                "an toàn"
+            ],
+            "khu chợ hoàng thành": [
+                "kiên nhẫn"
+            ],
+            "chỗ": [
+                "vui vẻ",
+                "tại chỗ",
+                "sẵn sàng"
+            ],
+            "phương tiện giao thông": [
+                "khuyến khích"
+            ],
+            "ngũ hành sơn": [
+                "cuối cùng"
+            ],
+            "khách sạn": [],
+            "bãi biển": [],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [],
+            "chuyến đi": [
+                "suốt",
+                "vui vẻ",
+                "tốt bụng",
+                "hiền lành"
+            ],
+            "lang": [
+                "tuyệt vời"
+            ],
+            "khu nghỉ dưỡng": [],
+            "nhà hàng bé thân": [],
+            "hải sản": [],
+            "lăng cô": [],
+            "xe": [
+                "thoải mái",
+                "sạch sẽ"
+            ],
+            "thức ăn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "lăng": 4.5,
+            "trải nghiệm": 1.5,
+            "người lái xe": 2.5,
+            "hướng dẫn viên du lịch địa phương": 1.5,
+            "địa điểm": 1.5,
+            "thắng cảnh": 1.5,
+            "địa điểm ăn uống": 1.5,
+            "khu chợ hoàng thành": 1,
+            "chỗ": 1,
+            "phương tiện giao thông": 1,
+            "ngũ hành sơn": 1,
+            "khách sạn": 1,
+            "bãi biển": 1,
+            "dịch vụ": 1.5,
+            "chuyến tham quan": 0.5,
+            "chuyến đi": 1.5,
+            "lang": 0.5,
+            "khu nghỉ dưỡng": 0.5,
+            "nhà hàng bé thân": 0.5,
+            "hải sản": 0.5,
+            "lăng cô": 1.0,
+            "xe": 0.5,
+            "thức ăn": 0.5
+        }
     }
 ]

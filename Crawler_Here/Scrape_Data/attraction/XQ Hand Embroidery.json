@@ -100,7 +100,164 @@
             "https://www.tripadvisor.com/Attraction_Review-g608655-d3360803-Reviews-Grossglockner_High_Alpine_Road-Heiligenblut_Carinthia_Austrian_Alps.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d12898894-Reviews-or10-XQ_Hand_Embroidery-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d12898894-Reviews-XQ_Hand_Embroidery-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d12898894-Reviews-XQ_Hand_Embroidery-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tòa nhà": 0.8737691454589367,
+            "bảo tàng": 0.2897614788817009,
+            "người thợ thêu": 0.5,
+            "tác phẩm thêu": 0.9466108025517315,
+            "giá cả": -0.9641436047386378,
+            "đồ thủ": 0.9418304548598826,
+            "tác phẩm nghệ thuật": -0.08160628285259008,
+            "chuyến thăm huế": 0.9950322340009734,
+            "cầu tràng tiền": 0.8737691454589367,
+            "độ chi tiết": 0.9955364389461465,
+            "thêu thùa": 0.9892636177440485,
+            "tác phẩm nghệ thuật sáng tạo": 0.9954643020173535,
+            "bức tranh thêu": 0.9954255942138843,
+            "âm nhạc truyền thống": 0.5,
+            "trưng bày": 0.5,
+            "tác phẩm thêu lụa": 0.5,
+            "bức tranh": 0.7463690841541393,
+            "tấm lụa": 0.9927215624775272,
+            "phí": -0.9484246047213674,
+            "bảo tàng thêu tay": 0.9900158052332699,
+            "tác phẩm thêu nghệ thuật": 0.09533170191571116,
+            "bầu không khí": 0.9546502400189638,
+            "kiệt tác": 0.9887833949178457,
+            "nghệ thuật": -0.9751871358603239,
+            "nghệ nhân": 0.9413215364329517,
+            "tác phẩm": 0.995525635429658,
+            "mẫu vật": 0.5
+        },
+        "dicts_adj": {
+            "tòa nhà": [
+                "sẵn lòng"
+            ],
+            "bảo tàng": [
+                "nhiều",
+                "nhiều",
+                "tốt",
+                "hơn",
+                "gần",
+                "yên tĩnh",
+                "thanh bình",
+                "khắp"
+            ],
+            "người thợ thêu": [],
+            "tác phẩm thêu": [
+                "tuyệt vời",
+                "đẹp",
+                "tinh xảo"
+            ],
+            "giá cả": [
+                "đắt"
+            ],
+            "đồ thủ": [
+                "cao"
+            ],
+            "tác phẩm nghệ thuật": [
+                "nhiều",
+                "nhiều",
+                "tốt",
+                "hơn"
+            ],
+            "chuyến thăm huế": [
+                "đầy",
+                "thực sự",
+                "tuyệt đối"
+            ],
+            "cầu tràng tiền": [
+                "gần"
+            ],
+            "độ chi tiết": [
+                "đẹp"
+            ],
+            "thêu thùa": [
+                "thường xuyên",
+                "thú vị",
+                "tình cờ"
+            ],
+            "tác phẩm nghệ thuật sáng tạo": [
+                "đẹp"
+            ],
+            "bức tranh thêu": [
+                "đẹp"
+            ],
+            "âm nhạc truyền thống": [],
+            "trưng bày": [],
+            "tác phẩm thêu lụa": [],
+            "bức tranh": [
+                "đẹp",
+                "suốt"
+            ],
+            "tấm lụa": [
+                "đẹp",
+                "suốt"
+            ],
+            "phí": [],
+            "bảo tàng thêu tay": [
+                "nhiều",
+                "khắp"
+            ],
+            "tác phẩm thêu nghệ thuật": [
+                "tuyệt vời",
+                "giống"
+            ],
+            "bầu không khí": [
+                "đẹp",
+                "tốt"
+            ],
+            "kiệt tác": [
+                "thực sự",
+                "khó",
+                "khác"
+            ],
+            "nghệ thuật": [
+                "nhiều",
+                "khác"
+            ],
+            "nghệ nhân": [
+                "Hơn",
+                "tận mắt",
+                "thực sự"
+            ],
+            "tác phẩm": [
+                "đẹp"
+            ],
+            "mẫu vật": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tòa nhà": 1,
+            "bảo tàng": 4.0,
+            "người thợ thêu": 1,
+            "tác phẩm thêu": 2.5,
+            "giá cả": 1,
+            "đồ thủ": 1,
+            "tác phẩm nghệ thuật": 1,
+            "chuyến thăm huế": 1,
+            "cầu tràng tiền": 1,
+            "độ chi tiết": 1,
+            "thêu thùa": 1.5,
+            "tác phẩm nghệ thuật sáng tạo": 0.5,
+            "bức tranh thêu": 0.5,
+            "âm nhạc truyền thống": 0.5,
+            "trưng bày": 0.5,
+            "tác phẩm thêu lụa": 0.5,
+            "bức tranh": 1.0,
+            "tấm lụa": 0.5,
+            "phí": 0.5,
+            "bảo tàng thêu tay": 0.5,
+            "tác phẩm thêu nghệ thuật": 0.5,
+            "bầu không khí": 0.5,
+            "kiệt tác": 0.5,
+            "nghệ thuật": 0.5,
+            "nghệ nhân": 0.5,
+            "tác phẩm": 0.5,
+            "mẫu vật": 0.5
+        }
     },
     {
         "attraction_name": "XQ Hand Embroidery",
@@ -202,7 +359,161 @@
             "https://www.tripadvisor.com/Attraction_Review-g49407-d1022187-Reviews-Teach_s_Hole_Blackbeard_Exhibit-Ocracoke_Outer_Banks_North_Carolina.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d12898894-Reviews-or20-XQ_Hand_Embroidery-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d12898894-Reviews-or10-XQ_Hand_Embroidery-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d12898894-Reviews-or10-XQ_Hand_Embroidery-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "màn trình diễn": 0.9692670032382011,
+            "chất liệu lụa": 0.9955485841492191,
+            "phòng trưng bày": 0.3526588079694193,
+            "thành cổ": 0.5,
+            "tác phẩm nghệ thuật": 0.9948732121556532,
+            "tác phẩm": 0.6119813488460043,
+            "nghệ sĩ": 0.5,
+            "đường khâu lụa": 0.9808360314927995,
+            "thêu thùa": 0.6011443454772234,
+            "bảo tàng": 0.7470462839119136,
+            "món đồ": -0.9529906590469182,
+            "kỹ năng": 0.8737691454589367,
+            "môn học": 0.5,
+            "tranh thêu tay": 0.6868845727294683,
+            "nghệ thuật": 0.5,
+            "bảo tàng kiêm": 0.8737691454589367,
+            "mảnh thêu": 0.9947616658173501,
+            "sự kiên nhẫn": 0.9901019232347608,
+            "hình thêu": 0.9937011634465307,
+            "chi tiết": 0.9953953241929412,
+            "sản phẩm": 0.5,
+            "giá": 0.5,
+            "tác phẩm thêu": 0.9927740280982107,
+            "hoa": 0.9450649442151189,
+            "con người": -0.9711834639310837,
+            "ngân sách": 0.5,
+            "chuyến đi": 0.5
+        },
+        "dicts_adj": {
+            "màn trình diễn": [
+                "tuyệt vời",
+                "nhất",
+                "ngược"
+            ],
+            "chất liệu lụa": [
+                "Nhiều",
+                "đẹp",
+                "rẻ"
+            ],
+            "phòng trưng bày": [
+                "nhỏ",
+                "dọc",
+                "chắc chắn"
+            ],
+            "thành cổ": [],
+            "tác phẩm nghệ thuật": [
+                "phức tạp",
+                "tinh tế",
+                "đầy",
+                "ấn tượng",
+                "cần thiết",
+                "tuyệt vời",
+                "tuyệt vời",
+                "giàu có",
+                "nhiều",
+                "đẹp",
+                "chuyên nghiệp"
+            ],
+            "tác phẩm": [
+                "tinh xảo",
+                "đẹp",
+                "nhất",
+                "bất kỳ"
+            ],
+            "nghệ sĩ": [],
+            "đường khâu lụa": [
+                "đặc biệt"
+            ],
+            "thêu thùa": [
+                "cao"
+            ],
+            "bảo tàng": [
+                "đẹp",
+                "trẻ",
+                "vui",
+                "rõ ràng"
+            ],
+            "món đồ": [
+                "gần",
+                "đủ"
+            ],
+            "kỹ năng": [
+                "thực sự",
+                "nhiều"
+            ],
+            "môn học": [],
+            "tranh thêu tay": [
+                "đẹp",
+                "nhất",
+                "bất kỳ"
+            ],
+            "nghệ thuật": [],
+            "bảo tàng kiêm": [
+                "chắc chắn"
+            ],
+            "mảnh thêu": [
+                "tinh tế"
+            ],
+            "sự kiên nhẫn": [
+                "cần thiết",
+                "khó"
+            ],
+            "hình thêu": [
+                "đẹp"
+            ],
+            "chi tiết": [
+                "tuyệt vời"
+            ],
+            "sản phẩm": [],
+            "giá": [],
+            "tác phẩm thêu": [
+                "đẹp"
+            ],
+            "hoa": [
+                "tinh tế"
+            ],
+            "con người": [
+                "tinh tế"
+            ],
+            "ngân sách": [],
+            "chuyến đi": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "màn trình diễn": 0.5,
+            "chất liệu lụa": 0.5,
+            "phòng trưng bày": 1.0,
+            "thành cổ": 0.5,
+            "tác phẩm nghệ thuật": 2.0,
+            "tác phẩm": 1.5,
+            "nghệ sĩ": 0.5,
+            "đường khâu lụa": 0.5,
+            "thêu thùa": 1.0,
+            "bảo tàng": 1.0,
+            "món đồ": 0.5,
+            "kỹ năng": 0.5,
+            "môn học": 0.5,
+            "tranh thêu tay": 1.0,
+            "nghệ thuật": 0.5,
+            "bảo tàng kiêm": 0.5,
+            "mảnh thêu": 0.5,
+            "sự kiên nhẫn": 0.5,
+            "hình thêu": 0.5,
+            "chi tiết": 0.5,
+            "sản phẩm": 0.5,
+            "giá": 0.5,
+            "tác phẩm thêu": 0.5,
+            "hoa": 0.5,
+            "con người": 0.5,
+            "ngân sách": 0.5,
+            "chuyến đi": 0.5
+        }
     },
     {
         "attraction_name": "XQ Hand Embroidery",
@@ -300,6 +611,151 @@
             "https://www.tripadvisor.com/Attraction_Review-g42139-d668427-Reviews-Woodward_Avenue-Detroit_Michigan.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d12898894-Reviews-or30-XQ_Hand_Embroidery-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d12898894-Reviews-or20-XQ_Hand_Embroidery-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d12898894-Reviews-or20-XQ_Hand_Embroidery-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "màn": 0.8737691454589367,
+            "trình diễn thêu tay": 0.9950697787571698,
+            "bán hàng": -0.8600440644659102,
+            "đoạn": 0.9949795751017518,
+            "tác phẩm nghệ thuật thủ": 0.9949705896045392,
+            "studio": 0.5,
+            "nghệ sĩ": 0.5291034883509079,
+            "tác phẩm": 0.5640059035140439,
+            "bức thêu": -0.17479183711111546,
+            "tác phẩm nghệ thuật": 0.8302924829962043,
+            "giá cả": 0.5,
+            "phòng": 0.5,
+            "thợ thêu": 0.5,
+            "tác phẩm thủ công": 0.995113174256403,
+            "mảnh vải voan": 0.5,
+            "nhân viên": 0.9806348769925535,
+            "bờ": 0.5,
+            "sông hương": 0.8737691454589367,
+            "phòng tranh": 0.38678880315274,
+            "trái tim": 0.8737691454589367,
+            "nghệ thuật thêu": 0.5,
+            "thêu thùa": 0.9412608516868204,
+            "dệt may": 0.8263894682750106,
+            "bảo tàng": 0.28970060238498263,
+            "tác phẩm thêu": 0.02384624772821553,
+            "biển báo": 0.6702962871640921,
+            "kho báu": 0.9951327483868226
+        },
+        "dicts_adj": {
+            "màn": [
+                "tuyệt vời"
+            ],
+            "trình diễn thêu tay": [
+                "tuyệt vời"
+            ],
+            "bán hàng": [
+                "ngắn",
+                "dài"
+            ],
+            "đoạn": [
+                "thực sự"
+            ],
+            "tác phẩm nghệ thuật thủ": [
+                "tuyệt vời",
+                "đẹp mắt",
+                "khắp"
+            ],
+            "studio": [],
+            "nghệ sĩ": [
+                "trong sáng"
+            ],
+            "tác phẩm": [
+                "thực sự",
+                "khác",
+                "khác",
+                "đẹp",
+                "đẹp",
+                "phức tạp"
+            ],
+            "bức thêu": [
+                "giống",
+                "chi tiết"
+            ],
+            "tác phẩm nghệ thuật": [
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "giá cả": [],
+            "phòng": [],
+            "thợ thêu": [],
+            "tác phẩm thủ công": [
+                "tinh tế"
+            ],
+            "mảnh vải voan": [],
+            "nhân viên": [
+                "dễ chịu"
+            ],
+            "bờ": [],
+            "sông hương": [
+                "cuối cùng"
+            ],
+            "phòng tranh": [],
+            "trái tim": [
+                "trong sáng"
+            ],
+            "nghệ thuật thêu": [],
+            "thêu thùa": [
+                "nhiều",
+                "thực sự"
+            ],
+            "dệt may": [
+                "nhiều",
+                "thực sự"
+            ],
+            "bảo tàng": [
+                "nhiều",
+                "tình cờ",
+                "đẹp",
+                "thực sự"
+            ],
+            "tác phẩm thêu": [
+                "ấn tượng",
+                "tuyệt vời",
+                "tốt bụng"
+            ],
+            "biển báo": [
+                "hoàn toàn",
+                "cao"
+            ],
+            "kho báu": [
+                "thực sự"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "màn": 0.5,
+            "trình diễn thêu tay": 0.5,
+            "bán hàng": 0.5,
+            "đoạn": 0.5,
+            "tác phẩm nghệ thuật thủ": 0.5,
+            "studio": 0.5,
+            "nghệ sĩ": 1.5,
+            "tác phẩm": 2.0,
+            "bức thêu": 0.5,
+            "tác phẩm nghệ thuật": 1.5,
+            "giá cả": 0.5,
+            "phòng": 0.5,
+            "thợ thêu": 0.5,
+            "tác phẩm thủ công": 0.5,
+            "mảnh vải voan": 0.5,
+            "nhân viên": 0.5,
+            "bờ": 0.5,
+            "sông hương": 0.5,
+            "phòng tranh": 0.5,
+            "trái tim": 0.5,
+            "nghệ thuật thêu": 0.5,
+            "thêu thùa": 0.5,
+            "dệt may": 0.5,
+            "bảo tàng": 1.5,
+            "tác phẩm thêu": 1.0,
+            "biển báo": 0.5,
+            "kho báu": 0.5
+        }
     }
 ]

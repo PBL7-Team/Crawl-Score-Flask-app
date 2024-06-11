@@ -105,7 +105,236 @@
             "https://www.tripadvisor.com/Attraction_Review-g189458-d11917556-Reviews-Mon_Repo_Beach-Corfu_Ionian_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g737051-d4412576-Reviews-or10-The_Good_Bar-Cat_Ba_Hai_Phong.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d4412576-Reviews-The_Good_Bar-Cat_Ba_Hai_Phong.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d4412576-Reviews-The_Good_Bar-Cat_Ba_Hai_Phong.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quầy bar": 0.8764836796197213,
+            "cocktail": 0.03307393938302994,
+            "đồ uống": 0.9872482172650052,
+            "giá": 0.8521424625068903,
+            "bầu không khí": 0.02064444962888956,
+            "người chủ": 0.8737691454589367,
+            "xe buýt": 0.5237479470670223,
+            "thuyền": 0.5305979121476412,
+            "bữa sáng": 0.9912088956916705,
+            "âm nhạc": 0.8856211400707252,
+            "nhân viên": 0.9914118816571621,
+            "giá cả": 0.8737691454589367,
+            "bàn bida": 0.8737691454589367,
+            "người": 0.9862263058312237,
+            "văn hóa": 0.5,
+            "đồ uống thì": 0.9934287861688063,
+            "đảo": 0.9603763535269536,
+            "quán bar": 0.8703292717691511,
+            "bia": 0.8902991027571261,
+            "ly cocktail": 0.8247249406413175,
+            "lưu trú": 0.8467716386367101,
+            "món ăn": 0.9954749430180527,
+            "thức ăn": 0.7612477930088062,
+            "khoai tây chiên": -0.1409580335021019,
+            "bánh mì kiểu việt nam": 0.8737691454589367,
+            "bia địa phương": -0.6426249309442937,
+            "bữa trưa": 0.5140850301831961,
+            "bia địa": 0.8737691454589367,
+            "cho": 0.544432969763875,
+            "cốc": -0.3088736552745104,
+            "bài hát nhạc pop": 0.6040384750813246,
+            "ăn trưa": 0.9929541358724236,
+            "địa ngục": -0.9694717661477625,
+            "ba lô": 0.512020155787468,
+            "nhạc ầm": 0.9927778547862545,
+            "rượu": 0.5,
+            "loại": 0.5,
+            "bóng cười": 0.5,
+            "tầm nhìn": 0.8737691454589367,
+            "tầng 3": 0.9946370639954694,
+            "bóng đá": 0.5329542215913534
+        },
+        "dicts_adj": {
+            "quầy bar": [
+                "nhiều",
+                "cực",
+                "ngon",
+                "ngắn"
+            ],
+            "cocktail": [
+                "nhiều"
+            ],
+            "đồ uống": [
+                "rẻ",
+                "ngon",
+                "cuối cùng"
+            ],
+            "giá": [
+                "rẻ",
+                "tốt"
+            ],
+            "bầu không khí": [
+                "tuyệt vời"
+            ],
+            "người chủ": [
+                "riêng"
+            ],
+            "xe buýt": [
+                "riêng"
+            ],
+            "thuyền": [
+                "riêng"
+            ],
+            "bữa sáng": [],
+            "âm nhạc": [
+                "tuyệt vời",
+                "suốt",
+                "hay",
+                "nhiều",
+                "khác",
+                "tệ"
+            ],
+            "nhân viên": [
+                "tuyệt vời",
+                "thân thiện",
+                "hài lòng",
+                "đặc biệt"
+            ],
+            "giá cả": [
+                "tuyệt vời"
+            ],
+            "bàn bida": [
+                "tuyệt vời"
+            ],
+            "người": [
+                "tốt"
+            ],
+            "văn hóa": [],
+            "đồ uống thì": [
+                "rẻ"
+            ],
+            "đảo": [
+                "chắc chắn"
+            ],
+            "quán bar": [
+                "đầy",
+                "giống",
+                "đông"
+            ],
+            "bia": [
+                "nhiều",
+                "nhiều",
+                "rẻ"
+            ],
+            "ly cocktail": [
+                "cực",
+                "ngon",
+                "ngắn"
+            ],
+            "lưu trú": [
+                "chắc chắn",
+                "nhiều"
+            ],
+            "món ăn": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "thức ăn": [
+                "ngon",
+                "bình thường",
+                "đặc biệt"
+            ],
+            "khoai tây chiên": [
+                "muộn"
+            ],
+            "bánh mì kiểu việt nam": [
+                "muộn"
+            ],
+            "bia địa phương": [
+                "muộn",
+                "khổng lồ"
+            ],
+            "bữa trưa": [
+                "muộn"
+            ],
+            "bia địa": [
+                "rẻ"
+            ],
+            "cho": [
+                "nhỏ",
+                "lớn"
+            ],
+            "cốc": [
+                "nhỏ",
+                "lớn"
+            ],
+            "bài hát nhạc pop": [
+                "cũ"
+            ],
+            "ăn trưa": [
+                "thích hợp"
+            ],
+            "địa ngục": [
+                "nóng"
+            ],
+            "ba lô": [],
+            "nhạc ầm": [
+                "ầm ĩ"
+            ],
+            "rượu": [],
+            "loại": [],
+            "bóng cười": [],
+            "tầm nhìn": [
+                "đẹp"
+            ],
+            "tầng 3": [
+                "đẹp"
+            ],
+            "bóng đá": [
+                "lâu",
+                "trực tuyến"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quầy bar": 1.5,
+            "cocktail": 1.5,
+            "đồ uống": 2.0,
+            "giá": 1.5,
+            "bầu không khí": 1.5,
+            "người chủ": 0.5,
+            "xe buýt": 0.5,
+            "thuyền": 0.5,
+            "bữa sáng": 0.5,
+            "âm nhạc": 2.0,
+            "nhân viên": 1.5,
+            "giá cả": 0.5,
+            "bàn bida": 0.5,
+            "người": 0.5,
+            "văn hóa": 0.5,
+            "đồ uống thì": 0.5,
+            "đảo": 0.5,
+            "quán bar": 1.0,
+            "bia": 1.0,
+            "ly cocktail": 0.5,
+            "lưu trú": 1.0,
+            "món ăn": 0.5,
+            "thức ăn": 1.0,
+            "khoai tây chiên": 0.5,
+            "bánh mì kiểu việt nam": 0.5,
+            "bia địa phương": 0.5,
+            "bữa trưa": 0.5,
+            "bia địa": 0.5,
+            "cho": 0.5,
+            "cốc": 0.5,
+            "bài hát nhạc pop": 0.5,
+            "ăn trưa": 0.5,
+            "địa ngục": 0.5,
+            "ba lô": 0.5,
+            "nhạc ầm": 0.5,
+            "rượu": 0.5,
+            "loại": 0.5,
+            "bóng cười": 0.5,
+            "tầm nhìn": 0.5,
+            "tầng 3": 0.5,
+            "bóng đá": 0.5
+        }
     },
     {
         "attraction_name": "The Good Bar",
@@ -214,7 +443,165 @@
             "https://www.tripadvisor.com/Attraction_Review-g3238504-d2292118-Reviews-Gan_HaShlosha_Sahne_National_Park-Nir_David_Northern_District.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g737051-d4412576-Reviews-or20-The_Good_Bar-Cat_Ba_Hai_Phong.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d4412576-Reviews-or10-The_Good_Bar-Cat_Ba_Hai_Phong.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d4412576-Reviews-or10-The_Good_Bar-Cat_Ba_Hai_Phong.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bia": 0.7073187553905882,
+            "giá rẻ": 0.5,
+            "âm nhạc": 0.5,
+            "quán bar": 0.8046142108020528,
+            "thức ăn": 0.994979610084556,
+            "cocktail": -0.0891195942167542,
+            "ly cocktail": 0.9925808493280783,
+            "thuốc bổ": -0.9109362382441759,
+            "quầy bar": -0.9721286897547543,
+            "nhân viên": 0.9690564192375556,
+            "đồ uống": 0.8039103902992792,
+            "giá": 0.9337309182155877,
+            "món": 0.994642072939314,
+            "súp cà chua": 0.029086853843182325,
+            "tầm nhìn": 0.995370251184795,
+            "vịnh": 0.6868845727294683,
+            "​​cocktail": 0.5,
+            "giờ": 0.5,
+            "phi": -0.9524164036847651,
+            "chủ sở hữu": 0.9889224171638489,
+            "biển": 0.5,
+            "quang cảnh": 0.5,
+            "người quản lý": 0.5,
+            "hòn đảo": 0.7477160549897235,
+            "người bán hàng rong": 0.5,
+            "đảo": 0.4337030127644539,
+            "chính quyền địa phương": -0.9260712333489209,
+            "cảnh sát": -0.9444015831686556,
+            "cảnh quan từ": 0.8737691454589367,
+            "không khí": -0.9756324391346425
+        },
+        "dicts_adj": {
+            "bia": [
+                "chắc chắn",
+                "tuyệt vời",
+                "rẻ"
+            ],
+            "giá rẻ": [],
+            "âm nhạc": [],
+            "quán bar": [
+                "tuyệt vời",
+                "thân thiện",
+                "rẻ",
+                "đẹp"
+            ],
+            "thức ăn": [
+                "khủng khiếp"
+            ],
+            "cocktail": [
+                "tệ",
+                "cocktail tệ",
+                "tuyệt đặc biệt",
+                "chắc chắn",
+                "cuối cùng",
+                "tốt"
+            ],
+            "ly cocktail": [],
+            "thuốc bổ": [
+                "nhạt"
+            ],
+            "quầy bar": [
+                "thô lỗ"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "lịch sự",
+                "thực sự",
+                "tốt",
+                "hơn",
+                "tuyệt đặc biệt",
+                "chắc chắn",
+                "cuối cùng",
+                "tốt"
+            ],
+            "đồ uống": [
+                "hợp lý",
+                "tốt",
+                "rẻ"
+            ],
+            "giá": [
+                "hợp lý"
+            ],
+            "món": [
+                "ngon",
+                "bất ngờ"
+            ],
+            "súp cà chua": [
+                "ngon",
+                "bất ngờ"
+            ],
+            "tầm nhìn": [
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "vịnh": [
+                "tốt"
+            ],
+            "​​cocktail": [],
+            "giờ": [],
+            "phi": [],
+            "chủ sở hữu": [
+                "tốt"
+            ],
+            "biển": [],
+            "quang cảnh": [],
+            "người quản lý": [],
+            "hòn đảo": [
+                "xinh đẹp",
+                "tuyệt vời"
+            ],
+            "người bán hàng rong": [],
+            "đảo": [],
+            "chính quyền địa phương": [],
+            "cảnh sát": [
+                "buồn"
+            ],
+            "cảnh quan từ": [
+                "đẹp"
+            ],
+            "không khí": [
+                "tốt tầm"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bia": 2.5,
+            "giá rẻ": 0.5,
+            "âm nhạc": 0.5,
+            "quán bar": 1.5,
+            "thức ăn": 0.5,
+            "cocktail": 2.0,
+            "ly cocktail": 0.5,
+            "thuốc bổ": 0.5,
+            "quầy bar": 1.0,
+            "nhân viên": 2.0,
+            "đồ uống": 1.5,
+            "giá": 0.5,
+            "món": 0.5,
+            "súp cà chua": 0.5,
+            "tầm nhìn": 1.0,
+            "vịnh": 1.0,
+            "​​cocktail": 0.5,
+            "giờ": 0.5,
+            "phi": 0.5,
+            "chủ sở hữu": 0.5,
+            "biển": 0.5,
+            "quang cảnh": 0.5,
+            "người quản lý": 0.5,
+            "hòn đảo": 1.0,
+            "người bán hàng rong": 0.5,
+            "đảo": 0.5,
+            "chính quyền địa phương": 0.5,
+            "cảnh sát": 0.5,
+            "cảnh quan từ": 0.5,
+            "không khí": 0.5
+        }
     },
     {
         "attraction_name": "The Good Bar",
@@ -324,7 +711,334 @@
             "https://www.tripadvisor.com/Attraction_Review-g294197-d7154860-Reviews-A_Land-Seoul.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g737051-d4412576-Reviews-or30-The_Good_Bar-Cat_Ba_Hai_Phong.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d4412576-Reviews-or20-The_Good_Bar-Cat_Ba_Hai_Phong.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d4412576-Reviews-or20-The_Good_Bar-Cat_Ba_Hai_Phong.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "người": 0.9939602650702,
+            "nhân viên": 0.7473113420128357,
+            "cuộc sống về đêm": 0.9943187457975,
+            "dịch vụ": 0.6868845727294683,
+            "đồ ăn": -0.10932297712133732,
+            "đồ uống": 0.5543046848324593,
+            "chơi bida": 0.9951866168994457,
+            "khung cảnh": 0.9954537755693309,
+            "vịnh": 0.5,
+            "bar": 0.9947241983027197,
+            "âm nhạc": 0.7896953331849849,
+            "người quản lý": 0.9914132953272201,
+            "đảo": 0.9949247100157663,
+            "xe đạp": 0.5,
+            "giá": 0.6303701410070062,
+            "người nước ngoài": -0.7422076151706278,
+            "bữa ăn": 0.6599021721631289,
+            "tâm trạng": 0.5147463150642579,
+            "bánh pizza": -0.19767126301303506,
+            "đồ ăn nhân viên": 0.995197517098859,
+            "vị trí": 0.9955249189515598,
+            "diện": 0.5,
+            "nhà hàng": 0.008974996395409107,
+            "ly nước táo": 0.5,
+            "nhuyễn": 0.5,
+            "nước": 0.5,
+            "đĩa cơm": 0.5,
+            "con bọ": 0.5,
+            "đóng chai": 0.5,
+            "thức ăn": -0.9727989863604307,
+            "quán bar": 0.6442898467284977,
+            "khách sạn": 0.5092500671744347,
+            "vài": 0.9954864840838127,
+            "ly": 0.9955059475032613,
+            "bia": 0.9954766012961045,
+            "không khí": 0.5,
+            "bữa tiệc": 0.5,
+            "bài hát": 0.757531987503171,
+            "rượu": 0.5,
+            "burger gà": 0.9951769205508754,
+            "burger": 0.5,
+            "bánh sandwich": 0.5,
+            "cá ngừ": 0.5,
+            "phô mai": 0.5,
+            "trận bóng đá": 0.5191159658133984,
+            "trận đấu": 0.5,
+            "ngân sách": 0.5,
+            "cà phê": 0.5,
+            "bữa sáng": 0.5,
+            "món trứng tráng": 0.9316207844531164,
+            "cà chua": 0.986631782958284,
+            "bánh xèo xoài": 0.5,
+            "bánh mì baguette nóng": 0.9911718819057569,
+            "- -": 0.995597820263356,
+            "wifi": 0.9909464298980311,
+            "nhà": 0.5239318581297994,
+            "món gà": 0.8737691454589367,
+            "rau": -0.8965539750643075,
+            "bánh mì hamburger": -0.8989041377790272,
+            "thịt hamburger": 0.8737691454589367,
+            "vị lạ phô mai": 0.9547656690701842,
+            "thịt": -0.9513867490459234,
+            "thực phẩm": 0.8737691454589367,
+            "quá": -0.9711135031539015,
+            "cocktail": 0.9953187593491748,
+            "máy tính": 0.5030459146946669,
+            "quầy bar": 0.5,
+            "tầm nhìn": 0.866628591902554
+        },
+        "dicts_adj": {
+            "người": [
+                "thân thiện",
+                "chu đáo"
+            ],
+            "nhân viên": [
+                "thân thiện"
+            ],
+            "cuộc sống về đêm": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "vui vẻ",
+                "nhanh"
+            ],
+            "đồ ăn": [
+                "ngon",
+                "tệ",
+                "nhiều"
+            ],
+            "đồ uống": [
+                "tuyệt vời",
+                "nhiều",
+                "Noble house",
+                "tốt",
+                "ổn",
+                "khác"
+            ],
+            "chơi bida": [
+                "tuyệt vời"
+            ],
+            "khung cảnh": [
+                "tuyệt vời"
+            ],
+            "vịnh": [],
+            "bar": [
+                "nhanh"
+            ],
+            "âm nhạc": [
+                "thực sự",
+                "hay",
+                "khác"
+            ],
+            "người quản lý": [
+                "hữu ích",
+                "thú vị"
+            ],
+            "đảo": [
+                "tuyệt vời",
+                "Chắc chắn",
+                "vui"
+            ],
+            "xe đạp": [],
+            "giá": [
+                "ổn"
+            ],
+            "người nước ngoài": [
+                "khác"
+            ],
+            "bữa ăn": [
+                "bình thường"
+            ],
+            "tâm trạng": [
+                "thực sự",
+                "suốt",
+                "chủ yếu"
+            ],
+            "bánh pizza": [
+                "pizza tệ",
+                "nhất"
+            ],
+            "đồ ăn nhân viên": [
+                "đẹp"
+            ],
+            "vị trí": [
+                "đẹp"
+            ],
+            "diện": [],
+            "nhà hàng": [
+                "tồi tệ"
+            ],
+            "ly nước táo": [],
+            "nhuyễn": [],
+            "nước": [],
+            "đĩa cơm": [],
+            "con bọ": [],
+            "đóng chai": [],
+            "thức ăn": [
+                "thực sự"
+            ],
+            "quán bar": [
+                "ít nhiều",
+                "đông đúc",
+                "nhiều",
+                "trẻ",
+                "sẵn sàng",
+                "bất kỳ",
+                "đặc biệt",
+                "trẻ"
+            ],
+            "khách sạn": [
+                "ít nhiều"
+            ],
+            "vài": [
+                "rẻ"
+            ],
+            "ly": [
+                "rẻ"
+            ],
+            "bia": [
+                "rẻ"
+            ],
+            "không khí": [],
+            "bữa tiệc": [],
+            "bài hát": [
+                "duy nhất",
+                "khủng khiếp",
+                "cùng"
+            ],
+            "rượu": [],
+            "burger gà": [
+                "tuyệt vời"
+            ],
+            "burger": [],
+            "bánh sandwich": [],
+            "cá ngừ": [],
+            "phô mai": [],
+            "trận bóng đá": [
+                "trực tiếp"
+            ],
+            "trận đấu": [],
+            "ngân sách": [],
+            "cà phê": [],
+            "bữa sáng": [],
+            "món trứng tráng": [
+                "thực sự",
+                "ngon"
+            ],
+            "cà chua": [
+                "thực sự"
+            ],
+            "bánh xèo xoài": [],
+            "bánh mì baguette nóng": [
+                "ngon"
+            ],
+            "- -": [
+                "ngon"
+            ],
+            "wifi": [],
+            "nhà": [],
+            "món gà": [
+                "cứng"
+            ],
+            "rau": [
+                "cứng"
+            ],
+            "bánh mì hamburger": [
+                "cứng"
+            ],
+            "thịt hamburger": [
+                "nhàm"
+            ],
+            "vị lạ phô mai": [
+                "nhàm"
+            ],
+            "thịt": [
+                "nhàm"
+            ],
+            "thực phẩm": [
+                "đắt",
+                "xấu"
+            ],
+            "quá": [
+                "đắt",
+                "xấu"
+            ],
+            "cocktail": [
+                "thực sự",
+                "mạnh",
+                "tốt"
+            ],
+            "máy tính": [],
+            "quầy bar": [],
+            "tầm nhìn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "người": 0.5,
+            "nhân viên": 1.0,
+            "cuộc sống về đêm": 0.5,
+            "dịch vụ": 1.0,
+            "đồ ăn": 2.0,
+            "đồ uống": 2.0,
+            "chơi bida": 0.5,
+            "khung cảnh": 0.5,
+            "vịnh": 0.5,
+            "bar": 0.5,
+            "âm nhạc": 1.5,
+            "người quản lý": 0.5,
+            "đảo": 0.5,
+            "xe đạp": 0.5,
+            "giá": 0.5,
+            "người nước ngoài": 0.5,
+            "bữa ăn": 0.5,
+            "tâm trạng": 1.0,
+            "bánh pizza": 0.5,
+            "đồ ăn nhân viên": 0.5,
+            "vị trí": 0.5,
+            "diện": 0.5,
+            "nhà hàng": 1.5,
+            "ly nước táo": 0.5,
+            "nhuyễn": 0.5,
+            "nước": 0.5,
+            "đĩa cơm": 0.5,
+            "con bọ": 0.5,
+            "đóng chai": 0.5,
+            "thức ăn": 0.5,
+            "quán bar": 0.5,
+            "khách sạn": 1.0,
+            "vài": 0.5,
+            "ly": 0.5,
+            "bia": 0.5,
+            "không khí": 0.5,
+            "bữa tiệc": 0.5,
+            "bài hát": 0.5,
+            "rượu": 0.5,
+            "burger gà": 0.5,
+            "burger": 0.5,
+            "bánh sandwich": 0.5,
+            "cá ngừ": 0.5,
+            "phô mai": 0.5,
+            "trận bóng đá": 0.5,
+            "trận đấu": 0.5,
+            "ngân sách": 0.5,
+            "cà phê": 0.5,
+            "bữa sáng": 0.5,
+            "món trứng tráng": 0.5,
+            "cà chua": 0.5,
+            "bánh xèo xoài": 0.5,
+            "bánh mì baguette nóng": 0.5,
+            "- -": 0.5,
+            "wifi": 0.5,
+            "nhà": 0.5,
+            "món gà": 0.5,
+            "rau": 0.5,
+            "bánh mì hamburger": 0.5,
+            "thịt hamburger": 0.5,
+            "vị lạ phô mai": 0.5,
+            "thịt": 0.5,
+            "thực phẩm": 0.5,
+            "quá": 0.5,
+            "cocktail": 0.5,
+            "máy tính": 0.5,
+            "quầy bar": 0.5,
+            "tầm nhìn": 0.5
+        }
     },
     {
         "attraction_name": "The Good Bar",
@@ -434,7 +1148,204 @@
             "https://www.tripadvisor.com/Attraction_Review-g147247-d606779-Reviews-Aruba_Aloe_Factory_Museum_and_Store-Aruba.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g737051-d4412576-Reviews-or40-The_Good_Bar-Cat_Ba_Hai_Phong.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d4412576-Reviews-or30-The_Good_Bar-Cat_Ba_Hai_Phong.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d4412576-Reviews-or30-The_Good_Bar-Cat_Ba_Hai_Phong.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quán": 0.9934757113223895,
+            "dịch vụ": 0.9632949256338179,
+            "họ": 0.9893611861625686,
+            "giá cả": 0.9953860425157472,
+            "đồ ăn": 0.6222172810230404,
+            "chuột xâm nhập": 0.5,
+            "chuột": 0.9553010258823633,
+            "nhà hàng": 0.7037965762428939,
+            "nhân viên": 0.04797574923820017,
+            "món ăn": 0.21088320352137088,
+            "địa điểm mát mẻ": 0.5,
+            "bờ biển": 0.5,
+            "quang cảnh": 0.7899067429825664,
+            "bida": 0.5,
+            "bóng đá": 0.5,
+            "máy tính": 0.5,
+            "quầy bar": 0.5484843405429274,
+            "thức ăn": 0.34202987514436245,
+            "đồ uống": 0.6180017177636424,
+            "bữa ăn": 0.9946175726363435,
+            "bia": 0.9619916342198849,
+            "pizza": 0.7474078502564225,
+            "-": 0.9955904272501357,
+            "mì ống": 0.7420280223013833,
+            "người dân địa phương": 0.9954823912703432,
+            "ăn trưa": 0.513313066214323,
+            "giá": -0.10590818598575424,
+            "con phố": 0.9349022526293993,
+            "hóa đơn": -0.06249420903623104,
+            "thái độ": 0.5,
+            "vị trí": 0.011823274806374684,
+            "tầm nhìn": 0.5,
+            "vịnh": 0.5,
+            "trò chơi": 0.9677132330834866,
+            "quán bar": 0.8711763428436825,
+            "shisha": 0.5961101092398167,
+            "thị trấn": 0.5
+        },
+        "dicts_adj": {
+            "quán": [
+                "ngon"
+            ],
+            "dịch vụ": [],
+            "họ": [
+                "vui vẻ"
+            ],
+            "giá cả": [
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "đặc biệt",
+                "có giá",
+                "thực sự"
+            ],
+            "chuột xâm nhập": [],
+            "chuột": [],
+            "nhà hàng": [],
+            "nhân viên": [
+                "đông",
+                "ồn ào",
+                "niềm nở",
+                "ít",
+                "hay",
+                "đặc biệt"
+            ],
+            "món ăn": [
+                "pizza tệ",
+                "suốt",
+                "thực sự",
+                "nhỏ"
+            ],
+            "địa điểm mát mẻ": [],
+            "bờ biển": [],
+            "quang cảnh": [
+                "sớm",
+                "hơn",
+                "đẹp",
+                "tối"
+            ],
+            "bida": [],
+            "bóng đá": [],
+            "máy tính": [],
+            "quầy bar": [
+                "tuyệt vời",
+                "nhanh",
+                "thực sự",
+                "trung bình"
+            ],
+            "thức ăn": [
+                "trung bình",
+                "thấp"
+            ],
+            "đồ uống": [
+                "đặc biệt"
+            ],
+            "bữa ăn": [
+                "khác"
+            ],
+            "bia": [
+                "rẻ"
+            ],
+            "pizza": [
+                "ngon"
+            ],
+            "-": [
+                "ngon"
+            ],
+            "mì ống": [
+                "ngon"
+            ],
+            "người dân địa phương": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "ăn trưa": [
+                "muộn"
+            ],
+            "giá": [
+                "đắt",
+                "rẻ",
+                "hợp lý",
+                "cùng"
+            ],
+            "con phố": [
+                "nhiều",
+                "hơn",
+                "cùng",
+                "rẻ",
+                "hơn"
+            ],
+            "hóa đơn": [
+                "đắt",
+                "nhiều"
+            ],
+            "thái độ": [],
+            "vị trí": [
+                "ngon tầm",
+                "khác",
+                "khốn nạn"
+            ],
+            "tầm nhìn": [],
+            "vịnh": [],
+            "trò chơi": [
+                "đông đúc",
+                "duy nhất"
+            ],
+            "quán bar": [
+                "niềm nở",
+                "ít",
+                "hay",
+                "tốt"
+            ],
+            "shisha": [],
+            "thị trấn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quán": 0.5,
+            "dịch vụ": 0.5,
+            "họ": 0.5,
+            "giá cả": 0.5,
+            "đồ ăn": 2.0,
+            "chuột xâm nhập": 0.5,
+            "chuột": 0.5,
+            "nhà hàng": 1.0,
+            "nhân viên": 1.5,
+            "món ăn": 2.5,
+            "địa điểm mát mẻ": 0.5,
+            "bờ biển": 0.5,
+            "quang cảnh": 0.5,
+            "bida": 0.5,
+            "bóng đá": 0.5,
+            "máy tính": 0.5,
+            "quầy bar": 1.0,
+            "thức ăn": 1.0,
+            "đồ uống": 1.5,
+            "bữa ăn": 0.5,
+            "bia": 0.5,
+            "pizza": 1.0,
+            "-": 0.5,
+            "mì ống": 1.0,
+            "người dân địa phương": 0.5,
+            "ăn trưa": 0.5,
+            "giá": 1.0,
+            "con phố": 0.5,
+            "hóa đơn": 0.5,
+            "thái độ": 0.5,
+            "vị trí": 0.5,
+            "tầm nhìn": 0.5,
+            "vịnh": 0.5,
+            "trò chơi": 0.5,
+            "quán bar": 0.5,
+            "shisha": 0.5,
+            "thị trấn": 0.5
+        }
     },
     {
         "attraction_name": "The Good Bar",
@@ -544,7 +1455,306 @@
             "https://www.tripadvisor.com/Attraction_Review-g181717-d156257-Reviews-Capilano_Suspension_Bridge_Park-North_Vancouver_British_Columbia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g737051-d4412576-Reviews-or50-The_Good_Bar-Cat_Ba_Hai_Phong.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d4412576-Reviews-or40-The_Good_Bar-Cat_Ba_Hai_Phong.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d4412576-Reviews-or40-The_Good_Bar-Cat_Ba_Hai_Phong.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bia": 0.34523572970647365,
+            "giá": 0.34426265985530335,
+            "bida": 0.24151265962670246,
+            "dàn nhạc": 0.5,
+            "bàn bóng đá": 0.5,
+            "khung cảnh": 0.8737691454589367,
+            "vịnh": 0.9654622420202941,
+            "mất vệ sinh": -0.9716905757086352,
+            "khoai tây chiên": 0.500309132039547,
+            "khoai tây chiên kiểu": 0.8706781677901745,
+            "ly": -0.9748670358676463,
+            "dịch vụ": 0.012543078380986117,
+            "sức khỏe": 0.9431843003258109,
+            "tào": 0.5,
+            "bóng đèn": 0.5,
+            "máng xối": 0.5,
+            "âm nhạc": 0.7477694538538344,
+            "đồ uống": 0.7173299538480933,
+            "đồ ăn": 0.9264343222603202,
+            "nhân viên": 0.3780528315255651,
+            "phòng tắm": 0.5,
+            "nhà vệ sinh": -0.14762445713859051,
+            "điểm du lịch": 0.03236027806997299,
+            "nước máy": 0.5,
+            "quán bar": 0.7603150278390829,
+            "trải nghiệm": 0.9941930039494764,
+            "thực phẩm": 0.5347461793571711,
+            "đồ ăn phương": 0.7948329839855433,
+            "pizza": 0.7022411562502384,
+            "kem": 0.7800360846449621,
+            "sữa chua": 0.6386946216225624,
+            "giá cả": 0.5386741291731596,
+            "món tráng miệng": 0.8737691454589367,
+            "bánh trái cây": 0.9953486085869372,
+            "vận động viên": 0.593228118494153,
+            "xáo trộn": 0.5,
+            "sô cô la với": 0.5,
+            "xoài phủ": 0.5,
+            "kem dâu": 0.5,
+            "sô cô la": 0.5,
+            "cảnh biển": 0.9927524457452819,
+            "khách sạn": 0.28608999440136057,
+            "quầy bar": 0.8737691454589367,
+            "cocktail": 0.5,
+            "đêm": 0.9938010199693963,
+            "thứ hạng": 0.5981335202232003,
+            "quán": 0.6451101619750261,
+            "bóng đá": -0.9678097213618457,
+            "bãi biển": 0.9880465221649501,
+            "bữa": -0.9685164589900523,
+            "mức": 0.9952424890361726,
+            "bia -": 0.9954681799281389,
+            "tầm nhìn": 0.9954608453554101,
+            "vị trí": 0.8737691454589367,
+            "nhà hàng": 0.9814330791123211,
+            "thức ăn": 0.8737691454589367,
+            "thị trấn": 0.5,
+            "wi-fi mạnh": 0.5677935872226954
+        },
+        "dicts_adj": {
+            "bia": [
+                "rẻ",
+                "rẻ"
+            ],
+            "giá": [
+                "rẻ",
+                "cao",
+                "khủng khiếp",
+                "tuyệt vời"
+            ],
+            "bida": [
+                "cũ",
+                "khác"
+            ],
+            "dàn nhạc": [],
+            "bàn bóng đá": [],
+            "khung cảnh": [
+                "tuyệt vời"
+            ],
+            "vịnh": [
+                "may mắn"
+            ],
+            "mất vệ sinh": [],
+            "khoai tây chiên": [
+                "nhiều",
+                "nhiều",
+                "hơn"
+            ],
+            "khoai tây chiên kiểu": [],
+            "ly": [],
+            "dịch vụ": [
+                "tệ",
+                "thực sự",
+                "hoàn toàn",
+                "xứng đáng"
+            ],
+            "sức khỏe": [],
+            "tào": [],
+            "bóng đèn": [],
+            "máng xối": [],
+            "âm nhạc": [
+                "tuyệt vời"
+            ],
+            "đồ uống": [
+                "ngon",
+                "ngon",
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "khủng khiếp",
+                "ngon",
+                "ngon"
+            ],
+            "nhân viên": [
+                "có ích",
+                "nhiều",
+                "thân thiện",
+                "thân thiện",
+                "nhất"
+            ],
+            "phòng tắm": [],
+            "nhà vệ sinh": [
+                "lớn"
+            ],
+            "điểm du lịch": [
+                "đông đúc"
+            ],
+            "nước máy": [],
+            "quán bar": [
+                "ngon",
+                "nhiều",
+                "tốt",
+                "gần",
+                "lấp lánh",
+                "khác",
+                "ấn tượng",
+                "khác",
+                "ấn tượng",
+                "đẹp",
+                "tốt",
+                "hơn",
+                "tốt",
+                "hơn"
+            ],
+            "trải nghiệm": [
+                "hoàn toàn",
+                "xứng đáng"
+            ],
+            "thực phẩm": [
+                "cao"
+            ],
+            "đồ ăn phương": [
+                "khủng khiếp"
+            ],
+            "pizza": [
+                "khủng khiếp"
+            ],
+            "kem": [
+                "khủng khiếp",
+                "tuyệt vời"
+            ],
+            "sữa chua": [
+                "khủng khiếp"
+            ],
+            "giá cả": [
+                "cao"
+            ],
+            "món tráng miệng": [
+                "tuyệt vời"
+            ],
+            "bánh trái cây": [
+                "tuyệt vời"
+            ],
+            "vận động viên": [
+                "nhiều"
+            ],
+            "xáo trộn": [],
+            "sô cô la với": [],
+            "xoài phủ": [],
+            "kem dâu": [],
+            "sô cô la": [],
+            "cảnh biển": [
+                "nhiều"
+            ],
+            "khách sạn": [
+                "cùng",
+                "đẹp",
+                "tốt",
+                "hơn"
+            ],
+            "quầy bar": [
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "cocktail": [],
+            "đêm": [
+                "vui vẻ"
+            ],
+            "thứ hạng": [
+                "cao",
+                "nhất"
+            ],
+            "quán": [
+                "trung bình"
+            ],
+            "bóng đá": [
+                "cũ"
+            ],
+            "bãi biển": [
+                "tốt",
+                "hơn"
+            ],
+            "bữa": [
+                "đắt"
+            ],
+            "mức": [
+                "tuyệt vời"
+            ],
+            "bia -": [
+                "tuyệt vời"
+            ],
+            "tầm nhìn": [
+                "tuyệt vời"
+            ],
+            "vị trí": [
+                "tốt"
+            ],
+            "nhà hàng": [],
+            "thức ăn": [
+                "tuyệt vời"
+            ],
+            "thị trấn": [],
+            "wi-fi mạnh": [
+                "nhất"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bia": 2.0,
+            "giá": 2.0,
+            "bida": 1.5,
+            "dàn nhạc": 0.5,
+            "bàn bóng đá": 0.5,
+            "khung cảnh": 0.5,
+            "vịnh": 0.5,
+            "mất vệ sinh": 0.5,
+            "khoai tây chiên": 0.5,
+            "khoai tây chiên kiểu": 0.5,
+            "ly": 0.5,
+            "dịch vụ": 1.0,
+            "sức khỏe": 0.5,
+            "tào": 0.5,
+            "bóng đèn": 0.5,
+            "máng xối": 0.5,
+            "âm nhạc": 1.0,
+            "đồ uống": 2.0,
+            "đồ ăn": 1.5,
+            "nhân viên": 2.0,
+            "phòng tắm": 0.5,
+            "nhà vệ sinh": 0.5,
+            "điểm du lịch": 0.5,
+            "nước máy": 0.5,
+            "quán bar": 1.5,
+            "trải nghiệm": 0.5,
+            "thực phẩm": 0.5,
+            "đồ ăn phương": 0.5,
+            "pizza": 0.5,
+            "kem": 0.5,
+            "sữa chua": 0.5,
+            "giá cả": 0.5,
+            "món tráng miệng": 0.5,
+            "bánh trái cây": 0.5,
+            "vận động viên": 0.5,
+            "xáo trộn": 0.5,
+            "sô cô la với": 0.5,
+            "xoài phủ": 0.5,
+            "kem dâu": 0.5,
+            "sô cô la": 0.5,
+            "cảnh biển": 0.5,
+            "khách sạn": 1.0,
+            "quầy bar": 1.0,
+            "cocktail": 0.5,
+            "đêm": 0.5,
+            "thứ hạng": 0.5,
+            "quán": 0.5,
+            "bóng đá": 0.5,
+            "bãi biển": 0.5,
+            "bữa": 0.5,
+            "mức": 0.5,
+            "bia -": 0.5,
+            "tầm nhìn": 0.5,
+            "vị trí": 0.5,
+            "nhà hàng": 0.5,
+            "thức ăn": 0.5,
+            "thị trấn": 0.5,
+            "wi-fi mạnh": 0.5
+        }
     },
     {
         "attraction_name": "The Good Bar",
@@ -654,7 +1864,262 @@
             "https://www.tripadvisor.com/Attraction_Review-g44160-d20160168-Reviews-Escape_Reality_Magic_Dinner_Show-Branson_Missouri.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g737051-d4412576-Reviews-or60-The_Good_Bar-Cat_Ba_Hai_Phong.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d4412576-Reviews-or50-The_Good_Bar-Cat_Ba_Hai_Phong.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d4412576-Reviews-or50-The_Good_Bar-Cat_Ba_Hai_Phong.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quầy bar": 0.6648055221885443,
+            "tấm chăn": 0.5,
+            "đồ ăn": 0.25847279955632985,
+            "đồ uống": -0.10043451705132611,
+            "quán cà phê": 0.5,
+            "nhà hàng": 0.5026362757198513,
+            "quán bar": 0.6412396238301881,
+            "cà phê": 0.8737691454589367,
+            "đảo": 0.5,
+            "món ăn trưa": 0.9493872777093202,
+            "bánh kếp": 0.5,
+            "ly cocktail": 0.7469374552601948,
+            "dịch vụ": 0.9879253929830156,
+            "bữa sáng": 0.74722242198186,
+            "người": -0.9151875646784902,
+            "đầu bếp": -0.9658536862116307,
+            "ca sáng": 0.5,
+            "nhân viên": 0.8116917089985994,
+            "cảnh": 0.8737691454589367,
+            "bia rẻ": 0.5,
+            "món tráng miệng quán": 0.6226942436769605,
+            "món tráng miệng": 0.6191811030730605,
+            "bánh xèo xoài": 0.5766418371349573,
+            "thức ăn": 0.808506143046543,
+            "cuộc": 0.9033478810451925,
+            "thuyền": 0.5396478706970811,
+            "đồng": 0.5,
+            "xe buýt địa phương": 0.48848797008395195,
+            "xe buýt": 0.04497058081324212,
+            "dịch vụ xe khách": -0.7144975420087576,
+            "chỗ ngồi": 0.8430048828013241,
+            "đồ uống lạnh": -0.7060643807053566,
+            "đồ ăn nhẹ": 0.8470809329301119,
+            "bầu không khí": 0.6884159818291664,
+            "kỳ nghỉ": 0.9912978791398928,
+            "cơ sở": -0.9732363275252283,
+            "giá cả": 0.7425019157817587,
+            "đêm": 0.9937745255883783,
+            "âm nhạc": 0.5,
+            "cảng": 0.9894575756043196,
+            "bàn bida": 0.9844648009166121,
+            "người dân": 0.9895440001273528,
+            "cơm": 0.5,
+            "thịt lợn": 0.5,
+            "con": 0.9377717799507082,
+            "bia": 0.5,
+            "cocktail": 0.5,
+            "bánh mì kẹp thịt": 0.5,
+            "khoai tây chiên": 0.5,
+            "núi": 0.5,
+            "vị trí": 0.9929797786171548
+        },
+        "dicts_adj": {
+            "quầy bar": [
+                "khắp"
+            ],
+            "tấm chăn": [],
+            "đồ ăn": [
+                "đắt",
+                "hơn",
+                "khác",
+                "đắt đỏ",
+                "ngon",
+                "nhạt",
+                "ổn"
+            ],
+            "đồ uống": [
+                "đắt",
+                "hơn",
+                "khác",
+                "khác",
+                "khác"
+            ],
+            "quán cà phê": [],
+            "nhà hàng": [
+                "nhiều",
+                "khác biệt"
+            ],
+            "quán bar": [
+                "thoải mái",
+                "thân thiện"
+            ],
+            "cà phê": [
+                "ngon"
+            ],
+            "đảo": [],
+            "món ăn trưa": [],
+            "bánh kếp": [],
+            "ly cocktail": [
+                "thực sự",
+                "tốt",
+                "suốt",
+                "khác"
+            ],
+            "dịch vụ": [],
+            "bữa sáng": [
+                "ngon",
+                "đáng giá"
+            ],
+            "người": [
+                "khác"
+            ],
+            "đầu bếp": [
+                "khác"
+            ],
+            "ca sáng": [],
+            "nhân viên": [
+                "thân thiện",
+                "tốt",
+                "bận rộn"
+            ],
+            "cảnh": [
+                "đẹp"
+            ],
+            "bia rẻ": [],
+            "món tráng miệng quán": [
+                "khác biệt"
+            ],
+            "món tráng miệng": [
+                "khác biệt"
+            ],
+            "bánh xèo xoài": [
+                "khác biệt"
+            ],
+            "thức ăn": [
+                "hoàn toàn",
+                "khác",
+                "trung bình"
+            ],
+            "cuộc": [
+                "ổn"
+            ],
+            "thuyền": [
+                "thực sự"
+            ],
+            "đồng": [],
+            "xe buýt địa phương": [],
+            "xe buýt": [
+                "khác",
+                "khoảng",
+                "khác",
+                "khác",
+                "chật chội",
+                "chật cứng",
+                "mệt mỏi",
+                "thực sự"
+            ],
+            "dịch vụ xe khách": [],
+            "chỗ ngồi": [
+                "trẻ"
+            ],
+            "đồ uống lạnh": [
+                "tốt"
+            ],
+            "đồ ăn nhẹ": [
+                "tốt"
+            ],
+            "bầu không khí": [
+                "thoải mái",
+                "thân thiện"
+            ],
+            "kỳ nghỉ": [
+                "dễ dàng"
+            ],
+            "cơ sở": [
+                "bất kỳ"
+            ],
+            "giá cả": [
+                "ổn"
+            ],
+            "đêm": [
+                "thực sự",
+                "thú vị"
+            ],
+            "âm nhạc": [],
+            "cảng": [
+                "nhiều"
+            ],
+            "bàn bida": [
+                "nhiều"
+            ],
+            "người dân": [
+                "nhiều"
+            ],
+            "cơm": [],
+            "thịt lợn": [],
+            "con": [
+                "thực sự",
+                "tốt"
+            ],
+            "bia": [],
+            "cocktail": [],
+            "bánh mì kẹp thịt": [],
+            "khoai tây chiên": [],
+            "núi": [],
+            "vị trí": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quầy bar": 0.5,
+            "tấm chăn": 0.5,
+            "đồ ăn": 1.5,
+            "đồ uống": 1.5,
+            "quán cà phê": 0.5,
+            "nhà hàng": 2.0,
+            "quán bar": 1.5,
+            "cà phê": 0.5,
+            "đảo": 0.5,
+            "món ăn trưa": 0.5,
+            "bánh kếp": 0.5,
+            "ly cocktail": 1.0,
+            "dịch vụ": 0.5,
+            "bữa sáng": 1.0,
+            "người": 0.5,
+            "đầu bếp": 0.5,
+            "ca sáng": 0.5,
+            "nhân viên": 1.5,
+            "cảnh": 0.5,
+            "bia rẻ": 0.5,
+            "món tráng miệng quán": 0.5,
+            "món tráng miệng": 0.5,
+            "bánh xèo xoài": 0.5,
+            "thức ăn": 1.0,
+            "cuộc": 0.5,
+            "thuyền": 1.0,
+            "đồng": 0.5,
+            "xe buýt địa phương": 0.5,
+            "xe buýt": 1.0,
+            "dịch vụ xe khách": 0.5,
+            "chỗ ngồi": 0.5,
+            "đồ uống lạnh": 0.5,
+            "đồ ăn nhẹ": 0.5,
+            "bầu không khí": 0.5,
+            "kỳ nghỉ": 0.5,
+            "cơ sở": 0.5,
+            "giá cả": 1.0,
+            "đêm": 0.5,
+            "âm nhạc": 0.5,
+            "cảng": 0.5,
+            "bàn bida": 0.5,
+            "người dân": 0.5,
+            "cơm": 0.5,
+            "thịt lợn": 0.5,
+            "con": 0.5,
+            "bia": 0.5,
+            "cocktail": 0.5,
+            "bánh mì kẹp thịt": 0.5,
+            "khoai tây chiên": 0.5,
+            "núi": 0.5,
+            "vị trí": 0.5
+        }
     },
     {
         "attraction_name": "The Good Bar",
@@ -761,6 +2226,179 @@
             "https://www.tripadvisor.com/Attraction_Review-g293986-d1980258-Reviews-Royal_Automobile_Museum-Amman_Amman_Governorate.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d4412576-Reviews-or60-The_Good_Bar-Cat_Ba_Hai_Phong.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d4412576-Reviews-or60-The_Good_Bar-Cat_Ba_Hai_Phong.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quán bar": 0.9442448528949171,
+            "vị trí": 0.99539563304279,
+            "bến tàu": 0.5,
+            "người dân địa phương": 0.5,
+            "người pha chế là": 0.9896375720854849,
+            "thức ăn": 0.8737691454589367,
+            "salad": -0.9732265556231141,
+            "mì là": 0.5,
+            "thứ tào lao": 0.5,
+            "bánh kếp": 0.9883776940405369,
+            "nhân viên người việt": 0.8737691454589367,
+            "nhân viên": 0.21089426483376883,
+            "quầy bar": 0.5934422863647342,
+            "cocktail": 0.6260742571757874,
+            "đồ uống": 0.5253236653128018,
+            "bầu không khí": -0.3196446690708399,
+            "đồ ăn": 0.7413609988288954,
+            "bia": 0.5,
+            "bản nhạc": 0.9949639741098508,
+            "bóng đá": 0.9952412792481482,
+            "đội": 0.9954401507275179,
+            "cát bà": 0.5,
+            "quán": 0.5,
+            "đảo": 0.8313157161076864,
+            "vịnh": 0.6084841913543642,
+            "hướng dẫn viên": 0.5,
+            "chèo thuyền kayak": 0.9936660818057135,
+            "dịch vụ": 0.8737691454589367,
+            "chất độn": 0.6807929407805204,
+            "thịt bò": 0.5,
+            "địa điểm": 0.5380537118762732,
+            "bia tặng": 0.5,
+            "ly cocktail": 0.5,
+            "âm nhạc": -0.8228727602399886
+        },
+        "dicts_adj": {
+            "quán bar": [
+                "thú vị",
+                "nhiều",
+                "tuyệt vời",
+                "nhiều",
+                "thân thiện",
+                "chủ yếu",
+                "lớn"
+            ],
+            "vị trí": [
+                "tuyệt vời"
+            ],
+            "bến tàu": [],
+            "người dân địa phương": [],
+            "người pha chế là": [],
+            "thức ăn": [
+                "trung bình",
+                "tốt"
+            ],
+            "salad": [
+                "khó chịu"
+            ],
+            "mì là": [],
+            "thứ tào lao": [],
+            "bánh kếp": [
+                "ngon"
+            ],
+            "nhân viên người việt": [
+                "thân thiện"
+            ],
+            "nhân viên": [
+                "lạnh",
+                "thân thiện",
+                "khó chịu"
+            ],
+            "quầy bar": [
+                "đông",
+                "đặc biệt"
+            ],
+            "cocktail": [
+                "ngon",
+                "tuyệt vời",
+                "nhỏ"
+            ],
+            "đồ uống": [
+                "dễ chịu",
+                "hợp lý",
+                "bất kỳ"
+            ],
+            "bầu không khí": [
+                "dễ chịu"
+            ],
+            "đồ ăn": [
+                "ngon",
+                "ngon"
+            ],
+            "bia": [],
+            "bản nhạc": [
+                "tuyệt vời"
+            ],
+            "bóng đá": [
+                "tuyệt vời"
+            ],
+            "đội": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "cát bà": [],
+            "quán": [],
+            "đảo": [
+                "nổi tiếng",
+                "hơn",
+                "nhiều"
+            ],
+            "vịnh": [
+                "nổi tiếng",
+                "hơn",
+                "nhiều"
+            ],
+            "hướng dẫn viên": [],
+            "chèo thuyền kayak": [],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "chất độn": [
+                "chín",
+                "kỹ"
+            ],
+            "thịt bò": [],
+            "địa điểm": [],
+            "bia tặng": [],
+            "ly cocktail": [],
+            "âm nhạc": [
+                "may",
+                "to",
+                "khó khăn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quán bar": 2.5,
+            "vị trí": 0.5,
+            "bến tàu": 0.5,
+            "người dân địa phương": 0.5,
+            "người pha chế là": 0.5,
+            "thức ăn": 0.5,
+            "salad": 0.5,
+            "mì là": 0.5,
+            "thứ tào lao": 0.5,
+            "bánh kếp": 0.5,
+            "nhân viên người việt": 0.5,
+            "nhân viên": 2.0,
+            "quầy bar": 2.0,
+            "cocktail": 1.0,
+            "đồ uống": 1.5,
+            "bầu không khí": 0.5,
+            "đồ ăn": 1.0,
+            "bia": 1.0,
+            "bản nhạc": 0.5,
+            "bóng đá": 0.5,
+            "đội": 0.5,
+            "cát bà": 0.5,
+            "quán": 0.5,
+            "đảo": 0.5,
+            "vịnh": 0.5,
+            "hướng dẫn viên": 0.5,
+            "chèo thuyền kayak": 0.5,
+            "dịch vụ": 0.5,
+            "chất độn": 0.5,
+            "thịt bò": 0.5,
+            "địa điểm": 0.5,
+            "bia tặng": 0.5,
+            "ly cocktail": 0.5,
+            "âm nhạc": 0.5
+        }
     }
 ]

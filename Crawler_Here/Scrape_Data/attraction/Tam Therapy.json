@@ -95,6 +95,59 @@
             "https://www.tripadvisor.com/Attraction_Review-g13838771-d13838787-Reviews-Ruins_of_Bombay_Beach-Bombay_Beach_California.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d16694960-Reviews-Tam_Therapy-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d16694960-Reviews-Tam_Therapy-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.995553357701283,
+            "trải nghiệm": 0.9946354833664373,
+            "không khí": 0.8737691454589367,
+            "nhân viên": 0.9858555704122409,
+            "liệu pháp": 0.5,
+            "massage lưng vai": 0.5,
+            "môi trường": 0.9953960808925331,
+            "kỹ năng": 0.8737691454589367,
+            "massage": 0.9955520426738076
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "thú vị"
+            ],
+            "không khí": [
+                "thân thiện"
+            ],
+            "nhân viên": [
+                "thực sự",
+                "tốt bụng",
+                "giàu"
+            ],
+            "liệu pháp": [],
+            "massage lưng vai": [],
+            "môi trường": [
+                "Dễ dàng",
+                "tốt"
+            ],
+            "kỹ năng": [
+                "hoàn hảo"
+            ],
+            "massage": [
+                "hoàn hảo"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 0.5,
+            "trải nghiệm": 0.5,
+            "không khí": 0.5,
+            "nhân viên": 0.5,
+            "liệu pháp": 0.5,
+            "massage lưng vai": 0.5,
+            "môi trường": 0.5,
+            "kỹ năng": 0.5,
+            "massage": 0.5
+        }
     }
 ]

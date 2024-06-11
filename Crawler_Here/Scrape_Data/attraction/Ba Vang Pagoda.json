@@ -66,6 +66,151 @@
             "https://www.tripadvisor.com/Attraction_Review-g47369-d12118514-Reviews-Ferry_Point_Park-Bronx_New_York.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g12616698-d13325950-Reviews-Ba_Vang_Pagoda-Uong_Bi_Quang_Ninh_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g12616698-d13325950-Reviews-Ba_Vang_Pagoda-Uong_Bi_Quang_Ninh_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cảnh quan": 0.9940702465828508,
+            "ngôi chùa": 0.5059615792924888,
+            "bức tường đá": 0.5,
+            "tượng phật": 0.8737691454589367,
+            "chim": 0.5,
+            "lắng": 0.9952980310190469,
+            "trải nghiệm": 0.9954714266350493,
+            "mọi": 0.9934532043989748,
+            "đồ ăn": 0.5,
+            "đồ uống": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "đồ ăn chay": 0.9906556352507323,
+            "món ăn": 0.9954715371713974,
+            "cây bonsai": 0.6451718900352716,
+            "bức tường": -0.7818113714456558,
+            "bức tranh tường": 0.3955238461494446,
+            "câu chuyện": 0.5,
+            "đức phật": 0.8737691454589367,
+            "vịnh": 0.954590214183554,
+            "hướng dẫn viên địa": 0.5,
+            "chùa": 0.7477457232307643,
+            "ba vàng": 0.5,
+            "chuyến thăm": 0.9921410591341555,
+            "cầu thang": 0.9913402299862355,
+            "khu phức hợp": 0.9925699050072581,
+            "trang web": -0.9405761999078095,
+            "chuyến đi": 0.5
+        },
+        "dicts_adj": {
+            "cảnh quan": [
+                "đẹp"
+            ],
+            "ngôi chùa": [
+                "rộng rãi",
+                "lớn",
+                "bất thường",
+                "phức tạp",
+                "rộng lớn",
+                "khổng lồ",
+                "tuyệt vời",
+                "nhất"
+            ],
+            "bức tường đá": [],
+            "tượng phật": [
+                "Lặng lẽ"
+            ],
+            "chim": [],
+            "lắng": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "sạch sẽ",
+                "trong lành",
+                "xanh",
+                "tươi tuyệt",
+                "đẹp"
+            ],
+            "mọi": [
+                "thân thiện"
+            ],
+            "đồ ăn": [],
+            "đồ uống": [],
+            "hướng dẫn viên du lịch": [],
+            "đồ ăn chay": [],
+            "món ăn": [
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "cây bonsai": [
+                "cổ thụ"
+            ],
+            "bức tường": [
+                "phức tạp"
+            ],
+            "bức tranh tường": [
+                "phức tạp"
+            ],
+            "câu chuyện": [],
+            "đức phật": [
+                "Nhiều"
+            ],
+            "vịnh": [
+                "chắc chắn",
+                "tuyệt vời",
+                "cao"
+            ],
+            "hướng dẫn viên địa": [],
+            "chùa": [
+                "tuyệt vời"
+            ],
+            "ba vàng": [],
+            "chuyến thăm": [
+                "khoảng"
+            ],
+            "cầu thang": [
+                "nhiều",
+                "đẹp",
+                "hơn"
+            ],
+            "khu phức hợp": [
+                "khổng lồ",
+                "nhiều",
+                "may mắn",
+                "tương đối",
+                "gần"
+            ],
+            "trang web": [
+                "nhiều",
+                "đầu tiên"
+            ],
+            "chuyến đi": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cảnh quan": 1.5,
+            "ngôi chùa": 4.0,
+            "bức tường đá": 1.5,
+            "tượng phật": 1.5,
+            "chim": 1.5,
+            "lắng": 1.5,
+            "trải nghiệm": 1.5,
+            "mọi": 1.5,
+            "đồ ăn": 1.5,
+            "đồ uống": 1.5,
+            "hướng dẫn viên du lịch": 1.5,
+            "đồ ăn chay": 0.5,
+            "món ăn": 0.5,
+            "cây bonsai": 0.5,
+            "bức tường": 0.5,
+            "bức tranh tường": 0.5,
+            "câu chuyện": 0.5,
+            "đức phật": 0.5,
+            "vịnh": 1.5,
+            "hướng dẫn viên địa": 0.5,
+            "chùa": 1.0,
+            "ba vàng": 0.5,
+            "chuyến thăm": 0.5,
+            "cầu thang": 0.5,
+            "khu phức hợp": 0.5,
+            "trang web": 0.5,
+            "chuyến đi": 1
+        }
     }
 ]

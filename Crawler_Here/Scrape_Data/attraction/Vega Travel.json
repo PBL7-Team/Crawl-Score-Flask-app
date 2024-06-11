@@ -74,6 +74,209 @@
             "https://www.tripadvisor.com/Attraction_Review-g41328-d14803502-Reviews-Great_Falls-Potomac_Montgomery_County_Maryland.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d1771418-Reviews-Vega_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d1771418-Reviews-Vega_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9954045792401303,
+            "chuyến đi 2 ngày": 0.8737691454589367,
+            "hướng dẫn viên": 0.8170284840161912,
+            "trải nghiệm": 0.9569473184112992,
+            "tiger": 0.8737691454589367,
+            "chủ nhà": 0.994900022065849,
+            "chèo thuyền kayak": 0.6209177856799215,
+            "trẻ em": 0.5,
+            "đạp xe": 0.5,
+            "đảo": 0.5,
+            "đồ ăn": 0.9955567336292006,
+            "cabin": 0.7399102281779051,
+            "điều hòa không khí": 0.5276882126927376,
+            "du thuyền": -0.41863405774347484,
+            "vịnh": 0.7423912902096552,
+            "bãi biển": 0.6872049039520789,
+            "hòn đảo": 0.5,
+            "phòng": 0.9792312430217862,
+            "đội": 0.5,
+            "hành": 0.5,
+            "điểm dừng tham quan": 0.9953241391922347,
+            "hang động": 0.9954624933889136,
+            "ngôi làng": 0.9955710966023616,
+            "thủy thủ đoàn": 0.9954099094611593,
+            "thuyền": 0.9950801690316036,
+            "người phục vụ": 0.9899055238347501,
+            "hoạt": 0.5129618979990482,
+            "chèo thuyền kayak nấu ăn": 0.537196759134531,
+            "câu cá": 0.530567841604352,
+            "karaoke": 0.8737691454589367,
+            "nhân viên": 0.8737691454589367,
+            "ẩm thực": 0.9242710104056945,
+            "kỳ nghỉ": 0.9952004273654893,
+            "chuyến tham quan": -0.41413582768291235,
+            "người": 0.9941845829598606,
+            "bầu không khí": -0.4395227083005011
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "tốt",
+                "thú vị"
+            ],
+            "chuyến đi 2 ngày": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "thực sự",
+                "xuất sắc",
+                "tuyệt vời",
+                "cụ thể",
+                "hơn"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "tiger": [
+                "tuyệt",
+                "hiểu biết",
+                "đầy",
+                "vui"
+            ],
+            "chủ nhà": [
+                "tuyệt",
+                "hiểu biết",
+                "đầy",
+                "vui"
+            ],
+            "chèo thuyền kayak": [
+                "nhỏ",
+                "xinh xắn"
+            ],
+            "trẻ em": [],
+            "đạp xe": [],
+            "đảo": [],
+            "đồ ăn": [
+                "tuyệt",
+                "suốt",
+                "ngon"
+            ],
+            "cabin": [
+                "rộng rãi"
+            ],
+            "điều hòa không khí": [
+                "tốt"
+            ],
+            "du thuyền": [
+                "khó khăn",
+                "nhiều"
+            ],
+            "vịnh": [
+                "nhỏ",
+                "xinh xắn",
+                "tuyệt vời"
+            ],
+            "bãi biển": [
+                "nhỏ",
+                "xinh xắn"
+            ],
+            "hòn đảo": [],
+            "phòng": [
+                "hiện đại"
+            ],
+            "đội": [],
+            "hành": [],
+            "điểm dừng tham quan": [
+                "thú vị"
+            ],
+            "hang động": [
+                "thú vị"
+            ],
+            "ngôi làng": [
+                "thú vị"
+            ],
+            "thủy thủ đoàn": [
+                "hữu ích"
+            ],
+            "thuyền": [
+                "hữu ích",
+                "thoải mái",
+                "tuyệt vời",
+                "đặc biệt"
+            ],
+            "người phục vụ": [
+                "đặc biệt"
+            ],
+            "hoạt": [
+                "dài"
+            ],
+            "chèo thuyền kayak nấu ăn": [
+                "dài"
+            ],
+            "câu cá": [
+                "dài"
+            ],
+            "karaoke": [
+                "Nhiều"
+            ],
+            "nhân viên": [
+                "thoải mái",
+                "tuyệt vời",
+                "đặc biệt"
+            ],
+            "ẩm thực": [
+                "thoải mái",
+                "tuyệt vời",
+                "đặc biệt"
+            ],
+            "kỳ nghỉ": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [],
+            "người": [
+                "thú vị",
+                "chu đáo"
+            ],
+            "bầu không khí": [
+                "tuyệt vời",
+                "suốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 2,
+            "chuyến đi 2 ngày": 2,
+            "hướng dẫn viên": 7,
+            "trải nghiệm": 3.5,
+            "tiger": 2,
+            "chủ nhà": 2,
+            "chèo thuyền kayak": 4,
+            "trẻ em": 2,
+            "đạp xe": 2,
+            "đảo": 2,
+            "đồ ăn": 4,
+            "cabin": 2,
+            "điều hòa không khí": 2,
+            "du thuyền": 2,
+            "vịnh": 3.5,
+            "bãi biển": 2,
+            "hòn đảo": 2,
+            "phòng": 2,
+            "đội": 2,
+            "hành": 0.5,
+            "điểm dừng tham quan": 0.5,
+            "hang động": 0.5,
+            "ngôi làng": 0.5,
+            "thủy thủ đoàn": 0.5,
+            "thuyền": 1.5,
+            "người phục vụ": 0.5,
+            "hoạt": 1,
+            "chèo thuyền kayak nấu ăn": 1,
+            "câu cá": 1,
+            "karaoke": 1,
+            "nhân viên": 1,
+            "ẩm thực": 1,
+            "kỳ nghỉ": 1,
+            "chuyến tham quan": 1,
+            "người": 2,
+            "bầu không khí": 2
+        }
     }
 ]

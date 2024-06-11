@@ -109,7 +109,235 @@
             "https://www.tripadvisor.com/Attraction_Review-g60745-d109587-Reviews-Haymarket-Boston_Massachusetts.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or10-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thời tiết": 0.5,
+            "tầm nhìn": 0.6245897151529789,
+            "sương mù": 0.8215201000372568,
+            "cảnh quan": 0.9925319122849032,
+            "vườn": 0.9952296190313064,
+            "sườn núi": 0.5104416222311556,
+            "biển": 0.5,
+            "ngọn": 0.5,
+            "núi xanh": 0.5,
+            "xe máy": 0.7256204324269978,
+            "người dân địa phương": 0.9945540616754442,
+            "dãy núi": 0.9953337843180634,
+            "khung cảnh": 0.665106424149902,
+            "cầu thang dài": -0.6352751180529594,
+            "dãy": 0.5,
+            "núi": 0.5,
+            "cánh cổng": 0.8737691454589367,
+            "bầu trời": -0.21284731198102236,
+            "cầu thang": -0.6962307849898934,
+            "trang phục": 0.4933648630976677,
+            "the view": 0.9945785044692457,
+            "thung lũng": 0.8798063607246149,
+            "cửa hàng": 0.5179963558912277,
+            "chuyến đi bộ": 0.5,
+            "cảnh đẹp": 0.9935425060102716,
+            "chuyến thăm": 0.9749646070413291,
+            "cảnh": 0.9509591283276677,
+            "quang cảnh": 0.9953885070281103,
+            "leo núi": -0.46763120125979185,
+            "trẻ em": 0.9928140036063269,
+            "trung tâm thị trấn": 0.9890859972219914,
+            "chuyến tham quan": 0.5,
+            "hướng dẫn viên địa phương": 0.5,
+            "ngôi làng": 0.5086128953844309,
+            "răng": -0.8733199639245868,
+            "thác": 0.6868845727294683,
+            "quán": 0.9946975178318098,
+            "view": 0.9953234088025056,
+            "trà": 0.5,
+            "tour du lịch": 0.9888725125929341,
+            "cát cát": -0.972092492505908,
+            "hướng dẫn viên": 0.995276075147558,
+            "xe điện": 0.5,
+            "tháp": 0.9931299455929548,
+            "cơm": 0.5107851661741734,
+            "ống tre": 0.19195995666086674,
+            "phộng nghiền": 0.5,
+            "suối vàng": 0.5,
+            "thác tình": 0.5,
+            "đèo trạm tôn": 0.5
+        },
+        "dicts_adj": {
+            "thời tiết": [],
+            "tầm nhìn": [
+                "đẹp"
+            ],
+            "sương mù": [
+                "tốt"
+            ],
+            "cảnh quan": [
+                "tốt"
+            ],
+            "vườn": [
+                "tốt"
+            ],
+            "sườn núi": [
+                "cao",
+                "gần"
+            ],
+            "biển": [],
+            "ngọn": [],
+            "núi xanh": [],
+            "xe máy": [
+                "xa",
+                "đẹp"
+            ],
+            "người dân địa phương": [
+                "đẹp"
+            ],
+            "dãy núi": [
+                "đẹp"
+            ],
+            "khung cảnh": [
+                "ngoạn mục"
+            ],
+            "cầu thang dài": [
+                "trắng"
+            ],
+            "dãy": [],
+            "núi": [],
+            "cánh cổng": [
+                "Giống"
+            ],
+            "bầu trời": [
+                "cao",
+                "đầy"
+            ],
+            "cầu thang": [
+                "mạnh",
+                "cẩn thận"
+            ],
+            "trang phục": [
+                "bộ lạc",
+                "đẹp mắt"
+            ],
+            "the view": [],
+            "thung lũng": [
+                "đẹp",
+                "lớn tuổi",
+                "đẹp"
+            ],
+            "cửa hàng": [
+                "dài"
+            ],
+            "chuyến đi bộ": [],
+            "cảnh đẹp": [],
+            "chuyến thăm": [],
+            "cảnh": [
+                "đẹp"
+            ],
+            "quang cảnh": [
+                "ngoạn mục"
+            ],
+            "leo núi": [
+                "cao tuổi"
+            ],
+            "trẻ em": [],
+            "trung tâm thị trấn": [
+                "chắc chắn",
+                "hơn",
+                "xa",
+                "hơn"
+            ],
+            "chuyến tham quan": [],
+            "hướng dẫn viên địa phương": [],
+            "ngôi làng": [
+                "lớn tuổi"
+            ],
+            "răng": [
+                "đen"
+            ],
+            "thác": [
+                "lớn tuổi"
+            ],
+            "quán": [
+                "đẹp"
+            ],
+            "view": [
+                "đẹp"
+            ],
+            "trà": [],
+            "tour du lịch": [
+                "tốt"
+            ],
+            "cát cát": [],
+            "hướng dẫn viên": [
+                "đẹp"
+            ],
+            "xe điện": [],
+            "tháp": [
+                "tuyệt vời"
+            ],
+            "cơm": [
+                "trắng"
+            ],
+            "ống tre": [
+                "trắng"
+            ],
+            "phộng nghiền": [],
+            "suối vàng": [],
+            "thác tình": [],
+            "đèo trạm tôn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thời tiết": 1,
+            "tầm nhìn": 1.5,
+            "sương mù": 1.5,
+            "cảnh quan": 1,
+            "vườn": 1,
+            "sườn núi": 1,
+            "biển": 1,
+            "ngọn": 1,
+            "núi xanh": 1,
+            "xe máy": 1.5,
+            "người dân địa phương": 1,
+            "dãy núi": 1,
+            "khung cảnh": 1.5,
+            "cầu thang dài": 1,
+            "dãy": 1,
+            "núi": 1.5,
+            "cánh cổng": 1,
+            "bầu trời": 1,
+            "cầu thang": 1,
+            "trang phục": 1,
+            "the view": 0.5,
+            "thung lũng": 1.0,
+            "cửa hàng": 0.5,
+            "chuyến đi bộ": 0.5,
+            "cảnh đẹp": 0.5,
+            "chuyến thăm": 0.5,
+            "cảnh": 0.5,
+            "quang cảnh": 0.5,
+            "leo núi": 0.5,
+            "trẻ em": 0.5,
+            "trung tâm thị trấn": 0.5,
+            "chuyến tham quan": 0.5,
+            "hướng dẫn viên địa phương": 0.5,
+            "ngôi làng": 0.5,
+            "răng": 0.5,
+            "thác": 1.0,
+            "quán": 0.5,
+            "view": 0.5,
+            "trà": 0.5,
+            "tour du lịch": 0.5,
+            "cát cát": 0.5,
+            "hướng dẫn viên": 0.5,
+            "xe điện": 0.5,
+            "tháp": 0.5,
+            "cơm": 0.5,
+            "ống tre": 0.5,
+            "phộng nghiền": 0.5,
+            "suối vàng": 0.5,
+            "thác tình": 0.5,
+            "đèo trạm tôn": 0.5
+        }
     },
     {
         "attraction_name": "Tram Ton Pass",
@@ -222,7 +450,161 @@
             "https://www.tripadvisor.com/Attraction_Review-g303945-d5570345-Reviews-Bich_Dong_Pagoda-Ninh_Binh_Ninh_Binh_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or20-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or10-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or10-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "vùng núi cao": 0.4829323776066303,
+            "thung lũng": 0.7412690734490752,
+            "thác nước bạc": 0.5,
+            "thời tiết": 0.9258730105357245,
+            "ruộng bậc thang": 0.5,
+            "chuyến tham quan": 0.533886581659317,
+            "cổng": 0.8737691454589367,
+            "chuyến đi": 0.9945754719665274,
+            "khung cảnh": 0.7475719319481868,
+            "thác nước": 0.7106577139347792,
+            "quầy hàng": 0.024764187866821885,
+            "công trường xây dựng": -0.9663550567347556,
+            "xe ôm": 0.7424091923749074,
+            "thị trấn": 0.5587881039828062,
+            "quang cảnh": 0.9928240010631271,
+            "tầm nhìn": 0.7521693145681638,
+            "khách sạn khổng lồ": -0.9716257224790752,
+            "thác bạc": 0.8737691454589367,
+            "thác tình": 0.8737691454589367,
+            "sương mù": 0.5293328026309609,
+            "núi": 0.5,
+            "chuyến viếng thăm": -0.795294864103198,
+            "bãi đậu xe": 0.9944963136222214,
+            "sương": 0.5330688678659499,
+            "mực nước biển": 0.48746938444674015,
+            "nhân viên": 0.5,
+            "khách sạn": 0.5,
+            "phương tiện hạng": 0.5009914711117744,
+            "người dân địa phương": 0.5,
+            "công viên thiên nhiên thác": 0.5,
+            "xe taxi": 0.33909012377262115,
+            "phong cảnh": 0.978420136962086
+        },
+        "dicts_adj": {
+            "vùng núi cao": [],
+            "thung lũng": [
+                "thú vị"
+            ],
+            "thác nước bạc": [],
+            "thời tiết": [
+                "xanh",
+                "tốt"
+            ],
+            "ruộng bậc thang": [],
+            "chuyến tham quan": [
+                "quanh co"
+            ],
+            "cổng": [
+                "quanh co"
+            ],
+            "chuyến đi": [
+                "thú vị",
+                "tuyệt vời"
+            ],
+            "khung cảnh": [
+                "ngoạn mục"
+            ],
+            "thác nước": [
+                "dọc",
+                "dọc"
+            ],
+            "quầy hàng": [
+                "lầy lội",
+                "tuyệt vời"
+            ],
+            "công trường xây dựng": [
+                "lầy lội"
+            ],
+            "xe ôm": [
+                "nhanh"
+            ],
+            "thị trấn": [],
+            "quang cảnh": [
+                "tuyệt vời",
+                "đẹp",
+                "tốt",
+                "nhiều"
+            ],
+            "tầm nhìn": [
+                "tuyệt vời",
+                "hoàn hảo",
+                "tốt",
+                "hơn",
+                "khác",
+                "khác"
+            ],
+            "khách sạn khổng lồ": [],
+            "thác bạc": [
+                "cuối cùng"
+            ],
+            "thác tình": [
+                "cuối cùng"
+            ],
+            "sương mù": [],
+            "núi": [],
+            "chuyến viếng thăm": [],
+            "bãi đậu xe": [
+                "thực sự"
+            ],
+            "sương": [
+                "khác"
+            ],
+            "mực nước biển": [
+                "khác"
+            ],
+            "nhân viên": [],
+            "khách sạn": [],
+            "phương tiện hạng": [
+                "nặng"
+            ],
+            "người dân địa phương": [],
+            "công viên thiên nhiên thác": [],
+            "xe taxi": [],
+            "phong cảnh": [
+                "đặc biệt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "vùng núi cao": 0.5,
+            "thung lũng": 1.0,
+            "thác nước bạc": 0.5,
+            "thời tiết": 1.0,
+            "ruộng bậc thang": 0.5,
+            "chuyến tham quan": 0.5,
+            "cổng": 0.5,
+            "chuyến đi": 1.5,
+            "khung cảnh": 1.0,
+            "thác nước": 1.0,
+            "quầy hàng": 1.0,
+            "công trường xây dựng": 0.5,
+            "xe ôm": 1.0,
+            "thị trấn": 0.5,
+            "quang cảnh": 1.0,
+            "tầm nhìn": 2.0,
+            "khách sạn khổng lồ": 0.5,
+            "thác bạc": 0.5,
+            "thác tình": 0.5,
+            "sương mù": 0.5,
+            "núi": 0.5,
+            "chuyến viếng thăm": 0.5,
+            "bãi đậu xe": 0.5,
+            "sương": 1.0,
+            "mực nước biển": 0.5,
+            "nhân viên": 0.5,
+            "khách sạn": 0.5,
+            "phương tiện hạng": 0.5,
+            "người dân địa phương": 0.5,
+            "công viên thiên nhiên thác": 0.5,
+            "xe taxi": 0.5,
+            "phong cảnh": 0.5
+        }
     },
     {
         "attraction_name": "Tram Ton Pass",
@@ -336,7 +718,223 @@
             "https://www.tripadvisor.com/Attraction_Review-g50827-d4431604-Reviews-Lynd_s_Fruit_Farm-Pataskala_Ohio.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or30-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or20-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or20-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cái nhìn": 0.9953522331779823,
+            "không khí": -0.9535068550612777,
+            "quang cảnh": 0.756389255868271,
+            "nếp": 0.2803571109106997,
+            "núi": 0.35087808917160146,
+            "thung lũng": 0.5,
+            "phong cảnh": 0.9954248540161643,
+            "thác bạc": 0.9299952640431002,
+            "trái cây": 0.7474975190125406,
+            "khung cảnh": 0.9953663037934651,
+            "cảnh quan": 0.7477625472238287,
+            "thác": 0.6868845727294683,
+            "cáp treo": 0.5,
+            "xe": 0.4539108984172344,
+            "thị trấn": 0.4026779290288687,
+            "đèo trầm": 0.8737691454589367,
+            "ngọn": 0.5,
+            "núi thung lũng": 0.5,
+            "ruộng bậc thang": 0.6390249078006793,
+            "mực": 0.5,
+            "nước biển": 0.5,
+            "cửa hàng": 0.05851663276553154,
+            "đống lửa": 0.5106340013444424,
+            "miếng trâu khô": 0.9681971110985614,
+            "tiệm": -0.9595037316903472,
+            "cà phê": 0.5,
+            "hòa tan": 0.5,
+            "thịt trâu": 0.5,
+            "bữa tối": 0.5,
+            "bia": 0.5,
+            "chuyến du lịch": 0.5,
+            "nghệ thuật": -0.24415162205696106,
+            "chuyến tham quan": 0.9945173456799239,
+            "xe máy": 0.578092897310853,
+            "đèo trạm tôm": 0.8737691454589367,
+            "đèo": 0.5802794555202127,
+            "coca": 0.9870249480009079,
+            "thời tiết": 0.9953834273037501,
+            "thửa": 0.9609882316823738,
+            "chuyến xe điện": 0.9954775429505389
+        },
+        "dicts_adj": {
+            "cái nhìn": [
+                "tuyệt vời"
+            ],
+            "không khí": [
+                "trong lành"
+            ],
+            "quang cảnh": [
+                "khác",
+                "tuyệt vời",
+                "đặc biệt",
+                "liên tục",
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "nếp": [
+                "khác",
+                "tuyệt vời",
+                "đặc biệt",
+                "liên tục"
+            ],
+            "núi": [
+                "khác",
+                "tuyệt vời",
+                "đặc biệt",
+                "liên tục",
+                "khác",
+                "tuyệt vời",
+                "đặc biệt",
+                "liên tục"
+            ],
+            "thung lũng": [],
+            "phong cảnh": [
+                "tuyệt đẹp",
+                "tuyệt vời"
+            ],
+            "thác bạc": [
+                "xinh xắn",
+                "Cùng"
+            ],
+            "trái cây": [
+                "xinh xắn",
+                "gần"
+            ],
+            "khung cảnh": [
+                "tuyệt đẹp",
+                "ngoạn mục",
+                "tuyệt vời"
+            ],
+            "cảnh quan": [
+                "tuyệt vời",
+                "thực sự",
+                "cao",
+                "đẹp"
+            ],
+            "thác": [
+                "thực sự",
+                "phải"
+            ],
+            "cáp treo": [],
+            "xe": [
+                "chậm rãi"
+            ],
+            "thị trấn": [
+                "ngắn"
+            ],
+            "đèo trầm": [
+                "quanh co",
+                "hẹp"
+            ],
+            "ngọn": [],
+            "núi thung lũng": [],
+            "ruộng bậc thang": [
+                "thực sự",
+                "đẹp",
+                "thực sự"
+            ],
+            "mực": [],
+            "nước biển": [],
+            "cửa hàng": [
+                "nhiều"
+            ],
+            "đống lửa": [
+                "nhỏ"
+            ],
+            "miếng trâu khô": [
+                "thực sự",
+                "ngon"
+            ],
+            "tiệm": [
+                "lâu"
+            ],
+            "cà phê": [],
+            "hòa tan": [],
+            "thịt trâu": [],
+            "bữa tối": [],
+            "bia": [],
+            "chuyến du lịch": [],
+            "nghệ thuật": [],
+            "chuyến tham quan": [
+                "đẹp"
+            ],
+            "xe máy": [],
+            "đèo trạm tôm": [
+                "ít",
+                "hơn"
+            ],
+            "đèo": [
+                "ít",
+                "hơn"
+            ],
+            "coca": [
+                "thú vị"
+            ],
+            "thời tiết": [
+                "may mắn",
+                "thuận lợi",
+                "thực sự",
+                "đẹp"
+            ],
+            "thửa": [
+                "thực sự",
+                "đẹp",
+                "thực sự"
+            ],
+            "chuyến xe điện": [
+                "đẹp",
+                "nhất"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cái nhìn": 0.5,
+            "không khí": 0.5,
+            "quang cảnh": 1.0,
+            "nếp": 0.5,
+            "núi": 0.5,
+            "thung lũng": 1.0,
+            "phong cảnh": 1.0,
+            "thác bạc": 1.0,
+            "trái cây": 0.5,
+            "khung cảnh": 1.5,
+            "cảnh quan": 1.0,
+            "thác": 1.0,
+            "cáp treo": 0.5,
+            "xe": 0.5,
+            "thị trấn": 0.5,
+            "đèo trầm": 0.5,
+            "ngọn": 0.5,
+            "núi thung lũng": 0.5,
+            "ruộng bậc thang": 1.0,
+            "mực": 0.5,
+            "nước biển": 0.5,
+            "cửa hàng": 0.5,
+            "đống lửa": 0.5,
+            "miếng trâu khô": 0.5,
+            "tiệm": 0.5,
+            "cà phê": 0.5,
+            "hòa tan": 0.5,
+            "thịt trâu": 0.5,
+            "bữa tối": 0.5,
+            "bia": 0.5,
+            "chuyến du lịch": 0.5,
+            "nghệ thuật": 0.5,
+            "chuyến tham quan": 0.5,
+            "xe máy": 0.5,
+            "đèo trạm tôm": 0.5,
+            "đèo": 0.5,
+            "coca": 0.5,
+            "thời tiết": 0.5,
+            "thửa": 0.5,
+            "chuyến xe điện": 0.5
+        }
     },
     {
         "attraction_name": "Tram Ton Pass",
@@ -450,7 +1048,246 @@
             "https://www.tripadvisor.com/Attraction_Review-g315852-d553848-Reviews-Strokkur-Selfoss_South_Region.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or40-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or30-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or30-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "giá": 0.5,
+            "xe ôm": 0.5,
+            "xe đạp": -0.07839496107771993,
+            "ga": 0.5165045037865639,
+            "thị trấn": 0.974760017124936,
+            "trạm tôn": 0.8737691454589367,
+            "khách sạn": -0.9756350668612868,
+            "thắng cảnh": 0.9951660588849336,
+            "đèo trạm tôn": 0.7057716017588973,
+            "phong cảnh": 0.9323348427812259,
+            "cảnh quan": 0.9955055563477799,
+            "núi": 0.463437736655275,
+            "xe máy": 0.7325906915357336,
+            "chuyến đi": 0.9445995473021563,
+            "khung cảnh": 0.4920141021333014,
+            "con đèo": 0.4167044584949811,
+            "tầm nhìn": 0.7477311861875933,
+            "sương mù": 0.026572139468044043,
+            "người dân địa phương": 0.5,
+            "boong": 0.9627123293466866,
+            "tàu sương mù": 0.9633959550410509,
+            "ruộng bậc thang": 0.6326488293707371,
+            "ba ngày sương mù": 0.5,
+            "boong tàu": 0.5,
+            "môi trường": -0.9688083133660257,
+            "đèo ô": 0.8737691454589367,
+            "mực nước biển": 0.43476784757028025,
+            "thời tiết": -0.8623572643846273,
+            "quang cảnh": 0.9346183609159198,
+            "đèo trạm": 0.8737691454589367,
+            "thác": 0.5528339073061943,
+            "núi fansipang": 0.9643168382657071,
+            "nóc nhà đông": 0.8737691454589367,
+            "điểm": 0.9909806484938599,
+            "ngắm cảnh": 0.9934992709895596,
+            "chuyến tham quan": 0.7684090042312164,
+            "xe đạp đó": 0.3833230473101139,
+            "đạp xe": 0.9814159201923758,
+            "phương tiện giao thông": 0.5649976506829262,
+            "đám mây": 0.6994913476519287,
+            "ngã": -0.4572789054363966,
+            "niềm": 0.47326505929231644
+        },
+        "dicts_adj": {
+            "giá": [],
+            "xe ôm": [],
+            "xe đạp": [
+                "khoảng"
+            ],
+            "ga": [],
+            "thị trấn": [
+                "vui vẻ"
+            ],
+            "trạm tôn": [
+                "đầy đủ"
+            ],
+            "khách sạn": [
+                "đầy đủ",
+                "đầy đủ"
+            ],
+            "thắng cảnh": [],
+            "đèo trạm tôn": [
+                "dài",
+                "quanh co",
+                "cùng"
+            ],
+            "phong cảnh": [
+                "đẹp",
+                "may mắn",
+                "xanh",
+                "đẹp"
+            ],
+            "cảnh quan": [
+                "đẹp"
+            ],
+            "núi": [
+                "cao",
+                "nhất",
+                "cao"
+            ],
+            "xe máy": [
+                "đầy",
+                "thú vị"
+            ],
+            "chuyến đi": [
+                "đẹp",
+                "đầy",
+                "căng thẳng",
+                "hơn",
+                "thực sự",
+                "cao"
+            ],
+            "khung cảnh": [
+                "nhiều",
+                "nhiệt đới",
+                "hơn"
+            ],
+            "con đèo": [
+                "cao",
+                "cao",
+                "nhất",
+                "hơn",
+                "nổi tiếng"
+            ],
+            "tầm nhìn": [
+                "tuyệt vời"
+            ],
+            "sương mù": [
+                "dày đặc",
+                "cẩn thận"
+            ],
+            "người dân địa phương": [],
+            "boong": [
+                "nhiều"
+            ],
+            "tàu sương mù": [
+                "nhiều"
+            ],
+            "ruộng bậc thang": [
+                "nhiều"
+            ],
+            "ba ngày sương mù": [],
+            "boong tàu": [],
+            "môi trường": [],
+            "đèo ô": [
+                "nổi tiếng"
+            ],
+            "mực nước biển": [
+                "khác biệt",
+                "cao",
+                "nhất",
+                "cao"
+            ],
+            "thời tiết": [
+                "khác biệt"
+            ],
+            "quang cảnh": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "cao",
+                "nhất"
+            ],
+            "đèo trạm": [
+                "tuyệt vời",
+                "cao",
+                "nhất"
+            ],
+            "thác": [
+                "cao"
+            ],
+            "núi fansipang": [
+                "cao",
+                "nhất",
+                "cao"
+            ],
+            "nóc nhà đông": [
+                "cao",
+                "nhất",
+                "cao"
+            ],
+            "điểm": [
+                "tốt"
+            ],
+            "ngắm cảnh": [
+                "tốt"
+            ],
+            "chuyến tham quan": [
+                "đắt",
+                "khoảng",
+                "cơ bản",
+                "hình trừ",
+                "thực sự"
+            ],
+            "xe đạp đó": [
+                "chậm"
+            ],
+            "đạp xe": [
+                "nhanh",
+                "gấp"
+            ],
+            "phương tiện giao thông": [
+                "có thể"
+            ],
+            "đám mây": [
+                "nhiệt đới",
+                "hơn"
+            ],
+            "ngã": [
+                "cẩn thận"
+            ],
+            "niềm": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "giá": 0.5,
+            "xe ôm": 0.5,
+            "xe đạp": 1.0,
+            "ga": 0.5,
+            "thị trấn": 0.5,
+            "trạm tôn": 0.5,
+            "khách sạn": 0.5,
+            "thắng cảnh": 0.5,
+            "đèo trạm tôn": 1.0,
+            "phong cảnh": 1.0,
+            "cảnh quan": 0.5,
+            "núi": 1.0,
+            "xe máy": 1.0,
+            "chuyến đi": 1.5,
+            "khung cảnh": 1.5,
+            "con đèo": 1.5,
+            "tầm nhìn": 1.0,
+            "sương mù": 1.0,
+            "người dân địa phương": 0.5,
+            "boong": 0.5,
+            "tàu sương mù": 0.5,
+            "ruộng bậc thang": 0.5,
+            "ba ngày sương mù": 0.5,
+            "boong tàu": 0.5,
+            "môi trường": 0.5,
+            "đèo ô": 0.5,
+            "mực nước biển": 1.0,
+            "thời tiết": 0.5,
+            "quang cảnh": 1.0,
+            "đèo trạm": 0.5,
+            "thác": 0.5,
+            "núi fansipang": 0.5,
+            "nóc nhà đông": 0.5,
+            "điểm": 0.5,
+            "ngắm cảnh": 0.5,
+            "chuyến tham quan": 0.5,
+            "xe đạp đó": 0.5,
+            "đạp xe": 0.5,
+            "phương tiện giao thông": 0.5,
+            "đám mây": 0.5,
+            "ngã": 0.5,
+            "niềm": 0.5
+        }
     },
     {
         "attraction_name": "Tram Ton Pass",
@@ -564,7 +1401,157 @@
             "https://www.tripadvisor.com/Attraction_Review-g293925-d635380-Reviews-Binh_Tay_Market-Ho_Chi_Minh_City.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or50-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or40-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or40-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đường đèo": 0.5174430906772614,
+            "cảnh": 0.5708532202988863,
+            "chuyến tham quan": 0.9880933348322287,
+            "thời": 0.993343940237537,
+            "thác bạc": 0.5,
+            "thác tình": 0.5,
+            "xe máy": 0.5165646784007549,
+            "khung cảnh": 0.7915236544504296,
+            "hoàng hôn": 0.5,
+            "vị trí": 0.5244515314698219,
+            "trải nghiệm": 0.8661606008536182,
+            "cảnh quan": 0.9754218354355544,
+            "phong cảnh": 0.5,
+            "cửa hàng": 0.5,
+            "nhà hàng": 0.5,
+            "bầu trời": 0.2319000867428258,
+            "thời tiết sương mù": 0.5,
+            "thị trấn": -0.34745476208627224,
+            "bữa ăn": 0.9955910442513414,
+            "view": 0.9955926695256494,
+            "cánh đồng lúa": 0.9953595987753943,
+            "khách sạn": 0.9254060741513968,
+            "thị trấn sapa": 0.8737691454589367,
+            "tầm nhìn": 0.5242809895426035,
+            "nhân viên": 0.9666182997170836,
+            "núi": 0.994592896749964,
+            "xe đạp": 0.9934157354291528,
+            "đám mây uống trà": 0.9928311597323045,
+            "quán cà phê": 0.9942519825417548
+        },
+        "dicts_adj": {
+            "đường đèo": [],
+            "cảnh": [],
+            "chuyến tham quan": [
+                "khác"
+            ],
+            "thời": [
+                "quanh co",
+                "tuyệt vời",
+                "cao",
+                "nhất"
+            ],
+            "thác bạc": [],
+            "thác tình": [],
+            "xe máy": [],
+            "khung cảnh": [
+                "tuyệt vời",
+                "nhiều",
+                "an toàn",
+                "ngoạn mục",
+                "đặc biệt",
+                "ngoạn mục",
+                "may mắn"
+            ],
+            "hoàng hôn": [],
+            "vị trí": [
+                "đúng"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tối đa",
+                "thực sự",
+                "trọn"
+            ],
+            "cảnh quan": [
+                "cuối cùng"
+            ],
+            "phong cảnh": [],
+            "cửa hàng": [],
+            "nhà hàng": [],
+            "bầu trời": [
+                "xanh",
+                "đầy"
+            ],
+            "thời tiết sương mù": [],
+            "thị trấn": [
+                "xấu"
+            ],
+            "bữa ăn": [
+                "tuyệt ngon"
+            ],
+            "view": [
+                "đẹp"
+            ],
+            "cánh đồng lúa": [
+                "đẹp"
+            ],
+            "khách sạn": [
+                "toàn cảnh"
+            ],
+            "thị trấn sapa": [
+                "đắt",
+                "hơn",
+                "nhiều"
+            ],
+            "tầm nhìn": [
+                "toàn cảnh"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "giỏi"
+            ],
+            "núi": [
+                "tuyệt sau",
+                "đẹp"
+            ],
+            "xe đạp": [
+                "tuyệt sau"
+            ],
+            "đám mây uống trà": [
+                "tuyệt sau"
+            ],
+            "quán cà phê": [
+                "tuyệt sau"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đường đèo": 0.5,
+            "cảnh": 0.5,
+            "chuyến tham quan": 0.5,
+            "thời": 0.5,
+            "thác bạc": 0.5,
+            "thác tình": 0.5,
+            "xe máy": 0.5,
+            "khung cảnh": 1.5,
+            "hoàng hôn": 0.5,
+            "vị trí": 0.5,
+            "trải nghiệm": 1.0,
+            "cảnh quan": 0.5,
+            "phong cảnh": 0.5,
+            "cửa hàng": 0.5,
+            "nhà hàng": 0.5,
+            "bầu trời": 0.5,
+            "thời tiết sương mù": 0.5,
+            "thị trấn": 0.5,
+            "bữa ăn": 0.5,
+            "view": 0.5,
+            "cánh đồng lúa": 0.5,
+            "khách sạn": 0.5,
+            "thị trấn sapa": 0.5,
+            "tầm nhìn": 0.5,
+            "nhân viên": 0.5,
+            "núi": 1.0,
+            "xe đạp": 0.5,
+            "đám mây uống trà": 0.5,
+            "quán cà phê": 0.5
+        }
     },
     {
         "attraction_name": "Tram Ton Pass",
@@ -671,7 +1658,127 @@
             "https://www.tripadvisor.com/Attraction_Review-g45095-d267839-Reviews-Gallatin_Canyon-Bozeman_Montana.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or60-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or50-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or50-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đèo trạm": 0.6515994071960449,
+            "thác nước": 0.6770904147997499,
+            "quang cảnh": 0.9955312090460211,
+            "tiền xăng": 0.9691137578338385,
+            "khung cảnh": 0.9344971436948981,
+            "món ăn địa phương": 0.9952671691426076,
+            "thời tiết": 0.9688354065874591,
+            "cảnh": 0.9945543361827731,
+            "chân": 0.9938461097772233,
+            "thung lũng": 0.8520842909420026,
+            "cửa hàng lưu niệm địa phương": 0.9646012256853282,
+            "núi": 0.7474497380317189,
+            "giá cả": 0.5102332811802626,
+            "chuyến đi xe máy": 0.9951837143162265,
+            "thác": 0.6017089504748583,
+            "con đèo": -0.11430269293487072,
+            "đường vòng": 0.995476346113719,
+            "vị trí": 0.990869001543615,
+            "xe đạp": 0.6379580545180943,
+            "ngôi làng": 0.5,
+            "gian hàng": -0.8324172459542751
+        },
+        "dicts_adj": {
+            "đèo trạm": [
+                "đẹp",
+                "dễ dàng",
+                "khoảng",
+                "gần"
+            ],
+            "thác nước": [
+                "dọc",
+                "gần",
+                "xa",
+                "hơn"
+            ],
+            "quang cảnh": [],
+            "tiền xăng": [],
+            "khung cảnh": [
+                "ngoạn mục",
+                "tuyệt vời",
+                "đẹp",
+                "đẹp",
+                "bất kỳ"
+            ],
+            "món ăn địa phương": [],
+            "thời tiết": [
+                "đẹp",
+                "tốt"
+            ],
+            "cảnh": [
+                "đẹp"
+            ],
+            "chân": [
+                "đẹp"
+            ],
+            "thung lũng": [
+                "may mắn",
+                "đẹp",
+                "tuyệt vời",
+                "đẹp",
+                "đẹp"
+            ],
+            "cửa hàng lưu niệm địa phương": [
+                "lớn"
+            ],
+            "núi": [
+                "quanh co",
+                "thú vị"
+            ],
+            "giá cả": [
+                "ít",
+                "hơn"
+            ],
+            "chuyến đi xe máy": [],
+            "thác": [
+                "cao",
+                "nhất",
+                "đặc biệt",
+                "đặc biệt"
+            ],
+            "con đèo": [],
+            "đường vòng": [
+                "gần"
+            ],
+            "vị trí": [
+                "tốt",
+                "tốt"
+            ],
+            "xe đạp": [
+                "tuyệt vời"
+            ],
+            "ngôi làng": [],
+            "gian hàng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đèo trạm": 1.5,
+            "thác nước": 1.5,
+            "quang cảnh": 0.5,
+            "tiền xăng": 0.5,
+            "khung cảnh": 1.5,
+            "món ăn địa phương": 0.5,
+            "thời tiết": 1.0,
+            "cảnh": 0.5,
+            "chân": 0.5,
+            "thung lũng": 2.0,
+            "cửa hàng lưu niệm địa phương": 0.5,
+            "núi": 1.0,
+            "giá cả": 0.5,
+            "chuyến đi xe máy": 0.5,
+            "thác": 1.0,
+            "con đèo": 0.5,
+            "đường vòng": 0.5,
+            "vị trí": 1.0,
+            "xe đạp": 1.0,
+            "ngôi làng": 0.5,
+            "gian hàng": 0.5
+        }
     },
     {
         "attraction_name": "Tram Ton Pass",
@@ -785,7 +1892,146 @@
             "https://www.tripadvisor.com/Attraction_Review-g293925-d7339849-Reviews-Temple_Leaf_Spa_Sauna-Ho_Chi_Minh_City.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or70-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or60-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or60-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "sương mù": -0.021771396161057055,
+            "núi": 0.5,
+            "điểm dừng chân": 0.8737691454589367,
+            "chuyến du ngoạn": 0.9954767472227104,
+            "đèo trạm tôn": 0.6868845727294683,
+            "tầm nhìn": 0.6650932190047266,
+            "cung đường": 0.9955564378178678,
+            "trekking": 0.5,
+            "cửa hàng": 0.7390516488812864,
+            "khung cảnh": 0.3501191298516157,
+            "ảo": 0.5,
+            "thác nước": 0.7457024441100657,
+            "chuyến đi": 0.9952723578317091,
+            "cảnh đẹp": 0.9954361059935763,
+            "con người": 0.9932676319440361,
+            "cảnh": 0.9835864760680124,
+            "khí hậu": 0.5,
+            "chuyến đi bộ đường": 0.8737691454589367,
+            "thác nước đường": 0.755544884945266,
+            "chuyến đi bộ": -0.2502525243908167,
+            "thị trấn": 0.5,
+            "thác tình": 0.5,
+            "đồ thủ công": 0.5,
+            "đứa trẻ": 0.8969462215900421,
+            "phong cảnh": 0.8737691454589367,
+            "xe cộ": 0.5,
+            "điểm tham quan": -0.30988360398138565
+        },
+        "dicts_adj": {
+            "sương mù": [
+                "đẹp",
+                "thực sự"
+            ],
+            "núi": [],
+            "điểm dừng chân": [
+                "tuyệt vời"
+            ],
+            "chuyến du ngoạn": [
+                "tuyệt vời"
+            ],
+            "đèo trạm tôn": [
+                "đẹp"
+            ],
+            "tầm nhìn": [
+                "đẹp"
+            ],
+            "cung đường": [
+                "tuyệt vời"
+            ],
+            "trekking": [],
+            "cửa hàng": [
+                "lộng lẫy"
+            ],
+            "khung cảnh": [
+                "mờ",
+                "dài",
+                "ngoạn mục",
+                "ngoạn mục"
+            ],
+            "ảo": [],
+            "thác nước": [],
+            "chuyến đi": [
+                "tuyệt vời"
+            ],
+            "cảnh đẹp": [
+                "tuyệt vời",
+                "khắp"
+            ],
+            "con người": [
+                "đẹp",
+                "tự nhiên"
+            ],
+            "cảnh": [
+                "Nhiều",
+                "nhiều",
+                "đẹp"
+            ],
+            "khí hậu": [],
+            "chuyến đi bộ đường": [
+                "dài",
+                "tuyệt vời"
+            ],
+            "thác nước đường": [
+                "tốt",
+                "có hậu"
+            ],
+            "chuyến đi bộ": [
+                "dài",
+                "ngắn",
+                "rõ ràng"
+            ],
+            "thị trấn": [],
+            "thác tình": [],
+            "đồ thủ công": [],
+            "đứa trẻ": [],
+            "phong cảnh": [
+                "đẹp",
+                "tốt",
+                "nhiều"
+            ],
+            "xe cộ": [],
+            "điểm tham quan": [
+                "khác",
+                "nhiều",
+                "hỏng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "sương mù": 1.0,
+            "núi": 1.5,
+            "điểm dừng chân": 0.5,
+            "chuyến du ngoạn": 0.5,
+            "đèo trạm tôn": 1.0,
+            "tầm nhìn": 1.5,
+            "cung đường": 0.5,
+            "trekking": 0.5,
+            "cửa hàng": 1.0,
+            "khung cảnh": 1.5,
+            "ảo": 0.5,
+            "thác nước": 1.0,
+            "chuyến đi": 0.5,
+            "cảnh đẹp": 0.5,
+            "con người": 0.5,
+            "cảnh": 1.0,
+            "khí hậu": 0.5,
+            "chuyến đi bộ đường": 0.5,
+            "thác nước đường": 0.5,
+            "chuyến đi bộ": 0.5,
+            "thị trấn": 0.5,
+            "thác tình": 0.5,
+            "đồ thủ công": 0.5,
+            "đứa trẻ": 0.5,
+            "phong cảnh": 0.5,
+            "xe cộ": 0.5,
+            "điểm tham quan": 0.5
+        }
     },
     {
         "attraction_name": "Tram Ton Pass",
@@ -899,7 +2145,180 @@
             "https://www.tripadvisor.com/Attraction_Review-g189158-d519908-Reviews-Elevador_da_Gloria-Lisbon_Lisbon_District_Central_Portugal.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or80-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or70-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or70-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "điểm dừng chân": 0.9955564095289446,
+            "thác": 0.7420290226582438,
+            "thác bạc": 0.6245897151529789,
+            "mặt": 0.5164966695010662,
+            "hoàng hôn": 0.9934867655392736,
+            "chuyến đi": 0.9073312188411364,
+            "xe đạp": 0.5581857673823833,
+            "thời": 0.5312230512499809,
+            "sương": -0.39718801621347666,
+            "trầm tôn": 0.9954757212544791,
+            "thời tiết": 0.7154120542109013,
+            "người dân địa phương": 0.5,
+            "thịt lợn nướng": 0.5,
+            "xôi": 0.5,
+            "quang cảnh": 0.9955244190641679,
+            "bản cát cát": 0.5,
+            "sín chải": 0.5,
+            "xe máy": 0.8082826863974333,
+            "phong cảnh": 0.5692805017461069,
+            "đèo": 0.9949976441566832,
+            "tầm nhìn": 0.6000290627998766,
+            "ngọn": 0.5,
+            "núi ruộng bậc thang": 0.5,
+            "điểm ngắm cảnh": 0.5,
+            "xe ôm": 0.5628649536520243,
+            "chuyến khứ hồi": 0.5,
+            "điểm dừng": 0.5,
+            "thác tình": 0.5,
+            "thung lũng": 0.6440505801001564,
+            "chuyến tham quan": 0.5,
+            "dãy": 0.8740214137360454,
+            "núi hoàng liên sơn": 0.8737691454589367,
+            "núi": 0.4519714452326298,
+            "đi bộ đường": 0.5676171574741602
+        },
+        "dicts_adj": {
+            "điểm dừng chân": [
+                "tuyệt vời"
+            ],
+            "thác": [
+                "nhiều"
+            ],
+            "thác bạc": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "mặt": [
+                "may",
+                "tốt",
+                "thẳng"
+            ],
+            "hoàng hôn": [
+                "tốt"
+            ],
+            "chuyến đi": [
+                "đẹp",
+                "tuyệt vời",
+                "dễ dàng",
+                "thú vị",
+                "dễ dàng",
+                "dễ chịu"
+            ],
+            "xe đạp": [
+                "tốt",
+                "tự động"
+            ],
+            "thời": [
+                "dày đặc"
+            ],
+            "sương": [
+                "dày đặc"
+            ],
+            "trầm tôn": [
+                "hoàn toàn",
+                "đẹp"
+            ],
+            "thời tiết": [
+                "nhiều",
+                "khắp"
+            ],
+            "người dân địa phương": [],
+            "thịt lợn nướng": [],
+            "xôi": [],
+            "quang cảnh": [],
+            "bản cát cát": [],
+            "sín chải": [],
+            "xe máy": [
+                "tuyệt vời",
+                "ấm"
+            ],
+            "phong cảnh": [
+                "tuyệt vời",
+                "ấm"
+            ],
+            "đèo": [],
+            "tầm nhìn": [
+                "tuyệt vời",
+                "cao",
+                "cao",
+                "nhất"
+            ],
+            "ngọn": [],
+            "núi ruộng bậc thang": [],
+            "điểm ngắm cảnh": [],
+            "xe ôm": [
+                "thẳng"
+            ],
+            "chuyến khứ hồi": [],
+            "điểm dừng": [],
+            "thác tình": [],
+            "thung lũng": [
+                "lân cận",
+                "đẹp",
+                "cao",
+                "cao"
+            ],
+            "chuyến tham quan": [],
+            "dãy": [
+                "cao",
+                "nhất"
+            ],
+            "núi hoàng liên sơn": [
+                "thú vị"
+            ],
+            "núi": [
+                "cao",
+                "nhất"
+            ],
+            "đi bộ đường": [
+                "khó khăn",
+                "dài",
+                "nguy hiểm"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "điểm dừng chân": 0.5,
+            "thác": 1.0,
+            "thác bạc": 1.5,
+            "mặt": 0.5,
+            "hoàng hôn": 0.5,
+            "chuyến đi": 2.0,
+            "xe đạp": 0.5,
+            "thời": 0.5,
+            "sương": 0.5,
+            "trầm tôn": 0.5,
+            "thời tiết": 0.5,
+            "người dân địa phương": 0.5,
+            "thịt lợn nướng": 0.5,
+            "xôi": 0.5,
+            "quang cảnh": 0.5,
+            "bản cát cát": 0.5,
+            "sín chải": 0.5,
+            "xe máy": 0.5,
+            "phong cảnh": 0.5,
+            "đèo": 0.5,
+            "tầm nhìn": 2.0,
+            "ngọn": 0.5,
+            "núi ruộng bậc thang": 0.5,
+            "điểm ngắm cảnh": 0.5,
+            "xe ôm": 0.5,
+            "chuyến khứ hồi": 0.5,
+            "điểm dừng": 0.5,
+            "thác tình": 0.5,
+            "thung lũng": 1.0,
+            "chuyến tham quan": 0.5,
+            "dãy": 0.5,
+            "núi hoàng liên sơn": 0.5,
+            "núi": 0.5,
+            "đi bộ đường": 0.5
+        }
     },
     {
         "attraction_name": "Tram Ton Pass",
@@ -1013,7 +2432,232 @@
             "https://www.tripadvisor.com/Attraction_Review-g50526-d12118597-Reviews-Lake_Milton_State_Park-Lake_Milton_Ohio.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or90-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or80-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or80-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "xe tay ga": 0.500610426068306,
+            "cảnh quan": 0.9954783609136939,
+            "sương mù": 0.6855671145021915,
+            "khung cảnh": 0.9943332202965394,
+            "thời tiết": 0.16897947213146836,
+            "chuyến đi": 0.7355158785358071,
+            "đường thẳng": 0.4173587877303362,
+            "bề mặt": 0.9762247339822352,
+            "rào chắn": 0.582159636542201,
+            "cạnh cắt": 0.15909608826041222,
+            "người lái xe": 0.34405548218637705,
+            "thác nước": 0.7648005510418443,
+            "đèo": 0.8737691454589367,
+            "thác tình": 0.8737691454589367,
+            "biên giới": 0.6620132774114609,
+            "đường": 0.9305881215259433,
+            "lịch sử": 0.9911143758799881,
+            "con voi": -0.515769493766129,
+            "hàng rào": 0.5,
+            "sông": 0.5,
+            "thung lũng": 0.5,
+            "câu": 0.5,
+            "trắc ẩn": 0.5,
+            "thác": 0.5,
+            "nhà hàng cá": 0.5,
+            "cá": 0.5,
+            "quang cảnh": 0.5,
+            "cảnh": 0.8737691454589367,
+            "núi non": 0.9945926536456682,
+            "tầm nhìn": 0.7911621418170398,
+            "đèo bằng xe máy": 0.9953504861332476,
+            "mực nước biển": 0.50913324393332,
+            "đám mây": -0.05510479211807251,
+            "núi": 0.5,
+            "chuyến đi xe đạp": 0.9919179235585034,
+            "trải nghiệm": 0.9953315535094589,
+            "thác bạc": 0.9817603365518153,
+            "đỉnh fanxipan": 0.8737691454589367,
+            "dãy núi lai châu": 0.8737691454589367,
+            "vùng lạnh": 0.31111075542867184,
+            "tượng bởi độ": 0.985874904319644,
+            "tường": 0.5,
+            "xe máy": 0.5,
+            "xe đạp": 0.7698612906970084
+        },
+        "dicts_adj": {
+            "xe tay ga": [
+                "ngắn"
+            ],
+            "cảnh quan": [
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "sương mù": [
+                "đầy"
+            ],
+            "khung cảnh": [
+                "tuyệt vời"
+            ],
+            "thời tiết": [
+                "nghiêm túc",
+                "tốt"
+            ],
+            "chuyến đi": [
+                "giống"
+            ],
+            "đường thẳng": [
+                "ít",
+                "dễ dàng",
+                "ngoằn ngoèo"
+            ],
+            "bề mặt": [
+                "sạch",
+                "ít",
+                "vụn"
+            ],
+            "rào chắn": [
+                "dọc"
+            ],
+            "cạnh cắt": [
+                "dọc",
+                "phải"
+            ],
+            "người lái xe": [
+                "nhanh",
+                "an toàn"
+            ],
+            "thác nước": [
+                "đẹp",
+                "dọc"
+            ],
+            "đèo": [
+                "thực sự",
+                "đẹp"
+            ],
+            "thác tình": [
+                "thực sự",
+                "đẹp"
+            ],
+            "biên giới": [],
+            "đường": [
+                "nguy hiểm"
+            ],
+            "lịch sử": [
+                "tuyệt vời"
+            ],
+            "con voi": [],
+            "hàng rào": [],
+            "sông": [],
+            "thung lũng": [],
+            "câu": [],
+            "trắc ẩn": [],
+            "thác": [],
+            "nhà hàng cá": [],
+            "cá": [],
+            "quang cảnh": [],
+            "cảnh": [
+                "thực sự",
+                "đẹp"
+            ],
+            "núi non": [
+                "thực sự",
+                "đẹp"
+            ],
+            "tầm nhìn": [
+                "đẹp",
+                "hơn",
+                "nhất",
+                "ấm áp",
+                "nhất",
+                "đầy"
+            ],
+            "đèo bằng xe máy": [
+                "ngoạn mục"
+            ],
+            "mực nước biển": [],
+            "đám mây": [
+                "xanh"
+            ],
+            "núi": [],
+            "chuyến đi xe đạp": [
+                "đẹp"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "thác bạc": [],
+            "đỉnh fanxipan": [
+                "nhất",
+                "ấm áp",
+                "nhất",
+                "đầy"
+            ],
+            "dãy núi lai châu": [
+                "nhất",
+                "ấm áp",
+                "nhất",
+                "đầy"
+            ],
+            "vùng lạnh": [
+                "nhất",
+                "ấm áp",
+                "nhất",
+                "đầy"
+            ],
+            "tượng bởi độ": [
+                "cao"
+            ],
+            "tường": [],
+            "xe máy": [],
+            "xe đạp": [
+                "ổn",
+                "thận trọng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "xe tay ga": 0.5,
+            "cảnh quan": 0.5,
+            "sương mù": 0.5,
+            "khung cảnh": 0.5,
+            "thời tiết": 1.0,
+            "chuyến đi": 0.5,
+            "đường thẳng": 0.5,
+            "bề mặt": 0.5,
+            "rào chắn": 0.5,
+            "cạnh cắt": 0.5,
+            "người lái xe": 0.5,
+            "thác nước": 1.0,
+            "đèo": 0.5,
+            "thác tình": 0.5,
+            "biên giới": 0.5,
+            "đường": 0.5,
+            "lịch sử": 0.5,
+            "con voi": 0.5,
+            "hàng rào": 0.5,
+            "sông": 0.5,
+            "thung lũng": 0.5,
+            "câu": 0.5,
+            "trắc ẩn": 0.5,
+            "thác": 0.5,
+            "nhà hàng cá": 0.5,
+            "cá": 0.5,
+            "quang cảnh": 0.5,
+            "cảnh": 0.5,
+            "núi non": 0.5,
+            "tầm nhìn": 1.0,
+            "đèo bằng xe máy": 0.5,
+            "mực nước biển": 0.5,
+            "đám mây": 0.5,
+            "núi": 1.0,
+            "chuyến đi xe đạp": 0.5,
+            "trải nghiệm": 0.5,
+            "thác bạc": 0.5,
+            "đỉnh fanxipan": 0.5,
+            "dãy núi lai châu": 0.5,
+            "vùng lạnh": 0.5,
+            "tượng bởi độ": 0.5,
+            "tường": 0.5,
+            "xe máy": 0.5,
+            "xe đạp": 0.5
+        }
     },
     {
         "attraction_name": "Tram Ton Pass",
@@ -1127,6 +2771,170 @@
             "https://www.tripadvisor.com/Attraction_Review-g60814-d146889-Reviews-Skidaway_Island_State_Park-Savannah_Georgia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or100-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or90-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d6116491-Reviews-or90-Tram_Ton_Pass-Sapa_Lao_Cai_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thác bạc": 0.7613767835311591,
+            "khung cảnh": 0.7287211857619695,
+            "chuyến đi": 0.987110649002716,
+            "trạm kiểm lâm": 0.2614699248224497,
+            "rừng": 0.5660440810024738,
+            "chuyến đi bộ": 0.5395929180085659,
+            "môi trường": 0.5,
+            "xe máy": 0.9880218718317337,
+            "cảnh đẹp": 0.9954629869316705,
+            "thác": 0.41980754970184836,
+            "thác tình": 0.8737691454589367,
+            "cửa hàng thực phẩm": 0.9914830561028793,
+            "cửa hàng": -0.9730068575590849,
+            "tầm nhìn": 0.406083264388144,
+            "góc nhìn": -0.930468971375376,
+            "đèo": 0.48154565319418907,
+            "núi": 0.74685624090489,
+            "gió giật": 0.882941659539938,
+            "phan xi păng": 0.8737691454589367,
+            "thời tiết": 0.9640291484538466,
+            "thị trấn": 0.5,
+            "núi phan-xi-păng": 0.5,
+            "tuyệt đẹp": 0.5,
+            "phương tiện công cộng": 0.5,
+            "tour du lịch": 0.5,
+            "xe buýt": 0.4853821564465761,
+            "phương tiện giao thông công cộng": 0.49813584238290787,
+            "đèo trạm tôn": 0.6432639956474304,
+            "sương mù": -0.18723741546273232,
+            "núi non": 0.5992600172758102
+        },
+        "dicts_adj": {
+            "thác bạc": [
+                "cao",
+                "đẹp",
+                "đặc biệt",
+                "cuối cùng",
+                "tình cờ"
+            ],
+            "khung cảnh": [
+                "tuyệt vời",
+                "đẹp",
+                "đẹp",
+                "​ ​",
+                "nhiều",
+                "dài",
+                "khác",
+                "dọc"
+            ],
+            "chuyến đi": [
+                "dễ dàng",
+                "trung bình",
+                "thực sự",
+                "tuyệt vời",
+                "đáng giá"
+            ],
+            "trạm kiểm lâm": [
+                "tốt",
+                "hơn"
+            ],
+            "rừng": [
+                "dài"
+            ],
+            "chuyến đi bộ": [
+                "dài"
+            ],
+            "môi trường": [],
+            "xe máy": [
+                "tuyệt vời",
+                "dễ dàng"
+            ],
+            "cảnh đẹp": [
+                "tuyệt vời"
+            ],
+            "thác": [
+                "đặc biệt",
+                "cuối cùng"
+            ],
+            "thác tình": [
+                "đẹp",
+                "đặc biệt",
+                "cuối cùng"
+            ],
+            "cửa hàng thực phẩm": [
+                "nhỏ",
+                "xinh"
+            ],
+            "cửa hàng": [
+                "thực sự",
+                "tử tế"
+            ],
+            "tầm nhìn": [
+                "tuyệt vời",
+                "ngoằn ngoèo"
+            ],
+            "góc nhìn": [
+                "khác"
+            ],
+            "đèo": [
+                "dài",
+                "khác"
+            ],
+            "núi": [
+                "ấn tượng"
+            ],
+            "gió giật": [],
+            "phan xi păng": [
+                "tốt"
+            ],
+            "thời tiết": [
+                "tốt"
+            ],
+            "thị trấn": [],
+            "núi phan-xi-păng": [],
+            "tuyệt đẹp": [],
+            "phương tiện công cộng": [],
+            "tour du lịch": [],
+            "xe buýt": [
+                "nhỏ"
+            ],
+            "phương tiện giao thông công cộng": [],
+            "đèo trạm tôn": [
+                "duy nhất"
+            ],
+            "sương mù": [],
+            "núi non": [
+                "dọc"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thác bạc": 2.5,
+            "khung cảnh": 2.0,
+            "chuyến đi": 1.0,
+            "trạm kiểm lâm": 0.5,
+            "rừng": 0.5,
+            "chuyến đi bộ": 0.5,
+            "môi trường": 0.5,
+            "xe máy": 1.0,
+            "cảnh đẹp": 0.5,
+            "thác": 1.5,
+            "thác tình": 1.0,
+            "cửa hàng thực phẩm": 0.5,
+            "cửa hàng": 0.5,
+            "tầm nhìn": 0.5,
+            "góc nhìn": 0.5,
+            "đèo": 0.5,
+            "núi": 1.0,
+            "gió giật": 0.5,
+            "phan xi păng": 0.5,
+            "thời tiết": 0.5,
+            "thị trấn": 0.5,
+            "núi phan-xi-păng": 0.5,
+            "tuyệt đẹp": 0.5,
+            "phương tiện công cộng": 0.5,
+            "tour du lịch": 0.5,
+            "xe buýt": 0.5,
+            "phương tiện giao thông công cộng": 0.5,
+            "đèo trạm tôn": 0.5,
+            "sương mù": 0.5,
+            "núi non": 0.5
+        }
     }
 ]

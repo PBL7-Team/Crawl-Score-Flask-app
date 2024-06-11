@@ -97,6 +97,155 @@
             "https://www.tripadvisor.com/Attraction_Review-g147416-d4582228-Reviews-Tiki_Bikini_Hut-Nassau_New_Providence_Island_Bahamas.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14031442-Reviews-BRG_Legend_Hill_Golf_Resort-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14031442-Reviews-BRG_Legend_Hill_Golf_Resort-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "sân golf": 0.9221558004501276,
+            "golf resort": 0.8737691454589367,
+            "nhân viên": 0.977651399610165,
+            "trải nghiệm": 0.7262963144457899,
+            "golf": 0.3337934836357211,
+            "kỷ niệm": 0.9939328795298934,
+            "khóa học": 0.9760144576430321,
+            "bảo trì sân": 0.9941582371830009,
+            "người chơi gôn": 0.7491794303059578,
+            "người": 0.9939981303177774,
+            "câu lạc bộ": 0.9927080677589402,
+            "sân gôn": 0.9900323869660497,
+            "sân xanh": 0.9862621268257499,
+            "đập bóng": 0.4318453259766102,
+            "bóng lăn": 0.44854371435940266,
+            "màu xanh lá cây": 0.995534404355567,
+            "bảo trì thô sơ": 0.6322524771094322,
+            "hồ nước": -0.9419194718357176,
+            "sân": 0.8737691454589367,
+            "bóng rộng": 0.2616401217528619,
+            "hố cát": 0.9952556379139423,
+            "người chơi": 0.8737691454589367,
+            "đường": 0.5,
+            "giá": 0.5,
+            "khách sạn": 0.5,
+            "dịch vụ": 0.5
+        },
+        "dicts_adj": {
+            "sân golf": [
+                "thân thiện",
+                "tuyệt vời",
+                "tốt"
+            ],
+            "golf resort": [
+                "thân thiện"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "sẵn sàng",
+                "thân thiện",
+                "thực sự",
+                "tốt bụng",
+                "vội vàng"
+            ],
+            "trải nghiệm": [
+                "đầu tiên",
+                "tuyệt vời",
+                "chính xác",
+                "tốt"
+            ],
+            "golf": [
+                "đầu tiên",
+                "dễ",
+                "nhiều"
+            ],
+            "kỷ niệm": [
+                "chắc chắn"
+            ],
+            "khóa học": [
+                "độc quyền",
+                "hơn",
+                "tương đối",
+                "đắt",
+                "ít",
+                "đông đúc",
+                "hơn"
+            ],
+            "bảo trì sân": [
+                "tốt"
+            ],
+            "người chơi gôn": [
+                "tuyệt vời"
+            ],
+            "người": [
+                "tốt"
+            ],
+            "câu lạc bộ": [],
+            "sân gôn": [
+                "tốt",
+                "tốt"
+            ],
+            "sân xanh": [
+                "tốt"
+            ],
+            "đập bóng": [
+                "mạnh",
+                "bình thường"
+            ],
+            "bóng lăn": [
+                "dài"
+            ],
+            "màu xanh lá cây": [
+                "tuyệt vời"
+            ],
+            "bảo trì thô sơ": [
+                "tuyệt vời"
+            ],
+            "hồ nước": [
+                "suốt"
+            ],
+            "sân": [
+                "dễ"
+            ],
+            "bóng rộng": [
+                "đẹp",
+                "nhiều"
+            ],
+            "hố cát": [
+                "nhanh"
+            ],
+            "người chơi": [
+                "nhiều"
+            ],
+            "đường": [],
+            "giá": [],
+            "khách sạn": [],
+            "dịch vụ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "sân golf": 2,
+            "golf resort": 1,
+            "nhân viên": 3.5,
+            "trải nghiệm": 2.0,
+            "golf": 1.5,
+            "kỷ niệm": 1,
+            "khóa học": 1,
+            "bảo trì sân": 1,
+            "người chơi gôn": 1.5,
+            "người": 1,
+            "câu lạc bộ": 0.5,
+            "sân gôn": 0.5,
+            "sân xanh": 0.5,
+            "đập bóng": 0.5,
+            "bóng lăn": 0.5,
+            "màu xanh lá cây": 0.5,
+            "bảo trì thô sơ": 0.5,
+            "hồ nước": 0.5,
+            "sân": 0.5,
+            "bóng rộng": 0.5,
+            "hố cát": 0.5,
+            "người chơi": 0.5,
+            "đường": 0.5,
+            "giá": 0.5,
+            "khách sạn": 0.5,
+            "dịch vụ": 0.5
+        }
     }
 ]

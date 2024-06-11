@@ -407,7 +407,145 @@
             "https://www.tripadvisor.com/Attraction_Review-g14129735-d19899764-Reviews-Zeus_Nightclub-Roppongi_Minato_Tokyo_Tokyo_Prefecture_Kanto.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d25417840-Reviews-or20-Lantern_Making_Class_With_Lynn-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25417840-Reviews-or10-Lantern_Making_Class_With_Lynn-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25417840-Reviews-or10-Lantern_Making_Class_With_Lynn-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "giao lưu": 0.9951864490285516,
+            "khung": 0.9818174303509295,
+            "hội thảo": 0.9955508106504567,
+            "đèn lồng": 0.8076155265327543,
+            "chú": 0.9280627444968559,
+            "cún": 0.9538705328595825,
+            "chiếc đèn lồng": 0.8565829952247441,
+            "đồ uống": 0.8737691454589367,
+            "trải nghiệm": 0.8690357923158445,
+            "mức giá": 0.9941020110854879,
+            "lớp học": 0.9949801727198064,
+            "dự án thủ công": 0.5,
+            "nghệ thuật": 0.5,
+            "trẻ em": 0.5,
+            "đèn": 0.9761422309093177,
+            "hành lý": 0.5,
+            "chỗ": -0.9525028609205037,
+            "người dân địa phương": 0.8808073168620467,
+            "văn hóa": 0.5,
+            "nghề thủ công": 0.9951205411925912,
+            "kỹ thuật": -0.9616210898384452,
+            "câu chuyện": 0.7782020885497332,
+            "quà lưu niệm": 0.9955204275902361,
+            "không gian": 0.9934757499722764
+        },
+        "dicts_adj": {
+            "giao lưu": [
+                "thú vị",
+                "khác",
+                "cùng",
+                "tuyệt vời"
+            ],
+            "khung": [
+                "dài",
+                "hơn",
+                "nhiều",
+                "sẵn"
+            ],
+            "hội thảo": [
+                "thú vị"
+            ],
+            "đèn lồng": [
+                "xinh đẹp"
+            ],
+            "chú": [
+                "dễ thương",
+                "cùng"
+            ],
+            "cún": [
+                "dễ thương",
+                "cùng"
+            ],
+            "chiếc đèn lồng": [
+                "mát",
+                "lạnh",
+                "chu đáo",
+                "đẹp"
+            ],
+            "đồ uống": [
+                "mát",
+                "lạnh",
+                "chu đáo"
+            ],
+            "trải nghiệm": [
+                "hữu ích",
+                "tốt bụng",
+                "dịu dàng",
+                "thực sự",
+                "vui",
+                "bất kỳ",
+                "thực sự",
+                "chung"
+            ],
+            "mức giá": [
+                "hợp lý",
+                "kiên nhẫn"
+            ],
+            "lớp học": [
+                "vui"
+            ],
+            "dự án thủ công": [],
+            "nghệ thuật": [],
+            "trẻ em": [],
+            "đèn": [],
+            "hành lý": [],
+            "chỗ": [
+                "cần thiết"
+            ],
+            "người dân địa phương": [
+                "chung"
+            ],
+            "văn hóa": [],
+            "nghề thủ công": [
+                "khác"
+            ],
+            "kỹ thuật": [
+                "khác"
+            ],
+            "câu chuyện": [
+                "cùng"
+            ],
+            "quà lưu niệm": [
+                "đẹp"
+            ],
+            "không gian": [
+                "thân thiện",
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "giao lưu": 1,
+            "khung": 1,
+            "hội thảo": 1,
+            "đèn lồng": 2.5,
+            "chú": 1,
+            "cún": 1,
+            "chiếc đèn lồng": 2.5,
+            "đồ uống": 1,
+            "trải nghiệm": 2.5,
+            "mức giá": 1,
+            "lớp học": 1.5,
+            "dự án thủ công": 1.5,
+            "nghệ thuật": 3.0,
+            "trẻ em": 1.5,
+            "đèn": 1.5,
+            "hành lý": 1.5,
+            "chỗ": 1.5,
+            "người dân địa phương": 1.5,
+            "văn hóa": 1.5,
+            "nghề thủ công": 1.5,
+            "kỹ thuật": 1.5,
+            "câu chuyện": 1.5,
+            "quà lưu niệm": 1.5,
+            "không gian": 1.5
+        }
     },
     {
         "attraction_name": "Lantern Making Class With Lynn",
@@ -538,7 +676,39 @@
             "https://www.tripadvisor.com/Attraction_Review-g32755-d8108316-Reviews-Castle_Lake-Mount_Shasta_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d25417840-Reviews-or30-Lantern_Making_Class_With_Lynn-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25417840-Reviews-or20-Lantern_Making_Class_With_Lynn-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25417840-Reviews-or20-Lantern_Making_Class_With_Lynn-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "lớp học": 0.9744762722402811,
+            "trà đá": 0.9951143696671352,
+            "chó": 0.9924676618538797,
+            "trải nghiệm": 0.995483522710856
+        },
+        "dicts_adj": {
+            "lớp học": [
+                "vui"
+            ],
+            "trà đá": [
+                "ngọt ngào",
+                "thoải mái"
+            ],
+            "chó": [
+                "dễ thương",
+                "cùng"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "chuyên nghiệp",
+                "kiên nhẫn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "lớp học": 1,
+            "trà đá": 1,
+            "chó": 1,
+            "trải nghiệm": 1.5
+        }
     },
     {
         "attraction_name": "Lantern Making Class With Lynn",
@@ -669,7 +839,29 @@
             "https://www.tripadvisor.com/Attraction_Review-g60956-d145392-Reviews-San_Antonio_Botanical_Garden-San_Antonio_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d25417840-Reviews-or40-Lantern_Making_Class_With_Lynn-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25417840-Reviews-or30-Lantern_Making_Class_With_Lynn-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25417840-Reviews-or30-Lantern_Making_Class_With_Lynn-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chiếc đèn lồng": 0.990898137097247,
+            "trải nghiệm": 0.995430276467232
+        },
+        "dicts_adj": {
+            "chiếc đèn lồng": [
+                "vui"
+            ],
+            "trải nghiệm": [
+                "tích cực",
+                "vui vẻ",
+                "đáng giá",
+                "Thực sự",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chiếc đèn lồng": 1.5,
+            "trải nghiệm": 1.5
+        }
     },
     {
         "attraction_name": "Lantern Making Class With Lynn",
@@ -800,7 +992,12 @@
             "https://www.tripadvisor.com/Attraction_Review-g60878-d183753-Reviews-Fremont_Troll-Seattle_Washington.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d25417840-Reviews-or50-Lantern_Making_Class_With_Lynn-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25417840-Reviews-or40-Lantern_Making_Class_With_Lynn-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25417840-Reviews-or40-Lantern_Making_Class_With_Lynn-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     },
     {
         "attraction_name": "Lantern Making Class With Lynn",
@@ -924,6 +1121,44 @@
             "https://www.tripadvisor.com/Attraction_Review-g54097-d3267934-Reviews-Salty_Brine_State_Beach-Narragansett_Washington_County_Rhode_Island.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d25417840-Reviews-or60-Lantern_Making_Class_With_Lynn-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25417840-Reviews-or50-Lantern_Making_Class_With_Lynn-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25417840-Reviews-or50-Lantern_Making_Class_With_Lynn-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "lớp học": 0.7562231092713774,
+            "đèn lồng": 0.6132244253531098,
+            "dự án nghệ thuật": 0.9952980392845348,
+            "trẻ em": 0.5,
+            "hành lý": 0.5,
+            "chỗ": 0.6598572856746614,
+            "trải nghiệm": 0.8689266070723534
+        },
+        "dicts_adj": {
+            "lớp học": [
+                "vui",
+                "dài",
+                "hơn"
+            ],
+            "đèn lồng": [],
+            "dự án nghệ thuật": [
+                "tuyệt vời"
+            ],
+            "trẻ em": [],
+            "hành lý": [],
+            "chỗ": [],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "kỹ lưỡng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "lớp học": 2.5,
+            "đèn lồng": 1.5,
+            "dự án nghệ thuật": 1.5,
+            "trẻ em": 1.5,
+            "hành lý": 1.5,
+            "chỗ": 1.5,
+            "trải nghiệm": 1
+        }
     }
 ]

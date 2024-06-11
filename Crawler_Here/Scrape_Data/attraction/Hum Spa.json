@@ -107,7 +107,142 @@
             "https://www.tripadvisor.com/Attraction_Review-g61000-d593212-Reviews-Tunnel_View-Yosemite_National_Park_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d25090493-Reviews-or10-Hum_Spa-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25090493-Reviews-Hum_Spa-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25090493-Reviews-Hum_Spa-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "mùi": 0.8737691454589367,
+            "bầu không khí": -0.9696875442750752,
+            "nhân viên": 0.9955360301071778,
+            "kỹ thuật viên": 0.952106362208724,
+            "massage": 0.34714810297009535,
+            "phong cách": 0.9845358417369425,
+            "trà": 0.9954541687329765,
+            "phòng": 0.994273243151838,
+            "âm nhạc": 0.5,
+            "môi trường": 0.8737691454589367,
+            "wifi": 0.5,
+            "người rất": 0.8737691454589367,
+            "dịch vụ": 0.9954191388678737,
+            "massage toàn thân": 0.994900151854381,
+            "phương pháp điều trị": 0.5,
+            "trị liệu": 0.5,
+            "vị trí": 0.9951926434296183,
+            "chân trong 75": 0.9953822541283444,
+            "bàn chân cẳng chân": 0.8303450103849173,
+            "dịch vụ mát-xa": 0.9411048041074537,
+            "bằng liệu": 0.9572379208402708,
+            "hương thơm": 0.9955282251175959,
+            "tôi và": 0.8737691454589367,
+            "trải nghiệm": 0.995523517660331
+        },
+        "dicts_adj": {
+            "mùi": [
+                "tốt"
+            ],
+            "bầu không khí": [
+                "tốt"
+            ],
+            "nhân viên": [
+                "nồng nhiệt",
+                "thân thiện",
+                "tốt đẹp",
+                "chuyên nghiệp",
+                "sạch sẽ"
+            ],
+            "kỹ thuật viên": [
+                "chuyên nghiệp"
+            ],
+            "massage": [
+                "tốt",
+                "đơn giản",
+                "nhẹ"
+            ],
+            "phong cách": [
+                "tốt"
+            ],
+            "trà": [
+                "sạch sẽ",
+                "ấm áp âm nhạc"
+            ],
+            "phòng": [
+                "sạch sẽ",
+                "ấm áp âm nhạc"
+            ],
+            "âm nhạc": [],
+            "môi trường": [
+                "tốt",
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "wifi": [],
+            "người rất": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "massage toàn thân": [
+                "linh hoạt"
+            ],
+            "phương pháp điều trị": [],
+            "trị liệu": [],
+            "vị trí": [
+                "dễ dàng"
+            ],
+            "chân trong 75": [
+                "tuyệt vời"
+            ],
+            "bàn chân cẳng chân": [
+                "nhẹ"
+            ],
+            "dịch vụ mát-xa": [
+                "hài lòng",
+                "chắc chắn"
+            ],
+            "bằng liệu": [
+                "hài lòng",
+                "chắc chắn"
+            ],
+            "hương thơm": [
+                "hài lòng",
+                "chắc chắn"
+            ],
+            "tôi và": [
+                "hài lòng",
+                "chắc chắn"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "mùi": 2,
+            "bầu không khí": 2,
+            "nhân viên": 5.0,
+            "kỹ thuật viên": 2,
+            "massage": 6.0,
+            "phong cách": 1.5,
+            "trà": 1.5,
+            "phòng": 1.5,
+            "âm nhạc": 1.5,
+            "môi trường": 3.0,
+            "wifi": 1.5,
+            "người rất": 1.5,
+            "dịch vụ": 3.0,
+            "massage toàn thân": 1.5,
+            "phương pháp điều trị": 1.5,
+            "trị liệu": 1.5,
+            "vị trí": 1.5,
+            "chân trong 75": 1.5,
+            "bàn chân cẳng chân": 1.5,
+            "dịch vụ mát-xa": 1.5,
+            "bằng liệu": 1.5,
+            "hương thơm": 1.5,
+            "tôi và": 1.5,
+            "trải nghiệm": 1.5
+        }
     },
     {
         "attraction_name": "Hum Spa",
@@ -213,6 +348,76 @@
             "https://www.tripadvisor.com/Attraction_Review-g297631-d940955-Reviews-Kerala_Backwaters-Kerala.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d25090493-Reviews-or20-Hum_Spa-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25090493-Reviews-or10-Hum_Spa-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25090493-Reviews-or10-Hum_Spa-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.8084353976614344,
+            "mát-xa": 0.5,
+            "toàn thân": 0.5,
+            "giá cả": 0.33094434326631017,
+            "spa": 0.8904831290965376,
+            "dịch vụ": 0.8473230490887848,
+            "trải nghiệm": 0.9952929429709911,
+            "bầu không khí": -0.2475283625535667
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "dễ thương",
+                "chu đáo",
+                "tốt",
+                "dễ thương",
+                "bất kỳ",
+                "nổi bật"
+            ],
+            "mát-xa": [],
+            "toàn thân": [],
+            "giá cả": [
+                "hợp lý",
+                "tốt",
+                "hợp lý"
+            ],
+            "spa": [
+                "tuyệt vời",
+                "sảng khoái",
+                "tuyệt vời",
+                "tốt",
+                "nhiều",
+                "tuyệt vời",
+                "hơn",
+                "nhiều",
+                "hơn"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "chuyên nghiệp",
+                "chuyên nghiệp",
+                "đẹp",
+                "riêng tư",
+                "tốt đẹp",
+                "tuyệt vời",
+                "hơn",
+                "nhiều",
+                "hơn"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "bầu không khí": [
+                "bất kỳ",
+                "nổi bật"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 6.5,
+            "mát-xa": 1.5,
+            "toàn thân": 1.5,
+            "giá cả": 4.0,
+            "spa": 8.0,
+            "dịch vụ": 7.5,
+            "trải nghiệm": 1.5,
+            "bầu không khí": 1
+        }
     }
 ]

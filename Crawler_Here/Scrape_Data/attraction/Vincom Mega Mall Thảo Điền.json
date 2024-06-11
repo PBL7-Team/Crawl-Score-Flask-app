@@ -87,6 +87,76 @@
             "https://www.tripadvisor.com/Attraction_Review-g35805-d2263742-Reviews-Northerly_Island-Chicago_Illinois.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d26680907-Reviews-Vincom_Mega_Mall_Th_o_Di_n-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d26680907-Reviews-Vincom_Mega_Mall_Th_o_Di_n-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khu dân cư": 0.5552568472921848,
+            "khu phức hợp bảo": 0.9953485649311915,
+            "người dân địa phương": 0.9632927738130093,
+            "người nước ngoài": 0.9951493421103805,
+            "quán cà phê": 0.9954887922503985,
+            "thức ăn nhanh": 0.9954887653584592,
+            "công nghệ thể thao": 0.9954269622103311,
+            "xe hơi": -0.7794632902368903,
+            "quần áo mỹ phẩm": 0.9954443990718573,
+            "nhà hàng": 0.5,
+            "khu mua sắm vui chơi": 0.9954607845866121,
+            "diện tích": 0.8737691454589367,
+            "khu": 0.5
+        },
+        "dicts_adj": {
+            "khu dân cư": [
+                "lớn"
+            ],
+            "khu phức hợp bảo": [
+                "nhiều"
+            ],
+            "người dân địa phương": [
+                "nhiều"
+            ],
+            "người nước ngoài": [
+                "nhiều"
+            ],
+            "quán cà phê": [
+                "nhiều"
+            ],
+            "thức ăn nhanh": [
+                "nhiều"
+            ],
+            "công nghệ thể thao": [
+                "nhiều"
+            ],
+            "xe hơi": [
+                "nhiều"
+            ],
+            "quần áo mỹ phẩm": [
+                "nhiều"
+            ],
+            "nhà hàng": [],
+            "khu mua sắm vui chơi": [
+                "nhiều"
+            ],
+            "diện tích": [
+                "rộng",
+                "nhiều"
+            ],
+            "khu": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khu dân cư": 1,
+            "khu phức hợp bảo": 1,
+            "người dân địa phương": 1,
+            "người nước ngoài": 1,
+            "quán cà phê": 1,
+            "thức ăn nhanh": 1,
+            "công nghệ thể thao": 1,
+            "xe hơi": 1,
+            "quần áo mỹ phẩm": 1,
+            "nhà hàng": 1,
+            "khu mua sắm vui chơi": 1,
+            "diện tích": 1,
+            "khu": 1
+        }
     }
 ]

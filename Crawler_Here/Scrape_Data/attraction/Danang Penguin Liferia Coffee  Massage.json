@@ -101,6 +101,200 @@
             "https://www.tripadvisor.com/Attraction_Review-g494933-d1834841-Reviews-Feitan_Waterfall-Zhangjiajie_Hunan.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15059777-Reviews-Danang_Penguin_Liferia_Coffee_Massage-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15059777-Reviews-Danang_Penguin_Liferia_Coffee_Massage-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "spa": 0.5497966564726084,
+            "hồ bơi": 0.16792101102570692,
+            "khu phức hợp": 0.9915691661881283,
+            "khoảng nhiệt": 0.5178537052124739,
+            "nước nóng": -0.9667943879030645,
+            "phòng": 0.8794307961361483,
+            "hang": 0.5,
+            "mùi thơm": 0.5,
+            "thảo dược": 0.9954744451679289,
+            "phòng tắm": -0.9543606818187982,
+            "massage": 0.7973757416621083,
+            "giá": 0.7495627561584115,
+            "trải nghiệm": 0.99526963068638,
+            "mát-xa": 0.7634644825884607,
+            "dầu trong": 0.5,
+            "mặt": 0.5,
+            "quán cà phê": 0.5,
+            "ly sinh tố dừa": 0.9139929067459889,
+            "lớp sữa trứng": 0.12035737512633204,
+            "kem": 0.5,
+            "môi trường": 0.9942362173460424,
+            "dịch vụ thì": 0.9954343193676323,
+            "dịch vụ trị liệu toàn thân": 0.5864792158827186,
+            "nhân viên": 0.824352614445767,
+            "lễ tân": 0.5,
+            "quảng cáo": -0.43787374277599156,
+            "dịch vụ": 0.8408912390150363,
+            "kỹ năng": 0.8737691454589367,
+            "đá": -0.975492712459527,
+            "dịch vụ mát-xa bằng đá": -0.024030278204008937,
+            "vị trí": 0.9954228295246139,
+            "bạn": 0.5,
+            "hoa hậu thế giới": 0.5,
+            "phương pháp điều trị": 0.9954601960489526,
+            "toàn thân": 0.9855261000338942,
+            "nhất": 0.5,
+            "mà tôi": 0.5,
+            "và ở": 0.5,
+            "của chúng": 0.5,
+            "xuống phố": 0.5866746283136308,
+            "bữa ăn nhẹ": 0.9324047472327948
+        },
+        "dicts_adj": {
+            "spa": [
+                "khác",
+                "gần",
+                "nhất"
+            ],
+            "hồ bơi": [
+                "lạnh"
+            ],
+            "khu phức hợp": [
+                "tương tự"
+            ],
+            "khoảng nhiệt": [],
+            "nước nóng": [
+                "hỏng"
+            ],
+            "phòng": [
+                "tốt",
+                "giống",
+                "tuyệt vời"
+            ],
+            "hang": [],
+            "mùi thơm": [],
+            "thảo dược": [
+                "tuyệt vời"
+            ],
+            "phòng tắm": [],
+            "massage": [
+                "tốt",
+                "tốt",
+                "nóng",
+                "tuyệt vời"
+            ],
+            "giá": [
+                "nhiều",
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "sạch sẽ"
+            ],
+            "mát-xa": [
+                "Tuyệt vời",
+                "tốt"
+            ],
+            "dầu trong": [],
+            "mặt": [],
+            "quán cà phê": [],
+            "ly sinh tố dừa": [
+                "thơm",
+                "ngon"
+            ],
+            "lớp sữa trứng": [
+                "nhỏ",
+                "giống"
+            ],
+            "kem": [],
+            "môi trường": [
+                "tuyệt vời"
+            ],
+            "dịch vụ thì": [
+                "tuyệt vời"
+            ],
+            "dịch vụ trị liệu toàn thân": [],
+            "nhân viên": [
+                "dễ thương",
+                "thân thiện"
+            ],
+            "lễ tân": [],
+            "quảng cáo": [],
+            "dịch vụ": [
+                "nhiều",
+                "hoàn toàn",
+                "xuất sắc"
+            ],
+            "kỹ năng": [
+                "tốt"
+            ],
+            "đá": [
+                "nóng"
+            ],
+            "dịch vụ mát-xa bằng đá": [
+                "nóng",
+                "tốt"
+            ],
+            "vị trí": [
+                "tuyệt vời"
+            ],
+            "bạn": [],
+            "hoa hậu thế giới": [],
+            "phương pháp điều trị": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "toàn thân": [
+                "tốt"
+            ],
+            "nhất": [],
+            "mà tôi": [],
+            "và ở": [],
+            "của chúng": [],
+            "xuống phố": [
+                "gần",
+                "nhất"
+            ],
+            "bữa ăn nhẹ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "spa": 3.0,
+            "hồ bơi": 0.5,
+            "khu phức hợp": 0.5,
+            "khoảng nhiệt": 0.5,
+            "nước nóng": 0.5,
+            "phòng": 1.0,
+            "hang": 0.5,
+            "mùi thơm": 0.5,
+            "thảo dược": 0.5,
+            "phòng tắm": 0.5,
+            "massage": 2.0,
+            "giá": 0.5,
+            "trải nghiệm": 0.5,
+            "mát-xa": 2.0,
+            "dầu trong": 0.5,
+            "mặt": 0.5,
+            "quán cà phê": 0.5,
+            "ly sinh tố dừa": 0.5,
+            "lớp sữa trứng": 0.5,
+            "kem": 0.5,
+            "môi trường": 0.5,
+            "dịch vụ thì": 0.5,
+            "dịch vụ trị liệu toàn thân": 0.5,
+            "nhân viên": 1.5,
+            "lễ tân": 0.5,
+            "quảng cáo": 0.5,
+            "dịch vụ": 2.0,
+            "kỹ năng": 0.5,
+            "đá": 0.5,
+            "dịch vụ mát-xa bằng đá": 0.5,
+            "vị trí": 0.5,
+            "bạn": 0.5,
+            "hoa hậu thế giới": 0.5,
+            "phương pháp điều trị": 0.5,
+            "toàn thân": 0.5,
+            "nhất": 0.5,
+            "mà tôi": 0.5,
+            "và ở": 0.5,
+            "của chúng": 0.5,
+            "xuống phố": 0.5,
+            "bữa ăn nhẹ": 0.5
+        }
     }
 ]

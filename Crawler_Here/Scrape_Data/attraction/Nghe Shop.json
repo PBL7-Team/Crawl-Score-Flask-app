@@ -101,6 +101,136 @@
             "https://www.tripadvisor.com/Attraction_Review-g42391-d3812420-Reviews-Horrocks_Farm_Market-Lansing_Ingham_County_Michigan.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d19070210-Reviews-Nghe_Shop-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d19070210-Reviews-Nghe_Shop-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bức tranh": 0.995413254306186,
+            "nhân viên": 0.9937037396593951,
+            "khách sạn": 0.5,
+            "cửa hàng": 0.8411387804662809,
+            "nghệ thuật": 0.5,
+            "thiết bị đeo": 0.5,
+            "món đồ": 0.9954101048060693,
+            "linh vật truyền thống": 0.9921867379453033,
+            "đồ thủ công": 0.9955679812119342,
+            "chụp ảnh": 0.9949082469101995,
+            "người địa phương": 0.5341917630285025,
+            "sản phẩm": 0.9181182992178947,
+            "món ăn": 0.9881092440336943,
+            "giá cả": 0.5497327642515302,
+            "bảo tàng 3d": 0.8737691454589367,
+            "vật liệu": 0.7143177745553354,
+            "tượng": 0.8737691454589367,
+            "nghệ": 0.8737691454589367,
+            "hổ": 0.8737691454589367,
+            "voi": 0.8737691454589367,
+            "đồ thủ công mỹ nghệ lành nghề": 0.5,
+            "tranh sơn mài đông hồ": 0.8737691454589367,
+            "tượng nghệ truyền thống": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "bức tranh": [
+                "hài lòng"
+            ],
+            "nhân viên": [
+                "khuyến khíchThêm"
+            ],
+            "khách sạn": [],
+            "cửa hàng": [
+                "hài lòng",
+                "nhỏ",
+                "thú vị",
+                "nhỏ",
+                "đẹp",
+                "độc đáo",
+                "nhiều"
+            ],
+            "nghệ thuật": [],
+            "thiết bị đeo": [],
+            "món đồ": [
+                "hài lòng"
+            ],
+            "linh vật truyền thống": [
+                "độc đáo"
+            ],
+            "đồ thủ công": [],
+            "chụp ảnh": [
+                "tuyệt vời",
+                "độc đáo"
+            ],
+            "người địa phương": [
+                "rõ"
+            ],
+            "sản phẩm": [
+                "cùng",
+                "thực sự",
+                "cao"
+            ],
+            "món ăn": [
+                "nhiệt tình"
+            ],
+            "giá cả": [
+                "dễ chịu"
+            ],
+            "bảo tàng 3d": [
+                "thú vị"
+            ],
+            "vật liệu": [
+                "hiện đại",
+                "ổn định",
+                "hơn"
+            ],
+            "tượng": [
+                "nhiều"
+            ],
+            "nghệ": [
+                "nhiều"
+            ],
+            "hổ": [
+                "nhiều"
+            ],
+            "voi": [
+                "nhiều"
+            ],
+            "đồ thủ công mỹ nghệ lành nghề": [],
+            "tranh sơn mài đông hồ": [
+                "nhỏ",
+                "đẹp",
+                "độc đáo",
+                "nhiều"
+            ],
+            "tượng nghệ truyền thống": [
+                "nhỏ",
+                "đẹp",
+                "độc đáo",
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bức tranh": 0.5,
+            "nhân viên": 1.0,
+            "khách sạn": 0.5,
+            "cửa hàng": 2.0,
+            "nghệ thuật": 0.5,
+            "thiết bị đeo": 0.5,
+            "món đồ": 0.5,
+            "linh vật truyền thống": 0.5,
+            "đồ thủ công": 0.5,
+            "chụp ảnh": 0.5,
+            "người địa phương": 0.5,
+            "sản phẩm": 1.0,
+            "món ăn": 0.5,
+            "giá cả": 0.5,
+            "bảo tàng 3d": 0.5,
+            "vật liệu": 0.5,
+            "tượng": 0.5,
+            "nghệ": 0.5,
+            "hổ": 0.5,
+            "voi": 0.5,
+            "đồ thủ công mỹ nghệ lành nghề": 0.5,
+            "tranh sơn mài đông hồ": 0.5,
+            "tượng nghệ truyền thống": 0.5
+        }
     }
 ]

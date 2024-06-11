@@ -85,7 +85,163 @@
             "https://www.tripadvisor.com/Attraction_Review-g33037-d128968-Reviews-China_Camp_State_Park-San_Rafael_Marin_County_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-or10-Asia_Vacation_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-Asia_Vacation_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-Asia_Vacation_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.970045393572137,
+            "du thuyền": 0.8615614064619876,
+            "thuyền": 0.8773787559912307,
+            "tầm nhìn": 0.9953999089775607,
+            "vịnh": 0.8737691454589367,
+            "sam": 0.9623313579200343,
+            "thực phẩm": 0.548960741609335,
+            "bữa trưa": 0.8737691454589367,
+            "món ăn truyền thống": 0.8267172984778881,
+            "thức ăn": 0.9955244917655364,
+            "hướng dẫn viên": 0.9951887828356121,
+            "trải nghiệm": 0.9952515576733276,
+            "đồ ăn": 0.8737691454589367,
+            "nhân viên": 0.9935926932375878,
+            "dịch vụ": 0.995489668333903,
+            "chuyến du ngoạn": 0.5,
+            "tàu": 0.5,
+            "hành trình": 0.9943233469384722,
+            "giá": 0.512115572579205,
+            "xe tải": 0.5008250642567873,
+            "khách sạn": 0.5,
+            "vịnh hào": 0.9955422610510141,
+            "tour du lịch": 0.8737691454589367,
+            "bữa ăn": 0.9955599887762219,
+            "đồ uống": 0.9955847631790675,
+            "chuyến lưu diễn": 0.5,
+            "người hướng dẫn": 0.993040018947795
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "ổn",
+                "tuyệt vời",
+                "thú vị",
+                "bất kỳ",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tốt",
+                "nhiều",
+                "vui"
+            ],
+            "du thuyền": [
+                "sang trọng",
+                "thoải mái",
+                "hơn",
+                "ngon"
+            ],
+            "thuyền": [
+                "rộng rãi",
+                "sạch sẽ",
+                "ngon"
+            ],
+            "tầm nhìn": [
+                "ngoạn mục"
+            ],
+            "vịnh": [
+                "bất kỳ",
+                "tuyệt vời"
+            ],
+            "sam": [
+                "tuyệt vời",
+                "vui vẻ",
+                "thú vị",
+                "tuyệt vời",
+                "tuyệt"
+            ],
+            "thực phẩm": [
+                "nhiều"
+            ],
+            "bữa trưa": [
+                "duy nhất"
+            ],
+            "món ăn truyền thống": [
+                "hơn"
+            ],
+            "thức ăn": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "đặc biệt",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "nhân viên": [
+                "giỏi",
+                "giỏi"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "chuyến du ngoạn": [],
+            "tàu": [],
+            "hành trình": [],
+            "giá": [
+                "khác",
+                "cùng"
+            ],
+            "xe tải": [
+                "nhỏ"
+            ],
+            "khách sạn": [],
+            "vịnh hào": [
+                "tuyệt vời"
+            ],
+            "tour du lịch": [
+                "tuyệt vời"
+            ],
+            "bữa ăn": [
+                "ngon"
+            ],
+            "đồ uống": [
+                "ngon"
+            ],
+            "chuyến lưu diễn": [],
+            "người hướng dẫn": [
+                "tốt",
+                "chắc chắn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 12,
+            "du thuyền": 4,
+            "thuyền": 4,
+            "tầm nhìn": 2,
+            "vịnh": 4,
+            "sam": 5.5,
+            "thực phẩm": 2,
+            "bữa trưa": 2,
+            "món ăn truyền thống": 2,
+            "thức ăn": 2,
+            "hướng dẫn viên": 4,
+            "trải nghiệm": 2,
+            "đồ ăn": 2,
+            "nhân viên": 2,
+            "dịch vụ": 2,
+            "chuyến du ngoạn": 2,
+            "tàu": 2,
+            "hành trình": 2,
+            "giá": 2,
+            "xe tải": 2,
+            "khách sạn": 2,
+            "vịnh hào": 2,
+            "tour du lịch": 2,
+            "bữa ăn": 2,
+            "đồ uống": 2,
+            "chuyến lưu diễn": 1.5,
+            "người hướng dẫn": 1.5
+        }
     },
     {
         "attraction_name": "Asia Vacation Travel",
@@ -170,7 +326,139 @@
             "https://www.tripadvisor.com/Attraction_Review-g30196-d4495660-Reviews-The_Yellow_Rose-Austin_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-or20-Asia_Vacation_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-or10-Asia_Vacation_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-or10-Asia_Vacation_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "vịnh": 0.9193534768273821,
+            "hướng dẫn viên": 0.9492944991022038,
+            "cảnh quan": 0.9954544542124495,
+            "chèo thuyền kayak": 0.9943526132265106,
+            "hang động": 0.9936370313516818,
+            "chuyến đi": 0.8477788494637934,
+            "thuyền": 0.5,
+            "chuyến tham quan": 0.6368796963296417,
+            "đảo": 0.5,
+            "tổng thể": 0.9231876982375979,
+            "chuyến du lịch": 0.5,
+            "biển": 0.5,
+            "tour du lịch": 0.8737691454589367,
+            "quang cảnh": 0.9909281242871657,
+            "khoảng thời gian": 0.9953072104835883,
+            "hướng dẫn viên du lịch": 0.9943896021286491,
+            "đồ ăn": 0.9955783022451214,
+            "đồ ăn nhẹ": 0.9955719583667815,
+            "buffet": 0.9955086457775906,
+            "khung cảnh": 0.995112557488028,
+            "kiến thức": 0.5,
+            "sam": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "vịnh": [
+                "tuyệt vời",
+                "cùng",
+                "tuyệt vời",
+                "ngoạn mục",
+                "xuất sắc",
+                "tuyệt vời",
+                "thực sự",
+                "đặc biệt"
+            ],
+            "hướng dẫn viên": [
+                "thân thiện",
+                "nhiều",
+                "ưa thích",
+                "khác",
+                "chu đáo",
+                "thực sự"
+            ],
+            "cảnh quan": [
+                "tuyệt vời"
+            ],
+            "chèo thuyền kayak": [
+                "tuyệt"
+            ],
+            "hang động": [
+                "thú vị",
+                "vui"
+            ],
+            "chuyến đi": [
+                "nhiều",
+                "suốt",
+                "tuyệt vời",
+                "thoải mái",
+                "cao"
+            ],
+            "thuyền": [],
+            "chuyến tham quan": [
+                "tốt",
+                "đủ",
+                "tốt"
+            ],
+            "đảo": [],
+            "tổng thể": [
+                "tốt"
+            ],
+            "chuyến du lịch": [],
+            "biển": [],
+            "tour du lịch": [
+                "đẹp"
+            ],
+            "quang cảnh": [
+                "đẹp"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tràn đầy",
+                "thân thiện",
+                "vui tính",
+                "suốt",
+                "xuất sắc",
+                "giỏi"
+            ],
+            "đồ ăn": [
+                "tuyệt vời"
+            ],
+            "đồ ăn nhẹ": [
+                "tuyệt vời"
+            ],
+            "buffet": [
+                "tuyệt vời"
+            ],
+            "khung cảnh": [
+                "ngoạn mục"
+            ],
+            "kiến thức": [],
+            "sam": [
+                "giỏi"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "vịnh": 6.0,
+            "hướng dẫn viên": 4.5,
+            "cảnh quan": 1.5,
+            "chèo thuyền kayak": 1.5,
+            "hang động": 3.0,
+            "chuyến đi": 6.0,
+            "thuyền": 1.5,
+            "chuyến tham quan": 4.5,
+            "đảo": 1.5,
+            "tổng thể": 1.5,
+            "chuyến du lịch": 1.5,
+            "biển": 1.5,
+            "tour du lịch": 1.5,
+            "quang cảnh": 1.5,
+            "khoảng thời gian": 1.5,
+            "hướng dẫn viên du lịch": 6.0,
+            "đồ ăn": 1.5,
+            "đồ ăn nhẹ": 1.5,
+            "buffet": 1.5,
+            "khung cảnh": 1.5,
+            "kiến thức": 1.5,
+            "sam": 1.5
+        }
     },
     {
         "attraction_name": "Asia Vacation Travel",
@@ -256,7 +544,102 @@
             "https://www.tripadvisor.com/Attraction_Review-g1177808-d3807326-Reviews-Lineas_Blue_Bird-Mogan_Gran_Canaria_Canary_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-or30-Asia_Vacation_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-or20-Asia_Vacation_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-or20-Asia_Vacation_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cảnh": 0.9945543361827731,
+            "hướng dẫn viên": 0.8706186260096729,
+            "sam": 0.9955750363296829,
+            "chuyến tham quan": 0.5,
+            "vịnh": 0.9178297649680948,
+            "chuyến đi": 0.995070492887559,
+            "buffet": 0.9955745784682222,
+            "hướng dẫn viên du lịch": 0.8141306274337694,
+            "quân": 0.532103349454701,
+            "người hướng dẫn": 0.995359921362251,
+            "địa điểm": 0.5,
+            "di sản": 0.5,
+            "trải nghiệm": 0.9954730127938092,
+            "khung cảnh": 0.8723792556944924,
+            "bởi sam người": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "cảnh": [
+                "đẹp"
+            ],
+            "hướng dẫn viên": [
+                "dễ",
+                "gần",
+                "khác",
+                "dễ",
+                "vui vẻ",
+                "tuyệt vời",
+                "tốt"
+            ],
+            "sam": [
+                "tuyệt vời",
+                "thân thiện",
+                "sớm"
+            ],
+            "chuyến tham quan": [],
+            "vịnh": [
+                "vui vẻ",
+                "tốt",
+                "hào phóng",
+                "suốt",
+                "thực sự",
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "buffet": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "thực sự",
+                "khuyên bạn"
+            ],
+            "quân": [],
+            "người hướng dẫn": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "địa điểm": [],
+            "di sản": [],
+            "trải nghiệm": [],
+            "khung cảnh": [
+                "thực sự",
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "bởi sam người": [
+                "thực sự",
+                "tuyệt vời",
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cảnh": 1.5,
+            "hướng dẫn viên": 6.0,
+            "sam": 1.5,
+            "chuyến tham quan": 1.5,
+            "vịnh": 6.0,
+            "chuyến đi": 4.5,
+            "buffet": 1.5,
+            "hướng dẫn viên du lịch": 1.5,
+            "quân": 1.5,
+            "người hướng dẫn": 1.5,
+            "địa điểm": 1.5,
+            "di sản": 1.5,
+            "trải nghiệm": 1.5,
+            "khung cảnh": 1.5,
+            "bởi sam người": 1.5
+        }
     },
     {
         "attraction_name": "Asia Vacation Travel",
@@ -342,7 +725,131 @@
             "https://www.tripadvisor.com/Attraction_Review-g60067-d1520251-Reviews-Little_Amerricka-Marshall_Wisconsin.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-or40-Asia_Vacation_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-or30-Asia_Vacation_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-or30-Asia_Vacation_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tour du lịch": 0.8737691454589367,
+            "vịnh": 0.9345710734487511,
+            "hướng dẫn viên": 0.7803268590942025,
+            "chuyến tham quan": 0.5,
+            "hướng dẫn viên du lịch": 0.9953000838286243,
+            "chuyến đi": 0.8715210519779552,
+            "du thuyền": 0.5,
+            "kiến ​​thức": 0.9955600710236467,
+            "cảnh quan": 0.8737691454589367,
+            "dịch vụ": 0.9339630251633935,
+            "người": 0.9953500132542104,
+            "trải nghiệm": 0.9953752247383818,
+            "sam": 0.5484394021332264,
+            "phong cảnh": 0.9948009859886952,
+            "tàu du lịch": 0.9954707027645782,
+            "người hướng dẫn": 0.5273924712091684,
+            "hành trình": 0.995252902910579,
+            "nhiệt huyết": 0.9920110409148037,
+            "chuyến tham quan với sam": 0.9077759813517332,
+            "câu chuyện": 0.5366963849713405
+        },
+        "dicts_adj": {
+            "tour du lịch": [
+                "tốt"
+            ],
+            "vịnh": [
+                "tốt",
+                "thực sự",
+                "vui vẻ"
+            ],
+            "hướng dẫn viên": [
+                "hữu ích",
+                "giỏi",
+                "ấm áp"
+            ],
+            "chuyến tham quan": [],
+            "hướng dẫn viên du lịch": [
+                "vui vẻ",
+                "dễ tính",
+                "tốt bụng",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "tốt",
+                "thực sự",
+                "thích thú"
+            ],
+            "du thuyền": [],
+            "kiến ​​thức": [
+                "thân thiện",
+                "tốt"
+            ],
+            "cảnh quan": [
+                "tốt"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "ấm áp"
+            ],
+            "người": [
+                "tuyệt vời",
+                "hữu ích",
+                "hiểu biết"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "sam": [],
+            "phong cảnh": [
+                "tuyệt vời",
+                "đẹp",
+                "thú vị",
+                "vui",
+                "mới",
+                "chắc chắn"
+            ],
+            "tàu du lịch": [
+                "đẹp"
+            ],
+            "người hướng dẫn": [],
+            "hành trình": [
+                "mới",
+                "tuyệt vời",
+                "khác"
+            ],
+            "nhiệt huyết": [
+                "hiểu biết",
+                "đầy"
+            ],
+            "chuyến tham quan với sam": [
+                "thực sự"
+            ],
+            "câu chuyện": [
+                "nhỏ",
+                "suốt",
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tour du lịch": 1.5,
+            "vịnh": 3.0,
+            "hướng dẫn viên": 6.0,
+            "chuyến tham quan": 3.0,
+            "hướng dẫn viên du lịch": 4.5,
+            "chuyến đi": 6.0,
+            "du thuyền": 1.5,
+            "kiến ​​thức": 1.5,
+            "cảnh quan": 1.5,
+            "dịch vụ": 3.0,
+            "người": 1.5,
+            "trải nghiệm": 1.5,
+            "sam": 1.5,
+            "phong cảnh": 3.0,
+            "tàu du lịch": 1.5,
+            "người hướng dẫn": 1.5,
+            "hành trình": 1.5,
+            "nhiệt huyết": 1.5,
+            "chuyến tham quan với sam": 1.5,
+            "câu chuyện": 1.5
+        }
     },
     {
         "attraction_name": "Asia Vacation Travel",
@@ -432,7 +939,157 @@
             "https://www.tripadvisor.com/Attraction_Review-g293917-d1699367-Reviews-CentralPlaza_Chiangmai_Airport-Chiang_Mai.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-or50-Asia_Vacation_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-or40-Asia_Vacation_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-or40-Asia_Vacation_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thuyền": 0.9941234398866072,
+            "thực phẩm chay": 0.9954810261842795,
+            "trải nghiệm": 0.9345230082399212,
+            "hành trình": 0.9954520465107635,
+            "vịnh": 0.6868845727294683,
+            "hòn đảo đá vôi": 0.9942078437888995,
+            "làn nước": 0.9829325247555971,
+            "hướng": 0.9954240430379286,
+            "chuyến đi": 0.971135799807962,
+            "chuyến tham quan": 0.7471503024571575,
+            "hướng dẫn viên": 0.7774400368216448,
+            "sam": 0.8737691454589367,
+            "kiến ​​thức": 0.9501175098121166,
+            "lịch sử": 0.7343165269121528,
+            "quang cảnh": 0.8737691454589367,
+            "vịnh hạ long": 0.8737691454589367,
+            "người giao tiếp": 0.8737691454589367,
+            "hang động": 0.5861270166933537,
+            "hướng dẫn viên du lịch": 0.9954651220468804,
+            "nhân viên": 0.9954609597916715,
+            "công ty du lịch": 0.3771336879581213,
+            "xe du lịch": 0.9952561358222738
+        },
+        "dicts_adj": {
+            "thuyền": [
+                "thực sự"
+            ],
+            "thực phẩm chay": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "hữu ích",
+                "chắc chắn"
+            ],
+            "hành trình": [
+                "tuyệt vời"
+            ],
+            "vịnh": [
+                "đầy",
+                "đặc biệt",
+                "chu đáo",
+                "sâu sắc"
+            ],
+            "hòn đảo đá vôi": [
+                "đẹp"
+            ],
+            "làn nước": [
+                "xanh"
+            ],
+            "hướng": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "nhiều",
+                "vui",
+                "đẹp",
+                "tuyệt vời",
+                "tuyệt vời",
+                "hữu ích",
+                "chắc chắn",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "tốt",
+                "kịp thời",
+                "nhiều"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "hữu ích",
+                "chắc chắn",
+                "thân thiện",
+                "hữu ích",
+                "vui",
+                "tuyệt vời",
+                "chu đáo",
+                "sâu sắc"
+            ],
+            "sam": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "hữu ích",
+                "chắc chắn",
+                "tuyệt vời"
+            ],
+            "kiến ​​thức": [
+                "đặc biệt"
+            ],
+            "lịch sử": [
+                "đặc biệt"
+            ],
+            "quang cảnh": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "vịnh hạ long": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "người giao tiếp": [
+                "tốt"
+            ],
+            "hang động": [
+                "Ấn tượng"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "tuyệt vời"
+            ],
+            "công ty du lịch": [
+                "chuyên nghiệp"
+            ],
+            "xe du lịch": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thuyền": 1.5,
+            "thực phẩm chay": 1.5,
+            "trải nghiệm": 3.0,
+            "hành trình": 1.5,
+            "vịnh": 9.0,
+            "hòn đảo đá vôi": 1.5,
+            "làn nước": 1.5,
+            "hướng": 1.5,
+            "chuyến đi": 7.5,
+            "chuyến tham quan": 3.0,
+            "hướng dẫn viên": 7.5,
+            "sam": 3.0,
+            "kiến ​​thức": 1.5,
+            "lịch sử": 3.0,
+            "quang cảnh": 1.5,
+            "vịnh hạ long": 1.5,
+            "người giao tiếp": 1.5,
+            "hang động": 1.5,
+            "hướng dẫn viên du lịch": 1.5,
+            "nhân viên": 1.5,
+            "công ty du lịch": 1.5,
+            "xe du lịch": 1.5
+        }
     },
     {
         "attraction_name": "Asia Vacation Travel",
@@ -518,7 +1175,189 @@
             "https://www.tripadvisor.com/Attraction_Review-g294197-d4412980-Reviews-CGV_Yongsan-Seoul.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-or60-Asia_Vacation_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-or50-Asia_Vacation_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-or50-Asia_Vacation_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "vịnh": 0.7219058519861262,
+            "chuyến tham quan": 0.6868845727294683,
+            "địa điểm": 0.9920147304655984,
+            "của sam": 0.9917256919434294,
+            "phong cảnh": 0.6868845727294683,
+            "làn nước": 0.9691986059769988,
+            "vách đá vôi": -0.30709301214665174,
+            "chuyến đi": 0.8641587876947596,
+            "hành trình": 0.9839148429746274,
+            "mức": 0.9951527423108928,
+            "giá": 0.9920917224953882,
+            "lịch trình": 0.5422495771199465,
+            "hoa": 0.9398047588765621,
+            "đại lý du lịch": 0.9920172397978604,
+            "hướng dẫn viên du lịch": 0.9942616277063886,
+            "điểm tham quan": 0.5,
+            "đảo titop": 0.8737691454589367,
+            "hang": 0.9345648751477711,
+            "dịch vụ": -0.015678458381444216,
+            "thuyền": 0.9955558410729282,
+            "khung cảnh": 0.8737691454589367,
+            "chuyến": 0.9954337895615026,
+            "du thuyền": 0.5,
+            "hướng dẫn viên": 0.7821805225685239,
+            "khách sạn": 0.5420127362012863,
+            "con người": 0.5,
+            "chuyến đi việt nam": 0.9837513884995133,
+            "quang cảnh": 0.8737691454589367,
+            "vịnh hạ long": 0.8737691454589367,
+            "vịnh la": 0.8737691454589367,
+            "đi bộ": 0.9896137065952644
+        },
+        "dicts_adj": {
+            "vịnh": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "quan trọng",
+                "đông",
+                "nhiều",
+                "nhiều"
+            ],
+            "chuyến tham quan": [
+                "tốt",
+                "nhiều"
+            ],
+            "địa điểm": [
+                "đẹp"
+            ],
+            "của sam": [
+                "hoàn hảo",
+                "vội vã"
+            ],
+            "phong cảnh": [
+                "ấn tượng"
+            ],
+            "làn nước": [
+                "lấp lánh"
+            ],
+            "vách đá vôi": [
+                "cao"
+            ],
+            "chuyến đi": [
+                "2N1 Đ",
+                "tuyệt vời",
+                "Thực sự",
+                "đặc biệt",
+                "thực sự",
+                "tốt đẹp"
+            ],
+            "hành trình": [
+                "tuyệt vời",
+                "quan trọng"
+            ],
+            "mức": [
+                "hợp lý"
+            ],
+            "giá": [
+                "hợp lý"
+            ],
+            "lịch trình": [
+                "ngắn"
+            ],
+            "hoa": [
+                "nhiều",
+                "ngẫu nhiên",
+                "nhanh"
+            ],
+            "đại lý du lịch": [
+                "rắc rối"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "thân thiện",
+                "tuyệt vời"
+            ],
+            "điểm tham quan": [],
+            "đảo titop": [
+                "tuyệt vời"
+            ],
+            "hang": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "khác"
+            ],
+            "thuyền": [
+                "đẹp"
+            ],
+            "khung cảnh": [
+                "đẹp"
+            ],
+            "chuyến": [
+                "tuyệt vời"
+            ],
+            "du thuyền": [],
+            "hướng dẫn viên": [
+                "hữu ích",
+                "suốt",
+                "tuyệt vời",
+                "năng động",
+                "tuyệt vời",
+                "năng động",
+                "thú vị",
+                "suốt"
+            ],
+            "khách sạn": [
+                "quan trọng"
+            ],
+            "con người": [],
+            "chuyến đi việt nam": [],
+            "quang cảnh": [
+                "tuyệt vời"
+            ],
+            "vịnh hạ long": [
+                "tuyệt vời"
+            ],
+            "vịnh la": [
+                "tuyệt vời"
+            ],
+            "đi bộ": [
+                "dài",
+                "đủ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "vịnh": 10.5,
+            "chuyến tham quan": 3.0,
+            "địa điểm": 1.5,
+            "của sam": 1.5,
+            "phong cảnh": 3.0,
+            "làn nước": 1.5,
+            "vách đá vôi": 1.5,
+            "chuyến đi": 7.5,
+            "hành trình": 3.0,
+            "mức": 1.5,
+            "giá": 1.5,
+            "lịch trình": 1.5,
+            "hoa": 1.5,
+            "đại lý du lịch": 1.5,
+            "hướng dẫn viên du lịch": 4.5,
+            "điểm tham quan": 1.5,
+            "đảo titop": 1.5,
+            "hang": 3.0,
+            "dịch vụ": 3.0,
+            "thuyền": 1.5,
+            "khung cảnh": 1.5,
+            "chuyến": 1.5,
+            "du thuyền": 3.0,
+            "hướng dẫn viên": 6.0,
+            "khách sạn": 1.5,
+            "con người": 1.5,
+            "chuyến đi việt nam": 1.5,
+            "quang cảnh": 1.5,
+            "vịnh hạ long": 1.5,
+            "vịnh la": 1.5,
+            "đi bộ": 1.5
+        }
     },
     {
         "attraction_name": "Asia Vacation Travel",
@@ -608,7 +1447,172 @@
             "https://www.tripadvisor.com/Attraction_Review-g32265-d278955-Reviews-Lake_Gregory_Regional_Park-Crestline_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-or70-Asia_Vacation_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-or60-Asia_Vacation_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-or60-Asia_Vacation_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.9531955901960222,
+            "vịnh": 0.9216390107176267,
+            "hướng dẫn viên": 0.8864711949572666,
+            "khách sạn": -0.9726066705770791,
+            "chuyển xe buýt": 0.9929524208419025,
+            "trải nghiệm": 0.9953195561926501,
+            "bữa trưa": 0.9950971225625835,
+            "tầm nhìn": 0.995360677188728,
+            "chuyến đi": 0.8709056509105721,
+            "nông thôn": 0.5,
+            "vùng nông nghiệp": 0.5,
+            "đồi núi": 0.9955247834441252,
+            "ruộng bậc thang": 0.5,
+            "ngôi nhà trang trại": 0.5,
+            "thuyền": 0.9945900762104429,
+            "người lái xe": 0.8737691454589367,
+            "phi hành đoàn": 0.9939850938972086,
+            "chuyến du lịch": 0.9936426352942362,
+            "câu chuyện": 0.9917190491687506,
+            "tàu": 0.7970238123089075,
+            "quang cảnh": 0.9955350687378086,
+            "giá": 0.9807483516633511,
+            "điểm dừng": 0.9630345404148102,
+            "hang động thuyền kayak": 0.9567256681621075,
+            "đảo titop": 0.8737691454589367,
+            "chất lượng": 0.9954711010213941,
+            "hướng dẫn viên du lịch": 0.995357286737999,
+            "kiến thức": 0.9938713763840497,
+            "hang động": 0.9952866449020803
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "xuất sắc",
+                "xuất sắc",
+                "đặc biệt"
+            ],
+            "vịnh": [
+                "tuyệt vời",
+                "xuất sắc",
+                "xuất sắc",
+                "tuyệt vời",
+                "tốt"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "xuất sắc",
+                "xuất sắc",
+                "tốt",
+                "tốt",
+                "nhiều",
+                "nhiệt tình"
+            ],
+            "khách sạn": [
+                "đúng"
+            ],
+            "chuyển xe buýt": [
+                "thoải mái"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "bữa trưa": [
+                "ngon",
+                "tốt"
+            ],
+            "tầm nhìn": [
+                "nổi bật"
+            ],
+            "chuyến đi": [
+                "hoàn hảo",
+                "chắc chắn"
+            ],
+            "nông thôn": [],
+            "vùng nông nghiệp": [],
+            "đồi núi": [
+                "đẹp"
+            ],
+            "ruộng bậc thang": [],
+            "ngôi nhà trang trại": [],
+            "thuyền": [
+                "tốt"
+            ],
+            "người lái xe": [
+                "tốt bụng",
+                "tốt bụng"
+            ],
+            "phi hành đoàn": [
+                "tốt bụng",
+                "tốt bụng"
+            ],
+            "chuyến du lịch": [
+                "cùng"
+            ],
+            "câu chuyện": [
+                "giỏi",
+                "lịch sử"
+            ],
+            "tàu": [],
+            "quang cảnh": [
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "giá": [
+                "tốt"
+            ],
+            "điểm dừng": [
+                "nhiều"
+            ],
+            "hang động thuyền kayak": [
+                "nhiều"
+            ],
+            "đảo titop": [
+                "tốt"
+            ],
+            "chất lượng": [
+                "tốt"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "xuất sắc"
+            ],
+            "kiến thức": [
+                "tuyệt vời"
+            ],
+            "hang động": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 4.5,
+            "vịnh": 6.0,
+            "hướng dẫn viên": 6.0,
+            "khách sạn": 1.5,
+            "chuyển xe buýt": 1.5,
+            "trải nghiệm": 4.5,
+            "bữa trưa": 3.0,
+            "tầm nhìn": 1.5,
+            "chuyến đi": 6.0,
+            "nông thôn": 1.5,
+            "vùng nông nghiệp": 1.5,
+            "đồi núi": 1.5,
+            "ruộng bậc thang": 1.5,
+            "ngôi nhà trang trại": 1.5,
+            "thuyền": 1.5,
+            "người lái xe": 1.5,
+            "phi hành đoàn": 1.5,
+            "chuyến du lịch": 1.5,
+            "câu chuyện": 1.5,
+            "tàu": 1.5,
+            "quang cảnh": 1.5,
+            "giá": 1.5,
+            "điểm dừng": 1.5,
+            "hang động thuyền kayak": 1.5,
+            "đảo titop": 1.5,
+            "chất lượng": 1.5,
+            "hướng dẫn viên du lịch": 3.0,
+            "kiến thức": 1.5,
+            "hang động": 1.5
+        }
     },
     {
         "attraction_name": "Asia Vacation Travel",
@@ -694,6 +1698,116 @@
             "https://www.tripadvisor.com/Attraction_Review-g297553-d668922-Reviews-Sharm_El_Naga-Safaga_Red_Sea_and_Sinai.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-or80-Asia_Vacation_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-or70-Asia_Vacation_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d8861422-Reviews-or70-Asia_Vacation_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "kiến ​​thức": 0.9953339691855945,
+            "lắng": 0.5,
+            "tour du lịch": 0.8737691454589367,
+            "đồng": 0.5,
+            "quang cảnh": 0.9954489398320826,
+            "đồ ăn": 0.9955360619351268,
+            "hướng dẫn viên": 0.7447878938983195,
+            "chuyến đi": 0.9616341350993025,
+            "chuyến tham quan": 0.9953194949193858,
+            "vịnh": 0.8997716155136004,
+            "nhân viên": 0.9954431424266659,
+            "bữa trưa": 0.9955806750804186,
+            "du thuyền": 0.9953558822162449,
+            "hướng dẫn viên du lịch": 0.9946959733497351,
+            "du lịch sam": 0.9954751522745937,
+            "người hướng dẫn": 0.7869740330206696,
+            "chàng trai": 0.9913413954200223,
+            "trải nghiệm": 0.9955688367481343
+        },
+        "dicts_adj": {
+            "kiến ​​thức": [
+                "chu đáo",
+                "thú vị"
+            ],
+            "lắng": [],
+            "tour du lịch": [
+                "tuyệt vời"
+            ],
+            "đồng": [],
+            "quang cảnh": [
+                "tuyệt vời",
+                "đẹp",
+                "nhiều"
+            ],
+            "đồ ăn": [
+                "chuyên nghiệp"
+            ],
+            "hướng dẫn viên": [
+                "chuyên nghiệp"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "mệt nhọc",
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "chuyến tham quan": [
+                "thú vị",
+                "tuyệt vời"
+            ],
+            "vịnh": [
+                "thú vị",
+                "tuyệt vời",
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "nhân viên": [
+                "hữu ích"
+            ],
+            "bữa trưa": [
+                "nhiều"
+            ],
+            "du thuyền": [
+                "đặc biệt"
+            ],
+            "hướng dẫn viên du lịch": [
+                "hiệu quả"
+            ],
+            "du lịch sam": [
+                "đặc biệt",
+                "hữu ích"
+            ],
+            "người hướng dẫn": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "chàng trai": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "nhiều",
+                "vui"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "kiến ​​thức": 1.5,
+            "lắng": 1.5,
+            "tour du lịch": 1.5,
+            "đồng": 1.5,
+            "quang cảnh": 1.5,
+            "đồ ăn": 1.5,
+            "hướng dẫn viên": 3.0,
+            "chuyến đi": 6.0,
+            "chuyến tham quan": 3.0,
+            "vịnh": 6.0,
+            "nhân viên": 1.5,
+            "bữa trưa": 1.5,
+            "du thuyền": 1.5,
+            "hướng dẫn viên du lịch": 1.5,
+            "du lịch sam": 1.5,
+            "người hướng dẫn": 1.5,
+            "chàng trai": 1.5,
+            "trải nghiệm": 1.5
+        }
     }
 ]

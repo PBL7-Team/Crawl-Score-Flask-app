@@ -84,6 +84,70 @@
             "https://www.tripadvisor.com/Attraction_Review-g189541-d24027217-Reviews-Reffen_Copenhagen_Street_Food-Copenhagen_Zealand.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d19065408-Reviews-Vie_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d19065408-Reviews-Vie_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "phòng": 0.5,
+            "hyatt": 0.8737691454589367,
+            "spa": 0.9339710820931941,
+            "chuyên gia": 0.995584259275347,
+            "mát-xa": 0.9955497759510763,
+            "của tôi": 0.9955832238774747,
+            "nhân viên": 0.9938813215121627,
+            "trải nghiệm": 0.9872906857344788,
+            "kỳ nghỉ": 0.9738089295569807,
+            "trẻ hóa": -0.9754594408441335,
+            "- hyatt": 0.5
+        },
+        "dicts_adj": {
+            "phòng": [],
+            "hyatt": [
+                "tuyệt vời",
+                "dễ dàng"
+            ],
+            "spa": [
+                "tuyệt vời",
+                "dễ dàng",
+                "nhiều",
+                "chân thành",
+                "đặc biệt"
+            ],
+            "chuyên gia": [
+                "tuyệt vời"
+            ],
+            "mát-xa": [
+                "tuyệt vời"
+            ],
+            "của tôi": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [],
+            "trải nghiệm": [
+                "vui mừng",
+                "tuyệt vời",
+                "đặc biệt"
+            ],
+            "kỳ nghỉ": [
+                "yên tĩnh"
+            ],
+            "trẻ hóa": [
+                "khác"
+            ],
+            "- hyatt": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "phòng": 1,
+            "hyatt": 1,
+            "spa": 2,
+            "chuyên gia": 1,
+            "mát-xa": 1,
+            "của tôi": 1,
+            "nhân viên": 1,
+            "trải nghiệm": 1,
+            "kỳ nghỉ": 1,
+            "trẻ hóa": 1,
+            "- hyatt": 1
+        }
     }
 ]

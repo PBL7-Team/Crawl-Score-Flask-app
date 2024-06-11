@@ -86,6 +86,94 @@
             "https://www.tripadvisor.com/Attraction_Review-g53933-d268428-Reviews-Chanticleer-Wayne_Pennsylvania.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g13163545-d14111562-Reviews-Phong_Nha_Private_Driver-Phong_Nha_Quang_Binh_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g13163545-d14111562-Reviews-Phong_Nha_Private_Driver-Phong_Nha_Quang_Binh_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "phong nah khe bàng": 0.5414643222466111,
+            "chuyến đi": 0.895341609721072,
+            "cây cầu biên": 0.5,
+            "loại cây": 0.9892039590049535,
+            "nhà hàng địa": 0.9952217092504725,
+            "bữa trưa": 0.7475830923358444,
+            "phong nha": 0.48799371626228094,
+            "khách sạn": 0.8637768621556461,
+            "sân bay": 0.5038303434848785,
+            "chuyến tham quan": -0.9290652400813997,
+            "văn hóa": 0.6341773960739374,
+            "lịch sử": 0.5518191829323769,
+            "gia đình công": 0.8737691454589367,
+            "tài xế": 0.9955196342198178,
+            "khu vực": 0.9953149815555662,
+            "ga xe lửa": 0.5
+        },
+        "dicts_adj": {
+            "phong nah khe bàng": [],
+            "chuyến đi": [
+                "cụ thể",
+                "thú vị",
+                "thú vị",
+                "phong phú",
+                "vui vẻ",
+                "suốt"
+            ],
+            "cây cầu biên": [],
+            "loại cây": [
+                "quan trọng",
+                "nhiều",
+                "bình thường",
+                "khác",
+                "thực sự",
+                "phong phú",
+                "đặc biệt"
+            ],
+            "nhà hàng địa": [
+                "ngon"
+            ],
+            "bữa trưa": [
+                "xuất sắc"
+            ],
+            "phong nha": [
+                "khác"
+            ],
+            "khách sạn": [
+                "kịp thời"
+            ],
+            "sân bay": [],
+            "chuyến tham quan": [
+                "nhanh chóng",
+                "chính xác"
+            ],
+            "văn hóa": [],
+            "lịch sử": [],
+            "gia đình công": [
+                "thực sự"
+            ],
+            "tài xế": [
+                "tuyệt vời"
+            ],
+            "khu vực": [
+                "tuyệt vời"
+            ],
+            "ga xe lửa": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "phong nah khe bàng": 1,
+            "chuyến đi": 1,
+            "cây cầu biên": 1,
+            "loại cây": 1,
+            "nhà hàng địa": 1,
+            "bữa trưa": 2,
+            "phong nha": 3,
+            "khách sạn": 1,
+            "sân bay": 1,
+            "chuyến tham quan": 1,
+            "văn hóa": 1,
+            "lịch sử": 1,
+            "gia đình công": 1,
+            "tài xế": 1,
+            "khu vực": 1,
+            "ga xe lửa": 1
+        }
     }
 ]

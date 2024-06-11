@@ -113,6 +113,197 @@
             "https://www.tripadvisor.com/Attraction_Review-g815372-d315706-Reviews-Catedral_De_Sal_De_Zipaquira-Zipaquira_Cundinamarca_Department.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12574925-Reviews-Chau_Loan_Leather-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12574925-Reviews-Chau_Loan_Leather-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9931181949796155,
+            "dép": 0.5,
+            "giày da theo": 0.5,
+            "cửa hàng": 0.5159984949452336,
+            "nhân viên": -0.03353605007578153,
+            "cho giày": 0.5,
+            "thiết kế bốt": -0.9640747180674225,
+            "giày": 0.7326717592143853,
+            "đo lường": -0.970107966219075,
+            "ký túc xá": 0.5,
+            "chuyến bay": -0.9429016101639718,
+            "cửa hàng đồ da": 0.5,
+            "dịch vụ": 0.8737691454589367,
+            "câu chuyện": 0.5,
+            "chất lượng": 0.99459674845275,
+            "giá": 0.7476938907348085,
+            "bàn chân": -0.4084139186888933,
+            "phong cách": 0.8726583315001335,
+            "đôi chân": 0.9767458508722484,
+            "số đo": 0.6594106703996658,
+            "sản phẩm": 0.9933910786639899,
+            "của shop": 0.9952528938883916,
+            "đôi": 0.7778322185622528,
+            "thắt lưng": -0.820149150211364,
+            "giày hai": 0.5,
+            "bộ đồ": 0.5,
+            "túi da giày da": 0.5,
+            "thắt lưng da": 0.5,
+            "vành đai là": 0.9933907642262056,
+            "túi xách": 0.9559408654458821,
+            "dấu chân": 0.953788205049932
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời",
+                "to",
+                "khó",
+                "thực sự",
+                "thú vị"
+            ],
+            "dép": [],
+            "giày da theo": [],
+            "cửa hàng": [
+                "khó chịu",
+                "thoải mái",
+                "vui vẻ",
+                "cùng",
+                "cẩn thận",
+                "hoàn toàn",
+                "thực sự",
+                "tuyệt vời",
+                "nhanh chóng",
+                "dễ dàng",
+                "nhỏ"
+            ],
+            "nhân viên": [
+                "khó chịu",
+                "thoải mái",
+                "vui vẻ",
+                "cùng",
+                "cẩn thận"
+            ],
+            "cho giày": [],
+            "thiết kế bốt": [
+                "đơn giản",
+                "đen",
+                "phức tạp"
+            ],
+            "giày": [
+                "tốt",
+                "Đơn giản",
+                "nhanh",
+                "hoàn hảo",
+                "thoải mái",
+                "vừa vặn",
+                "hoàn hảo",
+                "hào hứng",
+                "đầy",
+                "nhiều"
+            ],
+            "đo lường": [
+                "xấu",
+                "chính xác"
+            ],
+            "ký túc xá": [],
+            "chuyến bay": [
+                "khác"
+            ],
+            "cửa hàng đồ da": [],
+            "dịch vụ": [
+                "thân thiện"
+            ],
+            "câu chuyện": [],
+            "chất lượng": [
+                "tuyệt vời",
+                "duy nhất",
+                "tuyệt vời"
+            ],
+            "giá": [
+                "tuyệt vời"
+            ],
+            "bàn chân": [
+                "nhỏ",
+                "hơn",
+                "khác"
+            ],
+            "phong cách": [
+                "hoàn hảo",
+                "thoải mái",
+                "vừa vặn",
+                "hoàn hảo"
+            ],
+            "đôi chân": [
+                "rõ",
+                "chuyên nghiệp"
+            ],
+            "số đo": [
+                "chắc chắn"
+            ],
+            "sản phẩm": [
+                "nhiều",
+                "vui",
+                "tốt",
+                "nhiều",
+                "vui",
+                "nhiều",
+                "vui"
+            ],
+            "của shop": [
+                "nhiều",
+                "vui",
+                "nhiều",
+                "vui",
+                "nhiều",
+                "vui"
+            ],
+            "đôi": [
+                "đầy",
+                "nhiều",
+                "hoàn hảo"
+            ],
+            "thắt lưng": [
+                "đầy",
+                "nhiều"
+            ],
+            "giày hai": [],
+            "bộ đồ": [],
+            "túi da giày da": [],
+            "thắt lưng da": [],
+            "vành đai là": [
+                "tốt"
+            ],
+            "túi xách": [],
+            "dấu chân": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 0.5,
+            "dép": 0.5,
+            "giày da theo": 0.5,
+            "cửa hàng": 2.5,
+            "nhân viên": 1.0,
+            "cho giày": 0.5,
+            "thiết kế bốt": 0.5,
+            "giày": 3.5,
+            "đo lường": 0.5,
+            "ký túc xá": 0.5,
+            "chuyến bay": 0.5,
+            "cửa hàng đồ da": 0.5,
+            "dịch vụ": 0.5,
+            "câu chuyện": 0.5,
+            "chất lượng": 1.0,
+            "giá": 1.0,
+            "bàn chân": 0.5,
+            "phong cách": 0.5,
+            "đôi chân": 0.5,
+            "số đo": 0.5,
+            "sản phẩm": 2.0,
+            "của shop": 1.5,
+            "đôi": 0.5,
+            "thắt lưng": 0.5,
+            "giày hai": 0.5,
+            "bộ đồ": 0.5,
+            "túi da giày da": 0.5,
+            "thắt lưng da": 0.5,
+            "vành đai là": 0.5,
+            "túi xách": 0.5,
+            "dấu chân": 0.5
+        }
     }
 ]

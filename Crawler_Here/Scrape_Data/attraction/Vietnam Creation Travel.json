@@ -65,6 +65,80 @@
             "https://www.tripadvisor.com/Attraction_Review-g55197-d8870600-Reviews-Main_Event_Entertainment-Memphis_Tennessee.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d11725803-Reviews-Vietnam_Creation_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d11725803-Reviews-Vietnam_Creation_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tàu": 0.5,
+            "đảo": 0.745608180121053,
+            "vịnh": 0.6868845727294683,
+            "vịnh bái": 0.5,
+            "nhân viên": 0.9803502273280174,
+            "dịch vụ": 0.8737691454589367,
+            "trải nghiệm": 0.5,
+            "chuyến đi": 0.9940968491719104,
+            "giá": 0.9920917224953882,
+            "tom": 0.9942806046456099,
+            "du thuyền": 0.5,
+            "thuyền": 0.5,
+            "hành trình": 0.8737691454589367,
+            "bái": 0.8737691454589367,
+            "phi hành đoàn": 0.5
+        },
+        "dicts_adj": {
+            "tàu": [],
+            "đảo": [
+                "hợp lý"
+            ],
+            "vịnh": [
+                "độc đáo",
+                "độc đáo"
+            ],
+            "vịnh bái": [],
+            "nhân viên": [
+                "tốt"
+            ],
+            "dịch vụ": [
+                "tốt"
+            ],
+            "trải nghiệm": [],
+            "chuyến đi": [
+                "hợp lý",
+                "vui"
+            ],
+            "giá": [
+                "hợp lý"
+            ],
+            "tom": [
+                "vui vẻ",
+                "vui lòng"
+            ],
+            "du thuyền": [],
+            "thuyền": [],
+            "hành trình": [
+                "độc đáo"
+            ],
+            "bái": [
+                "độc đáo"
+            ],
+            "phi hành đoàn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tàu": 1.0,
+            "đảo": 1.0,
+            "vịnh": 1.0,
+            "vịnh bái": 0.5,
+            "nhân viên": 0.5,
+            "dịch vụ": 0.5,
+            "trải nghiệm": 0.5,
+            "chuyến đi": 1.0,
+            "giá": 0.5,
+            "tom": 0.5,
+            "du thuyền": 0.5,
+            "thuyền": 0.5,
+            "hành trình": 0.5,
+            "bái": 0.5,
+            "phi hành đoàn": 0.5
+        }
     }
 ]
