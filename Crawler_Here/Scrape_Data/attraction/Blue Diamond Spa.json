@@ -89,7 +89,94 @@
             "https://www.tripadvisor.com/Attraction_Review-g187891-d4432786-Reviews-Lido_Arenella-Syracuse_Province_of_Syracuse_Sicily.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d11889523-Reviews-Blue_Diamond_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d11889523-Reviews-Blue_Diamond_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "phương pháp điều trị mụn": 0.8310018163174391,
+            "công nghệ cao": 0.9928328295936808,
+            "liệu trình chăm sóc da mặt": 0.9952514338074252,
+            "chống lão hóa": 0.9754758607596159,
+            "dịch vụ chăm sóc móng": 0.9028892111964524,
+            "massage": 0.99368036177475,
+            "bác sĩ": 0.9812640637392178,
+            "trị liệu ấn": 0.9785862644203007,
+            "spa": 0.9944048853358254,
+            "giá cả": 0.9921245483565144,
+            "dịch vụ": 0.5,
+            "dịch vụ mát-xa rất tốt": 0.9952586746658199,
+            "giá": 0.44029094837605953,
+            "phòng": 0.5422588475048542,
+            "mát-xa": 0.7095270603119085
+        },
+        "dicts_adj": {
+            "phương pháp điều trị mụn": [
+                "tốt"
+            ],
+            "công nghệ cao": [
+                "tốt"
+            ],
+            "liệu trình chăm sóc da mặt": [
+                "tuyệt vời"
+            ],
+            "chống lão hóa": [
+                "tuyệt vời"
+            ],
+            "dịch vụ chăm sóc móng": [
+                "tuyệt vời",
+                "cùng"
+            ],
+            "massage": [
+                "tốt",
+                "hài lòng"
+            ],
+            "bác sĩ": [
+                "tốt"
+            ],
+            "trị liệu ấn": [
+                "tốt"
+            ],
+            "spa": [
+                "hợp lý"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "dịch vụ": [],
+            "dịch vụ mát-xa rất tốt": [
+                "an toàn"
+            ],
+            "giá": [
+                "phải",
+                "rẻ",
+                "nhất"
+            ],
+            "phòng": [
+                "riêng"
+            ],
+            "mát-xa": [
+                "rẻ",
+                "hơn",
+                "chung"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "phương pháp điều trị mụn": 0.5,
+            "công nghệ cao": 0.5,
+            "liệu trình chăm sóc da mặt": 0.5,
+            "chống lão hóa": 0.5,
+            "dịch vụ chăm sóc móng": 0.5,
+            "massage": 1.0,
+            "bác sĩ": 0.5,
+            "trị liệu ấn": 0.5,
+            "spa": 0.5,
+            "giá cả": 0.5,
+            "dịch vụ": 0.5,
+            "dịch vụ mát-xa rất tốt": 0.5,
+            "giá": 0.5,
+            "phòng": 0.5,
+            "mát-xa": 0.5
+        }
     },
     {
         "attraction_name": "Blue Diamond Spa",
@@ -181,6 +268,26 @@
             "https://www.tripadvisor.com/Attraction_Review-g187891-d4432786-Reviews-Lido_Arenella-Syracuse_Province_of_Syracuse_Sicily.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d11889523-Reviews-Blue_Diamond_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d11889523-Reviews-Blue_Diamond_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "công nghệ": 0.9906311244703829,
+            "khuôn mặt chống lão hóa": 0.9946307938080281
+        },
+        "dicts_adj": {
+            "công nghệ": [
+                "tốt"
+            ],
+            "khuôn mặt chống lão hóa": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "cùng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "công nghệ": 0.5,
+            "khuôn mặt chống lão hóa": 0.5
+        }
     }
 ]

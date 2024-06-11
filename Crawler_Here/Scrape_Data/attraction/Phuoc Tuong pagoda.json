@@ -87,6 +87,51 @@
             "https://www.tripadvisor.com/Attraction_Review-g54105-d12350482-Reviews-Newport_Car_Museum-Portsmouth_Rhode_Island.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8631037-Reviews-Phuoc_Tuong_pagoda-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8631037-Reviews-Phuoc_Tuong_pagoda-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chùa": 0.8737691454589367,
+            "tòa nhà": 0.76095982757397,
+            "tầm nhìn ra biển": 0.9942921120673418,
+            "ngôi chùa": 0.8541795940545853,
+            "đám đông": 0.9895525370084215,
+            "tín đồ phật giáo": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "chùa": [
+                "nhiều"
+            ],
+            "tòa nhà": [
+                "mới",
+                "hiện đại"
+            ],
+            "tầm nhìn ra biển": [
+                "Nhiều",
+                "đẹp"
+            ],
+            "ngôi chùa": [
+                "đẹp",
+                "sạch sẽ",
+                "Phật giáo",
+                "tốt"
+            ],
+            "đám đông": [
+                "đẹp",
+                "sạch sẽ"
+            ],
+            "tín đồ phật giáo": [
+                "Phật giáo",
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chùa": 1,
+            "tòa nhà": 1,
+            "tầm nhìn ra biển": 1,
+            "ngôi chùa": 0.5,
+            "đám đông": 0.5,
+            "tín đồ phật giáo": 0.5
+        }
     }
 ]

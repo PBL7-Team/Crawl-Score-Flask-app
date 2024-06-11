@@ -10,19 +10,6 @@ services:
       - FLASK_ENV=production
     ports:
       - "8080:8080"
-    depends_on:
-      - redis
     volumes:
       - .:/flask-app
     working_dir: /flask-app
-
-  redis:
-    image: "redis:alpine"
-    container_name: redis-container
-    ports:
-      - "6379:6379"
-    volumes:
-      - redis-data:/data
-
-volumes:
-  redis-data:

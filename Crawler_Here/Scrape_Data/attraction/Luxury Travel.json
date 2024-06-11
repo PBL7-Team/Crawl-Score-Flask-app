@@ -99,7 +99,300 @@
             "https://www.tripadvisor.com/Attraction_Review-g30712-d3184248-Reviews-Wind_Creek_Montgomery-Montgomery_Alabama.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293923-d7940239-Reviews-or10-Luxury_Travel-Halong_Bay_Quang_Ninh_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d7940239-Reviews-Luxury_Travel-Halong_Bay_Quang_Ninh_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d7940239-Reviews-Luxury_Travel-Halong_Bay_Quang_Ninh_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "kỳ nghỉ": 0.9955278487177566,
+            "chuyến đi": 0.9848617742827628,
+            "địa điểm": 0.9954135369043797,
+            "khách sạn": -0.13228713674470782,
+            "điểm đến": 0.973149755038321,
+            "thung lũng xanh mường hoa": 0.9910146574256942,
+            "chuyến thăm nhà người mông": 0.9824182845186442,
+            "bữa trưa": 0.7023953516036272,
+            "ngôi nhà": 0.9955146193387918,
+            "chuyến tham": 0.9456962863332592,
+            "tour du lịch": 0.5,
+            "đảo cát": 0.986006312770769,
+            "chuyến đi bộ": 0.8737691454589367,
+            "rừng rậm": 0.9928978389361873,
+            "chuyến": 0.8019199304981157,
+            "chèo thuyền kayak": 0.7799312814604491,
+            "đầm nước": 0.969115448417142,
+            "thức ăn": 0.9346241378225386,
+            "thuyền": 0.9956179580767639,
+            "đường hầm thành phố đồng bằng sông cửu long": 0.6830870434641838,
+            "hướng dẫn viên du lịch": 0.8737691454589367,
+            "chuyến du lịch mê": 0.8737691454589367,
+            "đường hầm": 0.8737691454589367,
+            "ty du lịch": 0.9953699524048716,
+            "hướng dẫn viên": 0.8907916197592082,
+            "chuyến tham quan địa đạo": 0.5,
+            "lịch sử việt": 0.993374762008898,
+            "nhà máy rượu vang": 0.9944401445682161,
+            "sân bay": 0.9823395719868131,
+            "hành trình": 0.9661003119836096,
+            "dịch vụ": 0.9948586286045611,
+            "trải nghiệm": 0.9955759237442786,
+            "ty du lịch cao": 0.9277484575286508,
+            "chuyến đi xe": 0.7417748941807076,
+            "trung tâm vùng đồng bằng": 0.5049897786229849,
+            "chuyến viếng": 0.5216883756220341,
+            "chuyến tham quan": 0.462250679731369,
+            "hòn đảo": 0.5751833217218518,
+            "kẹo dừa ong": 0.3710856419056654,
+            "mật ong": 0.4739272575825453,
+            "âm nhạc": 0.4856456220149994,
+            "vùng nước": -0.21559793688356876,
+            "taxi nước": 0.5104908077046275,
+            "xe": 0.6504305167472921,
+            "giá trị": 0.9825829155743122,
+            "đồng bằng sông cửu long": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "kỳ nghỉ": [
+                "hoàn hảo"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "Cuối cùng",
+                "kém",
+                "quan trọng",
+                "sẵn sàng",
+                "suốt",
+                "tuyệt vời",
+                "khoảng",
+                "tuyệt vời",
+                "gần",
+                "thường xuyên",
+                "thú vị",
+                "đầy",
+                "tuyệt vời",
+                "khoảng",
+                "tuyệt vời",
+                "gần",
+                "thường xuyên",
+                "thú vị",
+                "đầy",
+                "gần",
+                "thường xuyên",
+                "thú vị",
+                "đầy"
+            ],
+            "địa điểm": [
+                "tuyệt vời"
+            ],
+            "khách sạn": [
+                "tử tế",
+                "tốt"
+            ],
+            "điểm đến": [
+                "tử tế"
+            ],
+            "thung lũng xanh mường hoa": [],
+            "chuyến thăm nhà người mông": [
+                "thú vị",
+                "rõ",
+                "hơn"
+            ],
+            "bữa trưa": [
+                "ngon",
+                "nhỏ",
+                "hơn"
+            ],
+            "ngôi nhà": [
+                "ngon"
+            ],
+            "chuyến tham": [
+                "nổi bật"
+            ],
+            "tour du lịch": [],
+            "đảo cát": [],
+            "chuyến đi bộ": [
+                "xanh tươi"
+            ],
+            "rừng rậm": [
+                "xanh tươi"
+            ],
+            "chuyến": [
+                "khó",
+                "độc đáo"
+            ],
+            "chèo thuyền kayak": [
+                "khó",
+                "độc đáo"
+            ],
+            "đầm nước": [
+                "khó",
+                "độc đáo"
+            ],
+            "thức ăn": [
+                "ngon",
+                "ngon",
+                "tuyệt vời"
+            ],
+            "thuyền": [
+                "ngon",
+                "ngon"
+            ],
+            "đường hầm thành phố đồng bằng sông cửu long": [
+                "cùng"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "am hiểu"
+            ],
+            "chuyến du lịch mê": [
+                "tuyệt vời",
+                "am hiểu"
+            ],
+            "đường hầm": [
+                "nổi bật"
+            ],
+            "ty du lịch": [],
+            "hướng dẫn viên": [
+                "tốt",
+                "tử tế",
+                "tử tế",
+                "thân thiện",
+                "đầy đủ",
+                "tốt",
+                "an toàn",
+                "cẩn thận",
+                "đông đúc",
+                "tử tế"
+            ],
+            "chuyến tham quan địa đạo": [],
+            "lịch sử việt": [
+                "tuyệt",
+                "cá nhân"
+            ],
+            "nhà máy rượu vang": [
+                "Gần",
+                "khó",
+                "ngon nếm",
+                "tổng quan",
+                "xinh đẹp"
+            ],
+            "sân bay": [
+                "tuyệt vời",
+                "suốt"
+            ],
+            "hành trình": [
+                "tuyệt vời",
+                "suốt"
+            ],
+            "dịch vụ": [
+                "tốt bụng"
+            ],
+            "trải nghiệm": [
+                "nhiều",
+                "khác",
+                "nhiều",
+                "khác",
+                "nhiều",
+                "tích cực",
+                "khác"
+            ],
+            "ty du lịch cao": [
+                "cao cấp",
+                "cao cấp",
+                "cao cấp"
+            ],
+            "chuyến đi xe": [
+                "nhỏ",
+                "tốt"
+            ],
+            "trung tâm vùng đồng bằng": [
+                "gần"
+            ],
+            "chuyến viếng": [
+                "gần"
+            ],
+            "chuyến tham quan": [
+                "gần"
+            ],
+            "hòn đảo": [
+                "gần"
+            ],
+            "kẹo dừa ong": [
+                "tam bản"
+            ],
+            "mật ong": [
+                "tam bản"
+            ],
+            "âm nhạc": [
+                "tam bản"
+            ],
+            "vùng nước": [
+                "đông đúc"
+            ],
+            "taxi nước": [
+                "nhỏ",
+                "hơn"
+            ],
+            "xe": [
+                "nhỏ",
+                "tốt"
+            ],
+            "giá trị": [
+                "tốt"
+            ],
+            "đồng bằng sông cửu long": [
+                "tuyệt vời",
+                "khoảng",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "kỳ nghỉ": 1,
+            "chuyến đi": 3.0,
+            "địa điểm": 1,
+            "khách sạn": 2.0,
+            "điểm đến": 1,
+            "thung lũng xanh mường hoa": 0.5,
+            "chuyến thăm nhà người mông": 0.5,
+            "bữa trưa": 1.0,
+            "ngôi nhà": 0.5,
+            "chuyến tham": 1.0,
+            "tour du lịch": 0.5,
+            "đảo cát": 0.5,
+            "chuyến đi bộ": 0.5,
+            "rừng rậm": 0.5,
+            "chuyến": 0.5,
+            "chèo thuyền kayak": 0.5,
+            "đầm nước": 0.5,
+            "thức ăn": 1.0,
+            "thuyền": 0.5,
+            "đường hầm thành phố đồng bằng sông cửu long": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "chuyến du lịch mê": 0.5,
+            "đường hầm": 0.5,
+            "ty du lịch": 0.5,
+            "hướng dẫn viên": 3.0,
+            "chuyến tham quan địa đạo": 0.5,
+            "lịch sử việt": 0.5,
+            "nhà máy rượu vang": 0.5,
+            "sân bay": 0.5,
+            "hành trình": 0.5,
+            "dịch vụ": 0.5,
+            "trải nghiệm": 1.5,
+            "ty du lịch cao": 1.5,
+            "chuyến đi xe": 0.5,
+            "trung tâm vùng đồng bằng": 0.5,
+            "chuyến viếng": 0.5,
+            "chuyến tham quan": 0.5,
+            "hòn đảo": 0.5,
+            "kẹo dừa ong": 0.5,
+            "mật ong": 0.5,
+            "âm nhạc": 0.5,
+            "vùng nước": 0.5,
+            "taxi nước": 0.5,
+            "xe": 0.5,
+            "giá trị": 0.5,
+            "đồng bằng sông cửu long": 0.5
+        }
     },
     {
         "attraction_name": "Luxury Travel",
@@ -194,7 +487,221 @@
             "https://www.tripadvisor.com/Attraction_Review-g190454-d246612-Reviews-Stephansplatz-Vienna.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293923-d7940239-Reviews-or20-Luxury_Travel-Halong_Bay_Quang_Ninh_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d7940239-Reviews-or10-Luxury_Travel-Halong_Bay_Quang_Ninh_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d7940239-Reviews-or10-Luxury_Travel-Halong_Bay_Quang_Ninh_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9266994876800001,
+            "phiền toái": 0.9890467328950763,
+            "dịch vụ": 0.9948436575359665,
+            "tour": 0.5,
+            "thung lũng bắc": 0.5,
+            "quang cảnh": 0.9954224441898987,
+            "chủ nhà": 0.5,
+            "người dân địa phương": 0.5,
+            "thung lũng": 0.8737691454589367,
+            "ngũ du lịch": 0.9955282415612601,
+            "nhân viên": 0.8737691454589367,
+            "khu nghỉ dưỡng": 0.5,
+            "chuyến tham quan": 0.9953170737135224,
+            "xe máy lạnh": 0.9842683863826096,
+            "điểm tham quan": 0.9136166940443218,
+            "hướng dẫn viên": 0.8737691454589367,
+            "di tích chùa": 0.5799077227711678,
+            "trải nghiệm": 0.9832996929762885,
+            "quà tặng": 0.5,
+            "kỳ nghỉ": 0.8299105780897662,
+            "hành trình": 0.9947977981355507,
+            "đỉnh nalay": 0.8737691454589367,
+            "tour du lịch": 0.9836313271953259,
+            "chuyến du": 0.9784589037299156,
+            "thế giới": 0.9950566238258034,
+            "thủy": 0.8737691454589367,
+            "thủ": 0.9953817341593094,
+            "đồ lưu niệm": 0.9937427763361484,
+            "bức ảnh": 0.9951538586756214,
+            "phong cảnh": 0.9930039494065568,
+            "du thuyền": 0.5341005865484476,
+            "vịnh": 0.5,
+            "ngắm cảnh hoàng": 0.9941334807081148,
+            "phố cổ": 0.5,
+            "thuyền trưởng": 0.8737691454589367,
+            "phi hành đoàn": 0.9954072403779719,
+            "đội ngũ": 0.9831033137161285
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "tuyệt vời",
+                "hoàn hảo",
+                "tuyệt vời",
+                "thích thú",
+                "ấn tượng",
+                "vui",
+                "tử tế",
+                "lớn",
+                "tuyệt vời",
+                "sang trọng",
+                "vui mừng",
+                "tuyệt vời",
+                "vui"
+            ],
+            "phiền toái": [
+                "bất kỳ",
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "kịp",
+                "tuyệt vời",
+                "trung thực",
+                "to lớn",
+                "tuyệt vời",
+                "trung thực",
+                "to lớn",
+                "vui",
+                "hài lòng"
+            ],
+            "tour": [],
+            "thung lũng bắc": [],
+            "quang cảnh": [
+                "tuyệt vời"
+            ],
+            "chủ nhà": [],
+            "người dân địa phương": [],
+            "thung lũng": [
+                "tuyệt vời",
+                "thích thú"
+            ],
+            "ngũ du lịch": [
+                "sang trọng"
+            ],
+            "nhân viên": [
+                "tuyệt vời"
+            ],
+            "khu nghỉ dưỡng": [],
+            "chuyến tham quan": [
+                "nổi bật",
+                "nhiều",
+                "vui vẻ",
+                "tốt",
+                "tốt"
+            ],
+            "xe máy lạnh": [
+                "mới"
+            ],
+            "điểm tham quan": [
+                "đông đúc",
+                "tốt đẹp"
+            ],
+            "hướng dẫn viên": [
+                "đông đúc",
+                "tốt đẹp",
+                "hữu ích",
+                "nhiều"
+            ],
+            "di tích chùa": [],
+            "trải nghiệm": [
+                "đặc biệt",
+                "nhiều"
+            ],
+            "quà tặng": [],
+            "kỳ nghỉ": [],
+            "hành trình": [
+                "tuyệt vời"
+            ],
+            "đỉnh nalay": [
+                "tuyệt vời"
+            ],
+            "tour du lịch": [
+                "cao",
+                "thực sự",
+                "tốt"
+            ],
+            "chuyến du": [
+                "cùng",
+                "cùng",
+                "riêng"
+            ],
+            "thế giới": [
+                "tuyệt vời"
+            ],
+            "thủy": [
+                "hoàn hảo"
+            ],
+            "thủ": [
+                "hoàn hảo"
+            ],
+            "đồ lưu niệm": [
+                "đẹp"
+            ],
+            "bức ảnh": [
+                "đẹp"
+            ],
+            "phong cảnh": [
+                "thực sự",
+                "khuyên bạn",
+                "riêng",
+                "độc đáo"
+            ],
+            "du thuyền": [
+                "riêng"
+            ],
+            "vịnh": [],
+            "ngắm cảnh hoàng": [
+                "tuyệt vời"
+            ],
+            "phố cổ": [],
+            "thuyền trưởng": [
+                "hữu ích",
+                "nhiều"
+            ],
+            "phi hành đoàn": [
+                "hữu ích",
+                "nhiều"
+            ],
+            "đội ngũ": [
+                "rõ ràng",
+                "lâu dài"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 4.5,
+            "phiền toái": 0.5,
+            "dịch vụ": 2.0,
+            "tour": 0.5,
+            "thung lũng bắc": 0.5,
+            "quang cảnh": 0.5,
+            "chủ nhà": 0.5,
+            "người dân địa phương": 0.5,
+            "thung lũng": 0.5,
+            "ngũ du lịch": 0.5,
+            "nhân viên": 0.5,
+            "khu nghỉ dưỡng": 0.5,
+            "chuyến tham quan": 0.5,
+            "xe máy lạnh": 0.5,
+            "điểm tham quan": 0.5,
+            "hướng dẫn viên": 1.0,
+            "di tích chùa": 0.5,
+            "trải nghiệm": 0.5,
+            "quà tặng": 0.5,
+            "kỳ nghỉ": 1.5,
+            "hành trình": 1.0,
+            "đỉnh nalay": 0.5,
+            "tour du lịch": 1.0,
+            "chuyến du": 0.5,
+            "thế giới": 0.5,
+            "thủy": 0.5,
+            "thủ": 0.5,
+            "đồ lưu niệm": 0.5,
+            "bức ảnh": 0.5,
+            "phong cảnh": 0.5,
+            "du thuyền": 0.5,
+            "vịnh": 0.5,
+            "ngắm cảnh hoàng": 0.5,
+            "phố cổ": 0.5,
+            "thuyền trưởng": 0.5,
+            "phi hành đoàn": 0.5,
+            "đội ngũ": 0.5
+        }
     },
     {
         "attraction_name": "Luxury Travel",
@@ -271,6 +778,156 @@
             "https://www.tripadvisor.com/Attraction_Review-g60973-d325199-Reviews-Medora_Riding_Stables-Medora_North_Dakota.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d7940239-Reviews-or20-Luxury_Travel-Halong_Bay_Quang_Ninh_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d7940239-Reviews-or20-Luxury_Travel-Halong_Bay_Quang_Ninh_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tour du lịch": 0.9939403065945953,
+            "khách sạn": 0.8419950950192288,
+            "chuyến tham quan": 0.5511437114328146,
+            "thuyền buồm lợp tranh truyền": -0.6886027809232473,
+            "loại thuyền": 0.9952402660856023,
+            "hướng dẫn viên": 0.941099780931836,
+            "làng nổi": 0.5,
+            "bữa trưa hải sản": 0.25689789094030857,
+            "bữa trưa": 0.9947041614213958,
+            "hang động": 0.9954262185492553,
+            "dịch vụ": 0.9222333203069866,
+            "chuyến đi": 0.9237634386559616,
+            "trải nghiệm": 0.9953555963002145,
+            "văn hóa": 0.5,
+            "kỳ nghỉ": 0.5,
+            "tin du lịch": 0.9954189055715688,
+            "bộ lạc": 0.5,
+            "làng thủ": 0.5,
+            "ngôi làng": 0.5,
+            "nghề thủ công": 0.5,
+            "chiếc": 0.5,
+            "mũ rơm": 0.5,
+            "cử chỉ": 0.9950868193991482,
+            "phương tiện": 0.8737691454589367,
+            "chiếc xe": 0.7402373190464763,
+            "không gian": 0.5,
+            "máy bay": 0.6583070573396981
+        },
+        "dicts_adj": {
+            "tour du lịch": [
+                "gần"
+            ],
+            "khách sạn": [
+                "khoảng",
+                "đẹp"
+            ],
+            "chuyến tham quan": [
+                "riêng",
+                "cảm hứng"
+            ],
+            "thuyền buồm lợp tranh truyền": [],
+            "loại thuyền": [
+                "vội vã",
+                "chậm rãi",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "độc đáo",
+                "chân thành",
+                "nhiều",
+                "xuất sắc"
+            ],
+            "làng nổi": [],
+            "bữa trưa hải sản": [],
+            "bữa trưa": [
+                "tuyệt vời"
+            ],
+            "hang động": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "cao"
+            ],
+            "chuyến đi": [
+                "nhiều",
+                "chi tiết",
+                "gần",
+                "cảm hứng",
+                "khác",
+                "giống",
+                "khác",
+                "cuối cùng",
+                "tốt",
+                "tuyệt vời",
+                "khó",
+                "may mắn",
+                "tuyệt vời",
+                "chuyên nghiệp",
+                "rẻ",
+                "hơn"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "khó"
+            ],
+            "văn hóa": [],
+            "kỳ nghỉ": [],
+            "tin du lịch": [
+                "vui",
+                "nhiều"
+            ],
+            "bộ lạc": [],
+            "làng thủ": [],
+            "ngôi làng": [],
+            "nghề thủ công": [],
+            "chiếc": [],
+            "mũ rơm": [],
+            "cử chỉ": [
+                "thú vị",
+                "riêng",
+                "tốt đẹp"
+            ],
+            "phương tiện": [
+                "lớn",
+                "đẹp",
+                "nhiều"
+            ],
+            "chiếc xe": [
+                "lớn",
+                "đẹp",
+                "nhiều"
+            ],
+            "không gian": [],
+            "máy bay": [
+                "rẻ",
+                "hơn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tour du lịch": 0.5,
+            "khách sạn": 1.5,
+            "chuyến tham quan": 1.0,
+            "thuyền buồm lợp tranh truyền": 0.5,
+            "loại thuyền": 0.5,
+            "hướng dẫn viên": 2.0,
+            "làng nổi": 0.5,
+            "bữa trưa hải sản": 0.5,
+            "bữa trưa": 0.5,
+            "hang động": 0.5,
+            "dịch vụ": 0.5,
+            "chuyến đi": 3.5,
+            "trải nghiệm": 1.5,
+            "văn hóa": 0.5,
+            "kỳ nghỉ": 0.5,
+            "tin du lịch": 0.5,
+            "bộ lạc": 1,
+            "làng thủ": 1,
+            "ngôi làng": 1,
+            "nghề thủ công": 1,
+            "chiếc": 1,
+            "mũ rơm": 1,
+            "cử chỉ": 1,
+            "phương tiện": 1,
+            "chiếc xe": 1,
+            "không gian": 1,
+            "máy bay": 1
+        }
     }
 ]

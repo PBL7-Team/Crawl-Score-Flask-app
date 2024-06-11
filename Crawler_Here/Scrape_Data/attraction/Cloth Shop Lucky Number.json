@@ -1204,7 +1204,193 @@
             "https://www.tripadvisor.com/Attraction_Review-g60632-d2454569-Reviews-Kamaole_Beach_Park_II-Kihei_Maui_Hawaii.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d4572943-Reviews-or20-Cloth_Shop_Lucky_Number-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4572943-Reviews-or10-Cloth_Shop_Lucky_Number-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4572943-Reviews-or10-Cloth_Shop_Lucky_Number-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "áo sơ mi": 0.6954979691654444,
+            "áo cánh": 0.5,
+            "bộ áo liền quần": 0.5,
+            "váy": -0.05901423402247019,
+            "bộ": -0.5405964469537139,
+            "quần áo liền quần": -0.5240193447098136,
+            "áo khác": -0.9685676039662212,
+            "áo khoác dài": 0.8737691454589367,
+            "chất": 0.13963161781430244,
+            "vải": 0.1462106853723526,
+            "nhà kho": 0.4969480596482754,
+            "quần áo": -0.027820282243192197,
+            "điện thoại di động": 0.5,
+            "lớp lót": 0.5015706347767264,
+            "thùng thình viền": -0.1674103062832728,
+            "túi mở": 0.7394888836424798,
+            "bực bội": -0.9720718436874449,
+            "chất lượng": 0.5,
+            "đường khâu": 0.494389109313488,
+            "áo sơ mi trắng nhạt": 0.5,
+            "túi": 0.5,
+            "áo": -0.9724871921353042,
+            "chất liệu": 0.5,
+            "thợ may": 0.5386961828917265,
+            "bộ vest": 0.4660353884100914,
+            "vải cotton lụa": 0.6316960174590349,
+            "quý": 0.8051620069891214,
+            "may vest": 0.991545248311013,
+            "món đồ đó": -0.1996686712373048,
+            "mọi thứ": 0.8737691454589367,
+            "cửa hàng": 0.5,
+            "nhân viên": 0.5755520332604647,
+            "chai nước": 0.6353094847872853,
+            "giá cả": 0.588342810049653
+        },
+        "dicts_adj": {
+            "áo sơ mi": [
+                "kém",
+                "đầu tiên",
+                "đúng"
+            ],
+            "áo cánh": [],
+            "bộ áo liền quần": [],
+            "váy": [
+                "khó",
+                "thực sự",
+                "thoải mái",
+                "đủ",
+                "lớn",
+                "đủ",
+                "lớn",
+                "hài lòng",
+                "cao",
+                "riêng",
+                "trắng",
+                "trắng",
+                "mới",
+                "sạch",
+                "bẩn"
+            ],
+            "bộ": [
+                "khó",
+                "thực sự",
+                "thoải mái"
+            ],
+            "quần áo liền quần": [
+                "khó",
+                "thực sự",
+                "thoải mái"
+            ],
+            "áo khác": [
+                "đúng"
+            ],
+            "áo khoác dài": [
+                "đắt",
+                "rộng"
+            ],
+            "chất": [
+                "đặc biệt"
+            ],
+            "vải": [
+                "đặc biệt",
+                "đặc biệt",
+                "giống"
+            ],
+            "nhà kho": [
+                "đặc biệt"
+            ],
+            "quần áo": [
+                "lớn"
+            ],
+            "điện thoại di động": [],
+            "lớp lót": [
+                "hoàn toàn",
+                "ngắn",
+                "đắt",
+                "rộng"
+            ],
+            "thùng thình viền": [
+                "hoàn toàn",
+                "ngắn"
+            ],
+            "túi mở": [
+                "hoàn toàn",
+                "ngắn"
+            ],
+            "bực bội": [
+                "thực sự",
+                "nhất"
+            ],
+            "chất lượng": [],
+            "đường khâu": [
+                "sáng"
+            ],
+            "áo sơ mi trắng nhạt": [],
+            "túi": [],
+            "áo": [
+                "khác"
+            ],
+            "chất liệu": [],
+            "thợ may": [
+                "hơn"
+            ],
+            "bộ vest": [
+                "đầu tiên"
+            ],
+            "vải cotton lụa": [
+                "đúng"
+            ],
+            "quý": [],
+            "may vest": [],
+            "món đồ đó": [
+                "nhiều",
+                "nâu"
+            ],
+            "mọi thứ": [
+                "tuyệt vời"
+            ],
+            "cửa hàng": [],
+            "nhân viên": [],
+            "chai nước": [
+                "tốt"
+            ],
+            "giá cả": [
+                "xuất sắc"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "áo sơ mi": 1.0,
+            "áo cánh": 0.5,
+            "bộ áo liền quần": 0.5,
+            "váy": 2.0,
+            "bộ": 0.5,
+            "quần áo liền quần": 0.5,
+            "áo khác": 0.5,
+            "áo khoác dài": 0.5,
+            "chất": 0.5,
+            "vải": 1.0,
+            "nhà kho": 0.5,
+            "quần áo": 2.5,
+            "điện thoại di động": 0.5,
+            "lớp lót": 0.5,
+            "thùng thình viền": 0.5,
+            "túi mở": 0.5,
+            "bực bội": 0.5,
+            "chất lượng": 0.5,
+            "đường khâu": 0.5,
+            "áo sơ mi trắng nhạt": 0.5,
+            "túi": 0.5,
+            "áo": 0.5,
+            "chất liệu": 0.5,
+            "thợ may": 0.5,
+            "bộ vest": 0.5,
+            "vải cotton lụa": 0.5,
+            "quý": 0.5,
+            "may vest": 0.5,
+            "món đồ đó": 0.5,
+            "mọi thứ": 0.5,
+            "cửa hàng": 0.5,
+            "nhân viên": 0.5,
+            "chai nước": 0.5,
+            "giá cả": 0.5
+        }
     },
     {
         "attraction_name": "Cloth Shop Lucky Number",
@@ -1315,7 +1501,180 @@
             "https://www.tripadvisor.com/Attraction_Review-g736282-d4334421-Reviews-San_Felice_Circeo-San_Felice_Circeo_Province_of_Latina_Lazio.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d4572943-Reviews-or30-Cloth_Shop_Lucky_Number-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4572943-Reviews-or20-Cloth_Shop_Lucky_Number-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4572943-Reviews-or20-Cloth_Shop_Lucky_Number-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ vest": 0.8288964919435481,
+            "áo sơ mi bộ áo liền quần": 0.5,
+            "váy": -0.11280854901997373,
+            "giá cả": 0.9742102893651463,
+            "dịch vụ": 0.7897842195622312,
+            "giá": 0.9929156162543222,
+            "bộ đồ": 0.7180986729508732,
+            "sản phẩm": 0.9928676125709899,
+            "áo sơ mi": 0.014533762587234378,
+            "nhân viên": 0.9946257714254898,
+            "quần áo": 0.5675041137340789,
+            "tiệm may": -0.23307256225962192,
+            "khách sạn": 0.49991117914517724,
+            "họ": 0.9936086125671864,
+            "cửa hàng": 0.7457826889391678,
+            "thợ may": 0.988244955718983,
+            "mức giá": 0.8976279455237091,
+            "thành phẩm": 0.9954410661011934,
+            "áo khoác nam": 0.5,
+            "quần": 0.5,
+            "chất": 0.8737691454589367,
+            "hàng": 0.9773564183851704,
+            "áo khoác": 0.41233423352241516,
+            "đam mê vest": 0.9865669759456068,
+            "bộ tuxedo": 0.9927990844007581,
+            "áo len": 0.6360687594860792,
+            "món đồ": 0.9493811023421586,
+            "bộ áo liền quần": 0.5,
+            "bộ váy": 0.5,
+            "đồng tiền": 0.5,
+            "áo khoác quần": 0.5
+        },
+        "dicts_adj": {
+            "bộ vest": [
+                "vui vẻ",
+                "tuyệt"
+            ],
+            "áo sơ mi bộ áo liền quần": [],
+            "váy": [
+                "đặc biệt",
+                "đặc biệt",
+                "tệ"
+            ],
+            "giá cả": [
+                "tuyệt vời",
+                "hợp lý"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "giá": [
+                "nhỏ",
+                "nhanh chóng",
+                "nguyên",
+                "đầu tiên"
+            ],
+            "bộ đồ": [
+                "playsuit",
+                "playsuit",
+                "đặc biệt",
+                "hữu ích",
+                "đặc biệt"
+            ],
+            "sản phẩm": [
+                "hài lòng",
+                "hài lòng"
+            ],
+            "áo sơ mi": [
+                "đặc biệt",
+                "tuyệt"
+            ],
+            "nhân viên": [
+                "hữu ích",
+                "hữu ích",
+                "đặc biệt",
+                "vui vẻ",
+                "dễ thương",
+                "kiên nhẫn"
+            ],
+            "quần áo": [
+                "đắt",
+                "hơn",
+                "vui",
+                "dài"
+            ],
+            "tiệm may": [
+                "đắt",
+                "hơn"
+            ],
+            "khách sạn": [
+                "hài lòng",
+                "hơn",
+                "nhiều"
+            ],
+            "họ": [],
+            "cửa hàng": [
+                "đẹp",
+                "duy nhất",
+                "sẵn sàng"
+            ],
+            "thợ may": [
+                "đẹp"
+            ],
+            "mức giá": [
+                "hợp lý"
+            ],
+            "thành phẩm": [],
+            "áo khoác nam": [],
+            "quần": [],
+            "chất": [
+                "tốt"
+            ],
+            "hàng": [
+                "tốt"
+            ],
+            "áo khoác": [
+                "vừa vặn",
+                "đầu tiên"
+            ],
+            "đam mê vest": [
+                "thoải mái"
+            ],
+            "bộ tuxedo": [
+                "thoải mái"
+            ],
+            "áo len": [
+                "hỏng",
+                "tốt",
+                "hơn"
+            ],
+            "món đồ": [],
+            "bộ áo liền quần": [],
+            "bộ váy": [],
+            "đồng tiền": [],
+            "áo khoác quần": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ vest": 1.5,
+            "áo sơ mi bộ áo liền quần": 0.5,
+            "váy": 2.0,
+            "giá cả": 1.0,
+            "dịch vụ": 1.5,
+            "giá": 0.5,
+            "bộ đồ": 2.0,
+            "sản phẩm": 1.0,
+            "áo sơ mi": 1.0,
+            "nhân viên": 2.0,
+            "quần áo": 1.5,
+            "tiệm may": 0.5,
+            "khách sạn": 1.0,
+            "họ": 0.5,
+            "cửa hàng": 1.5,
+            "thợ may": 0.5,
+            "mức giá": 0.5,
+            "thành phẩm": 0.5,
+            "áo khoác nam": 0.5,
+            "quần": 0.5,
+            "chất": 0.5,
+            "hàng": 0.5,
+            "áo khoác": 0.5,
+            "đam mê vest": 0.5,
+            "bộ tuxedo": 0.5,
+            "áo len": 0.5,
+            "món đồ": 0.5,
+            "bộ áo liền quần": 0.5,
+            "bộ váy": 0.5,
+            "đồng tiền": 0.5,
+            "áo khoác quần": 0.5
+        }
     },
     {
         "attraction_name": "Cloth Shop Lucky Number",
@@ -1426,7 +1785,239 @@
             "https://www.tripadvisor.com/Attraction_Review-g60814-d2177891-Reviews-Grayson_Stadium-Savannah_Georgia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d4572943-Reviews-or40-Cloth_Shop_Lucky_Number-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4572943-Reviews-or30-Cloth_Shop_Lucky_Number-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4572943-Reviews-or30-Cloth_Shop_Lucky_Number-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chất lượng": 0.4478061557165347,
+            "giá": -0.034033143281703815,
+            "mức giá": 0.5460671883192845,
+            "váy": 0.9880277558695525,
+            "giá cả": 0.8737691454589367,
+            "dịch vụ": 0.950470190437045,
+            "quần áo": 0.796895712276455,
+            "cửa hàng": 0.8408519474760396,
+            "hàng hóa": -0.9181961971335113,
+            "giá trị": -0.8245443366467953,
+            "bộ": 0.8463088894301715,
+            "bộ quần áo": 0.8614392214997982,
+            "váy váy": 0.9613701198056029,
+            "áo sơ mi": -0.32792000379413366,
+            "quý cô": 0.9955224379664287,
+            "bưu kiện": 0.9605351965874434,
+            "mức": 0.8086971044540405,
+            "bộ vest": 0.9953788859420456,
+            "áo sơ mi nam": 0.9751166473918905,
+            "nữ nhân viên": 0.9953805693658069,
+            "nhân viên": 0.9955160788570842,
+            "xe đạp": 0.48019198700785637,
+            "bộ váy": 0.9925887997378595,
+            "bộ đồ chơi": 0.9954887754865922,
+            "đường may": 0.9935229401453398,
+            "chất liệu": 0.7726228904211894,
+            "tiền": 0.7343237157911062,
+            "váy đen": 0.8940299293026328,
+            "chất liệu lụa": 0.7201465955004096,
+            "thành phẩm": 0.9952478313934989,
+            "trải nghiệm": 0.0138939717435278,
+            "áo váy": 0.9824118674732745,
+            "bộ đồ playsuit": 0.787835568189621,
+            "quần dài": 0.512616204097867,
+            "thợ may": 0.9641783477272838,
+            "đống tiền": 0.5
+        },
+        "dicts_adj": {
+            "chất lượng": [
+                "rẻ",
+                "phải",
+                "tốt"
+            ],
+            "giá": [
+                "cao",
+                "hợp lý",
+                "tốt",
+                "cao"
+            ],
+            "mức giá": [
+                "tốt",
+                "rộng rãi",
+                "cao"
+            ],
+            "váy": [],
+            "giá cả": [
+                "hợp lý",
+                "tốt"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "quần áo": [
+                "đẹp",
+                "thực sự",
+                "tuyệt vời",
+                "đẹp",
+                "riêng",
+                "nhiều",
+                "hoàn hảo"
+            ],
+            "cửa hàng": [
+                "duy nhất",
+                "kỹ lưỡng",
+                "rõ ràng"
+            ],
+            "hàng hóa": [],
+            "giá trị": [
+                "cao",
+                "thực"
+            ],
+            "bộ": [
+                "đẹp",
+                "đẹp",
+                "riêng"
+            ],
+            "bộ quần áo": [
+                "riêng",
+                "thực sự",
+                "hài lòng"
+            ],
+            "váy váy": [
+                "riêng",
+                "thực sự",
+                "hài lòng"
+            ],
+            "áo sơ mi": [
+                "riêng",
+                "thực sự",
+                "hài lòng"
+            ],
+            "quý cô": [
+                "thực sự",
+                "tuyệt vời",
+                "suốt",
+                "hữu ích"
+            ],
+            "bưu kiện": [
+                "ổn",
+                "ổn"
+            ],
+            "mức": [
+                "hợp lý"
+            ],
+            "bộ vest": [
+                "hữu ích",
+                "hài lòng",
+                "vui vẻ",
+                "hữu ích",
+                "hài lòng",
+                "vui vẻ"
+            ],
+            "áo sơ mi nam": [
+                "hữu ích",
+                "hài lòng",
+                "vui vẻ"
+            ],
+            "nữ nhân viên": [
+                "hữu ích",
+                "hài lòng",
+                "vui vẻ"
+            ],
+            "nhân viên": [
+                "hữu ích",
+                "hài lòng",
+                "vui vẻ"
+            ],
+            "xe đạp": [
+                "khác",
+                "gần"
+            ],
+            "bộ váy": [
+                "đủ",
+                "đẹp"
+            ],
+            "bộ đồ chơi": [
+                "đẹp",
+                "nhất"
+            ],
+            "đường may": [
+                "đẹp",
+                "tốt"
+            ],
+            "chất liệu": [
+                "tốt",
+                "đẹp"
+            ],
+            "tiền": [
+                "tốt"
+            ],
+            "váy đen": [],
+            "chất liệu lụa": [
+                "vội",
+                "đẹp",
+                "khác",
+                "muộn"
+            ],
+            "thành phẩm": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "thú vị",
+                "hoàn toàn",
+                "đầu tiên"
+            ],
+            "áo váy": [
+                "đẹp"
+            ],
+            "bộ đồ playsuit": [
+                "đẹp"
+            ],
+            "quần dài": [
+                "đẹp"
+            ],
+            "thợ may": [
+                "tốt"
+            ],
+            "đống tiền": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chất lượng": 1.0,
+            "giá": 2.0,
+            "mức giá": 1.0,
+            "váy": 0.5,
+            "giá cả": 1.0,
+            "dịch vụ": 1.0,
+            "quần áo": 1.5,
+            "cửa hàng": 1.0,
+            "hàng hóa": 0.5,
+            "giá trị": 0.5,
+            "bộ": 0.5,
+            "bộ quần áo": 0.5,
+            "váy váy": 0.5,
+            "áo sơ mi": 0.5,
+            "quý cô": 1.0,
+            "bưu kiện": 0.5,
+            "mức": 0.5,
+            "bộ vest": 0.5,
+            "áo sơ mi nam": 0.5,
+            "nữ nhân viên": 0.5,
+            "nhân viên": 0.5,
+            "xe đạp": 0.5,
+            "bộ váy": 0.5,
+            "bộ đồ chơi": 0.5,
+            "đường may": 0.5,
+            "chất liệu": 1.0,
+            "tiền": 0.5,
+            "váy đen": 0.5,
+            "chất liệu lụa": 0.5,
+            "thành phẩm": 0.5,
+            "trải nghiệm": 1.0,
+            "áo váy": 0.5,
+            "bộ đồ playsuit": 0.5,
+            "quần dài": 0.5,
+            "thợ may": 0.5,
+            "đống tiền": 0.5
+        }
     },
     {
         "attraction_name": "Cloth Shop Lucky Number",
@@ -1538,6 +2129,160 @@
             "https://www.tripadvisor.com/Attraction_Review-g187529-d574595-Reviews-Parque_Natural_de_la_Albufera-Valencia_Province_of_Valencia_Valencian_Community.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4572943-Reviews-or40-Cloth_Shop_Lucky_Number-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4572943-Reviews-or40-Cloth_Shop_Lucky_Number-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "phố cổ": 0.5,
+            "tiệm may": 0.5,
+            "vật liệu": 0.9753778190352023,
+            "sản phẩm": -0.019203196658054367,
+            "quần áo": -0.021954116877168417,
+            "thợ may": 0.3978899427262756,
+            "giá": 0.8413291210308671,
+            "tiền bạc": -0.9386434406042099,
+            "câu chuyện- mua": 0.5,
+            "sắm xung": 0.5,
+            "trải nghiệm": 0.9954829865018837,
+            "cửa hàng": 0.4939368078485131,
+            "loại lụa": 0.5,
+            "chất lượng": 0.5589777841232717,
+            "bộ vest": 0.43518655095249414,
+            "áo sơ mi": 0.5,
+            "áo khoác mùa đông": 0.5402452852576971,
+            "áo blazer": 0.5,
+            "váy cocktail": 0.5,
+            "áo khoác": 0.5,
+            "mùa đông": 0.5,
+            "áo khoác blazer": 0.5,
+            "mặt hàng": 0.5826219962909818,
+            "áo khoác polotix": 0.5,
+            "bộ": 0.46548844408243895,
+            "áo sơ mi dài": 0.4479610938578844,
+            "cà vạt": 0.5139078199863434,
+            "áo sơ mi ngắn tay": -0.8289343654178083,
+            "quần": 0.5048092268407345,
+            "bộ đồ": 0.9934217762202024,
+            "khách sạn": 0.9676598161458969
+        },
+        "dicts_adj": {
+            "phố cổ": [],
+            "tiệm may": [],
+            "vật liệu": [
+                "dài",
+                "suốt"
+            ],
+            "sản phẩm": [
+                "ổn",
+                "cuối cùng",
+                "cuối cùng",
+                "cuối cùng",
+                "đặc biệt",
+                "chăm chỉ",
+                "tuyệt vời",
+                "vui mừng",
+                "đặc biệt",
+                "bất kỳ"
+            ],
+            "quần áo": [
+                "vội vã",
+                "may mắn"
+            ],
+            "thợ may": [
+                "khác",
+                "chuyên nghiệp",
+                "hơn",
+                "tốt",
+                "hơn"
+            ],
+            "giá": [
+                "rẻ"
+            ],
+            "tiền bạc": [],
+            "câu chuyện- mua": [],
+            "sắm xung": [],
+            "trải nghiệm": [
+                "tốt"
+            ],
+            "cửa hàng": [
+                "trực tiếp"
+            ],
+            "loại lụa": [],
+            "chất lượng": [
+                "tương đương"
+            ],
+            "bộ vest": [
+                "khoảng"
+            ],
+            "áo sơ mi": [],
+            "áo khoác mùa đông": [
+                "thông thường",
+                "khoảng"
+            ],
+            "áo blazer": [],
+            "váy cocktail": [],
+            "áo khoác": [],
+            "mùa đông": [],
+            "áo khoác blazer": [],
+            "mặt hàng": [
+                "sẵn sàng",
+                "đúng"
+            ],
+            "áo khoác polotix": [],
+            "bộ": [
+                "may mắn"
+            ],
+            "áo sơ mi dài": [
+                "khoảng"
+            ],
+            "cà vạt": [
+                "khoảng"
+            ],
+            "áo sơ mi ngắn tay": [
+                "khoảng"
+            ],
+            "quần": [
+                "khoảng"
+            ],
+            "bộ đồ": [
+                "thân thiện"
+            ],
+            "khách sạn": [
+                "ngọt ngào"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "phố cổ": 0.5,
+            "tiệm may": 0.5,
+            "vật liệu": 0.5,
+            "sản phẩm": 1.0,
+            "quần áo": 1.5,
+            "thợ may": 1.0,
+            "giá": 0.5,
+            "tiền bạc": 0.5,
+            "câu chuyện- mua": 0.5,
+            "sắm xung": 0.5,
+            "trải nghiệm": 0.5,
+            "cửa hàng": 1.0,
+            "loại lụa": 0.5,
+            "chất lượng": 1.0,
+            "bộ vest": 1.0,
+            "áo sơ mi": 0.5,
+            "áo khoác mùa đông": 1.0,
+            "áo blazer": 0.5,
+            "váy cocktail": 0.5,
+            "áo khoác": 0.5,
+            "mùa đông": 0.5,
+            "áo khoác blazer": 0.5,
+            "mặt hàng": 0.5,
+            "áo khoác polotix": 0.5,
+            "bộ": 1.0,
+            "áo sơ mi dài": 0.5,
+            "cà vạt": 0.5,
+            "áo sơ mi ngắn tay": 0.5,
+            "quần": 0.5,
+            "bộ đồ": 0.5,
+            "khách sạn": 0.5
+        }
     }
 ]

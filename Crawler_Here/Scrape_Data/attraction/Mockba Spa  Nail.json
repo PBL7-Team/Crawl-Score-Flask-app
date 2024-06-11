@@ -118,7 +118,64 @@
             "https://www.tripadvisor.com/Attraction_Review-g608952-d1567338-Reviews-Baleal_Beach-Peniche_Leiria_District_Central_Portugal.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293928-d10844839-Reviews-or10-Mockba_Spa_Nail-Nha_Trang_Khanh_Hoa_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d10844839-Reviews-Mockba_Spa_Nail-Nha_Trang_Khanh_Hoa_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d10844839-Reviews-Mockba_Spa_Nail-Nha_Trang_Khanh_Hoa_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.7477724927884992,
+            "trải nghiệm": 0.9953914142679423,
+            "toàn thân": 0.9954083555494435,
+            "loại": 0.5,
+            "trà ngon": 0.5,
+            "mát-xa toàn thân": -0.921984292101115,
+            "thống của việt": 0.8737691454589367,
+            "dịch vụ": 0.6649541551596485,
+            "dịch vụ mát-xa tốt nhất": 0.9938619644381106,
+            "túi muối nóng": 0.6499452814459801,
+            "dịch vụ mát-xa bấm": 0.950621104799211
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "tốt",
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "đẹp"
+            ],
+            "toàn thân": [
+                "tuyệt vời"
+            ],
+            "loại": [],
+            "trà ngon": [],
+            "mát-xa toàn thân": [
+                "nóng"
+            ],
+            "thống của việt": [
+                "nóng"
+            ],
+            "dịch vụ": [],
+            "dịch vụ mát-xa tốt nhất": [
+                "tuyệt vời"
+            ],
+            "túi muối nóng": [
+                "ấm áp",
+                "cổ"
+            ],
+            "dịch vụ mát-xa bấm": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 2,
+            "trải nghiệm": 1,
+            "toàn thân": 1,
+            "loại": 1,
+            "trà ngon": 1,
+            "mát-xa toàn thân": 1,
+            "thống của việt": 1,
+            "dịch vụ": 1.5,
+            "dịch vụ mát-xa tốt nhất": 1,
+            "túi muối nóng": 0.5,
+            "dịch vụ mát-xa bấm": 0.5
+        }
     },
     {
         "attraction_name": "Mockba Spa & Nail",
@@ -254,7 +311,117 @@
             "https://www.tripadvisor.com/Attraction_Review-g53951-d534375-Reviews-Baldwin_s_Book_Barn-West_Chester_Pennsylvania.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293928-d10844839-Reviews-or20-Mockba_Spa_Nail-Nha_Trang_Khanh_Hoa_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d10844839-Reviews-or10-Mockba_Spa_Nail-Nha_Trang_Khanh_Hoa_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d10844839-Reviews-or10-Mockba_Spa_Nail-Nha_Trang_Khanh_Hoa_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "massage": 0.9945692083565518,
+            "massage chân": 0.9331166449701414,
+            "trà xanh": 0.9955621021217667,
+            "dịch vụ": 0.9955976996570826,
+            "massage bấm": 0.9952756285201758,
+            "chuyến đi": 0.9949208074443353,
+            "khởi đầu": 0.7923328280448914,
+            "nhân viên mát xa": 0.7521082091116114,
+            "đồng phục": 0.5,
+            "quần jean": -0.974021221511066,
+            "áo polo": 0.5,
+            "hình xăm": 0.5022874772548676,
+            "ngón tay": -0.7908740136772394,
+            "gian hàng": -0.5850296961143613,
+            "quần áo": -0.8959878822788596,
+            "thô thiển": -0.9746270808391273,
+            "viên ngọc": 0.8249044418334961,
+            "thương hiệu": 0.5160253029316664,
+            "thẩm mỹ viện": -0.6368610244244337,
+            "buổi tập": 0.9933154268655926,
+            "thứ xa xỉ": -0.13097771257162094
+        },
+        "dicts_adj": {
+            "massage": [
+                "thực sự",
+                "tốt"
+            ],
+            "massage chân": [
+                "thực sự",
+                "tốt"
+            ],
+            "trà xanh": [
+                "sẵn"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "massage bấm": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tốt"
+            ],
+            "khởi đầu": [
+                "phải",
+                "tuyệt vời"
+            ],
+            "nhân viên mát xa": [
+                "gần",
+                "cùng",
+                "đầy đủ",
+                "khác",
+                "tốt"
+            ],
+            "đồng phục": [],
+            "quần jean": [
+                "rách"
+            ],
+            "áo polo": [],
+            "hình xăm": [],
+            "ngón tay": [],
+            "gian hàng": [],
+            "quần áo": [],
+            "thô thiển": [],
+            "viên ngọc": [
+                "kinh khủng",
+                "gần"
+            ],
+            "thương hiệu": [],
+            "thẩm mỹ viện": [
+                "chính xác"
+            ],
+            "buổi tập": [
+                "rẻ",
+                "hơn",
+                "chắc chắn"
+            ],
+            "thứ xa xỉ": [
+                "phải",
+                "hơn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "massage": 0.5,
+            "massage chân": 1.0,
+            "trà xanh": 0.5,
+            "dịch vụ": 0.5,
+            "massage bấm": 0.5,
+            "chuyến đi": 1.5,
+            "khởi đầu": 0.5,
+            "nhân viên mát xa": 0.5,
+            "đồng phục": 0.5,
+            "quần jean": 0.5,
+            "áo polo": 0.5,
+            "hình xăm": 0.5,
+            "ngón tay": 0.5,
+            "gian hàng": 0.5,
+            "quần áo": 0.5,
+            "thô thiển": 0.5,
+            "viên ngọc": 0.5,
+            "thương hiệu": 0.5,
+            "thẩm mỹ viện": 0.5,
+            "buổi tập": 0.5,
+            "thứ xa xỉ": 0.5
+        }
     },
     {
         "attraction_name": "Mockba Spa & Nail",
@@ -391,7 +558,90 @@
             "https://www.tripadvisor.com/Attraction_Review-g32107-d1490726-Reviews-Carbon_Canyon_Regional_Park-Brea_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293928-d10844839-Reviews-or30-Mockba_Spa_Nail-Nha_Trang_Khanh_Hoa_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d10844839-Reviews-or20-Mockba_Spa_Nail-Nha_Trang_Khanh_Hoa_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d10844839-Reviews-or20-Mockba_Spa_Nail-Nha_Trang_Khanh_Hoa_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9949468387058005,
+            "nhân viên mát-xa cho": 0.7050444036722183,
+            "buổi mát xa": 0.9954966730438173,
+            "chủ sở": 0.8820362472906709,
+            "nhân viên mát xa": 0.9914784681750461,
+            "mát-xa cho tôi": 0.5,
+            "giường massage": 0.5,
+            "tấm rèm": 0.5,
+            "môi trường": -0.06436858823872171,
+            "trị liệu": -0.9250200889073312,
+            "dịch vụ": 0.9475332852452993,
+            "nhân viên": 0.9955665618181229,
+            "chuyên gia": 0.9694423293694854,
+            "khu du lịch": 0.5059101954102516
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "tốt"
+            ],
+            "nhân viên mát-xa cho": [
+                "hơn"
+            ],
+            "buổi mát xa": [
+                "tuyệt vời",
+                "chuyên nghiệp",
+                "riêng tư"
+            ],
+            "chủ sở": [
+                "thân thiện"
+            ],
+            "nhân viên mát xa": [
+                "bận rộn"
+            ],
+            "mát-xa cho tôi": [],
+            "giường massage": [],
+            "tấm rèm": [],
+            "môi trường": [
+                "mát",
+                "xa",
+                "mát",
+                "xa",
+                "mát",
+                "xa",
+                "hỏng",
+                "khôn ngoan"
+            ],
+            "trị liệu": [],
+            "dịch vụ": [
+                "ổn",
+                "ổn"
+            ],
+            "nhân viên": [
+                "chào đón",
+                "tốt đẹp"
+            ],
+            "chuyên gia": [
+                "giỏi",
+                "thực sự",
+                "tốt"
+            ],
+            "khu du lịch": [
+                "dễ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 0.5,
+            "nhân viên mát-xa cho": 0.5,
+            "buổi mát xa": 0.5,
+            "chủ sở": 0.5,
+            "nhân viên mát xa": 0.5,
+            "mát-xa cho tôi": 0.5,
+            "giường massage": 0.5,
+            "tấm rèm": 0.5,
+            "môi trường": 0.5,
+            "trị liệu": 0.5,
+            "dịch vụ": 1.0,
+            "nhân viên": 0.5,
+            "chuyên gia": 0.5,
+            "khu du lịch": 0.5
+        }
     },
     {
         "attraction_name": "Mockba Spa & Nail",
@@ -515,6 +765,105 @@
             "https://www.tripadvisor.com/Attraction_Review-g152515-d8452139-Reviews-Diamante_Dunes_Golf_Course-Cabo_San_Lucas_Los_Cabos_Baja_California.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d10844839-Reviews-or30-Mockba_Spa_Nail-Nha_Trang_Khanh_Hoa_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d10844839-Reviews-or30-Mockba_Spa_Nail-Nha_Trang_Khanh_Hoa_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "lưng": 0.9941862739506178,
+            "mạnh vợ": 0.8476126454770565,
+            "và đó": -0.1277577541768551,
+            "toàn thân": 0.9952818707097322,
+            "căn phòng": 0.5466607734560966,
+            "nhân viên mát xa": 0.9951522141345777,
+            "dịch vụ mát-xa tốt nhất": 0.9886743209790438,
+            "nhân viên mát-xa của": 0.9932044666493312,
+            "dịch vụ mát-xa của anh": 0.4415963515639305,
+            "nam": 0.8737691454589367,
+            "dịch vụ mát-xa thì tuyệt": 0.9830735640134662,
+            "tiệm massage": 0.9953844450064935,
+            "dịch vụ": 0.9943350412650034,
+            "mỹ viện": 0.9954912631656043,
+            "thợ thủ công": 0.9906780712772161,
+            "nhân viên": 0.9923208013642579,
+            "sở hữu": 0.5,
+            "sở hữu nữ": 0.5
+        },
+        "dicts_adj": {
+            "lưng": [
+                "tốt"
+            ],
+            "mạnh vợ": [
+                "đầu tiên"
+            ],
+            "và đó": [
+                "đầu tiên"
+            ],
+            "toàn thân": [
+                "tốt",
+                "nhiều",
+                "hơn",
+                "trực tiếp",
+                "mát",
+                "xa"
+            ],
+            "căn phòng": [
+                "khoảng"
+            ],
+            "nhân viên mát xa": [
+                "thân thiện"
+            ],
+            "dịch vụ mát-xa tốt nhất": [],
+            "nhân viên mát-xa của": [],
+            "dịch vụ mát-xa của anh": [
+                "đầu tiên"
+            ],
+            "nam": [
+                "đầu tiên"
+            ],
+            "dịch vụ mát-xa thì tuyệt": [
+                "phải",
+                "tuyệt vời"
+            ],
+            "tiệm massage": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "sạch sẽ"
+            ],
+            "mỹ viện": [],
+            "thợ thủ công": [
+                "rõ",
+                "hơn",
+                "sâu"
+            ],
+            "nhân viên": [
+                "Đặc biệt",
+                "nhiều",
+                "mạnh",
+                "hạnh phúc"
+            ],
+            "sở hữu": [],
+            "sở hữu nữ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "lưng": 0.5,
+            "mạnh vợ": 0.5,
+            "và đó": 0.5,
+            "toàn thân": 0.5,
+            "căn phòng": 0.5,
+            "nhân viên mát xa": 0.5,
+            "dịch vụ mát-xa tốt nhất": 0.5,
+            "nhân viên mát-xa của": 0.5,
+            "dịch vụ mát-xa của anh": 0.5,
+            "nam": 0.5,
+            "dịch vụ mát-xa thì tuyệt": 1,
+            "tiệm massage": 1,
+            "dịch vụ": 1,
+            "mỹ viện": 1,
+            "thợ thủ công": 1,
+            "nhân viên": 1,
+            "sở hữu": 1,
+            "sở hữu nữ": 1
+        }
     }
 ]

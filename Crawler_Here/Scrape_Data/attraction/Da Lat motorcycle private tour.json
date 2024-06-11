@@ -66,6 +66,84 @@
             "https://www.tripadvisor.com/Attraction_Review-g13808635-d1940933-Reviews-Formosan_Aboriginal_Culture_Village-Yuchi_Nantou.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d17394355-Reviews-Da_Lat_motorcycle_private_tour-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d17394355-Reviews-Da_Lat_motorcycle_private_tour-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến lưu diễn": 0.9955503604724072,
+            "địa điểm": 0.9947038459358737,
+            "điểm tham quan": 0.45927176531404257,
+            "đền thờ": 0.547293818090111,
+            "xe đạp": 0.9949351825634949,
+            "chuyến tham": 0.5,
+            "xe máy": 0.5,
+            "hướng dẫn viên": 0.9647680376656353,
+            "tôn giáo phật giáo": 0.8737691454589367,
+            "tơ": 0.5,
+            "lụa": 0.5,
+            "cà phê": 0.5,
+            "văn hóa người dân địa": 0.5,
+            "chuyến tham quan": -0.8478242512792349,
+            "văn hóa am": 0.9853665146511048
+        },
+        "dicts_adj": {
+            "chuyến lưu diễn": [
+                "tuyệt vời"
+            ],
+            "địa điểm": [
+                "nhiều",
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "điểm tham quan": [
+                "lớn",
+                "vội vã"
+            ],
+            "đền thờ": [
+                "lớn",
+                "vội vã"
+            ],
+            "xe đạp": [
+                "an toàn"
+            ],
+            "chuyến tham": [],
+            "xe máy": [],
+            "hướng dẫn viên": [
+                "nhiều"
+            ],
+            "tôn giáo phật giáo": [
+                "thực sự",
+                "tốt",
+                "rõ"
+            ],
+            "tơ": [],
+            "lụa": [],
+            "cà phê": [],
+            "văn hóa người dân địa": [],
+            "chuyến tham quan": [
+                "cao"
+            ],
+            "văn hóa am": [
+                "vui vẻ",
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến lưu diễn": 0.5,
+            "địa điểm": 1.0,
+            "điểm tham quan": 0.5,
+            "đền thờ": 0.5,
+            "xe đạp": 0.5,
+            "chuyến tham": 0.5,
+            "xe máy": 0.5,
+            "hướng dẫn viên": 0.5,
+            "tôn giáo phật giáo": 0.5,
+            "tơ": 0.5,
+            "lụa": 0.5,
+            "cà phê": 0.5,
+            "văn hóa người dân địa": 0.5,
+            "chuyến tham quan": 0.5,
+            "văn hóa am": 0.5
+        }
     }
 ]

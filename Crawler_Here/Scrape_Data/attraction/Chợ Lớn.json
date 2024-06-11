@@ -89,6 +89,23 @@
             "https://www.tripadvisor.com/Attraction_Review-g60727-d104405-Reviews-Assateague_State_Park-Berlin_Maryland.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27166057-Reviews-Ch_L_n-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27166057-Reviews-Ch_L_n-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hàng hóa": -0.03514550253748894,
+            "hoạt": 0.5,
+            "động món ăn": 0.5
+        },
+        "dicts_adj": {
+            "hàng hóa": [],
+            "hoạt": [],
+            "động món ăn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hàng hóa": 1.5,
+            "hoạt": 1,
+            "động món ăn": 1
+        }
     }
 ]

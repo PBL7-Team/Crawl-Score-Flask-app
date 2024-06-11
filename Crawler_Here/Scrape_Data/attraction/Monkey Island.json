@@ -92,7 +92,228 @@
             "https://www.tripadvisor.com/Attraction_Review-g48765-d8099068-Reviews-Valley_Stream_State_Park-Valley_Stream_Long_Island_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or10-Monkey_Island-Cat_Ba_Hai_Phong.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-Monkey_Island-Cat_Ba_Hai_Phong.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-Monkey_Island-Cat_Ba_Hai_Phong.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đảo khỉ": -0.9415023321053013,
+            "trải nghiệm": 0.39919671788811684,
+            "con khỉ": -0.26785514983348546,
+            "đảo": 0.6118120223150721,
+            "con": 0.4863973557949066,
+            "hòn đảo": 0.7082078184369797,
+            "điểm tham quan": -0.9745413797209039,
+            "bãi biển": 0.08015776584943524,
+            "nhà hàng": 0.9589237826876342,
+            "đồ ăn": 0.9833652398083359,
+            "khỉ": 0.5107601415365934,
+            "bia": 0.015123187409092983,
+            "vị trí": 0.8737691454589367,
+            "khung cảnh": 0.5,
+            "phòng": 0.8737691454589367,
+            "máy lạnh": 0.9948796486423817,
+            "kỳ nghỉ": 0.9954436983680353,
+            "cuộc leo núi tự do": 0.2770707178860903,
+            "tảng": 0.5,
+            "cuộc hành trình": -0.9734034710563719,
+            "quán bar": 0.9954356446978636,
+            "đồ uống lạnh": 0.5,
+            "chú khỉ": 0.5,
+            "lũ": 0.3346864115446806,
+            "núi": 0.556328154169023,
+            "khu rừng": 0.5,
+            "tầm nhìn": 0.5001995284110308,
+            "hàng": 0.8737691454589367,
+            "vàng": 0.556025292724371,
+            "góc nhìn": 0.8854415402747691,
+            "chuyến tham quan": 0.5,
+            "tích tắc": 0.051773578859865665,
+            "vật phẩm": 0.7853715617093258,
+            "vật phẩm quan": 0.6137638986110687,
+            "làng": 0.9953596488339826,
+            "quang cảnh": 0.8441949694533832,
+            "chuyến đi": 0.7944393621680016,
+            "vết sẹo": 0.5
+        },
+        "dicts_adj": {
+            "đảo khỉ": [
+                "nguy hiểm"
+            ],
+            "trải nghiệm": [
+                "nguy hiểm"
+            ],
+            "con khỉ": [
+                "thực sự",
+                "buồn cười",
+                "dễ thương",
+                "hung dữ",
+                "Nhiều",
+                "nguy hiểm",
+                "đẫm"
+            ],
+            "đảo": [
+                "cuối cùng",
+                "Nhiều",
+                "đủ"
+            ],
+            "con": [
+                "cuối cùng"
+            ],
+            "hòn đảo": [
+                "cùng",
+                "cuối cùng",
+                "khác",
+                "xinh đẹp",
+                "đẹp",
+                "đầy"
+            ],
+            "điểm tham quan": [
+                "hủy"
+            ],
+            "bãi biển": [
+                "dại",
+                "nhiều",
+                "vắng",
+                "nhiều",
+                "đẹp",
+                "hơn",
+                "hơn",
+                "tốt",
+                "đẹp",
+                "điên"
+            ],
+            "nhà hàng": [
+                "nhanh"
+            ],
+            "đồ ăn": [
+                "nhanh"
+            ],
+            "khỉ": [
+                "lớn"
+            ],
+            "bia": [],
+            "vị trí": [
+                "đẹp",
+                "ấm"
+            ],
+            "khung cảnh": [],
+            "phòng": [
+                "sạch sẽ",
+                "thoải mái"
+            ],
+            "máy lạnh": [
+                "sạch sẽ",
+                "thoải mái"
+            ],
+            "kỳ nghỉ": [
+                "thực sự",
+                "thú vị",
+                "hơn"
+            ],
+            "cuộc leo núi tự do": [
+                "nguy hiểm"
+            ],
+            "tảng": [],
+            "cuộc hành trình": [
+                "sơ sài",
+                "hơn"
+            ],
+            "quán bar": [
+                "đẹp"
+            ],
+            "đồ uống lạnh": [],
+            "chú khỉ": [],
+            "lũ": [],
+            "núi": [
+                "vội vã"
+            ],
+            "khu rừng": [],
+            "tầm nhìn": [
+                "hẹp",
+                "ít"
+            ],
+            "hàng": [
+                "hẹp",
+                "nguy hiểm"
+            ],
+            "vàng": [
+                "cuối cùng",
+                "bất kỳ"
+            ],
+            "góc nhìn": [
+                "thông thường"
+            ],
+            "chuyến tham quan": [],
+            "tích tắc": [
+                "trong",
+                "cao"
+            ],
+            "vật phẩm": [
+                "trong",
+                "cao"
+            ],
+            "vật phẩm quan": [
+                "quan trọng",
+                "khác",
+                "cẩn thận"
+            ],
+            "làng": [
+                "thú vị",
+                "hơn",
+                "thực sự"
+            ],
+            "quang cảnh": [
+                "đẹp",
+                "hung dữ",
+                "đầu tiên"
+            ],
+            "chuyến đi": [
+                "nhiều",
+                "khác",
+                "cùng"
+            ],
+            "vết sẹo": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đảo khỉ": 1,
+            "trải nghiệm": 1,
+            "con khỉ": 1,
+            "đảo": 3.5,
+            "con": 1,
+            "hòn đảo": 3.0,
+            "điểm tham quan": 1,
+            "bãi biển": 2.0,
+            "nhà hàng": 0.5,
+            "đồ ăn": 0.5,
+            "khỉ": 1.0,
+            "bia": 1.5,
+            "vị trí": 0.5,
+            "khung cảnh": 0.5,
+            "phòng": 0.5,
+            "máy lạnh": 0.5,
+            "kỳ nghỉ": 0.5,
+            "cuộc leo núi tự do": 0.5,
+            "tảng": 0.5,
+            "cuộc hành trình": 0.5,
+            "quán bar": 0.5,
+            "đồ uống lạnh": 0.5,
+            "chú khỉ": 1.0,
+            "lũ": 0.5,
+            "núi": 0.5,
+            "khu rừng": 0.5,
+            "tầm nhìn": 0.5,
+            "hàng": 0.5,
+            "vàng": 0.5,
+            "góc nhìn": 0.5,
+            "chuyến tham quan": 0.5,
+            "tích tắc": 0.5,
+            "vật phẩm": 0.5,
+            "vật phẩm quan": 0.5,
+            "làng": 0.5,
+            "quang cảnh": 0.5,
+            "chuyến đi": 0.5,
+            "vết sẹo": 0.5
+        }
     },
     {
         "attraction_name": "Monkey Island",
@@ -196,7 +417,204 @@
             "https://www.tripadvisor.com/Attraction_Review-g34439-d606249-Reviews-Wet_Willie_s-Miami_Beach_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or20-Monkey_Island-Cat_Ba_Hai_Phong.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or10-Monkey_Island-Cat_Ba_Hai_Phong.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or10-Monkey_Island-Cat_Ba_Hai_Phong.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quang cảnh": 0.9955032670986839,
+            "bãi biển": 0.6732512870803475,
+            "nhà hàng": 0.9324383088387549,
+            "trải nghiệm": 0.99400840990711,
+            "núi": 0.3501137010753155,
+            "kỳ nghỉ": 0.5,
+            "đảo khỉ": 0.2574123007361777,
+            "đảo": 0.7160273327802619,
+            "đi bộ đường dài": 0.5,
+            "chèo thuyền bơi lội": 0.5,
+            "chú khỉ": 0.5,
+            "phong cảnh": 0.9951365946908481,
+            "vị trí": 0.995361827139277,
+            "phí sử dụng": 0.5,
+            "nhà vệ sinh": 0.5,
+            "con khỉ": 0.712823576759547,
+            "tảng đá": 0.8217360973358154,
+            "cắt chân": 0.5198806505650282,
+            "góc nhìn": 0.6046293061226606,
+            "chuyến đi": 0.5,
+            "thuyền": 0.5,
+            "cảnh": 0.9945543361827731,
+            "người hướng dẫn": 0.9674718282185495,
+            "chai lọ": 0.5,
+            "thức ăn": 0.5,
+            "khỉ": 0.605765076354146,
+            "mạng sống": 0.6321638431400061,
+            "chuyến đi bộ": -0.5752167869359255,
+            "nhân viên": 0.989361985353753,
+            "lễ tân": -0.8981238314881921,
+            "chai nước": -0.7627173122018576,
+            "chai": 0.4992362856864929,
+            "máy pha cà phê": 0.9879790209233761,
+            "phòng": 0.4765767715871334,
+            "khung cảnh": 0.08185119181871414,
+            "chuyến tham quan": 0.5,
+            "chú": 0.5,
+            "mặt đất": 0.6165785901248455,
+            "dép tông": 0.8737691454589367,
+            "leo trèo": 0.5
+        },
+        "dicts_adj": {
+            "quang cảnh": [
+                "tuyệt",
+                "cuối cùng",
+                "đẹp"
+            ],
+            "bãi biển": [
+                "sạch",
+                "ngon",
+                "đẹp"
+            ],
+            "nhà hàng": [
+                "sạch",
+                "ngon",
+                "nổi bật"
+            ],
+            "trải nghiệm": [
+                "khó"
+            ],
+            "núi": [
+                "dài",
+                "dài",
+                "tốt"
+            ],
+            "kỳ nghỉ": [],
+            "đảo khỉ": [
+                "khó chịu",
+                "tuyệt"
+            ],
+            "đảo": [
+                "đẹp",
+                "tốt"
+            ],
+            "đi bộ đường dài": [],
+            "chèo thuyền bơi lội": [],
+            "chú khỉ": [],
+            "phong cảnh": [
+                "đẹp"
+            ],
+            "vị trí": [
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "phí sử dụng": [],
+            "nhà vệ sinh": [],
+            "con khỉ": [
+                "kém"
+            ],
+            "tảng đá": [
+                "sắc nhọn",
+                "hợp lý"
+            ],
+            "cắt chân": [],
+            "góc nhìn": [
+                "đẹp",
+                "phải",
+                "tuyệt vời"
+            ],
+            "chuyến đi": [],
+            "thuyền": [],
+            "cảnh": [
+                "đẹp"
+            ],
+            "người hướng dẫn": [
+                "chắc chắn",
+                "tốt"
+            ],
+            "chai lọ": [],
+            "thức ăn": [],
+            "khỉ": [
+                "hiếu động"
+            ],
+            "mạng sống": [
+                "phải"
+            ],
+            "chuyến đi bộ": [
+                "phải",
+                "bình thường"
+            ],
+            "nhân viên": [
+                "đặc biệt"
+            ],
+            "lễ tân": [
+                "kiêu ngạo"
+            ],
+            "chai nước": [
+                "cao"
+            ],
+            "chai": [
+                "riêng"
+            ],
+            "máy pha cà phê": [
+                "cơ bản"
+            ],
+            "phòng": [
+                "cơ bản"
+            ],
+            "khung cảnh": [
+                "gần",
+                "hỏng"
+            ],
+            "chuyến tham quan": [],
+            "chú": [],
+            "mặt đất": [
+                "đặc biệt"
+            ],
+            "dép tông": [
+                "tốt"
+            ],
+            "leo trèo": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quang cảnh": 0.5,
+            "bãi biển": 2.5,
+            "nhà hàng": 1.0,
+            "trải nghiệm": 0.5,
+            "núi": 1.0,
+            "kỳ nghỉ": 0.5,
+            "đảo khỉ": 2.0,
+            "đảo": 1.5,
+            "đi bộ đường dài": 0.5,
+            "chèo thuyền bơi lội": 0.5,
+            "chú khỉ": 0.5,
+            "phong cảnh": 0.5,
+            "vị trí": 0.5,
+            "phí sử dụng": 0.5,
+            "nhà vệ sinh": 0.5,
+            "con khỉ": 1.0,
+            "tảng đá": 0.5,
+            "cắt chân": 0.5,
+            "góc nhìn": 0.5,
+            "chuyến đi": 0.5,
+            "thuyền": 1.0,
+            "cảnh": 0.5,
+            "người hướng dẫn": 0.5,
+            "chai lọ": 0.5,
+            "thức ăn": 0.5,
+            "khỉ": 1.5,
+            "mạng sống": 0.5,
+            "chuyến đi bộ": 0.5,
+            "nhân viên": 0.5,
+            "lễ tân": 0.5,
+            "chai nước": 0.5,
+            "chai": 0.5,
+            "máy pha cà phê": 0.5,
+            "phòng": 0.5,
+            "khung cảnh": 0.5,
+            "chuyến tham quan": 0.5,
+            "chú": 0.5,
+            "mặt đất": 0.5,
+            "dép tông": 0.5,
+            "leo trèo": 0.5
+        }
     },
     {
         "attraction_name": "Monkey Island",
@@ -301,7 +719,276 @@
             "https://www.tripadvisor.com/Attraction_Review-g297549-d23189328-Reviews-Orange_Bay_Hurghada-Hurghada_Red_Sea_and_Sinai.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or30-Monkey_Island-Cat_Ba_Hai_Phong.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or20-Monkey_Island-Cat_Ba_Hai_Phong.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or20-Monkey_Island-Cat_Ba_Hai_Phong.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khu rừng": 0.9926992499968037,
+            "khung cảnh": 0.8827344825986074,
+            "cho": 0.5,
+            "khỉ ăn": 0.5,
+            "thiên nhiên": 0.5,
+            "hòn đảo": 0.46435521469296265,
+            "chú khỉ": 0.5,
+            "người dân địa phương": 0.6868845727294683,
+            "chú": 0.5,
+            "khỉ": 0.5,
+            "bãi biển": 0.8653681134455837,
+            "núi": 0.9954702131799422,
+            "điểm ngắm cảnh đẹp": 0.5,
+            "chuyến du lịch": 0.5695862378925085,
+            "đảo khỉ": 0.5,
+            "con khỉ": -0.738029818108771,
+            "con người": -0.9294523994904011,
+            "đảo": 0.792856082538492,
+            "mát mẻ": 0.9955652140197344,
+            "chuyến đi": 0.6868845727294683,
+            "tầm nhìn": 0.8046919751359383,
+            "monkey": 0.97090306552127,
+            "beach": 0.8769415766000748,
+            "the": 0.5,
+            "cat": 0.5,
+            "ba island": 0.5,
+            "resort": 0.9861416590865701,
+            "chuyến tham quan": 0.5,
+            "vịnh": 0.5,
+            "thuyền": 0.20058417168911546,
+            "đi bộ": 0.5100282188504934,
+            "vườn quốc gia": 0.8737691454589367,
+            "kỳ nghỉ": 0.9954368775943294,
+            "khu nghỉ dưỡng": -0.9740924313664436,
+            "chèo thuyền kayak": 0.6477947756648064,
+            "trải nghiệm": 0.9952929429709911,
+            "chỗ": 0.5,
+            "đồ uống": 0.5,
+            "thức ăn": 0.5,
+            "lũ": 0.5,
+            "phòng": 0.5,
+            "bốn tảng đá": 0.42469457909464836,
+            "hoang sơ": 0.9274151651188731,
+            "túi": 0.5,
+            "hỗn hợp": 0.5,
+            "nước": 0.9882866305997595,
+            "cậu": 0.5,
+            "người hướng dẫn": 0.8737691454589367,
+            "cà phê": 0.5,
+            "họ": 0.8643958889879286,
+            "hàng rào dây thép": 0.5,
+            "quán cà phê": 0.5,
+            "bài đăng": 0.5,
+            "chủ sở hữu hòn đảo": 0.5,
+            "câu chuyện tội phạm": 0.5146201178431511,
+            "khiêu vũ": -0.952222655294463
+        },
+        "dicts_adj": {
+            "khu rừng": [
+                "mát mẻ"
+            ],
+            "khung cảnh": [
+                "tuyệt vời",
+                "cao"
+            ],
+            "cho": [],
+            "khỉ ăn": [],
+            "thiên nhiên": [],
+            "hòn đảo": [
+                "nhiều",
+                "tốt",
+                "nhiều",
+                "thực sự",
+                "dễ dàng",
+                "giống",
+                "hơn"
+            ],
+            "chú khỉ": [],
+            "người dân địa phương": [
+                "dễ dàng"
+            ],
+            "chú": [],
+            "khỉ": [],
+            "bãi biển": [
+                "tốt",
+                "thú vị",
+                "đẹp",
+                "đẹp",
+                "đẹp",
+                "nổi bật",
+                "tốt",
+                "sạch sẽ",
+                "đẹp"
+            ],
+            "núi": [
+                "nhiều"
+            ],
+            "điểm ngắm cảnh đẹp": [],
+            "chuyến du lịch": [
+                "riêng"
+            ],
+            "đảo khỉ": [],
+            "con khỉ": [
+                "hung dữ",
+                "nguy hiểm",
+                "giống",
+                "hơn"
+            ],
+            "con người": [
+                "đói"
+            ],
+            "đảo": [
+                "đẹp",
+                "Gần",
+                "thú vị"
+            ],
+            "mát mẻ": [
+                "đẹp"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "nguy hiểm",
+                "đông đúc",
+                "sắc"
+            ],
+            "tầm nhìn": [
+                "tuyệt vời",
+                "nguy hiểm",
+                "đông đúc",
+                "sắc"
+            ],
+            "monkey": [],
+            "beach": [
+                "to",
+                "to"
+            ],
+            "the": [],
+            "cat": [],
+            "ba island": [],
+            "resort": [],
+            "chuyến tham quan": [],
+            "vịnh": [],
+            "thuyền": [
+                "liên tục",
+                "thực sự",
+                "nhỏ",
+                "thường xuyên"
+            ],
+            "đi bộ": [
+                "dài"
+            ],
+            "vườn quốc gia": [
+                "dài"
+            ],
+            "kỳ nghỉ": [
+                "tuyệt vời"
+            ],
+            "khu nghỉ dưỡng": [
+                "thực sự",
+                "kỳ lạ",
+                "cũ"
+            ],
+            "chèo thuyền kayak": [
+                "nhiều",
+                "ngắn"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "chỗ": [],
+            "đồ uống": [],
+            "thức ăn": [],
+            "lũ": [],
+            "phòng": [],
+            "bốn tảng đá": [
+                "cao",
+                "thực sự",
+                "nhọn",
+                "cao"
+            ],
+            "hoang sơ": [
+                "dễ thương"
+            ],
+            "túi": [],
+            "hỗn hợp": [],
+            "nước": [
+                "sạch sẽ"
+            ],
+            "cậu": [],
+            "người hướng dẫn": [
+                "cẩn thận"
+            ],
+            "cà phê": [],
+            "họ": [
+                "nhanh",
+                "hơn"
+            ],
+            "hàng rào dây thép": [],
+            "quán cà phê": [],
+            "bài đăng": [],
+            "chủ sở hữu hòn đảo": [],
+            "câu chuyện tội phạm": [
+                "duy nhất"
+            ],
+            "khiêu vũ": [
+                "duy nhất"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khu rừng": 0.5,
+            "khung cảnh": 1.0,
+            "cho": 0.5,
+            "khỉ ăn": 0.5,
+            "thiên nhiên": 0.5,
+            "hòn đảo": 1.5,
+            "chú khỉ": 0.5,
+            "người dân địa phương": 1.0,
+            "chú": 0.5,
+            "khỉ": 1.0,
+            "bãi biển": 3.5,
+            "núi": 0.5,
+            "điểm ngắm cảnh đẹp": 0.5,
+            "chuyến du lịch": 0.5,
+            "đảo khỉ": 1.5,
+            "con khỉ": 1.0,
+            "con người": 0.5,
+            "đảo": 2.0,
+            "mát mẻ": 0.5,
+            "chuyến đi": 1.0,
+            "tầm nhìn": 0.5,
+            "monkey": 0.5,
+            "beach": 0.5,
+            "the": 0.5,
+            "cat": 0.5,
+            "ba island": 0.5,
+            "resort": 0.5,
+            "chuyến tham quan": 0.5,
+            "vịnh": 1.0,
+            "thuyền": 1.0,
+            "đi bộ": 0.5,
+            "vườn quốc gia": 0.5,
+            "kỳ nghỉ": 0.5,
+            "khu nghỉ dưỡng": 0.5,
+            "chèo thuyền kayak": 0.5,
+            "trải nghiệm": 0.5,
+            "chỗ": 0.5,
+            "đồ uống": 0.5,
+            "thức ăn": 0.5,
+            "lũ": 1.0,
+            "phòng": 1.0,
+            "bốn tảng đá": 0.5,
+            "hoang sơ": 0.5,
+            "túi": 0.5,
+            "hỗn hợp": 0.5,
+            "nước": 0.5,
+            "cậu": 0.5,
+            "người hướng dẫn": 0.5,
+            "cà phê": 0.5,
+            "họ": 0.5,
+            "hàng rào dây thép": 0.5,
+            "quán cà phê": 0.5,
+            "bài đăng": 0.5,
+            "chủ sở hữu hòn đảo": 0.5,
+            "câu chuyện tội phạm": 0.5,
+            "khiêu vũ": 0.5
+        }
     },
     {
         "attraction_name": "Monkey Island",
@@ -406,7 +1093,297 @@
             "https://www.tripadvisor.com/Attraction_Review-g32278-d13297856-Reviews-Mussel_Rock_Park-Daly_City_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or40-Monkey_Island-Cat_Ba_Hai_Phong.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or30-Monkey_Island-Cat_Ba_Hai_Phong.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or30-Monkey_Island-Cat_Ba_Hai_Phong.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bãi biển": 0.42692083328729497,
+            "quán bar": 0.8394486694014631,
+            "đồ uống": -0.9756811879342422,
+            "tầm nhìn": 0.8798536480026087,
+            "vịnh": 0.5,
+            "chuyến leo núi": -0.5151680307462811,
+            "ngày du lịch": 0.9954632514272816,
+            "chuyến tham quan": -0.06751868408173323,
+            "hòn đảo": 0.5340533086418873,
+            "khu nghỉ dưỡng": 0.5,
+            "chủ thuyền": 0.5,
+            "giá cả": 0.5,
+            "diện tích": 0.5,
+            "bản địa": -0.7190971784293652,
+            "điểm dừng chân": 0.9954387978068553,
+            "chuyến đi": -0.6355349682271481,
+            "bờ biển cát trắng": 0.9758825779426843,
+            "biển lặng": 0.7816036234144121,
+            "tàu thuyền": 0.5,
+            "khỉ": -0.3005323611562037,
+            "cuộc leo núi": 0.6401938505781194,
+            "cát": -0.7794407897163182,
+            "khung cảnh": 0.8737691454589367,
+            "chuyến đi bộ": 0.5480809068928162,
+            "lễ tân trần": 0.8737691454589367,
+            "massage": 0.9954277508659288,
+            "nhân viên": -0.050145326531492174,
+            "nhà hàng": 0.9947554959217086,
+            "phòng đảo": 0.5,
+            "ẩm thực": 0.5,
+            "chú": 0.5,
+            "chú chó mà milu": 0.5,
+            "trải nghiệm": 0.9952002412173897,
+            "người": 0.5,
+            "ngu ngốc": 0.5,
+            "con khỉ": -0.8668627482838929,
+            "hướng dẫn viên": -0.3498859331011772,
+            "bia": 0.5,
+            "núi": 0.11672011565436453,
+            "góc nhìn": 0.8187922658398747,
+            "pháo đài": 0.8737691454589367,
+            "cảnh": 0.5,
+            "hoàng hôn": 0.5,
+            "đồ uống lạnh": 0.5,
+            "ki-ốt nhỏ chỉ": 0.16459663026034832,
+            "con beack": 0.9949587981682271,
+            "quang cảnh": 0.995333609986119,
+            "trẻ em": 0.5,
+            "trầy xước": 0.34069017320871353,
+            "giày": 0.5,
+            "thể thao": 0.5,
+            "đồ ăn vặt": -0.9704001471400261,
+            "công trình xây dựng": -0.9757151713129133,
+            "bữa ăn": 0.9012573324143887,
+            "leo núi": 0.9216095702722669,
+            "người leo núi": 0.5645323432981968
+        },
+        "dicts_adj": {
+            "bãi biển": [
+                "đẹp",
+                "phải",
+                "sạch",
+                "đẹp",
+                "đầy",
+                "phải",
+                "tốt"
+            ],
+            "quán bar": [
+                "lạnh",
+                "hoàn toàn",
+                "tuyệt vời"
+            ],
+            "đồ uống": [
+                "lạnh"
+            ],
+            "tầm nhìn": [
+                "đẹp",
+                "tốt",
+                "hơn",
+                "nhiều",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "vịnh": [],
+            "chuyến leo núi": [
+                "phải",
+                "dễ dàng"
+            ],
+            "ngày du lịch": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "nhàm",
+                "lâu",
+                "lớn",
+                "hơn"
+            ],
+            "hòn đảo": [
+                "nhỏ",
+                "nhiều",
+                "đẹp"
+            ],
+            "khu nghỉ dưỡng": [],
+            "chủ thuyền": [],
+            "giá cả": [],
+            "diện tích": [],
+            "bản địa": [
+                "ít",
+                "chắc chắn",
+                "phải",
+                "hoàn toàn",
+                "khác"
+            ],
+            "điểm dừng chân": [
+                "thú vị"
+            ],
+            "chuyến đi": [
+                "ĐẶC BIỆT"
+            ],
+            "bờ biển cát trắng": [
+                "đông đúc",
+                "nhiều"
+            ],
+            "biển lặng": [
+                "đông đúc",
+                "nhiều"
+            ],
+            "tàu thuyền": [],
+            "khỉ": [
+                "gần",
+                "hung dữ",
+                "khó",
+                "khác",
+                "hài lòng",
+                "phải"
+            ],
+            "cuộc leo núi": [
+                "thiếu",
+                "sáng suốt",
+                "xỏ ngón"
+            ],
+            "cát": [
+                "lởm chởm",
+                "nguy hiểm"
+            ],
+            "khung cảnh": [
+                "tuyệt vời",
+                "phải"
+            ],
+            "chuyến đi bộ": [
+                "dài",
+                "chắc chắn",
+                "chậm"
+            ],
+            "lễ tân trần": [
+                "tuyệt vời"
+            ],
+            "massage": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "tuyệt vời"
+            ],
+            "nhà hàng": [
+                "hoàn toàn",
+                "tuyệt vời"
+            ],
+            "phòng đảo": [],
+            "ẩm thực": [],
+            "chú": [],
+            "chú chó mà milu": [],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "người": [],
+            "ngu ngốc": [],
+            "con khỉ": [
+                "buồn cười",
+                "hung dữ"
+            ],
+            "hướng dẫn viên": [
+                "buồn cười"
+            ],
+            "bia": [],
+            "núi": [
+                "nguy hiểm",
+                "tuyệt vời",
+                "rắc rối",
+                "hơn",
+                "khác",
+                "khác",
+                "đầy"
+            ],
+            "góc nhìn": [
+                "tuyệt vời",
+                "rắc rối",
+                "hơn"
+            ],
+            "pháo đài": [
+                "nguy hiểm"
+            ],
+            "cảnh": [],
+            "hoàng hôn": [],
+            "đồ uống lạnh": [],
+            "ki-ốt nhỏ chỉ": [],
+            "con beack": [],
+            "quang cảnh": [
+                "đẹp"
+            ],
+            "trẻ em": [],
+            "trầy xước": [],
+            "giày": [],
+            "thể thao": [],
+            "đồ ăn vặt": [
+                "hung dữ"
+            ],
+            "công trình xây dựng": [
+                "khắp"
+            ],
+            "bữa ăn": [
+                "đúng"
+            ],
+            "leo núi": [
+                "đầy"
+            ],
+            "người leo núi": [
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bãi biển": 2.5,
+            "quán bar": 1.0,
+            "đồ uống": 0.5,
+            "tầm nhìn": 1.5,
+            "vịnh": 0.5,
+            "chuyến leo núi": 0.5,
+            "ngày du lịch": 0.5,
+            "chuyến tham quan": 1.0,
+            "hòn đảo": 2.0,
+            "khu nghỉ dưỡng": 0.5,
+            "chủ thuyền": 0.5,
+            "giá cả": 0.5,
+            "diện tích": 0.5,
+            "bản địa": 0.5,
+            "điểm dừng chân": 0.5,
+            "chuyến đi": 0.5,
+            "bờ biển cát trắng": 0.5,
+            "biển lặng": 0.5,
+            "tàu thuyền": 0.5,
+            "khỉ": 1.5,
+            "cuộc leo núi": 0.5,
+            "cát": 0.5,
+            "khung cảnh": 0.5,
+            "chuyến đi bộ": 0.5,
+            "lễ tân trần": 0.5,
+            "massage": 0.5,
+            "nhân viên": 1.0,
+            "nhà hàng": 0.5,
+            "phòng đảo": 0.5,
+            "ẩm thực": 0.5,
+            "chú": 0.5,
+            "chú chó mà milu": 0.5,
+            "trải nghiệm": 0.5,
+            "người": 0.5,
+            "ngu ngốc": 0.5,
+            "con khỉ": 1.5,
+            "hướng dẫn viên": 0.5,
+            "bia": 0.5,
+            "núi": 1.5,
+            "góc nhìn": 0.5,
+            "pháo đài": 0.5,
+            "cảnh": 0.5,
+            "hoàng hôn": 0.5,
+            "đồ uống lạnh": 0.5,
+            "ki-ốt nhỏ chỉ": 0.5,
+            "con beack": 0.5,
+            "quang cảnh": 0.5,
+            "trẻ em": 0.5,
+            "trầy xước": 0.5,
+            "giày": 0.5,
+            "thể thao": 0.5,
+            "đồ ăn vặt": 0.5,
+            "công trình xây dựng": 0.5,
+            "bữa ăn": 0.5,
+            "leo núi": 0.5,
+            "người leo núi": 0.5
+        }
     },
     {
         "attraction_name": "Monkey Island",
@@ -503,7 +1480,236 @@
             "https://www.tripadvisor.com/Attraction_Review-g56763-d23447167-Reviews-Jurassic_World_The_Exhibition-The_Colony_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or50-Monkey_Island-Cat_Ba_Hai_Phong.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or40-Monkey_Island-Cat_Ba_Hai_Phong.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or40-Monkey_Island-Cat_Ba_Hai_Phong.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hòn đảo": -0.09029285470023751,
+            "người": 0.5,
+            "ngu ngốc": 0.5,
+            "lũ khỉ": -0.9480399515014142,
+            "cửa hàng": 0.022127890959382057,
+            "giá": -0.9712708375882357,
+            "bãi biển": 0.7469685103666659,
+            "cát": -0.9650789315346628,
+            "mảnh san hô": -0.9713837159797549,
+            "xuống nước": 0.5138682499527931,
+            "thức ăn": -0.14992610202170908,
+            "nhiệm vụ": 0.9949183178832754,
+            "chuyến đi": -0.9755006923805922,
+            "du ngoạn": 0.5,
+            "thuyền": 0.5656801882432774,
+            "màu hoa": 0.5,
+            "chú khỉ": 0.9954341452976223,
+            "đảo": 0.7929506452055648,
+            "khỉ": 0.4854830635789161,
+            "tầm nhìn": 0.9931274158880115,
+            "đi bộ": 0.5120531055144966,
+            "cả": 0.5,
+            "núi": 0.5,
+            "khu nghỉ dưỡng": 0.5,
+            "chuyến tham quan": 0.6926978526171297,
+            "đường mòn xanh": 0.5,
+            "khung cảnh": 0.013186247524572536,
+            "cho": 0.5,
+            "bế khỉ ăn": 0.5,
+            "chuyến đi bộ": 0.6688230168656446,
+            "người dân": 0.5,
+            "hoang ăn": -0.9761422285810113,
+            "con người": 0.5,
+            "người hướng dẫn": 0.5,
+            "bọn khỉ": 0.5,
+            "con khỉ": 0.43885074742138386,
+            "con vật": 0.9956054663634859,
+            "hình tham quan": -0.9690595106221735,
+            "gấu": 0.3195861726999283,
+            "động vật": 0.37218907475471497,
+            "môi trường sống": 0.6132864151149988,
+            "thỉu": 0.5,
+            "người dân địa phương": -0.9193997029215097,
+            "loài": 0.7572179282142315,
+            "quang cảnh": 0.8034891088027507,
+            "đảo khỉ": 0.7564343591802754
+        },
+        "dicts_adj": {
+            "hòn đảo": [
+                "nhiều",
+                "thực sự",
+                "khác"
+            ],
+            "người": [],
+            "ngu ngốc": [],
+            "lũ khỉ": [],
+            "cửa hàng": [
+                "nhỏ"
+            ],
+            "giá": [
+                "cao"
+            ],
+            "bãi biển": [
+                "công cộng",
+                "đặc biệt",
+                "đẹp",
+                "đủ",
+                "lớn"
+            ],
+            "cát": [
+                "đau đớn"
+            ],
+            "mảnh san hô": [
+                "đau đớn"
+            ],
+            "xuống nước": [],
+            "thức ăn": [
+                "nhiều",
+                "đông",
+                "nhiều"
+            ],
+            "nhiệm vụ": [
+                "duy nhất"
+            ],
+            "chuyến đi": [],
+            "du ngoạn": [],
+            "thuyền": [
+                "thư giãn",
+                "nhiều"
+            ],
+            "màu hoa": [],
+            "chú khỉ": [
+                "dễ thương",
+                "hay",
+                "thú vị"
+            ],
+            "đảo": [
+                "đủ",
+                "lớn",
+                "thực sự",
+                "vui",
+                "nhiều",
+                "vui",
+                "phải",
+                "lân cận",
+                "tuyệt vời"
+            ],
+            "khỉ": [
+                "nhiều",
+                "đẹp",
+                "nhất"
+            ],
+            "tầm nhìn": [
+                "tuyệt vời"
+            ],
+            "đi bộ": [
+                "dài",
+                "dài",
+                "cẩn thận"
+            ],
+            "cả": [],
+            "núi": [],
+            "khu nghỉ dưỡng": [],
+            "chuyến tham quan": [
+                "cùng",
+                "ngắn"
+            ],
+            "đường mòn xanh": [],
+            "khung cảnh": [
+                "tuyệt vời",
+                "ác mộng"
+            ],
+            "cho": [],
+            "bế khỉ ăn": [],
+            "chuyến đi bộ": [
+                "dễ dàng",
+                "nhiều",
+                "cùng",
+                "an toàn"
+            ],
+            "người dân": [],
+            "hoang ăn": [
+                "tự nhiên"
+            ],
+            "con người": [],
+            "người hướng dẫn": [],
+            "bọn khỉ": [],
+            "con khỉ": [
+                "hơn"
+            ],
+            "con vật": [
+                "xinh đẹp"
+            ],
+            "hình tham quan": [],
+            "gấu": [],
+            "động vật": [
+                "tự nhiên"
+            ],
+            "môi trường sống": [
+                "tự nhiên"
+            ],
+            "thỉu": [],
+            "người dân địa phương": [
+                "Nhiều"
+            ],
+            "loài": [
+                "đẹp",
+                "nhất"
+            ],
+            "quang cảnh": [
+                "lân cận",
+                "tuyệt vời"
+            ],
+            "đảo khỉ": [
+                "lân cận",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hòn đảo": 1.5,
+            "người": 0.5,
+            "ngu ngốc": 0.5,
+            "lũ khỉ": 0.5,
+            "cửa hàng": 0.5,
+            "giá": 0.5,
+            "bãi biển": 1.0,
+            "cát": 0.5,
+            "mảnh san hô": 0.5,
+            "xuống nước": 0.5,
+            "thức ăn": 1.0,
+            "nhiệm vụ": 0.5,
+            "chuyến đi": 0.5,
+            "du ngoạn": 0.5,
+            "thuyền": 2.0,
+            "màu hoa": 0.5,
+            "chú khỉ": 1.0,
+            "đảo": 2.5,
+            "khỉ": 1.5,
+            "tầm nhìn": 0.5,
+            "đi bộ": 1.0,
+            "cả": 0.5,
+            "núi": 0.5,
+            "khu nghỉ dưỡng": 0.5,
+            "chuyến tham quan": 1.0,
+            "đường mòn xanh": 0.5,
+            "khung cảnh": 0.5,
+            "cho": 0.5,
+            "bế khỉ ăn": 0.5,
+            "chuyến đi bộ": 0.5,
+            "người dân": 0.5,
+            "hoang ăn": 0.5,
+            "con người": 0.5,
+            "người hướng dẫn": 0.5,
+            "bọn khỉ": 0.5,
+            "con khỉ": 0.5,
+            "con vật": 0.5,
+            "hình tham quan": 0.5,
+            "gấu": 0.5,
+            "động vật": 0.5,
+            "môi trường sống": 0.5,
+            "thỉu": 0.5,
+            "người dân địa phương": 0.5,
+            "loài": 0.5,
+            "quang cảnh": 0.5,
+            "đảo khỉ": 0.5
+        }
     },
     {
         "attraction_name": "Monkey Island",
@@ -608,7 +1814,179 @@
             "https://www.tripadvisor.com/Attraction_Review-g54391-d9762651-Reviews-Pickens_Flea_Market-Pickens_South_Carolina.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or60-Monkey_Island-Cat_Ba_Hai_Phong.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or50-Monkey_Island-Cat_Ba_Hai_Phong.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or50-Monkey_Island-Cat_Ba_Hai_Phong.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hòn đảo": 0.4831595820141956,
+            "đảo": 0.7303792950697243,
+            "thuyền": 0.8703277073800564,
+            "giày thể thao": -0.9282726054079831,
+            "bãi biển": 0.5619610923652848,
+            "bãi cát": 0.9954609365086071,
+            "thể thao": -0.6382854813709855,
+            "quần áo": 0.4649260938167572,
+            "con khỉ": 0.025741114155001316,
+            "bờ biển": 0.5,
+            "khỉ": 0.47992813284508884,
+            "đất nước": 0.8795029344037175,
+            "chuyến tham quan": 0.9895169665396679,
+            "họ": 0.8257882776670158,
+            "chuyến đi bộ": 0.5,
+            "núi": -0.8424362186342478,
+            "góc nhìn": 0.9951111737755127,
+            "nhà hàng": -0.21609709807671607,
+            "quang cảnh": 0.9955730469082482,
+            "vịnh": 0.8737691454589367,
+            "bia lạnh": 0.9862917370337527,
+            "khung cảnh": 0.978657927364111,
+            "bia": 0.5,
+            "hộp sữa": -0.9573851218447089,
+            "đảo khỉ": -0.9647842042613775,
+            "nước": 0.5,
+            "đi bộ": 0.28849734738469124,
+            "người dân địa phương": 0.5491470117121935,
+            "bệnh viện": 0.38940268754959106,
+            "lũ": -0.8067094180732965
+        },
+        "dicts_adj": {
+            "hòn đảo": [
+                "nhỏ",
+                "cẩn thận",
+                "đủ",
+                "lớn",
+                "nhỏ"
+            ],
+            "đảo": [
+                "hơn"
+            ],
+            "thuyền": [],
+            "giày thể thao": [
+                "thực sự",
+                "dốc",
+                "nhiều",
+                "cụ thể"
+            ],
+            "bãi biển": [
+                "tuyệt vời",
+                "đắt",
+                "hơn",
+                "đẹp"
+            ],
+            "bãi cát": [
+                "tuyệt vời"
+            ],
+            "thể thao": [
+                "dài"
+            ],
+            "quần áo": [
+                "dài"
+            ],
+            "con khỉ": [
+                "thực sự",
+                "ngoan ngoãn",
+                "cẩn thận",
+                "nhiều",
+                "thực sự",
+                "ngoan ngoãn",
+                "cẩn thận",
+                "nhiều",
+                "hung dữ"
+            ],
+            "bờ biển": [],
+            "khỉ": [
+                "thực sự",
+                "ngoan ngoãn",
+                "cẩn thận",
+                "nhiều",
+                "lớn"
+            ],
+            "đất nước": [
+                "chắc chắn"
+            ],
+            "chuyến tham quan": [
+                "thú vị",
+                "hoàn hảo"
+            ],
+            "họ": [
+                "tinh nghịch"
+            ],
+            "chuyến đi bộ": [],
+            "núi": [
+                "khó khăn"
+            ],
+            "góc nhìn": [
+                "đẹp"
+            ],
+            "nhà hàng": [
+                "đắt",
+                "hơn"
+            ],
+            "quang cảnh": [
+                "đẹp"
+            ],
+            "vịnh": [
+                "hoàn hảo"
+            ],
+            "bia lạnh": [
+                "đẹp",
+                "phiền phức"
+            ],
+            "khung cảnh": [
+                "đẹp",
+                "phiền phức"
+            ],
+            "bia": [],
+            "hộp sữa": [
+                "lâu",
+                "nhỏ"
+            ],
+            "đảo khỉ": [],
+            "nước": [],
+            "đi bộ": [
+                "dài",
+                "tốt"
+            ],
+            "người dân địa phương": [],
+            "bệnh viện": [
+                "hơn"
+            ],
+            "lũ": [
+                "hơn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hòn đảo": 2.0,
+            "đảo": 1.0,
+            "thuyền": 0.5,
+            "giày thể thao": 0.5,
+            "bãi biển": 1.0,
+            "bãi cát": 0.5,
+            "thể thao": 0.5,
+            "quần áo": 0.5,
+            "con khỉ": 1.5,
+            "bờ biển": 0.5,
+            "khỉ": 1.5,
+            "đất nước": 0.5,
+            "chuyến tham quan": 1.0,
+            "họ": 0.5,
+            "chuyến đi bộ": 0.5,
+            "núi": 0.5,
+            "góc nhìn": 0.5,
+            "nhà hàng": 0.5,
+            "quang cảnh": 0.5,
+            "vịnh": 0.5,
+            "bia lạnh": 0.5,
+            "khung cảnh": 0.5,
+            "bia": 0.5,
+            "hộp sữa": 0.5,
+            "đảo khỉ": 0.5,
+            "nước": 0.5,
+            "đi bộ": 0.5,
+            "người dân địa phương": 0.5,
+            "bệnh viện": 0.5,
+            "lũ": 0.5
+        }
     },
     {
         "attraction_name": "Monkey Island",
@@ -713,7 +2091,183 @@
             "https://www.tripadvisor.com/Attraction_Review-g55197-d144592-Reviews-Mud_Island_River_Park-Memphis_Tennessee.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or70-Monkey_Island-Cat_Ba_Hai_Phong.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or60-Monkey_Island-Cat_Ba_Hai_Phong.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or60-Monkey_Island-Cat_Ba_Hai_Phong.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến du lịch": 0.9659869056195021,
+            "đảo khỉ": 0.8737691454589367,
+            "núi": 0.5214984202757478,
+            "tảng đá": 0.5189375784248114,
+            "con khỉ": 0.9781513306661509,
+            "thức ăn": 0.5,
+            "hướng dẫn viên du lịch": 0.9952414589060936,
+            "động vật": 0.19991125321636596,
+            "quán bar": 0.5,
+            "nhà hàng": 0.5,
+            "thuyền": 0.503594271838665,
+            "đảo": 0.5171430098513762,
+            "chuyến tham quan": 0.5,
+            "vịnh": 0.5,
+            "thực phẩm": 0.5,
+            "túi xách": 0.5,
+            "lũ": 0.9799773623235524,
+            "khỉ": 0.5,
+            "bia": 0.5,
+            "nước": 0.5,
+            "điểm quan sát": 0.9954863404273055,
+            "cuộc": 0.9821285267244093,
+            "leo núi": 0.9741583542199805,
+            "đôi": 0.5,
+            "hòn đảo": 0.5,
+            "lũ khỉ": 0.5,
+            "điểm tham quan": -0.9503805267158896,
+            "gấu": 0.3633338790386915,
+            "khu bảo tồn": 0.6725112721323967,
+            "môi": 0.5769846886396408,
+            "trường sống": 0.667501287534833,
+            "chú bé": 0.9857689556665719,
+            "mất mũ": -0.9517895602621138,
+            "người hướng dẫn": -0.9314879118464887,
+            "giá": 0.9247397864237428,
+            "bãi biển": 0.9745239834301174,
+            "biển báo": -0.0930069088935852,
+            "con khỉ hoang dã": 0.5659556165337563,
+            "buổi biểu diễn": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "chuyến du lịch": [
+                "tốt"
+            ],
+            "đảo khỉ": [
+                "tốt"
+            ],
+            "núi": [
+                "tốt"
+            ],
+            "tảng đá": [
+                "tốt"
+            ],
+            "con khỉ": [
+                "dễ thương",
+                "trẻ"
+            ],
+            "thức ăn": [],
+            "hướng dẫn viên du lịch": [
+                "yên",
+                "an toàn"
+            ],
+            "động vật": [
+                "yên",
+                "an toàn",
+                "tự nhiên",
+                "buồn cười"
+            ],
+            "quán bar": [],
+            "nhà hàng": [],
+            "thuyền": [],
+            "đảo": [
+                "đủ",
+                "nhanh"
+            ],
+            "chuyến tham quan": [],
+            "vịnh": [],
+            "thực phẩm": [],
+            "túi xách": [],
+            "lũ": [],
+            "khỉ": [],
+            "bia": [],
+            "nước": [],
+            "điểm quan sát": [
+                "xứng đáng"
+            ],
+            "cuộc": [
+                "dễ dàng",
+                "chắc chắn"
+            ],
+            "leo núi": [
+                "dễ dàng",
+                "chắc chắn"
+            ],
+            "đôi": [],
+            "hòn đảo": [],
+            "lũ khỉ": [],
+            "điểm tham quan": [],
+            "gấu": [
+                "dài"
+            ],
+            "khu bảo tồn": [
+                "tự nhiên"
+            ],
+            "môi": [
+                "tự nhiên"
+            ],
+            "trường sống": [
+                "tự nhiên"
+            ],
+            "chú bé": [
+                "dễ thương"
+            ],
+            "mất mũ": [],
+            "người hướng dẫn": [],
+            "giá": [
+                "ổn"
+            ],
+            "bãi biển": [
+                "cơ bản",
+                "đẹp"
+            ],
+            "biển báo": [],
+            "con khỉ hoang dã": [
+                "ổn",
+                "đủ",
+                "mạnh"
+            ],
+            "buổi biểu diễn": [
+                "buồn cười"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến du lịch": 0.5,
+            "đảo khỉ": 0.5,
+            "núi": 1.0,
+            "tảng đá": 0.5,
+            "con khỉ": 0.5,
+            "thức ăn": 1.0,
+            "hướng dẫn viên du lịch": 0.5,
+            "động vật": 1.5,
+            "quán bar": 0.5,
+            "nhà hàng": 0.5,
+            "thuyền": 1.0,
+            "đảo": 1.5,
+            "chuyến tham quan": 0.5,
+            "vịnh": 0.5,
+            "thực phẩm": 0.5,
+            "túi xách": 0.5,
+            "lũ": 0.5,
+            "khỉ": 0.5,
+            "bia": 0.5,
+            "nước": 0.5,
+            "điểm quan sát": 0.5,
+            "cuộc": 0.5,
+            "leo núi": 0.5,
+            "đôi": 0.5,
+            "hòn đảo": 0.5,
+            "lũ khỉ": 0.5,
+            "điểm tham quan": 0.5,
+            "gấu": 0.5,
+            "khu bảo tồn": 0.5,
+            "môi": 0.5,
+            "trường sống": 0.5,
+            "chú bé": 0.5,
+            "mất mũ": 0.5,
+            "người hướng dẫn": 0.5,
+            "giá": 0.5,
+            "bãi biển": 0.5,
+            "biển báo": 0.5,
+            "con khỉ hoang dã": 0.5,
+            "buổi biểu diễn": 0.5
+        }
     },
     {
         "attraction_name": "Monkey Island",
@@ -810,7 +2364,213 @@
             "https://www.tripadvisor.com/Attraction_Review-g34515-d116965-Reviews-Lake_Buena_Vista_Factory_Stores-Orlando_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or80-Monkey_Island-Cat_Ba_Hai_Phong.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or70-Monkey_Island-Cat_Ba_Hai_Phong.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or70-Monkey_Island-Cat_Ba_Hai_Phong.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "lũ": 0.5504160523414612,
+            "thức ăn": 0.5,
+            "đồ uống": 0.5,
+            "con": 0.5329139651730657,
+            "khỉ": 0.4864679165184498,
+            "bánh mì": 0.5,
+            "chuyến đi bộ": 0.9950813188333996,
+            "con người": 0.008473102003335953,
+            "đảo": -0.11364021195913665,
+            "lũ khỉ": 0.5,
+            "bia": 0.4143570186570287,
+            "chú khỉ": 0.9864798620401416,
+            "nước": 0.5,
+            "trái cây": 0.5,
+            "núi": 0.9783780574798584,
+            "cảnh": 0.9945543361827731,
+            "lập trường": -0.8509415034204721,
+            "con khỉ": 0.06526530689249437,
+            "bãi biển": 0.979660730867181,
+            "điểm quan sát": 0.5,
+            "giày dép": 0.5,
+            "tầm nhìn": 0.5,
+            "chuyến tham quan": 0.5531511803468069,
+            "vịnh": 0.5,
+            "chúng": -0.9736243013758212,
+            "động vật": 0.6185547634959221,
+            "cảnh quan": 0.8737691454589367,
+            "​​núi": 0.5,
+            "đi bộ đường dài": 0.5,
+            "giày": 0.5,
+            "thể thao": 0.5,
+            "dép": 0.5,
+            "dép xỏ": -0.779767625965178,
+            "túi xách": -0.9598115019034594,
+            "người dân địa phương": 0.5663338983431458,
+            "đồ ăn": 0.6533634588122368,
+            "nước ngọt": 0.5,
+            "thuyền": 0.5,
+            "con vật": 0.9928492350736633,
+            "cho ăn bởi": -0.6571746170520782,
+            "rác": 0.5,
+            "vườn thú": 0.5604278463870287,
+            "hòn đảo": 0.9555897107347846,
+            "hành trình": 0.9878538936609402
+        },
+        "dicts_adj": {
+            "lũ": [
+                "hung dữ"
+            ],
+            "thức ăn": [],
+            "đồ uống": [],
+            "con": [
+                "lớn"
+            ],
+            "khỉ": [
+                "lớn",
+                "bình thường"
+            ],
+            "bánh mì": [],
+            "chuyến đi bộ": [
+                "đẹp"
+            ],
+            "con người": [
+                "phải"
+            ],
+            "đảo": [
+                "phải",
+                "thực sự"
+            ],
+            "lũ khỉ": [],
+            "bia": [],
+            "chú khỉ": [
+                "thú vị",
+                "cẩn thận"
+            ],
+            "nước": [],
+            "trái cây": [],
+            "núi": [
+                "đẹp"
+            ],
+            "cảnh": [
+                "đẹp"
+            ],
+            "lập trường": [
+                "vững"
+            ],
+            "con khỉ": [
+                "dễ dàng",
+                "phải",
+                "gần",
+                "nhiều",
+                "hơn"
+            ],
+            "bãi biển": [
+                "bất kỳ",
+                "nhiều",
+                "khắp"
+            ],
+            "điểm quan sát": [],
+            "giày dép": [],
+            "tầm nhìn": [],
+            "chuyến tham quan": [
+                "bất kỳ"
+            ],
+            "vịnh": [],
+            "chúng": [
+                "tự nhiên",
+                "ngọt"
+            ],
+            "động vật": [
+                "thực sự",
+                "đẹp"
+            ],
+            "cảnh quan": [
+                "đẹp"
+            ],
+            "​​núi": [],
+            "đi bộ đường dài": [],
+            "giày": [],
+            "thể thao": [],
+            "dép": [],
+            "dép xỏ": [
+                "cao",
+                "hơn",
+                "khó khăn",
+                "hơn",
+                "nhiều"
+            ],
+            "túi xách": [
+                "cùng"
+            ],
+            "người dân địa phương": [
+                "nhẹ"
+            ],
+            "đồ ăn": [
+                "nhẹ"
+            ],
+            "nước ngọt": [],
+            "thuyền": [],
+            "con vật": [
+                "tội nghiệp"
+            ],
+            "cho ăn bởi": [
+                "Căng thẳng",
+                "nhiều"
+            ],
+            "rác": [],
+            "vườn thú": [
+                "bình thường"
+            ],
+            "hòn đảo": [
+                "kết hợp"
+            ],
+            "hành trình": [
+                "kết hợp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "lũ": 1.0,
+            "thức ăn": 1.0,
+            "đồ uống": 0.5,
+            "con": 0.5,
+            "khỉ": 1.5,
+            "bánh mì": 0.5,
+            "chuyến đi bộ": 0.5,
+            "con người": 1.5,
+            "đảo": 2.0,
+            "lũ khỉ": 0.5,
+            "bia": 1.0,
+            "chú khỉ": 0.5,
+            "nước": 0.5,
+            "trái cây": 0.5,
+            "núi": 0.5,
+            "cảnh": 0.5,
+            "lập trường": 0.5,
+            "con khỉ": 1.5,
+            "bãi biển": 1.0,
+            "điểm quan sát": 0.5,
+            "giày dép": 0.5,
+            "tầm nhìn": 0.5,
+            "chuyến tham quan": 1.5,
+            "vịnh": 0.5,
+            "chúng": 0.5,
+            "động vật": 0.5,
+            "cảnh quan": 0.5,
+            "​​núi": 0.5,
+            "đi bộ đường dài": 0.5,
+            "giày": 0.5,
+            "thể thao": 0.5,
+            "dép": 0.5,
+            "dép xỏ": 0.5,
+            "túi xách": 0.5,
+            "người dân địa phương": 0.5,
+            "đồ ăn": 0.5,
+            "nước ngọt": 0.5,
+            "thuyền": 0.5,
+            "con vật": 0.5,
+            "cho ăn bởi": 0.5,
+            "rác": 0.5,
+            "vườn thú": 0.5,
+            "hòn đảo": 0.5,
+            "hành trình": 0.5
+        }
     },
     {
         "attraction_name": "Monkey Island",
@@ -915,7 +2675,232 @@
             "https://www.tripadvisor.com/Attraction_Review-g49054-d7001315-Reviews-River_Park_at_Cooleemee_Falls-Cooleemee_North_Carolina.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or90-Monkey_Island-Cat_Ba_Hai_Phong.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or80-Monkey_Island-Cat_Ba_Hai_Phong.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or80-Monkey_Island-Cat_Ba_Hai_Phong.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đảo": 0.7517662526515778,
+            "cửa hàng": 0.022127890959382057,
+            "bọn": 0.5,
+            "khỉ": 0.23653089833290628,
+            "thức ăn": 0.10398824089982857,
+            "động vật": 0.009084849618375301,
+            "cho đẹp": 0.5,
+            "dép": -0.9510178915224969,
+            "tầm nhìn": 0.9952235195087269,
+            "kỹ năng leo núi": 0.9661625348962843,
+            "bản địa": 0.5,
+            "khỉ sống": 0.44612512178719044,
+            "hòn đảo": 0.751853538909927,
+            "hướng dẫn viên": -0.8305963319726288,
+            "con khỉ": 0.31091636791825294,
+            "chuyến du ngoạn": 0.5,
+            "tour du lịch": 0.5,
+            "thùng rác": -0.9680853253230453,
+            "con khỉ cái": 0.5,
+            "bia": -0.23277019825764,
+            "đồ uống": 0.5,
+            "người quản lý": 0.5138351954519749,
+            "cáu": 0.5127576626837254,
+            "câu đố": 0.5784227959811687,
+            "bãi biển": 0.6651802035048604,
+            "thuyền": 0.9785670379642397,
+            "chú khỉ": 0.4957413785159588,
+            "khoai tây chiên": 0.5814437493681908,
+            "đồ ăn": 0.5,
+            "lon": 0.5,
+            "nước": 0.5,
+            "ba lô": 0.4261333495378494,
+            "áo khoác sáng": -0.3995205210521817,
+            "người dân địa phương": -0.9733467060141265,
+            "điểm dừng chân": 0.8737691454589367,
+            "chuyến đi thuyền": 0.8477290643301482,
+            "khung cảnh": 0.844705916630725,
+            "lũ": 0.5,
+            "chuyến đi": 0.5,
+            "vịnh": 0.5,
+            "đi bộ": 0.3231313619762659,
+            "cuộc leo núi": 0.41306074522435665,
+            "chú": 0.3638595640659332,
+            "cây": -0.949357649544254
+        },
+        "dicts_adj": {
+            "đảo": [
+                "tuyệt vời",
+                "nhỏ"
+            ],
+            "cửa hàng": [
+                "nhỏ"
+            ],
+            "bọn": [],
+            "khỉ": [
+                "phải",
+                "khác",
+                "đủ",
+                "dễ",
+                "khác",
+                "đủ",
+                "dễ",
+                "gần",
+                "ngắn"
+            ],
+            "thức ăn": [
+                "điên",
+                "dễ thương",
+                "cẩn thận"
+            ],
+            "động vật": [],
+            "cho đẹp": [],
+            "dép": [
+                "tốt"
+            ],
+            "tầm nhìn": [
+                "tuyệt vời"
+            ],
+            "kỹ năng leo núi": [
+                "tốt"
+            ],
+            "bản địa": [],
+            "khỉ sống": [
+                "nhỏ"
+            ],
+            "hòn đảo": [
+                "nhỏ",
+                "xinh đẹp",
+                "nhiều"
+            ],
+            "hướng dẫn viên": [
+                "mạnh"
+            ],
+            "con khỉ": [
+                "bất kỳ"
+            ],
+            "chuyến du ngoạn": [],
+            "tour du lịch": [],
+            "thùng rác": [
+                "giống"
+            ],
+            "con khỉ cái": [],
+            "bia": [
+                "bất kỳ"
+            ],
+            "đồ uống": [],
+            "người quản lý": [
+                "vui"
+            ],
+            "cáu": [
+                "vui"
+            ],
+            "câu đố": [
+                "vui"
+            ],
+            "bãi biển": [
+                "sạch sẽ",
+                "trong lành"
+            ],
+            "thuyền": [
+                "nhiều",
+                "nhanh chóng"
+            ],
+            "chú khỉ": [
+                "tranh giành",
+                "tranh giành"
+            ],
+            "khoai tây chiên": [
+                "tranh giành"
+            ],
+            "đồ ăn": [],
+            "lon": [],
+            "nước": [],
+            "ba lô": [
+                "lớn",
+                "chằm chằm"
+            ],
+            "áo khoác sáng": [
+                "út"
+            ],
+            "người dân địa phương": [
+                "tệ",
+                "rõ",
+                "hơn"
+            ],
+            "điểm dừng chân": [
+                "tuyệt vời"
+            ],
+            "chuyến đi thuyền": [
+                "đẹp",
+                "khoảng",
+                "vui vẻ"
+            ],
+            "khung cảnh": [
+                "đẹp",
+                "khoảng",
+                "vui vẻ"
+            ],
+            "lũ": [],
+            "chuyến đi": [],
+            "vịnh": [],
+            "đi bộ": [
+                "dài",
+                "giống"
+            ],
+            "cuộc leo núi": [
+                "dốc",
+                "hơn"
+            ],
+            "chú": [
+                "ngắn"
+            ],
+            "cây": [
+                "ngắn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đảo": 0.5,
+            "cửa hàng": 0.5,
+            "bọn": 0.5,
+            "khỉ": 1.5,
+            "thức ăn": 3.0,
+            "động vật": 1.5,
+            "cho đẹp": 0.5,
+            "dép": 0.5,
+            "tầm nhìn": 0.5,
+            "kỹ năng leo núi": 0.5,
+            "bản địa": 0.5,
+            "khỉ sống": 0.5,
+            "hòn đảo": 1.0,
+            "hướng dẫn viên": 0.5,
+            "con khỉ": 1.0,
+            "chuyến du ngoạn": 0.5,
+            "tour du lịch": 0.5,
+            "thùng rác": 0.5,
+            "con khỉ cái": 0.5,
+            "bia": 1.0,
+            "đồ uống": 0.5,
+            "người quản lý": 0.5,
+            "cáu": 0.5,
+            "câu đố": 0.5,
+            "bãi biển": 1.5,
+            "thuyền": 0.5,
+            "chú khỉ": 1.0,
+            "khoai tây chiên": 0.5,
+            "đồ ăn": 0.5,
+            "lon": 0.5,
+            "nước": 0.5,
+            "ba lô": 0.5,
+            "áo khoác sáng": 0.5,
+            "người dân địa phương": 0.5,
+            "điểm dừng chân": 0.5,
+            "chuyến đi thuyền": 0.5,
+            "khung cảnh": 0.5,
+            "lũ": 0.5,
+            "chuyến đi": 0.5,
+            "vịnh": 0.5,
+            "đi bộ": 0.5,
+            "cuộc leo núi": 0.5,
+            "chú": 0.5,
+            "cây": 0.5
+        }
     },
     {
         "attraction_name": "Monkey Island",
@@ -1020,7 +3005,379 @@
             "https://www.tripadvisor.com/Attraction_Review-g143031-d3320053-Reviews-Foothills_Parkway-Great_Smoky_Mountains_National_Park_Tennessee.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or100-Monkey_Island-Cat_Ba_Hai_Phong.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or90-Monkey_Island-Cat_Ba_Hai_Phong.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d5979069-Reviews-or90-Monkey_Island-Cat_Ba_Hai_Phong.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.5586025603115559,
+            "chuyến đi bộ": 0.647896790294908,
+            "trải nghiệm": 0.8533781983423978,
+            "khung cảnh": 0.8737691454589367,
+            "đảo": 0.573526734195184,
+            "đi bộ": 0.6918986821547151,
+            "cảnh": 0.9955440650228411,
+            "đồ đạc": 0.2927407752722502,
+            "con khỉ": 0.3785576223292284,
+            "động vật": 0.4840018510003574,
+            "con người": 0.5,
+            "hòn đảo": -0.045621228870004416,
+            "vũ khí": 0.5684146583080292,
+            "khỉ": 0.16364843235351145,
+            "chúng ăn": 0.9871110315434635,
+            "đồ ăn": 0.5117204453175267,
+            "cạnh lũ": 0.4277851562947035,
+            "bệnh viện": -0.6485703748185188,
+            "bác sĩ": 0.9756884311791509,
+            "hướng dẫn viên": 0.9410731700481847,
+            "phòng": 0.5324480831623077,
+            "tour": -0.20975122833624482,
+            "mạng sống": 0.5,
+            "cảnh báo": -0.9717468549497426,
+            "hàm răng": 0.536438356153667,
+            "chú khỉ": 0.5193571411073208,
+            "núi": 0.4319620633032173,
+            "bãi biển": 0.5,
+            "quang cảnh": 0.8596593838883564,
+            "vịnh lahn na": 0.8737691454589367,
+            "đảo khỉ": 0.38745598022069316,
+            "đồ ăn nhẹ": 0.2426968751475215,
+            "cho khỉ ăn": 0.5,
+            "túi lớn": 0.6220683694506685,
+            "bánh mì": 0.58218789473176,
+            "khoai tây chiên": 0.5883287619799376,
+            "bánh quy": 0.45759843351940316,
+            "còn": -0.9658958290237933,
+            "chuyên gia về": 0.5034875832498074,
+            "cửa hàng": 0.5,
+            "quần áo": 0.8737691454589367,
+            "thuyền": 0.5,
+            "chuyến tham quan": 0.759563735317594,
+            "rượu": -0.1704031047411263,
+            "thức ăn": 0.5036159958690405,
+            "cho lũ": 0.5,
+            "lũ": 0.5,
+            "người": 0.6909784546587616,
+            "túi đóng": 0.5098610371351242,
+            "cho khỉ": 0.5,
+            "vịnh": 0.9952712376834825,
+            "đồ uống": 0.5,
+            "rừng": 0.995574542786926,
+            "vật dụng cá": 0.9939526922535151,
+            "mặt hàng": 0.43407366750761867,
+            "người hướng dẫn": 0.939554687589407,
+            "leo núi": 0.07129343040287495,
+            "vùng đất": 0.46259962394833565,
+            "tảng đá": 0.04121500998735428,
+            "đôi chân": 0.4706347621977329,
+            "vết sẹo": 0.5012494698166847,
+            "chuyến đi bộ đó": -0.943729305639863,
+            "-": -0.9715718610677868,
+            "dép": -0.9691846712958068,
+            "tầm nhìn": 0.9947681558551267
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "ít",
+                "cùng",
+                "dại",
+                "gần"
+            ],
+            "chuyến đi bộ": [
+                "nhiều",
+                "phải",
+                "thú vị"
+            ],
+            "trải nghiệm": [
+                "phải",
+                "tuyệt vời",
+                "tồi tệ",
+                "tuyệt vời"
+            ],
+            "khung cảnh": [
+                "đẹp"
+            ],
+            "đảo": [
+                "dài",
+                "bối rối",
+                "nhiều",
+                "nhiều",
+                "duy nhất",
+                "ốm yếu",
+                "chắc chắn",
+                "mạnh"
+            ],
+            "đi bộ": [
+                "dài",
+                "phải",
+                "dễ dàng",
+                "thực sự"
+            ],
+            "cảnh": [
+                "đẹp"
+            ],
+            "đồ đạc": [
+                "phải"
+            ],
+            "con khỉ": [
+                "dại",
+                "gần",
+                "ốm yếu",
+                "chắc chắn",
+                "mạnh"
+            ],
+            "động vật": [],
+            "con người": [],
+            "hòn đảo": [
+                "xa",
+                "thực sự",
+                "xinh đẹp",
+                "đẹp"
+            ],
+            "vũ khí": [
+                "cẩn thận"
+            ],
+            "khỉ": [
+                "thực sự",
+                "hung dữ",
+                "duy nhất"
+            ],
+            "chúng ăn": [],
+            "đồ ăn": [
+                "tự nhiên",
+                "nhiều",
+                "gần"
+            ],
+            "cạnh lũ": [
+                "dại",
+                "gần"
+            ],
+            "bệnh viện": [
+                "thực sự",
+                "sớm",
+                "tốt",
+                "tốt"
+            ],
+            "bác sĩ": [
+                "nhiều"
+            ],
+            "hướng dẫn viên": [
+                "an toàn",
+                "May mắn",
+                "khác",
+                "an toàn"
+            ],
+            "phòng": [
+                "dại"
+            ],
+            "tour": [
+                "đơn giản"
+            ],
+            "mạng sống": [],
+            "cảnh báo": [
+                "nguy hiểm"
+            ],
+            "hàm răng": [
+                "đủ"
+            ],
+            "chú khỉ": [
+                "duy nhất"
+            ],
+            "núi": [
+                "mệt mỏi",
+                "dài",
+                "tốt"
+            ],
+            "bãi biển": [],
+            "quang cảnh": [
+                "đẹp",
+                "nhất",
+                "lạnh"
+            ],
+            "vịnh lahn na": [
+                "xinh đẹp",
+                "đẹp"
+            ],
+            "đảo khỉ": [
+                "nhiều",
+                "tuyệt vời",
+                "đặc biệt"
+            ],
+            "đồ ăn nhẹ": [
+                "sẵn",
+                "khác",
+                "suốt",
+                "riêng",
+                "đắt"
+            ],
+            "cho khỉ ăn": [],
+            "túi lớn": [
+                "sẵn",
+                "khác",
+                "suốt"
+            ],
+            "bánh mì": [
+                "sẵn",
+                "khác",
+                "suốt"
+            ],
+            "khoai tây chiên": [
+                "sẵn",
+                "khác",
+                "suốt"
+            ],
+            "bánh quy": [
+                "sẵn",
+                "khác",
+                "suốt"
+            ],
+            "còn": [],
+            "chuyên gia về": [
+                "phải",
+                "đúng"
+            ],
+            "cửa hàng": [],
+            "quần áo": [
+                "ấm",
+                "lạnh"
+            ],
+            "thuyền": [],
+            "chuyến tham quan": [
+                "tuyệt vời"
+            ],
+            "rượu": [
+                "tự nhiên",
+                "nhiều",
+                "gần"
+            ],
+            "thức ăn": [
+                "tự nhiên",
+                "nhiều",
+                "gần"
+            ],
+            "cho lũ": [],
+            "lũ": [],
+            "người": [
+                "dễ dàng"
+            ],
+            "túi đóng": [
+                "kín"
+            ],
+            "cho khỉ": [],
+            "vịnh": [
+                "tuyệt"
+            ],
+            "đồ uống": [],
+            "rừng": [
+                "rẻ",
+                "tuyệt vời"
+            ],
+            "vật dụng cá": [
+                "thận trọng"
+            ],
+            "mặt hàng": [
+                "ít",
+                "hơn"
+            ],
+            "người hướng dẫn": [],
+            "leo núi": [
+                "nhỏ bé"
+            ],
+            "vùng đất": [
+                "cao",
+                "hơn"
+            ],
+            "tảng đá": [
+                "nhọn",
+                "nhọn hoắt",
+                "nặng"
+            ],
+            "đôi chân": [
+                "khó khăn",
+                "ngắn",
+                "khác",
+                "đủ"
+            ],
+            "vết sẹo": [],
+            "chuyến đi bộ đó": [
+                "nguy hiểm"
+            ],
+            "-": [
+                "nguy hiểm"
+            ],
+            "dép": [
+                "nguy hiểm"
+            ],
+            "tầm nhìn": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 1.0,
+            "chuyến đi bộ": 0.5,
+            "trải nghiệm": 1.5,
+            "khung cảnh": 0.5,
+            "đảo": 2.0,
+            "đi bộ": 1.0,
+            "cảnh": 0.5,
+            "đồ đạc": 0.5,
+            "con khỉ": 1.5,
+            "động vật": 1.0,
+            "con người": 0.5,
+            "hòn đảo": 1.0,
+            "vũ khí": 0.5,
+            "khỉ": 1.0,
+            "chúng ăn": 0.5,
+            "đồ ăn": 1.5,
+            "cạnh lũ": 0.5,
+            "bệnh viện": 0.5,
+            "bác sĩ": 0.5,
+            "hướng dẫn viên": 1.0,
+            "phòng": 0.5,
+            "tour": 1.0,
+            "mạng sống": 0.5,
+            "cảnh báo": 0.5,
+            "hàm răng": 0.5,
+            "chú khỉ": 0.5,
+            "núi": 1.5,
+            "bãi biển": 1.0,
+            "quang cảnh": 0.5,
+            "vịnh lahn na": 0.5,
+            "đảo khỉ": 2.0,
+            "đồ ăn nhẹ": 0.5,
+            "cho khỉ ăn": 0.5,
+            "túi lớn": 0.5,
+            "bánh mì": 0.5,
+            "khoai tây chiên": 0.5,
+            "bánh quy": 0.5,
+            "còn": 0.5,
+            "chuyên gia về": 0.5,
+            "cửa hàng": 0.5,
+            "quần áo": 0.5,
+            "thuyền": 0.5,
+            "chuyến tham quan": 1.5,
+            "rượu": 1.0,
+            "thức ăn": 1.0,
+            "cho lũ": 0.5,
+            "lũ": 0.5,
+            "người": 1.0,
+            "túi đóng": 0.5,
+            "cho khỉ": 0.5,
+            "vịnh": 0.5,
+            "đồ uống": 0.5,
+            "rừng": 0.5,
+            "vật dụng cá": 0.5,
+            "mặt hàng": 0.5,
+            "người hướng dẫn": 0.5,
+            "leo núi": 0.5,
+            "vùng đất": 0.5,
+            "tảng đá": 0.5,
+            "đôi chân": 0.5,
+            "vết sẹo": 0.5,
+            "chuyến đi bộ đó": 0.5,
+            "-": 0.5,
+            "dép": 0.5,
+            "tầm nhìn": 0.5
+        }
     },
     {
         "attraction_name": "Monkey Island",
@@ -1125,6 +3482,263 @@
             "https://www.tripadvisor.com/Attraction_Review-g295424-d10318615-Reviews-Cara_Jewellers-Dubai_Emirate_of_Dubai.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g294480-d301197-Reviews-or10-Monkey_Island-Panama_City_Panama_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g294480-d301197-Reviews-Monkey_Island-Panama_City_Panama_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g294480-d301197-Reviews-Monkey_Island-Panama_City_Panama_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hòn đảo": 0.4204223193228245,
+            "thuyền": 0.6436731246716451,
+            "khu rừng": 0.6716057159023227,
+            "thiên nhiên": 0.7327552512288094,
+            "cho": 0.5,
+            "khỉ hoang dã": 0.7098996778950095,
+            "thức ăn": 0.5,
+            "con người": 0.5,
+            "hệ sinh thái": -0.8974134225863963,
+            "bờ biển": -0.9447050876915455,
+            "động vật hoang dã": -0.3760567754972726,
+            "khỉ": 0.45340839605778455,
+            "người lái thuyền": 0.5,
+            "môi trường": 0.5,
+            "chuyến tham quan": 0.5095425515901297,
+            "động vật hoang": -0.16336512379348278,
+            "thái độ": -0.06378776975907385,
+            "thuyền trưởng": -0.1061024455120787,
+            "cho khỉ ăn": 0.4842722248286009,
+            "khoai tây chiên": 0.5700061013922095,
+            "cho lũ": 0.5,
+            "tour du lịch": -0.9659357701893896,
+            "đời sống hoang dã": 0.9703249093145132,
+            "hồ": 0.5,
+            "đảo khỉ": -0.41599555921857245,
+            "khung cảnh": 0.8737691454589367,
+            "chuyến đi": 0.9954012614907697,
+            "trải nghiệm": 0.4798724399370258,
+            "chuyến thăm đảo khỉ": 0.9953907210729085,
+            "thực vật": 0.9955101110390387,
+            "tiện nghi": 0.5338681302964687,
+            "bến tàu": 0.5,
+            "hướng dẫn viên": 0.8957148704212159,
+            "kênh đào": 0.8737691454589367,
+            "cá": 0.4488529171794653,
+            "tàu": 0.5216113422065973,
+            "lũ": 0.5,
+            "cây": 0.5192126736044884,
+            "mặt trắng ăn": 0.5,
+            "trái cây": 0.5081625394523144,
+            "xe buýt": 0.5,
+            "chuyến đi bộ": 0.5,
+            "rừng nhiệt đới": 0.5,
+            "thác nước": 0.5,
+            "rừng": 0.5163242816925049,
+            "người": 0.5006840787827969,
+            "giá": -0.9556017476134002,
+            "rùa dơi": 0.5,
+            "chim": 0.5,
+            "kênh": 0.8484285698505118,
+            "con khỉ": 0.5152322612702847
+        },
+        "dicts_adj": {
+            "hòn đảo": [
+                "khác",
+                "nhiều"
+            ],
+            "thuyền": [
+                "nhiều",
+                "nhiều",
+                "tuyệt vời",
+                "thực sự",
+                "khoảng",
+                "dễ dàng",
+                "thực sự",
+                "tuyệt vời",
+                "thực sự",
+                "may mắn",
+                "phải",
+                "nhiều",
+                "thú vị",
+                "ngắn",
+                "dọc"
+            ],
+            "khu rừng": [
+                "tươi tốt",
+                "nhiều"
+            ],
+            "thiên nhiên": [],
+            "cho": [],
+            "khỉ hoang dã": [
+                "phải",
+                "thông minh",
+                "hiền lành"
+            ],
+            "thức ăn": [],
+            "con người": [],
+            "hệ sinh thái": [
+                "nhiều",
+                "thiệt hại"
+            ],
+            "bờ biển": [
+                "khác"
+            ],
+            "động vật hoang dã": [
+                "khác"
+            ],
+            "khỉ": [
+                "khác",
+                "khoảng"
+            ],
+            "người lái thuyền": [],
+            "môi trường": [],
+            "chuyến tham quan": [
+                "cao"
+            ],
+            "động vật hoang": [
+                "hoang dã",
+                "đặc biệt"
+            ],
+            "thái độ": [
+                "hoàn toàn",
+                "đúng",
+                "sai"
+            ],
+            "thuyền trưởng": [
+                "hoàn toàn",
+                "đúng",
+                "sai",
+                "khác"
+            ],
+            "cho khỉ ăn": [],
+            "khoai tây chiên": [],
+            "cho lũ": [],
+            "tour du lịch": [],
+            "đời sống hoang dã": [
+                "tuyệt vời",
+                "rõ ràng"
+            ],
+            "hồ": [],
+            "đảo khỉ": [
+                "hơn",
+                "cụ thể",
+                "lớn"
+            ],
+            "khung cảnh": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "độc đáo",
+                "khó",
+                "khác"
+            ],
+            "chuyến thăm đảo khỉ": [
+                "tuyệt vời"
+            ],
+            "thực vật": [
+                "đa dạng"
+            ],
+            "tiện nghi": [
+                "khó"
+            ],
+            "bến tàu": [],
+            "hướng dẫn viên": [
+                "tốt",
+                "thực sự",
+                "nhiều",
+                "thú vị"
+            ],
+            "kênh đào": [
+                "lớn"
+            ],
+            "cá": [
+                "lớn"
+            ],
+            "tàu": [
+                "lớn"
+            ],
+            "lũ": [],
+            "cây": [
+                "khác"
+            ],
+            "mặt trắng ăn": [],
+            "trái cây": [
+                "may",
+                "phải"
+            ],
+            "xe buýt": [],
+            "chuyến đi bộ": [],
+            "rừng nhiệt đới": [],
+            "thác nước": [],
+            "rừng": [],
+            "người": [
+                "đầu tiên"
+            ],
+            "giá": [
+                "cao"
+            ],
+            "rùa dơi": [],
+            "chim": [],
+            "kênh": [
+                "gần",
+                "nhiều"
+            ],
+            "con khỉ": [
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hòn đảo": 3,
+            "thuyền": 13.0,
+            "khu rừng": 3.5,
+            "thiên nhiên": 1.5,
+            "cho": 1.5,
+            "khỉ hoang dã": 3.0,
+            "thức ăn": 2.5,
+            "con người": 1.5,
+            "hệ sinh thái": 1.5,
+            "bờ biển": 1.5,
+            "động vật hoang dã": 2.5,
+            "khỉ": 5.0,
+            "người lái thuyền": 1.5,
+            "môi trường": 1.5,
+            "chuyến tham quan": 4.0,
+            "động vật hoang": 1.5,
+            "thái độ": 1.5,
+            "thuyền trưởng": 1.5,
+            "cho khỉ ăn": 1.5,
+            "khoai tây chiên": 1.5,
+            "cho lũ": 1.5,
+            "tour du lịch": 1.5,
+            "đời sống hoang dã": 1.5,
+            "hồ": 1.5,
+            "đảo khỉ": 4.0,
+            "khung cảnh": 1.5,
+            "chuyến đi": 1.5,
+            "trải nghiệm": 4.0,
+            "chuyến thăm đảo khỉ": 1.5,
+            "thực vật": 1.5,
+            "tiện nghi": 1.5,
+            "bến tàu": 1.5,
+            "hướng dẫn viên": 2.5,
+            "kênh đào": 1.5,
+            "cá": 1.5,
+            "tàu": 1.5,
+            "lũ": 1.5,
+            "cây": 2.5,
+            "mặt trắng ăn": 1.5,
+            "trái cây": 1.5,
+            "xe buýt": 1,
+            "chuyến đi bộ": 1,
+            "rừng nhiệt đới": 1,
+            "thác nước": 1,
+            "rừng": 1,
+            "người": 1,
+            "giá": 1,
+            "rùa dơi": 1,
+            "chim": 1,
+            "kênh": 1,
+            "con khỉ": 1
+        }
     }
 ]

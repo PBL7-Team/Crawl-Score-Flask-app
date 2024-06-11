@@ -85,6 +85,75 @@
             "https://www.tripadvisor.com/Attraction_Review-g294226-d13396054-Reviews-Bluebird_Taxi_Bali-Bali.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d21003760-Reviews-Le_Saigonnais_Domestic_Lounge-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d21003760-Reviews-Le_Saigonnais_Domestic_Lounge-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "phòng chờ": 0.7390056526637636,
+            "trải nghiệm": 0.9954829865018837,
+            "tách trà": 0.9916849373839796,
+            "bữa ăn": 0.9955641661654226,
+            "nhân viên": 0.7474925944115967,
+            "mặt": 0.5,
+            "hàng thực phẩm": 0.5,
+            "thức ăn": 0.5,
+            "khăn sam": 0.5,
+            "họ": 0.5,
+            "vết nước": 0.5,
+            "dịch vụ": 0.8737691454589367,
+            "cà phê": 0.18895910121500492,
+            "cốc": -0.8685418851673603,
+            "cà phê đồ ăn": -0.9680328371468931
+        },
+        "dicts_adj": {
+            "phòng chờ": [
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "tốt"
+            ],
+            "tách trà": [
+                "ngon"
+            ],
+            "bữa ăn": [
+                "ngon"
+            ],
+            "nhân viên": [],
+            "mặt": [],
+            "hàng thực phẩm": [],
+            "thức ăn": [],
+            "khăn sam": [],
+            "họ": [],
+            "vết nước": [],
+            "dịch vụ": [
+                "kém"
+            ],
+            "cà phê": [
+                "sạch"
+            ],
+            "cốc": [
+                "đông"
+            ],
+            "cà phê đồ ăn": [
+                "kém"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "phòng chờ": 3.0,
+            "trải nghiệm": 1.5,
+            "tách trà": 1.5,
+            "bữa ăn": 1.5,
+            "nhân viên": 3.0,
+            "mặt": 1.5,
+            "hàng thực phẩm": 1.5,
+            "thức ăn": 1.5,
+            "khăn sam": 1.5,
+            "họ": 1.5,
+            "vết nước": 1.5,
+            "dịch vụ": 1,
+            "cà phê": 1,
+            "cốc": 1,
+            "cà phê đồ ăn": 1
+        }
     }
 ]

@@ -691,7 +691,176 @@
             "https://www.tripadvisor.com/Attraction_Review-g295419-d10757680-Reviews-Flamingo_Mall-Jeddah_Makkah_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298086-d11950370-Reviews-or30-Fishermen_Show_Mui_Ne-Phan_Thiet_Binh_Thuan_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298086-d11950370-Reviews-or20-Fishermen_Show_Mui_Ne-Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298086-d11950370-Reviews-or20-Fishermen_Show_Mui_Ne-Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "lịch sử": 0.7797660964230696,
+            "văn hóa": -0.9753207209287211,
+            "câu chuyện": 0.6255719614758467,
+            "chỗ ngồi": 0.848681243809147,
+            "tầm nhìn": 0.975501601351425,
+            "trung tâm": 0.5955088725313544,
+            "chương trình": 0.9901247405796312,
+            "điệu múa": 0.20144988596439362,
+            "ánh sáng âm thanh nước": 0.9758915323764086,
+            "ngôn ngữ": 0.559457965195179,
+            "sân khấu": 0.46253019620780833,
+            "đồ giải khát": 0.5,
+            "triển lãm": 0.5,
+            "nhà hàng": 0.5833892924711108,
+            "trải nghiệm": 0.9939134796150029,
+            "dịch vụ": 0.9946129283052869,
+            "màn khiêu vũ": -0.9577328129671514,
+            "mạnh nước": 0.5,
+            "điệu nhảy": 0.9950727403629571,
+            "khung cảnh": 0.992475273902528,
+            "nhà hát": 0.6868845727294683,
+            "ki-ốt": 0.5,
+            "khác để": 0.5,
+            "khiêu vũ trực quan": 0.533450324088335,
+            "khách sạn": 0.5,
+            "ngư dân": 0.5,
+            "nghệ thuật": 0.5,
+            "văn hóa địa": 0.7335521019995213,
+            "buổi biểu diễn": 0.9955296731204726,
+            "du lịch mũi": 0.8737691454589367,
+            "hoạt động văn hóa": 0.9950319217168726
+        },
+        "dicts_adj": {
+            "lịch sử": [
+                "nhiều",
+                "hơn",
+                "nhiều"
+            ],
+            "văn hóa": [
+                "nhiều",
+                "hơn",
+                "nhiều"
+            ],
+            "câu chuyện": [
+                "dễ dàng",
+                "cùng"
+            ],
+            "chỗ ngồi": [
+                "tốt",
+                "rẻ",
+                "hơn",
+                "khoảng",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "tầm nhìn": [
+                "tốt",
+                "tốt"
+            ],
+            "trung tâm": [
+                "tốt",
+                "hơn"
+            ],
+            "chương trình": [
+                "thú vị"
+            ],
+            "điệu múa": [
+                "hay",
+                "hơn"
+            ],
+            "ánh sáng âm thanh nước": [
+                "cổ",
+                "hay"
+            ],
+            "ngôn ngữ": [
+                "dễ dàng"
+            ],
+            "sân khấu": [
+                "dễ dàng",
+                "rẻ",
+                "hơn",
+                "khoảng",
+                "có thể"
+            ],
+            "đồ giải khát": [],
+            "triển lãm": [],
+            "nhà hàng": [
+                "bận rộn",
+                "lớn"
+            ],
+            "trải nghiệm": [],
+            "dịch vụ": [
+                "nhiều"
+            ],
+            "màn khiêu vũ": [],
+            "mạnh nước": [],
+            "điệu nhảy": [
+                "đầy",
+                "chắc chắn",
+                "cao",
+                "chắc chắn"
+            ],
+            "khung cảnh": [
+                "cao",
+                "tuyệt vời"
+            ],
+            "nhà hát": [
+                "lớn"
+            ],
+            "ki-ốt": [],
+            "khác để": [],
+            "khiêu vũ trực quan": [
+                "hiện đại"
+            ],
+            "khách sạn": [],
+            "ngư dân": [],
+            "nghệ thuật": [],
+            "văn hóa địa": [
+                "sâu sắc"
+            ],
+            "buổi biểu diễn": [
+                "tuyệt vời"
+            ],
+            "du lịch mũi": [
+                "tuyệt vời"
+            ],
+            "hoạt động văn hóa": [
+                "nhiều",
+                "nhiều",
+                "thú vị",
+                "hơn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "lịch sử": 0.5,
+            "văn hóa": 0.5,
+            "câu chuyện": 1.5,
+            "chỗ ngồi": 1.5,
+            "tầm nhìn": 1.0,
+            "trung tâm": 1.0,
+            "chương trình": 1.0,
+            "điệu múa": 0.5,
+            "ánh sáng âm thanh nước": 0.5,
+            "ngôn ngữ": 0.5,
+            "sân khấu": 1.0,
+            "đồ giải khát": 0.5,
+            "triển lãm": 0.5,
+            "nhà hàng": 1.0,
+            "trải nghiệm": 0.5,
+            "dịch vụ": 0.5,
+            "màn khiêu vũ": 0.5,
+            "mạnh nước": 0.5,
+            "điệu nhảy": 0.5,
+            "khung cảnh": 0.5,
+            "nhà hát": 1.0,
+            "ki-ốt": 0.5,
+            "khác để": 0.5,
+            "khiêu vũ trực quan": 0.5,
+            "khách sạn": 0.5,
+            "ngư dân": 0.5,
+            "nghệ thuật": 0.5,
+            "văn hóa địa": 0.5,
+            "buổi biểu diễn": 0.5,
+            "du lịch mũi": 0.5,
+            "hoạt động văn hóa": 0.5
+        }
     },
     {
         "attraction_name": "Fishermen Show Mui Ne",
@@ -802,7 +971,160 @@
             "https://www.tripadvisor.com/Attraction_Review-g59716-d670821-Reviews-Cave_of_the_Mounds-Blue_Mounds_Wisconsin.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298086-d11950370-Reviews-or40-Fishermen_Show_Mui_Ne-Phan_Thiet_Binh_Thuan_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298086-d11950370-Reviews-or30-Fishermen_Show_Mui_Ne-Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298086-d11950370-Reviews-or30-Fishermen_Show_Mui_Ne-Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "mũi né": 0.8077686694062626,
+            "nhà hát": 0.8102428652346134,
+            "thuyền tròn": 0.9586878316476941,
+            "trải nghiệm": 0.9947034674114548,
+            "làng chài": 0.5,
+            "buổi biểu diễn": 0.12092770363152443,
+            "văn hóa làng chài mũi": 0.5,
+            "ngư dân": 0.9954952347907238,
+            "sống làng chài": -0.2549106329679489,
+            "ánh sáng âm thanh nhạc cụ sống": 0.8737691454589367,
+            "giọng hát": 0.9920937685819808,
+            "vũ đạo cảnh": 0.9953279638139065,
+            "người dân địa phương": 0.5,
+            "chương trình": 0.9547808372299187,
+            "hiệu": 0.5,
+            "ứng nước": 0.5,
+            "ánh sáng": 0.5,
+            "điệu nhảy": 0.5,
+            "điệu múa dân tộc": 0.5,
+            "chương trình ao": 0.6041347365826368,
+            "chương trình văn hóa": 0.5,
+            "phan thiết": 0.5,
+            "văn hóa": 0.9567445125430822,
+            "cảnh khiêu vũ âm nhạc": -0.9736679728375748,
+            "vũ đạo": 0.9954574566800147,
+            "buổi biểu diễn ban đêm": 0.9935126124182716,
+            "lịch trình du lịch": 0.5,
+            "sân vận động": 0.985693066380918,
+            "đồ ăn": 0.8289038332295604,
+            "sân khấu": 0.9945888542570174
+        },
+        "dicts_adj": {
+            "mũi né": [
+                "lớn",
+                "vui vẻ"
+            ],
+            "nhà hát": [
+                "lớn"
+            ],
+            "thuyền tròn": [
+                "khổng lồ"
+            ],
+            "trải nghiệm": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "làng chài": [],
+            "buổi biểu diễn": [
+                "đặc biệt",
+                "thú vị",
+                "nghiệp dư",
+                "duy nhất",
+                "tuyệt vời",
+                "dễ"
+            ],
+            "văn hóa làng chài mũi": [],
+            "ngư dân": [
+                "đẹp mắt",
+                "chuyên nghiệp"
+            ],
+            "sống làng chài": [
+                "thực sự"
+            ],
+            "ánh sáng âm thanh nhạc cụ sống": [
+                "đẹp",
+                "hay"
+            ],
+            "giọng hát": [
+                "đẹp",
+                "hay"
+            ],
+            "vũ đạo cảnh": [
+                "đẹp",
+                "hay"
+            ],
+            "người dân địa phương": [],
+            "chương trình": [
+                "hơn",
+                "chắc chắn"
+            ],
+            "hiệu": [],
+            "ứng nước": [],
+            "ánh sáng": [],
+            "điệu nhảy": [],
+            "điệu múa dân tộc": [],
+            "chương trình ao": [
+                "Nhiều",
+                "tốt",
+                "hơn"
+            ],
+            "chương trình văn hóa": [],
+            "phan thiết": [],
+            "văn hóa": [
+                "Thú vị"
+            ],
+            "cảnh khiêu vũ âm nhạc": [
+                "đồng bộ"
+            ],
+            "vũ đạo": [
+                "tuyệt vời"
+            ],
+            "buổi biểu diễn ban đêm": [
+                "dễ"
+            ],
+            "lịch trình du lịch": [],
+            "sân vận động": [
+                "mát mẻ"
+            ],
+            "đồ ăn": [
+                "sẵn",
+                "rẻ"
+            ],
+            "sân khấu": [
+                "thực sự",
+                "nhiều",
+                "hiện đại"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "mũi né": 1.5,
+            "nhà hát": 0.5,
+            "thuyền tròn": 0.5,
+            "trải nghiệm": 0.5,
+            "làng chài": 0.5,
+            "buổi biểu diễn": 1.5,
+            "văn hóa làng chài mũi": 0.5,
+            "ngư dân": 0.5,
+            "sống làng chài": 0.5,
+            "ánh sáng âm thanh nhạc cụ sống": 0.5,
+            "giọng hát": 0.5,
+            "vũ đạo cảnh": 0.5,
+            "người dân địa phương": 0.5,
+            "chương trình": 1.5,
+            "hiệu": 0.5,
+            "ứng nước": 0.5,
+            "ánh sáng": 0.5,
+            "điệu nhảy": 0.5,
+            "điệu múa dân tộc": 0.5,
+            "chương trình ao": 0.5,
+            "chương trình văn hóa": 0.5,
+            "phan thiết": 0.5,
+            "văn hóa": 0.5,
+            "cảnh khiêu vũ âm nhạc": 0.5,
+            "vũ đạo": 0.5,
+            "buổi biểu diễn ban đêm": 0.5,
+            "lịch trình du lịch": 0.5,
+            "sân vận động": 0.5,
+            "đồ ăn": 0.5,
+            "sân khấu": 0.5
+        }
     },
     {
         "attraction_name": "Fishermen Show Mui Ne",
@@ -897,6 +1219,207 @@
             "https://www.tripadvisor.com/Attraction_Review-g293916-d8337967-Reviews-Club_Onyx-Bangkok.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298086-d11950370-Reviews-or40-Fishermen_Show_Mui_Ne-Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298086-d11950370-Reviews-or40-Fishermen_Show_Mui_Ne-Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chương trình": -0.08290268882410601,
+            "chương trình biểu diễn": 0.5401396360248327,
+            "người": 0.3231566343456507,
+            "thời lượng": 0.5494552422314882,
+            "chương trình đánh cá": 0.5,
+            "sân khấu rộng": -0.21371312346309423,
+            "làng chài": 0.3146060649305582,
+            "nhân viên phục vụ": 0.9955151851172559,
+            "màn múa": -0.9507010283414274,
+            "sân khấu nước": 0.5,
+            "ngư dân": 0.6184061507810839,
+            "mũi né": 0.9282522995490581,
+            "đài": 0.9833716118009761,
+            "phun nước trang phục ánh sáng": 0.9947544129681773,
+            "lan can": -0.6021552011370659,
+            "nghệ sĩ": 0.5,
+            "sân khấu": 0.5466051162996639,
+            "hạ tầng": 0.5,
+            "đài phun nước": 0.994866602064576,
+            "trình diễn sân khấu": 0.6034301351755857,
+            "diễn viên": 0.5918817752972245,
+            "văn hóa việt": 0.9951856682309881,
+            "môn nghệ thuật": 0.47947474755346775,
+            "thị trấn": 0.5191677808761597,
+            "nghệ thuật": 0.9898809769656509,
+            "câu chuyện": -0.9522044651675969,
+            "phun nước": 0.012541098636575043,
+            "công nghệ": 0.31694232433801517,
+            "diễn viên nghe hát": -0.9529716831166297,
+            "vũ đạo": 0.4661853015422821,
+            "trang phục": 0.995056317478884,
+            "mạch truyện": 0.9123732973821461,
+            "chèo thuyền": 0.5,
+            "công chúa biển cả": 0.5,
+            "của biển": 0.8223147392272949,
+            "thần biển": 0.9808089421130717,
+            "thống": -0.21325123053975403,
+            "thông gió": 0.8674567460548133,
+            "chỗ ngồi": 0.7462912577902898
+        },
+        "dicts_adj": {
+            "chương trình": [
+                "khó khăn",
+                "mới",
+                "nhiều"
+            ],
+            "chương trình biểu diễn": [
+                "cuối cùng",
+                "cuối cùng"
+            ],
+            "người": [
+                "đầy"
+            ],
+            "thời lượng": [
+                "nhiều",
+                "hơn"
+            ],
+            "chương trình đánh cá": [],
+            "sân khấu rộng": [
+                "ít",
+                "hơn"
+            ],
+            "làng chài": [],
+            "nhân viên phục vụ": [
+                "thân thiện",
+                "tốt bụng"
+            ],
+            "màn múa": [
+                "khác"
+            ],
+            "sân khấu nước": [],
+            "ngư dân": [
+                "tốt",
+                "hơn"
+            ],
+            "mũi né": [
+                "nhỏ"
+            ],
+            "đài": [
+                "tốt"
+            ],
+            "phun nước trang phục ánh sáng": [
+                "tốt"
+            ],
+            "lan can": [
+                "an toàn",
+                "hơn"
+            ],
+            "nghệ sĩ": [],
+            "sân khấu": [
+                "cùng",
+                "rộng",
+                "khó"
+            ],
+            "hạ tầng": [],
+            "đài phun nước": [
+                "đẹp mắt"
+            ],
+            "trình diễn sân khấu": [
+                "chuyên nghiệp"
+            ],
+            "diễn viên": [
+                "chuyên nghiệp",
+                "cùng"
+            ],
+            "văn hóa việt": [
+                "thú vị"
+            ],
+            "môn nghệ thuật": [
+                "nhỏ"
+            ],
+            "thị trấn": [
+                "nhỏ"
+            ],
+            "nghệ thuật": [],
+            "câu chuyện": [
+                "lớn"
+            ],
+            "phun nước": [
+                "hiện đại",
+                "nhiều"
+            ],
+            "công nghệ": [
+                "hiện đại",
+                "nhiều"
+            ],
+            "diễn viên nghe hát": [
+                "cao"
+            ],
+            "vũ đạo": [
+                "thoải mái"
+            ],
+            "trang phục": [
+                "rõ"
+            ],
+            "mạch truyện": [
+                "rõ"
+            ],
+            "chèo thuyền": [],
+            "công chúa biển cả": [],
+            "của biển": [
+                "sâu"
+            ],
+            "thần biển": [],
+            "thống": [
+                "tốt",
+                "hơn"
+            ],
+            "thông gió": [
+                "tốt",
+                "hơn"
+            ],
+            "chỗ ngồi": [
+                "thoải mái",
+                "hơn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chương trình": 2.0,
+            "chương trình biểu diễn": 0.5,
+            "người": 0.5,
+            "thời lượng": 0.5,
+            "chương trình đánh cá": 0.5,
+            "sân khấu rộng": 0.5,
+            "làng chài": 1.0,
+            "nhân viên phục vụ": 0.5,
+            "màn múa": 0.5,
+            "sân khấu nước": 0.5,
+            "ngư dân": 1.0,
+            "mũi né": 1.0,
+            "đài": 0.5,
+            "phun nước trang phục ánh sáng": 0.5,
+            "lan can": 0.5,
+            "nghệ sĩ": 0.5,
+            "sân khấu": 1.0,
+            "hạ tầng": 0.5,
+            "đài phun nước": 0.5,
+            "trình diễn sân khấu": 0.5,
+            "diễn viên": 1.0,
+            "văn hóa việt": 0.5,
+            "môn nghệ thuật": 0.5,
+            "thị trấn": 0.5,
+            "nghệ thuật": 0.5,
+            "câu chuyện": 0.5,
+            "phun nước": 0.5,
+            "công nghệ": 0.5,
+            "diễn viên nghe hát": 0.5,
+            "vũ đạo": 0.5,
+            "trang phục": 0.5,
+            "mạch truyện": 0.5,
+            "chèo thuyền": 0.5,
+            "công chúa biển cả": 0.5,
+            "của biển": 0.5,
+            "thần biển": 0.5,
+            "thống": 0.5,
+            "thông gió": 0.5,
+            "chỗ ngồi": 0.5
+        }
     }
 ]

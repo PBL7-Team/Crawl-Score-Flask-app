@@ -2758,6 +2758,101 @@
             "https://www.tripadvisor.com/Attraction_Review-g52188-d2281552-Reviews-Elk_Country_Visitor_Center-Benezette_Pennsylvania.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d4604184-Reviews-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d4604184-Reviews-Suoi_Tien_Theme_Park-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trò chơi": 0.9915868173120543,
+            "thuyền vũ trụ tàu cao": 0.9949367392109707,
+            "game kinh dị": 0.5,
+            "phiêu lưu": 0.5,
+            "phong cảnh": 0.8737691454589367,
+            "không gian": -0.24429693073034286,
+            "hồ bơi biểu diễn": 0.4732063915580511,
+            "công viên": 0.7653155096340925,
+            "lớp học": 0.5,
+            "nhân viên": 0.5023648268543184,
+            "bức tượng": 0.9942962119821459,
+            "trận": 0.5335075277835131,
+            "chuyến đi": 0.523402476683259,
+            "núi sương": 0.8737691454589367,
+            "ngôi chùa": 0.5,
+            "công viên nước": 0.995278529881034,
+            "hồ bơi mang": -0.9051593795884401,
+            "phòng": 0.5,
+            "nhà vệ sinh": -0.9755111474078149
+        },
+        "dicts_adj": {
+            "trò chơi": [
+                "mạnh",
+                "vui vẻ"
+            ],
+            "thuyền vũ trụ tàu cao": [
+                "mạnh",
+                "vui vẻ"
+            ],
+            "game kinh dị": [],
+            "phiêu lưu": [],
+            "phong cảnh": [
+                "đẹp"
+            ],
+            "không gian": [
+                "rộng"
+            ],
+            "hồ bơi biểu diễn": [],
+            "công viên": [
+                "nhiều"
+            ],
+            "lớp học": [],
+            "nhân viên": [
+                "khắp",
+                "sai"
+            ],
+            "bức tượng": [
+                "nhiều",
+                "lạ"
+            ],
+            "trận": [
+                "trực tiếp"
+            ],
+            "chuyến đi": [],
+            "núi sương": [
+                "giống"
+            ],
+            "ngôi chùa": [],
+            "công viên nước": [
+                "thú vị",
+                "nhiều"
+            ],
+            "hồ bơi mang": [
+                "sai"
+            ],
+            "phòng": [],
+            "nhà vệ sinh": [
+                "kinh tởm",
+                "riêng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trò chơi": 0.5,
+            "thuyền vũ trụ tàu cao": 0.5,
+            "game kinh dị": 0.5,
+            "phiêu lưu": 0.5,
+            "phong cảnh": 0.5,
+            "không gian": 0.5,
+            "hồ bơi biểu diễn": 0.5,
+            "công viên": 0.5,
+            "lớp học": 0.5,
+            "nhân viên": 0.5,
+            "bức tượng": 0.5,
+            "trận": 0.5,
+            "chuyến đi": 0.5,
+            "núi sương": 0.5,
+            "ngôi chùa": 0.5,
+            "công viên nước": 0.5,
+            "hồ bơi mang": 0.5,
+            "phòng": 0.5,
+            "nhà vệ sinh": 0.5
+        }
     }
 ]

@@ -85,6 +85,94 @@
             "https://www.tripadvisor.com/Attraction_Review-g60856-d109330-Reviews-Lake_Ouachita-Hot_Springs_Arkansas.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d4888401-Reviews-King_s_palace-Nha_Trang_Khanh_Hoa_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d4888401-Reviews-King_s_palace-Nha_Trang_Khanh_Hoa_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khách sạn": 0.6868845727294683,
+            "kỳ nghỉ": 0.5,
+            "giá cả": 0.7532920507364906,
+            "chất lượng": 0.714915688149631,
+            "phòng": 0.825060803811842,
+            "nhân viên": 0.745490713394247,
+            "giường": 0.5237596891820431,
+            "máy": 0.9955090385628864,
+            "nhà vệ sinh": 0.9954893214744516,
+            "sen": 0.9953980657155626,
+            "wi-fi": 0.8737691454589367,
+            "yên tĩnh": 0.5,
+            "trung tâm du lịch": 0.7810997311025858,
+            "cửa hàng": 0.10684987111017108,
+            "quán cà phê": -0.7326067031826824,
+            "vị trí": 0.9945980351185426
+        },
+        "dicts_adj": {
+            "khách sạn": [
+                "sang trọng"
+            ],
+            "kỳ nghỉ": [],
+            "giá cả": [
+                "nhỏ",
+                "sạch sẽ"
+            ],
+            "chất lượng": [
+                "nhỏ",
+                "sạch sẽ"
+            ],
+            "phòng": [
+                "nhỏ",
+                "sạch sẽ",
+                "lớn"
+            ],
+            "nhân viên": [
+                "sạch sẽ"
+            ],
+            "giường": [
+                "lớn"
+            ],
+            "máy": [
+                "tốt"
+            ],
+            "nhà vệ sinh": [
+                "tốt"
+            ],
+            "sen": [
+                "tốt"
+            ],
+            "wi-fi": [
+                "lớn"
+            ],
+            "yên tĩnh": [],
+            "trung tâm du lịch": [],
+            "cửa hàng": [
+                "nhiều",
+                "khác"
+            ],
+            "quán cà phê": [
+                "nhiều",
+                "khác"
+            ],
+            "vị trí": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khách sạn": 1.0,
+            "kỳ nghỉ": 0.5,
+            "giá cả": 0.5,
+            "chất lượng": 0.5,
+            "phòng": 0.5,
+            "nhân viên": 1.0,
+            "giường": 0.5,
+            "máy": 0.5,
+            "nhà vệ sinh": 0.5,
+            "sen": 0.5,
+            "wi-fi": 0.5,
+            "yên tĩnh": 0.5,
+            "trung tâm du lịch": 0.5,
+            "cửa hàng": 0.5,
+            "quán cà phê": 0.5,
+            "vị trí": 0.5
+        }
     }
 ]

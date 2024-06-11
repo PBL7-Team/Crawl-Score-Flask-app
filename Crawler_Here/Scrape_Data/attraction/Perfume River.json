@@ -109,7 +109,217 @@
             "https://www.tripadvisor.com/Attraction_Review-g776017-d4960427-Reviews-La_Grotta_Beach-Paleokastritsa_Corfu_Ionian_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or10-Perfume_River-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-Perfume_River-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-Perfume_River-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thuyền": 0.7003286454031089,
+            "hướng dẫn viên": 0.389532258361578,
+            "cánh đồng thực vật": 0.5184900052845478,
+            "tòa nhà": 0.1794265303760767,
+            "công viên": 0.2909836408992608,
+            "tour du lịch": 0.9341865436484417,
+            "chuyến đi": 0.8097748320869869,
+            "phong cảnh": 0.9951365946908481,
+            "quầy hàng": 0.5123387761414051,
+            "quần áo": 0.9896790781058371,
+            "thuyền rồng": 0.49777687061578035,
+            "quán ăn": 0.9951743363635615,
+            "cây cầu": 0.9927604844328016,
+            "chuyến tham quan": 0.7451035016274545,
+            "âm nhạc truyền": 0.5,
+            "xe buýt": 0.5,
+            "trải nghiệm": -0.20292498031631112,
+            "cửa hàng": 0.5,
+            "quà tặng": 0.5,
+            "chuyến đi thuyền": 0.6115610972046852,
+            "cửa": 0.5,
+            "hàng": 0.5,
+            "hành trình": 0.8737691454589367,
+            "sông lớn": 0.5,
+            "dòng sông": 0.7123153957072645,
+            "sông hương": 0.9136880658334121,
+            "rừng cây thơm": 0.9929377320222557,
+            "hương thơm": 0.9955790769890882,
+            "chèo thuyền": 0.8737691454589367,
+            "chợ đông ba": 0.8737691454589367,
+            "chùa thiên": 0.8737691454589367,
+            "chủ thuyền rồng": 0.012753469869494438,
+            "cầu trường tiền": 0.8737691454589367,
+            "ngôi nhà": 0.5,
+            "chiến thuật bán hàng": 0.9696159763261676,
+            "sông": 0.5,
+            "chùa thiên mụ": 0.8737691454589367,
+            "đồ lưu niệm": 0.5
+        },
+        "dicts_adj": {
+            "thuyền": [
+                "rồng",
+                "nhẹ nhàng",
+                "rồng",
+                "nhẹ nhàng",
+                "ngoạn mục",
+                "sớm",
+                "lạnh vâng"
+            ],
+            "hướng dẫn viên": [
+                "xa",
+                "xa"
+            ],
+            "cánh đồng thực vật": [
+                "xa",
+                "xa"
+            ],
+            "tòa nhà": [
+                "cũ",
+                "cũ"
+            ],
+            "công viên": [
+                "cũ",
+                "cũ",
+                "xinh xắn",
+                "ồn ào"
+            ],
+            "tour du lịch": [
+                "cẩn thận",
+                "khác",
+                "cẩn thận",
+                "khác",
+                "dọc"
+            ],
+            "chuyến đi": [
+                "rồng",
+                "chắc chắn",
+                "yên bình",
+                "rồng",
+                "chắc chắn",
+                "yên bình",
+                "hơn",
+                "nhiều"
+            ],
+            "phong cảnh": [
+                "đẹp",
+                "đẹp"
+            ],
+            "quầy hàng": [],
+            "quần áo": [
+                "đẹp",
+                "đẹp"
+            ],
+            "thuyền rồng": [
+                "dọc"
+            ],
+            "quán ăn": [
+                "thực sự",
+                "đẹp",
+                "dọc"
+            ],
+            "cây cầu": [
+                "đẹp",
+                "sáng",
+                "đầy"
+            ],
+            "chuyến tham quan": [
+                "vui vẻ",
+                "rẻ"
+            ],
+            "âm nhạc truyền": [],
+            "xe buýt": [],
+            "trải nghiệm": [
+                "liên tục",
+                "suốt"
+            ],
+            "cửa hàng": [],
+            "quà tặng": [],
+            "chuyến đi thuyền": [],
+            "cửa": [],
+            "hàng": [],
+            "hành trình": [
+                "đẹp"
+            ],
+            "sông lớn": [],
+            "dòng sông": [
+                "lâu",
+                "nhiều"
+            ],
+            "sông hương": [
+                "nhiều",
+                "nhiều",
+                "hơn"
+            ],
+            "rừng cây thơm": [
+                "trong lành"
+            ],
+            "hương thơm": [
+                "trong lành"
+            ],
+            "chèo thuyền": [
+                "khác"
+            ],
+            "chợ đông ba": [
+                "đầu tiên"
+            ],
+            "chùa thiên": [
+                "đầu tiên"
+            ],
+            "chủ thuyền rồng": [],
+            "cầu trường tiền": [
+                "dọc",
+                "nổi tiếng"
+            ],
+            "ngôi nhà": [],
+            "chiến thuật bán hàng": [
+                "tương đối",
+                "hung hãn",
+                "bất thường",
+                "hợp lý"
+            ],
+            "sông": [],
+            "chùa thiên mụ": [
+                "dọc"
+            ],
+            "đồ lưu niệm": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thuyền": 6.0,
+            "hướng dẫn viên": 2.5,
+            "cánh đồng thực vật": 2.5,
+            "tòa nhà": 3.0,
+            "công viên": 4.5,
+            "tour du lịch": 4.5,
+            "chuyến đi": 6.0,
+            "phong cảnh": 3.0,
+            "quầy hàng": 3.0,
+            "quần áo": 3.0,
+            "thuyền rồng": 3.0,
+            "quán ăn": 1.5,
+            "cây cầu": 2.5,
+            "chuyến tham quan": 3.0,
+            "âm nhạc truyền": 1.5,
+            "xe buýt": 1.5,
+            "trải nghiệm": 1.5,
+            "cửa hàng": 1.5,
+            "quà tặng": 1.5,
+            "chuyến đi thuyền": 1.5,
+            "cửa": 1.5,
+            "hàng": 1.5,
+            "hành trình": 1.5,
+            "sông lớn": 1.5,
+            "dòng sông": 2,
+            "sông hương": 1,
+            "rừng cây thơm": 1,
+            "hương thơm": 1,
+            "chèo thuyền": 1,
+            "chợ đông ba": 1,
+            "chùa thiên": 1,
+            "chủ thuyền rồng": 1,
+            "cầu trường tiền": 1,
+            "ngôi nhà": 1,
+            "chiến thuật bán hàng": 1,
+            "sông": 1,
+            "chùa thiên mụ": 1,
+            "đồ lưu niệm": 1
+        }
     },
     {
         "attraction_name": "Perfume River",
@@ -222,7 +432,203 @@
             "https://www.tripadvisor.com/Attraction_Review-g29222-d104661-Reviews-Duke_Kahanamoku_Beach-Oahu_Hawaii.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or20-Perfume_River-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or10-Perfume_River-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or10-Perfume_River-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "du ngoạn": 0.8737691454589367,
+            "thuyền rồng": 0.9361885786056519,
+            "sông": 0.6824606062922006,
+            "giao thông đường sông": -0.5728405034169555,
+            "chuyến đi": 0.5629946528093165,
+            "loại lụa": 0.9953987475018948,
+            "đồ lưu niệm": 0.9954216623445973,
+            "tu": 0.5,
+            "duc": 0.5,
+            "thuyền": 0.05793632629017035,
+            "thuyền trưởng": 0.9885514948400669,
+            "đồ": 0.5,
+            "thủ công": 0.5,
+            "cánh rừng cây": 0.9324346324428916,
+            "chuyến": 0.9952422472415492,
+            "đi thuyền": 0.994176484120544,
+            "thời tiết": 0.5,
+            "tòa nhà công viên": 0.5172295393422246,
+            "ngư dân": 0.5090606305748224,
+            "thị trấn": 0.5039281062781811,
+            "chùa thiên": 0.5376510652713478,
+            "xe đạp": 0.9191975254798308,
+            "lái xe": 0.5,
+            "giấy tờ": 0.5,
+            "bến thuyền": 0.5,
+            "người đi bộ": 0.8754125479608774,
+            "xe máy": 0.5,
+            "nhà vệ sinh công": 0.5120062716305256,
+            "đồ uống": 0.5186350923031569,
+            "siêu thị": 0.47879784274846315,
+            "du": 0.5,
+            "lịch ở chùa": 0.5,
+            "chùa": 0.5,
+            "hoàng cung": 0.5,
+            "bờ sông": -0.9466867435257882,
+            "ngắm cảnh": 0.8986751604825258,
+            "chiếc thuyền": 0.37573525682091713,
+            "bữa trưa": 0.9878486476372927,
+            "cung điện": 0.9575286717154086
+        },
+        "dicts_adj": {
+            "du ngoạn": [
+                "thú vị"
+            ],
+            "thuyền rồng": [
+                "thú vị"
+            ],
+            "sông": [
+                "rộng",
+                "thú vị",
+                "nhất"
+            ],
+            "giao thông đường sông": [
+                "khác"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "thú vị",
+                "thú vị",
+                "suôn sẻ",
+                "nhẹ nhàng"
+            ],
+            "loại lụa": [
+                "tuyệt vời"
+            ],
+            "đồ lưu niệm": [
+                "tuyệt vời"
+            ],
+            "tu": [],
+            "duc": [],
+            "thuyền": [
+                "dọc",
+                "khác thường",
+                "ngược",
+                "thong thả"
+            ],
+            "thuyền trưởng": [
+                "tốt bụng"
+            ],
+            "đồ": [],
+            "thủ công": [],
+            "cánh rừng cây": [
+                "dài",
+                "thơm",
+                "thơm",
+                "đặc biệt",
+                "lâu"
+            ],
+            "chuyến": [
+                "thú vị"
+            ],
+            "đi thuyền": [
+                "thú vị"
+            ],
+            "thời tiết": [],
+            "tòa nhà công viên": [
+                "thú vị",
+                "lên xuống"
+            ],
+            "ngư dân": [
+                "nhỏ",
+                "hơn"
+            ],
+            "thị trấn": [],
+            "chùa thiên": [],
+            "xe đạp": [
+                "tuyệt vời",
+                "dọc"
+            ],
+            "lái xe": [],
+            "giấy tờ": [],
+            "bến thuyền": [],
+            "người đi bộ": [
+                "dọc"
+            ],
+            "xe máy": [],
+            "nhà vệ sinh công": [
+                "công cộng",
+                "dọc"
+            ],
+            "đồ uống": [
+                "khoảng",
+                "rẻ",
+                "hơn",
+                "nhiều"
+            ],
+            "siêu thị": [
+                "khoảng",
+                "rẻ",
+                "hơn",
+                "nhiều"
+            ],
+            "du": [],
+            "lịch ở chùa": [],
+            "chùa": [],
+            "hoàng cung": [],
+            "bờ sông": [
+                "thú vị"
+            ],
+            "ngắm cảnh": [
+                "dọc"
+            ],
+            "chiếc thuyền": [],
+            "bữa trưa": [
+                "dọc"
+            ],
+            "cung điện": [
+                "dọc",
+                "lớn",
+                "nhất"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "du ngoạn": 1.5,
+            "thuyền rồng": 1.5,
+            "sông": 1.5,
+            "giao thông đường sông": 1.5,
+            "chuyến đi": 4.5,
+            "loại lụa": 1.5,
+            "đồ lưu niệm": 1.5,
+            "tu": 1,
+            "duc": 1,
+            "thuyền": 3,
+            "thuyền trưởng": 1,
+            "đồ": 1,
+            "thủ công": 1,
+            "cánh rừng cây": 1,
+            "chuyến": 1,
+            "đi thuyền": 1,
+            "thời tiết": 1,
+            "tòa nhà công viên": 1,
+            "ngư dân": 1,
+            "thị trấn": 1,
+            "chùa thiên": 2,
+            "xe đạp": 1,
+            "lái xe": 1,
+            "giấy tờ": 1,
+            "bến thuyền": 1,
+            "người đi bộ": 1,
+            "xe máy": 1,
+            "nhà vệ sinh công": 1,
+            "đồ uống": 1,
+            "siêu thị": 1,
+            "du": 1,
+            "lịch ở chùa": 1,
+            "chùa": 1,
+            "hoàng cung": 1,
+            "bờ sông": 1,
+            "ngắm cảnh": 1,
+            "chiếc thuyền": 1,
+            "bữa trưa": 1,
+            "cung điện": 1
+        }
     },
     {
         "attraction_name": "Perfume River",
@@ -347,7 +753,153 @@
             "https://www.tripadvisor.com/Attraction_Review-g60745-d8634101-Reviews-Independence_Wharf-Boston_Massachusetts.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or30-Perfume_River-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or20-Perfume_River-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or20-Perfume_River-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dòng sông": 0.8716930079390295,
+            "con sông": 0.9924104422098026,
+            "thị trấn": 0.7046817122027278,
+            "đi bộ": 0.9951819707639515,
+            "chèo thuyền": 0.5,
+            "mùi nước hoa": 0.5,
+            "cánh hoa": 0.5,
+            "sông": 0.4991646371781826,
+            "sông đã": 0.6447758637368679,
+            "vườn": 0.5,
+            "cây ăn trái": 0.5,
+            "vị trí": 0.9953549460624345,
+            "công viên": 0.747598547663074,
+            "câu cá": 0.5,
+            "chuyến đi bộ": 0.7575411897851154,
+            "nhà hàng": 0.9906433237483725,
+            "tác phẩm điêu": 0.9954241145169362,
+            "cây cầu": 0.9550655032508075,
+            "thuyền": 0.3835604519350454,
+            "đồ ăn": 0.8737691454589367,
+            "mặt hàng": 0.9949500571237877,
+            "tác phẩm nghệ thuật tranh in đồ thủ công đồ ngủ bằng lụa": 0.5,
+            "chuyến đi": 0.992398681701161,
+            "ngư dân": 0.5,
+            "trâu nước": 0.7434059937950224,
+            "vùng nước nông": 0.5,
+            "chùa thiên mụ": 0.8737691454589367,
+            "con": 0.9878766558831558,
+            "bờ sông": 0.99077037058305
+        },
+        "dicts_adj": {
+            "dòng sông": [],
+            "con sông": [
+                "dọc",
+                "đẹp"
+            ],
+            "thị trấn": [
+                "lớn",
+                "nhiều"
+            ],
+            "đi bộ": [],
+            "chèo thuyền": [],
+            "mùi nước hoa": [],
+            "cánh hoa": [],
+            "sông": [
+                "dễ chịu",
+                "gần"
+            ],
+            "sông đã": [
+                "hơn"
+            ],
+            "vườn": [],
+            "cây ăn trái": [],
+            "vị trí": [
+                "hoàn hảo"
+            ],
+            "công viên": [
+                "đẹp"
+            ],
+            "câu cá": [],
+            "chuyến đi bộ": [
+                "dọc",
+                "nhiều"
+            ],
+            "nhà hàng": [
+                "đẹp"
+            ],
+            "tác phẩm điêu": [
+                "đẹp"
+            ],
+            "cây cầu": [
+                "đầy"
+            ],
+            "thuyền": [
+                "dọc",
+                "dài",
+                "hẹp",
+                "dài",
+                "khoảng",
+                "đông đúc",
+                "ngắn",
+                "dọc"
+            ],
+            "đồ ăn": [
+                "có giá",
+                "tốt tác phẩm"
+            ],
+            "mặt hàng": [
+                "có giá",
+                "tốt tác phẩm"
+            ],
+            "tác phẩm nghệ thuật tranh in đồ thủ công đồ ngủ bằng lụa": [],
+            "chuyến đi": [
+                "vui vẻ"
+            ],
+            "ngư dân": [],
+            "trâu nước": [
+                "ngầu"
+            ],
+            "vùng nước nông": [],
+            "chùa thiên mụ": [
+                "ngắn",
+                "dọc"
+            ],
+            "con": [
+                "ngầu"
+            ],
+            "bờ sông": [
+                "đẹp",
+                "dọc"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dòng sông": 2.0,
+            "con sông": 1.5,
+            "thị trấn": 1.0,
+            "đi bộ": 0.5,
+            "chèo thuyền": 0.5,
+            "mùi nước hoa": 0.5,
+            "cánh hoa": 0.5,
+            "sông": 0.5,
+            "sông đã": 0.5,
+            "vườn": 0.5,
+            "cây ăn trái": 0.5,
+            "vị trí": 0.5,
+            "công viên": 1.0,
+            "câu cá": 0.5,
+            "chuyến đi bộ": 0.5,
+            "nhà hàng": 0.5,
+            "tác phẩm điêu": 0.5,
+            "cây cầu": 0.5,
+            "thuyền": 2.0,
+            "đồ ăn": 0.5,
+            "mặt hàng": 0.5,
+            "tác phẩm nghệ thuật tranh in đồ thủ công đồ ngủ bằng lụa": 0.5,
+            "chuyến đi": 0.5,
+            "ngư dân": 0.5,
+            "trâu nước": 1.0,
+            "vùng nước nông": 0.5,
+            "chùa thiên mụ": 0.5,
+            "con": 0.5,
+            "bờ sông": 0.5
+        }
     },
     {
         "attraction_name": "Perfume River",
@@ -472,7 +1024,187 @@
             "https://www.tripadvisor.com/Attraction_Review-g32249-d2723223-Reviews-Little_Corona_Beach-Corona_del_Mar_Newport_Beach_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or40-Perfume_River-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or30-Perfume_River-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or30-Perfume_River-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cung điện hoàng gia": 0.8737691454589367,
+            "điểm tham quan": -0.0615824069827795,
+            "thuyền": -0.22763337062206118,
+            "hướng dẫn viên": 0.6245897151529789,
+            "cánh đồng": 0.5,
+            "cây xa": 0.5,
+            "dòng sông": 0.7418975010514259,
+            "hương thơm": 0.5,
+            "tòa nhà": 0.47205665707588196,
+            "công viên": 0.5105372313410044,
+            "tour": 0.995416488207411,
+            "du thuyền": 0.9954266885761172,
+            "chuyến": 0.8714387948566582,
+            "quầy hàng": -0.9636119301430881,
+            "quần áo": 0.9939377220580354,
+            "thị trấn": 0.5751205421984196,
+            "chuyến tham": 0.6994594521820545,
+            "dịch vụ": 0.5,
+            "nhân viên": 0.5,
+            "khía cạnh": 0.9357667369768023,
+            "chùa": 0.9309232011437416,
+            "phong cảnh": 0.8737691454589367,
+            "mùi hương": -0.9586006291210651,
+            "sông buồn": -0.975569291273132,
+            "con sông": 0.7630978062516078,
+            "chuyến tham quan": 0.5,
+            "chuyến đi thuyền": 0.9735786016099155,
+            "điểm tham": 0.5969343464821577,
+            "đi thuyền": 0.5,
+            "nhà hàng": 0.9955575783969834,
+            "người dân": 0.9953731794375926,
+            "câu cá": 0.995193752576597,
+            "tắm rửa": 0.9953328946139663
+        },
+        "dicts_adj": {
+            "cung điện hoàng gia": [
+                "hơn",
+                "nhiều"
+            ],
+            "điểm tham quan": [
+                "hơn",
+                "nhiều"
+            ],
+            "thuyền": [
+                "rồng",
+                "nhẹ nhàng",
+                "bất kỳ",
+                "chậm",
+                "khó chịu",
+                "đầy",
+                "ngược",
+                "xinh đẹp",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "quan trọng",
+                "dọc"
+            ],
+            "cánh đồng": [],
+            "cây xa": [],
+            "dòng sông": [
+                "sạch sẽ"
+            ],
+            "hương thơm": [],
+            "tòa nhà": [
+                "cổ"
+            ],
+            "công viên": [
+                "cổ"
+            ],
+            "tour": [
+                "kiên trì"
+            ],
+            "du thuyền": [
+                "kiên trì"
+            ],
+            "chuyến": [
+                "rồng",
+                "chắc chắn",
+                "yên bình",
+                "đẹp"
+            ],
+            "quầy hàng": [
+                "bất kỳ"
+            ],
+            "quần áo": [
+                "đẹp",
+                "gấp"
+            ],
+            "thị trấn": [],
+            "chuyến tham": [],
+            "dịch vụ": [],
+            "nhân viên": [],
+            "khía cạnh": [
+                "vui",
+                "khác"
+            ],
+            "chùa": [
+                "tốt"
+            ],
+            "phong cảnh": [
+                "đẹp"
+            ],
+            "mùi hương": [
+                "dễ chịu"
+            ],
+            "sông buồn": [
+                "bẩn"
+            ],
+            "con sông": [
+                "tuyệt vời",
+                "duy nhất"
+            ],
+            "chuyến tham quan": [],
+            "chuyến đi thuyền": [
+                "dài",
+                "dọc"
+            ],
+            "điểm tham": [
+                "quan trọng",
+                "dọc"
+            ],
+            "đi thuyền": [],
+            "nhà hàng": [
+                "tuyệt vời",
+                "dọc",
+                "nhiều",
+                "sạch sẽ",
+                "đẹp"
+            ],
+            "người dân": [
+                "tuyệt vời"
+            ],
+            "câu cá": [
+                "tuyệt vời"
+            ],
+            "tắm rửa": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [
+            "đi thuyền rồng"
+        ],
+        "factor value": {
+            "cung điện hoàng gia": 1,
+            "điểm tham quan": 1,
+            "thuyền": 5.0,
+            "hướng dẫn viên": 1.5,
+            "cánh đồng": 1,
+            "cây xa": 1,
+            "dòng sông": 2.0,
+            "hương thơm": 1,
+            "tòa nhà": 1.5,
+            "công viên": 1.5,
+            "tour": 1.5,
+            "du thuyền": 1.5,
+            "chuyến": 2.0,
+            "quầy hàng": 1.5,
+            "quần áo": 1.5,
+            "thị trấn": 1.5,
+            "chuyến tham": 0.5,
+            "dịch vụ": 0.5,
+            "nhân viên": 0.5,
+            "khía cạnh": 0.5,
+            "chùa": 0.5,
+            "phong cảnh": 0.5,
+            "mùi hương": 0.5,
+            "sông buồn": 0.5,
+            "con sông": 0.5,
+            "chuyến tham quan": 0.5,
+            "chuyến đi thuyền": 0.5,
+            "điểm tham": 0.5,
+            "đi thuyền": 0.5,
+            "nhà hàng": 0.5,
+            "người dân": 0.5,
+            "câu cá": 0.5,
+            "tắm rửa": 0.5
+        }
     },
     {
         "attraction_name": "Perfume River",
@@ -597,7 +1329,201 @@
             "https://www.tripadvisor.com/Attraction_Review-g188590-d191194-Reviews-Escape-Amsterdam_North_Holland_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or50-Perfume_River-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or40-Perfume_River-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or40-Perfume_River-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.9892543429159559,
+            "sông nước": 0.9952981349197216,
+            "sở": 0.995257712318562,
+            "chuyến tham": 0.7161376233561896,
+            "thuyền": 0.6667867309103409,
+            "người dân địa": -0.45135545602533966,
+            "cây cầu": 0.7917766959872097,
+            "chuyến đi": 0.8836730676703155,
+            "đi bộ": 0.8737691454589367,
+            "cây trong": 0.5,
+            "công viên": 0.5,
+            "lịch sử": 0.5,
+            "dòng sông": -0.23366842605173588,
+            "ngôi đền": 0.9916126560419798,
+            "con sông": 0.5,
+            "bờ biển dài nông nghiệp": 0.9952956336783245,
+            "nghề cá": 0.9915551226586103,
+            "khía cạnh": 0.5,
+            "chuyến": 0.6868845727294683,
+            "đi thuyền": 0.387522604316473,
+            "tấm thiệp": 0.5,
+            "mặt hàng": 0.5,
+            "chiến thuật bán hàng": 0.6073206923902035,
+            "đồ uống": 0.5,
+            "chùa thiên mụ": 0.8737691454589367,
+            "quang cảnh": 0.5,
+            "thuyền sông": -0.259174607694149,
+            "công": 0.5160204861313105,
+            "ty du lịch": 0.5658382568508387,
+            "thuyền rồng": 0.8737691454589367,
+            "ngôi mộ": 0.5718014823893706,
+            "bờ sông": 0.5,
+            "người xe ôm": 0.9881719485856593,
+            "tài xế": 0.5765548404306173,
+            "ngôi chùa": 0.9599375422112644,
+            "lái thuyền": 0.9577482505701482
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "xuôi"
+            ],
+            "sông nước": [
+                "thú vị"
+            ],
+            "sở": [
+                "thú vị"
+            ],
+            "chuyến tham": [
+                "riêng",
+                "vất vả",
+                "kiên trì",
+                "thư giãn"
+            ],
+            "thuyền": [
+                "riêng",
+                "vất vả",
+                "kiên trì",
+                "thư giãn"
+            ],
+            "người dân địa": [
+                "vụn",
+                "buồn",
+                "chủ yếu",
+                "tuyệt vời"
+            ],
+            "cây cầu": [
+                "thư giãn",
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "chuyến đi": [
+                "riêng",
+                "vất vả",
+                "kiên trì",
+                "thư giãn",
+                "thực sự",
+                "chắc chắn",
+                "đầy"
+            ],
+            "đi bộ": [
+                "đẹp",
+                "dọc",
+                "tuyệt vời"
+            ],
+            "cây trong": [],
+            "công viên": [],
+            "lịch sử": [],
+            "dòng sông": [],
+            "ngôi đền": [
+                "nhỏ"
+            ],
+            "con sông": [],
+            "bờ biển dài nông nghiệp": [
+                "tốt"
+            ],
+            "nghề cá": [
+                "tốt"
+            ],
+            "khía cạnh": [],
+            "chuyến": [
+                "rồng",
+                "cuối cùng"
+            ],
+            "đi thuyền": [
+                "rồng",
+                "cuối cùng"
+            ],
+            "tấm thiệp": [],
+            "mặt hàng": [],
+            "chiến thuật bán hàng": [
+                "Cuối cùng",
+                "cao",
+                "cuối cùng",
+                "bất kỳ"
+            ],
+            "đồ uống": [],
+            "chùa thiên mụ": [
+                "chắc chắn"
+            ],
+            "quang cảnh": [],
+            "thuyền sông": [
+                "riêng"
+            ],
+            "công": [
+                "riêng"
+            ],
+            "ty du lịch": [
+                "riêng"
+            ],
+            "thuyền rồng": [
+                "riêng"
+            ],
+            "ngôi mộ": [
+                "nổi tiếng",
+                "dọc",
+                "đầu tiên"
+            ],
+            "bờ sông": [],
+            "người xe ôm": [
+                "đầu tiên"
+            ],
+            "tài xế": [
+                "đầu tiên"
+            ],
+            "ngôi chùa": [
+                "đầy",
+                "nhiều",
+                "hơn"
+            ],
+            "lái thuyền": [
+                "đẹp đẽ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 2.0,
+            "sông nước": 1.5,
+            "sở": 1.5,
+            "chuyến tham": 0.5,
+            "thuyền": 1.5,
+            "người dân địa": 0.5,
+            "cây cầu": 0.5,
+            "chuyến đi": 2.0,
+            "đi bộ": 0.5,
+            "cây trong": 0.5,
+            "công viên": 0.5,
+            "lịch sử": 0.5,
+            "dòng sông": 1.0,
+            "ngôi đền": 0.5,
+            "con sông": 0.5,
+            "bờ biển dài nông nghiệp": 0.5,
+            "nghề cá": 0.5,
+            "khía cạnh": 0.5,
+            "chuyến": 1.0,
+            "đi thuyền": 1.0,
+            "tấm thiệp": 0.5,
+            "mặt hàng": 0.5,
+            "chiến thuật bán hàng": 0.5,
+            "đồ uống": 0.5,
+            "chùa thiên mụ": 0.5,
+            "quang cảnh": 0.5,
+            "thuyền sông": 0.5,
+            "công": 0.5,
+            "ty du lịch": 0.5,
+            "thuyền rồng": 0.5,
+            "ngôi mộ": 0.5,
+            "bờ sông": 0.5,
+            "người xe ôm": 0.5,
+            "tài xế": 0.5,
+            "ngôi chùa": 0.5,
+            "lái thuyền": 0.5
+        }
     },
     {
         "attraction_name": "Perfume River",
@@ -722,7 +1648,139 @@
             "https://www.tripadvisor.com/Attraction_Review-g304138-d20314343-Reviews-Ambuluwawa_Tower-Kandy_Kandy_District_Central_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or60-Perfume_River-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or50-Perfume_River-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or50-Perfume_River-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dòng sông": 0.6789823213378744,
+            "du thuyền": 0.9723616605624557,
+            "hoàng thành": 0.5217996351420879,
+            "góc nhìn": 0.9954146156087518,
+            "bờ chùa thiên mụ": 0.8737691454589367,
+            "vọng cảnh": 0.8737691454589367,
+            "chuyến đi": 0.9345549227145966,
+            "chùa tiên mụ": 0.8737691454589367,
+            "cửa hàng": -0.19240047864150256,
+            "mặt nước": -0.16775955178309232,
+            "chiến thuật bán hàng": -0.9594866326078773,
+            "bờ biển": -0.2304152250289917,
+            "cây cối bãi cỏ": 0.9884857260622084,
+            "bờ sông": 0.5206632055342197,
+            "mùi hoa": 0.5,
+            "chuyến du ngoạn": 0.9950911532796454,
+            "cửa": 0.9815375379985198,
+            "hàng bán hàng": 0.9788720927899703,
+            "cảnh hoàng hôn": 0.9869498775806278,
+            "công viên": 0.9955557809444144,
+            "sông nước hoa": 0.9954310203320347,
+            "hàng hóa": 0.5,
+            "cây cầu": 0.9941394065972418
+        },
+        "dicts_adj": {
+            "dòng sông": [
+                "thơ mộng",
+                "thực sự",
+                "vui",
+                "đẹp"
+            ],
+            "du thuyền": [
+                "ngược",
+                "nhiều",
+                "thú vị"
+            ],
+            "hoàng thành": [],
+            "góc nhìn": [
+                "tuyệt vời"
+            ],
+            "bờ chùa thiên mụ": [
+                "tuyệt vời"
+            ],
+            "vọng cảnh": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "thực sự",
+                "thú vị"
+            ],
+            "chùa tiên mụ": [
+                "thực sự"
+            ],
+            "cửa hàng": [
+                "khó khăn",
+                "đủ"
+            ],
+            "mặt nước": [
+                "khó khăn",
+                "rộng lớn",
+                "gần"
+            ],
+            "chiến thuật bán hàng": [
+                "khó khăn"
+            ],
+            "bờ biển": [
+                "công cộng"
+            ],
+            "cây cối bãi cỏ": [
+                "cẩn thận"
+            ],
+            "bờ sông": [
+                "xa xưa"
+            ],
+            "mùi hoa": [],
+            "chuyến du ngoạn": [
+                "thú vị",
+                "nhiều"
+            ],
+            "cửa": [
+                "thú vị",
+                "nhiều"
+            ],
+            "hàng bán hàng": [
+                "thú vị",
+                "nhiều"
+            ],
+            "cảnh hoàng hôn": [
+                "nhiều",
+                "đẹp",
+                "khác"
+            ],
+            "công viên": [],
+            "sông nước hoa": [
+                "thú vị"
+            ],
+            "hàng hóa": [],
+            "cây cầu": [
+                "tuyệt vời",
+                "đầy",
+                "ít",
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dòng sông": 3.0,
+            "du thuyền": 1.5,
+            "hoàng thành": 0.5,
+            "góc nhìn": 0.5,
+            "bờ chùa thiên mụ": 0.5,
+            "vọng cảnh": 0.5,
+            "chuyến đi": 1.0,
+            "chùa tiên mụ": 0.5,
+            "cửa hàng": 1.0,
+            "mặt nước": 1.0,
+            "chiến thuật bán hàng": 0.5,
+            "bờ biển": 0.5,
+            "cây cối bãi cỏ": 0.5,
+            "bờ sông": 0.5,
+            "mùi hoa": 0.5,
+            "chuyến du ngoạn": 0.5,
+            "cửa": 0.5,
+            "hàng bán hàng": 0.5,
+            "cảnh hoàng hôn": 0.5,
+            "công viên": 0.5,
+            "sông nước hoa": 0.5,
+            "hàng hóa": 0.5,
+            "cây cầu": 0.5
+        }
     },
     {
         "attraction_name": "Perfume River",
@@ -836,7 +1894,184 @@
             "https://www.tripadvisor.com/Attraction_Review-g34467-d285104-Reviews-Clam_Pass_Park-Naples_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or70-Perfume_River-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or60-Perfume_River-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or60-Perfume_River-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thắng cảnh": 0.9289974984712899,
+            "hoàng thành": 0.8708830215909984,
+            "chuyến đi": 0.5002466360909036,
+            "địa điểm": -0.9469709878321737,
+            "mặt": 0.8488632966764271,
+            "thuyền viên thuyền rồng": 0.8737691454589367,
+            "ảnh du lịch": 0.9945768855977803,
+            "thẻ": 0.0658113001845777,
+            "quà tặng 3d": 0.8737691454589367,
+            "quà tặng": 0.989666813518852,
+            "phong cảnh": 0.8737691454589367,
+            "con sông": 0.9502946194261312,
+            "thuyền": 0.2881360851849119,
+            "người dân": -0.011632397770881653,
+            "dòng sông": -0.31557949003763497,
+            "ngôi chùa": 0.5,
+            "phi công": 0.9154447792097926,
+            "ngồi ngoài": 0.5,
+            "ánh nắng mặt": 0.5,
+            "thuyền bè": 0.5227570962160826,
+            "cây cầu": 0.5,
+            "đến chùa": 0.5,
+            "chuyến thăm": 0.5,
+            "trải nghiệm": 0.9954609676497057,
+            "bia ăn": 0.9825569873210043,
+            "hoàng hôn": 0.9956176658743061,
+            "nhà vệ sinh": 0.5,
+            "phí thuyền": -0.9527342496439815,
+            "chùa thiên mụ": 0.5,
+            "bến cảng thành phố": 0.5,
+            "cấu": 0.7792555391788483,
+            "bờ sông": 0.8477992219850421,
+            "không khí mát mẻ": -0.9748580812010914,
+            "hàng hóa": 0.5,
+            "sản phẩm": 0.5
+        },
+        "dicts_adj": {
+            "thắng cảnh": [
+                "tốt"
+            ],
+            "hoàng thành": [
+                "thư giãn"
+            ],
+            "chuyến đi": [
+                "khác",
+                "dài",
+                "hơn",
+                "chắc chắn"
+            ],
+            "địa điểm": [
+                "khác"
+            ],
+            "mặt": [
+                "hợp lý",
+                "vui"
+            ],
+            "thuyền viên thuyền rồng": [
+                "thông thường"
+            ],
+            "ảnh du lịch": [
+                "thông thường"
+            ],
+            "thẻ": [
+                "khắp",
+                "tốt"
+            ],
+            "quà tặng 3d": [
+                "nhiều"
+            ],
+            "quà tặng": [
+                "khắp",
+                "tốt"
+            ],
+            "phong cảnh": [
+                "đẹp",
+                "thực sự"
+            ],
+            "con sông": [
+                "ô nhiễm",
+                "đầy",
+                "ô nhiễm",
+                "đầy"
+            ],
+            "thuyền": [
+                "nhiều",
+                "dọc",
+                "đầy",
+                "bẩn"
+            ],
+            "người dân": [
+                "như thế nào"
+            ],
+            "dòng sông": [
+                "như thế nào",
+                "sạch",
+                "nhất",
+                "giống"
+            ],
+            "ngôi chùa": [],
+            "phi công": [],
+            "ngồi ngoài": [],
+            "ánh nắng mặt": [],
+            "thuyền bè": [
+                "vắng lặng",
+                "ít"
+            ],
+            "cây cầu": [],
+            "đến chùa": [],
+            "chuyến thăm": [],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "bia ăn": [
+                "vui"
+            ],
+            "hoàng hôn": [
+                "đẹp"
+            ],
+            "nhà vệ sinh": [],
+            "phí thuyền": [
+                "cao"
+            ],
+            "chùa thiên mụ": [],
+            "bến cảng thành phố": [],
+            "cấu": [
+                "đặc biệt"
+            ],
+            "bờ sông": [
+                "chắc chắn"
+            ],
+            "không khí mát mẻ": [
+                "đặc biệt"
+            ],
+            "hàng hóa": [],
+            "sản phẩm": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thắng cảnh": 1.5,
+            "hoàng thành": 2.0,
+            "chuyến đi": 1.5,
+            "địa điểm": 0.5,
+            "mặt": 0.5,
+            "thuyền viên thuyền rồng": 0.5,
+            "ảnh du lịch": 0.5,
+            "thẻ": 0.5,
+            "quà tặng 3d": 0.5,
+            "quà tặng": 0.5,
+            "phong cảnh": 0.5,
+            "con sông": 0.5,
+            "thuyền": 2.5,
+            "người dân": 0.5,
+            "dòng sông": 1.0,
+            "ngôi chùa": 0.5,
+            "phi công": 0.5,
+            "ngồi ngoài": 0.5,
+            "ánh nắng mặt": 0.5,
+            "thuyền bè": 0.5,
+            "cây cầu": 0.5,
+            "đến chùa": 0.5,
+            "chuyến thăm": 0.5,
+            "trải nghiệm": 0.5,
+            "bia ăn": 0.5,
+            "hoàng hôn": 0.5,
+            "nhà vệ sinh": 0.5,
+            "phí thuyền": 0.5,
+            "chùa thiên mụ": 0.5,
+            "bến cảng thành phố": 0.5,
+            "cấu": 0.5,
+            "bờ sông": 0.5,
+            "không khí mát mẻ": 0.5,
+            "hàng hóa": 0.5,
+            "sản phẩm": 0.5
+        }
     },
     {
         "attraction_name": "Perfume River",
@@ -950,7 +2185,183 @@
             "https://www.tripadvisor.com/Attraction_Review-g147426-d185176-Reviews-Sapona-Bimini_Out_Islands_Bahamas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or80-Perfume_River-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or70-Perfume_River-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or70-Perfume_River-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thuyền": 0.6779406810944367,
+            "thăm chùa": 0.5,
+            "phong cảnh": 0.8737691454589367,
+            "bờ sông": 0.870313834901026,
+            "tác phẩm nghệ thuật": 0.9893994777230546,
+            "quán cà phê": 0.5,
+            "cửa hàng": 0.5,
+            "cầu trường": 0.994131147977896,
+            "chuyến đi": -0.21895780391059816,
+            "chiếc thuyền du lịch": 0.5,
+            "ghế": 0.5,
+            "thủy thủ đoàn": 0.5,
+            "dòng": 0.8737691454589367,
+            "sông buồn": -0.9104704055935144,
+            "sông mê kông": 0.8737691454589367,
+            "con sông": 0.4556580949574709,
+            "độ ẩm": -0.8817599606700242,
+            "chất lỏng": 0.47391532734036446,
+            "chuyến tham quan": 0.5782673517242074,
+            "thuyền trưởng": 0.9948299811221659,
+            "ngôi chùa": 0.9946278037969023,
+            "địa điểm tham": 0.9929971339879557,
+            "chuyến thăm": 0.9945969609543681,
+            "vịnh": 0.8737691454589367,
+            "chợ nổi": 0.8737691454589367,
+            "điểm tham quan": -0.44922356226015836,
+            "nhà ở": 0.5357921365648508,
+            "công trình": 0.5279477639123797,
+            "du thuyền": 0.9948613232700154,
+            "khung cảnh": 0.9954537755693309,
+            "dòng sông": 0.5,
+            "trải nghiệm": 0.9949619624530897,
+            "hướng dẫn viên du lịch": 0.995339747867547,
+            "con": 0.5,
+            "thuyền số": 0.5
+        },
+        "dicts_adj": {
+            "thuyền": [
+                "nóng nắng",
+                "đầy"
+            ],
+            "thăm chùa": [],
+            "phong cảnh": [
+                "dọc"
+            ],
+            "bờ sông": [
+                "thực sự",
+                "đẹp"
+            ],
+            "tác phẩm nghệ thuật": [
+                "nhiều",
+                "sắp đặt"
+            ],
+            "quán cà phê": [],
+            "cửa hàng": [],
+            "cầu trường": [
+                "thích hợp"
+            ],
+            "chuyến đi": [
+                "giống",
+                "thực sự",
+                "thú vị"
+            ],
+            "chiếc thuyền du lịch": [],
+            "ghế": [],
+            "thủy thủ đoàn": [],
+            "dòng": [
+                "ít"
+            ],
+            "sông buồn": [
+                "ít"
+            ],
+            "sông mê kông": [
+                "ít"
+            ],
+            "con sông": [
+                "đẹp",
+                "nhàm",
+                "giống",
+                "lầy lội",
+                "nhiều"
+            ],
+            "độ ẩm": [
+                "cao"
+            ],
+            "chất lỏng": [
+                "nhiều"
+            ],
+            "chuyến tham quan": [],
+            "thuyền trưởng": [
+                "bất kỳ",
+                "đẹp"
+            ],
+            "ngôi chùa": [
+                "hơn"
+            ],
+            "địa điểm tham": [
+                "hơn"
+            ],
+            "chuyến thăm": [
+                "hơn"
+            ],
+            "vịnh": [
+                "trung bình"
+            ],
+            "chợ nổi": [
+                "trung bình"
+            ],
+            "điểm tham quan": [
+                "khác",
+                "kỹ",
+                "khác",
+                "kỹ"
+            ],
+            "nhà ở": [
+                "dọc"
+            ],
+            "công trình": [
+                "dọc"
+            ],
+            "du thuyền": [],
+            "khung cảnh": [
+                "tuyệt vời"
+            ],
+            "dòng sông": [],
+            "trải nghiệm": [
+                "đủ",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "sâu sắc"
+            ],
+            "con": [],
+            "thuyền số": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thuyền": 3.5,
+            "thăm chùa": 1.5,
+            "phong cảnh": 1.5,
+            "bờ sông": 2.0,
+            "tác phẩm nghệ thuật": 0.5,
+            "quán cà phê": 0.5,
+            "cửa hàng": 0.5,
+            "cầu trường": 0.5,
+            "chuyến đi": 1.0,
+            "chiếc thuyền du lịch": 0.5,
+            "ghế": 0.5,
+            "thủy thủ đoàn": 0.5,
+            "dòng": 0.5,
+            "sông buồn": 0.5,
+            "sông mê kông": 0.5,
+            "con sông": 1.0,
+            "độ ẩm": 0.5,
+            "chất lỏng": 0.5,
+            "chuyến tham quan": 0.5,
+            "thuyền trưởng": 0.5,
+            "ngôi chùa": 0.5,
+            "địa điểm tham": 0.5,
+            "chuyến thăm": 0.5,
+            "vịnh": 0.5,
+            "chợ nổi": 0.5,
+            "điểm tham quan": 0.5,
+            "nhà ở": 0.5,
+            "công trình": 0.5,
+            "du thuyền": 0.5,
+            "khung cảnh": 0.5,
+            "dòng sông": 0.5,
+            "trải nghiệm": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "con": 0.5,
+            "thuyền số": 0.5
+        }
     },
     {
         "attraction_name": "Perfume River",
@@ -1075,7 +2486,150 @@
             "https://www.tripadvisor.com/Attraction_Review-g60933-d9974890-Reviews-Hotel_Cascada_Waterpark-Albuquerque_New_Mexico.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or90-Perfume_River-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or80-Perfume_River-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or80-Perfume_River-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cốc bia": 0.5144108664244413,
+            "chuyến": 0.5,
+            "đi thuyền": 0.5,
+            "tấm ván": 0.5,
+            "khung cảnh": 0.5668991673737764,
+            "thuyền": 0.524964991491288,
+            "bữa": 0.5,
+            "du thuyền đêm": 0.5,
+            "sông nước": 0.5,
+            "chặng chèo": -0.8706309543922544,
+            "người": 0.5,
+            "chèo thuyền": 0.5,
+            "trang phục": 0.9955011151032522,
+            "bài hát": 0.9670366237405688,
+            "lễ kỷ niệm": 0.9577137448359281,
+            "trải nghiệm": 0.9946354833664373,
+            "buổi biểu diễn": 0.9856173086445779,
+            "cầu tàu": 0.9417677270248532,
+            "chuyến đi": 0.5489265099167824,
+            "giá cả": 0.966159992152825,
+            "cửa hàng": 0.8980906582437456,
+            "tour du lịch": 0.9062522351741791,
+            "bờ sông": 0.9953020622488111,
+            "không khí": 0.5,
+            "hướng dẫn viên": 0.8737691454589367,
+            "chùa thiên mụ": 0.8737691454589367,
+            "chuyến tham quan": 0.5,
+            "sông hương": 0.47764174826443195,
+            "đồ lưu niệm": -0.9726119288243353,
+            "chuyến du ngoạn": 0.9892624334897846,
+            "bữa tối": 0.5
+        },
+        "dicts_adj": {
+            "cốc bia": [
+                "dễ chịu",
+                "nhẹ"
+            ],
+            "chuyến": [],
+            "đi thuyền": [],
+            "tấm ván": [],
+            "khung cảnh": [
+                "tương tự",
+                "dọc"
+            ],
+            "thuyền": [
+                "dọc"
+            ],
+            "bữa": [],
+            "du thuyền đêm": [],
+            "sông nước": [],
+            "chặng chèo": [
+                "chậm rãi"
+            ],
+            "người": [],
+            "chèo thuyền": [],
+            "trang phục": [
+                "hiện đại"
+            ],
+            "bài hát": [
+                "nhiều",
+                "khác"
+            ],
+            "lễ kỷ niệm": [
+                "khác"
+            ],
+            "trải nghiệm": [
+                "thú vị"
+            ],
+            "buổi biểu diễn": [
+                "hiện đại"
+            ],
+            "cầu tàu": [
+                "hiện đại"
+            ],
+            "chuyến đi": [
+                "khoảng"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "phải"
+            ],
+            "cửa hàng": [
+                "nhỏ"
+            ],
+            "tour du lịch": [
+                "dọc"
+            ],
+            "bờ sông": [
+                "tuyệt không khí"
+            ],
+            "không khí": [],
+            "hướng dẫn viên": [
+                "hữu ích"
+            ],
+            "chùa thiên mụ": [
+                "hữu ích"
+            ],
+            "chuyến tham quan": [],
+            "sông hương": [],
+            "đồ lưu niệm": [
+                "làm phiền"
+            ],
+            "chuyến du ngoạn": [
+                "dọc"
+            ],
+            "bữa tối": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cốc bia": 1.5,
+            "chuyến": 0.5,
+            "đi thuyền": 0.5,
+            "tấm ván": 0.5,
+            "khung cảnh": 0.5,
+            "thuyền": 2.0,
+            "bữa": 0.5,
+            "du thuyền đêm": 0.5,
+            "sông nước": 0.5,
+            "chặng chèo": 0.5,
+            "người": 0.5,
+            "chèo thuyền": 0.5,
+            "trang phục": 0.5,
+            "bài hát": 0.5,
+            "lễ kỷ niệm": 0.5,
+            "trải nghiệm": 0.5,
+            "buổi biểu diễn": 0.5,
+            "cầu tàu": 0.5,
+            "chuyến đi": 1.0,
+            "giá cả": 0.5,
+            "cửa hàng": 0.5,
+            "tour du lịch": 0.5,
+            "bờ sông": 0.5,
+            "không khí": 0.5,
+            "hướng dẫn viên": 0.5,
+            "chùa thiên mụ": 0.5,
+            "chuyến tham quan": 0.5,
+            "sông hương": 0.5,
+            "đồ lưu niệm": 0.5,
+            "chuyến du ngoạn": 0.5,
+            "bữa tối": 0.5
+        }
     },
     {
         "attraction_name": "Perfume River",
@@ -1189,6 +2743,168 @@
             "https://www.tripadvisor.com/Attraction_Review-g41388-d12868050-Reviews-Matapeake_Clubhouse_and_Beach-Stevensville_Kent_Island_Maryland.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or100-Perfume_River-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or90-Perfume_River-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d456107-Reviews-or90-Perfume_River-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": -0.4114990747766569,
+            "thuyền rồng": 0.5,
+            "bờ sông": 0.721313687992127,
+            "nghe nhạc": 0.9954003223101608,
+            "thuyền": 0.5387201265742381,
+            "sông hương": 0.8737691454589367,
+            "chùa hoàng": 0.8737691454589367,
+            "điểm tham quan": -0.21898164052981883,
+            "tour du lịch": 0.5112765915691853,
+            "bờ biển": 0.7468260159948841,
+            "khách sạn": 0.5,
+            "khu nghỉ dưỡng": 0.5,
+            "chiếc thuyền": 0.5087664257735014,
+            "taxi": 0.5,
+            "cầu tràng tiền": 0.8737691454589367,
+            "vỉa hè": 0.9955239286646247,
+            "lát gỗ": 0.9861361312214285,
+            "dòng sông": 0.9325481881969608,
+            "cảnh": 0.9950157243292779,
+            "nhà hàng": 0.5,
+            "cây cầu": 0.9947424499550834,
+            "đồ uống": 0.5313297109678388,
+            "quà lưu niệm": 0.5,
+            "hoàng thành": 0.8737691454589367,
+            "bông sen": 0.7677998340805061,
+            "lễ": 0.5,
+            "kỷ niệm phật giáo": 0.8737691454589367,
+            "hàng hóa": 0.5126015990972519,
+            "cây cối": 0.5,
+            "trái cây": 0.5
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "rồng",
+                "đắt",
+                "sai",
+                "chậm",
+                "nhiều",
+                "yên bình",
+                "bình tĩnh"
+            ],
+            "thuyền rồng": [],
+            "bờ sông": [
+                "tuyệt vời",
+                "nhiều",
+                "nhiều"
+            ],
+            "nghe nhạc": [
+                "nhiều",
+                "thú vị"
+            ],
+            "thuyền": [
+                "dọc",
+                "nhiều",
+                "dọc",
+                "dọc"
+            ],
+            "sông hương": [
+                "dọc",
+                "nhiều"
+            ],
+            "chùa hoàng": [
+                "dọc",
+                "nhiều"
+            ],
+            "điểm tham quan": [
+                "khác",
+                "dọc"
+            ],
+            "tour du lịch": [
+                "dọc"
+            ],
+            "bờ biển": [
+                "vui"
+            ],
+            "khách sạn": [],
+            "khu nghỉ dưỡng": [],
+            "chiếc thuyền": [
+                "riêng",
+                "nhỏ"
+            ],
+            "taxi": [],
+            "cầu tràng tiền": [
+                "đẹp"
+            ],
+            "vỉa hè": [
+                "đẹp"
+            ],
+            "lát gỗ": [
+                "đẹp"
+            ],
+            "dòng sông": [
+                "đẹp",
+                "lớn",
+                "xinh đẹp"
+            ],
+            "cảnh": [
+                "đẹp",
+                "đẹp",
+                "đẹp",
+                "suốt"
+            ],
+            "nhà hàng": [],
+            "cây cầu": [
+                "đẹp"
+            ],
+            "đồ uống": [
+                "lạnh",
+                "sẵn"
+            ],
+            "quà lưu niệm": [],
+            "hoàng thành": [
+                "dọc"
+            ],
+            "bông sen": [
+                "lớn",
+                "xinh đẹp"
+            ],
+            "lễ": [],
+            "kỷ niệm phật giáo": [
+                "lớn",
+                "xinh đẹp"
+            ],
+            "hàng hóa": [],
+            "cây cối": [],
+            "trái cây": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 2.0,
+            "thuyền rồng": 0.5,
+            "bờ sông": 1.5,
+            "nghe nhạc": 0.5,
+            "thuyền": 1.0,
+            "sông hương": 0.5,
+            "chùa hoàng": 0.5,
+            "điểm tham quan": 0.5,
+            "tour du lịch": 0.5,
+            "bờ biển": 1.0,
+            "khách sạn": 0.5,
+            "khu nghỉ dưỡng": 0.5,
+            "chiếc thuyền": 0.5,
+            "taxi": 0.5,
+            "cầu tràng tiền": 0.5,
+            "vỉa hè": 0.5,
+            "lát gỗ": 0.5,
+            "dòng sông": 1.0,
+            "cảnh": 1.0,
+            "nhà hàng": 0.5,
+            "cây cầu": 0.5,
+            "đồ uống": 1.0,
+            "quà lưu niệm": 0.5,
+            "hoàng thành": 0.5,
+            "bông sen": 0.5,
+            "lễ": 0.5,
+            "kỷ niệm phật giáo": 0.5,
+            "hàng hóa": 0.5,
+            "cây cối": 0.5,
+            "trái cây": 0.5
+        }
     }
 ]
