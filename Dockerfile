@@ -16,5 +16,5 @@ RUN pip install --upgrade pip && \
 EXPOSE 8080
 
 # CMD ["gunicorn", "app:app", "-b", "0.0.0.0:8080"]
-CMD ["python ", "app.py"]
+CMD ["python3 ", "app.py"]
 
