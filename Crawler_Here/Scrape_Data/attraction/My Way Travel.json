@@ -90,7 +90,252 @@
             "https://www.tripadvisor.com/Attraction_Review-g294197-d10758285-Reviews-Statue_of_Gangnam_Style-Seoul.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or10-My_Way_Travel-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-My_Way_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-My_Way_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9250582625216339,
+            "vịnh": 0.9278895915744619,
+            "hướng dẫn viên": 0.8647123414145496,
+            "hồ bơi": 0.8244344594755343,
+            "kỳ nghỉ": 0.9931783983483911,
+            "sóng gió": 0.8718156141694635,
+            "angkor wat": 0.8737691454589367,
+            "chuyến tham quan": 0.7249107158568222,
+            "khách sạn": 0.8524716063402593,
+            "đại lý trực": 0.6295888144522905,
+            "bãi biển": 0.6159378314390779,
+            "giá": 0.9807483516633511,
+            "nhà": 0.9569366564974189,
+            "trải nghiệm": 0.9954167903134865,
+            "dịch vụ": 0.39959509088657796,
+            "phương tiện": 0.856075688265264,
+            "chuyến bay": 0.5487951375544071,
+            "tour": 0.9953116879332811,
+            "siem reap": 0.5,
+            "trải nghiệm du lịch": 0.9955821734038182,
+            "hành trình": 0.9921703176223673,
+            "văn hóa": 0.1798394375247881,
+            "thắng cảnh": 0.9953927282476798,
+            "chuyến tham quan bằng xe đạp": 0.5,
+            "đồng bằng sông cửu long": 0.8737691454589367,
+            "cộng đồng địa phương": 0.5,
+            "lịch sử": 0.879801863222383,
+            "khoảng thời gian": 0.9918982956442051,
+            "chuyến du lịch": 0.5,
+            "hướng dẫn viên du lịch": 0.9942663087276742,
+            "nhà hàng": 0.7477853639575187,
+            "chuyến thăm": 0.7458605340798385,
+            "khu bảo tồn": 0.5,
+            "sông": 0.7476753100636415,
+            "thuyền": 0.9526724482420832,
+            "chuyển tiền": 0.993828174425289,
+            "chuyến du ngoạn": 0.9954316581133753
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "nhiều",
+                "tốt",
+                "vui",
+                "tuyệt vời",
+                "xuất sắc",
+                "nhiều",
+                "xuất sắc",
+                "ân cần",
+                "tốt",
+                "chắc chắn",
+                "vui mừng",
+                "tuyệt vời",
+                "sang trọng",
+                "hoàn hảo"
+            ],
+            "vịnh": [
+                "đẹp",
+                "riêng",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "tử tế",
+                "hơn",
+                "hơn",
+                "hoàn toàn",
+                "tốt",
+                "đơn giản",
+                "xuất sắc",
+                "tốt Stephen",
+                "nhanh",
+                "tuyệt vời",
+                "tuyệt vời",
+                "đặc biệt",
+                "phong phú",
+                "thực sự",
+                "nổi bật",
+                "độc đáo",
+                "tốt"
+            ],
+            "hồ bơi": [
+                "dài",
+                "xa",
+                "hơn"
+            ],
+            "kỳ nghỉ": [
+                "đầy"
+            ],
+            "sóng gió": [
+                "sâu",
+                "dài"
+            ],
+            "angkor wat": [
+                "tốt",
+                "đơn giản",
+                "xuất sắc"
+            ],
+            "chuyến tham quan": [
+                "riêng",
+                "tuyệt vời",
+                "tuyệt vời",
+                "liền mạch",
+                "phong phú",
+                "thực sự",
+                "nổi bật",
+                "độc đáo"
+            ],
+            "khách sạn": [
+                "tốt Stephen",
+                "nhanh",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "đại lý trực": [
+                "trực tuyến",
+                "thực sự"
+            ],
+            "bãi biển": [
+                "xa",
+                "hơn"
+            ],
+            "giá": [
+                "tốt"
+            ],
+            "nhà": [
+                "an toàn"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "xuất sắc",
+                "ân cần"
+            ],
+            "phương tiện": [
+                "liền mạch"
+            ],
+            "chuyến bay": [
+                "liền mạch"
+            ],
+            "tour": [],
+            "siem reap": [],
+            "trải nghiệm du lịch": [
+                "tuyệt vời"
+            ],
+            "hành trình": [
+                "thực sự",
+                "kiên nhẫn",
+                "an toàn",
+                "thú vị",
+                "hơn"
+            ],
+            "văn hóa": [
+                "tuyệt vời",
+                "phong phú",
+                "thực sự",
+                "nổi bật",
+                "độc đáo"
+            ],
+            "thắng cảnh": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan bằng xe đạp": [],
+            "đồng bằng sông cửu long": [
+                "ấm"
+            ],
+            "cộng đồng địa phương": [],
+            "lịch sử": [
+                "phong phú",
+                "thực sự",
+                "nổi bật",
+                "độc đáo"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "chuyến du lịch": [],
+            "hướng dẫn viên du lịch": [
+                "thân thiện"
+            ],
+            "nhà hàng": [
+                "ngon"
+            ],
+            "chuyến thăm": [
+                "vui"
+            ],
+            "khu bảo tồn": [],
+            "sông": [
+                "tuyệt vời"
+            ],
+            "thuyền": [
+                "sang trọng",
+                "sang trọng"
+            ],
+            "chuyển tiền": [
+                "tốt"
+            ],
+            "chuyến du ngoạn": [
+                "sang trọng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 10.0,
+            "vịnh": 4.5,
+            "hướng dẫn viên": 6.5,
+            "hồ bơi": 3.5,
+            "kỳ nghỉ": 2,
+            "sóng gió": 2,
+            "angkor wat": 2,
+            "chuyến tham quan": 7.0,
+            "khách sạn": 5.0,
+            "đại lý trực": 1.5,
+            "bãi biển": 2.5,
+            "giá": 1.5,
+            "nhà": 1.5,
+            "trải nghiệm": 3.5,
+            "dịch vụ": 2,
+            "phương tiện": 1,
+            "chuyến bay": 1,
+            "tour": 1,
+            "siem reap": 1,
+            "trải nghiệm du lịch": 1,
+            "hành trình": 2,
+            "văn hóa": 1,
+            "thắng cảnh": 1,
+            "chuyến tham quan bằng xe đạp": 1,
+            "đồng bằng sông cửu long": 1,
+            "cộng đồng địa phương": 1,
+            "lịch sử": 1,
+            "khoảng thời gian": 1,
+            "chuyến du lịch": 1,
+            "hướng dẫn viên du lịch": 1,
+            "nhà hàng": 2,
+            "chuyến thăm": 2,
+            "khu bảo tồn": 1,
+            "sông": 2,
+            "thuyền": 2,
+            "chuyển tiền": 1,
+            "chuyến du ngoạn": 1
+        }
     },
     {
         "attraction_name": "My Way Travel",
@@ -192,7 +437,146 @@
             "https://www.tripadvisor.com/Attraction_Review-g294265-d2281850-Reviews-Spectra_A_Light_And_Water_Show-Singapore.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or20-My_Way_Travel-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or10-My_Way_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or10-My_Way_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "visa du lịch": 0.9944994426623452,
+            "quy": -0.9750391358975321,
+            "giá": 0.6445413720794022,
+            "dịch vụ": 0.8840372387494426,
+            "khách sạn": 0.6465316594621981,
+            "hướng dẫn viên du lịch": 0.8815392951946706,
+            "hướng dẫn viên": 0.8919738825061359,
+            "món ăn": 0.9954055330017582,
+            "chuyến đi": 0.9327112000765434,
+            "trải nghiệm": 0.8961501564248465,
+            "chuyến tham quan": 0.8281024197737376,
+            "chuyến": 0.5,
+            "hành lý": 0.9955515603651293,
+            "chuyến thăm": 0.5,
+            "chuyến du lịch": 0.9942957338644192,
+            "thị": 0.5
+        },
+        "dicts_adj": {
+            "visa du lịch": [
+                "xuất sắc",
+                "tuyệt khi",
+                "đặc biệt",
+                "dễ dàng",
+                "thuận tiện",
+                "hơn"
+            ],
+            "quy": [
+                "phức tạp"
+            ],
+            "giá": [
+                "thuận tiện",
+                "hơn"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "hữu ích",
+                "hữu ích",
+                "chung",
+                "chuyên nghiệp",
+                "nhanh chóng",
+                "thú vị",
+                "chuyên nghiệp",
+                "nhanh chóng",
+                "thú vị",
+                "chuyên nghiệp",
+                "vui",
+                "nhanh chóng",
+                "thú vị"
+            ],
+            "khách sạn": [
+                "riêng",
+                "sang trọng",
+                "tuyệt vời",
+                "đúng",
+                "dễ dàng",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "riêng",
+                "sang trọng"
+            ],
+            "hướng dẫn viên": [
+                "thú vị",
+                "tuyệt vời",
+                "đúng",
+                "đúng",
+                "hữu ích"
+            ],
+            "món ăn": [
+                "thú vị"
+            ],
+            "chuyến đi": [
+                "cao",
+                "dễ dàng",
+                "suốt",
+                "suôn sẻ",
+                "thú vị",
+                "vui",
+                "tuyệt vời",
+                "khác",
+                "cuối cùng",
+                "dễ dàng",
+                "tuyệt vời",
+                "tốt",
+                "nhanh chóng",
+                "vui",
+                "nhanh chóng",
+                "thú vị",
+                "chuyên nghiệp",
+                "nhanh chóng",
+                "thú vị",
+                "chuyên nghiệp"
+            ],
+            "trải nghiệm": [
+                "đầu tiên",
+                "hoàn toàn",
+                "tuyệt vời",
+                "vui",
+                "tuyệt vời",
+                "tuyệt vời",
+                "dễ dàng"
+            ],
+            "chuyến tham quan": [
+                "chu đáo",
+                "hài lòng",
+                "chu đáo"
+            ],
+            "chuyến": [],
+            "hành lý": [
+                "dễ dàng",
+                "nhanh chóng"
+            ],
+            "chuyến thăm": [],
+            "chuyến du lịch": [
+                "thực sự"
+            ],
+            "thị": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "visa du lịch": 2,
+            "quy": 1,
+            "giá": 1,
+            "dịch vụ": 6,
+            "khách sạn": 4,
+            "hướng dẫn viên du lịch": 1,
+            "hướng dẫn viên": 5,
+            "món ăn": 1,
+            "chuyến đi": 5,
+            "trải nghiệm": 5,
+            "chuyến tham quan": 3,
+            "chuyến": 1,
+            "hành lý": 1,
+            "chuyến thăm": 1,
+            "chuyến du lịch": 1,
+            "thị": 1
+        }
     },
     {
         "attraction_name": "My Way Travel",
@@ -293,7 +677,216 @@
             "https://www.tripadvisor.com/Attraction_Review-g274707-d315486-Reviews-Petrin-Prague_Bohemia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or30-My_Way_Travel-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or20-My_Way_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or20-My_Way_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9801730098600577,
+            "khách sạn": 0.3496305482694879,
+            "hướng dẫn viên": 0.9480857127695345,
+            "kiến ​​thức": 0.5,
+            "dịch vụ hạng": 0.5549506135284901,
+            "chuyến đi 16 đêm xuyên": 0.9858220531605184,
+            "tour du lịch": 0.8196625802083872,
+            "kỳ nghỉ": 0.9954691742896102,
+            "trải nghiệm": 0.9904199087177403,
+            "chuyến phiêu lưu": 0.9953818598005455,
+            "đội ngũ": 0.9944799119257368,
+            "kỳ nghỉ mơ ước": 0.9936103791696951,
+            "ngôi đền": 0.9656517999246716,
+            "chuyến tham quan": 0.934172057992934,
+            "thuyền": 0.9920676260371692,
+            "đảo": 0.9954434529645368,
+            "tàu": 0.9906501871300861,
+            "thủy thủ đoàn": 0.5,
+            "chuyến phiêu lưu myway": 0.99544769449858,
+            "vịnh": 0.9937014091992751,
+            "siem reap": 0.9014182896353304,
+            "hướng dẫn viên du lịch": 0.8595155335497111,
+            "phòng": 0.995201084529981,
+            "chuyến": -0.5234419219195843,
+            "nhà hàng địa phương": 0.5,
+            "địa điểm": 0.5,
+            "lịch sử": 0.5,
+            "văn hóa": 0.5,
+            "phong tục": 0.5,
+            "hàng hóa": 0.5,
+            "đồng": 0.9955099191283807,
+            "tín dụng": -0.9757548257475719,
+            "du ngoạn": 0.9951835100364406,
+            "khu nghỉ dưỡng": 0.9955130204325542,
+            "bãi biển": 0.9948544655926526,
+            "địa đạo": 0.8737691454589367,
+            "hành trình": 0.8737691454589367,
+            "vịnh hạ long": 0.8737691454589367,
+            "bữa ăn": 0.5,
+            "dịch vụ": 0.5
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "hoàn hảo",
+                "tuyệt vời",
+                "sang trọng",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "khách sạn": [
+                "sang trọng",
+                "xuất sắc",
+                "khó khăn"
+            ],
+            "hướng dẫn viên": [
+                "nhiệt tình",
+                "liên tục",
+                "nhanh chóng",
+                "lịch sự",
+                "hiểu biết",
+                "linh hoạt",
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "kiến ​​thức": [],
+            "dịch vụ hạng": [],
+            "chuyến đi 16 đêm xuyên": [],
+            "tour du lịch": [
+                "đúng",
+                "tuyệt vời"
+            ],
+            "kỳ nghỉ": [],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "may mắn"
+            ],
+            "chuyến phiêu lưu": [
+                "vui",
+                "kịp",
+                "vui mừng",
+                "cuối cùng",
+                "xa"
+            ],
+            "đội ngũ": [
+                "vui"
+            ],
+            "kỳ nghỉ mơ ước": [],
+            "ngôi đền": [
+                "rõ"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "nhiều",
+                "thú vị",
+                "nhiều"
+            ],
+            "thuyền": [
+                "tuyệt vời",
+                "đẹp",
+                "tốt"
+            ],
+            "đảo": [
+                "tuyệt vời"
+            ],
+            "tàu": [
+                "sang trọng"
+            ],
+            "thủy thủ đoàn": [],
+            "chuyến phiêu lưu myway": [],
+            "vịnh": [],
+            "siem reap": [],
+            "hướng dẫn viên du lịch": [
+                "xuất sắc",
+                "vui vẻ",
+                "may mắn",
+                "giỏi",
+                "nhất"
+            ],
+            "phòng": [
+                "xuất sắc"
+            ],
+            "chuyến": [
+                "cần thiết"
+            ],
+            "nhà hàng địa phương": [],
+            "địa điểm": [],
+            "lịch sử": [],
+            "văn hóa": [],
+            "phong tục": [],
+            "hàng hóa": [],
+            "đồng": [
+                "hoàn hảo"
+            ],
+            "tín dụng": [
+                "khó khăn"
+            ],
+            "du ngoạn": [
+                "tuyệt vời",
+                "đẹp",
+                "tốt"
+            ],
+            "khu nghỉ dưỡng": [
+                "tuyệt vời"
+            ],
+            "bãi biển": [
+                "tuyệt vời"
+            ],
+            "địa đạo": [
+                "nhiều",
+                "thú vị",
+                "nhiều"
+            ],
+            "hành trình": [
+                "tuyệt vời"
+            ],
+            "vịnh hạ long": [
+                "tuyệt vời"
+            ],
+            "bữa ăn": [],
+            "dịch vụ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 2.0,
+            "khách sạn": 2.0,
+            "hướng dẫn viên": 2.5,
+            "kiến ​​thức": 0.5,
+            "dịch vụ hạng": 0.5,
+            "chuyến đi 16 đêm xuyên": 0.5,
+            "tour du lịch": 1.5,
+            "kỳ nghỉ": 0.5,
+            "trải nghiệm": 1.0,
+            "chuyến phiêu lưu": 1.0,
+            "đội ngũ": 0.5,
+            "kỳ nghỉ mơ ước": 0.5,
+            "ngôi đền": 1.0,
+            "chuyến tham quan": 1.0,
+            "thuyền": 1.0,
+            "đảo": 0.5,
+            "tàu": 0.5,
+            "thủy thủ đoàn": 0.5,
+            "chuyến phiêu lưu myway": 0.5,
+            "vịnh": 0.5,
+            "siem reap": 0.5,
+            "hướng dẫn viên du lịch": 1.5,
+            "phòng": 0.5,
+            "chuyến": 0.5,
+            "nhà hàng địa phương": 0.5,
+            "địa điểm": 0.5,
+            "lịch sử": 1.0,
+            "văn hóa": 0.5,
+            "phong tục": 0.5,
+            "hàng hóa": 0.5,
+            "đồng": 0.5,
+            "tín dụng": 0.5,
+            "du ngoạn": 1.0,
+            "khu nghỉ dưỡng": 0.5,
+            "bãi biển": 0.5,
+            "địa đạo": 0.5,
+            "hành trình": 0.5,
+            "vịnh hạ long": 0.5,
+            "bữa ăn": 0.5,
+            "dịch vụ": 0.5
+        }
     },
     {
         "attraction_name": "My Way Travel",
@@ -393,7 +986,213 @@
             "https://www.tripadvisor.com/Attraction_Review-g499087-d7909987-Reviews-Nirvana_Beach-Golden_Sands_Varna_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or40-My_Way_Travel-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or30-My_Way_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or30-My_Way_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên": 0.8412896948323276,
+            "kiến thức": 0.9346211147203576,
+            "chuyến du lịch": 0.9955273279338144,
+            "văn hóa lịch sử": 0.9954893562244251,
+            "bảo tàng chứng tích chiến tranh": 0.6002066293731332,
+            "chuyến tham quan": 0.8899300171236973,
+            "đường hầm": 0.5,
+            "thị trấn": 0.5,
+            "chuyến đi": 0.9919558057057051,
+            "chuyến du ngoạn": 0.9916403563693166,
+            "chuyến du": 0.9954218929633498,
+            "dịch vụ": 0.9707530112937093,
+            "bữa ăn": 0.9950458283419721,
+            "hồ bơi": 0.5,
+            "văn hóa việt nam": 0.8737691454589367,
+            "lịch sử": 0.8118712022454323,
+            "văn hóa": 0.9949749690713361,
+            "southeast": 0.9955250766361132,
+            "siem reap": 0.9952838635072112,
+            "địa điểm": 0.9793292683122369,
+            "nhà khai thác": 0.9543578308075666,
+            "phong cảnh": 0.9955009511904791,
+            "chuyến đi bằng": 0.9954212318989448,
+            "kỷ niệm": -0.9481671350076795,
+            "kỳ nghỉ": 0.9927814585389569,
+            "khách sạn": -0.9684260350186378,
+            "điểm đến": 0.5192486047744751,
+            "hướng dẫn viên du lịch": 0.9949370205868036,
+            "đền chùa": 0.9933504250075202,
+            "thái độ": 0.9947483347496018,
+            "ngôi đền": 0.5,
+            "siem gặt": 0.5,
+            "rung cảm": 0.9955731064546853,
+            "trải nghiệm": 0.9952929429709911
+        },
+        "dicts_adj": {
+            "hướng dẫn viên": [
+                "riêng",
+                "riêng",
+                "tuyệt vời",
+                "thú vị",
+                "hơn",
+                "xuất sắc",
+                "tuyệt vời",
+                "thực sự",
+                "sẵn",
+                "thân thiện"
+            ],
+            "kiến thức": [
+                "tuyệt vời",
+                "thực sự",
+                "tuyệt"
+            ],
+            "chuyến du lịch": [
+                "tuyệt vời"
+            ],
+            "văn hóa lịch sử": [
+                "am hiểu",
+                "tuyệt vời",
+                "phong phú"
+            ],
+            "bảo tàng chứng tích chiến tranh": [
+                "xuất sắc"
+            ],
+            "chuyến tham quan": [
+                "xuất sắc",
+                "đặc biệt",
+                "tuyệt vời",
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "đường hầm": [],
+            "thị trấn": [],
+            "chuyến đi": [
+                "tuyệt vời",
+                "chắc chắn",
+                "tuyệt vời"
+            ],
+            "chuyến du ngoạn": [
+                "thoải mái",
+                "căng thẳng"
+            ],
+            "chuyến du": [
+                "thực sự"
+            ],
+            "dịch vụ": [
+                "ngon"
+            ],
+            "bữa ăn": [
+                "ngon",
+                "ngon"
+            ],
+            "hồ bơi": [],
+            "văn hóa việt nam": [
+                "sâu sắc",
+                "thú vị"
+            ],
+            "lịch sử": [
+                "thực sự",
+                "tuyệt",
+                "tuyệt vời",
+                "nhiều",
+                "suốt",
+                "nhiều"
+            ],
+            "văn hóa": [
+                "ngon"
+            ],
+            "southeast": [],
+            "siem reap": [
+                "to"
+            ],
+            "địa điểm": [
+                "đẹp",
+                "độc đáo",
+                "nhất"
+            ],
+            "nhà khai thác": [
+                "an toàn",
+                "nghiêm ngặt",
+                "an toàn"
+            ],
+            "phong cảnh": [
+                "vui",
+                "tuyệt vời",
+                "ngoạn mục"
+            ],
+            "chuyến đi bằng": [
+                "tuyệt vời"
+            ],
+            "kỷ niệm": [
+                "vô giá"
+            ],
+            "kỳ nghỉ": [
+                "thú vị",
+                "vui vẻ",
+                "thoải mái",
+                "khó"
+            ],
+            "khách sạn": [
+                "khắp"
+            ],
+            "điểm đến": [
+                "khắp"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời"
+            ],
+            "đền chùa": [
+                "thực sự",
+                "tuyệt"
+            ],
+            "thái độ": [
+                "tử tế",
+                "tuyệt vời"
+            ],
+            "ngôi đền": [],
+            "siem gặt": [],
+            "rung cảm": [
+                "thoải mái",
+                "thoải mái",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên": 2.5,
+            "kiến thức": 1.0,
+            "chuyến du lịch": 0.5,
+            "văn hóa lịch sử": 0.5,
+            "bảo tàng chứng tích chiến tranh": 0.5,
+            "chuyến tham quan": 2.5,
+            "đường hầm": 0.5,
+            "thị trấn": 0.5,
+            "chuyến đi": 1.5,
+            "chuyến du ngoạn": 0.5,
+            "chuyến du": 0.5,
+            "dịch vụ": 1.0,
+            "bữa ăn": 1.0,
+            "hồ bơi": 0.5,
+            "văn hóa việt nam": 0.5,
+            "lịch sử": 1.5,
+            "văn hóa": 0.5,
+            "southeast": 0.5,
+            "siem reap": 0.5,
+            "địa điểm": 0.5,
+            "nhà khai thác": 0.5,
+            "phong cảnh": 0.5,
+            "chuyến đi bằng": 0.5,
+            "kỷ niệm": 0.5,
+            "kỳ nghỉ": 0.5,
+            "khách sạn": 0.5,
+            "điểm đến": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "đền chùa": 0.5,
+            "thái độ": 0.5,
+            "ngôi đền": 0.5,
+            "siem gặt": 0.5,
+            "rung cảm": 0.5,
+            "trải nghiệm": 0.5
+        }
     },
     {
         "attraction_name": "My Way Travel",
@@ -492,7 +1291,182 @@
             "https://www.tripadvisor.com/Attraction_Review-g2208502-d5538890-Reviews-Ta_Qali_Crafts_Village-Ta_Qali_Island_of_Malta.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or50-My_Way_Travel-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or40-My_Way_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or40-My_Way_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.8117864118772559,
+            "hướng dẫn viên": 0.7801802621394421,
+            "địa điểm": 0.5,
+            "lịch sử": 0.5,
+            "bảo tàng chiến tranh": 0.8737691454589367,
+            "chuyến đi": 0.9933834125986323,
+            "đường hầm": 0.9085293244570494,
+            "trải nghiệm": 0.9951001326553524,
+            "chuyến du lịch": 0.9597100875253091,
+            "khoảng thời gian": 0.9953072104835883,
+            "khách sạn": 0.41698243651383865,
+            "bữa sáng tự chọn": 0.9911970510147512,
+            "email": 0.34676397576307255,
+            "giá": 0.9950917593669146,
+            "cơ quan": 0.64303885307163,
+            "nguồn cấp": 0.5,
+            "dữ liệu": 0.5,
+            "tour du lịch": 0.977807373739779,
+            "dịch vụ": 0.7361697437008843,
+            "chuyến bay": 0.9650988693271453,
+            "kỳ nghỉ": 0.9909870371920988,
+            "khu vực": 0.8372733830474317,
+            "cho": -0.9709533143322915,
+            "nhà tư vấn": 0.9798655603080988,
+            "thức ăn": 0.5,
+            "chỗ": 0.5,
+            "chuyến bay nội": 0.5,
+            "người hướng dẫn": 0.9265057360753417,
+            "bữa ăn": 0.5,
+            "ngân sách": 0.5
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "nhiều",
+                "tốt",
+                "thực sự",
+                "thú vị",
+                "tốt"
+            ],
+            "hướng dẫn viên": [
+                "riêng",
+                "tuyệt vời",
+                "xuất sắc",
+                "tốt",
+                "an toàn",
+                "hiểu biết",
+                "hữu ích",
+                "đúng",
+                "tốt",
+                "nhiều",
+                "thực sự",
+                "riêng"
+            ],
+            "địa điểm": [],
+            "lịch sử": [],
+            "bảo tàng chiến tranh": [
+                "tốt"
+            ],
+            "chuyến đi": [
+                "tốt",
+                "dễ",
+                "hoàn toàn"
+            ],
+            "đường hầm": [
+                "thú vị"
+            ],
+            "trải nghiệm": [
+                "thú vị"
+            ],
+            "chuyến du lịch": [
+                "tuyệt vời",
+                "riêng",
+                "tuyệt vời",
+                "xa",
+                "hơn",
+                "Gần",
+                "tuyệt vời"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "khách sạn": [
+                "đẹp",
+                "nhiều",
+                "sớm",
+                "ổn",
+                "tuyệt vời",
+                "tử tế",
+                "ổn"
+            ],
+            "bữa sáng tự chọn": [
+                "ngon"
+            ],
+            "email": [
+                "tuyệt vời",
+                "ít",
+                "căng thẳng"
+            ],
+            "giá": [
+                "tốt"
+            ],
+            "cơ quan": [
+                "lớn",
+                "hơn"
+            ],
+            "nguồn cấp": [],
+            "dữ liệu": [],
+            "tour du lịch": [],
+            "dịch vụ": [],
+            "chuyến bay": [
+                "hữu ích",
+                "sớm",
+                "hơn"
+            ],
+            "kỳ nghỉ": [
+                "bất kỳ",
+                "thực sự",
+                "dễ dàng"
+            ],
+            "khu vực": [
+                "dễ dàng"
+            ],
+            "cho": [
+                "bất kỳ"
+            ],
+            "nhà tư vấn": [
+                "đông",
+                "tốt",
+                "dài"
+            ],
+            "thức ăn": [],
+            "chỗ": [],
+            "chuyến bay nội": [],
+            "người hướng dẫn": [
+                "cần thiết"
+            ],
+            "bữa ăn": [],
+            "ngân sách": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 2.5,
+            "hướng dẫn viên": 3.0,
+            "địa điểm": 0.5,
+            "lịch sử": 0.5,
+            "bảo tàng chiến tranh": 0.5,
+            "chuyến đi": 1.5,
+            "đường hầm": 0.5,
+            "trải nghiệm": 0.5,
+            "chuyến du lịch": 2.0,
+            "khoảng thời gian": 0.5,
+            "khách sạn": 1.5,
+            "bữa sáng tự chọn": 0.5,
+            "email": 0.5,
+            "giá": 0.5,
+            "cơ quan": 0.5,
+            "nguồn cấp": 0.5,
+            "dữ liệu": 0.5,
+            "tour du lịch": 1.0,
+            "dịch vụ": 1.0,
+            "chuyến bay": 0.5,
+            "kỳ nghỉ": 0.5,
+            "khu vực": 0.5,
+            "cho": 0.5,
+            "nhà tư vấn": 0.5,
+            "thức ăn": 0.5,
+            "chỗ": 0.5,
+            "chuyến bay nội": 0.5,
+            "người hướng dẫn": 0.5,
+            "bữa ăn": 0.5,
+            "ngân sách": 0.5
+        }
     },
     {
         "attraction_name": "My Way Travel",
@@ -591,7 +1565,213 @@
             "https://www.tripadvisor.com/Attraction_Review-g295424-d11747357-Reviews-LEGOLAND_Dubai-Dubai_Emirate_of_Dubai.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or60-My_Way_Travel-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or50-My_Way_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or50-My_Way_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.9943053418537602,
+            "dịch vụ": 0.5569224415133552,
+            "chiến tranh": 0.013751559657976031,
+            "địa đạo": 0.5019586943089962,
+            "đường hầm": 0.6699456143154142,
+            "nhà bếp": 0.53181610442698,
+            "phòng y tế": 0.9627295788377523,
+            "phòng": 0.5488434080034494,
+            "đồng phục": 0.9549016684759408,
+            "vũ khí": -0.9628932755440474,
+            "cuộc": 0.5,
+            "hành trình": 0.7457687252899632,
+            "chuyến đi": 0.961886378354393,
+            "khách sạn": -0.9734776355326176,
+            "du thuyền": 0.5,
+            "thắng cảnh": 0.5,
+            "phương tiện di chuyển": 0.9894376373849809,
+            "bảo tàng chiến tranh": 0.5,
+            "lịch sử": 0.5,
+            "hố": 0.011628292733803391,
+            "viễn cảnh du lịch": 0.8737691454589367,
+            "thuyền": 0.02115412981947884,
+            "sông nhìn": 0.5,
+            "chuyến tham quan": 0.8246981993239993,
+            "công ty lữ hành": -0.9695129024330527,
+            "hành": 0.9636429878883064,
+            "hướng dẫn viên": 0.8746315721946303,
+            "người dân địa phương": 0.5,
+            "làng mạc": 0.5,
+            "văn hóa": 0.5,
+            "cuộc sống": 0.5,
+            "người lái xe": 0.9902652525343001,
+            "tour": 0.9949586893199012,
+            "siem": 0.9954837340628728,
+            "instead on": 0.5,
+            "buffet-dinner": 0.9882595555391163,
+            "buffet": 0.8737691454589367,
+            "hotel": 0.8737691454589367,
+            "chùa": 0.9903585989959538,
+            "vn": 0.9955185323487967,
+            "hướng dẫn viên du lịch": 0.9910554829984903,
+            "chuyến lưu diễn": 0.9955916651524603,
+            "tác phẩm": 0.37495970726013184
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "hữu ích"
+            ],
+            "dịch vụ": [
+                "thực sự",
+                "đặc biệt",
+                "tuyệt vời"
+            ],
+            "chiến tranh": [
+                "Thực sự",
+                "vui"
+            ],
+            "địa đạo": [],
+            "đường hầm": [
+                "nhiều",
+                "khác",
+                "vui"
+            ],
+            "nhà bếp": [],
+            "phòng y tế": [],
+            "phòng": [],
+            "đồng phục": [],
+            "vũ khí": [],
+            "cuộc": [],
+            "hành trình": [
+                "khác",
+                "rộng rãi"
+            ],
+            "chuyến đi": [
+                "phải",
+                "đầu tiên",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tốt"
+            ],
+            "khách sạn": [
+                "cổ điển"
+            ],
+            "du thuyền": [],
+            "thắng cảnh": [],
+            "phương tiện di chuyển": [
+                "sang trọng"
+            ],
+            "bảo tàng chiến tranh": [],
+            "lịch sử": [],
+            "hố": [
+                "tốt",
+                "ngược"
+            ],
+            "viễn cảnh du lịch": [
+                "tốt",
+                "ngược"
+            ],
+            "thuyền": [
+                "tốt",
+                "ngược"
+            ],
+            "sông nhìn": [],
+            "chuyến tham quan": [
+                "dễ",
+                "chắc chắn"
+            ],
+            "công ty lữ hành": [
+                "khác"
+            ],
+            "hành": [
+                "dễ"
+            ],
+            "hướng dẫn viên": [
+                "linh hoạt",
+                "tuyệt vời"
+            ],
+            "người dân địa phương": [],
+            "làng mạc": [],
+            "văn hóa": [],
+            "cuộc sống": [],
+            "người lái xe": [
+                "ấn tượng",
+                "an toàn"
+            ],
+            "tour": [],
+            "siem": [
+                "to",
+                "to"
+            ],
+            "instead on": [],
+            "buffet-dinner": [
+                "to"
+            ],
+            "buffet": [
+                "to"
+            ],
+            "hotel": [
+                "to"
+            ],
+            "chùa": [
+                "tốt"
+            ],
+            "vn": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "giỏi",
+                "nhất"
+            ],
+            "chuyến lưu diễn": [
+                "tuyệt vời"
+            ],
+            "tác phẩm": [
+                "xuất sắc"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 0.5,
+            "dịch vụ": 1.5,
+            "chiến tranh": 1.0,
+            "địa đạo": 0.5,
+            "đường hầm": 1.5,
+            "nhà bếp": 0.5,
+            "phòng y tế": 0.5,
+            "phòng": 0.5,
+            "đồng phục": 0.5,
+            "vũ khí": 0.5,
+            "cuộc": 0.5,
+            "hành trình": 1.0,
+            "chuyến đi": 3.0,
+            "khách sạn": 0.5,
+            "du thuyền": 0.5,
+            "thắng cảnh": 0.5,
+            "phương tiện di chuyển": 0.5,
+            "bảo tàng chiến tranh": 0.5,
+            "lịch sử": 1.0,
+            "hố": 0.5,
+            "viễn cảnh du lịch": 0.5,
+            "thuyền": 0.5,
+            "sông nhìn": 0.5,
+            "chuyến tham quan": 1.5,
+            "công ty lữ hành": 0.5,
+            "hành": 0.5,
+            "hướng dẫn viên": 1.0,
+            "người dân địa phương": 0.5,
+            "làng mạc": 0.5,
+            "văn hóa": 0.5,
+            "cuộc sống": 0.5,
+            "người lái xe": 0.5,
+            "tour": 0.5,
+            "siem": 0.5,
+            "instead on": 0.5,
+            "buffet-dinner": 0.5,
+            "buffet": 0.5,
+            "hotel": 0.5,
+            "chùa": 0.5,
+            "vn": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "chuyến lưu diễn": 0.5,
+            "tác phẩm": 0.5
+        }
     },
     {
         "attraction_name": "My Way Travel",
@@ -690,7 +1870,216 @@
             "https://www.tripadvisor.com/Attraction_Review-g297922-d3814473-Reviews-Market_Village_HuaHin-Hua_Hin_Prachuap_Khiri_Khan_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or70-My_Way_Travel-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or60-My_Way_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or60-My_Way_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "địa đạo": 0.6868845727294683,
+            "đồng bằng sông cửu long": 0.6868845727294683,
+            "kiến ​​thức": 0.9756100176018663,
+            "chuyến lưu diễn": 0.7397659318521619,
+            "chuyến đi": 0.9061184725724161,
+            "đường hầm": 0.20714509914562637,
+            "chất lượng": 0.9954613152949605,
+            "khách sạn": 0.9058998379623517,
+            "dịch vụ": 0.5,
+            "chuyến tham quan": 0.7524580241151853,
+            "địa đạo củ chi": 0.8737691454589367,
+            "hướng dẫn viên": 0.9942949717515148,
+            "địa đạo chi": 0.488533578813076,
+            "trang web": -0.7076412737369537,
+            "phương tiện": 0.9955370778334327,
+            "thuyền": 0.9946518333163112,
+            "vịnh": 0.8737691454589367,
+            "visa": 0.8737691454589367,
+            "chuyến bay": 0.5,
+            "chủ sở hữu": 0.5146025326102972,
+            "hành trình": 0.8737691454589367,
+            "giá cả": 0.9954577753087506,
+            "hướng dẫn viên du lịch": 0.9954932576511055,
+            "xe buýt": 0.5846549847628921,
+            "tàu": 0.5,
+            "bảo tàng": -0.13723413832485676,
+            "con phố": 0.5,
+            "lịch sử": 0.6476879604160786,
+            "trải nghiệm": 0.9873572045471519,
+            "chiến tranh": 0.9953330132411793,
+            "chuyến thăm": 0.9832875462016091,
+            "vụ nổ": -0.8256112425588071,
+            "cảnh quan": 0.9939770144410431,
+            "bảo tàng chiến tranh": -0.8419871833175421,
+            "khung": -0.03712843731045723,
+            "sương mù": 0.460485327988863,
+            "vài": 0.5,
+            "phát đạn": 0.5,
+            "tàu du lịch": 0.9924773076782003
+        },
+        "dicts_adj": {
+            "địa đạo": [
+                "lớn",
+                "khác"
+            ],
+            "đồng bằng sông cửu long": [
+                "lớn",
+                "khác"
+            ],
+            "kiến ​​thức": [
+                "vui vẻ",
+                "đủ",
+                "cao",
+                "tuyệt vời"
+            ],
+            "chuyến lưu diễn": [
+                "hiếm"
+            ],
+            "chuyến đi": [
+                "nhiều",
+                "cuối cùng",
+                "cũ",
+                "chặt chẽ"
+            ],
+            "đường hầm": [
+                "chắc chắn",
+                "nóng",
+                "khó khăn",
+                "phải",
+                "nóng",
+                "khó khăn",
+                "phải",
+                "sâu",
+                "hơn",
+                "khéo léo"
+            ],
+            "chất lượng": [
+                "tuyệt vời",
+                "thú vị",
+                "tuyệt vời"
+            ],
+            "khách sạn": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "đầu tiên",
+                "khó khăn",
+                "bất kỳ",
+                "ngẫu nhiên"
+            ],
+            "địa đạo củ chi": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "tốt bụng",
+                "hữu ích"
+            ],
+            "địa đạo chi": [],
+            "trang web": [],
+            "phương tiện": [
+                "thoải mái"
+            ],
+            "thuyền": [
+                "tuyệt vời"
+            ],
+            "vịnh": [
+                "tuyệt vời"
+            ],
+            "visa": [
+                "chuyên nghiệp"
+            ],
+            "chuyến bay": [],
+            "chủ sở hữu": [],
+            "hành trình": [
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "am hiểu"
+            ],
+            "xe buýt": [
+                "thoải mái",
+                "đúng",
+                "nhanh",
+                "hơn",
+                "nhiều"
+            ],
+            "tàu": [],
+            "bảo tàng": [
+                "dọc"
+            ],
+            "con phố": [],
+            "lịch sử": [
+                "quan trọng"
+            ],
+            "trải nghiệm": [
+                "thực sự",
+                "độc đáo"
+            ],
+            "chiến tranh": [
+                "sốc",
+                "xinh đẹp"
+            ],
+            "chuyến thăm": [
+                "thú vị",
+                "hơn",
+                "nhiều"
+            ],
+            "vụ nổ": [],
+            "cảnh quan": [
+                "thú vị"
+            ],
+            "bảo tàng chiến tranh": [],
+            "khung": [
+                "nhỏ"
+            ],
+            "sương mù": [],
+            "vài": [],
+            "phát đạn": [],
+            "tàu du lịch": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "địa đạo": 1.0,
+            "đồng bằng sông cửu long": 1.0,
+            "kiến ​​thức": 1.0,
+            "chuyến lưu diễn": 1.0,
+            "chuyến đi": 1.0,
+            "đường hầm": 1.5,
+            "chất lượng": 1.0,
+            "khách sạn": 1.0,
+            "dịch vụ": 0.5,
+            "chuyến tham quan": 2.0,
+            "địa đạo củ chi": 0.5,
+            "hướng dẫn viên": 1.0,
+            "địa đạo chi": 0.5,
+            "trang web": 0.5,
+            "phương tiện": 0.5,
+            "thuyền": 0.5,
+            "vịnh": 0.5,
+            "visa": 0.5,
+            "chuyến bay": 0.5,
+            "chủ sở hữu": 0.5,
+            "hành trình": 0.5,
+            "giá cả": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "xe buýt": 1.0,
+            "tàu": 0.5,
+            "bảo tàng": 0.5,
+            "con phố": 0.5,
+            "lịch sử": 0.5,
+            "trải nghiệm": 0.5,
+            "chiến tranh": 0.5,
+            "chuyến thăm": 0.5,
+            "vụ nổ": 0.5,
+            "cảnh quan": 0.5,
+            "bảo tàng chiến tranh": 0.5,
+            "khung": 0.5,
+            "sương mù": 0.5,
+            "vài": 0.5,
+            "phát đạn": 0.5,
+            "tàu du lịch": 0.5
+        }
     },
     {
         "attraction_name": "My Way Travel",
@@ -789,7 +2178,270 @@
             "https://www.tripadvisor.com/Attraction_Review-g274793-d3613186-Reviews-Kasprowy_Wierch_Cable_Car-Zakopane_Lesser_Poland_Province_Southern_Poland.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or80-My_Way_Travel-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or70-My_Way_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or70-My_Way_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.8292068356337646,
+            "buổi chiều": 0.5,
+            "khách sạn": 0.6848999553670486,
+            "hướng dẫn viên": 0.9455165719031356,
+            "thuon": 0.8737691454589367,
+            "đường hầm": 0.29907555038516875,
+            "chiến tranh": 0.5,
+            "bữa trưa": 0.8737691454589367,
+            "khách sạn địa phương": 0.5,
+            "trải nghiệm": 0.24225374903633365,
+            "tour xe đạp": 0.9911130934488028,
+            "vị trí": 0.99539563304279,
+            "resort": 0.995178769226186,
+            "chuyến tham quan": 0.6780954297399149,
+            "thành phố": 0.5,
+            "vùng": 0.5,
+            "phủ sóng": 0.5,
+            "tiền": 0.9653583350591362,
+            "chuyến du lịch": 0.5,
+            "địa điểm": 0.5,
+            "chuyến": 0.5,
+            "tour du lịch": 0.6305555393919349,
+            "dịch vụ": 0.5,
+            "hành trình": 0.5,
+            "bữa tiệc năm": 0.5,
+            "tour": 0.9949403263938924,
+            "the": 0.5,
+            "hotels": 0.5,
+            "bai": 0.9954774871584959,
+            "halong bay": 0.9748692829161882,
+            "thái độ": 0.9954456873238087,
+            "địa đạo củ chi": 0.8737691454589367,
+            "lịch sử": 0.5,
+            "văn hóa việt nam": 0.8737691454589367,
+            "quãng đường": 0.6776934839629879,
+            "tác phẩm tái tạo": 0.5,
+            "video": -0.8803841201588511,
+            "hướng dẫn viên địa phương": 0.13144782930612564,
+            "lẻ": 0.5157725904136896,
+            "đoạn": -0.9223129590973258,
+            "người dân": -0.969014736590907,
+            "tàu": 0.9758909235242754,
+            "phương tiện giao thông": 0.9922894983901642,
+            "văn hóa": 0.4132767841219902,
+            "du thuyền": 0.5,
+            "bến tàu": 0.5,
+            "lái xe": 0.5,
+            "tòa nhà ủy ban nhân dân thành phố": 0.5,
+            "nhà thờ đức bà": 0.5,
+            "bưu điện trung tâm": 0.5,
+            "bảo tàng lịch sử": 0.5,
+            "rối nước": 0.5,
+            "dinh": 0.5,
+            "cảng phú": 0.5,
+            "ăn trưa": 0.9951736521907151,
+            "nhà hàng": 0.9953520211856812
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "thú vị",
+                "điều tuyệt",
+                "khác"
+            ],
+            "buổi chiều": [],
+            "khách sạn": [
+                "đẹp",
+                "có thể"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "sai",
+                "vui vẻ",
+                "sâu sắc",
+                "tuyệt vời",
+                "tuyệt vời",
+                "khác",
+                "tốt",
+                "tốt",
+                "sẵn lòng",
+                "tuyệt vời"
+            ],
+            "thuon": [
+                "tuyệt vời",
+                "sai",
+                "vui vẻ",
+                "sâu sắc",
+                "tuyệt vời"
+            ],
+            "đường hầm": [
+                "thú vị",
+                "đúng"
+            ],
+            "chiến tranh": [],
+            "bữa trưa": [
+                "tuyệt điều"
+            ],
+            "khách sạn địa phương": [],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "khác",
+                "khác",
+                "suốt",
+                "hơn",
+                "tương tự"
+            ],
+            "tour xe đạp": [],
+            "vị trí": [
+                "tuyệt vời"
+            ],
+            "resort": [
+                "Đặc biệt"
+            ],
+            "chuyến tham quan": [
+                "khác",
+                "gần",
+                "tuyệt vời",
+                "thực sự",
+                "cao"
+            ],
+            "thành phố": [],
+            "vùng": [],
+            "phủ sóng": [],
+            "tiền": [
+                "dễ dàng",
+                "đầu tiên",
+                "dễ dàng"
+            ],
+            "chuyến du lịch": [],
+            "địa điểm": [],
+            "chuyến": [],
+            "tour du lịch": [
+                "riêng"
+            ],
+            "dịch vụ": [],
+            "hành trình": [],
+            "bữa tiệc năm": [],
+            "tour": [],
+            "the": [],
+            "hotels": [],
+            "bai": [],
+            "halong bay": [
+                "to"
+            ],
+            "thái độ": [
+                "tuyệt vời",
+                "tích cực",
+                "thoải mái",
+                "thực sự"
+            ],
+            "địa đạo củ chi": [
+                "nhiều"
+            ],
+            "lịch sử": [],
+            "văn hóa việt nam": [
+                "nhiều"
+            ],
+            "quãng đường": [
+                "dài",
+                "cuối cùng",
+                "đông"
+            ],
+            "tác phẩm tái tạo": [],
+            "video": [
+                "ngắn"
+            ],
+            "hướng dẫn viên địa phương": [],
+            "lẻ": [
+                "đông"
+            ],
+            "đoạn": [
+                "ngắn"
+            ],
+            "người dân": [
+                "nhất",
+                "đủ"
+            ],
+            "tàu": [
+                "vui"
+            ],
+            "phương tiện giao thông": [
+                "tốt"
+            ],
+            "văn hóa": [
+                "vui"
+            ],
+            "du thuyền": [],
+            "bến tàu": [],
+            "lái xe": [],
+            "tòa nhà ủy ban nhân dân thành phố": [],
+            "nhà thờ đức bà": [],
+            "bưu điện trung tâm": [],
+            "bảo tàng lịch sử": [],
+            "rối nước": [],
+            "dinh": [],
+            "cảng phú": [],
+            "ăn trưa": [
+                "tuyệt vời"
+            ],
+            "nhà hàng": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 1.5,
+            "buổi chiều": 0.5,
+            "khách sạn": 1.5,
+            "hướng dẫn viên": 2.5,
+            "thuon": 0.5,
+            "đường hầm": 1.0,
+            "chiến tranh": 0.5,
+            "bữa trưa": 0.5,
+            "khách sạn địa phương": 0.5,
+            "trải nghiệm": 1.5,
+            "tour xe đạp": 0.5,
+            "vị trí": 0.5,
+            "resort": 0.5,
+            "chuyến tham quan": 2.5,
+            "thành phố": 0.5,
+            "vùng": 0.5,
+            "phủ sóng": 0.5,
+            "tiền": 0.5,
+            "chuyến du lịch": 0.5,
+            "địa điểm": 0.5,
+            "chuyến": 0.5,
+            "tour du lịch": 1.0,
+            "dịch vụ": 0.5,
+            "hành trình": 0.5,
+            "bữa tiệc năm": 0.5,
+            "tour": 0.5,
+            "the": 0.5,
+            "hotels": 0.5,
+            "bai": 0.5,
+            "halong bay": 0.5,
+            "thái độ": 0.5,
+            "địa đạo củ chi": 0.5,
+            "lịch sử": 0.5,
+            "văn hóa việt nam": 0.5,
+            "quãng đường": 0.5,
+            "tác phẩm tái tạo": 0.5,
+            "video": 0.5,
+            "hướng dẫn viên địa phương": 0.5,
+            "lẻ": 0.5,
+            "đoạn": 0.5,
+            "người dân": 0.5,
+            "tàu": 0.5,
+            "phương tiện giao thông": 0.5,
+            "văn hóa": 0.5,
+            "du thuyền": 0.5,
+            "bến tàu": 0.5,
+            "lái xe": 0.5,
+            "tòa nhà ủy ban nhân dân thành phố": 0.5,
+            "nhà thờ đức bà": 0.5,
+            "bưu điện trung tâm": 0.5,
+            "bảo tàng lịch sử": 0.5,
+            "rối nước": 0.5,
+            "dinh": 0.5,
+            "cảng phú": 0.5,
+            "ăn trưa": 0.5,
+            "nhà hàng": 0.5
+        }
     },
     {
         "attraction_name": "My Way Travel",
@@ -888,7 +2540,240 @@
             "https://www.tripadvisor.com/Attraction_Review-g147289-d149176-Reviews-The_3_Eyes_National_Park-Santo_Domingo_Santo_Domingo_Province_Dominican_Republic.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or90-My_Way_Travel-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or80-My_Way_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or80-My_Way_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.6243394528412157,
+            "đông nam á": 0.5,
+            "chuyên gia": 0.6868845727294683,
+            "chuyến đi": 0.9695892695531558,
+            "kỹ thuật": 0.994494361395482,
+            "hướng dẫn viên": 0.9934053708954403,
+            "khách sạn": 0.8115660042773621,
+            "trải nghiệm": 0.6972750529932368,
+            "chuyến bay": 0.5406629354692996,
+            "chuyến du lịch": 0.8906793414304653,
+            "đường hầm": 0.053609063383191824,
+            "tour": 0.9648486825171858,
+            "đồ lưu niệm": -0.973694963613525,
+            "địa đạo": 0.967576720751822,
+            "rừng": 0.8867494482547045,
+            "lịch sử": 0.5,
+            "chiến tranh": 0.5,
+            "thuyền": 0.9953792481101118,
+            "sông": 0.5081834569573402,
+            "phong cảnh": 0.8737691454589367,
+            "đồ ăn": 0.9954617557426294,
+            "đồng bằng": 0.8737691454589367,
+            "người dân": 0.6677550040185452,
+            "hướng dẫn viên địa phương": 0.5,
+            "khoảng thời gian": 0.9953072104835883,
+            "phương tiện": 0.9955579188535921,
+            "dịch vụ": 0.7873307900736108,
+            "sân": 0.5371992606669664,
+            "tour du lịch": 0.9809498391114175,
+            "phương tiện đi lại": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "phòng": 0.5,
+            "chuyến đi du lịch": 0.5,
+            "vịnh": 0.7818526439368725,
+            "hành trình": 0.8737691454589367,
+            "bữa trưa": 0.8737691454589367,
+            "món ăn": 0.5,
+            "cảng": 0.5,
+            "tàu": 0.5,
+            "công ty du lịch": -0.9622971133794636
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "thông thường",
+                "tuyệt vời",
+                "có thể",
+                "riêng",
+                "khác",
+                "tuyệt vời",
+                "khác"
+            ],
+            "đông nam á": [],
+            "chuyên gia": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "hoàn toàn",
+                "tốt bụng",
+                "tốt",
+                "tuyệt vời",
+                "thư giãn",
+                "thực sự"
+            ],
+            "kỹ thuật": [
+                "hoàn toàn"
+            ],
+            "hướng dẫn viên": [
+                "tốt",
+                "nhiều",
+                "chuyên nghiệp"
+            ],
+            "khách sạn": [
+                "tuyệt vời",
+                "đúng"
+            ],
+            "trải nghiệm": [
+                "hoàn toàn",
+                "tuyệt vời",
+                "tuyệt vời",
+                "bất kỳ",
+                "khác biệt",
+                "nhiều",
+                "phải",
+                "dài",
+                "tuyệt vời",
+                "nhiều",
+                "thực sự",
+                "chung chung",
+                "đủ",
+                "thực sự"
+            ],
+            "chuyến bay": [
+                "cuối cùng"
+            ],
+            "chuyến du lịch": [
+                "chắc chắn",
+                "khác",
+                "xuất sắc",
+                "đúng"
+            ],
+            "đường hầm": [
+                "chắc chắn",
+                "nhiều",
+                "hơn",
+                "lớn",
+                "hơn"
+            ],
+            "tour": [
+                "nhiều",
+                "thú vị",
+                "hữu ích",
+                "riêng"
+            ],
+            "đồ lưu niệm": [
+                "Tệ",
+                "hơn",
+                "lái xe",
+                "hơn",
+                "đủ",
+                "khác"
+            ],
+            "địa đạo": [],
+            "rừng": [
+                "nhiều"
+            ],
+            "lịch sử": [],
+            "chiến tranh": [],
+            "thuyền": [
+                "tuyệt vời"
+            ],
+            "sông": [
+                "dọc",
+                "giống"
+            ],
+            "phong cảnh": [
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "tuyệt",
+                "thật sự",
+                "thoải mái"
+            ],
+            "đồng bằng": [
+                "bất kỳ",
+                "khác biệt"
+            ],
+            "người dân": [
+                "nhiều"
+            ],
+            "hướng dẫn viên địa phương": [],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "phương tiện": [
+                "khéo léo",
+                "sạch sẽ",
+                "tốt"
+            ],
+            "dịch vụ": [
+                "xuất sắc",
+                "tuyệt vời"
+            ],
+            "sân": [],
+            "tour du lịch": [],
+            "phương tiện đi lại": [],
+            "hướng dẫn viên du lịch": [],
+            "phòng": [],
+            "chuyến đi du lịch": [],
+            "vịnh": [
+                "thư giãn",
+                "khác"
+            ],
+            "hành trình": [
+                "thư giãn"
+            ],
+            "bữa trưa": [
+                "ngon",
+                "đầy đủ"
+            ],
+            "món ăn": [],
+            "cảng": [],
+            "tàu": [],
+            "công ty du lịch": [
+                "bất kỳ",
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 3.0,
+            "đông nam á": 0.5,
+            "chuyên gia": 1.0,
+            "chuyến đi": 2.5,
+            "kỹ thuật": 0.5,
+            "hướng dẫn viên": 1.5,
+            "khách sạn": 1.5,
+            "trải nghiệm": 3.5,
+            "chuyến bay": 1.0,
+            "chuyến du lịch": 1.5,
+            "đường hầm": 0.5,
+            "tour": 1.0,
+            "đồ lưu niệm": 0.5,
+            "địa đạo": 0.5,
+            "rừng": 0.5,
+            "lịch sử": 0.5,
+            "chiến tranh": 0.5,
+            "thuyền": 0.5,
+            "sông": 0.5,
+            "phong cảnh": 0.5,
+            "đồ ăn": 0.5,
+            "đồng bằng": 0.5,
+            "người dân": 0.5,
+            "hướng dẫn viên địa phương": 0.5,
+            "khoảng thời gian": 0.5,
+            "phương tiện": 0.5,
+            "dịch vụ": 1.0,
+            "sân": 0.5,
+            "tour du lịch": 0.5,
+            "phương tiện đi lại": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "phòng": 0.5,
+            "chuyến đi du lịch": 0.5,
+            "vịnh": 1.0,
+            "hành trình": 0.5,
+            "bữa trưa": 0.5,
+            "món ăn": 0.5,
+            "cảng": 0.5,
+            "tàu": 0.5,
+            "công ty du lịch": 0.5
+        }
     },
     {
         "attraction_name": "My Way Travel",
@@ -988,6 +2873,223 @@
             "https://www.tripadvisor.com/Attraction_Review-g186338-d3941604-Reviews-London_Film_Museum-London_England.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or100-My_Way_Travel-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or90-My_Way_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6833521-Reviews-or90-My_Way_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tour du lịch": 0.9877831020858139,
+            "đồng bằng sông cửu long": 0.8737691454589367,
+            "chuyến đi": 0.7706839744816534,
+            "chuyến tham quan": 0.8145286346116336,
+            "hướng dẫn viên bac": 0.8737691454589367,
+            "tàu du lịch": 0.5,
+            "cảng": 0.5,
+            "phương tiện": 0.5213958928361535,
+            "hướng dẫn viên": 0.7571449374275593,
+            "xe kéo": 0.9911361615988425,
+            "bữa trưa phở": 0.8737691454589367,
+            "phòng": 0.6660641953349113,
+            "khách sạn": 0.9953801025403664,
+            "giấc mơ": 0.5,
+            "nhân viên": 0.9873580859130016,
+            "khu vực": -0.8978314623236656,
+            "vịnh": 0.6868845727294683,
+            "kỳ nghỉ": 0.9954581571510062,
+            "đội ngũ": 0.9954753126949072,
+            "khoảng thời gian": 0.9955643735593185,
+            "địa đạo củ chi": 0.8737691454589367,
+            "tàu": 0.959452313836664,
+            "trải nghiệm": 0.9549446483142674,
+            "văn hóa": 0.5,
+            "du thuyền": 0.9922675773268566,
+            "quán cà phê": 0.9943632395006716,
+            "cà phê": 0.9956203870824538,
+            "đồ ăn": 0.8737691454589367,
+            "chuyến thăm": 0.9023575616301969,
+            "dịch vụ": 0.22158569233336797,
+            "giá": 0.5879567451775074,
+            "mức giá cạnh tranh": 0.653120981529355,
+            "tài sản": 0.9097017004775504,
+            "hành trình": 0.6142000837717205
+        },
+        "dicts_adj": {
+            "tour du lịch": [
+                "may mắn"
+            ],
+            "đồng bằng sông cửu long": [
+                "may mắn",
+                "may mắn",
+                "gần",
+                "nhiều"
+            ],
+            "chuyến đi": [
+                "dễ dàng",
+                "hiểu biết",
+                "hữu ích",
+                "bất ngờ",
+                "khẩn cấp",
+                "nhiều"
+            ],
+            "chuyến tham quan": [
+                "thực sự",
+                "tuyệt vời",
+                "sẵn sàng",
+                "nhiều",
+                "khác",
+                "tuyệt vời",
+                "lân cận",
+                "đẹp",
+                "thực sự",
+                "nhiều",
+                "đồng nghĩa",
+                "tốt",
+                "vui",
+                "cùng"
+            ],
+            "hướng dẫn viên bac": [
+                "dễ dàng",
+                "hiểu biết"
+            ],
+            "tàu du lịch": [],
+            "cảng": [],
+            "phương tiện": [
+                "riêng"
+            ],
+            "hướng dẫn viên": [
+                "quan trọng",
+                "vui vẻ",
+                "cần thiết",
+                "tuyệt vời"
+            ],
+            "xe kéo": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "an toàn",
+                "nhộn nhịp"
+            ],
+            "bữa trưa phở": [
+                "tuyệt vời"
+            ],
+            "phòng": [
+                "NHIỀU"
+            ],
+            "khách sạn": [
+                "tuyệt vời"
+            ],
+            "giấc mơ": [],
+            "nhân viên": [
+                "đủ",
+                "tuyệt vời",
+                "chắc chắn"
+            ],
+            "khu vực": [
+                "thực sự",
+                "đầu tiên"
+            ],
+            "vịnh": [
+                "lân cận",
+                "đẹp"
+            ],
+            "kỳ nghỉ": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "đội ngũ": [
+                "tuyệt vời",
+                "thực sự",
+                "chuyên nghiệp"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "địa đạo củ chi": [
+                "may mắn",
+                "gần",
+                "nhiều"
+            ],
+            "tàu": [
+                "cùng"
+            ],
+            "trải nghiệm": [
+                "vui",
+                "tích cực"
+            ],
+            "văn hóa": [],
+            "du thuyền": [
+                "vui"
+            ],
+            "quán cà phê": [
+                "ngon"
+            ],
+            "cà phê": [
+                "ngon"
+            ],
+            "đồ ăn": [
+                "tuyệt vời",
+                "chắc chắn"
+            ],
+            "chuyến thăm": [
+                "dài",
+                "hơn"
+            ],
+            "dịch vụ": [
+                "vui",
+                "khác",
+                "sẵn"
+            ],
+            "giá": [
+                "nhất"
+            ],
+            "mức giá cạnh tranh": [
+                "nhất"
+            ],
+            "tài sản": [
+                "lớn",
+                "nhất",
+                "chắc chắn"
+            ],
+            "hành trình": [
+                "khác",
+                "sẵn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tour du lịch": 0.5,
+            "đồng bằng sông cửu long": 1.0,
+            "chuyến đi": 2.5,
+            "chuyến tham quan": 4.0,
+            "hướng dẫn viên bac": 0.5,
+            "tàu du lịch": 0.5,
+            "cảng": 0.5,
+            "phương tiện": 0.5,
+            "hướng dẫn viên": 1.5,
+            "xe kéo": 0.5,
+            "bữa trưa phở": 0.5,
+            "phòng": 0.5,
+            "khách sạn": 0.5,
+            "giấc mơ": 0.5,
+            "nhân viên": 1.0,
+            "khu vực": 0.5,
+            "vịnh": 1.0,
+            "kỳ nghỉ": 0.5,
+            "đội ngũ": 0.5,
+            "khoảng thời gian": 0.5,
+            "địa đạo củ chi": 0.5,
+            "tàu": 0.5,
+            "trải nghiệm": 1.0,
+            "văn hóa": 0.5,
+            "du thuyền": 0.5,
+            "quán cà phê": 0.5,
+            "cà phê": 0.5,
+            "đồ ăn": 0.5,
+            "chuyến thăm": 0.5,
+            "dịch vụ": 0.5,
+            "giá": 0.5,
+            "mức giá cạnh tranh": 0.5,
+            "tài sản": 0.5,
+            "hành trình": 0.5
+        }
     }
 ]

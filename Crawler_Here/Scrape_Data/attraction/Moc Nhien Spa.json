@@ -68,6 +68,78 @@
             "https://www.tripadvisor.com/Attraction_Review-g616162-d12634523-Reviews-KartLand_Malia-Malia_Crete.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1535794-d8180898-Reviews-Moc_Nhien_Spa-Tra_Vinh_Tra_Vinh_Province_Mekong_Delta.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1535794-d8180898-Reviews-Moc_Nhien_Spa-Tra_Vinh_Tra_Vinh_Province_Mekong_Delta.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.914313085648852,
+            "giá": 0.010097978869453073,
+            "mát-xa": -0.9743776172399521,
+            "bằng đá": -0.9523612738121301,
+            "và trị": 0.5404642932116985,
+            "da mặt": 0.62885567342164,
+            "phương pháp trị liệu": 0.06147749559022486,
+            "cho": 0.5,
+            "massage": 0.9926250984426588,
+            "massage đầu": 0.5,
+            "chăm sóc da mặt": 0.5,
+            "sản phẩm xoa bóp": 0.5,
+            "dâu tây": 0.5
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tốt",
+                "tốt",
+                "hài lòng",
+                "tuyệt vời"
+            ],
+            "giá": [
+                "tốt",
+                "lớn"
+            ],
+            "mát-xa": [
+                "nóng"
+            ],
+            "bằng đá": [
+                "nóng"
+            ],
+            "và trị": [
+                "75",
+                "75"
+            ],
+            "da mặt": [
+                "75",
+                "75",
+                "rẻ",
+                "hơn"
+            ],
+            "phương pháp trị liệu": [
+                "rẻ",
+                "hơn"
+            ],
+            "cho": [],
+            "massage": [
+                "tốt"
+            ],
+            "massage đầu": [],
+            "chăm sóc da mặt": [],
+            "sản phẩm xoa bóp": [],
+            "dâu tây": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 1.5,
+            "giá": 1.0,
+            "mát-xa": 0.5,
+            "bằng đá": 0.5,
+            "và trị": 0.5,
+            "da mặt": 0.5,
+            "phương pháp trị liệu": 0.5,
+            "cho": 0.5,
+            "massage": 0.5,
+            "massage đầu": 0.5,
+            "chăm sóc da mặt": 0.5,
+            "sản phẩm xoa bóp": 0.5,
+            "dâu tây": 0.5
+        }
     }
 ]

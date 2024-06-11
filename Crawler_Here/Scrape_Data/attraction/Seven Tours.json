@@ -82,7 +82,144 @@
             "https://www.tripadvisor.com/Attraction_Review-g60745-d19060546-Reviews-South_Station-Boston_Massachusetts.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or10-Seven_Tours-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-Seven_Tours-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-Seven_Tours-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.3624645763850172,
+            "địa điểm": 0.3323126148432493,
+            "lịch sử": 0.6508876513689756,
+            "hướng dẫn viên": 0.6554591297579464,
+            "thức ăn": 0.8737691454589367,
+            "thực phẩm": 0.5,
+            "chuyến đi": 0.13714850367978215,
+            "bộ phim": 0.9948151538264938,
+            "sống động": 0.9919473968911916,
+            "văn hóa": 0.5,
+            "năng lượng": 0.9946512681199238,
+            "người hướng dẫn": 0.9936450308887288,
+            "dịch vụ": 0.8737691454589367,
+            "hướng dẫn viên du lịch": 0.7477637267729733,
+            "điểm tham quan chính": 0.5,
+            "chùa trấn quốc lăng": 0.5,
+            "chủ tịch hồ chí minh": 0.5,
+            "bảo tàng dân tộc học văn miếu": 0.5,
+            "nhà tù hỏa lò": 0.5,
+            "sơn mài": 0.5098479427397251,
+            "thuyền": 0.0025992720620706677,
+            "tiền": 0.8853128515183926,
+            "kỹ năng": 0.9955197410890833,
+            "kiến ​​thức": 0.9916571623180062,
+            "tour du lịch": 0.9916909232269973
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "tổng quan",
+                "chi tiết",
+                "tối thiểu",
+                "dài",
+                "lớn",
+                "vui vẻ",
+                "tối ưu",
+                "đặc biệt",
+                "tốt",
+                "tuyệt vời",
+                "sai"
+            ],
+            "địa điểm": [
+                "tối ưu",
+                "đặc biệt"
+            ],
+            "lịch sử": [
+                "chi tiết",
+                "giàu"
+            ],
+            "hướng dẫn viên": [
+                "giỏi",
+                "bất kỳ",
+                "đặc biệt",
+                "hiểu biết",
+                "ngăn nắp"
+            ],
+            "thức ăn": [
+                "ổn"
+            ],
+            "thực phẩm": [],
+            "chuyến đi": [
+                "đông đúc",
+                "thực sự",
+                "tồi tệ"
+            ],
+            "bộ phim": [
+                "giàu"
+            ],
+            "sống động": [
+                "giàu"
+            ],
+            "văn hóa": [],
+            "năng lượng": [
+                "độc đáo",
+                "chắc chắn"
+            ],
+            "người hướng dẫn": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "hữu ích"
+            ],
+            "điểm tham quan chính": [],
+            "chùa trấn quốc lăng": [],
+            "chủ tịch hồ chí minh": [],
+            "bảo tàng dân tộc học văn miếu": [],
+            "nhà tù hỏa lò": [],
+            "sơn mài": [],
+            "thuyền": [
+                "khác"
+            ],
+            "tiền": [
+                "tốt",
+                "hơn"
+            ],
+            "kỹ năng": [
+                "tuyệt vời"
+            ],
+            "kiến ​​thức": [
+                "tốt"
+            ],
+            "tour du lịch": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 7.0,
+            "địa điểm": 2.5,
+            "lịch sử": 2.5,
+            "hướng dẫn viên": 5.0,
+            "thức ăn": 1.5,
+            "thực phẩm": 1.5,
+            "chuyến đi": 3,
+            "bộ phim": 1,
+            "sống động": 1,
+            "văn hóa": 1,
+            "năng lượng": 1,
+            "người hướng dẫn": 1,
+            "dịch vụ": 1,
+            "hướng dẫn viên du lịch": 2,
+            "điểm tham quan chính": 1,
+            "chùa trấn quốc lăng": 1,
+            "chủ tịch hồ chí minh": 1,
+            "bảo tàng dân tộc học văn miếu": 1,
+            "nhà tù hỏa lò": 1,
+            "sơn mài": 1,
+            "thuyền": 2,
+            "tiền": 1,
+            "kỹ năng": 1,
+            "kiến ​​thức": 1,
+            "tour du lịch": 1
+        }
     },
     {
         "attraction_name": "Seven Tours",
@@ -169,7 +306,128 @@
             "https://www.tripadvisor.com/Attraction_Review-g55138-d146694-Reviews-Sunsphere_Tower-Knoxville_Tennessee.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or20-Seven_Tours-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or10-Seven_Tours-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or10-Seven_Tours-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.6197001715107555,
+            "chuyến tham quan": 0.3532010455674026,
+            "người hướng dẫn": 0.9938419652171433,
+            "bữa trưa": 0.181289819534868,
+            "hướng dẫn viên": 0.16771563685809573,
+            "lịch sử": 0.6639449206801752,
+            "điểm tham": 0.6911245323717594,
+            "bữa tiệc karaoke": 0.47417743504047394,
+            "tour tham quan": -0.8752754298038781,
+            "hướng dẫn viên du lịch": 0.8737691454589367,
+            "xe buýt": 0.9931686981581151,
+            "tour": 0.8737691454589367,
+            "cạnh tranh": 0.5,
+            "chuong": 0.9955262542353012,
+            "chuyến đi": 0.9894228554330766,
+            "chương": 0.9345068412949331,
+            "choung": 0.995602220937144,
+            "dịch vụ": -0.82653874065727,
+            "cái nhìn tổng quan": 0.995187412831001
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời",
+                "to",
+                "tệ",
+                "tuyệt vời",
+                "tốt",
+                "hơn",
+                "nhiều",
+                "tuyệt vời",
+                "thực sự",
+                "tốt đẹp"
+            ],
+            "chuyến tham quan": [
+                "sai",
+                "tuyệt vời",
+                "chi tiết",
+                "tuyệt vời"
+            ],
+            "người hướng dẫn": [
+                "tuyệt vời"
+            ],
+            "bữa trưa": [
+                "tuyệt vời",
+                "đơn giản",
+                "tệ"
+            ],
+            "hướng dẫn viên": [
+                "sâu sắc",
+                "hỏng"
+            ],
+            "lịch sử": [
+                "sâu sắc"
+            ],
+            "điểm tham": [
+                "quan trọng"
+            ],
+            "bữa tiệc karaoke": [],
+            "tour tham quan": [
+                "sai"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tệ"
+            ],
+            "xe buýt": [
+                "khủng khiếp"
+            ],
+            "tour": [
+                "tốt"
+            ],
+            "cạnh tranh": [],
+            "chuong": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "nhiều",
+                "suốt"
+            ],
+            "chương": [
+                "tuyệt vời",
+                "chi tiết",
+                "tuyệt vời",
+                "tuyệt vời",
+                "chi tiết",
+                "khác"
+            ],
+            "choung": [
+                "lịch sự"
+            ],
+            "dịch vụ": [
+                "chắc chắn",
+                "khác"
+            ],
+            "cái nhìn tổng quan": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 7,
+            "chuyến tham quan": 4,
+            "người hướng dẫn": 1,
+            "bữa trưa": 3,
+            "hướng dẫn viên": 3,
+            "lịch sử": 3,
+            "điểm tham": 1,
+            "bữa tiệc karaoke": 1,
+            "tour tham quan": 1,
+            "hướng dẫn viên du lịch": 1,
+            "xe buýt": 1,
+            "tour": 1,
+            "cạnh tranh": 1,
+            "chuong": 1,
+            "chuyến đi": 1,
+            "chương": 2,
+            "choung": 1,
+            "dịch vụ": 1,
+            "cái nhìn tổng quan": 1
+        }
     },
     {
         "attraction_name": "Seven Tours",
@@ -255,7 +513,139 @@
             "https://www.tripadvisor.com/Attraction_Review-g186525-d213880-Reviews-Tartan_Weaving_Mill-Edinburgh_Scotland.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or30-Seven_Tours-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or20-Seven_Tours-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or20-Seven_Tours-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.9149992883321829,
+            "hướng dẫn viên": 0.8854749230169026,
+            "lịch sử": 0.6045557546894997,
+            "tour": 0.8297572591109201,
+            "chuyến du lịch": 0.5,
+            "con người": 0.5,
+            "văn hóa": 0.6646140969824046,
+            "chiến tranh": 0.5,
+            "chuyến tham": 0.9809328080154955,
+            "bảo tàng": 0.8737691454589367,
+            "đồ ăn": 0.9955938832717948,
+            "trải nghiệm": 0.9954939986831354,
+            "thức ăn": 0.9955244917655364,
+            "trung tâm hoàn kiếm": 0.6162944994866848,
+            "chuyến đi": 0.010337769170291722,
+            "viên": 0.8737691454589367,
+            "văn hóa lịch sử": 0.9938735724426806,
+            "điểm dừng": 0.8737691454589367,
+            "khu phức hợp hồ chí minh": 0.9936804898316041,
+            "người hướng dẫn": 0.5,
+            "nhà tù": 0.8737691454589367,
+            "chùa": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "đúng",
+                "thông minh",
+                "thông minh",
+                "hoàn toàn",
+                "xứng đáng",
+                "nhiều"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "nhiều",
+                "thông minh",
+                "nhiều",
+                "tuyệt vời",
+                "suốt"
+            ],
+            "lịch sử": [],
+            "tour": [
+                "chắc chắn",
+                "bất kỳ",
+                "xuất sắc",
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "chuyến du lịch": [],
+            "con người": [],
+            "văn hóa": [
+                "thực sự",
+                "tốt"
+            ],
+            "chiến tranh": [],
+            "chuyến tham": [
+                "Chắc chắn"
+            ],
+            "bảo tàng": [
+                "thông minh"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "trải nghiệm": [
+                "tốt",
+                "thú vị",
+                "tuyệt vời",
+                "hữu ích",
+                "nhiều",
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "thức ăn": [
+                "tuyệt vời"
+            ],
+            "trung tâm hoàn kiếm": [],
+            "chuyến đi": [
+                "thực sự",
+                "cá tính",
+                "vui vẻ",
+                "rõ ràng"
+            ],
+            "viên": [
+                "nhiều"
+            ],
+            "văn hóa lịch sử": [
+                "quan trọng",
+                "sâu sắc"
+            ],
+            "điểm dừng": [
+                "ngon",
+                "tuyệt vời"
+            ],
+            "khu phức hợp hồ chí minh": [],
+            "người hướng dẫn": [],
+            "nhà tù": [
+                "nhiều",
+                "mới"
+            ],
+            "chùa": [
+                "nhiều",
+                "mới"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 5,
+            "hướng dẫn viên": 7,
+            "lịch sử": 4,
+            "tour": 3,
+            "chuyến du lịch": 1,
+            "con người": 1,
+            "văn hóa": 3,
+            "chiến tranh": 1,
+            "chuyến tham": 1,
+            "bảo tàng": 1,
+            "đồ ăn": 1,
+            "trải nghiệm": 3,
+            "thức ăn": 1,
+            "trung tâm hoàn kiếm": 1,
+            "chuyến đi": 2,
+            "viên": 1,
+            "văn hóa lịch sử": 1,
+            "điểm dừng": 1,
+            "khu phức hợp hồ chí minh": 1,
+            "người hướng dẫn": 1,
+            "nhà tù": 1,
+            "chùa": 1
+        }
     },
     {
         "attraction_name": "Seven Tours",
@@ -341,7 +731,168 @@
             "https://www.tripadvisor.com/Attraction_Review-g293984-d325269-Reviews-Neve_Tzedek-Tel_Aviv_Tel_Aviv_District.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or40-Seven_Tours-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or30-Seven_Tours-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or30-Seven_Tours-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.8659966206978424,
+            "bảo tàng": 0.5,
+            "hướng dẫn viên": 0.9771225400909316,
+            "lịch": 0.5,
+            "kiến ​​thức": 0.5,
+            "văn hóa": 0.5,
+            "địa điểm du lịch": 0.9955628696479835,
+            "bữa trưa": 0.9954737626540009,
+            "lịch sử": 0.7046804328332655,
+            "điểm du lịch": 0.9946171873889398,
+            "chuyến đi": 0.9931453043633761,
+            "hướng dẫn viên du lịch": 0.7793733166909078,
+            "cho": 0.5,
+            "hành trình": 0.5,
+            "văn hóa nghệ thuật": 0.5,
+            "phòng": 0.986981471767649,
+            "chương": 0.9952261805883609,
+            "chương thông thạo": 0.8737691454589367,
+            "lịch sử việt nam": 0.8737691454589367,
+            "chùa trấn quốc lăng": 0.8737691454589367,
+            "chủ tịch hồ chí minh": 0.8737691454589367,
+            "nhà": 0.5,
+            "văn miếu": 0.8737691454589367,
+            "nhà hàng": 0.9956022963160649,
+            "cho bữa": 0.9935556423151866,
+            "nhà hàng địa phương": 0.9829881947953254,
+            "đồ ăn": 0.9956082340795547,
+            "địa điểm": 0.532029100228101
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "nhiều",
+                "toàn diện",
+                "trọn vẹn",
+                "nhiều",
+                "chi tiết",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "bảo tàng": [],
+            "hướng dẫn viên": [
+                "tốt",
+                "thú vị",
+                "chắc chắn",
+                "nhiều",
+                "chi tiết",
+                "am hiểu",
+                "đầy đủ",
+                "nhiều"
+            ],
+            "lịch": [],
+            "kiến ​​thức": [],
+            "văn hóa": [],
+            "địa điểm du lịch": [
+                "ngon"
+            ],
+            "bữa trưa": [
+                "ngon",
+                "tuyệt"
+            ],
+            "lịch sử": [
+                "am hiểu",
+                "rõ ràng",
+                "tuyệt vời",
+                "rõ ràng",
+                "giỏi",
+                "nhiều"
+            ],
+            "điểm du lịch": [
+                "đầy đủ",
+                "nhiều"
+            ],
+            "chuyến đi": [
+                "tốt",
+                "tốt",
+                "thú vị",
+                "nhiệt tình",
+                "suốt"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "giỏi",
+                "nhiều"
+            ],
+            "cho": [],
+            "hành trình": [],
+            "văn hóa nghệ thuật": [],
+            "phòng": [],
+            "chương": [],
+            "chương thông thạo": [
+                "thú vị"
+            ],
+            "lịch sử việt nam": [
+                "rõ",
+                "hơn"
+            ],
+            "chùa trấn quốc lăng": [
+                "rõ",
+                "hơn"
+            ],
+            "chủ tịch hồ chí minh": [
+                "rõ",
+                "hơn"
+            ],
+            "nhà": [],
+            "văn miếu": [
+                "rõ",
+                "hơn"
+            ],
+            "nhà hàng": [
+                "đẹp"
+            ],
+            "cho bữa": [
+                "đẹp"
+            ],
+            "nhà hàng địa phương": [
+                "đẹp"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "địa điểm": [
+                "giỏi",
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 8,
+            "bảo tàng": 1,
+            "hướng dẫn viên": 4,
+            "lịch": 1,
+            "kiến ​​thức": 1,
+            "văn hóa": 1,
+            "địa điểm du lịch": 1,
+            "bữa trưa": 2,
+            "lịch sử": 5,
+            "điểm du lịch": 1,
+            "chuyến đi": 3,
+            "hướng dẫn viên du lịch": 4,
+            "cho": 1,
+            "hành trình": 1,
+            "văn hóa nghệ thuật": 1,
+            "phòng": 1,
+            "chương": 1,
+            "chương thông thạo": 1,
+            "lịch sử việt nam": 1,
+            "chùa trấn quốc lăng": 1,
+            "chủ tịch hồ chí minh": 1,
+            "nhà": 1,
+            "văn miếu": 1,
+            "nhà hàng": 1,
+            "cho bữa": 1,
+            "nhà hàng địa phương": 1,
+            "đồ ăn": 1,
+            "địa điểm": 1
+        }
     },
     {
         "attraction_name": "Seven Tours",
@@ -427,7 +978,129 @@
             "https://www.tripadvisor.com/Attraction_Review-g294207-d311544-Reviews-Nairobi_National_Museum-Nairobi.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or50-Seven_Tours-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or40-Seven_Tours-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or40-Seven_Tours-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên": 0.8374279433162883,
+            "chuyến tham quan": 0.9243218938839466,
+            "văn hóa": 0.20053229806944728,
+            "lịch sử": 0.7339940770762041,
+            "chuyến đi": 0.720814272458665,
+            "văn hóa việt nam": 0.6868845727294683,
+            "nhiếp ảnh gia": 0.5,
+            "bữa trưa": 0.8422395691741258,
+            "món ăn": 0.9954749430180527,
+            "cuộc sống": 0.5,
+            "người dân": 0.5783936250954866,
+            "tour du lịch": 0.994059491873486,
+            "nhà giáo dục": 0.5,
+            "nghệ sĩ giải trí": 0.5,
+            "hướng dẫn viên du lịch": 0.995147097914014,
+            "bác hồ": 0.8737691454589367,
+            "chuyến viếng": 0.5,
+            "chủ tịch hồ chí minh": 0.8737691454589367,
+            "bảo tàng dân tộc học": 0.9924069503322244,
+            "trải nghiệm": 0.9954614373855293,
+            "thức ăn": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "hướng dẫn viên": [
+                "nổi tiếng",
+                "rõ",
+                "thực sự",
+                "tuyệt vời",
+                "thực sự",
+                "tốt"
+            ],
+            "chuyến tham quan": [
+                "đặc biệt",
+                "rõ",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "bất kỳ",
+                "rõ",
+                "hơn"
+            ],
+            "văn hóa": [
+                "hơn",
+                "suốt"
+            ],
+            "lịch sử": [
+                "nhiều",
+                "rõ",
+                "sâu sắc",
+                "nhiều"
+            ],
+            "chuyến đi": [
+                "chi tiết",
+                "Thực sự",
+                "tuyệt vời",
+                "đầy"
+            ],
+            "văn hóa việt nam": [
+                "tuyệt vời"
+            ],
+            "nhiếp ảnh gia": [],
+            "bữa trưa": [
+                "nhiều",
+                "cao",
+                "ngon"
+            ],
+            "món ăn": [
+                "tuyệt vời"
+            ],
+            "cuộc sống": [],
+            "người dân": [
+                "hơn"
+            ],
+            "tour du lịch": [
+                "nhiều"
+            ],
+            "nhà giáo dục": [],
+            "nghệ sĩ giải trí": [],
+            "hướng dẫn viên du lịch": [
+                "tốt bụng"
+            ],
+            "bác hồ": [
+                "sâu sắc"
+            ],
+            "chuyến viếng": [],
+            "chủ tịch hồ chí minh": [
+                "sâu sắc"
+            ],
+            "bảo tàng dân tộc học": [],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "thức ăn": [
+                "ngon"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên": 5,
+            "chuyến tham quan": 8,
+            "văn hóa": 4,
+            "lịch sử": 4,
+            "chuyến đi": 5,
+            "văn hóa việt nam": 2,
+            "nhiếp ảnh gia": 1,
+            "bữa trưa": 2,
+            "món ăn": 1,
+            "cuộc sống": 1,
+            "người dân": 1,
+            "tour du lịch": 2,
+            "nhà giáo dục": 1,
+            "nghệ sĩ giải trí": 1,
+            "hướng dẫn viên du lịch": 1,
+            "bác hồ": 1,
+            "chuyến viếng": 1,
+            "chủ tịch hồ chí minh": 1,
+            "bảo tàng dân tộc học": 1,
+            "trải nghiệm": 1,
+            "thức ăn": 1
+        }
     },
     {
         "attraction_name": "Seven Tours",
@@ -513,7 +1186,109 @@
             "https://www.tripadvisor.com/Attraction_Review-g1535800-d1536672-Reviews-Elafonissi_Beach-Elafonissi_Chania_Prefecture_Crete.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or60-Seven_Tours-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or50-Seven_Tours-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or50-Seven_Tours-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.8369971349718981,
+            "điểm tham quan": 0.995359364838805,
+            "kỹ năng": 0.9954778198734857,
+            "ăn chay": 0.9846899427939206,
+            "đồ ăn": 0.9954087802325375,
+            "bữa trưa": 0.995591515529668,
+            "chuyến đi": 0.9907793151796795,
+            "lịch sử": 0.7477482916146982,
+            "văn hóa": 0.9946765700588003,
+            "hướng dẫn viên chương le": 0.8737691454589367,
+            "hướng dẫn viên": 0.7472959901933791,
+            "lịch sử thành phố": 0.5,
+            "văn hóa dân tộc": 0.5,
+            "con người": 0.5,
+            "văn hóa lịch sử": 0.5,
+            "chiến tranh": 0.5,
+            "kiến": 0.5,
+            "văn hóa việt": 0.8737691454589367,
+            "người hướng dẫn": 0.9917336830403656,
+            "chương": 0.862769789993763
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "sâu sắc",
+                "tuyệt vời"
+            ],
+            "điểm tham quan": [],
+            "kỹ năng": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "ăn chay": [
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "tuyệt vời"
+            ],
+            "bữa trưa": [
+                "tuyệt vời",
+                "ngon",
+                "sạch sẽ"
+            ],
+            "chuyến đi": [
+                "thực sự",
+                "tốt",
+                "nhiều",
+                "thú vị"
+            ],
+            "lịch sử": [
+                "tuyệt vời"
+            ],
+            "văn hóa": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên chương le": [
+                "hữu ích"
+            ],
+            "hướng dẫn viên": [
+                "xuất sắc",
+                "tốt bụng"
+            ],
+            "lịch sử thành phố": [],
+            "văn hóa dân tộc": [],
+            "con người": [],
+            "văn hóa lịch sử": [],
+            "chiến tranh": [],
+            "kiến": [],
+            "văn hóa việt": [
+                "xuất sắc"
+            ],
+            "người hướng dẫn": [
+                "hiểu biết"
+            ],
+            "chương": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 5,
+            "điểm tham quan": 1,
+            "kỹ năng": 1,
+            "ăn chay": 1,
+            "đồ ăn": 1,
+            "bữa trưa": 2,
+            "chuyến đi": 2,
+            "lịch sử": 2,
+            "văn hóa": 1,
+            "hướng dẫn viên chương le": 1,
+            "hướng dẫn viên": 4,
+            "lịch sử thành phố": 1,
+            "văn hóa dân tộc": 1,
+            "con người": 2,
+            "văn hóa lịch sử": 1,
+            "chiến tranh": 1,
+            "kiến": 1,
+            "văn hóa việt": 1,
+            "người hướng dẫn": 1,
+            "chương": 1
+        }
     },
     {
         "attraction_name": "Seven Tours",
@@ -599,7 +1374,157 @@
             "https://www.tripadvisor.com/Attraction_Review-g187147-d3634513-Reviews-Rue_des_Martyrs-Paris_Ile_de_France.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or70-Seven_Tours-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or60-Seven_Tours-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or60-Seven_Tours-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.8373302150321251,
+            "chương": 0.8737691454589367,
+            "lịch sử": 0.14288078102981672,
+            "bữa trưa": 0.8737691454589367,
+            "nhà hàng": 0.9915991130983457,
+            "hướng dẫn viên": 0.7476930019474821,
+            "quan": 0.5,
+            "lăng": 0.5,
+            "văn hóa": 0.9825441343709826,
+            "trải nghiệm": 0.9025374997484809,
+            "lịch sử đấu tranh": -0.9326375555247068,
+            "văn hóa việt nam": 0.8737691454589367,
+            "sự kiện lịch sử": 0.5420989356935024,
+            "sự": 0.5,
+            "chiến": 0.8737691454589367,
+            "địa điểm": 0.9931837187614292,
+            "địa điểm ăn trưa": 0.9954060117015615,
+            "chuyến đi": 0.9955649755235452,
+            "kiến thức": 0.9954487626091577,
+            "khu phức hợp": 0.5,
+            "ngôi": 0.5,
+            "nhà sàn": 0.5,
+            "vẻ đẹp": 0.9947629400994629,
+            "câu chuyện": 0.5158270914107561
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "quan trọng",
+                "chắc chắn",
+                "tốt",
+                "thực sự",
+                "nhiều",
+                "​ thức",
+                "đặc biệt",
+                "hơn",
+                "nhiều",
+                "vui",
+                "khác",
+                "thực sự",
+                "thực sự",
+                "nhiều",
+                "đau khổ"
+            ],
+            "chương": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "lịch sử": [
+                "đau khổ",
+                "mệt mỏi"
+            ],
+            "bữa trưa": [
+                "thú vị",
+                "cố định",
+                "thực sự",
+                "thú vị"
+            ],
+            "nhà hàng": [
+                "đẹp"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "hữu ích",
+                "chi tiết"
+            ],
+            "quan": [],
+            "lăng": [],
+            "văn hóa": [],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "nhiều",
+                "tuyệt vời",
+                "thực sự",
+                "thú vị",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "lịch sử đấu tranh": [
+                "tự do"
+            ],
+            "văn hóa việt nam": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "sự kiện lịch sử": [
+                "nhiều",
+                "khác"
+            ],
+            "sự": [],
+            "chiến": [
+                "nhiều"
+            ],
+            "địa điểm": [
+                "quan trọng"
+            ],
+            "địa điểm ăn trưa": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "ngon",
+                "tươi",
+                "thực sự"
+            ],
+            "kiến thức": [
+                "tuyệt nên",
+                "dễ",
+                "hơn"
+            ],
+            "khu phức hợp": [],
+            "ngôi": [],
+            "nhà sàn": [],
+            "vẻ đẹp": [
+                "chi tiết"
+            ],
+            "câu chuyện": [
+                "mệt mỏi"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 4,
+            "chương": 1,
+            "lịch sử": 4,
+            "bữa trưa": 2,
+            "nhà hàng": 1,
+            "hướng dẫn viên": 4,
+            "quan": 1,
+            "lăng": 1,
+            "văn hóa": 1,
+            "trải nghiệm": 4,
+            "lịch sử đấu tranh": 1,
+            "văn hóa việt nam": 1,
+            "sự kiện lịch sử": 1,
+            "sự": 1,
+            "chiến": 1,
+            "địa điểm": 1,
+            "địa điểm ăn trưa": 1,
+            "chuyến đi": 2,
+            "kiến thức": 1,
+            "khu phức hợp": 1,
+            "ngôi": 1,
+            "nhà sàn": 1,
+            "vẻ đẹp": 1,
+            "câu chuyện": 1
+        }
     },
     {
         "attraction_name": "Seven Tours",
@@ -685,7 +1610,140 @@
             "https://www.tripadvisor.com/Attraction_Review-g194807-d2270812-Reviews-Monte_Baldo-Malcesine_Province_of_Verona_Veneto.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or80-Seven_Tours-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or70-Seven_Tours-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or70-Seven_Tours-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.909191146021476,
+            "lịch sử": 0.1121821403503418,
+            "văn hóa": 0.9937763139605522,
+            "thức ăn": 0.9955223462311551,
+            "bảo tàng nhà tù": 0.9906720326980576,
+            "chương lee": 0.5293310228735209,
+            "tour du lịch": 0.9953493451466784,
+            "bữa trưa": 0.93465548066888,
+            "trải nghiệm": 0.886792769189924,
+            "thực phẩm": -0.9693653802387416,
+            "hướng dẫn viên": 0.9866467731771991,
+            "choung": 0.995290310587734,
+            "chùa": 0.7091313186101615,
+            "lăng": 0.5,
+            "bảo tàng dân tộc": 0.5,
+            "văn học": 0.5,
+            "món ăn": 0.9950169803341851,
+            "tour": 0.9948039336013608,
+            "lăng mộ": 0.8543802769854665,
+            "chuyến tham": 0.9735404755920172,
+            "hướng dẫn chương": 0.8737691454589367,
+            "dịch vụ": 0.995489668333903,
+            "khoảng thời gian": 0.9953072104835883
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "thú vị",
+                "thực sự",
+                "nhiều",
+                "khác",
+                "thực sự",
+                "tuyệt vời",
+                "thực sự",
+                "tốt bụng",
+                "tuyệt vời"
+            ],
+            "lịch sử": [
+                "xa"
+            ],
+            "văn hóa": [
+                "tuyệt vời"
+            ],
+            "thức ăn": [
+                "tuyệt vời"
+            ],
+            "bảo tàng nhà tù": [],
+            "chương lee": [],
+            "tour du lịch": [
+                "tuyệt vời",
+                "thú vị"
+            ],
+            "bữa trưa": [
+                "truyền thống",
+                "nhiều",
+                "ngon"
+            ],
+            "trải nghiệm": [
+                "truyền thống",
+                "nhiều",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "thực phẩm": [
+                "khác"
+            ],
+            "hướng dẫn viên": [
+                "am hiểu",
+                "am hiểu",
+                "giỏi",
+                "am hiểu"
+            ],
+            "choung": [
+                "tuyệt vời"
+            ],
+            "chùa": [
+                "nhiều",
+                "nhiều"
+            ],
+            "lăng": [],
+            "bảo tàng dân tộc": [],
+            "văn học": [],
+            "món ăn": [],
+            "tour": [
+                "tốt",
+                "nhiều"
+            ],
+            "lăng mộ": [
+                "nhiều"
+            ],
+            "chuyến tham": [
+                "xa"
+            ],
+            "hướng dẫn chương": [
+                "thực sự",
+                "tuyệt vời",
+                "thực sự",
+                "tốt bụng"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 5,
+            "lịch sử": 2,
+            "văn hóa": 1,
+            "thức ăn": 1,
+            "bảo tàng nhà tù": 1,
+            "chương lee": 1,
+            "tour du lịch": 2,
+            "bữa trưa": 2,
+            "trải nghiệm": 3,
+            "thực phẩm": 1,
+            "hướng dẫn viên": 4,
+            "choung": 1,
+            "chùa": 2,
+            "lăng": 1,
+            "bảo tàng dân tộc": 1,
+            "văn học": 1,
+            "món ăn": 1,
+            "tour": 1,
+            "lăng mộ": 1,
+            "chuyến tham": 1,
+            "hướng dẫn chương": 1,
+            "dịch vụ": 1,
+            "khoảng thời gian": 1
+        }
     },
     {
         "attraction_name": "Seven Tours",
@@ -771,7 +1829,169 @@
             "https://www.tripadvisor.com/Attraction_Review-g189444-d21312450-Reviews-Paradise_Beach-Kos_Dodecanese_South_Aegean.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or90-Seven_Tours-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or80-Seven_Tours-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or80-Seven_Tours-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.9942804446502123,
+            "chuyến đi": 0.9954584283259464,
+            "đồ ăn": 0.8737691454589367,
+            "nhà hàng": 0.7477376338792965,
+            "bữa trưa": 0.6767737800255418,
+            "trải nghiệm": 0.5049813135604685,
+            "phòng": 0.9637143916916102,
+            "hướng dẫn viên": 0.5519891780219041,
+            "chuyến tham quan thành phố": 0.9954213507589884,
+            "tour tham quan": 0.9863727323245257,
+            "văn hóa": 0.5,
+            "lịch sử": 0.5161428904781739,
+            "con người việt nam": 0.8737691454589367,
+            "món": 0.995422777836211,
+            "ăn chay": 0.9954238622449338,
+            "thành phố": 0.9816236153128557,
+            "mẹo": 0.9882870445726439,
+            "chuyến du lịch": 0.9940922123496421,
+            "tour": 0.8750968312378973,
+            "nhà": 0.9905697071226314,
+            "hồ": 0.9955744304461405,
+            "hồ nước": 0.9954432123340666,
+            "hướng dẫn viên du lịch": 0.9925689036026597,
+            "văn hóa việt nam": 0.8737691454589367,
+            "thức ăn": 0.9649405973614193,
+            "xe buýt": 0.8737691454589367,
+            "điều hòa": 0.5
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "thú vị",
+                "thực sự",
+                "tốt",
+                "nhiều",
+                "Thực sự"
+            ],
+            "chuyến đi": [
+                "thực sự",
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "đồ ăn": [
+                "ngon",
+                "ngon"
+            ],
+            "nhà hàng": [
+                "ngon",
+                "ngon"
+            ],
+            "bữa trưa": [
+                "khác"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "quan trọng",
+                "thú vị",
+                "đầy",
+                "tuyệt vời",
+                "khác"
+            ],
+            "phòng": [
+                "Chắc chắn"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "chuyên nghiệp",
+                "nhiều",
+                "thú vị",
+                "khiêm tốn",
+                "tử tế",
+                "hay",
+                "nhiều",
+                "chi tiết",
+                "tuyệt vời"
+            ],
+            "chuyến tham quan thành phố": [
+                "tuyệt vời"
+            ],
+            "tour tham quan": [],
+            "văn hóa": [],
+            "lịch sử": [
+                "chắc chắn"
+            ],
+            "con người việt nam": [
+                "nhiều"
+            ],
+            "món": [
+                "tuyệt vời"
+            ],
+            "ăn chay": [
+                "tuyệt vời"
+            ],
+            "thành phố": [
+                "hoàn toàn",
+                "tuyệt vời"
+            ],
+            "mẹo": [],
+            "chuyến du lịch": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "tour": [
+                "cùng"
+            ],
+            "nhà": [
+                "ngon"
+            ],
+            "hồ": [
+                "đẹp"
+            ],
+            "hồ nước": [
+                "đẹp"
+            ],
+            "hướng dẫn viên du lịch": [
+                "Tốt",
+                "rõ ràng"
+            ],
+            "văn hóa việt nam": [
+                "nhiều"
+            ],
+            "thức ăn": [
+                "đa dạng",
+                "lớn"
+            ],
+            "xe buýt": [
+                "tốt",
+                "rộng rãi"
+            ],
+            "điều hòa": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 5,
+            "chuyến đi": 2,
+            "đồ ăn": 1,
+            "nhà hàng": 2,
+            "bữa trưa": 1,
+            "trải nghiệm": 3,
+            "phòng": 1,
+            "hướng dẫn viên": 5,
+            "chuyến tham quan thành phố": 1,
+            "tour tham quan": 1,
+            "văn hóa": 1,
+            "lịch sử": 3,
+            "con người việt nam": 1,
+            "món": 1,
+            "ăn chay": 1,
+            "thành phố": 2,
+            "mẹo": 1,
+            "chuyến du lịch": 1,
+            "tour": 2,
+            "nhà": 1,
+            "hồ": 1,
+            "hồ nước": 1,
+            "hướng dẫn viên du lịch": 2,
+            "văn hóa việt nam": 1,
+            "thức ăn": 1,
+            "xe buýt": 1,
+            "điều hòa": 1
+        }
     },
     {
         "attraction_name": "Seven Tours",
@@ -857,6 +2077,96 @@
             "https://www.tripadvisor.com/Attraction_Review-g13792389-d8443413-Reviews-Alishan_Forest_Railway-Alishan_Chiayi_County.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or100-Seven_Tours-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or90-Seven_Tours-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13485286-Reviews-or90-Seven_Tours-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thức ăn": 0.9346880609518848,
+            "chuyến đi": 0.8302238606023215,
+            "bữa trưa": 0.8737691454589367,
+            "nhà hàng": 0.7466308735747589,
+            "hướng dẫn viên": 0.7574959720701112,
+            "chuyến tham quan": 0.7172854390810244,
+            "lịch sử": 0.6197601681342348,
+            "văn hóa việt nam": 0.8737691454589367,
+            "chủ tịch hồ chí minh": 0.8737691454589367,
+            "địa điểm": 0.7446049099089578,
+            "lăng mộ": 0.5,
+            "tour du lịch": 0.9955121490056626,
+            "dân tộc": 0.5,
+            "ăn chay": 0.5
+        },
+        "dicts_adj": {
+            "thức ăn": [
+                "ngon",
+                "ngon"
+            ],
+            "chuyến đi": [
+                "tốt",
+                "tuyệt vời",
+                "tốt bụng",
+                "chuyên nghiệp",
+                "rõ ràng"
+            ],
+            "bữa trưa": [
+                "ngon",
+                "quan trọng"
+            ],
+            "nhà hàng": [
+                "ngon",
+                "quan trọng"
+            ],
+            "hướng dẫn viên": [
+                "hữu ích",
+                "đầy đủ",
+                "tuyệt vời",
+                "tốt",
+                "tuyệt vời",
+                "tốt bụng",
+                "chuyên nghiệp",
+                "rõ ràng"
+            ],
+            "chuyến tham quan": [
+                "thực sự",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "lịch sử": [
+                "đặc biệt"
+            ],
+            "văn hóa việt nam": [
+                "nhiều"
+            ],
+            "chủ tịch hồ chí minh": [
+                "nhiều"
+            ],
+            "địa điểm": [
+                "đầu tiên",
+                "thực sự",
+                "nổi tiếng"
+            ],
+            "lăng mộ": [],
+            "tour du lịch": [
+                "nhiều"
+            ],
+            "dân tộc": [],
+            "ăn chay": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thức ăn": 2,
+            "chuyến đi": 3,
+            "bữa trưa": 1,
+            "nhà hàng": 2,
+            "hướng dẫn viên": 7,
+            "chuyến tham quan": 4,
+            "lịch sử": 4,
+            "văn hóa việt nam": 1,
+            "chủ tịch hồ chí minh": 1,
+            "địa điểm": 2,
+            "lăng mộ": 1,
+            "tour du lịch": 1,
+            "dân tộc": 1,
+            "ăn chay": 1
+        }
     }
 ]

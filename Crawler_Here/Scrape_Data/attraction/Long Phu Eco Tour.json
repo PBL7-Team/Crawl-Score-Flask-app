@@ -90,7 +90,157 @@
             "https://www.tripadvisor.com/Attraction_Review-g55711-d196363-Reviews-Reunion_Tower-Dallas_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d13172856-Reviews-or10-Long_Phu_Eco_Tour-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d13172856-Reviews-Long_Phu_Eco_Tour-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d13172856-Reviews-Long_Phu_Eco_Tour-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.857387708254724,
+            "hướng dẫn viên": 0.8653006534407135,
+            "thức ăn": 0.9512485566612502,
+            "nhân viên": 0.9955269770580344,
+            "đồ ăn": 0.9955945278634317,
+            "chuyến đi thuyền": 0.7938901670277119,
+            "người đạp thuyền": 0.5,
+            "khu vực địa phương": 0.905980234965682,
+            "cưỡi thuyền dừa": 0.991688852198422,
+            "món ăn": 0.9950426777941175,
+            "con người": 0.9954447008203715,
+            "bầu không khí": -0.974155226489529,
+            "dịch vụ": 0.9832871105560722,
+            "nhóm lớn": -0.9583188274409622,
+            "hướng dẫn viên du lịch": 0.9954188972478732,
+            "chuyến đi xe đạp": 0.5,
+            "cánh đồng lúa": 0.7123614030673967,
+            "trâu nước": 0.9950524126179516,
+            "rừng dừa": 0.5,
+            "mặt nước": 0.5,
+            "chuyến tham quan": 0.7451782684241023,
+            "tour du thuyền": 0.9893331562634557,
+            "tour": 0.9727535799514347,
+            "chuyến đi": 0.7476513209985569,
+            "tiền bạc": 0.9934873699094169,
+            "chuyến đạp xe": 0.9949469860293902,
+            "cưỡi trâu": 0.5,
+            "thúng dừa": 0.5,
+            "chỗ": 0.6117921937257051
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tốt"
+            ],
+            "hướng dẫn viên": [
+                "tốt bụng",
+                "tốt",
+                "tốt bụng",
+                "hữu ích",
+                "nhanh",
+                "nhiều"
+            ],
+            "thức ăn": [
+                "tuyệt",
+                "tươi",
+                "ngon",
+                "tuyệt vời",
+                "thân thiện"
+            ],
+            "nhân viên": [],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "chuyến đi thuyền": [
+                "dài",
+                "êm dịu",
+                "tip"
+            ],
+            "người đạp thuyền": [],
+            "khu vực địa phương": [
+                "dễ thương"
+            ],
+            "cưỡi thuyền dừa": [
+                "dễ thương"
+            ],
+            "món ăn": [
+                "dễ thương"
+            ],
+            "con người": [
+                "tuyệt vời"
+            ],
+            "bầu không khí": [
+                "giản dị"
+            ],
+            "dịch vụ": [
+                "hoàn hảo",
+                "chắc chắn",
+                "bất kỳ"
+            ],
+            "nhóm lớn": [],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "vui vẻ",
+                "bất kỳ"
+            ],
+            "chuyến đi xe đạp": [],
+            "cánh đồng lúa": [
+                "đẹp"
+            ],
+            "trâu nước": [
+                "vui",
+                "tuyệt"
+            ],
+            "rừng dừa": [],
+            "mặt nước": [],
+            "chuyến tham quan": [],
+            "tour du thuyền": [],
+            "tour": [
+                "nhất",
+                "vui"
+            ],
+            "chuyến đi": [
+                "tốt"
+            ],
+            "tiền bạc": [],
+            "chuyến đạp xe": [
+                "thú vị"
+            ],
+            "cưỡi trâu": [],
+            "thúng dừa": [],
+            "chỗ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 7.0,
+            "hướng dẫn viên": 8.5,
+            "thức ăn": 5.5,
+            "nhân viên": 2,
+            "đồ ăn": 2,
+            "chuyến đi thuyền": 2,
+            "người đạp thuyền": 2,
+            "khu vực địa phương": 2,
+            "cưỡi thuyền dừa": 2,
+            "món ăn": 2,
+            "con người": 2,
+            "bầu không khí": 2,
+            "dịch vụ": 2,
+            "nhóm lớn": 2,
+            "hướng dẫn viên du lịch": 2,
+            "chuyến đi xe đạp": 2,
+            "cánh đồng lúa": 3.5,
+            "trâu nước": 2,
+            "rừng dừa": 2,
+            "mặt nước": 2,
+            "chuyến tham quan": 3.5,
+            "tour du thuyền": 1.5,
+            "tour": 4.5,
+            "chuyến đi": 3.0,
+            "tiền bạc": 1.5,
+            "chuyến đạp xe": 1.5,
+            "cưỡi trâu": 1.5,
+            "thúng dừa": 1.5,
+            "chỗ": 1.5
+        }
     },
     {
         "attraction_name": "Long Phu Eco Tour",
@@ -184,7 +334,279 @@
             "https://www.tripadvisor.com/Attraction_Review-g47853-d123122-Reviews-Dr_Konstantin_Frank_Winery-Hammondsport_Finger_Lakes_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d13172856-Reviews-or20-Long_Phu_Eco_Tour-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d13172856-Reviews-or10-Long_Phu_Eco_Tour-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d13172856-Reviews-or10-Long_Phu_Eco_Tour-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "vùng quê": 0.9906329028308392,
+            "cưỡi trâu": 0.8280044626444578,
+            "thuyền": 0.7575121522459085,
+            "dòng": 0.9955187840969302,
+            "sông": 0.9954396386747248,
+            "món ăn": 0.995578886300791,
+            "chỗ": 0.5,
+            "long phu": 0.5,
+            "tour": 0.5,
+            "doanh nghiệp": 0.5019053388386965,
+            "trải nghiệm": 0.8718971314956434,
+            "xe đạp": 0.5164219234138727,
+            "cánh đồng lúa": 0.8303225667526325,
+            "làng dừa": 0.9952218041580636,
+            "hướng dẫn viên": 0.7086021443780434,
+            "đồ ăn": 0.9955774098052643,
+            "khoảng thời gian": 0.9953072104835883,
+            "lớp học nấu ăn": 0.9338855055975728,
+            "chuyến tham quan dừa": 0.5,
+            "tour du lịch": 0.9952255432144739,
+            "trâu nước": 0.04499991641690334,
+            "chai nước": 0.9898764443350956,
+            "chuyến tham quan": 0.8013522023296294,
+            "chuyến đi thuyền": 0.7475595460855402,
+            "bọn trẻ": 0.5,
+            "trẻ em": 0.9955513513996266,
+            "thuyền dừa": 0.5208737533539534,
+            "lớp học nấu ăn kiểu": 0.9895289903894687,
+            "buổi chiều": 0.9955688421614468,
+            "trải nghiệm nấu ăn": 0.5,
+            "trang": 0.8916937280446291,
+            "bữa trưa": 0.995072000019718,
+            "chuyến đi": 0.7202599705196917,
+            "karaoke": 0.6226869990350679,
+            "tour du lịch sinh thái": 0.9952675425447524,
+            "khách sạn": 0.09615897759795189,
+            "cưỡi": 0.5107622519135475,
+            "thuyền thúng": 0.5,
+            "rừng nước dừa": 0.5,
+            "bữa ăn": 0.9955446724197827,
+            "nhà hàng": 0.5,
+            "tour du lịch sinh": 0.9954522027401254,
+            "khung cảnh": 0.9954537755693309,
+            "khung cảnh biển": 0.9955081508960575,
+            "vùng nước": 0.5130450669676065,
+            "người dân địa phương": 0.6347536316607147,
+            "thể thao": 0.9954476338753011,
+            "vòng quay thuyền dừa": 0.5
+        },
+        "dicts_adj": {
+            "vùng quê": [
+                "ngon"
+            ],
+            "cưỡi trâu": [
+                "ngon",
+                "thú vị"
+            ],
+            "thuyền": [
+                "ngon",
+                "nhẹ",
+                "vui vẻ",
+                "sẵn sàng"
+            ],
+            "dòng": [
+                "ngon"
+            ],
+            "sông": [
+                "ngon"
+            ],
+            "món ăn": [
+                "ngon"
+            ],
+            "chỗ": [],
+            "long phu": [],
+            "tour": [],
+            "doanh nghiệp": [],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "thực sự",
+                "đáng giá",
+                "tuyệt vời",
+                "khó"
+            ],
+            "xe đạp": [
+                "đông đúc"
+            ],
+            "cánh đồng lúa": [
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "làng dừa": [
+                "hữu ích",
+                "vui vẻ"
+            ],
+            "hướng dẫn viên": [
+                "hữu ích",
+                "vui vẻ",
+                "dễ chịu",
+                "vui vẻ",
+                "sẵn sàng"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "lớp học nấu ăn": [
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "chuyến tham quan dừa": [],
+            "tour du lịch": [],
+            "trâu nước": [
+                "nhẹ",
+                "nhiều",
+                "nhiều"
+            ],
+            "chai nước": [
+                "ngon",
+                "nóng"
+            ],
+            "chuyến tham quan": [
+                "đầy đủ",
+                "tuyệt vời",
+                "tốt",
+                "đúng",
+                "đủ",
+                "nhanh chóng",
+                "lâu",
+                "tốt",
+                "nhiều",
+                "khó chịu",
+                "đông"
+            ],
+            "chuyến đi thuyền": [
+                "khoảng",
+                "vui vẻ"
+            ],
+            "bọn trẻ": [],
+            "trẻ em": [
+                "tuyệt vời"
+            ],
+            "thuyền dừa": [
+                "khoảng"
+            ],
+            "lớp học nấu ăn kiểu": [
+                "chuyên nghiệp",
+                "tuyệt vời",
+                "tuyệt vời",
+                "nhiều",
+                "vui",
+                "nhiều"
+            ],
+            "buổi chiều": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm nấu ăn": [],
+            "trang": [
+                "thực sự"
+            ],
+            "bữa trưa": [
+                "nhẹ",
+                "thực sự",
+                "ngon",
+                "tươi"
+            ],
+            "chuyến đi": [
+                "cao"
+            ],
+            "karaoke": [
+                "thực sự",
+                "thú vị"
+            ],
+            "tour du lịch sinh thái": [
+                "tuyệt vời"
+            ],
+            "khách sạn": [
+                "đầu tiên"
+            ],
+            "cưỡi": [
+                "nhiều",
+                "nhiều"
+            ],
+            "thuyền thúng": [],
+            "rừng nước dừa": [],
+            "bữa ăn": [
+                "tuyệt vời"
+            ],
+            "nhà hàng": [],
+            "tour du lịch sinh": [
+                "tốt",
+                "tốt",
+                "vui",
+                "bất kỳ"
+            ],
+            "khung cảnh": [
+                "tuyệt vời"
+            ],
+            "khung cảnh biển": [
+                "đẹp"
+            ],
+            "vùng nước": [
+                "rộng rãi",
+                "hơn"
+            ],
+            "người dân địa phương": [
+                "thực sự",
+                "thú vị"
+            ],
+            "thể thao": [
+                "vui vẻ",
+                "sẵn sàng"
+            ],
+            "vòng quay thuyền dừa": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "vùng quê": 1.5,
+            "cưỡi trâu": 4.5,
+            "thuyền": 6.0,
+            "dòng": 1.5,
+            "sông": 1.5,
+            "món ăn": 1.5,
+            "chỗ": 1.5,
+            "long phu": 1.5,
+            "tour": 1.5,
+            "doanh nghiệp": 1.5,
+            "trải nghiệm": 7.5,
+            "xe đạp": 3.0,
+            "cánh đồng lúa": 4.5,
+            "làng dừa": 1.5,
+            "hướng dẫn viên": 3.0,
+            "đồ ăn": 1.5,
+            "khoảng thời gian": 4.5,
+            "lớp học nấu ăn": 1.5,
+            "chuyến tham quan dừa": 1.5,
+            "tour du lịch": 1.5,
+            "trâu nước": 4.5,
+            "chai nước": 1.5,
+            "chuyến tham quan": 4.5,
+            "chuyến đi thuyền": 3.0,
+            "bọn trẻ": 1.5,
+            "trẻ em": 1.5,
+            "thuyền dừa": 3.0,
+            "lớp học nấu ăn kiểu": 1.5,
+            "buổi chiều": 1.5,
+            "trải nghiệm nấu ăn": 1.5,
+            "trang": 1.5,
+            "bữa trưa": 1.5,
+            "chuyến đi": 3.0,
+            "karaoke": 3.0,
+            "tour du lịch sinh thái": 1.5,
+            "khách sạn": 1.5,
+            "cưỡi": 1.5,
+            "thuyền thúng": 1.5,
+            "rừng nước dừa": 1.5,
+            "bữa ăn": 1.5,
+            "nhà hàng": 1.5,
+            "tour du lịch sinh": 1.5,
+            "khung cảnh": 1.5,
+            "khung cảnh biển": 1.5,
+            "vùng nước": 1.5,
+            "người dân địa phương": 1.5,
+            "thể thao": 1.5,
+            "vòng quay thuyền dừa": 1.5
+        }
     },
     {
         "attraction_name": "Long Phu Eco Tour",
@@ -270,7 +692,188 @@
             "https://www.tripadvisor.com/Attraction_Review-g46806-d8454263-Reviews-Sea_Girt_Beach_and_Boardwalk-Sea_Girt_New_Jersey.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d13172856-Reviews-or30-Long_Phu_Eco_Tour-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d13172856-Reviews-or20-Long_Phu_Eco_Tour-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d13172856-Reviews-or20-Long_Phu_Eco_Tour-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.9263361249842481,
+            "lớp học nấu ăn": 0.8796400499219695,
+            "vườn": 0.5,
+            "thuyền dừa": 0.7188258804380894,
+            "món ăn": 0.6637395855505019,
+            "hướng dẫn viên du lịch": 0.9955028318508994,
+            "trải nghiệm": 0.896110123815015,
+            "hướng dẫn viên": 0.9941896731615998,
+            "thuyền": 0.7477250311640091,
+            "hương vị": 0.9956163878086954,
+            "nhân viên": 0.9950183899782132,
+            "kỹ năng": 0.9941381206735969,
+            "chuyến lưu diễn": 0.9938351534074172,
+            "cánh đồng lúa": 0.5,
+            "cưỡi": 0.5,
+            "trâu nước": 0.5,
+            "thúng": 0.5,
+            "karaoke": 0.5,
+            "thuyền trưởng": 0.5,
+            "món ăn truyền thống": 0.5,
+            "phong cảnh": 0.5,
+            "chuyến đi xe đạp": 0.8737691454589367,
+            "rừng dừa": 0.9951155427261256,
+            "khách sạn": 0.9912660435365979,
+            "ẩm thực": 0.9945806892355904,
+            "tour sinh": 0.9950885531725362,
+            "khu rừng": 0.5256029795855284,
+            "người lái xe": 0.8737691454589367,
+            "con trâu": 0.9955890867277049,
+            "bể dừa": 0.9951781997224316,
+            "chuyến đi": 0.9954821390565485,
+            "hành trình nấu ăn": 0.9954797012615018,
+            "dịch vụ": 0.8737691454589367,
+            "tour du lịch": 0.8737691454589367,
+            "thuyền thúng": 0.9945800403365865
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "thoải mái",
+                "thú vị",
+                "cao",
+                "thực sự",
+                "bất kỳ",
+                "dễ thương",
+                "tuyệt vời",
+                "thú vị",
+                "sớm",
+                "nhất",
+                "tuyệt vời"
+            ],
+            "lớp học nấu ăn": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "cùng",
+                "Hay"
+            ],
+            "vườn": [],
+            "thuyền dừa": [],
+            "món ăn": [],
+            "hướng dẫn viên du lịch": [
+                "vui vẻ",
+                "niềm nở"
+            ],
+            "trải nghiệm": [
+                "thực sự",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "thân thiện"
+            ],
+            "thuyền": [
+                "thú vị",
+                "đẹp"
+            ],
+            "hương vị": [
+                "tươi"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "thân thiện"
+            ],
+            "kỹ năng": [
+                "tuyệt vời"
+            ],
+            "chuyến lưu diễn": [],
+            "cánh đồng lúa": [],
+            "cưỡi": [],
+            "trâu nước": [],
+            "thúng": [],
+            "karaoke": [],
+            "thuyền trưởng": [],
+            "món ăn truyền thống": [],
+            "phong cảnh": [],
+            "chuyến đi xe đạp": [
+                "đẹp"
+            ],
+            "rừng dừa": [
+                "đẹp"
+            ],
+            "khách sạn": [
+                "thuận tiện",
+                "tuyệt"
+            ],
+            "ẩm thực": [
+                "nhiều",
+                "thú vị"
+            ],
+            "tour sinh": [],
+            "khu rừng": [
+                "riêng"
+            ],
+            "người lái xe": [
+                "đẹp"
+            ],
+            "con trâu": [
+                "nhiều",
+                "vui",
+                "tuyệt vời"
+            ],
+            "bể dừa": [
+                "đẹp"
+            ],
+            "chuyến đi": [
+                "thú vị"
+            ],
+            "hành trình nấu ăn": [
+                "thú vị"
+            ],
+            "dịch vụ": [
+                "tuyệt"
+            ],
+            "tour du lịch": [
+                "tuyệt vời"
+            ],
+            "thuyền thúng": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 10.5,
+            "lớp học nấu ăn": 4.5,
+            "vườn": 1.5,
+            "thuyền dừa": 3.0,
+            "món ăn": 4.5,
+            "hướng dẫn viên du lịch": 3.0,
+            "trải nghiệm": 7.5,
+            "hướng dẫn viên": 1.5,
+            "thuyền": 6.0,
+            "hương vị": 1.5,
+            "nhân viên": 3.0,
+            "kỹ năng": 1.5,
+            "chuyến lưu diễn": 1.5,
+            "cánh đồng lúa": 1.5,
+            "cưỡi": 1.5,
+            "trâu nước": 1.5,
+            "thúng": 1.5,
+            "karaoke": 1.5,
+            "thuyền trưởng": 1.5,
+            "món ăn truyền thống": 1.5,
+            "phong cảnh": 1.5,
+            "chuyến đi xe đạp": 1.5,
+            "rừng dừa": 1.5,
+            "khách sạn": 3.0,
+            "ẩm thực": 1.5,
+            "tour sinh": 1.5,
+            "khu rừng": 1.5,
+            "người lái xe": 1.5,
+            "con trâu": 1.5,
+            "bể dừa": 1.5,
+            "chuyến đi": 1.5,
+            "hành trình nấu ăn": 1.5,
+            "dịch vụ": 1.5,
+            "tour du lịch": 1.5,
+            "thuyền thúng": 1.5
+        }
     },
     {
         "attraction_name": "Long Phu Eco Tour",
@@ -359,6 +962,233 @@
             "https://www.tripadvisor.com/Attraction_Review-g143046-d145053-Reviews-Washington_Pass_Overlook-North_Cascades_National_Park_Washington.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d13172856-Reviews-or40-Long_Phu_Eco_Tour-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d13172856-Reviews-or30-Long_Phu_Eco_Tour-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d13172856-Reviews-or30-Long_Phu_Eco_Tour-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.6961962089075574,
+            "vùng": 0.5,
+            "nông thôn": 0.5,
+            "thuyền": 0.5171811077743769,
+            "trải nghiệm": 0.8882010119559709,
+            "sông": 0.5,
+            "lớp học nấu ăn": 0.7577209059963934,
+            "món ăn": 0.9953352133277804,
+            "tour du lịch": 0.24295503108296543,
+            "gia đình": 0.5,
+            "công việc kinh doanh": 0.5,
+            "sinh tố xoài": 0.8737691454589367,
+            "dừa": 0.9955366622889414,
+            "cánh đồng lúa": 0.639463878585957,
+            "hướng dẫn viên": -0.9405419053509831,
+            "người hướng dẫn": 0.33740419894456863,
+            "xe đạp": 0.9339238210814074,
+            "ruộng lúa": 0.5,
+            "cưỡi trâu": 0.6868845727294683,
+            "chuyến": 0.5,
+            "thuyền dừa": 0.8300522941863164,
+            "bữa trưa": 0.5,
+            "nhà hàng": 0.7477314205607399,
+            "món giải khát": 0.42465795017778873,
+            "dịch vụ": 0.9896235670894384,
+            "tour": 0.9955018861801364,
+            "thực phẩm": 0.995484069106169,
+            "ngôi làng địa phương": 0.9950379231595434,
+            "cà phê": 0.995615100604482,
+            "quán cà phê": 0.9920311199966818,
+            "bánh xèo": 0.5,
+            "tôm": 0.5,
+            "thịt": 0.5,
+            "bữa tiệc": 0.9939576861215755,
+            "thức ăn": 0.9346783537766896,
+            "giá": 0.9337309182155877,
+            "đồ uống": 0.9862458340357989,
+            "trái cây": 0.982924094889313,
+            "buổi sáng": 0.5,
+            "chuyến tham quan bằng xe đạp": 0.9397856439463794,
+            "chuyến đi dừa": 0.9948848065687343,
+            "ăn trưa": 0.9955619837273844,
+            "quang cảnh": 0.9955734051181935,
+            "chuyến đi": 0.5,
+            "xoài": 0.5,
+            "món tráng miệng": 0.5
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "tuyệt vời"
+            ],
+            "vùng": [],
+            "nông thôn": [],
+            "thuyền": [],
+            "trải nghiệm": [
+                "thú vị",
+                "nhiều",
+                "thú vị",
+                "tuyệt vời",
+                "nhất"
+            ],
+            "sông": [],
+            "lớp học nấu ăn": [
+                "riêng"
+            ],
+            "món ăn": [
+                "tuyệt vời",
+                "nhiều",
+                "ngon"
+            ],
+            "tour du lịch": [
+                "cao"
+            ],
+            "gia đình": [],
+            "công việc kinh doanh": [],
+            "sinh tố xoài": [
+                "tuyệt vời"
+            ],
+            "dừa": [
+                "tuyệt vời"
+            ],
+            "cánh đồng lúa": [
+                "tận tình",
+                "lớn",
+                "bất ngờ"
+            ],
+            "hướng dẫn viên": [
+                "tận tình"
+            ],
+            "người hướng dẫn": [],
+            "xe đạp": [
+                "kiên nhẫn",
+                "chu đáo",
+                "đầu tiên"
+            ],
+            "ruộng lúa": [],
+            "cưỡi trâu": [
+                "vui"
+            ],
+            "chuyến": [],
+            "thuyền dừa": [
+                "tuyệt",
+                "vui",
+                "vui"
+            ],
+            "bữa trưa": [],
+            "nhà hàng": [
+                "tuyệt vời"
+            ],
+            "món giải khát": [
+                "nhẹ"
+            ],
+            "dịch vụ": [],
+            "tour": [
+                "tuyệt vời"
+            ],
+            "thực phẩm": [
+                "Đặc biệt",
+                "đủ",
+                "tuyệt vời"
+            ],
+            "ngôi làng địa phương": [
+                "xinh đẹp"
+            ],
+            "cà phê": [
+                "gần"
+            ],
+            "quán cà phê": [
+                "gần",
+                "nhỏ",
+                "dễ thương"
+            ],
+            "bánh xèo": [],
+            "tôm": [],
+            "thịt": [],
+            "bữa tiệc": [
+                "vui",
+                "giống",
+                "chắc chắn"
+            ],
+            "thức ăn": [
+                "ngon",
+                "cuối cùng",
+                "nhiều",
+                "ngon"
+            ],
+            "giá": [
+                "hợp lý"
+            ],
+            "đồ uống": [
+                "suốt"
+            ],
+            "trái cây": [
+                "suốt"
+            ],
+            "buổi sáng": [],
+            "chuyến tham quan bằng xe đạp": [
+                "chu đáo",
+                "đầu tiên"
+            ],
+            "chuyến đi dừa": [
+                "vui vẻ"
+            ],
+            "ăn trưa": [
+                "tuyệt vời"
+            ],
+            "quang cảnh": [
+                "nhiều",
+                "vui",
+                "làn gió",
+                "tuyệt vời"
+            ],
+            "chuyến đi": [],
+            "xoài": [],
+            "món tráng miệng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 3.5,
+            "vùng": 1.5,
+            "nông thôn": 1.5,
+            "thuyền": 2.5,
+            "trải nghiệm": 6.0,
+            "sông": 1.5,
+            "lớp học nấu ăn": 3.0,
+            "món ăn": 2.5,
+            "tour du lịch": 2.5,
+            "gia đình": 1.5,
+            "công việc kinh doanh": 1.5,
+            "sinh tố xoài": 1.5,
+            "dừa": 1.5,
+            "cánh đồng lúa": 2,
+            "hướng dẫn viên": 1,
+            "người hướng dẫn": 1,
+            "xe đạp": 2,
+            "ruộng lúa": 1,
+            "cưỡi trâu": 2,
+            "chuyến": 1,
+            "thuyền dừa": 3,
+            "bữa trưa": 1,
+            "nhà hàng": 2,
+            "món giải khát": 1,
+            "dịch vụ": 1,
+            "tour": 1,
+            "thực phẩm": 1,
+            "ngôi làng địa phương": 1,
+            "cà phê": 1,
+            "quán cà phê": 2,
+            "bánh xèo": 1,
+            "tôm": 1,
+            "thịt": 1,
+            "bữa tiệc": 1,
+            "thức ăn": 2,
+            "giá": 1,
+            "đồ uống": 1,
+            "trái cây": 1,
+            "buổi sáng": 1,
+            "chuyến tham quan bằng xe đạp": 1,
+            "chuyến đi dừa": 1,
+            "ăn trưa": 1,
+            "quang cảnh": 1,
+            "chuyến đi": 1,
+            "xoài": 1,
+            "món tráng miệng": 1
+        }
     }
 ]

@@ -80,6 +80,195 @@
             "https://www.tripadvisor.com/Attraction_Review-g298555-d2008063-Reviews-Canton_Tower-Guangzhou_Guangdong.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d17723205-Reviews-Onyabike_Adventures-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d17723205-Reviews-Onyabike_Adventures-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến du lịch": 0.7867496090941131,
+            "khoảng thời gian": 0.9953072104835883,
+            "phong cảnh": 0.9954039161093533,
+            "con người": 0.9351680205824474,
+            "hướng dẫn viên": 0.7940222821198404,
+            "phong tục": 0.5,
+            "ẩm thực": 0.5,
+            "lịch sử": 0.5,
+            "chuyến phiêu lưu": 0.6539671293770274,
+            "khách sạn": 0.9953801025403664,
+            "món ăn": 0.9954749430180527,
+            "tour": -0.6185063077136874,
+            "xe đạp": 0.9952805208595237,
+            "tour xe máy": 0.9357737246900797,
+            "tour du lịch": 0.9928328927198891,
+            "chuyến tham quan": 0.8466748073115014,
+            "tour 1": 0.5,
+            "điểm dừng chân": 0.5,
+            "khung cảnh": 0.9706477351622501,
+            "quán cà phê": 0.5,
+            "người dân địa phương": 0.5,
+            "xe": 0.8737691454589367,
+            "chuyến đi": 0.7857619693802137,
+            "nhà hàng": 0.995549222745467,
+            "trải nghiệm": 0.9953397571419677,
+            "đối tác kinh doanh": 0.5197409950196743,
+            "phong": 0.8737691454589367,
+            "xe máy": 0.5,
+            "địa điểm địa phương": 0.9952225632732734,
+            "chuyến đi bằng xe máy": 0.9946261814329773,
+            "com": -0.6843020264059305,
+            "điểm dừng": 0.5,
+            "kỷ niệm": 0.9944551147054881
+        },
+        "dicts_adj": {
+            "chuyến du lịch": [
+                "riêng tư",
+                "linh hoạt"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "phong cảnh": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "con người": [
+                "thân thiện",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "tốt",
+                "tuyệt vời",
+                "xuất sắc",
+                "chính xác"
+            ],
+            "phong tục": [],
+            "ẩm thực": [],
+            "lịch sử": [],
+            "chuyến phiêu lưu": [
+                "cùng"
+            ],
+            "khách sạn": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "món ăn": [
+                "tuyệt vời"
+            ],
+            "tour": [
+                "đủ"
+            ],
+            "xe đạp": [
+                "hoàn toàn",
+                "tốt",
+                "nhiều",
+                "tuyệt vời",
+                "thoải mái",
+                "tuyệt vời",
+                "tuyệt vời",
+                "thoải mái"
+            ],
+            "tour xe máy": [
+                "chuyên nghiệp"
+            ],
+            "tour du lịch": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "cần thiết",
+                "tuyệt đối",
+                "khắp",
+                "thực sự"
+            ],
+            "tour 1": [],
+            "điểm dừng chân": [],
+            "khung cảnh": [
+                "đẹp",
+                "khác biệt",
+                "tuyệt vời",
+                "nhất"
+            ],
+            "quán cà phê": [],
+            "người dân địa phương": [],
+            "xe": [
+                "thoải mái"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "vui",
+                "chắc chắn",
+                "phải",
+                "cuối cùng",
+                "cao",
+                "sớm",
+                "khác"
+            ],
+            "nhà hàng": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "thực sự",
+                "chuyên nghiệp",
+                "tuyệt vời"
+            ],
+            "đối tác kinh doanh": [
+                "cùng"
+            ],
+            "phong": [
+                "cùng"
+            ],
+            "xe máy": [],
+            "địa điểm địa phương": [
+                "tuyệt khi",
+                "đông",
+                "xa",
+                "hơn",
+                "cơ bản"
+            ],
+            "chuyến đi bằng xe máy": [
+                "tuyệt vời"
+            ],
+            "com": [],
+            "điểm dừng": [],
+            "kỷ niệm": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến du lịch": 2.5,
+            "khoảng thời gian": 1,
+            "phong cảnh": 1.5,
+            "con người": 1.5,
+            "hướng dẫn viên": 2.5,
+            "phong tục": 1,
+            "ẩm thực": 1,
+            "lịch sử": 1,
+            "chuyến phiêu lưu": 1.5,
+            "khách sạn": 2,
+            "món ăn": 1,
+            "tour": 1,
+            "xe đạp": 2.0,
+            "tour xe máy": 1,
+            "tour du lịch": 2,
+            "chuyến tham quan": 2.0,
+            "tour 1": 1,
+            "điểm dừng chân": 1,
+            "khung cảnh": 1.5,
+            "quán cà phê": 1,
+            "người dân địa phương": 1,
+            "xe": 1,
+            "chuyến đi": 3.5,
+            "nhà hàng": 1,
+            "trải nghiệm": 1.5,
+            "đối tác kinh doanh": 0.5,
+            "phong": 0.5,
+            "xe máy": 0.5,
+            "địa điểm địa phương": 0.5,
+            "chuyến đi bằng xe máy": 0.5,
+            "com": 0.5,
+            "điểm dừng": 0.5,
+            "kỷ niệm": 0.5
+        }
     }
 ]

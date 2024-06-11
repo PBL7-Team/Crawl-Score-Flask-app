@@ -93,6 +93,72 @@
             "https://www.tripadvisor.com/Attraction_Review-g34515-d17735125-Reviews-Star_Wars_Galaxy_s_Edge-Orlando_Florida.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298086-d25565006-Reviews-Spa_Song_Ngoc-Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298086-d25565006-Reviews-Spa_Song_Ngoc-Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.8737691454589367,
+            "massage": 0.903492294724856,
+            "trà": 0.7477889394504018,
+            "bánh ngọt": 0.5,
+            "giá cả": 0.9529069985728711,
+            "nhân viên": 0.38250534451799467,
+            "giá": 0.5199122410267591,
+            "khách sạn": 0.5,
+            "dịch vụ mát-xa này ở": 0.9950582056189887,
+            "massage đá nóng": 0.9860247587785125
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tốt"
+            ],
+            "massage": [
+                "ngon",
+                "tốt",
+                "tốt",
+                "chuyên nghiệp",
+                "tuyệt vời"
+            ],
+            "trà": [
+                "ngon",
+                "thư giãn"
+            ],
+            "bánh ngọt": [],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "nhân viên": [
+                "nhỏ",
+                "thân thiện"
+            ],
+            "giá": [
+                "nhỏ"
+            ],
+            "khách sạn": [],
+            "dịch vụ mát-xa này ở": [
+                "rẻ",
+                "hơn",
+                "quan trọng",
+                "hơn",
+                "tốt",
+                "hơn"
+            ],
+            "massage đá nóng": [
+                "đặc biệt",
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 1,
+            "massage": 4,
+            "trà": 2,
+            "bánh ngọt": 1,
+            "giá cả": 1,
+            "nhân viên": 3,
+            "giá": 2,
+            "khách sạn": 2,
+            "dịch vụ mát-xa này ở": 2,
+            "massage đá nóng": 2
+        }
     }
 ]

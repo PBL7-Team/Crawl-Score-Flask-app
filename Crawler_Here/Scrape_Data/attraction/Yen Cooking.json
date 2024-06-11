@@ -89,6 +89,89 @@
             "https://www.tripadvisor.com/Attraction_Review-g41573-d8677369-Reviews-Patriot_Place-Foxborough_Massachusetts.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d10088687-Reviews-Yen_Cooking-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d10088687-Reviews-Yen_Cooking-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bếp trưởng": 0.8737691454589367,
+            "đại sứ quán": 0.8737691454589367,
+            "bữa ăn": 0.5,
+            "nem tươi": 0.5,
+            "salad hoa": 0.5,
+            "chuối": 0.5,
+            "chợ": 0.5109405815601349,
+            "nước sốt": -0.20839806832373142,
+            "rau": -0.21530255128163844,
+            "bột ngô": 0.5,
+            "giá": 0.8737691454589367,
+            "sinh viên": 0.6119215115904808,
+            "lớp học": 0.7296550732571632,
+            "người nấu ăn": 0.9673588292207569,
+            "món tây truyền thống": 0.8737691454589367,
+            "giáo viên": 0.9955167641164735,
+            "đầu bếp": 0.9939896668074653
+        },
+        "dicts_adj": {
+            "bếp trưởng": [
+                "nhiều"
+            ],
+            "đại sứ quán": [
+                "nhiều"
+            ],
+            "bữa ăn": [],
+            "nem tươi": [],
+            "salad hoa": [],
+            "chuối": [],
+            "chợ": [],
+            "nước sốt": [
+                "khác",
+                "quan trọng"
+            ],
+            "rau": [
+                "khác",
+                "quan trọng"
+            ],
+            "bột ngô": [],
+            "giá": [
+                "trẻ"
+            ],
+            "sinh viên": [
+                "trẻ"
+            ],
+            "lớp học": [],
+            "người nấu ăn": [
+                "giỏi"
+            ],
+            "món tây truyền thống": [
+                "giỏi"
+            ],
+            "giáo viên": [
+                "Hơn",
+                "đầy"
+            ],
+            "đầu bếp": [
+                "Đặc biệt",
+                "đầy"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bếp trưởng": 0.5,
+            "đại sứ quán": 0.5,
+            "bữa ăn": 0.5,
+            "nem tươi": 0.5,
+            "salad hoa": 0.5,
+            "chuối": 0.5,
+            "chợ": 0.5,
+            "nước sốt": 0.5,
+            "rau": 0.5,
+            "bột ngô": 0.5,
+            "giá": 0.5,
+            "sinh viên": 0.5,
+            "lớp học": 1.0,
+            "người nấu ăn": 0.5,
+            "món tây truyền thống": 0.5,
+            "giáo viên": 0.5,
+            "đầu bếp": 0.5
+        }
     }
 ]

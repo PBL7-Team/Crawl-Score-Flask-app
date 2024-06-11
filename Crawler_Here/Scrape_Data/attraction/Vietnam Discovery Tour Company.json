@@ -62,6 +62,42 @@
             "https://www.tripadvisor.com/Attraction_Review-g54273-d4400695-Reviews-Folly_Field_Beach_Park-Hilton_Head_South_Carolina.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d17327233-Reviews-Vietnam_Discovery_Tour_Company-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d17327233-Reviews-Vietnam_Discovery_Tour_Company-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.5,
+            "thuyền": 0.5064338352531195,
+            "vịnh": 0.5,
+            "chuyến đi": 0.9955262094154023,
+            "bữa trưa": 0.5,
+            "dịch vụ": 0.8737691454589367,
+            "phi hành đoàn": 0.5
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [],
+            "thuyền": [
+                "nhỏ"
+            ],
+            "vịnh": [],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "bữa trưa": [],
+            "dịch vụ": [
+                "tốt"
+            ],
+            "phi hành đoàn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 0.5,
+            "thuyền": 0.5,
+            "vịnh": 0.5,
+            "chuyến đi": 0.5,
+            "bữa trưa": 0.5,
+            "dịch vụ": 0.5,
+            "phi hành đoàn": 0.5
+        }
     }
 ]

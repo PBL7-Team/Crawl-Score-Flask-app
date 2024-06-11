@@ -143,7 +143,197 @@
             "https://www.tripadvisor.com/Attraction_Review-g298087-d574818-Reviews-Socotra_Island-Aden.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-or10-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.8956590756773949,
+            "váy": 0.9555498724803329,
+            "quần": 0.5,
+            "cổ và": 0.9945837268023752,
+            "bộ": 0.5584738552570343,
+            "quần áo": 0.7117073217523284,
+            "chất lượng": 0.5528430629832048,
+            "thợ may": 0.34447651356458664,
+            "dịch vụ": 0.6286699200039342,
+            "món đồ": 0.9955626498558559,
+            "quần áo mới": 0.9952611900516786,
+            "chủ đường may": 0.9956131246872246,
+            "mặt hàng": 0.9917883736779913,
+            "tiệm may": 0.8737691454589367,
+            "nhân viên": 0.7976872640138026,
+            "tầm nhìn": 0.5640578102320433,
+            "vải": 0.7471123839107652,
+            "sản phẩm": 0.5,
+            "hàng may": 0.5,
+            "kinh nghiệm may đo": 0.9909795901039615,
+            "áo khoác": 0.7177759311161935,
+            "áo blazer": 0.5,
+            "cửa hàng": 0.5,
+            "bộ đồ": 0.9607085271272808,
+            "áo sơ mi": -0.1978908374439925,
+            "quần dài": 0.5,
+            "chất liệu": 0.5,
+            "blue": 0.9864638592116535,
+            "áo sơ mi vải lanh": -0.8927706577815115,
+            "thủng lỗ": 0.5,
+            "đường viền": -0.8266193885356188,
+            "áo cũ": 0.7237813592655584,
+            "xúc phạm": 0.9698666501790285,
+            "dịch vụ chăm sóc": 0.992322308185976,
+            "trang phục sinh": 0.5,
+            "sản phẩm chất lượng": 0.9954108292004094,
+            "mắt xanh": 0.9932004816946574
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "váy": [],
+            "quần": [],
+            "cổ và": [],
+            "bộ": [
+                "cao",
+                "sẵn"
+            ],
+            "quần áo": [
+                "cao",
+                "sẵn",
+                "tuyệt vời",
+                "đầy"
+            ],
+            "chất lượng": [
+                "cao",
+                "sẵn",
+                "tuyệt vời",
+                "chắc chắn",
+                "hài lòng"
+            ],
+            "thợ may": [
+                "khác"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "nhanh",
+                "tốt",
+                "Hoàn toàn"
+            ],
+            "món đồ": [
+                "nhanh nhẹn"
+            ],
+            "quần áo mới": [],
+            "chủ đường may": [
+                "vui",
+                "xuất sắc",
+                "hữu ích"
+            ],
+            "mặt hàng": [
+                "sẵn sàng"
+            ],
+            "tiệm may": [
+                "đẹp"
+            ],
+            "nhân viên": [
+                "xinh",
+                "kém"
+            ],
+            "tầm nhìn": [
+                "sống động",
+                "nhiều"
+            ],
+            "vải": [
+                "tuyệt vời",
+                "chắc chắn",
+                "hài lòng"
+            ],
+            "sản phẩm": [],
+            "hàng may": [],
+            "kinh nghiệm may đo": [
+                "tốt"
+            ],
+            "áo khoác": [
+                "cuối cùng"
+            ],
+            "áo blazer": [],
+            "cửa hàng": [],
+            "bộ đồ": [
+                "tuyệt vời"
+            ],
+            "áo sơ mi": [
+                "giống",
+                "giống"
+            ],
+            "quần dài": [],
+            "chất liệu": [],
+            "blue": [
+                "già nua"
+            ],
+            "áo sơ mi vải lanh": [
+                "nhiều"
+            ],
+            "thủng lỗ": [],
+            "đường viền": [
+                "giống"
+            ],
+            "áo cũ": [
+                "đẹp",
+                "hơn"
+            ],
+            "xúc phạm": [
+                "tốt"
+            ],
+            "dịch vụ chăm sóc": [
+                "tốt"
+            ],
+            "trang phục sinh": [],
+            "sản phẩm chất lượng": [
+                "tốt",
+                "vui"
+            ],
+            "mắt xanh": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 5,
+            "váy": 1,
+            "quần": 1,
+            "cổ và": 1,
+            "bộ": 1,
+            "quần áo": 2,
+            "chất lượng": 2,
+            "thợ may": 1,
+            "dịch vụ": 4,
+            "món đồ": 1,
+            "quần áo mới": 1,
+            "chủ đường may": 1,
+            "mặt hàng": 1,
+            "tiệm may": 1,
+            "nhân viên": 1,
+            "tầm nhìn": 1,
+            "vải": 2,
+            "sản phẩm": 1,
+            "hàng may": 1,
+            "kinh nghiệm may đo": 1,
+            "áo khoác": 2,
+            "áo blazer": 1,
+            "cửa hàng": 1,
+            "bộ đồ": 3,
+            "áo sơ mi": 2,
+            "quần dài": 1,
+            "chất liệu": 1,
+            "blue": 1,
+            "áo sơ mi vải lanh": 1,
+            "thủng lỗ": 1,
+            "đường viền": 1,
+            "áo cũ": 1,
+            "xúc phạm": 1,
+            "dịch vụ chăm sóc": 1,
+            "trang phục sinh": 1,
+            "sản phẩm chất lượng": 1,
+            "mắt xanh": 1
+        }
     },
     {
         "attraction_name": "Blue Eye Tailor",
@@ -273,7 +463,77 @@
             "https://www.tripadvisor.com/Attraction_Review-g318867-d18920532-Reviews-The_Blue_Eye-Gjirokaster_Gjirokaster_County.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-or20-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-or10-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-or10-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9952527800342068,
+            "váy": 0.8583023552782834,
+            "quần": 0.5,
+            "cổ và": 0.9940933906473219,
+            "bộ": 0.6786780605713526,
+            "quần áo": 0.5627695665073892,
+            "chất lượng": -0.5713756429031491,
+            "thợ may": 0.34447651356458664,
+            "dịch vụ": 0.5,
+            "khoảng thời gian": 0.9949639403494075,
+            "bộ vest": -0.040319740772247314,
+            "quần dài": -0.5273814052343369,
+            "áo khoác thể thao": 0.4071576977148652
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "váy": [],
+            "quần": [],
+            "cổ và": [],
+            "bộ": [
+                "cao",
+                "riêng",
+                "cao"
+            ],
+            "quần áo": [
+                "cao",
+                "riêng",
+                "cao"
+            ],
+            "chất lượng": [
+                "cao"
+            ],
+            "thợ may": [
+                "khác"
+            ],
+            "dịch vụ": [],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "bộ vest": [
+                "xám"
+            ],
+            "quần dài": [
+                "xám"
+            ],
+            "áo khoác thể thao": [
+                "xám",
+                "xanh"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 1,
+            "váy": 1,
+            "quần": 1,
+            "cổ và": 1,
+            "bộ": 3,
+            "quần áo": 3,
+            "chất lượng": 1,
+            "thợ may": 1,
+            "dịch vụ": 1,
+            "khoảng thời gian": 2,
+            "bộ vest": 2,
+            "quần dài": 2,
+            "áo khoác thể thao": 2
+        }
     },
     {
         "attraction_name": "Blue Eye Tailor",
@@ -421,7 +681,38 @@
             "https://www.tripadvisor.com/Attraction_Review-g51907-d5123928-Reviews-Roloff_Farms-Hillsboro_Oregon.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-or30-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-or20-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-or20-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ chăm sóc": 0.992322308185976,
+            "trang phục sinh": 0.5,
+            "sản phẩm chất lượng": 0.9954695367487147,
+            "dịch vụ": 0.9955192976049148
+        },
+        "dicts_adj": {
+            "dịch vụ chăm sóc": [
+                "tốt"
+            ],
+            "trang phục sinh": [],
+            "sản phẩm chất lượng": [
+                "tốt",
+                "háo hức"
+            ],
+            "dịch vụ": [
+                "thực sự",
+                "tốt",
+                "hài lòng",
+                "thực sự",
+                "tốt bụng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ chăm sóc": 1,
+            "trang phục sinh": 1,
+            "sản phẩm chất lượng": 1,
+            "dịch vụ": 2
+        }
     },
     {
         "attraction_name": "Blue Eye Tailor",
@@ -569,7 +860,95 @@
             "https://www.tripadvisor.com/Attraction_Review-g30466-d6872573-Reviews-Smith_Lake_Park-Cullman_Alabama.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-or40-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-or30-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-or30-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9952527800342068,
+            "váy": 0.8583023552782834,
+            "quần": 0.5,
+            "cổ và": 0.9940933906473219,
+            "bộ": 0.4956408962607384,
+            "quần áo": 0.19330516271293163,
+            "chất lượng": 0.21161337740098435,
+            "thợ may": 0.34447651356458664,
+            "dịch vụ": 0.8297431780568635,
+            "cửa hàng": 0.8737691454589367,
+            "nhân viên": 0.7985309066134505,
+            "tầm nhìn": 0.9717013291083276,
+            "vải": 0.9942247678215305,
+            "sản phẩm": 0.5,
+            "trang phục": 0.9948815103853121,
+            "bộ đồ": 0.5,
+            "bia họ": 0.9955598819651641
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "váy": [],
+            "quần": [],
+            "cổ và": [],
+            "bộ": [
+                "cao"
+            ],
+            "quần áo": [
+                "cao"
+            ],
+            "chất lượng": [
+                "cao",
+                "tuyệt vời",
+                "chắc chắn",
+                "hài lòng"
+            ],
+            "thợ may": [
+                "khác"
+            ],
+            "dịch vụ": [
+                "tốt"
+            ],
+            "cửa hàng": [
+                "may",
+                "đẹp"
+            ],
+            "nhân viên": [
+                "đẹp",
+                "kém"
+            ],
+            "tầm nhìn": [
+                "nhiều"
+            ],
+            "vải": [
+                "tuyệt vời",
+                "chắc chắn",
+                "hài lòng"
+            ],
+            "sản phẩm": [],
+            "trang phục": [],
+            "bộ đồ": [],
+            "bia họ": [
+                "ngon"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 1,
+            "váy": 1,
+            "quần": 1,
+            "cổ và": 1,
+            "bộ": 1,
+            "quần áo": 1,
+            "chất lượng": 2,
+            "thợ may": 1,
+            "dịch vụ": 3,
+            "cửa hàng": 1,
+            "nhân viên": 1,
+            "tầm nhìn": 1,
+            "vải": 1,
+            "sản phẩm": 1,
+            "trang phục": 1,
+            "bộ đồ": 2,
+            "bia họ": 2
+        }
     },
     {
         "attraction_name": "Blue Eye Tailor",
@@ -700,7 +1079,39 @@
             "https://www.tripadvisor.com/Attraction_Review-g32066-d270551-Reviews-Berkeley_Municipal_Rose_Garden-Berkeley_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-or50-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-or40-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-or40-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ đồ": 0.6601686859503388,
+            "bộ vest": 0.4702860716206487,
+            "áo khoác": 0.5,
+            "áo vest": 0.5,
+            "quần dài": 0.5,
+            "chất lượng": 0.8800201611593366
+        },
+        "dicts_adj": {
+            "bộ đồ": [],
+            "bộ vest": [
+                "đẹp",
+                "xanh"
+            ],
+            "áo khoác": [],
+            "áo vest": [],
+            "quần dài": [],
+            "chất lượng": [
+                "Vừa vặn",
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ đồ": 1,
+            "bộ vest": 2,
+            "áo khoác": 2,
+            "áo vest": 2,
+            "quần dài": 2,
+            "chất lượng": 2
+        }
     },
     {
         "attraction_name": "Blue Eye Tailor",
@@ -831,7 +1242,20 @@
             "https://www.tripadvisor.com/Attraction_Review-g53009-d2550133-Reviews-Country_Junction-Lehighton_Pocono_Mountains_Region_Pennsylvania.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-or60-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-or50-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-or50-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ đồ": 0.9953104924061336
+        },
+        "dicts_adj": {
+            "bộ đồ": [
+                "vừa vặn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ đồ": 2
+        }
     },
     {
         "attraction_name": "Blue Eye Tailor",
@@ -962,7 +1386,36 @@
             "https://www.tripadvisor.com/Attraction_Review-g48158-d7261537-Reviews-Norman_J_Levy_Park_Preserve-Merrick_Long_Island_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-or70-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-or60-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-or60-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "mi": 0.9230767684057355,
+            "xúc phạm": 0.9646929888986051,
+            "trải nghiệm": 0.9954804118024185,
+            "trang phục": 0.9941066597821191
+        },
+        "dicts_adj": {
+            "mi": [
+                "nhiều"
+            ],
+            "xúc phạm": [
+                "nhất",
+                "quanh co"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "trang phục": [
+                "vui"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "mi": 1,
+            "xúc phạm": 1,
+            "trải nghiệm": 2,
+            "trang phục": 2
+        }
     },
     {
         "attraction_name": "Blue Eye Tailor",
@@ -1094,6 +1547,39 @@
             "https://www.tripadvisor.com/Attraction_Review-g32276-d11687874-Reviews-Cypress_Swap_Meet-Cypress_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-or80-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-or70-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3494128-Reviews-or70-Blue_Eye_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quần áo": 0.9940819664625451,
+            "món đồ": 0.9955897239851765,
+            "quần áo mới": 0.9953774490277283,
+            "trải nghiệm may": 0.9951745255384594,
+            "áo khoác": 0.5,
+            "cửa hàng": 0.5
+        },
+        "dicts_adj": {
+            "quần áo": [
+                "tuyệt vời",
+                "đầy"
+            ],
+            "món đồ": [
+                "nhanh chóng"
+            ],
+            "quần áo mới": [],
+            "trải nghiệm may": [
+                "tuyệt vời"
+            ],
+            "áo khoác": [],
+            "cửa hàng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quần áo": 1,
+            "món đồ": 1,
+            "quần áo mới": 1,
+            "trải nghiệm may": 1,
+            "áo khoác": 1,
+            "cửa hàng": 1
+        }
     }
 ]

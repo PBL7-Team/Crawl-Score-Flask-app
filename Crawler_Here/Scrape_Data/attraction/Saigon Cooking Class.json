@@ -79,7 +79,250 @@
             "https://www.tripadvisor.com/Attraction_Review-g187439-d1985470-Reviews-Marbella_Food_Market-Marbella_Costa_del_Sol_Province_of_Malaga_Andalucia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or10-Saigon_Cooking_Class-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-Saigon_Cooking_Class-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-Saigon_Cooking_Class-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "lớp học nấu ăn": 0.9671883423521649,
+            "thức ăn": 0.995386695722118,
+            "đầu bếp": 0.9736747818533331,
+            "chỗ": -0.18231089040637016,
+            "lớp học": 0.7118986072600819,
+            "ứng dụng": 0.508461881428957,
+            "nhân viên": -0.9610537984408438,
+            "học viên": 0.9854299256112427,
+            "chuyến tham quan": 0.8737691454589367,
+            "chợ": 0.6175607002340257,
+            "món ăn": 0.5,
+            "dụng cụ nấu ăn mới": 0.5,
+            "tự chiên": 0.5,
+            "chả giò": 0.5,
+            "mì yến": 0.5,
+            "điều hòa": 0.5,
+            "không khí": 0.5,
+            "trà đá": 0.5,
+            "công thức nấu ăn": 0.5603231331333518,
+            "gỏi": 0.5,
+            "xoài xanh": 0.5,
+            "- gà bbq": 0.5,
+            "cơm chiên sen": 0.5,
+            "rượu vang": 0.5,
+            "bữa ăn": 0.5,
+            "chuyến tham quan chợ": 0.7943390067666769,
+            "nguyên": 0.5284864902496338,
+            "ẩm thực": 0.5,
+            "buổi sáng": 0.9952196751837619,
+            "bữa trưa": 0.5,
+            "chỉ dẫn": 0.9885585396550596,
+            "bữa ăn 3 món": 0.9952523655956611,
+            "món tráng miệng -": 0.5,
+            "trải nghiệm": 0.9947404073318467,
+            "văn hóa ẩm thực địa phương": 0.5,
+            "nhà hàng": 0.8737691454589367,
+            "bữa tối": 0.9955919133499265,
+            "hướng dẫn viên": 0.8737691454589367,
+            "thực phẩm": 0.5,
+            "trường dạy nấu ăn": 0.536125410348177,
+            "bếp nấu": 0.7353914026170969,
+            "dụng cụ": 0.035116661339998245,
+            "món súp": 0.5,
+            "salad": 0.5,
+            "thịt lợn": 0.5,
+            "tôm": 0.5,
+            "gà": 0.5,
+            "đội ngũ": 0.8737691454589367,
+            "người hướng dẫn": 0.5367843937128782,
+            "giá": 0.9597121473634616,
+            "chuyến du lịch": 0.9914353007916361
+        },
+        "dicts_adj": {
+            "lớp học nấu ăn": [
+                "hài lòng",
+                "vui",
+                "tuyệt vời",
+                "nhất",
+                "chuyên nghiệp",
+                "vui vẻ",
+                "thú vị",
+                "tốt"
+            ],
+            "thức ăn": [
+                "ngon",
+                "thú vị"
+            ],
+            "đầu bếp": [
+                "rõ",
+                "giỏi",
+                "dễ"
+            ],
+            "chỗ": [
+                "chính xác"
+            ],
+            "lớp học": [
+                "suôn sẻ",
+                "nhiều",
+                "đúng",
+                "vội vã",
+                "nhiều",
+                "rõ",
+                "hơn"
+            ],
+            "ứng dụng": [],
+            "nhân viên": [
+                "sai"
+            ],
+            "học viên": [
+                "hài lòng"
+            ],
+            "chuyến tham quan": [
+                "hay",
+                "nhiều",
+                "nhỏ",
+                "dễ dàng",
+                "hơn"
+            ],
+            "chợ": [
+                "hay",
+                "nhiều",
+                "nhỏ",
+                "dễ dàng",
+                "hơn",
+                "nhiều"
+            ],
+            "món ăn": [],
+            "dụng cụ nấu ăn mới": [],
+            "tự chiên": [],
+            "chả giò": [],
+            "mì yến": [],
+            "điều hòa": [],
+            "không khí": [],
+            "trà đá": [],
+            "công thức nấu ăn": [
+                "nhỏ"
+            ],
+            "gỏi": [],
+            "xoài xanh": [],
+            "- gà bbq": [],
+            "cơm chiên sen": [],
+            "rượu vang": [],
+            "bữa ăn": [],
+            "chuyến tham quan chợ": [
+                "tốt"
+            ],
+            "nguyên": [
+                "tốt"
+            ],
+            "ẩm thực": [],
+            "buổi sáng": [
+                "đẹp"
+            ],
+            "bữa trưa": [],
+            "chỉ dẫn": [
+                "rõ ràng"
+            ],
+            "bữa ăn 3 món": [
+                "tuyệt vời"
+            ],
+            "món tráng miệng -": [],
+            "trải nghiệm": [
+                "đáng giá",
+                "tuyệt vời",
+                "tuyệt vời",
+                "phải",
+                "rẻ",
+                "nhất",
+                "đặc biệt",
+                "thú vị"
+            ],
+            "văn hóa ẩm thực địa phương": [],
+            "nhà hàng": [
+                "tuyệt vời"
+            ],
+            "bữa tối": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "nhiều"
+            ],
+            "thực phẩm": [],
+            "trường dạy nấu ăn": [
+                "cần thiết"
+            ],
+            "bếp nấu": [
+                "cần thiết"
+            ],
+            "dụng cụ": [
+                "cần thiết"
+            ],
+            "món súp": [],
+            "salad": [],
+            "thịt lợn": [],
+            "tôm": [],
+            "gà": [],
+            "đội ngũ": [
+                "chuyên nghiệp",
+                "vui vẻ",
+                "thú vị"
+            ],
+            "người hướng dẫn": [],
+            "giá": [
+                "tốt"
+            ],
+            "chuyến du lịch": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "lớp học nấu ăn": 5.0,
+            "thức ăn": 2.5,
+            "đầu bếp": 3.0,
+            "chỗ": 1,
+            "lớp học": 2.0,
+            "ứng dụng": 1,
+            "nhân viên": 0.5,
+            "học viên": 0.5,
+            "chuyến tham quan": 0.5,
+            "chợ": 1.5,
+            "món ăn": 1.0,
+            "dụng cụ nấu ăn mới": 0.5,
+            "tự chiên": 0.5,
+            "chả giò": 1.0,
+            "mì yến": 0.5,
+            "điều hòa": 0.5,
+            "không khí": 0.5,
+            "trà đá": 0.5,
+            "công thức nấu ăn": 1.0,
+            "gỏi": 0.5,
+            "xoài xanh": 0.5,
+            "- gà bbq": 0.5,
+            "cơm chiên sen": 0.5,
+            "rượu vang": 0.5,
+            "bữa ăn": 0.5,
+            "chuyến tham quan chợ": 0.5,
+            "nguyên": 0.5,
+            "ẩm thực": 0.5,
+            "buổi sáng": 0.5,
+            "bữa trưa": 0.5,
+            "chỉ dẫn": 0.5,
+            "bữa ăn 3 món": 0.5,
+            "món tráng miệng -": 0.5,
+            "trải nghiệm": 2.0,
+            "văn hóa ẩm thực địa phương": 0.5,
+            "nhà hàng": 0.5,
+            "bữa tối": 0.5,
+            "hướng dẫn viên": 0.5,
+            "thực phẩm": 0.5,
+            "trường dạy nấu ăn": 0.5,
+            "bếp nấu": 0.5,
+            "dụng cụ": 0.5,
+            "món súp": 0.5,
+            "salad": 0.5,
+            "thịt lợn": 0.5,
+            "tôm": 0.5,
+            "gà": 0.5,
+            "đội ngũ": 0.5,
+            "người hướng dẫn": 0.5,
+            "giá": 0.5,
+            "chuyến du lịch": 0.5
+        }
     },
     {
         "attraction_name": "Saigon Cooking Class",
@@ -183,7 +426,276 @@
             "https://www.tripadvisor.com/Attraction_Review-g46054-d145647-Reviews-Sabbaday_Falls-Conway_New_Hampshire.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or20-Saigon_Cooking_Class-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or10-Saigon_Cooking_Class-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or10-Saigon_Cooking_Class-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "buổi học": 0.9584033940918744,
+            "thức ăn": 0.9955284969182685,
+            "chuyến tham quan": 0.914369874226395,
+            "chợ vẫn": 0.008852270198985934,
+            "lớp học nấu ăn": 0.4553022264444735,
+            "chất lượng": 0.5,
+            "lớp học": 0.6249044866611561,
+            "người hướng dẫn": 0.5,
+            "đồ ăn": 0.5,
+            "trường dạy nấu ăn": -0.711523748934269,
+            "giao thông": 0.5,
+            "đường phố": 0.5,
+            "khoảng thời gian": 0.994602415303234,
+            "nhân viên": 0.9800057798856869,
+            "đồ ăn thì": 0.9954700215021148,
+            "trường học": 0.9954767715535127,
+            "suất ăn chay": 0.5,
+            "buổi sáng": 0.9346701748436317,
+            "môi trường": 0.7619321750535164,
+            "ly hướng dẫn": 0.8737691454589367,
+            "món": -0.9228071204852313,
+            "-": -0.21864793938584626,
+            "xôi nếp": 0.10372088244184852,
+            "phở": 0.5,
+            "bánh xèo": 0.5,
+            "món rán": 0.6787477470934391,
+            "thảm họa": 0.5,
+            "món ăn": 0.9563266186014516,
+            "nhà hàng": 0.5,
+            "bằng taxi": 0.5160491317510605,
+            "bữa ăn ba món": 0.9933837614953518,
+            "chef ly": 0.8737691454589367,
+            "chợ": 0.9955810217070393,
+            "thực phẩm": -0.9693653802387416,
+            "trải nghiệm": 0.9954438324202783,
+            "menu": 0.6395413475111127,
+            "nguyên liệu": -0.18012134381569922,
+            "trợ lý đầu bếp": 0.9954479487787466,
+            "con người": 0.7476744678569958,
+            "nền văn hóa": 0.9899254699703306,
+            "đầu bếp ly": 0.8737691454589367,
+            "kỹ năng giảng dạy": 0.9953650489915162,
+            "trợ lý": 0.9949005076196045,
+            "đầu bếp": 0.9482320754905231,
+            "công cụ": 0.5131628438830376,
+            "vùng đất": 0.5,
+            "giảng viên": 0.9954952622647397,
+            "trường": 0.8737691454589367,
+            "nhiệm vụ": 0.5,
+            "sản phẩm": 0.9851823729695752,
+            "đầu bếp giỏi": 0.8988194167613983
+        },
+        "dicts_adj": {
+            "buổi học": [
+                "tốt"
+            ],
+            "thức ăn": [
+                "ngon"
+            ],
+            "chuyến tham quan": [
+                "ổn",
+                "khác",
+                "đầy đủ",
+                "nhiều",
+                "thú vị"
+            ],
+            "chợ vẫn": [
+                "ổn",
+                "khác"
+            ],
+            "lớp học nấu ăn": [
+                "Phần tệ",
+                "chu đáo",
+                "thú vị",
+                "thực sự"
+            ],
+            "chất lượng": [],
+            "lớp học": [
+                "đầy",
+                "thú vị"
+            ],
+            "người hướng dẫn": [],
+            "đồ ăn": [],
+            "trường dạy nấu ăn": [
+                "ngắn",
+                "thông thường",
+                "nghiêm trọng"
+            ],
+            "giao thông": [],
+            "đường phố": [],
+            "khoảng thời gian": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "tuyệt vời",
+                "mới",
+                "nhất",
+                "vui",
+                "cao"
+            ],
+            "đồ ăn thì": [
+                "tuyệt vời"
+            ],
+            "trường học": [
+                "hữu ích"
+            ],
+            "suất ăn chay": [],
+            "buổi sáng": [
+                "dễ chịu",
+                "rõ ràng",
+                "tuyệt vời"
+            ],
+            "môi trường": [
+                "dễ chịu",
+                "rõ ràng"
+            ],
+            "ly hướng dẫn": [
+                "dễ chịu",
+                "rõ ràng"
+            ],
+            "món": [
+                "phải"
+            ],
+            "-": [
+                "truyền thống",
+                "hơn"
+            ],
+            "xôi nếp": [
+                "truyền thống",
+                "hơn"
+            ],
+            "phở": [],
+            "bánh xèo": [],
+            "món rán": [
+                "phải"
+            ],
+            "thảm họa": [],
+            "món ăn": [
+                "nhỏ",
+                "thực sự",
+                "ngon",
+                "tuyệt vời",
+                "đẹp mắt",
+                "thú vị"
+            ],
+            "nhà hàng": [],
+            "bằng taxi": [],
+            "bữa ăn ba món": [],
+            "chef ly": [
+                "tuyệt vời"
+            ],
+            "chợ": [
+                "đầy đủ"
+            ],
+            "thực phẩm": [
+                "khác"
+            ],
+            "trải nghiệm": [
+                "thực sự",
+                "thú vị",
+                "thú vị"
+            ],
+            "menu": [
+                "Chắc chắn",
+                "khác"
+            ],
+            "nguyên liệu": [
+                "khác"
+            ],
+            "trợ lý đầu bếp": [
+                "nhiều",
+                "thú vị"
+            ],
+            "con người": [
+                "thú vị"
+            ],
+            "nền văn hóa": [
+                "thú vị"
+            ],
+            "đầu bếp ly": [
+                "tuyệt vời"
+            ],
+            "kỹ năng giảng dạy": [
+                "tuyệt vời"
+            ],
+            "trợ lý": [
+                "mới"
+            ],
+            "đầu bếp": [
+                "mới",
+                "tuyệt vời"
+            ],
+            "công cụ": [
+                "khác"
+            ],
+            "vùng đất": [],
+            "giảng viên": [
+                "chuyên nghiệp",
+                "ấm áp"
+            ],
+            "trường": [
+                "tốt"
+            ],
+            "nhiệm vụ": [],
+            "sản phẩm": [
+                "đẹp mắt",
+                "thú vị"
+            ],
+            "đầu bếp giỏi": [
+                "phải"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "buổi học": 0.5,
+            "thức ăn": 0.5,
+            "chuyến tham quan": 1.5,
+            "chợ vẫn": 0.5,
+            "lớp học nấu ăn": 2.0,
+            "chất lượng": 0.5,
+            "lớp học": 1.5,
+            "người hướng dẫn": 0.5,
+            "đồ ăn": 1.0,
+            "trường dạy nấu ăn": 0.5,
+            "giao thông": 0.5,
+            "đường phố": 0.5,
+            "khoảng thời gian": 1.0,
+            "nhân viên": 1.0,
+            "đồ ăn thì": 0.5,
+            "trường học": 0.5,
+            "suất ăn chay": 0.5,
+            "buổi sáng": 1.0,
+            "môi trường": 0.5,
+            "ly hướng dẫn": 0.5,
+            "món": 0.5,
+            "-": 0.5,
+            "xôi nếp": 0.5,
+            "phở": 0.5,
+            "bánh xèo": 0.5,
+            "món rán": 0.5,
+            "thảm họa": 0.5,
+            "món ăn": 2.0,
+            "nhà hàng": 1.0,
+            "bằng taxi": 0.5,
+            "bữa ăn ba món": 0.5,
+            "chef ly": 0.5,
+            "chợ": 0.5,
+            "thực phẩm": 0.5,
+            "trải nghiệm": 1.0,
+            "menu": 0.5,
+            "nguyên liệu": 1.0,
+            "trợ lý đầu bếp": 0.5,
+            "con người": 1.0,
+            "nền văn hóa": 0.5,
+            "đầu bếp ly": 0.5,
+            "kỹ năng giảng dạy": 0.5,
+            "trợ lý": 0.5,
+            "đầu bếp": 1.0,
+            "công cụ": 0.5,
+            "vùng đất": 0.5,
+            "giảng viên": 0.5,
+            "trường": 0.5,
+            "nhiệm vụ": 0.5,
+            "sản phẩm": 0.5,
+            "đầu bếp giỏi": 0.5
+        }
     },
     {
         "attraction_name": "Saigon Cooking Class",
@@ -266,7 +778,398 @@
             "https://www.tripadvisor.com/Attraction_Review-g13360898-d6487106-Reviews-Pete_Maze-Khanong_Phra_Pak_Chong_District_Nakhon_Ratchasima_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or30-Saigon_Cooking_Class-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or20-Saigon_Cooking_Class-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or20-Saigon_Cooking_Class-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "lớp học nấu ăn": 0.9910561003440913,
+            "giáo viên": 0.9954927922808565,
+            "đầu bếp": 0.8092653278824097,
+            "lớp học": 0.8175085764378309,
+            "kỹ thuật": 0.9953784700483084,
+            "bánh tráng": -0.8010597093962133,
+            "nước nóng": -0.9655154617503285,
+            "chợ": 0.9931621507857926,
+            "trái cây": 0.521208057180047,
+            "rau quả": -0.9724955747369677,
+            "người dân địa phương": 0.5,
+            "trường dạy nấu ăn": 0.9344001611170825,
+            "trường": 0.7513436056324281,
+            "chả giò tôm": 0.9507828089408576,
+            "thịt lợn": -0.9258223096840084,
+            "mực": -0.8523679887875915,
+            "bánh xèo": 0.0493030643556267,
+            "tôm": -0.03596549294888973,
+            "nước sốt": -0.9543987740762532,
+            "tráng miệng": 0.5,
+            "kem trứng chanh dây": 0.5,
+            "công thức": 0.9886315702460706,
+            "trải nghiệm": 0.9949633407522924,
+            "chuyến tham quan": 0.9537685077715045,
+            "chả giò": 0.8301639909623191,
+            "gỏi": 0.6868845727294683,
+            "xoài": 0.747798142459942,
+            "cơm chiên sen": 0.9938552710227668,
+            "hương vị": 0.9954862998565659,
+            "nhân viên": 0.9946344913138697,
+            "món ăn": 0.8976368559378898,
+            "giá": 0.5,
+            "chuyến đi ngắn ngày": 0.5,
+            "đầu bếp lý": 0.8737691454589367,
+            "phương pháp nấu ăn": -0.2286174912005663,
+            "công thức nấu ăn": 0.9897026805556379,
+            "thực phẩm": 0.5,
+            "chợ bến thành": 0.8737691454589367,
+            "bữa sáng nhẹ": 0.5,
+            "cho": 0.5,
+            "buổi học nấu ăn": 0.5,
+            "bài học nấu ăn": 0.9931566826417111,
+            "chợ đường phố": 0.9641328901052475,
+            "nguyên liệu": 0.48760058358311653,
+            "chủ nhà": 0.5,
+            "buổi sáng": 0.9955573852057569,
+            "chuyến đi": 0.8737691454589367,
+            "chợ mua": 0.9394181563693564,
+            "đồ ăn": 0.8818535932514351,
+            "rau": 0.5,
+            "thảo mộc": 0.5,
+            "căn phòng": 0.9781562837112384,
+            "thiết bị nấu ăn": 0.5192534755915403,
+            "thực đơn": 0.8737691454589367,
+            "món": 0.5,
+            "súp salad": 0.5,
+            "món nồi đất": 0.5420029200613499,
+            "khu chợ": 0.4631218835711479,
+            "ngôi nhà": 0.5,
+            "nhà hàng": 0.5,
+            "món ăn truyền thống": 0.5,
+            "chi phí": 0.5254311710596085,
+            "chi": 0.9951602567452937,
+            "cuốn sổ biên": 0.995061336987419,
+            "lớp": 0.9804279111558571,
+            "phòng": 0.8741665834095329,
+            "cơm chiên": 0.5,
+            "người hướng dẫn giảng": 0.8737691454589367,
+            "dụng cụ nấu ăn": 0.9623530684038997,
+            "dụng cụ gọt vỏ": 0.9928543906426057,
+            "bầu không khí": 0.9604526798551282
+        },
+        "dicts_adj": {
+            "lớp học nấu ăn": [
+                "thực sự",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "cao",
+                "thực sự",
+                "xuất sắc"
+            ],
+            "giáo viên": [
+                "tuyệt vời"
+            ],
+            "đầu bếp": [
+                "tuyệt vời",
+                "dễ thương",
+                "dễ dàng",
+                "tốt đẹp",
+                "hữu ích"
+            ],
+            "lớp học": [
+                "to",
+                "rẻ",
+                "đơn giản",
+                "rõ ràng",
+                "tốt",
+                "nhiều",
+                "rộng rãi",
+                "quan trọng"
+            ],
+            "kỹ thuật": [
+                "tuyệt vời"
+            ],
+            "bánh tráng": [
+                "phải"
+            ],
+            "nước nóng": [
+                "phải"
+            ],
+            "chợ": [
+                "tuyệt vời",
+                "dễ thương",
+                "tuyệt vời"
+            ],
+            "trái cây": [
+                "khác"
+            ],
+            "rau quả": [
+                "khác"
+            ],
+            "người dân địa phương": [],
+            "trường dạy nấu ăn": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "trường": [
+                "tuyệt vời"
+            ],
+            "chả giò tôm": [
+                "khác"
+            ],
+            "thịt lợn": [
+                "khác",
+                "khác"
+            ],
+            "mực": [
+                "khác"
+            ],
+            "bánh xèo": [
+                "khác",
+                "thú vị"
+            ],
+            "tôm": [
+                "khác"
+            ],
+            "nước sốt": [
+                "khác"
+            ],
+            "tráng miệng": [],
+            "kem trứng chanh dây": [],
+            "công thức": [
+                "đủ",
+                "đơn giản"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "thực sự",
+                "tuyệt vời",
+                "vui vẻ",
+                "thú vị",
+                "thú vị",
+                "rảnh rỗi"
+            ],
+            "chuyến tham quan": [
+                "tốt",
+                "tuyệt vời",
+                "thú vị",
+                "tuyệt vời"
+            ],
+            "chả giò": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "thú vị"
+            ],
+            "gỏi": [
+                "ngon"
+            ],
+            "xoài": [
+                "ngon"
+            ],
+            "cơm chiên sen": [
+                "tuyệt vời"
+            ],
+            "hương vị": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "tuyệt vời",
+                "thân thiện",
+                "đẹp",
+                "thực sự",
+                "thực sự"
+            ],
+            "món ăn": [
+                "nhiều",
+                "tương tự",
+                "chắc chắn",
+                "kỹ lưỡng",
+                "ngon",
+                "thích thú"
+            ],
+            "giá": [],
+            "chuyến đi ngắn ngày": [],
+            "đầu bếp lý": [
+                "kỹ lưỡng"
+            ],
+            "phương pháp nấu ăn": [
+                "khác"
+            ],
+            "công thức nấu ăn": [
+                "thú vị",
+                "đơn giản",
+                "ngon",
+                "khó"
+            ],
+            "thực phẩm": [],
+            "chợ bến thành": [
+                "sớm"
+            ],
+            "bữa sáng nhẹ": [],
+            "cho": [],
+            "buổi học nấu ăn": [],
+            "bài học nấu ăn": [
+                "vui"
+            ],
+            "chợ đường phố": [
+                "gần"
+            ],
+            "nguyên liệu": [
+                "tương tự",
+                "cẩn thận"
+            ],
+            "chủ nhà": [],
+            "buổi sáng": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "thực sự",
+                "thú vị",
+                "nhiều",
+                "nhiều"
+            ],
+            "chợ mua": [
+                "thực sự",
+                "thú vị",
+                "nhiều",
+                "nhiều"
+            ],
+            "đồ ăn": [
+                "thực sự",
+                "thú vị",
+                "nhiều",
+                "nhiều"
+            ],
+            "rau": [],
+            "thảo mộc": [],
+            "căn phòng": [
+                "xinh xắn",
+                "sẵn",
+                "sẵn"
+            ],
+            "thiết bị nấu ăn": [
+                "sẵn"
+            ],
+            "thực đơn": [
+                "hoàn hảo"
+            ],
+            "món": [],
+            "súp salad": [],
+            "món nồi đất": [
+                "hoàn hảo"
+            ],
+            "khu chợ": [
+                "đơn giản"
+            ],
+            "ngôi nhà": [],
+            "nhà hàng": [],
+            "món ăn truyền thống": [],
+            "chi phí": [
+                "hiếm"
+            ],
+            "chi": [
+                "rẻ"
+            ],
+            "cuốn sổ biên": [
+                "nhiều",
+                "vui"
+            ],
+            "lớp": [
+                "thực sự",
+                "xuất sắc"
+            ],
+            "phòng": [
+                "rộng rãi",
+                "quan trọng"
+            ],
+            "cơm chiên": [],
+            "người hướng dẫn giảng": [
+                "rõ ràng"
+            ],
+            "dụng cụ nấu ăn": [
+                "khó"
+            ],
+            "dụng cụ gọt vỏ": [
+                "khó"
+            ],
+            "bầu không khí": [
+                "đẹp",
+                "thực sự",
+                "thực sự"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "lớp học nấu ăn": 3.0,
+            "giáo viên": 0.5,
+            "đầu bếp": 3.0,
+            "lớp học": 2.0,
+            "kỹ thuật": 0.5,
+            "bánh tráng": 0.5,
+            "nước nóng": 0.5,
+            "chợ": 1.5,
+            "trái cây": 0.5,
+            "rau quả": 0.5,
+            "người dân địa phương": 0.5,
+            "trường dạy nấu ăn": 1.0,
+            "trường": 1.0,
+            "chả giò tôm": 0.5,
+            "thịt lợn": 0.5,
+            "mực": 0.5,
+            "bánh xèo": 1.0,
+            "tôm": 0.5,
+            "nước sốt": 0.5,
+            "tráng miệng": 0.5,
+            "kem trứng chanh dây": 0.5,
+            "công thức": 0.5,
+            "trải nghiệm": 2.5,
+            "chuyến tham quan": 1.5,
+            "chả giò": 1.5,
+            "gỏi": 1.0,
+            "xoài": 1.0,
+            "cơm chiên sen": 0.5,
+            "hương vị": 0.5,
+            "nhân viên": 1.5,
+            "món ăn": 2.0,
+            "giá": 0.5,
+            "chuyến đi ngắn ngày": 0.5,
+            "đầu bếp lý": 0.5,
+            "phương pháp nấu ăn": 1.0,
+            "công thức nấu ăn": 1.0,
+            "thực phẩm": 0.5,
+            "chợ bến thành": 0.5,
+            "bữa sáng nhẹ": 0.5,
+            "cho": 0.5,
+            "buổi học nấu ăn": 0.5,
+            "bài học nấu ăn": 0.5,
+            "chợ đường phố": 0.5,
+            "nguyên liệu": 1.0,
+            "chủ nhà": 0.5,
+            "buổi sáng": 0.5,
+            "chuyến đi": 0.5,
+            "chợ mua": 0.5,
+            "đồ ăn": 0.5,
+            "rau": 0.5,
+            "thảo mộc": 0.5,
+            "căn phòng": 0.5,
+            "thiết bị nấu ăn": 0.5,
+            "thực đơn": 0.5,
+            "món": 0.5,
+            "súp salad": 0.5,
+            "món nồi đất": 0.5,
+            "khu chợ": 0.5,
+            "ngôi nhà": 0.5,
+            "nhà hàng": 0.5,
+            "món ăn truyền thống": 0.5,
+            "chi phí": 0.5,
+            "chi": 0.5,
+            "cuốn sổ biên": 0.5,
+            "lớp": 0.5,
+            "phòng": 0.5,
+            "cơm chiên": 0.5,
+            "người hướng dẫn giảng": 0.5,
+            "dụng cụ nấu ăn": 0.5,
+            "dụng cụ gọt vỏ": 0.5,
+            "bầu không khí": 0.5
+        }
     },
     {
         "attraction_name": "Saigon Cooking Class",
@@ -349,7 +1252,348 @@
             "https://www.tripadvisor.com/Attraction_Review-g55581-d146639-Reviews-Comal_Park-Canyon_Lake_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or40-Saigon_Cooking_Class-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or30-Saigon_Cooking_Class-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or30-Saigon_Cooking_Class-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "lớp học": 0.3019221786720057,
+            "đầu bếp nấu": 0.9952897469047457,
+            "sân": 0.9769337107427418,
+            "công thức nấu ăn": 0.9950377109926194,
+            "chuyến tham quan": 0.7781757855943093,
+            "chợ": 0.7475261755171232,
+            "lớp học nấu ăn": 0.7746063317172229,
+            "đầu bếp": 0.963856587089443,
+            "trái cây": 0.521208057180047,
+            "rau quả": -0.9724955747369677,
+            "thị": 0.9929114921833389,
+            "trường": 0.7382695380365476,
+            "giáo viên": 0.9954983331845142,
+            "phộng": 0.5,
+            "gỏi": 0.5,
+            "xoài": 0.5,
+            "gà": 0.5,
+            "cơm chiên": 0.5,
+            "vụ nổ": -0.9669893712271005,
+            "chef": 0.17531517893075943,
+            "trải nghiệm": 0.8951287147808924,
+            "chuyến đi chợ mua": 0.5680143116042018,
+            "thảo mộc": -0.008619608939625323,
+            "trường nấu": 0.9955513076274656,
+            "món ăn truyền thống": 0.995405611814931,
+            "đầu": 0.5,
+            "bếp ly": 0.5,
+            "ẩm thực đường phố": 0.9336438715690747,
+            "buổi": 0.5,
+            "buổi sáng": 0.5,
+            "ẩm thực việt nam": 0.8737691454589367,
+            "hướng dẫn viên": 0.6503020375967026,
+            "xe tay ga": 0.9358938420191407,
+            "ly lúc": 0.5359935313463211,
+            "quầy hàng": 0.5,
+            "nguyên liệu": 0.5,
+            "đồ ăn": 0.8291358886053786,
+            "học viên": 0.9506315588951111,
+            "chả giò": 0.5,
+            "bún mực": 0.5,
+            "salad bò": 0.5,
+            "bếp mẫu": 0.9950677236774936,
+            "nhà hàng hoa": 0.8737691454589367,
+            "đám cưới": 0.693915325216949,
+            "đám": 0.9840172822587192,
+            "ẩm thực": 0.5,
+            "chỗ": 0.31592037063091993,
+            "chợ bến": 0.8737691454589367,
+            "thị trường": 0.9752813526429236,
+            "món ăn": 0.7477894431503955,
+            "khung cảnh": 0.8737691454589367,
+            "nhân viên": 0.9756954591721296,
+            "chuyến thăm": 0.9953831300954334,
+            "trường dạy nấu ăn": 0.9949788219237234,
+            "khu chợ": 0.9953081481507979,
+            "nhà hàng": 0.7455848904355662,
+            "rửa bát": 0.5,
+            "cơ sở vật chất": 0.9918021620251238,
+            "món quà": 0.7099118325859308,
+            "người nấu ăn": -0.8145560584962368,
+            "phòng ăn": 0.9955586779979058,
+            "nhà bếp": 0.9953780266805552,
+            "ba": 0.9955431103007868,
+            "vâng": 0.8737691454589367,
+            "xôi": 0.9937753914855421,
+            "người hướng dẫn": 0.9872640973189846,
+            "thức ăn": 0.9954862616141327
+        },
+        "dicts_adj": {
+            "lớp học": [
+                "chắc chắn",
+                "cao",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "đầu bếp nấu": [
+                "đẹp"
+            ],
+            "sân": [
+                "đẹp",
+                "nhỏ"
+            ],
+            "công thức nấu ăn": [
+                "đầy đủ"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "nhiều",
+                "thú vị",
+                "nhiều"
+            ],
+            "chợ": [
+                "xinh đẹp"
+            ],
+            "lớp học nấu ăn": [
+                "tuyệt vời",
+                "nhiều",
+                "nổi bật",
+                "khác"
+            ],
+            "đầu bếp": [
+                "may mắn",
+                "thực sự",
+                "hữu ích",
+                "đúng",
+                "kỳ diệu"
+            ],
+            "trái cây": [
+                "khác"
+            ],
+            "rau quả": [
+                "khác"
+            ],
+            "thị": [
+                "nhiều"
+            ],
+            "trường": [
+                "vui vẻ"
+            ],
+            "giáo viên": [
+                "tuyệt vời"
+            ],
+            "phộng": [],
+            "gỏi": [],
+            "xoài": [],
+            "gà": [],
+            "cơm chiên": [],
+            "vụ nổ": [],
+            "chef": [
+                "thực sự",
+                "buồn"
+            ],
+            "trải nghiệm": [
+                "may mắn",
+                "chu đáo",
+                "tuyệt vời",
+                "nhiều",
+                "chân thật",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "nhất",
+                "tuyệt vời"
+            ],
+            "chuyến đi chợ mua": [],
+            "thảo mộc": [
+                "tươi",
+                "khác"
+            ],
+            "trường nấu": [
+                "ngon"
+            ],
+            "món ăn truyền thống": [
+                "ngon"
+            ],
+            "đầu": [],
+            "bếp ly": [],
+            "ẩm thực đường phố": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "buổi": [],
+            "buổi sáng": [],
+            "ẩm thực việt nam": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "hướng dẫn viên": [
+                "am hiểu"
+            ],
+            "xe tay ga": [
+                "đơn giản"
+            ],
+            "ly lúc": [],
+            "quầy hàng": [],
+            "nguyên liệu": [],
+            "đồ ăn": [
+                "nhất",
+                "xinh đẹp"
+            ],
+            "học viên": [
+                "duy nhất"
+            ],
+            "chả giò": [],
+            "bún mực": [],
+            "salad bò": [],
+            "bếp mẫu": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "nhà hàng hoa": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "đám cưới": [],
+            "đám": [
+                "nổi bật"
+            ],
+            "ẩm thực": [],
+            "chỗ": [
+                "trực tuyến",
+                "đông"
+            ],
+            "chợ bến": [
+                "trực tuyến",
+                "đông"
+            ],
+            "thị trường": [
+                "hữu ích"
+            ],
+            "món ăn": [
+                "ngon"
+            ],
+            "khung cảnh": [
+                "nhất",
+                "yên bình",
+                "thoải mái"
+            ],
+            "nhân viên": [
+                "nhất"
+            ],
+            "chuyến thăm": [
+                "xinh đẹp"
+            ],
+            "trường dạy nấu ăn": [
+                "xinh đẹp",
+                "tốt trường",
+                "chuyên nghiệp"
+            ],
+            "khu chợ": [
+                "thú vị",
+                "nhiều"
+            ],
+            "nhà hàng": [
+                "yên bình",
+                "thoải mái"
+            ],
+            "rửa bát": [],
+            "cơ sở vật chất": [
+                "vội vã"
+            ],
+            "món quà": [
+                "suốt"
+            ],
+            "người nấu ăn": [
+                "phải"
+            ],
+            "phòng ăn": [
+                "xinh đẹp"
+            ],
+            "nhà bếp": [
+                "xinh đẹp"
+            ],
+            "ba": [
+                "ngon"
+            ],
+            "vâng": [
+                "đúng",
+                "kỳ diệu"
+            ],
+            "xôi": [],
+            "người hướng dẫn": [
+                "tốt bụng"
+            ],
+            "thức ăn": [
+                "ngon",
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "lớp học": 1.5,
+            "đầu bếp nấu": 0.5,
+            "sân": 0.5,
+            "công thức nấu ăn": 0.5,
+            "chuyến tham quan": 1.5,
+            "chợ": 1.0,
+            "lớp học nấu ăn": 1.5,
+            "đầu bếp": 1.5,
+            "trái cây": 0.5,
+            "rau quả": 0.5,
+            "thị": 0.5,
+            "trường": 1.0,
+            "giáo viên": 0.5,
+            "phộng": 0.5,
+            "gỏi": 0.5,
+            "xoài": 0.5,
+            "gà": 0.5,
+            "cơm chiên": 0.5,
+            "vụ nổ": 0.5,
+            "chef": 0.5,
+            "trải nghiệm": 3.0,
+            "chuyến đi chợ mua": 0.5,
+            "thảo mộc": 0.5,
+            "trường nấu": 0.5,
+            "món ăn truyền thống": 0.5,
+            "đầu": 0.5,
+            "bếp ly": 0.5,
+            "ẩm thực đường phố": 0.5,
+            "buổi": 0.5,
+            "buổi sáng": 0.5,
+            "ẩm thực việt nam": 0.5,
+            "hướng dẫn viên": 0.5,
+            "xe tay ga": 0.5,
+            "ly lúc": 0.5,
+            "quầy hàng": 0.5,
+            "nguyên liệu": 1.0,
+            "đồ ăn": 1.5,
+            "học viên": 0.5,
+            "chả giò": 0.5,
+            "bún mực": 0.5,
+            "salad bò": 0.5,
+            "bếp mẫu": 0.5,
+            "nhà hàng hoa": 0.5,
+            "đám cưới": 0.5,
+            "đám": 0.5,
+            "ẩm thực": 0.5,
+            "chỗ": 0.5,
+            "chợ bến": 0.5,
+            "thị trường": 0.5,
+            "món ăn": 1.0,
+            "khung cảnh": 1.0,
+            "nhân viên": 0.5,
+            "chuyến thăm": 0.5,
+            "trường dạy nấu ăn": 1.0,
+            "khu chợ": 0.5,
+            "nhà hàng": 1.0,
+            "rửa bát": 0.5,
+            "cơ sở vật chất": 0.5,
+            "món quà": 0.5,
+            "người nấu ăn": 0.5,
+            "phòng ăn": 0.5,
+            "nhà bếp": 0.5,
+            "ba": 0.5,
+            "vâng": 0.5,
+            "xôi": 0.5,
+            "người hướng dẫn": 0.5,
+            "thức ăn": 0.5
+        }
     },
     {
         "attraction_name": "Saigon Cooking Class",
@@ -452,7 +1696,391 @@
             "https://www.tripadvisor.com/Attraction_Review-g293974-d23427379-Reviews-Lc_Waikiki-Istanbul.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or50-Saigon_Cooking_Class-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or40-Saigon_Cooking_Class-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or40-Saigon_Cooking_Class-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.7729020809929352,
+            "chợ": 0.7466127164370846,
+            "nguyên liệu": 0.3299236271996051,
+            "giá": 0.7910933382809162,
+            "hàng hóa": 0.5,
+            "nhà hàng": 0.6103842228961488,
+            "nem gỏi hoa": 0.5,
+            "chuối": 0.5,
+            "thịt lợn bbq": 0.5,
+            "mì": 0.5,
+            "nhóm": 0.9954292193287984,
+            "người hướng dẫn": 0.7999923460592981,
+            "buổi sáng": 0.5,
+            "lớp học nấu ăn": 0.8044972049796746,
+            "khu chợ địa phương": 0.9668940031551756,
+            "sản phẩm địa phương": 0.954326908744406,
+            "bữa ăn": 0.9655911950394511,
+            "đồ ăn": 0.9956014631607104,
+            "công thức nấu ăn": 0.8927322472212836,
+            "thị trường": 0.8737691454589367,
+            "trải nghiệm": 0.8302203489777943,
+            "khung cảnh": 0.9955560804228298,
+            "bữa ăn địa phương": 0.9952389918034896,
+            "hướng dẫn viên": 0.8737691454589367,
+            "thực phẩm": 0.8897120039910078,
+            "siêu thị vô trùng": 0.995291433762759,
+            "sản phẩm": 0.74776578246383,
+            "tươi sống": 0.9955469277338125,
+            "cửa hàng": 0.9954955671564676,
+            "chuyến taxi": 0.8737691454589367,
+            "đầu bếp giỏi": 0.9573502824641764,
+            "nhiệm vụ": 0.4205896705389023,
+            "đầu bếp": 0.8676756731219939,
+            "súp": 0.9814026644453406,
+            "chua nóng": 0.5617523211985826,
+            "củ sen": 0.7395590266678482,
+            "gà hầm gừng": 0.7149295257404447,
+            "bữa": 0.9950355034670793,
+            "lần nấu": 0.5,
+            "đường phố": 0.9498879488965031,
+            "cây xanh": 0.9681227360852063,
+            "lớp học": 0.9824261197354645,
+            "đầu bếp ly": 0.9955887296237051,
+            "thức ăn gọn gàng": 0.9895473090000451,
+            "món ăn bốn món": 0.9148009326308966,
+            "khách sạn": -0.9691141075454652,
+            "trải nghiệm nấu ăn": 0.5,
+            "chất lượng": 0.9954844518215396,
+            "món ăn": 0.6671849784033839,
+            "kỳ nghỉ": 0.5526912026107311,
+            "ẩm thực đường phố": 0.9953145739855245,
+            "giao thông": 0.9954028418287635,
+            "ẩm thực": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "lớp học nấu": 0.5,
+            "mẹo": 0.988305137376301,
+            "kỹ thuật": -0.9616210898384452,
+            "đội": 0.5,
+            "ngôi nhà": -0.7611231524497271,
+            "đạo": 0.9938098303973675,
+            "giá cả": 0.8334099838975817,
+            "nhân viên": 0.9939272388583049,
+            "phòng ăn": 0.5,
+            "trái cây": 0.992032794165425,
+            "rau": 0.9848207880277187,
+            "thảo mộc": 0.7484887465834618,
+            "gia vị": 0.9955106382840313,
+            "hoa trang trí": 0.9946442592190579,
+            "ớt": 0.7618012806051411
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "nhiều",
+                "tuyệt vời",
+                "xuất sắc",
+                "hữu ích",
+                "chuyên nghiệp",
+                "tuyệt vời"
+            ],
+            "chợ": [
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "nguyên liệu": [
+                "đặc trưng",
+                "khác",
+                "tuyệt vời"
+            ],
+            "giá": [
+                "tốt"
+            ],
+            "hàng hóa": [],
+            "nhà hàng": [
+                "cũ"
+            ],
+            "nem gỏi hoa": [],
+            "chuối": [],
+            "thịt lợn bbq": [],
+            "mì": [],
+            "nhóm": [
+                "tuyệt vời",
+                "vui",
+                "khác"
+            ],
+            "người hướng dẫn": [
+                "vui vẻ",
+                "nhiều",
+                "tuyệt vời",
+                "đặc biệt"
+            ],
+            "buổi sáng": [],
+            "lớp học nấu ăn": [
+                "Thật sự",
+                "thực sự",
+                "dễ",
+                "nhiều",
+                "ngon",
+                "hoàn toàn",
+                "tận hưởng",
+                "tốt",
+                "trọn"
+            ],
+            "khu chợ địa phương": [
+                "thực sự",
+                "thú vị"
+            ],
+            "sản phẩm địa phương": [
+                "thực sự",
+                "thú vị"
+            ],
+            "bữa ăn": [
+                "thực sự",
+                "dễ"
+            ],
+            "đồ ăn": [
+                "ngon",
+                "ngon"
+            ],
+            "công thức nấu ăn": [
+                "tuyệt vời",
+                "ngon",
+                "cuối cùng",
+                "thực sự",
+                "đầy",
+                "hương vị"
+            ],
+            "thị trường": [
+                "thực sự"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "khung cảnh": [
+                "ngon"
+            ],
+            "bữa ăn địa phương": [
+                "ngon"
+            ],
+            "hướng dẫn viên": [
+                "dễ",
+                "rõ ràng"
+            ],
+            "thực phẩm": [
+                "khác"
+            ],
+            "siêu thị vô trùng": [
+                "tuyệt vời"
+            ],
+            "sản phẩm": [
+                "tuyệt vời"
+            ],
+            "tươi sống": [
+                "tuyệt vời"
+            ],
+            "cửa hàng": [
+                "tuyệt vời"
+            ],
+            "chuyến taxi": [
+                "nhanh chóng",
+                "dễ dàng"
+            ],
+            "đầu bếp giỏi": [
+                "cần thiết"
+            ],
+            "nhiệm vụ": [
+                "cần thiết"
+            ],
+            "đầu bếp": [
+                "nhiều",
+                "nhiều",
+                "giỏi",
+                "tuyệt vời",
+                "rõ"
+            ],
+            "súp": [
+                "rõ ràng",
+                "dễ"
+            ],
+            "chua nóng": [
+                "rõ ràng",
+                "dễ"
+            ],
+            "củ sen": [
+                "rõ ràng",
+                "dễ"
+            ],
+            "gà hầm gừng": [
+                "rõ ràng",
+                "dễ"
+            ],
+            "bữa": [
+                "hoàn hảo"
+            ],
+            "lần nấu": [],
+            "đường phố": [
+                "sạch sẽ",
+                "hơn",
+                "nhiều",
+                "nhiều"
+            ],
+            "cây xanh": [
+                "dọc"
+            ],
+            "lớp học": [
+                "tốt"
+            ],
+            "đầu bếp ly": [
+                "tốt bụng",
+                "kiên nhẫn",
+                "tuyệt vời"
+            ],
+            "thức ăn gọn gàng": [
+                "vui vẻ",
+                "nhất",
+                "nhiều"
+            ],
+            "món ăn bốn món": [
+                "đầu tiên"
+            ],
+            "khách sạn": [
+                "đơn giản"
+            ],
+            "trải nghiệm nấu ăn": [],
+            "chất lượng": [
+                "tuyệt vời"
+            ],
+            "món ăn": [
+                "ngon",
+                "thú vị",
+                "ngon",
+                "tốt",
+                "ngon",
+                "khác"
+            ],
+            "kỳ nghỉ": [],
+            "ẩm thực đường phố": [
+                "tuyệt vời"
+            ],
+            "giao thông": [
+                "tuyệt vời"
+            ],
+            "ẩm thực": [],
+            "hướng dẫn viên du lịch": [],
+            "lớp học nấu": [],
+            "mẹo": [
+                "ngon",
+                "tốt"
+            ],
+            "kỹ thuật": [
+                "khác"
+            ],
+            "đội": [],
+            "ngôi nhà": [
+                "cũ"
+            ],
+            "đạo": [
+                "ngon"
+            ],
+            "giá cả": [
+                "đắt",
+                "rẻ",
+                "sạch sẽ",
+                "tốt"
+            ],
+            "nhân viên": [
+                "giống"
+            ],
+            "phòng ăn": [],
+            "trái cây": [
+                "đặc biệt"
+            ],
+            "rau": [
+                "đặc biệt"
+            ],
+            "thảo mộc": [
+                "đặc biệt"
+            ],
+            "gia vị": [
+                "đặc biệt"
+            ],
+            "hoa trang trí": [
+                "ngon",
+                "khác"
+            ],
+            "ớt": [
+                "ngon",
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 2.5,
+            "chợ": 2.0,
+            "nguyên liệu": 1.5,
+            "giá": 1.0,
+            "hàng hóa": 0.5,
+            "nhà hàng": 1.5,
+            "nem gỏi hoa": 0.5,
+            "chuối": 0.5,
+            "thịt lợn bbq": 0.5,
+            "mì": 0.5,
+            "nhóm": 0.5,
+            "người hướng dẫn": 1.0,
+            "buổi sáng": 1.0,
+            "lớp học nấu ăn": 3.0,
+            "khu chợ địa phương": 0.5,
+            "sản phẩm địa phương": 0.5,
+            "bữa ăn": 0.5,
+            "đồ ăn": 1.0,
+            "công thức nấu ăn": 2.5,
+            "thị trường": 0.5,
+            "trải nghiệm": 1.5,
+            "khung cảnh": 0.5,
+            "bữa ăn địa phương": 0.5,
+            "hướng dẫn viên": 0.5,
+            "thực phẩm": 0.5,
+            "siêu thị vô trùng": 0.5,
+            "sản phẩm": 1.0,
+            "tươi sống": 0.5,
+            "cửa hàng": 0.5,
+            "chuyến taxi": 0.5,
+            "đầu bếp giỏi": 0.5,
+            "nhiệm vụ": 0.5,
+            "đầu bếp": 2.0,
+            "súp": 0.5,
+            "chua nóng": 0.5,
+            "củ sen": 0.5,
+            "gà hầm gừng": 0.5,
+            "bữa": 0.5,
+            "lần nấu": 0.5,
+            "đường phố": 0.5,
+            "cây xanh": 0.5,
+            "lớp học": 0.5,
+            "đầu bếp ly": 0.5,
+            "thức ăn gọn gàng": 0.5,
+            "món ăn bốn món": 0.5,
+            "khách sạn": 0.5,
+            "trải nghiệm nấu ăn": 0.5,
+            "chất lượng": 0.5,
+            "món ăn": 1.5,
+            "kỳ nghỉ": 1.0,
+            "ẩm thực đường phố": 0.5,
+            "giao thông": 0.5,
+            "ẩm thực": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "lớp học nấu": 0.5,
+            "mẹo": 0.5,
+            "kỹ thuật": 0.5,
+            "đội": 0.5,
+            "ngôi nhà": 0.5,
+            "đạo": 0.5,
+            "giá cả": 0.5,
+            "nhân viên": 0.5,
+            "phòng ăn": 0.5,
+            "trái cây": 0.5,
+            "rau": 0.5,
+            "thảo mộc": 0.5,
+            "gia vị": 0.5,
+            "hoa trang trí": 0.5,
+            "ớt": 0.5
+        }
     },
     {
         "attraction_name": "Saigon Cooking Class",
@@ -555,7 +2183,290 @@
             "https://www.tripadvisor.com/Attraction_Review-g580453-d4312931-Reviews-Carlos_Jeep_Rental-Culebra_Puerto_Rico.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or60-Saigon_Cooking_Class-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or50-Saigon_Cooking_Class-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or50-Saigon_Cooking_Class-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.9488861915500214,
+            "chợ": 0.02712424904651319,
+            "trường dạy nấu ăn": 0.8737691454589367,
+            "nhân viên": 0.9831372702804705,
+            "lớp học nấu ăn": 0.9685480890795588,
+            "chuyến đi": 0.47345429242704995,
+            "chuyến tham quan sông mê kông": 0.8737691454589367,
+            "nhà hàng": 0.5910594930222336,
+            "người dân địa phương": 0.9952955880435184,
+            "đầu bếp": 0.9673632436024491,
+            "chả giò": -0.049001302395481616,
+            "đồ ăn": 0.04758272785693407,
+            "món ăn": 0.5318966312527967,
+            "món ăn sáng tạo": 0.5,
+            "bánh xèo": 0.953826597891748,
+            "bữa tối": -0.7079847138375044,
+            "người hướng dẫn": 0.9954952275729738,
+            "bữa ăn": 0.9952005014347378,
+            "món": 0.9955824231146835,
+            "buổi sáng": 0.5043222615786362,
+            "nguyên liệu": -0.48357318714261055,
+            "trường học": 0.35755877010524273,
+            "bữa trưa": 0.5058807451277971,
+            "câu chuyện": -0.9159312658011913,
+            "trải nghiệm": 0.9929795135976747,
+            "đồ ăn đường phố": 0.9953838279470801,
+            "tay ga": 0.5,
+            "khoảng thời gian": 0.9955223444849253,
+            "phòng": 0.5880386298522353,
+            "hướng dẫn viên": 0.010033379308879375,
+            "cạnh hyatt": 0.8737691454589367,
+            "cậu thiếu niên": 0.9714429242303595,
+            "nhà bếp": 0.9929158940794878,
+            "thiết bị": 0.9937364765210077,
+            "thực phẩm": 0.7472390943730716,
+            "giáo viên đầu bếp": 0.9954987223027274,
+            "tấm thẻ công thức nấu ăn": 0.9941764988470823,
+            "rau": 0.017419216805137694,
+            "tiền": 0.9945382029982284,
+            "bữa": 0.5,
+            "trang phục": 0.9951550926780328,
+            "tôm": 0.5,
+            "thịt lợn": 0.5,
+            "gỏi": 0.8737691454589367,
+            "xoài xanh": 0.5,
+            "nấm ướp": 0.5,
+            "cơm chiên": 0.8737691454589367,
+            "đầu bếp oanh": 0.8737691454589367,
+            "người nấu ăn": 0.5350990081205964
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "thú vị",
+                "sâu sắc",
+                "tốt",
+                "nhiều",
+                "thú vị",
+                "nhiều"
+            ],
+            "chợ": [
+                "thú vị",
+                "sâu sắc",
+                "xuất sắc",
+                "thú vị",
+                "xa"
+            ],
+            "trường dạy nấu ăn": [
+                "đẹp mắt"
+            ],
+            "nhân viên": [
+                "hữu ích",
+                "vội vàng",
+                "kỹ",
+                "kịp",
+                "tuyệt vời"
+            ],
+            "lớp học nấu ăn": [
+                "tốt",
+                "vui",
+                "hơn",
+                "tuyệt vời",
+                "trực tuyến",
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "tình cờ",
+                "xuất sắc",
+                "thú vị",
+                "nhiều",
+                "thú vị",
+                "xa"
+            ],
+            "chuyến tham quan sông mê kông": [
+                "tốt"
+            ],
+            "nhà hàng": [
+                "tốt",
+                "chuyên nghiệp",
+                "thú vị",
+                "xuất sắc"
+            ],
+            "người dân địa phương": [
+                "tốt",
+                "chuyên nghiệp",
+                "thú vị"
+            ],
+            "đầu bếp": [
+                "tốt",
+                "xuất sắc"
+            ],
+            "chả giò": [
+                "đơn giản",
+                "khác",
+                "tươi"
+            ],
+            "đồ ăn": [
+                "khác"
+            ],
+            "món ăn": [
+                "đồng nghĩa",
+                "khác",
+                "tuyệt vời",
+                "ngon"
+            ],
+            "món ăn sáng tạo": [],
+            "bánh xèo": [
+                "nổi bật"
+            ],
+            "bữa tối": [
+                "nhiều",
+                "chắc chắn"
+            ],
+            "người hướng dẫn": [
+                "tuyệt"
+            ],
+            "bữa ăn": [
+                "ngon",
+                "vui vẻ"
+            ],
+            "món": [
+                "ngon",
+                "vui vẻ"
+            ],
+            "buổi sáng": [
+                "xuất sắc",
+                "thú vị",
+                "đẹp",
+                "tươi"
+            ],
+            "nguyên liệu": [
+                "xuất sắc"
+            ],
+            "trường học": [
+                "xuất sắc"
+            ],
+            "bữa trưa": [
+                "xuất sắc"
+            ],
+            "câu chuyện": [
+                "dài"
+            ],
+            "trải nghiệm": [
+                "thú vị"
+            ],
+            "đồ ăn đường phố": [
+                "đẹp"
+            ],
+            "tay ga": [],
+            "khoảng thời gian": [
+                "tuyệt vời",
+                "đặc biệt"
+            ],
+            "phòng": [
+                "cao"
+            ],
+            "hướng dẫn viên": [
+                "thú vị",
+                "nhiều"
+            ],
+            "cạnh hyatt": [
+                "tuyệt vời"
+            ],
+            "cậu thiếu niên": [],
+            "nhà bếp": [
+                "sạch sẽ",
+                "tốt",
+                "sạch",
+                "đẹp"
+            ],
+            "thiết bị": [
+                "sẵn sàng"
+            ],
+            "thực phẩm": [
+                "sẵn sàng"
+            ],
+            "giáo viên đầu bếp": [
+                "xuất sắc",
+                "rõ ràng"
+            ],
+            "tấm thẻ công thức nấu ăn": [
+                "tuyệt vời"
+            ],
+            "rau": [
+                "khác",
+                "hữu ích"
+            ],
+            "tiền": [],
+            "bữa": [],
+            "trang phục": [
+                "nhỏ",
+                "tuyệt vời"
+            ],
+            "tôm": [],
+            "thịt lợn": [],
+            "gỏi": [
+                "tươi"
+            ],
+            "xoài xanh": [],
+            "nấm ướp": [],
+            "cơm chiên": [
+                "tươi"
+            ],
+            "đầu bếp oanh": [
+                "nhiều"
+            ],
+            "người nấu ăn": [
+                "cùng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 1.5,
+            "chợ": 1.5,
+            "trường dạy nấu ăn": 0.5,
+            "nhân viên": 1.5,
+            "lớp học nấu ăn": 2.5,
+            "chuyến đi": 2.5,
+            "chuyến tham quan sông mê kông": 0.5,
+            "nhà hàng": 2.0,
+            "người dân địa phương": 0.5,
+            "đầu bếp": 1.0,
+            "chả giò": 1.0,
+            "đồ ăn": 0.5,
+            "món ăn": 1.5,
+            "món ăn sáng tạo": 0.5,
+            "bánh xèo": 0.5,
+            "bữa tối": 0.5,
+            "người hướng dẫn": 0.5,
+            "bữa ăn": 0.5,
+            "món": 0.5,
+            "buổi sáng": 2.0,
+            "nguyên liệu": 0.5,
+            "trường học": 0.5,
+            "bữa trưa": 0.5,
+            "câu chuyện": 0.5,
+            "trải nghiệm": 0.5,
+            "đồ ăn đường phố": 0.5,
+            "tay ga": 0.5,
+            "khoảng thời gian": 0.5,
+            "phòng": 0.5,
+            "hướng dẫn viên": 0.5,
+            "cạnh hyatt": 0.5,
+            "cậu thiếu niên": 0.5,
+            "nhà bếp": 1.0,
+            "thiết bị": 0.5,
+            "thực phẩm": 1.0,
+            "giáo viên đầu bếp": 0.5,
+            "tấm thẻ công thức nấu ăn": 0.5,
+            "rau": 0.5,
+            "tiền": 0.5,
+            "bữa": 0.5,
+            "trang phục": 0.5,
+            "tôm": 0.5,
+            "thịt lợn": 0.5,
+            "gỏi": 0.5,
+            "xoài xanh": 0.5,
+            "nấm ướp": 0.5,
+            "cơm chiên": 0.5,
+            "đầu bếp oanh": 0.5,
+            "người nấu ăn": 0.5
+        }
     },
     {
         "attraction_name": "Saigon Cooking Class",
@@ -638,7 +2549,427 @@
             "https://www.tripadvisor.com/Attraction_Review-g274856-d3650407-Reviews-Sauna_Heaven-Warsaw_Mazovia_Province_Central_Poland.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or70-Saigon_Cooking_Class-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or60-Saigon_Cooking_Class-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or60-Saigon_Cooking_Class-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "lớp học nấu ăn": 0.8271405610721559,
+            "súp chua": 0.5,
+            "tôm hoa chuối": 0.5,
+            "salad": 0.5,
+            "gà": 0.5,
+            "bánh xèo": 0.7466999552561902,
+            "thịt lợn": 0.5,
+            "tôm": 0.52607954852283,
+            "trải nghiệm": 0.9952884675585665,
+            "đầu bếp": 0.8925775675743353,
+            "thức ăn": 0.8737691454589367,
+            "phần": 0.5,
+            "khu nấu ăn": 0.5366204846650362,
+            "chả giò": 0.5,
+            "gỏi xoài": 0.6868845727294683,
+            "cơm chiên lá sen": 0.5,
+            "món ăn": 0.7287272967369063,
+            "kỹ thuật": 0.7939579961821437,
+            "khách sạn": 0.5085391402244568,
+            "nhân viên": 0.9955585428397171,
+            "môi trường": 0.9931761774932966,
+            "lớp học": 0.7612381135841133,
+            "chợ": 0.6977788304939168,
+            "nhà hàng": 0.5067754909396172,
+            "khu chợ": 0.9785874329973012,
+            "rau cá thịt": -0.6454315846785903,
+            "lạ lùng": 0.6545485705137253,
+            "trường": 0.5172581635415554,
+            "súp": 0.5209438372403383,
+            "salad tươi": 0.9946934041217901,
+            "bánh kếp -": 0.0681425891816616,
+            "chảo": 0.671713599935174,
+            "thịt tôm": 0.5,
+            "rau": 0.5,
+            "giá": 0.693509335629642,
+            "chuyến tham quan": 0.8762592037790455,
+            "thị trường": 0.7552863311429974,
+            "trái cây": 0.5,
+            "rau thực vật thịt": 0.5,
+            "phòng": 0.9955493823508732,
+            "bếp": 0.5,
+            "bạn": 0.981283315224573,
+            "hướng dẫn viên": 0.7431467543356121,
+            "nguyên liệu": -0.09332687384448946,
+            "khóa học nấu ăn": 0.8737691454589367,
+            "tòa nhà thuộc địa": 0.4298040952999145,
+            "giải pháp": 0.6822878234088421,
+            "chuyến thăm thành phố": 0.8737691454589367,
+            "đồ cho": 0.7500951839610934,
+            "kiến ​​thức nấu nướng": -0.661875800229609,
+            "nhà hàng hòa túc": 0.8737691454589367,
+            "khu phức hợp": 0.8737691454589367,
+            "tòa nhà": 0.9952401139307767,
+            "nhà máy": 0.5,
+            "trường dạy nấu ăn": 0.9952730378136039,
+            "phòng nấu ăn": 0.741824496537447,
+            "cuộn chiên": 0.9899681049864739,
+            "rau củ giòn": 0.9937227373593487,
+            "nước chấm": 0.9911377399694175,
+            "rau muống non": 0.9738802469801158,
+            "gà nướng": 0.9873712826520205,
+            "nước mắm": 0.8737691454589367,
+            "chua ngọt": 0.9826321536675096,
+            "nước sốt giấm": 0.9433655315078795,
+            "cơm chiên": 0.8737691454589367,
+            "hạt sen": 0.7387536303140223,
+            "thịt gà": 0.7629287960007787,
+            "rau củ": 0.5930004585534334,
+            "sen": 0.9030675256508403,
+            "nước dừa": 0.9950552396476269,
+            "công thức nấu ăn": 0.5,
+            "buổi": 0.5,
+            "sản phẩm địa phương": 0.5,
+            "nhà hàng địa phương": 0.9953176416456699,
+            "món ăn truyền thống": 0.5,
+            "văn hóa": 0.5,
+            "đồ ăn": -0.050154124037362635,
+            "ẩm thực": 0.9926512393867597,
+            "thực phẩm": 0.5089469272643328,
+            "chợ hoa": 0.968482748256065,
+            "tour": 0.5,
+            "món tráng miệng": 0.5935100233182311
+        },
+        "dicts_adj": {
+            "lớp học nấu ăn": [
+                "tuyệt vời",
+                "thú vị",
+                "gần",
+                "thực sự",
+                "riêng",
+                "tốt",
+                "dài",
+                "đầy đủ",
+                "cơ bản",
+                "nhiều"
+            ],
+            "súp chua": [],
+            "tôm hoa chuối": [],
+            "salad": [],
+            "gà": [],
+            "bánh xèo": [
+                "thực sự"
+            ],
+            "thịt lợn": [],
+            "tôm": [
+                "tươi",
+                "caramen"
+            ],
+            "trải nghiệm": [
+                "thú vị",
+                "tuyệt vời",
+                "thẳng",
+                "tuyệt vời",
+                "bất kỳ",
+                "tuyệt vời"
+            ],
+            "đầu bếp": [
+                "tốt",
+                "tốt",
+                "khúc khích",
+                "cùng",
+                "thân thiện",
+                "xuất sắc",
+                "khắp",
+                "hữu ích",
+                "tuyệt vời"
+            ],
+            "thức ăn": [
+                "ngon"
+            ],
+            "phần": [],
+            "khu nấu ăn": [
+                "nhỏ",
+                "riêng"
+            ],
+            "chả giò": [],
+            "gỏi xoài": [
+                "tươi",
+                "caramen"
+            ],
+            "cơm chiên lá sen": [],
+            "món ăn": [
+                "đủ",
+                "ngon",
+                "tuyệt vời"
+            ],
+            "kỹ thuật": [],
+            "khách sạn": [
+                "gần"
+            ],
+            "nhân viên": [
+                "tuyệt vời"
+            ],
+            "môi trường": [
+                "sạch sẽ"
+            ],
+            "lớp học": [
+                "tương tự",
+                "đẹp",
+                "gần"
+            ],
+            "chợ": [
+                "thú vị",
+                "thú vị"
+            ],
+            "nhà hàng": [],
+            "khu chợ": [
+                "tương tự"
+            ],
+            "rau cá thịt": [],
+            "lạ lùng": [],
+            "trường": [
+                "khoảng"
+            ],
+            "súp": [
+                "đầy"
+            ],
+            "salad tươi": [
+                "đầy"
+            ],
+            "bánh kếp -": [
+                "đầy"
+            ],
+            "chảo": [
+                "đầy"
+            ],
+            "thịt tôm": [],
+            "rau": [],
+            "giá": [
+                "cao"
+            ],
+            "chuyến tham quan": [
+                "đáng giá",
+                "thú vị",
+                "thú vị",
+                "riêng",
+                "thú vị",
+                "thú vị"
+            ],
+            "thị trường": [
+                "đáng giá",
+                "riêng"
+            ],
+            "trái cây": [],
+            "rau thực vật thịt": [],
+            "phòng": [
+                "đẹp",
+                "gần"
+            ],
+            "bếp": [],
+            "bạn": [],
+            "hướng dẫn viên": [
+                "cùng"
+            ],
+            "nguyên liệu": [
+                "cùng",
+                "khác"
+            ],
+            "khóa học nấu ăn": [
+                "cũ",
+                "tuyệt vời"
+            ],
+            "tòa nhà thuộc địa": [
+                "cũ",
+                "tuyệt vời"
+            ],
+            "giải pháp": [
+                "duy nhất"
+            ],
+            "chuyến thăm thành phố": [
+                "riêng"
+            ],
+            "đồ cho": [],
+            "kiến ​​thức nấu nướng": [
+                "tò mò"
+            ],
+            "nhà hàng hòa túc": [
+                "ngắn"
+            ],
+            "khu phức hợp": [
+                "thú vị"
+            ],
+            "tòa nhà": [
+                "thú vị"
+            ],
+            "nhà máy": [],
+            "trường dạy nấu ăn": [
+                "đẹp",
+                "xa",
+                "nóng",
+                "độc đáo"
+            ],
+            "phòng nấu ăn": [
+                "riêng"
+            ],
+            "cuộn chiên": [
+                "tươi",
+                "caramen"
+            ],
+            "rau củ giòn": [
+                "tươi",
+                "caramen"
+            ],
+            "nước chấm": [
+                "tươi",
+                "caramen"
+            ],
+            "rau muống non": [
+                "tươi",
+                "caramen"
+            ],
+            "gà nướng": [
+                "tươi",
+                "caramen"
+            ],
+            "nước mắm": [
+                "tươi",
+                "caramen"
+            ],
+            "chua ngọt": [
+                "tươi",
+                "caramen"
+            ],
+            "nước sốt giấm": [
+                "tươi",
+                "caramen"
+            ],
+            "cơm chiên": [
+                "tươi",
+                "caramen"
+            ],
+            "hạt sen": [
+                "tươi",
+                "caramen"
+            ],
+            "thịt gà": [
+                "tươi",
+                "caramen"
+            ],
+            "rau củ": [
+                "tươi",
+                "caramen"
+            ],
+            "sen": [
+                "tươi",
+                "caramen"
+            ],
+            "nước dừa": [
+                "tươi"
+            ],
+            "công thức nấu ăn": [],
+            "buổi": [],
+            "sản phẩm địa phương": [],
+            "nhà hàng địa phương": [
+                "ngon",
+                "giống"
+            ],
+            "món ăn truyền thống": [],
+            "văn hóa": [],
+            "đồ ăn": [
+                "ngon",
+                "khác"
+            ],
+            "ẩm thực": [
+                "thú vị"
+            ],
+            "thực phẩm": [],
+            "chợ hoa": [
+                "khác"
+            ],
+            "tour": [],
+            "món tráng miệng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "lớp học nấu ăn": 3.0,
+            "súp chua": 0.5,
+            "tôm hoa chuối": 0.5,
+            "salad": 1.0,
+            "gà": 0.5,
+            "bánh xèo": 1.0,
+            "thịt lợn": 0.5,
+            "tôm": 1.0,
+            "trải nghiệm": 2.0,
+            "đầu bếp": 3.0,
+            "thức ăn": 0.5,
+            "phần": 0.5,
+            "khu nấu ăn": 0.5,
+            "chả giò": 0.5,
+            "gỏi xoài": 1.0,
+            "cơm chiên lá sen": 0.5,
+            "món ăn": 2.0,
+            "kỹ thuật": 0.5,
+            "khách sạn": 0.5,
+            "nhân viên": 0.5,
+            "môi trường": 0.5,
+            "lớp học": 1.0,
+            "chợ": 2.0,
+            "nhà hàng": 0.5,
+            "khu chợ": 0.5,
+            "rau cá thịt": 0.5,
+            "lạ lùng": 0.5,
+            "trường": 1.0,
+            "súp": 0.5,
+            "salad tươi": 0.5,
+            "bánh kếp -": 0.5,
+            "chảo": 0.5,
+            "thịt tôm": 0.5,
+            "rau": 0.5,
+            "giá": 0.5,
+            "chuyến tham quan": 2.5,
+            "thị trường": 1.0,
+            "trái cây": 1.0,
+            "rau thực vật thịt": 0.5,
+            "phòng": 0.5,
+            "bếp": 0.5,
+            "bạn": 0.5,
+            "hướng dẫn viên": 1.0,
+            "nguyên liệu": 0.5,
+            "khóa học nấu ăn": 0.5,
+            "tòa nhà thuộc địa": 0.5,
+            "giải pháp": 0.5,
+            "chuyến thăm thành phố": 0.5,
+            "đồ cho": 0.5,
+            "kiến ​​thức nấu nướng": 0.5,
+            "nhà hàng hòa túc": 0.5,
+            "khu phức hợp": 0.5,
+            "tòa nhà": 0.5,
+            "nhà máy": 0.5,
+            "trường dạy nấu ăn": 0.5,
+            "phòng nấu ăn": 0.5,
+            "cuộn chiên": 0.5,
+            "rau củ giòn": 0.5,
+            "nước chấm": 0.5,
+            "rau muống non": 0.5,
+            "gà nướng": 0.5,
+            "nước mắm": 0.5,
+            "chua ngọt": 0.5,
+            "nước sốt giấm": 0.5,
+            "cơm chiên": 0.5,
+            "hạt sen": 0.5,
+            "thịt gà": 0.5,
+            "rau củ": 0.5,
+            "sen": 0.5,
+            "nước dừa": 0.5,
+            "công thức nấu ăn": 0.5,
+            "buổi": 0.5,
+            "sản phẩm địa phương": 0.5,
+            "nhà hàng địa phương": 0.5,
+            "món ăn truyền thống": 0.5,
+            "văn hóa": 0.5,
+            "đồ ăn": 1.0,
+            "ẩm thực": 0.5,
+            "thực phẩm": 0.5,
+            "chợ hoa": 0.5,
+            "tour": 0.5,
+            "món tráng miệng": 0.5
+        }
     },
     {
         "attraction_name": "Saigon Cooking Class",
@@ -741,7 +3072,281 @@
             "https://www.tripadvisor.com/Attraction_Review-g240329-d15150937-Reviews-Paul_s_Slide-Big_Sur_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or80-Saigon_Cooking_Class-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or70-Saigon_Cooking_Class-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or70-Saigon_Cooking_Class-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "buổi sáng": 0.9955712042283267,
+            "lớp học nấu ăn": 0.7419062593253329,
+            "chợ": 0.4212986994534731,
+            "gia vị": 0.5,
+            "thảo mộc": 0.5,
+            "protein": 0.5,
+            "thực phẩm": 0.5,
+            "bữa ăn": 0.9189147622528253,
+            "của": 0.5,
+            "nhà hàng": 0.6651420010797059,
+            "chả giò": -0.18399902456440032,
+            "món ăn": 0.6651595624862239,
+            "sức khỏe": 0.5,
+            "người trợ lý": 0.9935996951535344,
+            "khoảng thời gian": 0.9953072104835883,
+            "đồ ăn": 0.7019489517939898,
+            "rượu": 0.5,
+            "bếp": 0.5,
+            "phần thưởng": 0.9955424725776538,
+            "ẩm thực việt nam": 0.7476749281631783,
+            "kỹ thuật nấu ăn": 0.5,
+            "lớp học": 0.8578098973569771,
+            "chả giò gỏi": 0.5,
+            "xoài": 0.5,
+            "cơm chiên": 0.5,
+            "thức ăn": 0.6881207032129169,
+            "giảng viên": 0.9356357520446181,
+            "đồ uống": 0.669923416338861,
+            "bữa tiệc": 0.9953901915578172,
+            "thị trường": 0.9953509959159419,
+            "trải nghiệm": 0.9933874239213765,
+            "giáo viên": 0.5,
+            "sản phẩm địa phương": 0.5,
+            "trường dạy nấu ăn": 0.9951989513356239,
+            "không gian": 0.8737691454589367,
+            "nhân viên": 0.5,
+            "cơ sở": 0.9948756959056482,
+            "khu vực nấu ăn": 0.5118846148252487,
+            "đầu bếp": 0.953378988643332,
+            "bữa ăn ba món": 0.7523018885403872,
+            "khai vị": 0.5,
+            "chả giò tươi": 0.5,
+            "salad mực": 0.5,
+            "gà hầm": 0.5,
+            "món tráng miệng": 0.5,
+            "bánh": 0.5,
+            "chanh dây": 0.5,
+            "rau cuộn": 0.5,
+            "nước": 0.5,
+            "phộng": 0.5,
+            "cảnh đẹp": 0.994446293450892,
+            "người hướng dẫn": 0.8737691454589367,
+            "trẻ em": 0.5,
+            "người lớn": 0.5,
+            "tráng miệng": 0.9923374385107309,
+            "ăn chay": 0.3476586187025532,
+            "bữa sáng": -0.9420754513703287
+        },
+        "dicts_adj": {
+            "buổi sáng": [
+                "tuyệt vời"
+            ],
+            "lớp học nấu ăn": [
+                "thú vị"
+            ],
+            "chợ": [
+                "nhiều",
+                "khác"
+            ],
+            "gia vị": [],
+            "thảo mộc": [],
+            "protein": [],
+            "thực phẩm": [],
+            "bữa ăn": [
+                "cuối cùng",
+                "tuyệt vời",
+                "thú vị",
+                "út",
+                "khó khăn",
+                "riêng"
+            ],
+            "của": [],
+            "nhà hàng": [
+                "tuyệt"
+            ],
+            "chả giò": [
+                "đầu tiên"
+            ],
+            "món ăn": [
+                "ngon",
+                "tốt"
+            ],
+            "sức khỏe": [],
+            "người trợ lý": [
+                "tốt",
+                "xuất sắc"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "tuyệt chỉ",
+                "thực sự",
+                "điềm tĩnh",
+                "kiên nhẫn",
+                "ngon"
+            ],
+            "rượu": [],
+            "bếp": [],
+            "phần thưởng": [
+                "tuyệt vời"
+            ],
+            "ẩm thực việt nam": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "kỹ thuật nấu ăn": [],
+            "lớp học": [
+                "tuyệt",
+                "dễ",
+                "mới"
+            ],
+            "chả giò gỏi": [],
+            "xoài": [],
+            "cơm chiên": [],
+            "thức ăn": [
+                "ít",
+                "sẵn",
+                "nhiều",
+                "ngon"
+            ],
+            "giảng viên": [
+                "bài bản",
+                "hơn",
+                "vui vẻ"
+            ],
+            "đồ uống": [
+                "khác"
+            ],
+            "bữa tiệc": [
+                "thú vị",
+                "hơn",
+                "nhiều"
+            ],
+            "thị trường": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tốt",
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "giáo viên": [],
+            "sản phẩm địa phương": [],
+            "trường dạy nấu ăn": [
+                "thực sự",
+                "tốt"
+            ],
+            "không gian": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [],
+            "cơ sở": [
+                "sạch sẽ"
+            ],
+            "khu vực nấu ăn": [
+                "riêng"
+            ],
+            "đầu bếp": [
+                "nhiều",
+                "thú vị",
+                "lấp lánh",
+                "tuyệt vời",
+                "hữu ích",
+                "đặc biệt"
+            ],
+            "bữa ăn ba món": [
+                "riêng"
+            ],
+            "khai vị": [],
+            "chả giò tươi": [],
+            "salad mực": [],
+            "gà hầm": [],
+            "món tráng miệng": [],
+            "bánh": [],
+            "chanh dây": [],
+            "rau cuộn": [],
+            "nước": [],
+            "phộng": [],
+            "cảnh đẹp": [
+                "nhiều"
+            ],
+            "người hướng dẫn": [
+                "dễ chịu"
+            ],
+            "trẻ em": [],
+            "người lớn": [],
+            "tráng miệng": [
+                "ngon"
+            ],
+            "ăn chay": [
+                "tuyệt vời",
+                "hữu ích",
+                "đặc biệt"
+            ],
+            "bữa sáng": [
+                "duy nhất",
+                "sai lầm",
+                "no",
+                "ngon"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "buổi sáng": 0.5,
+            "lớp học nấu ăn": 2.0,
+            "chợ": 1.5,
+            "gia vị": 0.5,
+            "thảo mộc": 0.5,
+            "protein": 0.5,
+            "thực phẩm": 0.5,
+            "bữa ăn": 1.0,
+            "của": 0.5,
+            "nhà hàng": 1.5,
+            "chả giò": 1.0,
+            "món ăn": 1.5,
+            "sức khỏe": 0.5,
+            "người trợ lý": 0.5,
+            "khoảng thời gian": 0.5,
+            "đồ ăn": 1.5,
+            "rượu": 0.5,
+            "bếp": 0.5,
+            "phần thưởng": 0.5,
+            "ẩm thực việt nam": 1.0,
+            "kỹ thuật nấu ăn": 0.5,
+            "lớp học": 1.5,
+            "chả giò gỏi": 0.5,
+            "xoài": 0.5,
+            "cơm chiên": 0.5,
+            "thức ăn": 1.0,
+            "giảng viên": 0.5,
+            "đồ uống": 0.5,
+            "bữa tiệc": 0.5,
+            "thị trường": 0.5,
+            "trải nghiệm": 1.0,
+            "giáo viên": 0.5,
+            "sản phẩm địa phương": 0.5,
+            "trường dạy nấu ăn": 0.5,
+            "không gian": 0.5,
+            "nhân viên": 0.5,
+            "cơ sở": 0.5,
+            "khu vực nấu ăn": 0.5,
+            "đầu bếp": 1.5,
+            "bữa ăn ba món": 0.5,
+            "khai vị": 0.5,
+            "chả giò tươi": 0.5,
+            "salad mực": 0.5,
+            "gà hầm": 0.5,
+            "món tráng miệng": 0.5,
+            "bánh": 0.5,
+            "chanh dây": 0.5,
+            "rau cuộn": 0.5,
+            "nước": 0.5,
+            "phộng": 0.5,
+            "cảnh đẹp": 0.5,
+            "người hướng dẫn": 0.5,
+            "trẻ em": 0.5,
+            "người lớn": 0.5,
+            "tráng miệng": 0.5,
+            "ăn chay": 0.5,
+            "bữa sáng": 0.5
+        }
     },
     {
         "attraction_name": "Saigon Cooking Class",
@@ -824,7 +3429,361 @@
             "https://www.tripadvisor.com/Attraction_Review-g488129-d3212743-Reviews-Nakupenda_Beach_Nature_Reserve-Stone_Town_Zanzibar_City_Zanzibar_Island_Zanzibar_.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or90-Saigon_Cooking_Class-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or80-Saigon_Cooking_Class-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or80-Saigon_Cooking_Class-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "lớp học": 0.6581305615618476,
+            "món ăn": 0.8253188888047589,
+            "kỹ thuật": 0.9597513698972762,
+            "giáo viên": 0.8737691454589367,
+            "môi trường": 0.9928300266328733,
+            "chợ": 0.5852988034021109,
+            "trường": 0.507481656037271,
+            "cơ sở vật chất": 0.5,
+            "trải nghiệm": 0.9942386556649581,
+            "văn hóa nấu ăn": 0.9954199611674994,
+            "đồ ăn": 0.9955971196177416,
+            "hướng": 0.07006607949733734,
+            "chuyến đi": 0.9942438735160977,
+            "lớp học nấu ăn": 0.6517639538506046,
+            "chuyến tham quan": 0.8407517040614039,
+            "chuyến tham quan chợ chỉ": 0.5285545978695154,
+            "nguyên liệu nấu ăn": 0.9824062186526135,
+            "đầu bếp": 0.9346242457686458,
+            "ăn chay": 0.5836181374532836,
+            "chả giò": 0.9948157886974514,
+            "xoài": 0.9100643205456436,
+            "nhân viên": 0.9954040737356991,
+            "ẩm thực phố xe máy": 0.8737691454589367,
+            "khách sạn": 0.6768950546393171,
+            "xe đạp": 0.9950531023787335,
+            "người dân địa phương": 0.6140158013440669,
+            "khoảng thời gian": 0.9945998038165271,
+            "khu chợ bán đồ ăn": 0.5941862408071756,
+            "chợ hoa": -0.18864763295277953,
+            "khu thú cưng trường đại học chùa": 0.5,
+            "quán": 0.5,
+            "bánh tráng": 0.5,
+            "quán mì": 0.5527910720556974,
+            "buổi": -0.22636095015332103,
+            "kiến ​​thức": 0.9953352267815111,
+            "ẩm thực": 0.5857957325254878,
+            "văn hóa": 0.9955151360481977,
+            "con người": 0.9955486141261645,
+            "bàn thấp": 0.5,
+            "bún": 0.5,
+            "gánh hàng rong": 0.5,
+            "khuôn viên trường": 0.5,
+            "thực phẩm": 0.7477370875421911,
+            "chuyến tham quan địa phương": 0.9778734142892063,
+            "giáo": 0.9612111803144217,
+            "bữa ăn 3": 0.8737691454589367,
+            "món -": 0.989955349767115,
+            "sa mạc": 0.9925637278938666,
+            "chef": 0.8737691454589367,
+            "ly ở chợ": 0.8737691454589367,
+            "đầu": 0.8737691454589367,
+            "phi hành đoàn": 0.9947541624715086,
+            "giá": 0.8657735651358962,
+            "hướng dẫn viên": 0.9934112922152659,
+            "nguyên": 0.5,
+            "quầy hàng": 0.561724217608571,
+            "trái cây": 0.48537889309227467,
+            "chiếc": 0.9520118650980294,
+            "bahn mie": 0.8737691454589367,
+            "ghế": 0.15034606494009495,
+            "bức tường": 0.07958265207707882,
+            "lề đường": -0.16464609652757645,
+            "món ăn chính thống": 0.5,
+            "phòng": 0.995363007998094
+        },
+        "dicts_adj": {
+            "lớp học": [
+                "gần",
+                "gần",
+                "xứng đáng",
+                "nhỏ",
+                "thực sự",
+                "riêng",
+                "phức tạp",
+                "thú vị",
+                "hơn",
+                "nhiều"
+            ],
+            "món ăn": [
+                "dễ",
+                "nguội",
+                "sâu sắc",
+                "tự hào",
+                "ngon",
+                "khó",
+                "khác"
+            ],
+            "kỹ thuật": [],
+            "giáo viên": [
+                "thực sự",
+                "giỏi",
+                "tốt"
+            ],
+            "môi trường": [
+                "đẹp",
+                "sạch sẽ"
+            ],
+            "chợ": [
+                "sâu sắc",
+                "riêng",
+                "sâu sắc",
+                "riêng"
+            ],
+            "trường": [
+                "nhỏ"
+            ],
+            "cơ sở vật chất": [],
+            "trải nghiệm": [
+                "tốt",
+                "tuyệt vời",
+                "thú vị"
+            ],
+            "văn hóa nấu ăn": [
+                "tuyệt"
+            ],
+            "đồ ăn": [
+                "tuyệt"
+            ],
+            "hướng": [],
+            "chuyến đi": [
+                "nổi bật"
+            ],
+            "lớp học nấu ăn": [
+                "rõ",
+                "hơn",
+                "ngon"
+            ],
+            "chuyến tham quan": [
+                "rõ",
+                "hơn",
+                "thực sự",
+                "vui vẻ",
+                "hữu ích",
+                "nhiều"
+            ],
+            "chuyến tham quan chợ chỉ": [
+                "rõ",
+                "hơn"
+            ],
+            "nguyên liệu nấu ăn": [
+                "nhiều",
+                "thú vị"
+            ],
+            "đầu bếp": [
+                "rõ",
+                "hơn",
+                "tuyệt vời"
+            ],
+            "ăn chay": [
+                "đặc biệt",
+                "khác",
+                "chắc chắn",
+                "sẵn sàng",
+                "khác",
+                "chắc chắn",
+                "sẵn sàng"
+            ],
+            "chả giò": [
+                "xanh"
+            ],
+            "xoài": [
+                "xanh"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "thực sự",
+                "cảm động"
+            ],
+            "ẩm thực phố xe máy": [
+                "tuyệt vời"
+            ],
+            "khách sạn": [
+                "chính xác",
+                "lịch sự",
+                "sớm"
+            ],
+            "xe đạp": [
+                "tuyệt vời"
+            ],
+            "người dân địa phương": [
+                "tấp nập"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "khu chợ bán đồ ăn": [
+                "khác"
+            ],
+            "chợ hoa": [
+                "cần thiết"
+            ],
+            "khu thú cưng trường đại học chùa": [],
+            "quán": [],
+            "bánh tráng": [],
+            "quán mì": [
+                "khác"
+            ],
+            "buổi": [
+                "nhiều"
+            ],
+            "kiến ​​thức": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "biết ơn"
+            ],
+            "ẩm thực": [
+                "sâu sắc",
+                "sớm"
+            ],
+            "văn hóa": [
+                "tuyệt vời"
+            ],
+            "con người": [
+                "tuyệt vời"
+            ],
+            "bàn thấp": [],
+            "bún": [],
+            "gánh hàng rong": [],
+            "khuôn viên trường": [],
+            "thực phẩm": [
+                "biết ơn"
+            ],
+            "chuyến tham quan địa phương": [],
+            "giáo": [],
+            "bữa ăn 3": [
+                "nhẹ",
+                "mệt mỏi"
+            ],
+            "món -": [
+                "nhẹ",
+                "mệt mỏi"
+            ],
+            "sa mạc": [],
+            "chef": [
+                "tuyệt vời"
+            ],
+            "ly ở chợ": [
+                "tuyệt vời"
+            ],
+            "đầu": [
+                "kiên nhẫn",
+                "hữu ích"
+            ],
+            "phi hành đoàn": [
+                "kiên nhẫn",
+                "hữu ích"
+            ],
+            "giá": [
+                "thông thường"
+            ],
+            "hướng dẫn viên": [
+                "tử tế",
+                "hữu ích",
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "nguyên": [],
+            "quầy hàng": [
+                "quen thuộc"
+            ],
+            "trái cây": [
+                "quen thuộc"
+            ],
+            "chiếc": [
+                "đích thực"
+            ],
+            "bahn mie": [
+                "đích thực"
+            ],
+            "ghế": [
+                "nhỏ"
+            ],
+            "bức tường": [
+                "hẹp"
+            ],
+            "lề đường": [
+                "hẹp"
+            ],
+            "món ăn chính thống": [],
+            "phòng": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [
+            "đi bộ đầu bếp"
+        ],
+        "factor value": {
+            "lớp học": 2.0,
+            "món ăn": 3.0,
+            "kỹ thuật": 0.5,
+            "giáo viên": 0.5,
+            "môi trường": 0.5,
+            "chợ": 1.5,
+            "trường": 1.0,
+            "cơ sở vật chất": 0.5,
+            "trải nghiệm": 1.5,
+            "văn hóa nấu ăn": 0.5,
+            "đồ ăn": 0.5,
+            "hướng": 0.5,
+            "chuyến đi": 0.5,
+            "lớp học nấu ăn": 1.5,
+            "chuyến tham quan": 2.0,
+            "chuyến tham quan chợ chỉ": 0.5,
+            "nguyên liệu nấu ăn": 0.5,
+            "đầu bếp": 1.0,
+            "ăn chay": 0.5,
+            "chả giò": 0.5,
+            "xoài": 0.5,
+            "nhân viên": 0.5,
+            "ẩm thực phố xe máy": 0.5,
+            "khách sạn": 1.0,
+            "xe đạp": 0.5,
+            "người dân địa phương": 1.0,
+            "khoảng thời gian": 0.5,
+            "khu chợ bán đồ ăn": 0.5,
+            "chợ hoa": 1.0,
+            "khu thú cưng trường đại học chùa": 0.5,
+            "quán": 0.5,
+            "bánh tráng": 0.5,
+            "quán mì": 0.5,
+            "buổi": 1.0,
+            "kiến ​​thức": 0.5,
+            "ẩm thực": 1.5,
+            "văn hóa": 0.5,
+            "con người": 0.5,
+            "bàn thấp": 0.5,
+            "bún": 0.5,
+            "gánh hàng rong": 0.5,
+            "khuôn viên trường": 0.5,
+            "thực phẩm": 1.0,
+            "chuyến tham quan địa phương": 0.5,
+            "giáo": 0.5,
+            "bữa ăn 3": 0.5,
+            "món -": 0.5,
+            "sa mạc": 0.5,
+            "chef": 0.5,
+            "ly ở chợ": 0.5,
+            "đầu": 0.5,
+            "phi hành đoàn": 0.5,
+            "giá": 0.5,
+            "hướng dẫn viên": 1.5,
+            "nguyên": 0.5,
+            "quầy hàng": 0.5,
+            "trái cây": 0.5,
+            "chiếc": 0.5,
+            "bahn mie": 0.5,
+            "ghế": 0.5,
+            "bức tường": 0.5,
+            "lề đường": 0.5,
+            "món ăn chính thống": 0.5,
+            "phòng": 0.5
+        }
     },
     {
         "attraction_name": "Saigon Cooking Class",
@@ -927,6 +3886,248 @@
             "https://www.tripadvisor.com/Attraction_Review-g1407334-d6104104-Reviews-Mirissa_Beach-Mirissa_Southern_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or100-Saigon_Cooking_Class-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or90-Saigon_Cooking_Class-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2173570-Reviews-or90-Saigon_Cooking_Class-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nguyên liệu": 0.24644627125235274,
+            "món ăn": 0.8959147215064149,
+            "ẩm thực": 0.6794044259004295,
+            "khoảng thời gian": 0.9950635794375557,
+            "lớp học nấu ăn": 0.6647058524734651,
+            "chuyến tham quan": 0.5459430301561952,
+            "sản phẩm địa phương": 0.989069894887507,
+            "giáo viên": 0.995368913281709,
+            "thức ăn": 0.9346880609518848,
+            "đầu bếp": 0.9623227205011062,
+            "không khí": -0.03164703166112304,
+            "hướng dẫn viên": 0.8737691454589367,
+            "khu vực": 0.5,
+            "thực phẩm": 0.74751982052112,
+            "thị trường": 0.7171083590947092,
+            "thực đơn": 0.9849687428213656,
+            "kiến ​​thức": 0.9843956110998988,
+            "lớp học": 0.9186969180445885,
+            "rau củ": 0.97994878096506,
+            "bữa ăn": 0.5100471284240484,
+            "nhân viên": 0.9951217907655519,
+            "chuyến phiêu lưu": 0.9954609330161475,
+            "ẩm thực việt nam": 0.8737691454589367,
+            "trải nghiệm": 0.7652185643091798,
+            "nhà hàng": 0.011368910869350657,
+            "buổi sáng": 0.995575126260519,
+            "đó ăn": 0.9951838121342007,
+            "đồ ăn": 0.6290462823817506,
+            "tour du lịch": 0.5,
+            "bảo tàng": 0.5,
+            "nhà hàng lớp học nấu ăn": 0.8737691454589367,
+            "phòng": 0.9954384338925593,
+            "ánh sáng": 0.9309077933430672,
+            "chất lượng": 0.9921769790817052,
+            "lịch sử": 0.5,
+            "ba món": 0.585647895000875,
+            "người chưa nấu nướng": 0.9945770648191683,
+            "trà ngon": 0.5,
+            "đồ uống": -0.9737042979104444,
+            "bia nước ngọt có ga": 0.5,
+            "nước trái cây": 0.5
+        },
+        "dicts_adj": {
+            "nguyên liệu": [
+                "thực sự",
+                "độc đáo",
+                "thực sự",
+                "tốt",
+                "khác"
+            ],
+            "món ăn": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "nhất",
+                "mới",
+                "ngon",
+                "đơn giản",
+                "ngon"
+            ],
+            "ẩm thực": [
+                "vui",
+                "khác biệt",
+                "tuyệt vời"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "lớp học nấu ăn": [
+                "lớn",
+                "hoàn hảo"
+            ],
+            "chuyến tham quan": [],
+            "sản phẩm địa phương": [
+                "thực sự",
+                "nhiều"
+            ],
+            "giáo viên": [
+                "tuyệt vời",
+                "vui vẻ"
+            ],
+            "thức ăn": [
+                "ngon",
+                "ngon"
+            ],
+            "đầu bếp": [
+                "tốt",
+                "tuyệt vời",
+                "thú vị",
+                "khác",
+                "tốt",
+                "dễ"
+            ],
+            "không khí": [
+                "tuyệt vời",
+                "thoải mái"
+            ],
+            "hướng dẫn viên": [
+                "nhiều",
+                "thú vị"
+            ],
+            "khu vực": [],
+            "thực phẩm": [
+                "thực sự",
+                "lạ"
+            ],
+            "thị trường": [
+                "nổi bật"
+            ],
+            "thực đơn": [
+                "sẵn lòng",
+                "cùng"
+            ],
+            "kiến ​​thức": [
+                "tốt"
+            ],
+            "lớp học": [
+                "thực sự",
+                "khác",
+                "dài",
+                "khoảng",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "rau củ": [
+                "lạ"
+            ],
+            "bữa ăn": [],
+            "nhân viên": [
+                "hữu ích",
+                "tốt"
+            ],
+            "chuyến phiêu lưu": [
+                "tuyệt vời"
+            ],
+            "ẩm thực việt nam": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "đầu tiên",
+                "tốt",
+                "thực sự",
+                "thú vị",
+                "nóng",
+                "Chắc chắn",
+                "bất kỳ"
+            ],
+            "nhà hàng": [
+                "đơn giản",
+                "ngon",
+                "khác"
+            ],
+            "buổi sáng": [
+                "đơn giản",
+                "ngon"
+            ],
+            "đó ăn": [
+                "đơn giản",
+                "ngon"
+            ],
+            "đồ ăn": [
+                "đơn giản",
+                "ngon"
+            ],
+            "tour du lịch": [],
+            "bảo tàng": [],
+            "nhà hàng lớp học nấu ăn": [
+                "nhỏ"
+            ],
+            "phòng": [
+                "tốt",
+                "tốt"
+            ],
+            "ánh sáng": [
+                "tự nhiên"
+            ],
+            "chất lượng": [
+                "tốt"
+            ],
+            "lịch sử": [],
+            "ba món": [
+                "khác"
+            ],
+            "người chưa nấu nướng": [
+                "ngon",
+                "dễ dàng",
+                "nhiều"
+            ],
+            "trà ngon": [],
+            "đồ uống": [
+                "khác"
+            ],
+            "bia nước ngọt có ga": [],
+            "nước trái cây": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nguyên liệu": 1.0,
+            "món ăn": 2.5,
+            "ẩm thực": 1.0,
+            "khoảng thời gian": 1.0,
+            "lớp học nấu ăn": 1.5,
+            "chuyến tham quan": 1.0,
+            "sản phẩm địa phương": 0.5,
+            "giáo viên": 0.5,
+            "thức ăn": 1.0,
+            "đầu bếp": 3.0,
+            "không khí": 1.0,
+            "hướng dẫn viên": 0.5,
+            "khu vực": 0.5,
+            "thực phẩm": 1.0,
+            "thị trường": 1.0,
+            "thực đơn": 0.5,
+            "kiến ​​thức": 0.5,
+            "lớp học": 2.0,
+            "rau củ": 0.5,
+            "bữa ăn": 0.5,
+            "nhân viên": 1.0,
+            "chuyến phiêu lưu": 0.5,
+            "ẩm thực việt nam": 0.5,
+            "trải nghiệm": 1.0,
+            "nhà hàng": 1.0,
+            "buổi sáng": 0.5,
+            "đó ăn": 0.5,
+            "đồ ăn": 0.5,
+            "tour du lịch": 0.5,
+            "bảo tàng": 0.5,
+            "nhà hàng lớp học nấu ăn": 0.5,
+            "phòng": 0.5,
+            "ánh sáng": 0.5,
+            "chất lượng": 0.5,
+            "lịch sử": 0.5,
+            "ba món": 0.5,
+            "người chưa nấu nướng": 0.5,
+            "trà ngon": 0.5,
+            "đồ uống": 0.5,
+            "bia nước ngọt có ga": 0.5,
+            "nước trái cây": 0.5
+        }
     }
 ]

@@ -77,7 +77,337 @@
             "https://www.tripadvisor.com/Attraction_Review-g188098-d531608-Reviews-Gornergrat-Zermatt_Canton_of_Valais_Swiss_Alps.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d25178358-Reviews-or10-Asia_Exotica_Indochina-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d25178358-Reviews-Asia_Exotica_Indochina-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d25178358-Reviews-Asia_Exotica_Indochina-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9948552806279622,
+            "chuyến tham quan": 0.7122648383540634,
+            "khách sạn": 0.14576026097347494,
+            "chuyến du ngoạn": 0.5,
+            "hướng dẫn viên": 0.9220992944569194,
+            "người": 0.9790887213312089,
+            "lễ tiếp": 0.5,
+            "lễ phật": 0.5,
+            "chùa": 0.5,
+            "trái cây": 0.5,
+            "dịch vụ": 0.7915962921154763,
+            "siem reap": 0.9173286301083863,
+            "công": 0.8737691454589367,
+            "ngôi đền": 0.41849476391022716,
+            "kiến thức lịch sử": 0.8737691454589367,
+            "tàn tích": 0.5724550088246664,
+            "angkor thom": 0.8737691454589367,
+            "câu chuyện": 0.5,
+            "trải nghiệm sống": 0.5,
+            "chuyến đi": 0.9938854018619168,
+            "hành trình": 0.9955197495874017,
+            "văn hóa": 0.8297864828103533,
+            "lịch sử": 0.5,
+            "địa điểm khảo cổ": 0.9863976328633726,
+            "sân": 0.9948463005712256,
+            "quà tặng": 0.9954583772923797,
+            "đường phố": 0.9956033146008849,
+            "cửa hàng": 0.9956042282865383,
+            "nhà hàng": 0.9954903210455086,
+            "giường": 0.9946579784736969,
+            "địa điểm": 0.9954716530628502,
+            "đất nước": 0.995484390121419,
+            "vị trí": 0.9945980351185426,
+            "kiến ​​thức địa phương": 0.9949041745567229,
+            "uống nước": 0.9953062765998766,
+            "người hướng dẫn": 0.9834669795818627,
+            "cuốn sách": 0.5,
+            "khăn lụa": 0.5,
+            "hoa sen": 0.5,
+            "cửa hàng thủ công địa phương": 0.5,
+            "khăn": 0.9837990255909972,
+            "mát nước": 0.9956001745304093,
+            "không khí": -0.2382333823479712,
+            "tráng lệ": 0.9954573943687137,
+            "con người": 0.9954943337652367,
+            "đồ ăn": 0.9953846970311133,
+            "hướng dẫn viên du lịch": 0.8540188712067902,
+            "hướng dẫn viên du": 0.9883057959377766,
+            "nhiếp ảnh gia": 0.9925297970185056,
+            "kiến ​​thức tính": 0.9950913005159236,
+            "cơ quan": 0.9888265237677842,
+            "người ăn chay": 0.9929504077881575,
+            "máy lạnh nước": 0.9918650181498379,
+            "hương thơm": 0.5,
+            "mát mẻ": 0.5,
+            "siêm": -0.9449491505511105,
+            "phi hành đoàn": 0.9956024950370193
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời",
+                "đẹp đẽ",
+                "thú vị",
+                "chuyên nghiệp",
+                "ấm áp",
+                "tử tế",
+                "thực sự",
+                "độc đáo"
+            ],
+            "chuyến tham quan": [
+                "đặc biệt"
+            ],
+            "khách sạn": [
+                "xuất sắc",
+                "bất ngờ",
+                "đầy",
+                "tuyệt vời",
+                "đẹp",
+                "cao"
+            ],
+            "chuyến du ngoạn": [],
+            "hướng dẫn viên": [
+                "xuất sắc",
+                "đặc biệt",
+                "đẹp",
+                "riêng",
+                "chu đáo",
+                "nhiều",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "người": [
+                "xuất sắc"
+            ],
+            "lễ tiếp": [],
+            "lễ phật": [],
+            "chùa": [],
+            "trái cây": [],
+            "dịch vụ": [
+                "nhiều",
+                "hơn",
+                "chuyên nghiệp",
+                "tử tế",
+                "thực sự",
+                "tốt",
+                "muộn",
+                "hơn"
+            ],
+            "siem reap": [],
+            "công": [
+                "bất ngờ",
+                "đầy"
+            ],
+            "ngôi đền": [
+                "vô giá",
+                "tuyệt vời",
+                "sạch sẽ",
+                "xinh đẹp"
+            ],
+            "kiến thức lịch sử": [
+                "sâu sắc"
+            ],
+            "tàn tích": [
+                "thực sự",
+                "rõ",
+                "hơn"
+            ],
+            "angkor thom": [
+                "sâu sắc"
+            ],
+            "câu chuyện": [],
+            "trải nghiệm sống": [],
+            "chuyến đi": [
+                "ấm áp",
+                "đặc biệt",
+                "hơn",
+                "thực sự",
+                "đặc biệt",
+                "nhiều",
+                "khó",
+                "thoải mái",
+                "suốt",
+                "chắc chắn",
+                "tuyệt vời",
+                "chắc chắn",
+                "cùng",
+                "lãng mạn"
+            ],
+            "hành trình": [
+                "bổ íchNhờ"
+            ],
+            "văn hóa": [
+                "tuyệt vời",
+                "nhiều",
+                "thực sự"
+            ],
+            "lịch sử": [],
+            "địa điểm khảo cổ": [
+                "chính xác",
+                "chi tiết"
+            ],
+            "sân": [
+                "tuyệt vời"
+            ],
+            "quà tặng": [
+                "tuyệt vời"
+            ],
+            "đường phố": [
+                "sạch sẽ",
+                "đẹp đẽ"
+            ],
+            "cửa hàng": [
+                "sạch sẽ",
+                "đẹp đẽ"
+            ],
+            "nhà hàng": [
+                "sạch sẽ",
+                "đẹp đẽ"
+            ],
+            "giường": [
+                "thoải mái"
+            ],
+            "địa điểm": [
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "đất nước": [
+                "tuyệt vời",
+                "hoàn toàn"
+            ],
+            "vị trí": [
+                "tốt"
+            ],
+            "kiến ​​thức địa phương": [
+                "chính xác",
+                "khách quan"
+            ],
+            "uống nước": [
+                "thoải mái",
+                "thân thiện",
+                "lạnh",
+                "nóng"
+            ],
+            "người hướng dẫn": [
+                "tốt",
+                "tốt"
+            ],
+            "cuốn sách": [],
+            "khăn lụa": [],
+            "hoa sen": [],
+            "cửa hàng thủ công địa phương": [],
+            "khăn": [
+                "thơm",
+                "sạch"
+            ],
+            "mát nước": [
+                "thơm"
+            ],
+            "không khí": [
+                "thơm"
+            ],
+            "tráng lệ": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "con người": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "đồ ăn": [
+                "tuyệt vời",
+                "tốt",
+                "sạch"
+            ],
+            "hướng dẫn viên du lịch": [
+                "chắc chắn",
+                "hơn",
+                "nhiều"
+            ],
+            "hướng dẫn viên du": [
+                "khác biệt"
+            ],
+            "nhiếp ảnh gia": [
+                "đẹp"
+            ],
+            "kiến ​​thức tính": [
+                "chuyên nghiệp"
+            ],
+            "cơ quan": [
+                "cao",
+                "nhất",
+                "nhỏ",
+                "hiệu quả",
+                "nhanh chóng"
+            ],
+            "người ăn chay": [
+                "sạch"
+            ],
+            "máy lạnh nước": [
+                "sạch"
+            ],
+            "hương thơm": [],
+            "mát mẻ": [],
+            "siêm": [],
+            "phi hành đoàn": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 5.0,
+            "chuyến tham quan": 3.5,
+            "khách sạn": 8.0,
+            "chuyến du ngoạn": 2,
+            "hướng dẫn viên": 10.5,
+            "người": 1.5,
+            "lễ tiếp": 1.5,
+            "lễ phật": 1.5,
+            "chùa": 1.5,
+            "trái cây": 1.5,
+            "dịch vụ": 4.5,
+            "siem reap": 1.5,
+            "công": 1.5,
+            "ngôi đền": 4.5,
+            "kiến thức lịch sử": 1.5,
+            "tàn tích": 1.5,
+            "angkor thom": 1.5,
+            "câu chuyện": 1.5,
+            "trải nghiệm sống": 1.5,
+            "chuyến đi": 3.0,
+            "hành trình": 1.5,
+            "văn hóa": 4.5,
+            "lịch sử": 1.5,
+            "địa điểm khảo cổ": 1.5,
+            "sân": 1.5,
+            "quà tặng": 1.5,
+            "đường phố": 1.5,
+            "cửa hàng": 1.5,
+            "nhà hàng": 1.5,
+            "giường": 1.5,
+            "địa điểm": 1.5,
+            "đất nước": 1.5,
+            "vị trí": 1.5,
+            "kiến ​​thức địa phương": 1.5,
+            "uống nước": 1.5,
+            "người hướng dẫn": 3.0,
+            "cuốn sách": 1.5,
+            "khăn lụa": 1.5,
+            "hoa sen": 1.5,
+            "cửa hàng thủ công địa phương": 1.5,
+            "khăn": 3.0,
+            "mát nước": 1.5,
+            "không khí": 3.0,
+            "tráng lệ": 1.5,
+            "con người": 1.5,
+            "đồ ăn": 3.0,
+            "hướng dẫn viên du lịch": 3.0,
+            "hướng dẫn viên du": 1.5,
+            "nhiếp ảnh gia": 1.5,
+            "kiến ​​thức tính": 1.5,
+            "cơ quan": 1.5,
+            "người ăn chay": 1.5,
+            "máy lạnh nước": 1.5,
+            "hương thơm": 1.5,
+            "mát mẻ": 1.5,
+            "siêm": 1.5,
+            "phi hành đoàn": 1.5
+        }
     },
     {
         "attraction_name": "Asia Exotica Indochina",
@@ -158,7 +488,204 @@
             "https://www.tripadvisor.com/Attraction_Review-g14782503-d379335-Reviews-Yogyakarta_Palace-Yogyakarta_Yogyakarta_Region_Java.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d25178358-Reviews-or20-Asia_Exotica_Indochina-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d25178358-Reviews-or10-Asia_Exotica_Indochina-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d25178358-Reviews-or10-Asia_Exotica_Indochina-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên": 0.8450427779229358,
+            "chuyến lưu diễn": 0.5,
+            "trải nghiệm": 0.9952574848313815,
+            "ngôi đền": 0.9200633723327579,
+            "văn hóa": -0.04128226300235838,
+            "tôn giáo": 0.8460040995851159,
+            "ngôi chùa": 0.7151406799384858,
+            "chuyến tham quan": 0.9942977157770656,
+            "lịch sử": 0.664337726853167,
+            "tuần trăng mật": 0.994056218827609,
+            "hằng đến": 0.9936853760154918,
+            "đồ ăn": 0.9955165396095254,
+            "dịch vụ": 0.9955617746454664,
+            "angkor wat": 0.8737691454589367,
+            "địa điểm": 0.9936828715435695,
+            "tín ngưỡng phật giáo": 0.8737691454589367,
+            "chuyến đi": 0.75579528772505,
+            "chai nước": 0.9569198897806928,
+            "ta": 0.8737691454589367,
+            "mọi người": -0.14184291660785675,
+            "mọi": 0.9920808041933924,
+            "bối cảnh": 0.5,
+            "nhân viên": 0.9920682379743084,
+            "tour": 0.8737691454589367,
+            "kênh truyền thông": 0.9794227200133415,
+            "nhà hàng": 0.8737691454589367,
+            "ky": 0.9891646227721745,
+            "công ty du lịch": 0.8737691454589367,
+            "người chofer kong": 0.9953701949561946,
+            "đội ngũ": 0.9943515456980094
+        },
+        "dicts_adj": {
+            "hướng dẫn viên": [
+                "hữu ích",
+                "lịch sự",
+                "thực sự",
+                "tuyệt vời",
+                "xuất sắc",
+                "tuyệt vời",
+                "tốt",
+                "xuất sắc",
+                "cao",
+                "sáng suốt"
+            ],
+            "chuyến lưu diễn": [],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "đẹp",
+                "thực sự",
+                "tuyệt vời",
+                "xuất sắc",
+                "thú vị",
+                "tuyệt vời"
+            ],
+            "ngôi đền": [
+                "quan trọng",
+                "khắp",
+                "đẹp",
+                "quan trọng",
+                "nóng"
+            ],
+            "văn hóa": [
+                "thực sự",
+                "rõ",
+                "hơn"
+            ],
+            "tôn giáo": [
+                "thực sự"
+            ],
+            "ngôi chùa": [
+                "thực sự",
+                "hữu ích"
+            ],
+            "chuyến tham quan": [
+                "hữu ích",
+                "tuyệt vời"
+            ],
+            "lịch sử": [
+                "hữu ích"
+            ],
+            "tuần trăng mật": [
+                "đơn giản"
+            ],
+            "hằng đến": [
+                "kỳ lạ",
+                "tốt"
+            ],
+            "đồ ăn": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "angkor wat": [
+                "thực sự",
+                "tuyệt vời",
+                "xuất sắc",
+                "đẹp"
+            ],
+            "địa điểm": [
+                "đẹp",
+                "nhất",
+                "tuyệt vời",
+                "đẹp",
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "tín ngưỡng phật giáo": [
+                "đúng",
+                "am hiểu"
+            ],
+            "chuyến đi": [
+                "tuyệt vời"
+            ],
+            "chai nước": [
+                "quan trọng",
+                "nóng"
+            ],
+            "ta": [
+                "đẹp"
+            ],
+            "mọi người": [
+                "thư giãn"
+            ],
+            "mọi": [
+                "tử tế"
+            ],
+            "bối cảnh": [],
+            "nhân viên": [
+                "tốt",
+                "chuyên nghiệp"
+            ],
+            "tour": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "kênh truyền thông": [
+                "tuyệt vời",
+                "đúng",
+                "cao"
+            ],
+            "nhà hàng": [
+                "tuyệt vời",
+                "đúng",
+                "cao"
+            ],
+            "ky": [
+                "xuất sắc",
+                "cao",
+                "sáng suốt"
+            ],
+            "công ty du lịch": [
+                "xuất sắc",
+                "cao",
+                "sáng suốt"
+            ],
+            "người chofer kong": [
+                "thật sự",
+                "tuyệt vời"
+            ],
+            "đội ngũ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên": 5,
+            "chuyến lưu diễn": 1,
+            "trải nghiệm": 5,
+            "ngôi đền": 3,
+            "văn hóa": 2,
+            "tôn giáo": 1,
+            "ngôi chùa": 2,
+            "chuyến tham quan": 2,
+            "lịch sử": 3,
+            "tuần trăng mật": 2,
+            "hằng đến": 1,
+            "đồ ăn": 1,
+            "dịch vụ": 1,
+            "angkor wat": 2,
+            "địa điểm": 2,
+            "tín ngưỡng phật giáo": 1,
+            "chuyến đi": 2,
+            "chai nước": 1,
+            "ta": 1,
+            "mọi người": 1,
+            "mọi": 1,
+            "bối cảnh": 1,
+            "nhân viên": 1,
+            "tour": 1,
+            "kênh truyền thông": 1,
+            "nhà hàng": 1,
+            "ky": 1,
+            "công ty du lịch": 1,
+            "người chofer kong": 1,
+            "đội ngũ": 1
+        }
     },
     {
         "attraction_name": "Asia Exotica Indochina",
@@ -235,6 +762,151 @@
             "https://www.tripadvisor.com/Attraction_Review-g33045-d104227-Reviews-Santa_Barbara_Botanic_Garden-Santa_Barbara_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d25178358-Reviews-or30-Asia_Exotica_Indochina-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d25178358-Reviews-or20-Asia_Exotica_Indochina-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d25178358-Reviews-or20-Asia_Exotica_Indochina-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.9346007333369926,
+            "angkor": 0.8737691454589367,
+            "siem reap": 0.8737691454589367,
+            "trải nghiệm": 0.9652975922993695,
+            "kiến thức": 0.9952955651097,
+            "buna": 0.8737691454589367,
+            "dịch vụ": 0.9946399127366021,
+            "chuyến tham quan": 0.9818023753759917,
+            "hướng dẫn viên": 0.9894785665965173,
+            "lịch sử": 0.9925034357002005,
+            "con người văn hóa": 0.9614762356504798,
+            "món ăn": 0.995578886300791,
+            "địa điểm": 0.9954592013382353,
+            "người": 0.5,
+            "chuyến tham quan thouen": 0.5,
+            "sinh vật": 0.9954650483559817,
+            "văn hóa": 0.8737691454589367,
+            "tour du lịch": 0.9947007561568171,
+            "đội ngũ": 0.9956023826962337,
+            "đất nước": 0.978988274349831,
+            "lưu trú": 0.5,
+            "chuyến đi": 0.9955435617594048,
+            "ngôi đền": 0.995573035266716,
+            "quang cảnh": 0.9955586664145812
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "xuất sắc",
+                "tử tế",
+                "đơn giản"
+            ],
+            "angkor": [
+                "chắc chắn",
+                "đẹp"
+            ],
+            "siem reap": [
+                "chắc chắn",
+                "đẹp"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "nhiều",
+                "tuyệt vời",
+                "tuyệt vời",
+                "nhất",
+                "nhất",
+                "nhất",
+                "tuyệt vời",
+                "tuyệt vời",
+                "nhất"
+            ],
+            "kiến thức": [
+                "phong phú",
+                "vui",
+                "nhanh nhẹn"
+            ],
+            "buna": [
+                "thực sự"
+            ],
+            "dịch vụ": [
+                "nhiều",
+                "thực sự"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "nhất"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "lịch sự"
+            ],
+            "lịch sử": [
+                "ngon"
+            ],
+            "con người văn hóa": [
+                "ngon"
+            ],
+            "món ăn": [
+                "ngon"
+            ],
+            "địa điểm": [
+                "tràn đầy",
+                "nhiều",
+                "tốt"
+            ],
+            "người": [],
+            "chuyến tham quan thouen": [],
+            "sinh vật": [
+                "vô hạn",
+                "tuyệt vời"
+            ],
+            "văn hóa": [
+                "đơn giản"
+            ],
+            "tour du lịch": [
+                "tuyệt vời"
+            ],
+            "đội ngũ": [
+                "cùng"
+            ],
+            "đất nước": [
+                "xinh đẹp",
+                "cùng",
+                "suốt"
+            ],
+            "lưu trú": [],
+            "chuyến đi": [
+                "tuyệt vời"
+            ],
+            "ngôi đền": [
+                "tuyệt vời"
+            ],
+            "quang cảnh": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 2,
+            "angkor": 1,
+            "siem reap": 1,
+            "trải nghiệm": 6,
+            "kiến thức": 1,
+            "buna": 1,
+            "dịch vụ": 1,
+            "chuyến tham quan": 1,
+            "hướng dẫn viên": 2,
+            "lịch sử": 1,
+            "con người văn hóa": 1,
+            "món ăn": 1,
+            "địa điểm": 1,
+            "người": 1,
+            "chuyến tham quan thouen": 1,
+            "sinh vật": 1,
+            "văn hóa": 1,
+            "tour du lịch": 1,
+            "đội ngũ": 1,
+            "đất nước": 1,
+            "lưu trú": 1,
+            "chuyến đi": 1,
+            "ngôi đền": 1,
+            "quang cảnh": 1
+        }
     }
 ]

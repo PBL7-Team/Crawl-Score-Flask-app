@@ -107,7 +107,160 @@
             "https://www.tripadvisor.com/Attraction_Review-g42256-d656374-Reviews-John_Ball_Zoo-Grand_Rapids_Kent_County_Michigan.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d17464979-Reviews-or10-Kim_Bespoke-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d17464979-Reviews-Kim_Bespoke-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d17464979-Reviews-Kim_Bespoke-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "giá": 0.5,
+            "bespoke": 0.5,
+            "bộ vest": 0.7173187328476666,
+            "dịch vụ": 0.9014562409720384,
+            "phong cách": 0.8588397447019815,
+            "bộ đồ": 0.8455758296884597,
+            "phong": 0.5129423532634974,
+            "nhà tạo mẫu": 0.9869321038713679,
+            "bộ": 0.9952287906780839,
+            "áo khoác blazer": 0.9947258629836142,
+            "áo sơ mi": 0.7632473936343255,
+            "áo đến": 0.5,
+            "chất lượng": 0.7460884895408526,
+            "cửa hàng": 0.9183713314123452,
+            "trải nghiệm": 0.8554193945165025,
+            "kim bộ": 0.6282314173877239,
+            "mức giá": 0.5,
+            "túi tiền": 0.5,
+            "thợ may": 0.8905282840132713,
+            "áo sơ mi trắng": 0.5,
+            "vải": 0.5045910626649857,
+            "áo": 0.8853153269737959,
+            "sau 3": -0.6775776976719499,
+            "thợ may vest": 0.5561164617538452,
+            "bộ đồ ăn": 0.9920568021479994,
+            "may bộ đồ": 0.9744261824525893,
+            "nhân viên": 0.7476561926014256,
+            "đám cưới": 0.5
+        },
+        "dicts_adj": {
+            "giá": [],
+            "bespoke": [],
+            "bộ vest": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "khoảng",
+                "bối rối",
+                "đặc biệt",
+                "cuối cùng",
+                "đầu tiên",
+                "cao cấp",
+                "tốt",
+                "chắc chắn",
+                "riêng"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tốt",
+                "tốt"
+            ],
+            "phong cách": [
+                "sang trọng"
+            ],
+            "bộ đồ": [
+                "độc đáo",
+                "có thể",
+                "sẵn sàng",
+                "cuối cùng",
+                "đầu tiên",
+                "riêng",
+                "thực sự",
+                "chuyên nghiệp",
+                "tuyệt vời"
+            ],
+            "phong": [
+                "lịch sự"
+            ],
+            "nhà tạo mẫu": [
+                "thực sự",
+                "riêng"
+            ],
+            "bộ": [
+                "tuyệt vời"
+            ],
+            "áo khoác blazer": [
+                "tuyệt vời"
+            ],
+            "áo sơ mi": [
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "áo đến": [],
+            "chất lượng": [
+                "tốt"
+            ],
+            "cửa hàng": [
+                "sang trọng"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "khoảng",
+                "thực sự"
+            ],
+            "kim bộ": [],
+            "mức giá": [],
+            "túi tiền": [],
+            "thợ may": [
+                "kỹ lưỡng"
+            ],
+            "áo sơ mi trắng": [],
+            "vải": [
+                "kỹ lưỡng"
+            ],
+            "áo": [
+                "đầy đủ",
+                "đầy đủ"
+            ],
+            "sau 3": [],
+            "thợ may vest": [
+                "đầu tiên"
+            ],
+            "bộ đồ ăn": [
+                "vui"
+            ],
+            "may bộ đồ": [],
+            "nhân viên": [
+                "hài lòng"
+            ],
+            "đám cưới": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "giá": 1,
+            "bespoke": 1,
+            "bộ vest": 4.5,
+            "dịch vụ": 3.0,
+            "phong cách": 1,
+            "bộ đồ": 2.5,
+            "phong": 1,
+            "nhà tạo mẫu": 1,
+            "bộ": 0.5,
+            "áo khoác blazer": 0.5,
+            "áo sơ mi": 1.5,
+            "áo đến": 0.5,
+            "chất lượng": 1.0,
+            "cửa hàng": 0.5,
+            "trải nghiệm": 1.0,
+            "kim bộ": 0.5,
+            "mức giá": 0.5,
+            "túi tiền": 0.5,
+            "thợ may": 0.5,
+            "áo sơ mi trắng": 0.5,
+            "vải": 0.5,
+            "áo": 0.5,
+            "sau 3": 0.5,
+            "thợ may vest": 0.5,
+            "bộ đồ ăn": 0.5,
+            "may bộ đồ": 0.5,
+            "nhân viên": 1.0,
+            "đám cưới": 0.5
+        }
     },
     {
         "attraction_name": "Kim Bespoke",
@@ -201,6 +354,47 @@
             "https://www.tripadvisor.com/Attraction_Review-g303814-d10351192-Reviews-Makarana_Bar-Makarska_Split_Dalmatia_County_Dalmatia.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d17464979-Reviews-or10-Kim_Bespoke-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d17464979-Reviews-or10-Kim_Bespoke-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thị trấn": 0.9800513025838882,
+            "bộ đồ": 0.994905370491324,
+            "dịch vụ": 0.5,
+            "màn": 0.8737691454589367,
+            "trình diễn": 0.9942883035691921,
+            "thợ may": 0.9904086867463775
+        },
+        "dicts_adj": {
+            "thị trấn": [
+                "đẹp đẽ",
+                "sắc sảo"
+            ],
+            "bộ đồ": [
+                "đẹp đẽ",
+                "sắc sảo"
+            ],
+            "dịch vụ": [],
+            "màn": [
+                "ngoạn mục",
+                "ấm cúng"
+            ],
+            "trình diễn": [
+                "ngoạn mục",
+                "ấm cúng"
+            ],
+            "thợ may": [
+                "đẹp",
+                "chuyên nghiệp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thị trấn": 0.5,
+            "bộ đồ": 0.5,
+            "dịch vụ": 0.5,
+            "màn": 0.5,
+            "trình diễn": 0.5,
+            "thợ may": 0.5
+        }
     }
 ]

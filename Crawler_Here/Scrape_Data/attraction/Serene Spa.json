@@ -107,7 +107,147 @@
             "https://www.tripadvisor.com/Attraction_Review-g60763-d105125-Reviews-The_Metropolitan_Museum_of_Art-New_York_City_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d15263803-Reviews-or10-Serene_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d15263803-Reviews-Serene_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d15263803-Reviews-Serene_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "phương pháp điều trị": 0.8737691454589367,
+            "nhân viên": 0.7269645917695016,
+            "trải nghiệm": 0.9943252186889627,
+            "tiệm": 0.9861152183730155,
+            "khởi đầu": 0.9954387288307771,
+            "chuyến đi": 0.5,
+            "chuyến thăm spa": 0.9938105522887781,
+            "dịch vụ mát-xa mà chúng": 0.9942455939017236,
+            "spa": 0.7472250273318163,
+            "dịch vụ": 0.714362993862273,
+            "xúc phạm": 0.9490498066879809,
+            "tiệm massage": 0.9910005765268579,
+            "phố cổ": 0.5,
+            "cửa hàng": 0.8737691454589367,
+            "bầu không khí": -0.2304879513103515,
+            "nhân viên lễ tân": 0.9917306273709983,
+            "trekking": 0.8968803603202105,
+            "môi trường": 0.9248697711736895,
+            "tommy": 0.8737691454589367,
+            "mát-xa": 0.9902980742044747,
+            "cho tôi": 0.9894732559332624,
+            "liệu pháp mát-xa": 0.9927157122874632,
+            "dầu nóng": 0.9596887985244393,
+            "nhà tư vấn": 0.9954579951590858,
+            "nhà trị liệu": 0.9477244659792632
+        },
+        "dicts_adj": {
+            "phương pháp điều trị": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "nhiệt tình",
+                "khó khăn",
+                "tốt",
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "tổng thể",
+                "sang trọng",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "tiệm": [
+                "chu đáo"
+            ],
+            "khởi đầu": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [],
+            "chuyến thăm spa": [
+                "hữu ích"
+            ],
+            "dịch vụ mát-xa mà chúng": [],
+            "spa": [
+                "tốt",
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "xuất sắc",
+                "nhiệt tình",
+                "tuyệt vời"
+            ],
+            "xúc phạm": [
+                "đặc biệt",
+                "lớn",
+                "cao"
+            ],
+            "tiệm massage": [
+                "tốt"
+            ],
+            "phố cổ": [],
+            "cửa hàng": [
+                "sạch sẽ"
+            ],
+            "bầu không khí": [
+                "ấm áp"
+            ],
+            "nhân viên lễ tân": [
+                "nhiệt tình",
+                "khó khăn"
+            ],
+            "trekking": [
+                "mệt mỏi",
+                "cuối cùng"
+            ],
+            "môi trường": [
+                "tốt"
+            ],
+            "tommy": [
+                "tốt"
+            ],
+            "mát-xa": [
+                "tốt"
+            ],
+            "cho tôi": [
+                "tốt"
+            ],
+            "liệu pháp mát-xa": [
+                "tuyệt vời"
+            ],
+            "dầu nóng": [
+                "tuyệt vời"
+            ],
+            "nhà tư vấn": [
+                "rõ ràng"
+            ],
+            "nhà trị liệu": [
+                "giàu"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "phương pháp điều trị": 1.5,
+            "nhân viên": 6.0,
+            "trải nghiệm": 3.5,
+            "tiệm": 1.5,
+            "khởi đầu": 1.5,
+            "chuyến đi": 1.5,
+            "chuyến thăm spa": 1.5,
+            "dịch vụ mát-xa mà chúng": 1.5,
+            "spa": 3.5,
+            "dịch vụ": 4.5,
+            "xúc phạm": 1,
+            "tiệm massage": 1,
+            "phố cổ": 1,
+            "cửa hàng": 1,
+            "bầu không khí": 2,
+            "nhân viên lễ tân": 1,
+            "trekking": 1,
+            "môi trường": 2,
+            "tommy": 1,
+            "mát-xa": 1,
+            "cho tôi": 1,
+            "liệu pháp mát-xa": 1,
+            "dầu nóng": 1,
+            "nhà tư vấn": 1,
+            "nhà trị liệu": 1
+        }
     },
     {
         "attraction_name": "Serene Spa",
@@ -224,7 +364,173 @@
             "https://www.tripadvisor.com/Attraction_Review-g504234-d17384752-Reviews-Yelapa_Beach-Yelapa_Costalegre.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d15263803-Reviews-or20-Serene_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d15263803-Reviews-or10-Serene_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d15263803-Reviews-or10-Serene_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chăm sóc da mặt": 0.8707803613506258,
+            "da mặt": 0.5517466245219111,
+            "trải nghiệm": 0.7663936881523113,
+            "khuôn mặt": -0.19945740327239037,
+            "massage": 0.9943571196442159,
+            "spa": 0.8444073063756583,
+            "mức": 0.5,
+            "giá": 0.5,
+            "nhân viên": 0.9952202695421875,
+            "kỹ năng": 0.8737691454589367,
+            "mở lưng": 0.5,
+            "dịch vụ": 0.7991820444731275,
+            "lễ tân": 0.7471159625565633,
+            "phong cách": 0.7797430418431759,
+            "dịch vụ mát-xa quấn cơ thể": 0.5,
+            "cơ thể": 0.5,
+            "kỳ nghỉ": 0.9954279214143753,
+            "nhà trị liệu": 0.9954719171510078,
+            "dịch vụ mát-xa và tẩy": 0.8737691454589367,
+            "là điểm": 0.9915007915891086,
+            "bầu không khí": 0.9951394785894081,
+            "trà": 0.9825996535364538,
+            "đồ ăn": 0.6533634588122368,
+            "biểu mẫu": 0.960841576801613,
+            "làn da": 0.9953966161701828,
+            "chuyến đi": 0.5,
+            "cặp đôi": 0.9866130470181815,
+            "buổi": 0.5,
+            "mát-xa 3": 0.5
+        },
+        "dicts_adj": {
+            "chăm sóc da mặt": [],
+            "da mặt": [
+                "khoảng"
+            ],
+            "trải nghiệm": [
+                "hơn",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "gần",
+                "tốt"
+            ],
+            "khuôn mặt": [
+                "hơn"
+            ],
+            "massage": [
+                "thư giãn",
+                "nhất",
+                "tuyệt vời"
+            ],
+            "spa": [
+                "chắc chắn",
+                "thân yêu",
+                "nhiều",
+                "thân yêu",
+                "nhiều",
+                "gần",
+                "tốt",
+                "Chắc chắn"
+            ],
+            "mức": [],
+            "giá": [],
+            "nhân viên": [
+                "sạch sẽ",
+                "xuất sắc",
+                "tốt"
+            ],
+            "kỹ năng": [
+                "tuyệt vời"
+            ],
+            "mở lưng": [],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tốt",
+                "có thể",
+                "thân yêu"
+            ],
+            "lễ tân": [
+                "ngập ngừng",
+                "đỉnh cao"
+            ],
+            "phong cách": [
+                "nhất"
+            ],
+            "dịch vụ mát-xa quấn cơ thể": [],
+            "cơ thể": [],
+            "kỳ nghỉ": [
+                "tốt",
+                "xuất sắc",
+                "thanh thản",
+                "hối hả",
+                "nhộn nhịp"
+            ],
+            "nhà trị liệu": [
+                "tuyệt vời"
+            ],
+            "dịch vụ mát-xa và tẩy": [
+                "nổi bật",
+                "thanh thản",
+                "suốt"
+            ],
+            "là điểm": [
+                "nổi bật",
+                "thanh thản",
+                "suốt"
+            ],
+            "bầu không khí": [
+                "thư giãn",
+                "hối hả",
+                "nhộn nhịp"
+            ],
+            "trà": [
+                "nhẹ"
+            ],
+            "đồ ăn": [
+                "nhẹ"
+            ],
+            "biểu mẫu": [
+                "nhanh"
+            ],
+            "làn da": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [],
+            "cặp đôi": [
+                "tốt"
+            ],
+            "buổi": [],
+            "mát-xa 3": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chăm sóc da mặt": 1,
+            "da mặt": 1,
+            "trải nghiệm": 5,
+            "khuôn mặt": 1,
+            "massage": 3,
+            "spa": 7,
+            "mức": 1,
+            "giá": 1,
+            "nhân viên": 2,
+            "kỹ năng": 1,
+            "mở lưng": 1,
+            "dịch vụ": 4,
+            "lễ tân": 2,
+            "phong cách": 1,
+            "dịch vụ mát-xa quấn cơ thể": 1,
+            "cơ thể": 1,
+            "kỳ nghỉ": 1,
+            "nhà trị liệu": 1,
+            "dịch vụ mát-xa và tẩy": 1,
+            "là điểm": 1,
+            "bầu không khí": 1,
+            "trà": 1,
+            "đồ ăn": 1,
+            "biểu mẫu": 1,
+            "làn da": 1,
+            "chuyến đi": 1,
+            "cặp đôi": 1,
+            "buổi": 1,
+            "mát-xa 3": 1
+        }
     },
     {
         "attraction_name": "Serene Spa",
@@ -346,6 +652,126 @@
             "https://www.tripadvisor.com/Attraction_Review-g187479-d4363869-Reviews-Harry_s_Cocktail_Bar-Tenerife_Canary_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d15263803-Reviews-or30-Serene_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d15263803-Reviews-or20-Serene_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d15263803-Reviews-or20-Serene_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.8737691454589367,
+            "không khí": -0.9724778798408806,
+            "massage": 0.9955297820270061,
+            "mát-xa": 0.5,
+            "dầu tẩy": 0.5,
+            "tế bào chết": 0.5,
+            "-": 0.5,
+            "lễ tân": 0.992379718401935,
+            "môi trường": 0.9913340352941304,
+            "spa": 0.9945681682584109,
+            "bầu không khí": -0.9718250549631193,
+            "nhà trị liệu": 0.8541367021971382,
+            "sen": -0.9610371764283627,
+            "bấm huyệt": 0.5085420031100512,
+            "90 phút": 0.5,
+            "và": 0.5,
+            "đầu 7": 0.5,
+            "nhân": 0.9955664247390814,
+            "chuyến đi": 0.8737691454589367,
+            "nhân viên": 0.9956124392047059,
+            "dịch vụ mát-xa ở việt": 0.9947554060490802,
+            "phố cổ": 0.06726186774903908
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tốt",
+                "nhiều"
+            ],
+            "không khí": [
+                "đẹp"
+            ],
+            "massage": [
+                "tốt"
+            ],
+            "mát-xa": [],
+            "dầu tẩy": [],
+            "tế bào chết": [],
+            "-": [],
+            "lễ tân": [
+                "chu đáo"
+            ],
+            "môi trường": [
+                "thoải mái",
+                "chuyên nghiệp"
+            ],
+            "spa": [
+                "tuyệt vời",
+                "đặc biệt",
+                "bất kỳ"
+            ],
+            "bầu không khí": [
+                "sạch sẽ"
+            ],
+            "nhà trị liệu": [
+                "chuyên nghiệp",
+                "lịch sự",
+                "mạnh mẽ"
+            ],
+            "sen": [
+                "Liên tục"
+            ],
+            "bấm huyệt": [
+                "cùng"
+            ],
+            "90 phút": [],
+            "và": [],
+            "đầu 7": [],
+            "nhân": [
+                "tuyệt vời",
+                "thân thiện"
+            ],
+            "chuyến đi": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "đúng",
+                "tốt bụng",
+                "kiên nhẫn",
+                "tuyệt vời",
+                "sạch sẽ",
+                "xuất sắc"
+            ],
+            "dịch vụ mát-xa ở việt": [
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "phố cổ": [
+                "sạch sẽ",
+                "chuyên nghiệp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 2,
+            "không khí": 1,
+            "massage": 1,
+            "mát-xa": 2,
+            "dầu tẩy": 1,
+            "tế bào chết": 1,
+            "-": 1,
+            "lễ tân": 1,
+            "môi trường": 1,
+            "spa": 2,
+            "bầu không khí": 1,
+            "nhà trị liệu": 1,
+            "sen": 1,
+            "bấm huyệt": 1,
+            "90 phút": 1,
+            "và": 1,
+            "đầu 7": 1,
+            "nhân": 1,
+            "chuyến đi": 1,
+            "nhân viên": 2,
+            "dịch vụ mát-xa ở việt": 1,
+            "phố cổ": 1
+        }
     }
 ]
