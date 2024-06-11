@@ -83,7 +83,131 @@
             "https://www.tripadvisor.com/Attraction_Review-g54448-d534527-Reviews-Hollywild_Animal_Park-Spartanburg_South_Carolina.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d17427697-Reviews-or10-Saigon_Corners-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d17427697-Reviews-Saigon_Corners-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d17427697-Reviews-Saigon_Corners-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.7968959055769329,
+            "ngôi đền": 0.5,
+            "khu chung cư": 0.5,
+            "ẩm thực": 0.5,
+            "chuyến đi ngắn": 0.5,
+            "phố": 0.5133686330169439,
+            "hướng dẫn viên": 0.4630488492548466,
+            "chuyến đi": 0.6982082562055438,
+            "cảnh vật": 0.5,
+            "khu phố tàu": 0.8737691454589367,
+            "chợ lớn": 0.8737691454589367,
+            "chuyến phiêu lưu": 0.9955647346214391,
+            "trà vải thiều lông": 0.9788415678776801,
+            "học viên": 0.5,
+            "tour du lịch": 0.9945380433928221,
+            "hướng dẫn viên du lịch": 0.9857607597659808,
+            "trải nghiệm": 0.9944317409826908,
+            "sinh viên": 0.5,
+            "thành phố hồ": 0.5,
+            "chuyến đi thú": 0.9801150928251445,
+            "món ăn": 0.8842736595543101,
+            "đồ uống": 0.9550554631277919,
+            "quê hương": 0.9951919673476368,
+            "trải nghiệm lái xe máy": 0.5746979555115104,
+            "ẩm thực deli street": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "hoàn toàn",
+                "hài lòng",
+                "tốt",
+                "hoàn toàn",
+                "phải"
+            ],
+            "ngôi đền": [],
+            "khu chung cư": [],
+            "ẩm thực": [],
+            "chuyến đi ngắn": [],
+            "phố": [],
+            "hướng dẫn viên": [
+                "trẻ"
+            ],
+            "chuyến đi": [
+                "thực sự",
+                "thú vị"
+            ],
+            "cảnh vật": [],
+            "khu phố tàu": [
+                "thực sự"
+            ],
+            "chợ lớn": [
+                "thực sự"
+            ],
+            "chuyến phiêu lưu": [],
+            "trà vải thiều lông": [
+                "tuyệt vời"
+            ],
+            "học viên": [],
+            "tour du lịch": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "thực sự",
+                "an toàn",
+                "khác"
+            ],
+            "trải nghiệm": [
+                "tốt",
+                "độc đáo",
+                "tuyệt vời"
+            ],
+            "sinh viên": [],
+            "thành phố hồ": [],
+            "chuyến đi thú": [
+                "thú vị"
+            ],
+            "món ăn": [
+                "mới",
+                "mới",
+                "mới"
+            ],
+            "đồ uống": [
+                "mới"
+            ],
+            "quê hương": [
+                "Thật sự",
+                "thích thú"
+            ],
+            "trải nghiệm lái xe máy": [],
+            "ẩm thực deli street": [
+                "hoàn toàn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 6.5,
+            "ngôi đền": 1.5,
+            "khu chung cư": 1.5,
+            "ẩm thực": 1.5,
+            "chuyến đi ngắn": 1.5,
+            "phố": 2.5,
+            "hướng dẫn viên": 2.5,
+            "chuyến đi": 2.5,
+            "cảnh vật": 1.5,
+            "khu phố tàu": 1.5,
+            "chợ lớn": 1.5,
+            "chuyến phiêu lưu": 1.5,
+            "trà vải thiều lông": 1,
+            "học viên": 1,
+            "tour du lịch": 1,
+            "hướng dẫn viên du lịch": 2,
+            "trải nghiệm": 2,
+            "sinh viên": 1,
+            "thành phố hồ": 1,
+            "chuyến đi thú": 1,
+            "món ăn": 2,
+            "đồ uống": 1,
+            "quê hương": 1,
+            "trải nghiệm lái xe máy": 1,
+            "ẩm thực deli street": 1
+        }
     },
     {
         "attraction_name": "Saigon Corners",
@@ -175,7 +299,107 @@
             "https://www.tripadvisor.com/Attraction_Review-g60761-d3340200-Reviews-Lake_Carlsbad_Recreation_Area-Carlsbad_New_Mexico.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d17427697-Reviews-or20-Saigon_Corners-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d17427697-Reviews-or10-Saigon_Corners-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d17427697-Reviews-or10-Saigon_Corners-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tour": 0.9859579890326131,
+            "tour đi bộ": 0.932758430019021,
+            "chuyến tham quan": 0.5401192926801741,
+            "điểm du lịch": 0.9950802241219208,
+            "người dân địa phương": 0.9903604190330952,
+            "đồ ăn": 0.9947569398791529,
+            "tiếng đi bộ": 0.5,
+            "thời tiết": 0.5,
+            "chuyến đi bộ": 0.994672937784344,
+            "thành phố": 0.4802387747913599,
+            "buổi": 0.9955481120850891,
+            "địa điểm": 0.9923812301130965,
+            "lịch sử": 0.5,
+            "văn hóa": 0.5,
+            "linh": 0.8737691454589367,
+            "quê hương": 0.5,
+            "chuyến du lịch": 0.9955143935512751,
+            "người dân": 0.5,
+            "kiến ​​thức": 0.9891405585221946,
+            "lịch sử xây dựng": 0.5,
+            "người dân sài gòn": 0.5
+        },
+        "dicts_adj": {
+            "tour": [
+                "ngắn"
+            ],
+            "tour đi bộ": [
+                "yêu thích",
+                "vui"
+            ],
+            "chuyến tham quan": [
+                "giống",
+                "hơn",
+                "giống",
+                "hơn"
+            ],
+            "điểm du lịch": [
+                "chu đáo"
+            ],
+            "người dân địa phương": [
+                "chu đáo"
+            ],
+            "đồ ăn": [
+                "chu đáo"
+            ],
+            "tiếng đi bộ": [],
+            "thời tiết": [],
+            "chuyến đi bộ": [
+                "khác"
+            ],
+            "thành phố": [],
+            "buổi": [
+                "tốt"
+            ],
+            "địa điểm": [
+                "vui",
+                "nhiều"
+            ],
+            "lịch sử": [],
+            "văn hóa": [],
+            "linh": [
+                "nhiều"
+            ],
+            "quê hương": [],
+            "chuyến du lịch": [
+                "tuyệt vời"
+            ],
+            "người dân": [],
+            "kiến ​​thức": [
+                "nhiều"
+            ],
+            "lịch sử xây dựng": [],
+            "người dân sài gòn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tour": 2,
+            "tour đi bộ": 1,
+            "chuyến tham quan": 2,
+            "điểm du lịch": 1,
+            "người dân địa phương": 1,
+            "đồ ăn": 1,
+            "tiếng đi bộ": 1,
+            "thời tiết": 1,
+            "chuyến đi bộ": 1,
+            "thành phố": 2,
+            "buổi": 1,
+            "địa điểm": 1,
+            "lịch sử": 1,
+            "văn hóa": 1,
+            "linh": 1,
+            "quê hương": 1,
+            "chuyến du lịch": 1,
+            "người dân": 1,
+            "kiến ​​thức": 1,
+            "lịch sử xây dựng": 1,
+            "người dân sài gòn": 1
+        }
     },
     {
         "attraction_name": "Saigon Corners",
@@ -261,6 +485,171 @@
             "https://www.tripadvisor.com/Attraction_Review-g297701-d378969-Reviews-Sacred_Monkey_Forest_Sanctuary-Ubud_Gianyar_Regency_Bali.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d17427697-Reviews-or30-Saigon_Corners-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d17427697-Reviews-or20-Saigon_Corners-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d17427697-Reviews-or20-Saigon_Corners-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "sinh viên": 0.9881255053915083,
+            "con người": 0.9954394261585549,
+            "chuyến tham quan": 0.9213185505442587,
+            "lịch sử thành phố": 0.9954781130072661,
+            "street": 0.9941724094096571,
+            "đại học": 0.8737691454589367,
+            "hoa sen": 0.8737691454589367,
+            "chuyến du lịch": 0.8737691454589367,
+            "hướng dẫn viên du lịch": 0.9953373927467813,
+            "món ăn đường phố": 0.8737691454589367,
+            "nga": 0.8737691454589367,
+            "tour du lịch": 0.9955149549641646,
+            "hướng dẫn viên": 0.8529293128771575,
+            "địa điểm địa phương": 0.49568786285817623,
+            "ẩm thực đường phố": 0.5,
+            "địa điểm": 0.9026814922690392,
+            "món ăn": 0.8436605404131114,
+            "người dân địa phương": 0.6582996100187302,
+            "thực phẩm": 0.9952731035882607,
+            "đồ ăn": 0.5,
+            "đồ uống": 0.5,
+            "trải nghiệm": 0.9947216270375066,
+            "món ăn địa phương": 0.9791487422771752,
+            "ẩm thực việt nam": 0.5,
+            "văn hóa việt nam": 0.5,
+            "ngân sách": 0.5601752996444702,
+            "chuyến đi": 0.9954312996123917,
+            "đại học hoa sen": 0.993459414690733,
+            "vinh": 0.8737691454589367,
+            "chuyến lưu diễn": 0.9645677139051259
+        },
+        "dicts_adj": {
+            "sinh viên": [
+                "thân thiện",
+                "thông minh"
+            ],
+            "con người": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "thực sự",
+                "tuyệt vời",
+                "hoàn toàn",
+                "xứng đáng",
+                "nhất",
+                "đơn giản",
+                "tuyệt vời"
+            ],
+            "lịch sử thành phố": [
+                "đẹp",
+                "nhiều"
+            ],
+            "street": [],
+            "đại học": [
+                "tuyệt vời"
+            ],
+            "hoa sen": [
+                "tuyệt vời"
+            ],
+            "chuyến du lịch": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "thân thiện"
+            ],
+            "món ăn đường phố": [
+                "tuyệt vời"
+            ],
+            "nga": [
+                "tuyệt vời"
+            ],
+            "tour du lịch": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "thân thiện",
+                "thân thiện"
+            ],
+            "địa điểm địa phương": [
+                "nhất"
+            ],
+            "ẩm thực đường phố": [],
+            "địa điểm": [
+                "đặc biệt"
+            ],
+            "món ăn": [
+                "đặc biệt",
+                "dễ",
+                "hơn",
+                "dễ",
+                "hơn"
+            ],
+            "người dân địa phương": [
+                "thực sự",
+                "đặc biệt",
+                "độc đáo"
+            ],
+            "thực phẩm": [
+                "đặc biệt",
+                "đầy đủ",
+                "tuyệt vời"
+            ],
+            "đồ ăn": [],
+            "đồ uống": [],
+            "trải nghiệm": [
+                "tốt"
+            ],
+            "món ăn địa phương": [
+                "khắp",
+                "nhiều"
+            ],
+            "ẩm thực việt nam": [],
+            "văn hóa việt nam": [],
+            "ngân sách": [
+                "tốt"
+            ],
+            "chuyến đi": [],
+            "đại học hoa sen": [
+                "lịch sự"
+            ],
+            "vinh": [
+                "thân thiện"
+            ],
+            "chuyến lưu diễn": [
+                "Hy vọng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "sinh viên": 1,
+            "con người": 1,
+            "chuyến tham quan": 3.5,
+            "lịch sử thành phố": 1,
+            "street": 1,
+            "đại học": 1,
+            "hoa sen": 1,
+            "chuyến du lịch": 1,
+            "hướng dẫn viên du lịch": 1.5,
+            "món ăn đường phố": 1,
+            "nga": 1,
+            "tour du lịch": 1,
+            "hướng dẫn viên": 3.5,
+            "địa điểm địa phương": 1,
+            "ẩm thực đường phố": 1,
+            "địa điểm": 1,
+            "món ăn": 1.5,
+            "người dân địa phương": 1,
+            "thực phẩm": 1,
+            "đồ ăn": 1,
+            "đồ uống": 1,
+            "trải nghiệm": 1,
+            "món ăn địa phương": 0.5,
+            "ẩm thực việt nam": 0.5,
+            "văn hóa việt nam": 0.5,
+            "ngân sách": 0.5,
+            "chuyến đi": 0.5,
+            "đại học hoa sen": 0.5,
+            "vinh": 0.5,
+            "chuyến lưu diễn": 0.5
+        }
     }
 ]

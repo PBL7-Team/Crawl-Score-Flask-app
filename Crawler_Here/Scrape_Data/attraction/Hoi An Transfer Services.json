@@ -86,6 +86,37 @@
             "https://www.tripadvisor.com/Attraction_Review-g187147-d3571313-Reviews-Musee_Curie-Paris_Ile_de_France.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19652191-Reviews-Hoi_An_Transfer_Services-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d19652191-Reviews-Hoi_An_Transfer_Services-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.9864727397507522,
+            "giá cả": 0.9944746075198054,
+            "chuyến bay": 0.980862439610064,
+            "hành lý": 0.9953658903832547
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tốt",
+                "tốt"
+            ],
+            "giá cả": [
+                "tốt"
+            ],
+            "chuyến bay": [
+                "kiên nhẫn",
+                "hơn"
+            ],
+            "hành lý": [
+                "tốt",
+                "chuyên nghiệp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 1.5,
+            "giá cả": 1.5,
+            "chuyến bay": 1.5,
+            "hành lý": 1.5
+        }
     }
 ]

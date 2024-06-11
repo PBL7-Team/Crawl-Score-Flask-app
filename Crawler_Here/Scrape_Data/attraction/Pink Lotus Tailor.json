@@ -123,7 +123,197 @@
             "https://www.tripadvisor.com/Attraction_Review-g186338-d188126-Reviews-St_James_s_Park-London_England.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d12666334-Reviews-or10-Pink_Lotus_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12666334-Reviews-Pink_Lotus_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12666334-Reviews-Pink_Lotus_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thợ may": 0.9849566491611768,
+            "vị trí": -0.15480751916766167,
+            "sản phẩm": 0.9946252316585742,
+            "áo sơ mi vải lanh": -0.9477783676702529,
+            "áo sơ mi": -0.1174488887523434,
+            "trải nghiệm": 0.9122129473932242,
+            "nhân viên": 0.7973470438271761,
+            "món đồ": 0.9939209956210107,
+            "quần áo": 0.7631194364969686,
+            "chất lượng": 0.3935565506108105,
+            "giá cả": 0.9954281251411885,
+            "trâm người": 0.5,
+            "thắc mắc": 0.5,
+            "mặt hàng": 0.9449543567607179,
+            "giao dịch mua hàng": 0.5,
+            "áo": 0.9949922323576175,
+            "quần": 0.0032235855469480157,
+            "bộ quần áo": 0.9828660207567737,
+            "quần dài": 0.5,
+            "bộ vest": 0.5385922202840447,
+            "bản thảo": 0.980844804784283,
+            "họ may": 0.988525312859565,
+            "dịch vụ": 0.995503824116895,
+            "cửa hàng": 0.987178991548717,
+            "pink": 0.9137768789078109,
+            "tiệm may": 0.5,
+            "áo sơ mi cà vạt": 0.5,
+            "vải": -0.06988750537857413,
+            "mức": 0.7583680003881454,
+            "giá": 0.9877248383127153,
+            "chuyến đi": 0.9904187920037657,
+            "bộ": 0.5516291931271553,
+            "quần short": 0.050345121417194605,
+            "áo blazer vải": 0.2539998809224926,
+            "tầm nhìn": 0.9914993566926569
+        },
+        "dicts_adj": {
+            "thợ may": [
+                "giỏi",
+                "vui mừng"
+            ],
+            "vị trí": [
+                "đẹp"
+            ],
+            "sản phẩm": [
+                "đẹp"
+            ],
+            "áo sơ mi vải lanh": [
+                "đen"
+            ],
+            "áo sơ mi": [
+                "khác"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tốt"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "tốt",
+                "hiệu quả"
+            ],
+            "món đồ": [
+                "cuối cùng"
+            ],
+            "quần áo": [
+                "tuyệt vời",
+                "khác",
+                "nhanh chóng",
+                "tuyệt vời",
+                "đúng"
+            ],
+            "chất lượng": [
+                "tuyệt vời",
+                "cao",
+                "nhất"
+            ],
+            "giá cả": [
+                "tuyệt vời"
+            ],
+            "trâm người": [],
+            "thắc mắc": [],
+            "mặt hàng": [
+                "hoàn toàn",
+                "hài lòng"
+            ],
+            "giao dịch mua hàng": [],
+            "áo": [
+                "hoàn toàn"
+            ],
+            "quần": [
+                "hoàn toàn",
+                "khác"
+            ],
+            "bộ quần áo": [
+                "đẹp"
+            ],
+            "quần dài": [],
+            "bộ vest": [
+                "khác",
+                "khác"
+            ],
+            "bản thảo": [
+                "đầu tiên",
+                "sẵn sàng"
+            ],
+            "họ may": [
+                "nhanh",
+                "vừa vặn"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "cửa hàng": [],
+            "pink": [
+                "nhiều"
+            ],
+            "tiệm may": [],
+            "áo sơ mi cà vạt": [],
+            "vải": [
+                "cao",
+                "nhất"
+            ],
+            "mức": [
+                "thực sự"
+            ],
+            "giá": [
+                "thực sự"
+            ],
+            "chuyến đi": [
+                "chắc chắn"
+            ],
+            "bộ": [
+                "đúng"
+            ],
+            "quần short": [
+                "ngắn",
+                "tuyệt"
+            ],
+            "áo blazer vải": [
+                "ngắn",
+                "tuyệt"
+            ],
+            "tầm nhìn": [
+                "thân thiện",
+                "hoàn toàn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thợ may": 2,
+            "vị trí": 1,
+            "sản phẩm": 1,
+            "áo sơ mi vải lanh": 1,
+            "áo sơ mi": 3.5,
+            "trải nghiệm": 6.0,
+            "nhân viên": 2.5,
+            "món đồ": 1,
+            "quần áo": 7.0,
+            "chất lượng": 2.5,
+            "giá cả": 1,
+            "trâm người": 1,
+            "thắc mắc": 1,
+            "mặt hàng": 1,
+            "giao dịch mua hàng": 1,
+            "áo": 1,
+            "quần": 2,
+            "bộ quần áo": 1,
+            "quần dài": 1,
+            "bộ vest": 3.0,
+            "bản thảo": 1.5,
+            "họ may": 1.5,
+            "dịch vụ": 3.0,
+            "cửa hàng": 1.5,
+            "pink": 3.0,
+            "tiệm may": 1.5,
+            "áo sơ mi cà vạt": 1.5,
+            "vải": 1.5,
+            "mức": 1.5,
+            "giá": 1.5,
+            "chuyến đi": 1.5,
+            "bộ": 3.5,
+            "quần short": 1.5,
+            "áo blazer vải": 1.5,
+            "tầm nhìn": 2
+        }
     },
     {
         "attraction_name": "Pink Lotus Tailor",
@@ -250,7 +440,79 @@
             "https://www.tripadvisor.com/Attraction_Review-g33388-d15200553-Reviews-The_International_Church_of_Cannabis-Denver_Colorado.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d12666334-Reviews-or20-Pink_Lotus_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12666334-Reviews-or10-Pink_Lotus_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12666334-Reviews-or10-Pink_Lotus_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thợ may": 0.9929532562964596,
+            "tác phẩm": 0.9952255714451894,
+            "tiệm may": 0.5,
+            "bộ vest": 0.5,
+            "áo sơ mi cà vạt": 0.5,
+            "chuyên môn": 0.5,
+            "loại vải": 0.29041894944384694,
+            "mức": 0.6726618623360991,
+            "giá": 0.894986943458207,
+            "trải nghiệm": 0.9952929429709911,
+            "chuyến đi": 0.9927182217361405,
+            "quần vải lanh": 0.9374764205422252,
+            "chất lượng": 0.9954863646416925
+        },
+        "dicts_adj": {
+            "thợ may": [
+                "giỏi"
+            ],
+            "tác phẩm": [
+                "đẹp"
+            ],
+            "tiệm may": [],
+            "bộ vest": [],
+            "áo sơ mi cà vạt": [],
+            "chuyên môn": [],
+            "loại vải": [
+                "cao",
+                "nhất"
+            ],
+            "mức": [
+                "hợp lý",
+                "thực sự"
+            ],
+            "giá": [
+                "hợp lý",
+                "thực sự"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "chắc chắn"
+            ],
+            "quần vải lanh": [
+                "đủ",
+                "tốt",
+                "khác"
+            ],
+            "chất lượng": [
+                "hữu ích",
+                "tuyệt vời",
+                "hài lòng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thợ may": 1,
+            "tác phẩm": 1,
+            "tiệm may": 1.5,
+            "bộ vest": 1.5,
+            "áo sơ mi cà vạt": 1.5,
+            "chuyên môn": 1.5,
+            "loại vải": 1.5,
+            "mức": 1.5,
+            "giá": 1.5,
+            "trải nghiệm": 1.5,
+            "chuyến đi": 1.5,
+            "quần vải lanh": 1.5,
+            "chất lượng": 1.5
+        }
     },
     {
         "attraction_name": "Pink Lotus Tailor",
@@ -378,7 +640,12 @@
             "https://www.tripadvisor.com/Attraction_Review-g656902-d15065157-Reviews-The_Meeting_of_the_Three_Waters-Glencoe_Village_Glencoe_Scottish_Highlands_Scotl.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d12666334-Reviews-or30-Pink_Lotus_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12666334-Reviews-or20-Pink_Lotus_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12666334-Reviews-or20-Pink_Lotus_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     },
     {
         "attraction_name": "Pink Lotus Tailor",
@@ -506,7 +773,33 @@
             "https://www.tripadvisor.com/Attraction_Review-g187791-d191367-Reviews-Via_Condotti-Rome_Lazio.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d12666334-Reviews-or40-Pink_Lotus_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12666334-Reviews-or30-Pink_Lotus_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12666334-Reviews-or30-Pink_Lotus_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trâm": 0.8737691454589367,
+            "quần áo": 0.5,
+            "bộ": 0.5,
+            "vải": 0.5,
+            "quần váy": 0.5
+        },
+        "dicts_adj": {
+            "trâm": [
+                "tốt bụng",
+                "hữu ích"
+            ],
+            "quần áo": [],
+            "bộ": [],
+            "vải": [],
+            "quần váy": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trâm": 1,
+            "quần áo": 1,
+            "bộ": 1,
+            "vải": 1,
+            "quần váy": 1
+        }
     },
     {
         "attraction_name": "Pink Lotus Tailor",
@@ -634,7 +927,31 @@
             "https://www.tripadvisor.com/Attraction_Review-g186338-d2476711-Reviews-Westminster_Bridge-London_England.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d12666334-Reviews-or50-Pink_Lotus_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12666334-Reviews-or40-Pink_Lotus_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12666334-Reviews-or40-Pink_Lotus_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "váy": -0.9417484656441957,
+            "áo khoác thể thao": 0.5,
+            "trâm": 0.8737691454589367,
+            "nhóm may": 0.5
+        },
+        "dicts_adj": {
+            "váy": [
+                "cũ"
+            ],
+            "áo khoác thể thao": [],
+            "trâm": [
+                "cũ"
+            ],
+            "nhóm may": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "váy": 0.5,
+            "áo khoác thể thao": 0.5,
+            "trâm": 0.5,
+            "nhóm may": 0.5
+        }
     },
     {
         "attraction_name": "Pink Lotus Tailor",
@@ -762,7 +1079,30 @@
             "https://www.tripadvisor.com/Attraction_Review-g317061-d3672910-Reviews-Kumasi_Zoo-Kumasi_Ashanti_Region.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d12666334-Reviews-or60-Pink_Lotus_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12666334-Reviews-or50-Pink_Lotus_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12666334-Reviews-or50-Pink_Lotus_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ": 0.5,
+            "quần áo 2": 0.5,
+            "quần dài": 0.5,
+            "quần đùi": 0.5,
+            "quần": 0.9859790942864493
+        },
+        "dicts_adj": {
+            "bộ": [],
+            "quần áo 2": [],
+            "quần dài": [],
+            "quần đùi": [],
+            "quần": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ": 0.5,
+            "quần áo 2": 0.5,
+            "quần dài": 0.5,
+            "quần đùi": 0.5,
+            "quần": 0.5
+        }
     },
     {
         "attraction_name": "Pink Lotus Tailor",
@@ -883,6 +1223,31 @@
             "https://www.tripadvisor.com/Attraction_Review-g190380-d1930708-Reviews-Baths_of_Aphrodite-Latchi_Polis_Paphos_District.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d12666334-Reviews-or70-Pink_Lotus_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12666334-Reviews-or60-Pink_Lotus_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12666334-Reviews-or60-Pink_Lotus_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa hàng": 0.9955756977433339,
+            "áo sơ mi": 0.11862902715802193,
+            "quần áo": 0.7850069394335151
+        },
+        "dicts_adj": {
+            "cửa hàng": [
+                "trẻ",
+                "xinh đẹp",
+                "hữu ích",
+                "tốt"
+            ],
+            "áo sơ mi": [
+                "nhiều",
+                "khác"
+            ],
+            "quần áo": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa hàng": 0.5,
+            "áo sơ mi": 0.5,
+            "quần áo": 0.5
+        }
     }
 ]

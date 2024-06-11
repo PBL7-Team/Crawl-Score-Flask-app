@@ -96,6 +96,110 @@
             "https://www.tripadvisor.com/Attraction_Review-g1380108-d3215160-Reviews-Bingin_Beach-Pecatu_Bukit_Peninsula_Bali.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d26136968-Reviews-Sapa_Trekking_Mama_Zuzu-Sapa_Lao_Cai_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d26136968-Reviews-Sapa_Trekking_Mama_Zuzu-Sapa_Lao_Cai_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9954717386863194,
+            "chủ nhà": 0.9955395437012028,
+            "chuyến đi": 0.9835099629126489,
+            "chuyến đi bộ đường": 0.9955074877361767,
+            "đồ ăn": 0.8737691454589367,
+            "nhà trọ": 0.5783540420234203,
+            "ngôi nhà xa": 0.5,
+            "rừng": 0.5664543434977531,
+            "cặp đôi chậm chạp": -0.4494058348548909,
+            "trải nghiệm trekking": 0.8855687984032556,
+            "chuyến tham quan": 0.9869548440910876,
+            "văn hóa": 0.9932717633200809,
+            "ngôi nhà": 0.5751897441223264,
+            "hướng dẫn viên": 0.8178367502987385,
+            "chuyến leo núi": 0.5,
+            "nhà dân": 0.5,
+            "lúa gạo": 0.5,
+            "chủ nhà -": 0.9795181378722191,
+            "bữa ăn": 0.9955641661654226
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "chủ nhà": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "thực sự",
+                "bất kỳ"
+            ],
+            "chuyến đi bộ đường": [
+                "dài",
+                "tuyệt vời",
+                "vui vẻ"
+            ],
+            "đồ ăn": [
+                "tuyệt vời"
+            ],
+            "nhà trọ": [
+                "thực sự"
+            ],
+            "ngôi nhà xa": [],
+            "rừng": [
+                "đủ",
+                "cao"
+            ],
+            "cặp đôi chậm chạp": [
+                "tốt",
+                "hơn",
+                "nhiều"
+            ],
+            "trải nghiệm trekking": [
+                "tốt",
+                "hơn",
+                "nhiều"
+            ],
+            "chuyến tham quan": [
+                "chắc chắn"
+            ],
+            "văn hóa": [
+                "nhiều",
+                "thú vị"
+            ],
+            "ngôi nhà": [
+                "ngẫu nhiên"
+            ],
+            "hướng dẫn viên": [
+                "nhiều"
+            ],
+            "chuyến leo núi": [],
+            "nhà dân": [],
+            "lúa gạo": [],
+            "chủ nhà -": [
+                "cùng"
+            ],
+            "bữa ăn": [
+                "ngon"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 1.5,
+            "chủ nhà": 3.5,
+            "chuyến đi": 1.5,
+            "chuyến đi bộ đường": 1.5,
+            "đồ ăn": 1.5,
+            "nhà trọ": 1.5,
+            "ngôi nhà xa": 1.5,
+            "rừng": 1.5,
+            "cặp đôi chậm chạp": 1.5,
+            "trải nghiệm trekking": 1.5,
+            "chuyến tham quan": 1,
+            "văn hóa": 2,
+            "ngôi nhà": 1,
+            "hướng dẫn viên": 1,
+            "chuyến leo núi": 1,
+            "nhà dân": 1,
+            "lúa gạo": 1,
+            "chủ nhà -": 1,
+            "bữa ăn": 1
+        }
     }
 ]

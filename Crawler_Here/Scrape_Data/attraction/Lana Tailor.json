@@ -120,7 +120,164 @@
             "https://www.tripadvisor.com/Attraction_Review-g52558-d10694239-Reviews-Resica_Falls_Scout_Reservation-East_Stroudsburg_Pocono_Mountains_Region_Pennsylva.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or10-Lana_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-Lana_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-Lana_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ đồ thủ": 0.9956017407821491,
+            "loại vải": -0.2586578465998173,
+            "lần lắp": 0.9943276409758255,
+            "chất lượng": 0.8737691454589367,
+            "giá cả": 0.6640337409626227,
+            "trải nghiệm": 0.9953576754584598,
+            "cửa hàng": 0.5,
+            "lana": 0.5095373634248972,
+            "áo": 0.5,
+            "áo sơ mi": -0.952766424510628,
+            "giá": 0.9549981807358563,
+            "xuống phố": 0.5,
+            "tiệm may": 0.5,
+            "quần": -0.0688437707722187,
+            "áo khoác": -0.1309182569384575,
+            "thợ may": 0.5432354583560178,
+            "sản phẩm": 0.9656447698362172,
+            "con người": 0.9954798729741015,
+            "dịch vụ": 0.987117720185779,
+            "bộ vest": 0.9792576453182846,
+            "ưu tiên": 0.9945845284964889,
+            "shop": 0.9926599052269012,
+            "nhân viên": -0.9605189526919276,
+            "khách sạn": -0.21795501734595746,
+            "váy": 0.5,
+            "áo blazer": 0.5
+        },
+        "dicts_adj": {
+            "bộ đồ thủ": [
+                "vui mừng",
+                "hoàn hảo",
+                "nhanh chóng"
+            ],
+            "loại vải": [
+                "chính xác"
+            ],
+            "lần lắp": [
+                "gần"
+            ],
+            "chất lượng": [
+                "tốt",
+                "thực sự",
+                "tử tế",
+                "tốt",
+                "tốt"
+            ],
+            "giá cả": [
+                "tốt",
+                "thực sự",
+                "tử tế",
+                "tuyệt vời",
+                "nhanh chóng",
+                "nhiều"
+            ],
+            "trải nghiệm": [
+                "nhiều",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "cửa hàng": [],
+            "lana": [],
+            "áo": [],
+            "áo sơ mi": [
+                "vừa vặn",
+                "hơn",
+                "khác",
+                "vừa vặn",
+                "hơn",
+                "khác"
+            ],
+            "giá": [
+                "tốt",
+                "tốt",
+                "tốt",
+                "cao",
+                "khác",
+                "tốt",
+                "hơn",
+                "nhiều",
+                "gần",
+                "xứng đáng"
+            ],
+            "xuống phố": [],
+            "tiệm may": [],
+            "quần": [
+                "đầu tiên"
+            ],
+            "áo khoác": [
+                "đầu tiên"
+            ],
+            "thợ may": [
+                "thực sự",
+                "giỏi",
+                "nhất"
+            ],
+            "sản phẩm": [
+                "đầu tiên",
+                "cuối cùng"
+            ],
+            "con người": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "xuất sắc",
+                "đặc biệt",
+                "háo hức"
+            ],
+            "bộ vest": [],
+            "ưu tiên": [
+                "hài lòng",
+                "thực sự",
+                "tích cực"
+            ],
+            "shop": [
+                "to"
+            ],
+            "nhân viên": [
+                "thô lỗ"
+            ],
+            "khách sạn": [
+                "xứng đáng",
+                "phải"
+            ],
+            "váy": [],
+            "áo blazer": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ đồ thủ": 1,
+            "loại vải": 1,
+            "lần lắp": 1,
+            "chất lượng": 3.0,
+            "giá cả": 2,
+            "trải nghiệm": 3.0,
+            "cửa hàng": 1,
+            "lana": 3.0,
+            "áo": 2.0,
+            "áo sơ mi": 2.0,
+            "giá": 2.5,
+            "xuống phố": 1,
+            "tiệm may": 1,
+            "quần": 1,
+            "áo khoác": 1,
+            "thợ may": 1.5,
+            "sản phẩm": 0.5,
+            "con người": 0.5,
+            "dịch vụ": 1.0,
+            "bộ vest": 0.5,
+            "ưu tiên": 0.5,
+            "shop": 0.5,
+            "nhân viên": 0.5,
+            "khách sạn": 0.5,
+            "váy": 0.5,
+            "áo blazer": 0.5
+        }
     },
     {
         "attraction_name": "Lana Tailor",
@@ -243,7 +400,155 @@
             "https://www.tripadvisor.com/Attraction_Review-g298564-d321451-Reviews-Gion-Kyoto_Kyoto_Prefecture_Kinki.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or20-Lana_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or10-Lana_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or10-Lana_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ đồ thủ": 0.9952685516909696,
+            "vải": 0.5181643404066563,
+            "lần thử": 0.9952419660403393,
+            "chất lượng": 0.8393570469149078,
+            "giá cả": 0.25685492711555624,
+            "kỷ niệm": 0.995577969646547,
+            "giá": 0.5041572470217943,
+            "váy": 0.42257789708673954,
+            "trang phục": 0.5,
+            "thừng": -0.9603715932462364,
+            "loại lụa": -0.9425882024224848,
+            "nhân viên": 0.6848319522105157,
+            "chuyến thăm": -0.9714237514417619,
+            "dịch vụ": 0.9904678019035297,
+            "trang phục truyền thống": -0.968912357930094,
+            "chất liệu": 0.5,
+            "sản phẩm": 0.5,
+            "dịch vụ may áo dài": 0.7280744388699532,
+            "mặt hàng": 0.5,
+            "quần áo": 0.9954527615336701,
+            "bé": 0.9955370759125799,
+            "bộ vest": 0.8096222123131156,
+            "áo khoác mùa đông": 0.8549507933203131,
+            "quần": 0.9873163552256301,
+            "trải nghiệm": 0.9954604399390519
+        },
+        "dicts_adj": {
+            "bộ đồ thủ": [
+                "vui mừng",
+                "hoàn hảo",
+                "ngắn"
+            ],
+            "vải": [
+                "chính xác"
+            ],
+            "lần thử": [
+                "gần"
+            ],
+            "chất lượng": [
+                "tốt",
+                "thực sự",
+                "tốt",
+                "thực sự",
+                "tốt"
+            ],
+            "giá cả": [
+                "tốt",
+                "thực sự",
+                "tốt",
+                "bất kỳ",
+                "sẵn"
+            ],
+            "kỷ niệm": [
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "giá": [
+                "ít"
+            ],
+            "váy": [
+                "ít"
+            ],
+            "trang phục": [],
+            "thừng": [
+                "hơn",
+                "rõ ràng"
+            ],
+            "loại lụa": [
+                "khác"
+            ],
+            "nhân viên": [
+                "đẹp",
+                "hơn",
+                "rẻ",
+                "hơn",
+                "tốt"
+            ],
+            "chuyến thăm": [
+                "chân thành",
+                "bất kỳ"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "hơn"
+            ],
+            "trang phục truyền thống": [],
+            "chất liệu": [],
+            "sản phẩm": [],
+            "dịch vụ may áo dài": [
+                "thực sự",
+                "cao",
+                "cao"
+            ],
+            "mặt hàng": [],
+            "quần áo": [
+                "đẹp"
+            ],
+            "bé": [
+                "thân thiện",
+                "bé nhỏ",
+                "xinh đẹp"
+            ],
+            "bộ vest": [
+                "thực sự",
+                "tốt"
+            ],
+            "áo khoác mùa đông": [
+                "thực sự",
+                "tốt"
+            ],
+            "quần": [
+                "thực sự",
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "độc đáo"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ đồ thủ": 1,
+            "vải": 1,
+            "lần thử": 1,
+            "chất lượng": 1.5,
+            "giá cả": 1.5,
+            "kỷ niệm": 1,
+            "giá": 0.5,
+            "váy": 0.5,
+            "trang phục": 0.5,
+            "thừng": 0.5,
+            "loại lụa": 0.5,
+            "nhân viên": 0.5,
+            "chuyến thăm": 0.5,
+            "dịch vụ": 0.5,
+            "trang phục truyền thống": 0.5,
+            "chất liệu": 0.5,
+            "sản phẩm": 0.5,
+            "dịch vụ may áo dài": 0.5,
+            "mặt hàng": 0.5,
+            "quần áo": 0.5,
+            "bé": 0.5,
+            "bộ vest": 0.5,
+            "áo khoác mùa đông": 0.5,
+            "quần": 0.5,
+            "trải nghiệm": 0.5
+        }
     },
     {
         "attraction_name": "Lana Tailor",
@@ -366,7 +671,140 @@
             "https://www.tripadvisor.com/Attraction_Review-g187497-d10361456-Reviews-Bobby_s_Free-Barcelona_Catalonia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or30-Lana_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or20-Lana_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or20-Lana_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chất lượng": 0.5,
+            "áo sơ mi": 0.538806744851172,
+            "chất lượng vải": 0.8737691454589367,
+            "mức": 0.7875682385638356,
+            "giá": 0.8413291210308671,
+            "giá cả": 0.6868845727294683,
+            "áo": 0.5,
+            "piece": 0.9916179946158081,
+            "the suit": 0.9948168186238036,
+            "áo khoác": 0.29623981882884565,
+            "áo khoác len": 0.5,
+            "họ trưng": 0.8737691454589367,
+            "áo khoác dài": 0.9946925721596926,
+            "bộ vest": 0.060458434745669365,
+            "vị trí": 0.5,
+            "khách sạn": 0.7514506268780679,
+            "thị trấn": 0.9663409193162806,
+            "giao hàng": 0.8737691454589367,
+            "chất liệu vải": 0.9953806762350723,
+            "dịch vụ": 0.5,
+            "nhân viên": 0.013367556035518646,
+            "quần áo": -0.3401423506438732,
+            "len": 0.5,
+            "lụa": 0.5,
+            "cotton": 0.5,
+            "sản phẩm": -0.0009529590606689453
+        },
+        "dicts_adj": {
+            "chất lượng": [],
+            "áo sơ mi": [
+                "mới",
+                "rõ ràng"
+            ],
+            "chất lượng vải": [
+                "tuyệt vời"
+            ],
+            "mức": [
+                "rẻ"
+            ],
+            "giá": [
+                "rẻ"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "chủ yếu"
+            ],
+            "áo": [],
+            "piece": [],
+            "the suit": [],
+            "áo khoác": [
+                "giống",
+                "len",
+                "rộng",
+                "đầy",
+                "tuyệt vời",
+                "cùng",
+                "rẻ",
+                "hơn",
+                "nhiều",
+                "khác"
+            ],
+            "áo khoác len": [],
+            "họ trưng": [
+                "nhiều"
+            ],
+            "áo khoác dài": [
+                "hoàn hảo"
+            ],
+            "bộ vest": [
+                "rõ"
+            ],
+            "vị trí": [],
+            "khách sạn": [
+                "tuyệt vời",
+                "cùng"
+            ],
+            "thị trấn": [
+                "tuyệt vời",
+                "cùng"
+            ],
+            "giao hàng": [
+                "nhanh"
+            ],
+            "chất liệu vải": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [],
+            "nhân viên": [
+                "suốt",
+                "nhiệt tình"
+            ],
+            "quần áo": [
+                "gần"
+            ],
+            "len": [],
+            "lụa": [],
+            "cotton": [],
+            "sản phẩm": [
+                "bất kỳ",
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chất lượng": 0.5,
+            "áo sơ mi": 0.5,
+            "chất lượng vải": 0.5,
+            "mức": 0.5,
+            "giá": 0.5,
+            "giá cả": 1.0,
+            "áo": 0.5,
+            "piece": 0.5,
+            "the suit": 0.5,
+            "áo khoác": 0.5,
+            "áo khoác len": 0.5,
+            "họ trưng": 0.5,
+            "áo khoác dài": 0.5,
+            "bộ vest": 0.5,
+            "vị trí": 0.5,
+            "khách sạn": 0.5,
+            "thị trấn": 0.5,
+            "giao hàng": 0.5,
+            "chất liệu vải": 0.5,
+            "dịch vụ": 0.5,
+            "nhân viên": 1.0,
+            "quần áo": 0.5,
+            "len": 0.5,
+            "lụa": 0.5,
+            "cotton": 0.5,
+            "sản phẩm": 0.5
+        }
     },
     {
         "attraction_name": "Lana Tailor",
@@ -490,7 +928,106 @@
             "https://www.tripadvisor.com/Attraction_Review-g294454-d548398-Reviews-Dolac_Market-Zagreb_Central_Croatia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or40-Lana_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or30-Lana_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or30-Lana_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "áo khoác": 0.3327069495571777,
+            "giá": -0.9737718019168824,
+            "dịch vụ": 0.9952141918474808,
+            "the": 0.9875908875837922,
+            "shop": 0.9616537792608142,
+            "suit": 0.9906110737938434,
+            "nhân viên": 0.9954629964777268,
+            "áo": 0.9932306283153594,
+            "món đồ": 0.5349965840578079,
+            "giá cả": 0.9938833712949418,
+            "phòng": -0.9580655870959163,
+            "quần áo": -0.9638445118907839,
+            "vẻ": 0.9908295952482149,
+            "ngôi nhà": 0.5,
+            "bộ vest": -0.9634634656831622,
+            "chất liệu": -0.21501822269055992,
+            "bộ": 0.5,
+            "nhà bán lẻ": 0.49794802069664,
+            "lớp": 0.8159382436424494
+        },
+        "dicts_adj": {
+            "áo khoác": [
+                "cao",
+                "rách nát"
+            ],
+            "giá": [
+                "cao"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "cao"
+            ],
+            "the": [],
+            "shop": [],
+            "suit": [
+                "to"
+            ],
+            "nhân viên": [
+                "thân thiện"
+            ],
+            "áo": [],
+            "món đồ": [
+                "Đúng",
+                "lâu dài"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "phòng": [
+                "bền"
+            ],
+            "quần áo": [
+                "bền"
+            ],
+            "vẻ": [
+                "xinh xắn"
+            ],
+            "ngôi nhà": [],
+            "bộ vest": [
+                "rách nát"
+            ],
+            "chất liệu": [
+                "đắt",
+                "khoảng"
+            ],
+            "bộ": [],
+            "nhà bán lẻ": [
+                "lâu dài",
+                "hơn"
+            ],
+            "lớp": [
+                "kỳ lạ",
+                "đỏ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "áo khoác": 1.5,
+            "giá": 0.5,
+            "dịch vụ": 0.5,
+            "the": 0.5,
+            "shop": 0.5,
+            "suit": 0.5,
+            "nhân viên": 0.5,
+            "áo": 0.5,
+            "món đồ": 0.5,
+            "giá cả": 0.5,
+            "phòng": 0.5,
+            "quần áo": 0.5,
+            "vẻ": 0.5,
+            "ngôi nhà": 0.5,
+            "bộ vest": 0.5,
+            "chất liệu": 0.5,
+            "bộ": 0.5,
+            "nhà bán lẻ": 0.5,
+            "lớp": 0.5
+        }
     },
     {
         "attraction_name": "Lana Tailor",
@@ -613,7 +1150,148 @@
             "https://www.tripadvisor.com/Attraction_Review-g42311-d23650696-Reviews-Michigan_Renaissance_Festival-Holly_Michigan.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or50-Lana_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or40-Lana_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or40-Lana_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "vật": 0.9954415095271543,
+            "bộ vest": 0.49621725734323263,
+            "chú": 0.5131721962243319,
+            "tay nghề": -0.9643972655758262,
+            "bộ": 0.22961218437800804,
+            "quần áo": 0.5812125288163467,
+            "áo blazer": 0.8657460063695908,
+            "dịch vụ": 0.9955242599535268,
+            "chất lượng": 0.9342910373525228,
+            "mức": 0.6716458699665964,
+            "giá": 0.6912805070751347,
+            "sản phẩm": 0.5,
+            "thợ may": 0.8168931677937508,
+            "giá cả": 0.8858418751915451,
+            "vest": 0.9758619472850114,
+            "áo sơ mi": -0.5715982243418694,
+            "áo khoác đậu xám": 0.5,
+            "mặt hàng": 0.9881850436795503,
+            "áo khoác da": -0.8685605530627072,
+            "nhân viên": -0.919504810590297,
+            "nhân công": 0.5,
+            "vật liệu": 0.5,
+            "tiền": 0.701894692145288,
+            "vải": 0.5
+        },
+        "dicts_adj": {
+            "vật": [
+                "tuyệt vời"
+            ],
+            "bộ vest": [
+                "khác",
+                "khác",
+                "riêng"
+            ],
+            "chú": [
+                "khác",
+                "khác"
+            ],
+            "tay nghề": [
+                "chi tiết",
+                "ghê gớm"
+            ],
+            "bộ": [
+                "nhiều",
+                "khác",
+                "riêng"
+            ],
+            "quần áo": [
+                "nhiều",
+                "khác",
+                "riêng",
+                "tuyệt chắc chắn"
+            ],
+            "áo blazer": [
+                "xanh"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "chất lượng": [
+                "tuyệt vời",
+                "tốt",
+                "nhiều"
+            ],
+            "mức": [
+                "hợp lý",
+                "cuối cùng"
+            ],
+            "giá": [
+                "hợp lý",
+                "cuối cùng",
+                "cụ thể"
+            ],
+            "sản phẩm": [],
+            "thợ may": [
+                "tốt"
+            ],
+            "giá cả": [
+                "tốt",
+                "duy nhất",
+                "khác",
+                "nhiều"
+            ],
+            "vest": [
+                "tốt"
+            ],
+            "áo sơ mi": [
+                "riêng"
+            ],
+            "áo khoác đậu xám": [],
+            "mặt hàng": [
+                "hoàn hảo"
+            ],
+            "áo khoác da": [
+                "đen",
+                "tùy chỉnh",
+                "cuối cùng",
+                "cuối cùng"
+            ],
+            "nhân viên": [
+                "bất kỳ"
+            ],
+            "nhân công": [],
+            "vật liệu": [],
+            "tiền": [
+                "dễ dàng",
+                "hơn",
+                "khác biệt"
+            ],
+            "vải": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "vật": 0.5,
+            "bộ vest": 1.0,
+            "chú": 0.5,
+            "tay nghề": 0.5,
+            "bộ": 0.5,
+            "quần áo": 1.0,
+            "áo blazer": 0.5,
+            "dịch vụ": 1.0,
+            "chất lượng": 1.0,
+            "mức": 0.5,
+            "giá": 1.0,
+            "sản phẩm": 1.0,
+            "thợ may": 0.5,
+            "giá cả": 0.5,
+            "vest": 0.5,
+            "áo sơ mi": 0.5,
+            "áo khoác đậu xám": 0.5,
+            "mặt hàng": 0.5,
+            "áo khoác da": 0.5,
+            "nhân viên": 0.5,
+            "nhân công": 0.5,
+            "vật liệu": 0.5,
+            "tiền": 0.5,
+            "vải": 0.5
+        }
     },
     {
         "attraction_name": "Lana Tailor",
@@ -736,7 +1414,153 @@
             "https://www.tripadvisor.com/Attraction_Review-g1028722-d8471988-Reviews-Cala_Murta-Port_de_Pollenca_Majorca_Balearic_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or60-Lana_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or50-Lana_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or50-Lana_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ đồ": 0.5770504660904408,
+            "giá cả": 0.803451698157005,
+            "chất lượng": 0.1350716324232053,
+            "cửa hàng": -0.23630188225070015,
+            "nhân viên": 0.9935253494186327,
+            "bộ vest": 0.995243918907363,
+            "áo sơ mi": 0.7651309122156817,
+            "áo khoác": 0.8762750590976793,
+            "chuyến bay": 0.5,
+            "giá": 0.9818478501401842,
+            "váy": 0.9280782024143264,
+            "quý": 0.5,
+            "thợ may": 0.7300690670963377,
+            "mức giá": 0.9902311685727909,
+            "sản phẩm": 0.9571825573220849,
+            "người bán hàng": 0.9685841430909932,
+            "quần áo": 0.5,
+            "áo khoác công": 0.5,
+            "quần": -0.5647012659464963,
+            "áo sơ mi công sở": 0.5,
+            "buổi sáng": 0.570664843544364,
+            "chuyện": 0.47481692396104336,
+            "chất": 0.5,
+            "vải": 0.5,
+            "áo": 0.5794237069785595,
+            "buổi thử": 0.6305178804323077
+        },
+        "dicts_adj": {
+            "bộ đồ": [
+                "riêng"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "hợp lý",
+                "đặc biệt"
+            ],
+            "chất lượng": [
+                "kém",
+                "đặc biệt"
+            ],
+            "cửa hàng": [
+                "khác"
+            ],
+            "nhân viên": [
+                "hữu ích",
+                "nhiều",
+                "nhiệt tình"
+            ],
+            "bộ vest": [
+                "hài lòng"
+            ],
+            "áo sơ mi": [
+                "hài lòng",
+                "thoải mái",
+                "hoàn hảo",
+                "hài lòng",
+                "may",
+                "chật"
+            ],
+            "áo khoác": [
+                "hài lòng",
+                "duy nhất",
+                "đầy đủ"
+            ],
+            "chuyến bay": [],
+            "giá": [
+                "thực sự",
+                "bất kỳ",
+                "riêng",
+                "hợp lý"
+            ],
+            "váy": [
+                "thoải mái",
+                "đẹp"
+            ],
+            "quý": [],
+            "thợ may": [
+                "giỏi"
+            ],
+            "mức giá": [
+                "hợp lý"
+            ],
+            "sản phẩm": [
+                "chắc chắn"
+            ],
+            "người bán hàng": [
+                "tử tế"
+            ],
+            "quần áo": [],
+            "áo khoác công": [],
+            "quần": [
+                "kém",
+                "đặc biệt"
+            ],
+            "áo sơ mi công sở": [],
+            "buổi sáng": [
+                "thực sự"
+            ],
+            "chuyện": [
+                "thực sự",
+                "nhỏ"
+            ],
+            "chất": [],
+            "vải": [],
+            "áo": [
+                "khác",
+                "khác"
+            ],
+            "buổi thử": [
+                "rộng",
+                "hơn",
+                "tốt bụng",
+                "cuối cùng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ đồ": 0.5,
+            "giá cả": 1.5,
+            "chất lượng": 1.0,
+            "cửa hàng": 1.0,
+            "nhân viên": 0.5,
+            "bộ vest": 0.5,
+            "áo sơ mi": 2.0,
+            "áo khoác": 1.0,
+            "chuyến bay": 0.5,
+            "giá": 0.5,
+            "váy": 1.0,
+            "quý": 0.5,
+            "thợ may": 1.0,
+            "mức giá": 0.5,
+            "sản phẩm": 0.5,
+            "người bán hàng": 0.5,
+            "quần áo": 0.5,
+            "áo khoác công": 0.5,
+            "quần": 0.5,
+            "áo sơ mi công sở": 0.5,
+            "buổi sáng": 0.5,
+            "chuyện": 0.5,
+            "chất": 0.5,
+            "vải": 0.5,
+            "áo": 0.5,
+            "buổi thử": 0.5
+        }
     },
     {
         "attraction_name": "Lana Tailor",
@@ -860,7 +1684,105 @@
             "https://www.tripadvisor.com/Attraction_Review-g60878-d558673-Reviews-Lincoln_Park-Seattle_Washington.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or70-Lana_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or60-Lana_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or60-Lana_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thợ may": 0.759684385440778,
+            "bộ vest": 0.5,
+            "áo khoác": 0.5,
+            "váy": 0.5,
+            "giá cả": 0.8737691454589367,
+            "chất lượng": 0.6470990180969238,
+            "phòng": 0.995471348578576,
+            "chất": 0.9907894256757572,
+            "nhân viên": 0.7467468787217513,
+            "biện pháp": 0.9872561510419473,
+            "mức giá": 0.9832213565241545,
+            "trải nghiệm": 0.995559606119059,
+            "bộ đồ": 0.9955387850059196,
+            "dịch vụ khách hàng": 0.9954811609932221,
+            "đồ đạc": 0.7966400617733598,
+            "dịch vụ": 0.5,
+            "vải": 0.9911141061456874,
+            "cửa hàng": 0.9834962976165116
+        },
+        "dicts_adj": {
+            "thợ may": [
+                "tuyệt vời",
+                "khác",
+                "chính xác"
+            ],
+            "bộ vest": [],
+            "áo khoác": [],
+            "váy": [],
+            "giá cả": [
+                "tuyệt vời",
+                "đắt"
+            ],
+            "chất lượng": [
+                "tương đương",
+                "tốt",
+                "hơn"
+            ],
+            "phòng": [
+                "hoàn hảo",
+                "đầy"
+            ],
+            "chất": [
+                "chuyên nghiệp"
+            ],
+            "nhân viên": [
+                "thân thiện"
+            ],
+            "biện pháp": [
+                "bất kỳ"
+            ],
+            "mức giá": [
+                "nhỏ",
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "bộ đồ": [
+                "tuyệt vời"
+            ],
+            "dịch vụ khách hàng": [
+                "tuyệt vời"
+            ],
+            "đồ đạc": [
+                "thực sự",
+                "rõ"
+            ],
+            "dịch vụ": [],
+            "vải": [
+                "xuất sắc"
+            ],
+            "cửa hàng": [
+                "xuất sắc"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thợ may": 1.0,
+            "bộ vest": 1.0,
+            "áo khoác": 1.5,
+            "váy": 1.0,
+            "giá cả": 0.5,
+            "chất lượng": 0.5,
+            "phòng": 0.5,
+            "chất": 0.5,
+            "nhân viên": 1.0,
+            "biện pháp": 0.5,
+            "mức giá": 0.5,
+            "trải nghiệm": 0.5,
+            "bộ đồ": 0.5,
+            "dịch vụ khách hàng": 0.5,
+            "đồ đạc": 0.5,
+            "dịch vụ": 0.5,
+            "vải": 0.5,
+            "cửa hàng": 0.5
+        }
     },
     {
         "attraction_name": "Lana Tailor",
@@ -981,7 +1903,112 @@
             "https://www.tripadvisor.com/Attraction_Review-g3417464-d269191-Reviews-Salvador_Dali_House-Portlligat_Province_of_Girona_Catalonia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or80-Lana_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or70-Lana_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or70-Lana_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "sản phẩm": 0.9645774690725375,
+            "bộ": 0.5,
+            "quần áo": 0.5,
+            "bộ đồ": 0.9932273884769529,
+            "vest": 0.5031815581023693,
+            "tea": 0.8737691454589367,
+            "chuyến thăm": 0.9954309336608276,
+            "chất": 0.5,
+            "áo sơ mi": -0.3881199238821864,
+            "giá": 0.47563322078591835,
+            "chất lượng": 0.9711127016344108,
+            "dịch vụ": 0.5333399493247271,
+            "lắp đặt": -0.9615456198807806,
+            "áo": 0.6086021447554231,
+            "thợ may": 0.6399993915110826,
+            "trải nghiệm": 0.5559139177203178,
+            "thung thuy": 0.9934692071983591
+        },
+        "dicts_adj": {
+            "sản phẩm": [
+                "chuyên nghiệp",
+                "tốt",
+                "tốt",
+                "hơn",
+                "nhiều",
+                "hơn"
+            ],
+            "bộ": [],
+            "quần áo": [],
+            "bộ đồ": [
+                "đẹp",
+                "nhất"
+            ],
+            "vest": [
+                "trực tuyến"
+            ],
+            "tea": [
+                "trực tuyến"
+            ],
+            "chuyến thăm": [
+                "Tuyệt vời",
+                "đầu tiên",
+                "tuyệt vời"
+            ],
+            "chất": [],
+            "áo sơ mi": [
+                "cao",
+                "hơn",
+                "kín"
+            ],
+            "giá": [
+                "tốt",
+                "gần",
+                "cao",
+                "hơn",
+                "tốt",
+                "hơn"
+            ],
+            "chất lượng": [
+                "tốt",
+                "hơn"
+            ],
+            "dịch vụ": [
+                "ổn"
+            ],
+            "lắp đặt": [
+                "gấp rút",
+                "bình thường"
+            ],
+            "áo": [
+                "lớn",
+                "hơn"
+            ],
+            "thợ may": [
+                "khác",
+                "khác",
+                "nhiều",
+                "giỏi",
+                "hơn"
+            ],
+            "trải nghiệm": [],
+            "thung thuy": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "sản phẩm": 1.0,
+            "bộ": 0.5,
+            "quần áo": 1.0,
+            "bộ đồ": 0.5,
+            "vest": 0.5,
+            "tea": 0.5,
+            "chuyến thăm": 0.5,
+            "chất": 0.5,
+            "áo sơ mi": 0.5,
+            "giá": 0.5,
+            "chất lượng": 0.5,
+            "dịch vụ": 0.5,
+            "lắp đặt": 0.5,
+            "áo": 0.5,
+            "thợ may": 0.5,
+            "trải nghiệm": 0.5,
+            "thung thuy": 0.5
+        }
     },
     {
         "attraction_name": "Lana Tailor",
@@ -1104,7 +2131,149 @@
             "https://www.tripadvisor.com/Attraction_Review-g297967-d24001570-Reviews-Mall_Of_Side-Manavgat_Turkish_Mediterranean_Coast.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or90-Lana_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or80-Lana_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or80-Lana_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tiệm may": 0.6458308361470699,
+            "bộ vest": 0.6095650820449615,
+            "áo sơ mi công sở": -0.962047419976443,
+            "nhãn hiệu": 0.5097807515412569,
+            "thời trang": 0.5297871548682451,
+            "chất lượng": 0.8795779688225593,
+            "dịch vụ": 0.7390231093158945,
+            "thợ may": 0.698303529759869,
+            "nhân viên": 0.5,
+            "áo blazer": -0.884376878850162,
+            "giá": 0.9825829155743122,
+            "nhà máy nội bộ": 0.9902361549902707,
+            "quà lưu niệm": 0.540642537176609,
+            "bộ": 0.7740874651062768,
+            "quần áo": 0.7566538160608616,
+            "giá cả": 0.9529069985728711,
+            "nguyên liệu": 0.9776309567969292,
+            "bộ đồ": 0.7368908673233818,
+            "áo sơ mi": 0.5,
+            "áo khoác": 0.9596207686699927,
+            "thông số kỹ thuật": 0.879334345459938,
+            "người thợ may": 0.5,
+            "chiếc": 0.5,
+            "mặt hàng": 0.9475063108839095,
+            "tea": 0.9940167890163139
+        },
+        "dicts_adj": {
+            "tiệm may": [
+                "giản dị"
+            ],
+            "bộ vest": [
+                "giản dị",
+                "đẹp",
+                "đầu tiên",
+                "cuối cùng"
+            ],
+            "áo sơ mi công sở": [
+                "giản dị"
+            ],
+            "nhãn hiệu": [
+                "cao cấp"
+            ],
+            "thời trang": [
+                "cao cấp"
+            ],
+            "chất lượng": [
+                "tốt",
+                "tuyệt vời",
+                "tuyệt vời",
+                "riêng"
+            ],
+            "dịch vụ": [
+                "nhiều",
+                "hơn",
+                "toàn"
+            ],
+            "thợ may": [
+                "cao",
+                "sẵn sàng"
+            ],
+            "nhân viên": [],
+            "áo blazer": [
+                "khác"
+            ],
+            "giá": [
+                "tốt"
+            ],
+            "nhà máy nội bộ": [
+                "đặc biệt"
+            ],
+            "quà lưu niệm": [
+                "khác"
+            ],
+            "bộ": [
+                "tuyệt vời",
+                "riêng"
+            ],
+            "quần áo": [
+                "tuyệt vời",
+                "riêng"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "nguyên liệu": [
+                "chính xác",
+                "khác",
+                "khác"
+            ],
+            "bộ đồ": [
+                "đầu tiên",
+                "cuối cùng"
+            ],
+            "áo sơ mi": [],
+            "áo khoác": [
+                "hoàn hảo"
+            ],
+            "thông số kỹ thuật": [
+                "thực sự"
+            ],
+            "người thợ may": [],
+            "chiếc": [],
+            "mặt hàng": [
+                "nhỏ",
+                "gần",
+                "giống",
+                "đầu tiên",
+                "vừa vặn",
+                "chính xác"
+            ],
+            "tea": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tiệm may": 0.5,
+            "bộ vest": 1.5,
+            "áo sơ mi công sở": 0.5,
+            "nhãn hiệu": 0.5,
+            "thời trang": 0.5,
+            "chất lượng": 1.5,
+            "dịch vụ": 1.0,
+            "thợ may": 1.0,
+            "nhân viên": 0.5,
+            "áo blazer": 0.5,
+            "giá": 0.5,
+            "nhà máy nội bộ": 0.5,
+            "quà lưu niệm": 0.5,
+            "bộ": 0.5,
+            "quần áo": 0.5,
+            "giá cả": 0.5,
+            "nguyên liệu": 0.5,
+            "bộ đồ": 0.5,
+            "áo sơ mi": 0.5,
+            "áo khoác": 0.5,
+            "thông số kỹ thuật": 0.5,
+            "người thợ may": 0.5,
+            "chiếc": 0.5,
+            "mặt hàng": 0.5,
+            "tea": 0.5
+        }
     },
     {
         "attraction_name": "Lana Tailor",
@@ -1228,6 +2397,163 @@
             "https://www.tripadvisor.com/Attraction_Review-g29218-d647555-Reviews-Hanalei_Bay-Kauai_Hawaii.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or100-Lana_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or90-Lana_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3581583-Reviews-or90-Lana_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ đồ": 0.45591674313376035,
+            "váy": -0.023881389759480953,
+            "vải": -0.22926401009317487,
+            "buổi thử": 0.7979720109142363,
+            "dịch vụ": 0.995089787048831,
+            "quần áo": 0.2753100100671872,
+            "vest": 0.9902866736520082,
+            "thợ may": -0.03110734005458653,
+            "giá": 0.5,
+            "chất lượng": 0.12125441998553774,
+            "bộ vest": 0.7354262535809539,
+            "cửa hàng": 0.978361254412448,
+            "nhà máy": 0.5,
+            "họ đo": 0.5,
+            "chất lượng đường": -0.16235164343379438,
+            "bộ": 0.2379819358466193,
+            "đường": -0.16045555076561868,
+            "quần": 0.9954086663783528,
+            "đồ lưu niệm": 0.5,
+            "số hàng": 0.5,
+            "bưu điện": 0.5,
+            "khách hàng": 0.995534707501065,
+            "tea": 0.8737691454589367,
+            "nhân viên bán hàng": 0.5845364922036728,
+            "ngân sách": 0.5472544254735112,
+            "địa điểm": 0.5,
+            "kích thước": 0.9727420695126057
+        },
+        "dicts_adj": {
+            "bộ đồ": [
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "váy": [
+                "cùng"
+            ],
+            "vải": [
+                "cuối cùng"
+            ],
+            "buổi thử": [
+                "nhanh chóng"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "tốt",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "quần áo": [
+                "đẹp",
+                "tốt",
+                "cao",
+                "cuối cùng",
+                "hài lòng",
+                "cao",
+                "nhiều",
+                "hơn"
+            ],
+            "vest": [
+                "cao"
+            ],
+            "thợ may": [
+                "đắt",
+                "nổi tiếng",
+                "thực sự",
+                "đẹp",
+                "nhiều"
+            ],
+            "giá": [],
+            "chất lượng": [
+                "cao",
+                "cuối cùng",
+                "cao",
+                "nhiều",
+                "hơn"
+            ],
+            "bộ vest": [
+                "thực sự",
+                "cùng",
+                "may",
+                "nhiều"
+            ],
+            "cửa hàng": [
+                "đẹp",
+                "nhiều"
+            ],
+            "nhà máy": [],
+            "họ đo": [],
+            "chất lượng đường": [
+                "may",
+                "nhiều"
+            ],
+            "bộ": [
+                "cao",
+                "hài lòng"
+            ],
+            "đường": [
+                "may",
+                "nhiều"
+            ],
+            "quần": [
+                "hài lòng"
+            ],
+            "đồ lưu niệm": [],
+            "số hàng": [],
+            "bưu điện": [],
+            "khách hàng": [
+                "tuyệt vời"
+            ],
+            "tea": [
+                "tuyệt vời"
+            ],
+            "nhân viên bán hàng": [
+                "cao",
+                "nhiều",
+                "hơn"
+            ],
+            "ngân sách": [
+                "chắc chắn"
+            ],
+            "địa điểm": [],
+            "kích thước": [
+                "đầu tiên"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ đồ": 1.5,
+            "váy": 0.5,
+            "vải": 1.0,
+            "buổi thử": 1.0,
+            "dịch vụ": 1.5,
+            "quần áo": 1.5,
+            "vest": 0.5,
+            "thợ may": 0.5,
+            "giá": 0.5,
+            "chất lượng": 1.0,
+            "bộ vest": 0.5,
+            "cửa hàng": 0.5,
+            "nhà máy": 0.5,
+            "họ đo": 0.5,
+            "chất lượng đường": 0.5,
+            "bộ": 0.5,
+            "đường": 0.5,
+            "quần": 0.5,
+            "đồ lưu niệm": 0.5,
+            "số hàng": 0.5,
+            "bưu điện": 0.5,
+            "khách hàng": 0.5,
+            "tea": 0.5,
+            "nhân viên bán hàng": 0.5,
+            "ngân sách": 0.5,
+            "địa điểm": 0.5,
+            "kích thước": 0.5
+        }
     }
 ]

@@ -62,6 +62,52 @@
             "https://www.tripadvisor.com/Attraction_Review-g1189172-d1744882-Reviews-Brief_Garden_Bevis_Bawa-Beruwala_Western_Province.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d23514057-Reviews-Tom_The_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d23514057-Reviews-Tom_The_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "kiến ​​thức chuyên môn": 0.816618756391108,
+            "quần": 0.5,
+            "áo cánh": 0.5,
+            "mặt hàng": 0.8129213848733343,
+            "giá cả": 0.9930280394037254,
+            "họ": 0.9589941082522273,
+            "thợ may": 0.8737691454589367,
+            "thị trấn": 0.5,
+            "công việc kinh doanh": 0.9953753691515885
+        },
+        "dicts_adj": {
+            "kiến ​​thức chuyên môn": [
+                "mơ hồ"
+            ],
+            "quần": [],
+            "áo cánh": [],
+            "mặt hàng": [
+                "tuyệt vời",
+                "khéo léo"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "họ": [],
+            "thợ may": [
+                "tốt"
+            ],
+            "thị trấn": [],
+            "công việc kinh doanh": [
+                "thân thiện"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "kiến ​​thức chuyên môn": 1.5,
+            "quần": 1.5,
+            "áo cánh": 1.5,
+            "mặt hàng": 1.5,
+            "giá cả": 1.5,
+            "họ": 1.5,
+            "thợ may": 1,
+            "thị trấn": 1,
+            "công việc kinh doanh": 1
+        }
     }
 ]
