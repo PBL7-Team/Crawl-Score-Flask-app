@@ -108,7 +108,187 @@
             "https://www.tripadvisor.com/Attraction_Review-g56350-d10753635-Reviews-Landa_Park_Pool-New_Braunfels_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d14936970-Reviews-or10-The_Dude_Bar-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14936970-Reviews-The_Dude_Bar-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14936970-Reviews-The_Dude_Bar-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đồ ăn": -0.97609657200519,
+            "đồ uống": -0.1832384266225355,
+            "túi xách": 0.511345736682415,
+            "quán bar": 0.35501110056065954,
+            "đồ": 0.5058289263397455,
+            "bàn": 0.9951691307360306,
+            "tầm nhìn": 0.9954608453554101,
+            "nhân viên": -0.057756810662491866,
+            "giá cả": 0.8935536087374203,
+            "loại bia": 0.5018302186799701,
+            "không khí": -0.23757894290611148,
+            "âm nhạc": 0.7477694538538344,
+            "thể thao the dude": 0.9939550902927294,
+            "bia": 0.5757382363080978,
+            "ly bia": 0.9953455260838382,
+            "nữ phục vụ": 0.9752890159725212,
+            "bộ": 0.29955159965902567,
+            "trang phục": -0.2544249158818275,
+            "trải nghiệm": 0.9783985284157097,
+            "ngôn ngữ": 0.9935045004822314,
+            "quý cô": 0.9925863551907241,
+            "chiếc": 0.559284464456141,
+            "đàn nga": 0.8737691454589367,
+            "quán bar the": 0.9948090602410957,
+            "địa điểm": 0.5548828672617674,
+            "bờ": 0.5506750643253326,
+            "sông": 0.5220284853130579,
+            "cầu rồng": 0.8737691454589367,
+            "trò chơi âm nhạc": 0.9942252463661134,
+            "quán the dude": 0.9897943444084376
+        },
+        "dicts_adj": {
+            "đồ ăn": [
+                "ngon"
+            ],
+            "đồ uống": [
+                "đắt",
+                "ngon",
+                "bất kỳ",
+                "thân thiện",
+                "phải",
+                "hợp lý"
+            ],
+            "túi xách": [
+                "phải",
+                "thoải mái"
+            ],
+            "quán bar": [
+                "nữ tính",
+                "nhỏ",
+                "chính xác",
+                "nhỏ",
+                "tuyệt vời"
+            ],
+            "đồ": [
+                "hầu bàn"
+            ],
+            "bàn": [
+                "tuyệt vời"
+            ],
+            "tầm nhìn": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "chăm chỉ",
+                "xinh đẹp"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "hợp lý"
+            ],
+            "loại bia": [
+                "ngon",
+                "đắt",
+                "yếu"
+            ],
+            "không khí": [
+                "ấm cúng"
+            ],
+            "âm nhạc": [
+                "tuyệt vời"
+            ],
+            "thể thao the dude": [],
+            "bia": [
+                "tươi"
+            ],
+            "ly bia": [
+                "lạnh",
+                "ngon"
+            ],
+            "nữ phục vụ": [
+                "nhỏ xíu",
+                "hoàn toàn"
+            ],
+            "bộ": [
+                "nhỏ xíu",
+                "hoàn toàn"
+            ],
+            "trang phục": [
+                "nhỏ xíu",
+                "hoàn toàn",
+                "tự do",
+                "hoàn toàn",
+                "cao"
+            ],
+            "trải nghiệm": [
+                "khủng khiếp",
+                "phải"
+            ],
+            "ngôn ngữ": [],
+            "quý cô": [
+                "tự do",
+                "vui vẻ",
+                "nóng"
+            ],
+            "chiếc": [
+                "trắng"
+            ],
+            "đàn nga": [
+                "trắng"
+            ],
+            "quán bar the": [
+                "tuyệt vời"
+            ],
+            "địa điểm": [
+                "thú vị",
+                "chắc chắn",
+                "khác biệt",
+                "khác"
+            ],
+            "bờ": [
+                "gần"
+            ],
+            "sông": [
+                "gần"
+            ],
+            "cầu rồng": [
+                "gần"
+            ],
+            "trò chơi âm nhạc": [
+                "hợp lý"
+            ],
+            "quán the dude": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đồ ăn": 1.5,
+            "đồ uống": 3.5,
+            "túi xách": 1.5,
+            "quán bar": 4.0,
+            "đồ": 1.5,
+            "bàn": 1.5,
+            "tầm nhìn": 1.5,
+            "nhân viên": 3.0,
+            "giá cả": 2.0,
+            "loại bia": 2.0,
+            "không khí": 1.0,
+            "âm nhạc": 1.0,
+            "thể thao the dude": 0.5,
+            "bia": 0.5,
+            "ly bia": 0.5,
+            "nữ phục vụ": 0.5,
+            "bộ": 0.5,
+            "trang phục": 1.0,
+            "trải nghiệm": 0.5,
+            "ngôn ngữ": 0.5,
+            "quý cô": 0.5,
+            "chiếc": 0.5,
+            "đàn nga": 0.5,
+            "quán bar the": 0.5,
+            "địa điểm": 0.5,
+            "bờ": 0.5,
+            "sông": 0.5,
+            "cầu rồng": 0.5,
+            "trò chơi âm nhạc": 0.5,
+            "quán the dude": 0.5
+        }
     },
     {
         "attraction_name": "The Dude Bar",
@@ -206,6 +386,83 @@
             "https://www.tripadvisor.com/Attraction_Review-g293925-d317896-Reviews-Saigon_Notre_Dame_Cathedral-Ho_Chi_Minh_City.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14936970-Reviews-or10-The_Dude_Bar-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14936970-Reviews-or10-The_Dude_Bar-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quán bar": 0.6550849137323288,
+            "sàn": 0.9938720432110131,
+            "the dude bar": 0.571447710506618,
+            "cốc bia": 0.7940147528424859,
+            "nhân viên": 0.9195862440101337,
+            "quầy bar": 0.8737691454589367,
+            "không khí mát mẻ": 0.9941619975725189,
+            "bàn chơi": 0.5,
+            "không khí": 0.5,
+            "đồ uống": 0.5,
+            "đồ uống ngon": 0.8737691454589367,
+            "giá cả": 0.9529069985728711,
+            "không gian ấm": 0.31033643521368504,
+            "âm nhạc": 0.9955389077076688,
+            "trải nghiệm": 0.9954880690202117
+        },
+        "dicts_adj": {
+            "quán bar": [
+                "nhỏ"
+            ],
+            "sàn": [
+                "tươi"
+            ],
+            "the dude bar": [],
+            "cốc bia": [
+                "​ ​"
+            ],
+            "nhân viên": [
+                "chu đáo",
+                "vui vẻ",
+                "thân thiện"
+            ],
+            "quầy bar": [
+                "thoải mái"
+            ],
+            "không khí mát mẻ": [
+                "thoải mái"
+            ],
+            "bàn chơi": [],
+            "không khí": [],
+            "đồ uống": [],
+            "đồ uống ngon": [
+                "hợp lý"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "không gian ấm": [
+                "ấm cúng"
+            ],
+            "âm nhạc": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quán bar": 1.5,
+            "sàn": 0.5,
+            "the dude bar": 0.5,
+            "cốc bia": 0.5,
+            "nhân viên": 1.0,
+            "quầy bar": 0.5,
+            "không khí mát mẻ": 0.5,
+            "bàn chơi": 0.5,
+            "không khí": 0.5,
+            "đồ uống": 0.5,
+            "đồ uống ngon": 1,
+            "giá cả": 1,
+            "không gian ấm": 1,
+            "âm nhạc": 1,
+            "trải nghiệm": 1
+        }
     }
 ]

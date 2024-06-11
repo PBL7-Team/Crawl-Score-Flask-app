@@ -106,7 +106,144 @@
             "https://www.tripadvisor.com/Attraction_Review-g60659-d8400700-Reviews-Green_World_Coffee_Farms-Wahiawa_Oahu_Hawaii.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d4795480-Reviews-or10-Hue_s_Garden_Houses-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4795480-Reviews-Hue_s_Garden_Houses-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4795480-Reviews-Hue_s_Garden_Houses-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi nhà": 0.8234517630480696,
+            "chiến tranh": 0.5,
+            "áo dài truyền thống": 0.7958599561825395,
+            "bàn thờ tổ tiên kiểu trung hoa": 0.8737691454589367,
+            "khu vườn có": 0.5,
+            "ao nước": 0.5,
+            "chuyến tham quan": 0.4229924296028912,
+            "ao": 0.5,
+            "cây đá": 0.5,
+            "đồ trang trí": 0.5,
+            "phong": 0.5,
+            "điểm dừng": 0.9604028908070177,
+            "xe": 0.5,
+            "- 12 nguyễn phúc nguyên": 0.9200400151312351,
+            "ngôi nhà vườn": 0.8737691454589367,
+            "lịch sử": 0.5,
+            "chuyến xe": 0.7184258829802275,
+            "nhà": 0.5,
+            "vườn an": 0.6868845727294683,
+            "chùa": 0.5,
+            "vị trí": -0.4386198977008462,
+            "trút nước": 0.5371739156544209,
+            "làng kim long": 0.8737691454589367,
+            "khu vườn": 0.5,
+            "hoàng tử công chúa": 0.98997099744156,
+            "phong thủy": 0.8737691454589367,
+            "hoàng thành": 0.8737691454589367,
+            "thời quan": 0.5081166233867407,
+            "đến": 0.5,
+            "điểm tham quan": 0.995486052124761
+        },
+        "dicts_adj": {
+            "ngôi nhà": [
+                "cao",
+                "nhiều",
+                "đẹp",
+                "lâu",
+                "đẹp",
+                "khoảng",
+                "nhiều",
+                "thú vị",
+                "nhiều",
+                "ngắn",
+                "thú vị"
+            ],
+            "chiến tranh": [],
+            "áo dài truyền thống": [],
+            "bàn thờ tổ tiên kiểu trung hoa": [
+                "đẹp"
+            ],
+            "khu vườn có": [],
+            "ao nước": [],
+            "chuyến tham quan": [
+                "ngắn",
+                "thú vị"
+            ],
+            "ao": [],
+            "cây đá": [],
+            "đồ trang trí": [],
+            "phong": [],
+            "điểm dừng": [
+                "nhiều",
+                "nổi bật",
+                "cũ",
+                "đặc biệt",
+                "cũ"
+            ],
+            "xe": [],
+            "- 12 nguyễn phúc nguyên": [],
+            "ngôi nhà vườn": [
+                "đẹp đẽ",
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "lịch sử": [],
+            "chuyến xe": [],
+            "nhà": [],
+            "vườn an": [
+                "ngắn",
+                "thú vị"
+            ],
+            "chùa": [],
+            "vị trí": [],
+            "trút nước": [],
+            "làng kim long": [
+                "thú vị",
+                "nhiều"
+            ],
+            "khu vườn": [],
+            "hoàng tử công chúa": [
+                "Rõ ràng"
+            ],
+            "phong thủy": [
+                "nhiều"
+            ],
+            "hoàng thành": [
+                "nhiều"
+            ],
+            "thời quan": [],
+            "đến": [],
+            "điểm tham quan": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngôi nhà": 4.0,
+            "chiến tranh": 1.5,
+            "áo dài truyền thống": 1.5,
+            "bàn thờ tổ tiên kiểu trung hoa": 1.5,
+            "khu vườn có": 1.5,
+            "ao nước": 1.5,
+            "chuyến tham quan": 2.5,
+            "ao": 1.5,
+            "cây đá": 1.5,
+            "đồ trang trí": 1.5,
+            "phong": 1.5,
+            "điểm dừng": 1.0,
+            "xe": 0.5,
+            "- 12 nguyễn phúc nguyên": 0.5,
+            "ngôi nhà vườn": 0.5,
+            "lịch sử": 0.5,
+            "chuyến xe": 0.5,
+            "nhà": 0.5,
+            "vườn an": 1.0,
+            "chùa": 1.0,
+            "vị trí": 0.5,
+            "trút nước": 0.5,
+            "làng kim long": 0.5,
+            "khu vườn": 0.5,
+            "hoàng tử công chúa": 0.5,
+            "phong thủy": 0.5,
+            "hoàng thành": 0.5,
+            "thời quan": 0.5,
+            "đến": 0.5,
+            "điểm tham quan": 0.5
+        }
     },
     {
         "attraction_name": "Hue's Garden Houses",
@@ -216,7 +353,159 @@
             "https://www.tripadvisor.com/Attraction_Review-g293917-d4743004-Reviews-Chiang_Mai_Cabaret_Show-Chiang_Mai.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d4795480-Reviews-or20-Hue_s_Garden_Houses-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4795480-Reviews-or10-Hue_s_Garden_Houses-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4795480-Reviews-or10-Hue_s_Garden_Houses-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi nhà": 0.6970961555140093,
+            "khu vườn": 0.5154950295885404,
+            "phong thủy": 0.9954563374631107,
+            "hướng dẫn viên": 0.7477678996219765,
+            "hoàng cung": 0.7832188904285431,
+            "lăng mộ": 0.5,
+            "người": 0.9661785685457289,
+            "lịch sử": 0.5,
+            "cây": 0.8533871648833156,
+            "bụi rậm": 0.5062215849757195,
+            "chuyến tham quan": 0.5,
+            "điểm tham quan": 0.5,
+            "tiền đồng": 0.9905985782970674,
+            "ngôi nhà cổ": 0.5,
+            "trà hoa": 0.5,
+            "điểm dừng": 0.9955720397410914,
+            "bờ": 0.5,
+            "sông hương": 0.5,
+            "chủ sở hữu": 0.47025590017437935,
+            "khu vườn theo": -0.9389346572570503,
+            "cây ăn quả": 0.5,
+            "nhà vườn truyền thống": 0.4665295910090208,
+            "nhà riêng": 0.5109736602753401,
+            "bàn thờ tổ": 0.5,
+            "ốc vít": 0.9923854946391657,
+            "hình chạm khắc": 0.9942882169852965,
+            "xà": 0.9154470952635165,
+            "đồ thủ": 0.9389169765636325,
+            "giá cả": 0.9930280394037254,
+            "người chủ dẫn": 0.8517087455838919,
+            "bức tường": 0.5,
+            "ao lớn": 0.5
+        },
+        "dicts_adj": {
+            "ngôi nhà": [
+                "phải",
+                "thú vị",
+                "thực sự",
+                "thú vị",
+                "tuyệt"
+            ],
+            "khu vườn": [
+                "thú vị",
+                "đặc biệt",
+                "đầy",
+                "xinh đẹp",
+                "nhiều"
+            ],
+            "phong thủy": [
+                "thú vị"
+            ],
+            "hướng dẫn viên": [
+                "thú vị"
+            ],
+            "hoàng cung": [
+                "nhiều"
+            ],
+            "lăng mộ": [],
+            "người": [
+                "tốt"
+            ],
+            "lịch sử": [],
+            "cây": [
+                "đặc biệt"
+            ],
+            "bụi rậm": [
+                "đặc biệt"
+            ],
+            "chuyến tham quan": [],
+            "điểm tham quan": [],
+            "tiền đồng": [
+                "khoảng",
+                "thú vị"
+            ],
+            "ngôi nhà cổ": [],
+            "trà hoa": [],
+            "điểm dừng": [
+                "ngắn"
+            ],
+            "bờ": [],
+            "sông hương": [],
+            "chủ sở hữu": [],
+            "khu vườn theo": [
+                "rõ ràng"
+            ],
+            "cây ăn quả": [],
+            "nhà vườn truyền thống": [
+                "nhiều"
+            ],
+            "nhà riêng": [
+                "tự hào"
+            ],
+            "bàn thờ tổ": [],
+            "ốc vít": [
+                "tuyệt vời",
+                "liền"
+            ],
+            "hình chạm khắc": [
+                "bình yên",
+                "xinh đẹp"
+            ],
+            "xà": [
+                "bình yên",
+                "xinh đẹp"
+            ],
+            "đồ thủ": [
+                "đẹp"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "người chủ dẫn": [],
+            "bức tường": [],
+            "ao lớn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngôi nhà": 2.5,
+            "khu vườn": 3.0,
+            "phong thủy": 0.5,
+            "hướng dẫn viên": 1.0,
+            "hoàng cung": 0.5,
+            "lăng mộ": 0.5,
+            "người": 0.5,
+            "lịch sử": 0.5,
+            "cây": 0.5,
+            "bụi rậm": 0.5,
+            "chuyến tham quan": 0.5,
+            "điểm tham quan": 0.5,
+            "tiền đồng": 0.5,
+            "ngôi nhà cổ": 0.5,
+            "trà hoa": 0.5,
+            "điểm dừng": 0.5,
+            "bờ": 0.5,
+            "sông hương": 0.5,
+            "chủ sở hữu": 0.5,
+            "khu vườn theo": 0.5,
+            "cây ăn quả": 0.5,
+            "nhà vườn truyền thống": 0.5,
+            "nhà riêng": 0.5,
+            "bàn thờ tổ": 0.5,
+            "ốc vít": 0.5,
+            "hình chạm khắc": 0.5,
+            "xà": 0.5,
+            "đồ thủ": 0.5,
+            "giá cả": 0.5,
+            "người chủ dẫn": 0.5,
+            "bức tường": 0.5,
+            "ao lớn": 0.5
+        }
     },
     {
         "attraction_name": "Hue's Garden Houses",
@@ -329,7 +618,202 @@
             "https://www.tripadvisor.com/Attraction_Review-g274707-d7077404-Reviews-Luxury_Bags-Prague_Bohemia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d4795480-Reviews-or30-Hue_s_Garden_Houses-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4795480-Reviews-or20-Hue_s_Garden_Houses-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4795480-Reviews-or20-Hue_s_Garden_Houses-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi nhà vườn": 0.8369817886850797,
+            "kiến": -0.8882039692252874,
+            "chuyến tham quan": 0.5077574306390792,
+            "ngôi nhà cổ": 0.7466702403762611,
+            "hướng dẫn viên": 0.23942509712651372,
+            "ngôi nhà": 0.5022064431354271,
+            "quan lại triều nguyễn": 0.8737691454589367,
+            "khu nhà chật chội": 0.9909318883437663,
+            "khu vườn": 0.8113981108879671,
+            "vườn cây ăn quả": 0.99545214563841,
+            "cây ăn trái": 0.5649844221770763,
+            "chủ nhà": 0.933610147505533,
+            "hậu duệ": 0.9953042913693935,
+            "trà": 0.5,
+            "trải nghiệm": 0.9954770984477364,
+            "thành phố": -0.9722808073274791,
+            "trái cây": 0.3660254646092653,
+            "họ sống": 0.5,
+            "điểm cao": 0.8336697090417147,
+            "hướng dẫn viên du lịch": -0.9608791880309582,
+            "người nước ngoài": 0.5,
+            "chuyến đi": 0.2302638334222138,
+            "phòng": -0.8137477287091315,
+            "kỳ nghỉ": 0.995555876463186,
+            "nhà hàng ý": 0.8737691454589367,
+            "đồ ăn": 0.5381048079580069,
+            "không gian": 0.5244399104267359,
+            "sân vườn": 0.5320957936346531,
+            "nhà hàng": 0.9955521330120973,
+            "bức tranh": 0.5,
+            "đồ gốm": 0.5,
+            "bữa ăn": 0.9955703269224614,
+            "đồ gỗ": 0.9953675883007236,
+            "bàn ăn trưa": 0.9915751509834081,
+            "chuyến thăm": 0.5521389450877905
+        },
+        "dicts_adj": {
+            "ngôi nhà vườn": [
+                "nổi tiếng",
+                "tuyệt vời"
+            ],
+            "kiến": [
+                "nổi tiếng"
+            ],
+            "chuyến tham quan": [
+                "trẻ",
+                "vui vẻ",
+                "khó chịu",
+                "ngon",
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "ngôi nhà cổ": [
+                "trẻ",
+                "vui vẻ"
+            ],
+            "hướng dẫn viên": [
+                "đẹp",
+                "khác",
+                "thực sự"
+            ],
+            "ngôi nhà": [
+                "đẹp",
+                "đẹp",
+                "cũ",
+                "nhỏ",
+                "ấm cúng",
+                "ấm áp",
+                "đẹp",
+                "tuyệt vời",
+                "tốt"
+            ],
+            "quan lại triều nguyễn": [
+                "tuyệt vời"
+            ],
+            "khu nhà chật chội": [
+                "tuyệt vời"
+            ],
+            "khu vườn": [
+                "tuyệt vời",
+                "riêng",
+                "quan trọng",
+                "thư giãn",
+                "nhiều",
+                "ngắn gọn"
+            ],
+            "vườn cây ăn quả": [
+                "tuyệt vời"
+            ],
+            "cây ăn trái": [
+                "đủ"
+            ],
+            "chủ nhà": [
+                "niềm nở",
+                "thân thiện"
+            ],
+            "hậu duệ": [
+                "niềm nở"
+            ],
+            "trà": [],
+            "trải nghiệm": [
+                "đáng giá"
+            ],
+            "thành phố": [
+                "giống",
+                "ồn ào"
+            ],
+            "trái cây": [
+                "quen thuộc"
+            ],
+            "họ sống": [],
+            "điểm cao": [
+                "phải"
+            ],
+            "hướng dẫn viên du lịch": [
+                "khó chịu"
+            ],
+            "người nước ngoài": [],
+            "chuyến đi": [],
+            "phòng": [
+                "khác"
+            ],
+            "kỳ nghỉ": [
+                "tuyệt vời"
+            ],
+            "nhà hàng ý": [
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "đầy"
+            ],
+            "không gian": [
+                "đầy"
+            ],
+            "sân vườn": [
+                "đầy"
+            ],
+            "nhà hàng": [
+                "tuyệt vời"
+            ],
+            "bức tranh": [],
+            "đồ gốm": [],
+            "bữa ăn": [
+                "ngon",
+                "tuyệt vời"
+            ],
+            "đồ gỗ": [
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "bàn ăn trưa": [
+                "tuyệt vời"
+            ],
+            "chuyến thăm": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngôi nhà vườn": 1.5,
+            "kiến": 0.5,
+            "chuyến tham quan": 2.0,
+            "ngôi nhà cổ": 1.0,
+            "hướng dẫn viên": 1.0,
+            "ngôi nhà": 3.5,
+            "quan lại triều nguyễn": 0.5,
+            "khu nhà chật chội": 0.5,
+            "khu vườn": 2.5,
+            "vườn cây ăn quả": 0.5,
+            "cây ăn trái": 0.5,
+            "chủ nhà": 1.0,
+            "hậu duệ": 0.5,
+            "trà": 0.5,
+            "trải nghiệm": 0.5,
+            "thành phố": 0.5,
+            "trái cây": 0.5,
+            "họ sống": 0.5,
+            "điểm cao": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "người nước ngoài": 0.5,
+            "chuyến đi": 0.5,
+            "phòng": 0.5,
+            "kỳ nghỉ": 0.5,
+            "nhà hàng ý": 0.5,
+            "đồ ăn": 0.5,
+            "không gian": 0.5,
+            "sân vườn": 0.5,
+            "nhà hàng": 0.5,
+            "bức tranh": 0.5,
+            "đồ gốm": 0.5,
+            "bữa ăn": 0.5,
+            "đồ gỗ": 0.5,
+            "bàn ăn trưa": 0.5,
+            "chuyến thăm": 0.5
+        }
     },
     {
         "attraction_name": "Hue's Garden Houses",
@@ -442,7 +926,130 @@
             "https://www.tripadvisor.com/Attraction_Review-g187849-d198970-Reviews-Teatro_Alla_Scala-Milan_Lombardy.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d4795480-Reviews-or40-Hue_s_Garden_Houses-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4795480-Reviews-or30-Hue_s_Garden_Houses-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4795480-Reviews-or30-Hue_s_Garden_Houses-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": -0.20678196079097688,
+            "địa điểm du lịch": 0.507784890010953,
+            "khu vườn": 0.7145943508699669,
+            "hoàng đế": -0.7514530457556248,
+            "tòa án": 0.47362828627228737,
+            "chân": 0.9919289792887866,
+            "nhà": 0.4800738776102662,
+            "người quản": -0.5012165624648333,
+            "ngôi nhà có": 0.58460683375597,
+            "ngôi nhà": 0.05768576682183065,
+            "cây ăn quả trong sân": 0.36660389974713326,
+            "khu vườn choáng": 0.9912793154362589,
+            "nhà vườn": 0.9156561307609081,
+            "thuyền": 0.5394709981046617,
+            "chùa": 0.5,
+            "vườn": 0.6311177883762866,
+            "ngôi nhà cổ": 0.5,
+            "nhà vườn -": 0.9916973834624514,
+            "đền thờ công chúa": 0.8737691454589367,
+            "khách sạn": 0.5753399804234505,
+            "lịch sử": 0.9937407025136054,
+            "tranh vẽ": 0.5,
+            "buổi sáng": 0.9928190419450402,
+            "câu chuyện": 0.33322253450751305
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "tình cờ"
+            ],
+            "địa điểm du lịch": [
+                "thực sự"
+            ],
+            "khu vườn": [
+                "đặc biệt",
+                "đẹp",
+                "trong",
+                "lớn",
+                "tự nhiên",
+                "đơn giản",
+                "khác",
+                "mơ hồ"
+            ],
+            "hoàng đế": [],
+            "tòa án": [],
+            "chân": [
+                "khoảng"
+            ],
+            "nhà": [],
+            "người quản": [],
+            "ngôi nhà có": [
+                "Ngạc nhiên",
+                "nhiều"
+            ],
+            "ngôi nhà": [
+                "đẹp",
+                "kỳ lạ",
+                "hơn",
+                "đẹp"
+            ],
+            "cây ăn quả trong sân": [],
+            "khu vườn choáng": [],
+            "nhà vườn": [
+                "rộng",
+                "yên tĩnh"
+            ],
+            "thuyền": [
+                "nhiều",
+                "hơn"
+            ],
+            "chùa": [],
+            "vườn": [
+                "khác",
+                "mơ hồ"
+            ],
+            "ngôi nhà cổ": [],
+            "nhà vườn -": [
+                "thích thú"
+            ],
+            "đền thờ công chúa": [
+                "thích thú"
+            ],
+            "khách sạn": [],
+            "lịch sử": [
+                "thú vị",
+                "trực tiếp"
+            ],
+            "tranh vẽ": [],
+            "buổi sáng": [
+                "thực sự",
+                "tốt đẹp",
+                "khác"
+            ],
+            "câu chuyện": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 1.0,
+            "địa điểm du lịch": 1.0,
+            "khu vườn": 3.5,
+            "hoàng đế": 0.5,
+            "tòa án": 0.5,
+            "chân": 0.5,
+            "nhà": 1.0,
+            "người quản": 0.5,
+            "ngôi nhà có": 0.5,
+            "ngôi nhà": 1.5,
+            "cây ăn quả trong sân": 0.5,
+            "khu vườn choáng": 0.5,
+            "nhà vườn": 0.5,
+            "thuyền": 1.0,
+            "chùa": 0.5,
+            "vườn": 1.0,
+            "ngôi nhà cổ": 0.5,
+            "nhà vườn -": 0.5,
+            "đền thờ công chúa": 0.5,
+            "khách sạn": 0.5,
+            "lịch sử": 0.5,
+            "tranh vẽ": 0.5,
+            "buổi sáng": 0.5,
+            "câu chuyện": 0.5
+        }
     },
     {
         "attraction_name": "Hue's Garden Houses",
@@ -548,6 +1155,181 @@
             "https://www.tripadvisor.com/Attraction_Review-g4414408-d7277555-Reviews-Dragon_Gate-Alvkarleby_Uppsala_County.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4795480-Reviews-or40-Hue_s_Garden_Houses-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4795480-Reviews-or40-Hue_s_Garden_Houses-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhà": 0.5,
+            "vườn": 0.6630946761514577,
+            "tráng lệ": 0.5,
+            "lịch sử": 0.6984782855724916,
+            "ngôi nhà": 0.8234329102706397,
+            "phong thủy": 0.5,
+            "chuyến tham quan": 0.5590350573572019,
+            "khu vườn cũ": 0.5,
+            "cây cổ thụ": 0.655391811800655,
+            "trái": 0.966922520659864,
+            "đàn bướm": 0.9951791233033873,
+            "chuyến đi": 0.04320074483985081,
+            "ngôi nhà truyền thống": 0.5,
+            "người hướng dẫn": 0.5,
+            "khu vườn": 0.9407617752003716,
+            "hồ": 0.21444671414792538,
+            "ngôi nhà cổ": 0.7272563145379536,
+            "kiến ​​trúc": 0.5,
+            "dòng sông nước hoa": 0.5,
+            "tour": 0.9817765629850328,
+            "we": 0.9297607522457838,
+            "phong thuy--wind": 0.9901326233521104,
+            "tha om": 0.9808840928599238,
+            "thuyền": 0.44151888601481915,
+            "bờ sông": 0.5,
+            "dinh thự": 0.5199088677763939,
+            "bức tường": -0.953633370809257,
+            "cái ao": -0.9712045534979552,
+            "linh hồn": 0.5,
+            "ngôi": 0.995066958188545,
+            "nhà có": 0.9871956229908392,
+            "đồ gỗ": 0.9870536181842908,
+            "bàn thờ": 0.5,
+            "phòng": -0.10955240624025464,
+            "thời xa xưa": 0.5
+        },
+        "dicts_adj": {
+            "nhà": [],
+            "vườn": [
+                "tốt",
+                "hơn",
+                "thú vị"
+            ],
+            "tráng lệ": [],
+            "lịch sử": [
+                "hơn",
+                "thú vị"
+            ],
+            "ngôi nhà": [
+                "vui",
+                "thực sự",
+                "dọc",
+                "dọc",
+                "tốt",
+                "hơn",
+                "thú vị",
+                "tốt",
+                "hơn",
+                "thú vị"
+            ],
+            "phong thủy": [],
+            "chuyến tham quan": [
+                "tối đa",
+                "tốt",
+                "đầu tiên"
+            ],
+            "khu vườn cũ": [],
+            "cây cổ thụ": [
+                "đẹp đẽ",
+                "nhiều"
+            ],
+            "trái": [
+                "trĩu"
+            ],
+            "đàn bướm": [
+                "ngoạn mục"
+            ],
+            "chuyến đi": [
+                "đủ",
+                "khó chịu"
+            ],
+            "ngôi nhà truyền thống": [],
+            "người hướng dẫn": [],
+            "khu vườn": [
+                "xinh xắn",
+                "đẹp đẽ",
+                "tốt",
+                "chắc chắn",
+                "tốt",
+                "hơn",
+                "thú vị"
+            ],
+            "hồ": [
+                "nhỏ"
+            ],
+            "ngôi nhà cổ": [
+                "riêng tư",
+                "chắc chắn",
+                "nhiều",
+                "đẹp"
+            ],
+            "kiến ​​trúc": [],
+            "dòng sông nước hoa": [],
+            "tour": [],
+            "we": [],
+            "phong thuy--wind": [],
+            "tha om": [],
+            "thuyền": [
+                "dọc"
+            ],
+            "bờ sông": [],
+            "dinh thự": [
+                "riêng"
+            ],
+            "bức tường": [
+                "thực sự"
+            ],
+            "cái ao": [],
+            "linh hồn": [],
+            "ngôi": [
+                "đẹp"
+            ],
+            "nhà có": [
+                "đẹp"
+            ],
+            "đồ gỗ": [
+                "đẹp"
+            ],
+            "bàn thờ": [],
+            "phòng": [
+                "nhỏ",
+                "đúng"
+            ],
+            "thời xa xưa": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhà": 1.0,
+            "vườn": 1.5,
+            "tráng lệ": 0.5,
+            "lịch sử": 1.0,
+            "ngôi nhà": 2.0,
+            "phong thủy": 0.5,
+            "chuyến tham quan": 1.5,
+            "khu vườn cũ": 0.5,
+            "cây cổ thụ": 0.5,
+            "trái": 0.5,
+            "đàn bướm": 0.5,
+            "chuyến đi": 1.0,
+            "ngôi nhà truyền thống": 0.5,
+            "người hướng dẫn": 0.5,
+            "khu vườn": 1.0,
+            "hồ": 0.5,
+            "ngôi nhà cổ": 0.5,
+            "kiến ​​trúc": 0.5,
+            "dòng sông nước hoa": 0.5,
+            "tour": 0.5,
+            "we": 0.5,
+            "phong thuy--wind": 0.5,
+            "tha om": 0.5,
+            "thuyền": 0.5,
+            "bờ sông": 0.5,
+            "dinh thự": 0.5,
+            "bức tường": 0.5,
+            "cái ao": 0.5,
+            "linh hồn": 0.5,
+            "ngôi": 0.5,
+            "nhà có": 0.5,
+            "đồ gỗ": 0.5,
+            "bàn thờ": 0.5,
+            "phòng": 0.5,
+            "thời xa xưa": 0.5
+        }
     }
 ]

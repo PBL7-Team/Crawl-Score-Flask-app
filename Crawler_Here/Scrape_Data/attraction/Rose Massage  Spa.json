@@ -804,6 +804,63 @@
             "https://www.tripadvisor.com/Attraction_Review-g298298-d1488280-Reviews-Lost_World_Of_Tambun-Ipoh_Kinta_District_Perak.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g311304-d26262835-Reviews-or10-Rose_Massage_Spa-Sapa_Lao_Cai_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d26262835-Reviews-Rose_Massage_Spa-Sapa_Lao_Cai_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d26262835-Reviews-Rose_Massage_Spa-Sapa_Lao_Cai_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.03452974930405617,
+            "tour van": 0.8737691454589367,
+            "khách sạn": 0.5,
+            "massage thực phẩm": 0.7422425340628251,
+            "cho họ": 0.5121936984360218,
+            "thực phẩm thảo dược": 0.9660597066394985,
+            "dịch vụ massage": 0.8737691454589367,
+            "spa": 0.8737691454589367,
+            "xe du lịch": 0.8737691454589367,
+            "massage đầu cổ": 0.5,
+            "tắm thực phẩm thảo dược": 0.9549311115406454,
+            "hướng dẫn viên": 0.5
+        },
+        "dicts_adj": {
+            "dịch vụ": [],
+            "tour van": [
+                "rực rỡ"
+            ],
+            "khách sạn": [],
+            "massage thực phẩm": [],
+            "cho họ": [
+                "lớn",
+                "lớn"
+            ],
+            "thực phẩm thảo dược": [
+                "giảm giá"
+            ],
+            "dịch vụ massage": [
+                "rực rỡ"
+            ],
+            "spa": [
+                "rực rỡ"
+            ],
+            "xe du lịch": [
+                "rực rỡ"
+            ],
+            "massage đầu cổ": [],
+            "tắm thực phẩm thảo dược": [],
+            "hướng dẫn viên": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 2,
+            "tour van": 1.5,
+            "khách sạn": 4.0,
+            "massage thực phẩm": 3.0,
+            "cho họ": 3.0,
+            "thực phẩm thảo dược": 1.5,
+            "dịch vụ massage": 1.5,
+            "spa": 1.5,
+            "xe du lịch": 1.5,
+            "massage đầu cổ": 1.5,
+            "tắm thực phẩm thảo dược": 1.5,
+            "hướng dẫn viên": 1
+        }
     }
 ]

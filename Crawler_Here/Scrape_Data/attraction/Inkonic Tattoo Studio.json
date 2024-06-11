@@ -91,6 +91,40 @@
             "https://www.tripadvisor.com/Attraction_Review-g32253-d127357-Reviews-South_Coast_Plaza-Costa_Mesa_California.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26702042-Reviews-Inkonic_Tattoo_Studio-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26702042-Reviews-Inkonic_Tattoo_Studio-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "môi trường": 0.9955435003503226,
+            "nhân viên": 0.8737691454589367,
+            "nghệ sĩ xăm hình": 0.989895979873836,
+            "trải nghiệm": 0.9952929429709911,
+            "tiệm xăm": 0.9952184921712615
+        },
+        "dicts_adj": {
+            "môi trường": [
+                "tốt đẹp"
+            ],
+            "nhân viên": [
+                "tuyệt vời"
+            ],
+            "nghệ sĩ xăm hình": [
+                "xuất sắc",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "tiệm xăm": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "môi trường": 1.5,
+            "nhân viên": 1.5,
+            "nghệ sĩ xăm hình": 1.5,
+            "trải nghiệm": 1,
+            "tiệm xăm": 1
+        }
     }
 ]

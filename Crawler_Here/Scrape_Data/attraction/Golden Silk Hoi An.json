@@ -119,7 +119,316 @@
             "https://www.tripadvisor.com/Attraction_Review-g293919-d4412577-Reviews-Beach_Road-Pattaya_Chonburi_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or10-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tracey": 0.9955383344786242,
+            "bộ": -0.006239969952730462,
+            "quần áo": 0.4421852112855829,
+            "chất lượng": 0.8783418644918128,
+            "vải": 0.6857002761025797,
+            "thợ may": 0.9877390477980953,
+            "váy": 0.7270891836652642,
+            "trải nghiệm": 0.995173759710848,
+            "giá": 0.86362788893166,
+            "bộ váy": 0.8737691454589367,
+            "tiền bạc": 0.5257654339075089,
+            "quần": 0.5061354315839708,
+            "áo sơ mi": 0.5,
+            "dịch vụ": 0.19267860516397792,
+            "giá cả": 0.9845167484745616,
+            "dịch vụ cắt may": 0.9748439746908844,
+            "viên": 0.9952210045303218,
+            "áo ghi lê": 0.5,
+            "quần dài": 0.5,
+            "quần áo đặt": 0.4751550108194351,
+            "chất liệu vải": 0.99374702910427,
+            "dịch vụ vận chuyển quốc": -0.7415836732834578,
+            "tác phẩm": 0.9955509740393609,
+            "chuyến thăm": 0.9216554574668407,
+            "cửa hàng may": 0.9078819751739502,
+            "doanh nghiệp": 0.9743099943928731,
+            "kỹ năng": 0.5,
+            "mặt hàng": 0.5431608809158206,
+            "quy": 0.509804729372263,
+            "ngày giáng sinh": 0.9947317996411584,
+            "chất lượng vải": 0.5,
+            "studio": 0.97560383239761,
+            "cửa hàng": 0.5,
+            "xe tay ga": 0.5,
+            "giao hàng": 0.9940993446507491,
+            "váy đầm": 0.5,
+            "bộ bikini": 0.5,
+            "quần short": 0.5,
+            "dịch vụ bưu kiện": 0.5,
+            "trang phục": 0.007634537876583636,
+            "cơ sở": -0.797973932698369,
+            "người": 0.8737691454589367,
+            "thời trang": 0.5,
+            "bộ trang phục": 0.5,
+            "tuần": 0.5,
+            "nghỉ lễ": 0.5,
+            "bộ đồ": 0.5,
+            "tiệm may": 0.011080687555174032,
+            "phố": 0.5,
+            "viên ngọc": 0.9953953786753118,
+            "quần tây": 0.5,
+            "đơn đặt hàng": 0.9348309189081192
+        },
+        "dicts_adj": {
+            "tracey": [
+                "tuyệt vời"
+            ],
+            "bộ": [
+                "đẹp",
+                "khác",
+                "riêng",
+                "đặc biệt",
+                "cao",
+                "khác"
+            ],
+            "quần áo": [
+                "đẹp",
+                "sẵn sàng",
+                "tốt bụng",
+                "chuyên nghiệp",
+                "tuyệt vời",
+                "đặc biệt",
+                "cao",
+                "khác",
+                "riêng",
+                "đặc biệt",
+                "cao",
+                "khác",
+                "nhiều"
+            ],
+            "chất lượng": [
+                "khéo léo",
+                "thuận lợi",
+                "thuận lợi"
+            ],
+            "vải": [
+                "nhiều",
+                "cùng",
+                "tuyệt"
+            ],
+            "thợ may": [
+                "giỏi",
+                "nhất",
+                "xuất sắc",
+                "tuyệt vời"
+            ],
+            "váy": [
+                "tuyệt vời",
+                "cuối cùng",
+                "chắc chắn",
+                "nhanh chóng",
+                "sẵn sàng",
+                "chắc chắn",
+                "nhanh chóng",
+                "sẵn sàng",
+                "bất kỳ"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "thân thiện",
+                "hữu ích"
+            ],
+            "giá": [
+                "thực sự",
+                "hợp lý",
+                "trung thực",
+                "rẻ",
+                "hơn",
+                "hơn",
+                "nhanh chóng",
+                "hợp lý",
+                "cuối cùng"
+            ],
+            "bộ váy": [
+                "nhiều"
+            ],
+            "tiền bạc": [
+                "hơn"
+            ],
+            "quần": [],
+            "áo sơ mi": [],
+            "dịch vụ": [
+                "tuyệt vời",
+                "chắc chắn",
+                "chắc chắn"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "thuận lợi",
+                "thuận lợi"
+            ],
+            "dịch vụ cắt may": [
+                "chuyên nghiệp"
+            ],
+            "viên": [
+                "Tình cờ",
+                "chuyên nghiệp"
+            ],
+            "áo ghi lê": [],
+            "quần dài": [],
+            "quần áo đặt": [
+                "riêng",
+                "riêng"
+            ],
+            "chất liệu vải": [
+                "linh hoạt",
+                "cuối cùng",
+                "sẵn sàng",
+                "linh hoạt",
+                "cuối cùng",
+                "sẵn sàng"
+            ],
+            "dịch vụ vận chuyển quốc": [
+                "quốc tế"
+            ],
+            "tác phẩm": [
+                "tuyệt đẹp",
+                "quan trọng",
+                "hơn",
+                "tuyệt đẹp",
+                "quan trọng",
+                "hơn"
+            ],
+            "chuyến thăm": [
+                "đầu tiên",
+                "đặc biệt",
+                "đầu tiên",
+                "đặc biệt"
+            ],
+            "cửa hàng may": [
+                "vui mừng",
+                "lớn",
+                "hơn",
+                "khác"
+            ],
+            "doanh nghiệp": [
+                "nhỏ",
+                "thoải mái",
+                "thực sự",
+                "nhỏ",
+                "thoải mái"
+            ],
+            "kỹ năng": [],
+            "mặt hàng": [],
+            "quy": [
+                "chắc chắn"
+            ],
+            "ngày giáng sinh": [
+                "hạnh phúc",
+                "hài lòng"
+            ],
+            "chất lượng vải": [],
+            "studio": [
+                "thực sự",
+                "hài lòng"
+            ],
+            "cửa hàng": [],
+            "xe tay ga": [],
+            "giao hàng": [
+                "nhanh"
+            ],
+            "váy đầm": [],
+            "bộ bikini": [],
+            "quần short": [],
+            "dịch vụ bưu kiện": [],
+            "trang phục": [
+                "cơ bản",
+                "đơn giản",
+                "kém"
+            ],
+            "cơ sở": [
+                "tốt",
+                "hơn",
+                "tốt",
+                "hơn",
+                "tốt",
+                "hơn"
+            ],
+            "người": [
+                "xuất sắc",
+                "tuyệt vời"
+            ],
+            "thời trang": [],
+            "bộ trang phục": [],
+            "tuần": [],
+            "nghỉ lễ": [],
+            "bộ đồ": [],
+            "tiệm may": [
+                "lớn",
+                "hơn",
+                "khác"
+            ],
+            "phố": [],
+            "viên ngọc": [
+                "Tình cờ",
+                "ấm áp",
+                "chuyên nghiệp"
+            ],
+            "quần tây": [],
+            "đơn đặt hàng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tracey": 1,
+            "bộ": 4.0,
+            "quần áo": 7.0,
+            "chất lượng": 5.0,
+            "vải": 4.0,
+            "thợ may": 2.5,
+            "váy": 8.5,
+            "trải nghiệm": 5.5,
+            "giá": 2,
+            "bộ váy": 1,
+            "tiền bạc": 1,
+            "quần": 4.0,
+            "áo sơ mi": 2.5,
+            "dịch vụ": 5.5,
+            "giá cả": 4.0,
+            "dịch vụ cắt may": 1.5,
+            "viên": 1.5,
+            "áo ghi lê": 3.0,
+            "quần dài": 1.5,
+            "quần áo đặt": 3.0,
+            "chất liệu vải": 3.0,
+            "dịch vụ vận chuyển quốc": 1.5,
+            "tác phẩm": 3.0,
+            "chuyến thăm": 3.0,
+            "cửa hàng may": 1.5,
+            "doanh nghiệp": 4.5,
+            "kỹ năng": 1.5,
+            "mặt hàng": 1.5,
+            "quy": 1.5,
+            "ngày giáng sinh": 3.0,
+            "chất lượng vải": 1.5,
+            "studio": 1.5,
+            "cửa hàng": 3.0,
+            "xe tay ga": 1.5,
+            "giao hàng": 1.5,
+            "váy đầm": 1.5,
+            "bộ bikini": 1.5,
+            "quần short": 1.5,
+            "dịch vụ bưu kiện": 1.5,
+            "trang phục": 1.5,
+            "cơ sở": 1.5,
+            "người": 1.5,
+            "thời trang": 1.5,
+            "bộ trang phục": 1.5,
+            "tuần": 1.5,
+            "nghỉ lễ": 1.5,
+            "bộ đồ": 1.5,
+            "tiệm may": 1.5,
+            "phố": 1.5,
+            "viên ngọc": 1.5,
+            "quần tây": 1.5,
+            "đơn đặt hàng": 1.5
+        }
     },
     {
         "attraction_name": "Golden Silk Hoi An",
@@ -243,7 +552,141 @@
             "https://www.tripadvisor.com/Attraction_Review-g303829-d3178784-Reviews-Porec_Aquarium-Porec_Istria.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or20-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or10-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or10-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quần": 0.5256724562495947,
+            "chất lượng": 0.7524863731426498,
+            "giá": 0.8039628083934076,
+            "áo sơ mi": 0.5,
+            "cà vạt": 0.5,
+            "dịch vụ": 0.8961550867243204,
+            "nghề thủ công": 0.9951987939421088,
+            "giá cả": -0.0012083180481567979,
+            "họ": 0.5,
+            "quần áo": 0.6799161746894242,
+            "nhân viên": 0.9947538675041869,
+            "váy": 0.8444246363360435,
+            "tracey": 0.9917999126482755,
+            "chi tiết": 0.9940892087761313,
+            "chi phí": 0.5,
+            "thợ may": 0.9252630031551234,
+            "bộ áo liền quần": 0.5,
+            "món đồ đó": 0.5,
+            "đường cắt": -0.06515417783521116,
+            "trải nghiệm": 0.9952626856393181,
+            "hạng mục": 0.5225918628275394,
+            "tay nghề": 0.8737691454589367,
+            "trang phục": 0.9706908300286159
+        },
+        "dicts_adj": {
+            "quần": [],
+            "chất lượng": [
+                "hợp lý",
+                "cuối cùng",
+                "tốt"
+            ],
+            "giá": [
+                "hợp lý",
+                "cuối cùng",
+                "nổi bật",
+                "tốt"
+            ],
+            "áo sơ mi": [],
+            "cà vạt": [],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "nghề thủ công": [
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "họ": [],
+            "quần áo": [
+                "đúng",
+                "bất kỳ",
+                "nhiều",
+                "đầu tiên",
+                "nhiều",
+                "hơn",
+                "nhiều",
+                "hơn"
+            ],
+            "nhân viên": [
+                "hữu ích",
+                "tử tế"
+            ],
+            "váy": [
+                "nổi bật",
+                "tốt",
+                "Cuối cùng"
+            ],
+            "tracey": [
+                "thực sự",
+                "xuất sắc"
+            ],
+            "chi tiết": [
+                "lịch sự",
+                "tốt bụng",
+                "hài lòng",
+                "nhỏ",
+                "hoàn toàn",
+                "hài lòng"
+            ],
+            "chi phí": [],
+            "thợ may": [
+                "tuyệt vời",
+                "giỏi",
+                "nhất"
+            ],
+            "bộ áo liền quần": [],
+            "món đồ đó": [],
+            "đường cắt": [
+                "khác",
+                "rõ ràng"
+            ],
+            "trải nghiệm": [
+                "hiếu khách",
+                "dễ",
+                "gần"
+            ],
+            "hạng mục": [],
+            "tay nghề": [
+                "tốt"
+            ],
+            "trang phục": [
+                "nhiều",
+                "sẵn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quần": 1,
+            "chất lượng": 3,
+            "giá": 2,
+            "áo sơ mi": 1,
+            "cà vạt": 1,
+            "dịch vụ": 2,
+            "nghề thủ công": 1,
+            "giá cả": 2,
+            "họ": 1,
+            "quần áo": 4,
+            "nhân viên": 1,
+            "váy": 2,
+            "tracey": 1,
+            "chi tiết": 2,
+            "chi phí": 1,
+            "thợ may": 2,
+            "bộ áo liền quần": 1,
+            "món đồ đó": 1,
+            "đường cắt": 1,
+            "trải nghiệm": 1,
+            "hạng mục": 1,
+            "tay nghề": 1,
+            "trang phục": 1
+        }
     },
     {
         "attraction_name": "Golden Silk Hoi An",
@@ -367,7 +810,174 @@
             "https://www.tripadvisor.com/Attraction_Review-g35805-d563761-Reviews-Metro-Chicago_Illinois.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or30-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or20-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or20-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "váy": 0.6896972293761792,
+            "trải nghiệm": 0.9953220233437605,
+            "giá cả": 0.9738742253102828,
+            "bộ váy": 0.8737691454589367,
+            "tiền bạc": 0.5257654339075089,
+            "quần áo": -0.45366205523411435,
+            "cửa hàng": 0.09131883439840749,
+            "chất liệu": 0.5,
+            "vải": -0.1337092239409685,
+            "chuyến đi": -0.3244381509721279,
+            "bộ": 0.5178221743553877,
+            "mặt trời": 0.75116116553545,
+            "đường tràng": 0.8737691454589367,
+            "thợ may": 0.6566720081027597,
+            "sàn": 0.5,
+            "doanh": 0.5719092061044648,
+            "spa": 0.9949557808286045,
+            "dịch vụ": 0.8737691454589367,
+            "lụa": 0.9954381047282368,
+            "thời trang": 0.9920834872173145,
+            "sản phẩm": 0.8737691454589367,
+            "bộ đồ công sở": 0.9920558963785879,
+            "mặt hàng": -0.9377460516989231,
+            "cửa hàng địa phương": 0.3188471235334873,
+            "khách sạn": -0.9405485710594803,
+            "món đồ": 0.5,
+            "bộ áo liền quần": 0.5,
+            "giao dịch mua hàng": 0.9954178111511283
+        },
+        "dicts_adj": {
+            "váy": [
+                "tuyệt vời",
+                "đủ",
+                "phải"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "thực sự",
+                "hợp lý",
+                "trung thực",
+                "rẻ",
+                "hơn",
+                "hơn",
+                "nhanh chóng",
+                "hợp lý"
+            ],
+            "bộ váy": [
+                "nhiều"
+            ],
+            "tiền bạc": [
+                "hơn"
+            ],
+            "quần áo": [
+                "giống",
+                "thực sự",
+                "đủ",
+                "chắc chắn",
+                "đắt"
+            ],
+            "cửa hàng": [
+                "lớn",
+                "hơn"
+            ],
+            "chất liệu": [],
+            "vải": [
+                "hơn"
+            ],
+            "chuyến đi": [
+                "khác"
+            ],
+            "bộ": [
+                "giống"
+            ],
+            "mặt trời": [
+                "thực sự",
+                "bất kỳ"
+            ],
+            "đường tràng": [
+                "gần"
+            ],
+            "thợ may": [
+                "thân thiện",
+                "nhiều",
+                "lớn",
+                "hơn",
+                "nhỏ",
+                "hơn"
+            ],
+            "sàn": [],
+            "doanh": [
+                "nhỏ",
+                "hơn"
+            ],
+            "spa": [
+                "tuyệt vời",
+                "xuất sắc"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "lụa": [
+                "tuyệt vời"
+            ],
+            "thời trang": [
+                "tốt",
+                "giỏi"
+            ],
+            "sản phẩm": [
+                "đẹp"
+            ],
+            "bộ đồ công sở": [
+                "thực sự",
+                "vui"
+            ],
+            "mặt hàng": [
+                "đắt"
+            ],
+            "cửa hàng địa phương": [
+                "lớn",
+                "hơn"
+            ],
+            "khách sạn": [
+                "lớn",
+                "hơn"
+            ],
+            "món đồ": [],
+            "bộ áo liền quần": [],
+            "giao dịch mua hàng": [
+                "hài lòng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "váy": 4,
+            "trải nghiệm": 2,
+            "giá cả": 2,
+            "bộ váy": 1,
+            "tiền bạc": 1,
+            "quần áo": 2,
+            "cửa hàng": 2,
+            "chất liệu": 1,
+            "vải": 2,
+            "chuyến đi": 1,
+            "bộ": 1,
+            "mặt trời": 1,
+            "đường tràng": 1,
+            "thợ may": 3,
+            "sàn": 1,
+            "doanh": 1,
+            "spa": 1,
+            "dịch vụ": 1,
+            "lụa": 1,
+            "thời trang": 1,
+            "sản phẩm": 1,
+            "bộ đồ công sở": 1,
+            "mặt hàng": 1,
+            "cửa hàng địa phương": 1,
+            "khách sạn": 1,
+            "món đồ": 1,
+            "bộ áo liền quần": 1,
+            "giao dịch mua hàng": 1
+        }
     },
     {
         "attraction_name": "Golden Silk Hoi An",
@@ -492,7 +1102,108 @@
             "https://www.tripadvisor.com/Attraction_Review-g319779-d7002967-Reviews-Sapientza_Isle-Methoni_Pylos_Nestor_Messenia_Region_Peloponnese.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or40-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or30-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or30-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.9346229560032953,
+            "giá cả": 0.9133380720159039,
+            "quần áo": 0.764991142146755,
+            "cửa hàng": 0.9952898458868731,
+            "nhân viên": 0.9842671967344359,
+            "chất liệu": 0.5,
+            "váy": 0.5,
+            "bộ đồ": 0.5,
+            "bức tranh": 0.5,
+            "đó bảo": 0.5286643151193857,
+            "bộ áo liền quần ngắn": 0.9910476426593959,
+            "váy midi": 0.9949465321260504,
+            "loại vải": 0.9753832253627479,
+            "thợ may": -0.48828625213354826,
+            "chất lượng": 0.8737691454589367,
+            "doanh nghiệp": 0.5719092061044648,
+            "bộ áo liền quần": 0.5,
+            "trang phục": 0.5
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tốt",
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "thực sự",
+                "hợp lý",
+                "hài lòng"
+            ],
+            "quần áo": [
+                "nhanh"
+            ],
+            "cửa hàng": [
+                "nhiệt tình",
+                "nhỏ",
+                "xinh",
+                "tốt",
+                "chuyên nghiệp"
+            ],
+            "nhân viên": [
+                "nhiệt tình",
+                "kiên nhẫn"
+            ],
+            "chất liệu": [],
+            "váy": [],
+            "bộ đồ": [],
+            "bức tranh": [],
+            "đó bảo": [],
+            "bộ áo liền quần ngắn": [
+                "thân thiện"
+            ],
+            "váy midi": [
+                "thân thiện"
+            ],
+            "loại vải": [
+                "hoàn hảo",
+                "nhiều",
+                "hơn",
+                "nhất"
+            ],
+            "thợ may": [
+                "đặc biệt",
+                "thiếu",
+                "tồi tệ",
+                "đắt",
+                "hơn"
+            ],
+            "chất lượng": [
+                "tốt"
+            ],
+            "doanh nghiệp": [
+                "nhỏ",
+                "hơn"
+            ],
+            "bộ áo liền quần": [],
+            "trang phục": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 1.0,
+            "giá cả": 1.0,
+            "quần áo": 1.0,
+            "cửa hàng": 1.0,
+            "nhân viên": 1.0,
+            "chất liệu": 0.5,
+            "váy": 1.5,
+            "bộ đồ": 0.5,
+            "bức tranh": 0.5,
+            "đó bảo": 0.5,
+            "bộ áo liền quần ngắn": 0.5,
+            "váy midi": 0.5,
+            "loại vải": 0.5,
+            "thợ may": 0.5,
+            "chất lượng": 0.5,
+            "doanh nghiệp": 0.5,
+            "bộ áo liền quần": 0.5,
+            "trang phục": 0.5
+        }
     },
     {
         "attraction_name": "Golden Silk Hoi An",
@@ -617,7 +1328,162 @@
             "https://www.tripadvisor.com/Attraction_Review-g298566-d9805990-Reviews-Maruzen_Junkudo_Bookstore-Osaka_Osaka_Prefecture_Kinki.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or50-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or40-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or40-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tiệm may": 0.172141038114205,
+            "phố": 0.5,
+            "doanh nghiệp": 0.9952599963871762,
+            "vải": 0.8632904296779694,
+            "bộ": -0.9471777435392141,
+            "quần áo": 0.3942536029778421,
+            "quần": 0.5,
+            "dịch vụ": -0.9069588673301041,
+            "váy": 0.5839315574460974,
+            "ngày giáng sinh": 0.9949878602637909,
+            "khách sạn": 0.4965909458696842,
+            "thợ may": 0.9890122471842915,
+            "nhân viên": 0.9908750749164028,
+            "sản phẩm": 0.9943609398324043,
+            "chất lượng": 0.5,
+            "thành phẩm": 0.5,
+            "quần đùi": 0.9715986351948231,
+            "món đồ": 0.5,
+            "giá cả": 0.9308730185730383,
+            "mức": 0.5407347399741411,
+            "giá": 0.5609485954046249,
+            "hoa văn": 0.9930306107271463,
+            "thời trang": 0.9844021266326308,
+            "người bán hàng": -0.9495133853051811,
+            "bộ áo liền quần": 0.5,
+            "áo": 0.5,
+            "xu hướng": 0.5,
+            "loại": 0.6264370652691772
+        },
+        "dicts_adj": {
+            "tiệm may": [
+                "lớn",
+                "hơn",
+                "khác",
+                "cao"
+            ],
+            "phố": [],
+            "doanh nghiệp": [
+                "nhỏ",
+                "thoải mái"
+            ],
+            "vải": [
+                "nhiều",
+                "cùng",
+                "tuyệt",
+                "đẹp",
+                "đẹp",
+                "cao"
+            ],
+            "bộ": [
+                "khác"
+            ],
+            "quần áo": [
+                "riêng",
+                "đặc biệt",
+                "cao",
+                "khác"
+            ],
+            "quần": [],
+            "dịch vụ": [
+                "chắc chắn"
+            ],
+            "váy": [
+                "chắc chắn",
+                "nhanh chóng",
+                "sẵn sàng",
+                "bất kỳ",
+                "vui vẻ"
+            ],
+            "ngày giáng sinh": [
+                "hài lòng"
+            ],
+            "khách sạn": [],
+            "thợ may": [
+                "chắc chắn",
+                "sai",
+                "chắc chắn"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "nhiều",
+                "đẹp",
+                "cuối cùng"
+            ],
+            "sản phẩm": [
+                "xuất sắc",
+                "cao",
+                "chính xác"
+            ],
+            "chất lượng": [],
+            "thành phẩm": [],
+            "quần đùi": [
+                "vui vẻ"
+            ],
+            "món đồ": [],
+            "giá cả": [
+                "hợp lý",
+                "lớn",
+                "đẹp",
+                "hợp lý"
+            ],
+            "mức": [
+                "tương đương"
+            ],
+            "giá": [
+                "tương đương"
+            ],
+            "hoa văn": [],
+            "thời trang": [
+                "thực sự",
+                "bình tĩnh"
+            ],
+            "người bán hàng": [],
+            "bộ áo liền quần": [],
+            "áo": [],
+            "xu hướng": [],
+            "loại": [
+                "đẹp",
+                "đẹp",
+                "cao"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tiệm may": 2.0,
+            "phố": 1.5,
+            "doanh nghiệp": 1.5,
+            "vải": 2.5,
+            "bộ": 1.5,
+            "quần áo": 2.5,
+            "quần": 1.5,
+            "dịch vụ": 1.5,
+            "váy": 3.0,
+            "ngày giáng sinh": 1.5,
+            "khách sạn": 0.5,
+            "thợ may": 0.5,
+            "nhân viên": 1.0,
+            "sản phẩm": 0.5,
+            "chất lượng": 0.5,
+            "thành phẩm": 0.5,
+            "quần đùi": 0.5,
+            "món đồ": 0.5,
+            "giá cả": 1.0,
+            "mức": 0.5,
+            "giá": 0.5,
+            "hoa văn": 0.5,
+            "thời trang": 0.5,
+            "người bán hàng": 0.5,
+            "bộ áo liền quần": 0.5,
+            "áo": 0.5,
+            "xu hướng": 0.5,
+            "loại": 0.5
+        }
     },
     {
         "attraction_name": "Golden Silk Hoi An",
@@ -742,7 +1608,134 @@
             "https://www.tripadvisor.com/Attraction_Review-g308272-d10383031-Reviews-Shanghai_Disneyland-Shanghai.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or60-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or50-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or50-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trang phục": 0.9936977988254512,
+            "váy": 0.8919932057421344,
+            "bộ": 0.6233173377695493,
+            "quần áo": 0.6230404214147711,
+            "dịch vụ may đo": 0.9479615213349462,
+            "trưng bày": 0.5,
+            "cửa hàng": 0.5,
+            "bộ đồ": 0.5,
+            "áo sơ mi": 0.5,
+            "họ": 0.9955781363532878,
+            "giá cả": 0.8737691454589367,
+            "đồ": 0.5205849688500166,
+            "tiền bạc": 0.9338760222308338,
+            "món đồ": 0.6557452827692032,
+            "áo tắm": 0.5,
+            "chất lượng": 0.9929731618321966,
+            "golden": 0.995259749412071,
+            "hàng dệt may": 0.4947751350700855,
+            "quần áo mới": 0.9955416456796229,
+            "giá": 0.995567008794751,
+            "doanh nghiệp": 0.9955752900568768,
+            "chất liệu": 0.991293394123204,
+            "mẫu váy": 0.9947812650934793
+        },
+        "dicts_adj": {
+            "trang phục": [
+                "tử tế",
+                "chuyên nghiệp",
+                "tuyệt vời",
+                "vui"
+            ],
+            "váy": [
+                "cuối cùng",
+                "nhiều",
+                "đẹp"
+            ],
+            "bộ": [
+                "chuyên nghiệp"
+            ],
+            "quần áo": [
+                "chuyên nghiệp",
+                "nhỏ"
+            ],
+            "dịch vụ may đo": [
+                "chuyên nghiệp"
+            ],
+            "trưng bày": [],
+            "cửa hàng": [],
+            "bộ đồ": [],
+            "áo sơ mi": [],
+            "họ": [
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "đồ": [
+                "thường xuyên"
+            ],
+            "tiền bạc": [
+                "nhiều",
+                "hơn",
+                "nhiều",
+                "hơn"
+            ],
+            "món đồ": [
+                "riêng"
+            ],
+            "áo tắm": [],
+            "chất lượng": [
+                "tuyệt vời",
+                "thực sự",
+                "tốt",
+                "nhiều"
+            ],
+            "golden": [
+                "Chắc chắn"
+            ],
+            "hàng dệt may": [
+                "nhiều",
+                "khác"
+            ],
+            "quần áo mới": [
+                "hoàn hảo"
+            ],
+            "giá": [
+                "nhiều",
+                "vui vẻ",
+                "công bằng"
+            ],
+            "doanh nghiệp": [
+                "tốt đẹp"
+            ],
+            "chất liệu": [],
+            "mẫu váy": [
+                "vui vẻ",
+                "bất kỳ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trang phục": 2.0,
+            "váy": 3.0,
+            "bộ": 2.0,
+            "quần áo": 2.0,
+            "dịch vụ may đo": 1.5,
+            "trưng bày": 0.5,
+            "cửa hàng": 0.5,
+            "bộ đồ": 0.5,
+            "áo sơ mi": 0.5,
+            "họ": 0.5,
+            "giá cả": 0.5,
+            "đồ": 0.5,
+            "tiền bạc": 0.5,
+            "món đồ": 0.5,
+            "áo tắm": 0.5,
+            "chất lượng": 1.0,
+            "golden": 0.5,
+            "hàng dệt may": 0.5,
+            "quần áo mới": 0.5,
+            "giá": 0.5,
+            "doanh nghiệp": 0.5,
+            "chất liệu": 0.5,
+            "mẫu váy": 0.5
+        }
     },
     {
         "attraction_name": "Golden Silk Hoi An",
@@ -867,7 +1860,124 @@
             "https://www.tripadvisor.com/Attraction_Review-g293925-d7057020-Reviews-Nadam_Spa-Ho_Chi_Minh_City.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or70-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or60-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or60-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.994551737094298,
+            "váy": 0.8763466709472899,
+            "mức": 0.8086971044540405,
+            "giá": 0.9337309182155877,
+            "bộ váy": 0.9955953167518601,
+            "cửa hàng": 0.7585191534017213,
+            "áo đồ liền quần": 0.5,
+            "giá cả": 0.9955998528166674,
+            "khi": 0.09921874105930328,
+            "thợ may": 0.5456415759399533,
+            "bán hàng": 0.9680155203677714,
+            "trình diễn": 0.9890545131638646,
+            "áo khoác": 0.5149293709546328,
+            "mức giá": -0.932747914455831,
+            "buổi biểu diễn": -0.8768784981220961,
+            "chất lượng": 0.7912989250940479,
+            "áo sơ mi công sở": -0.9672608219552785,
+            "áo sơ mi": 0.6961794104427099,
+            "thợ may giỏi": 0.95362469390966
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "thực sự"
+            ],
+            "váy": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "ngắn",
+                "đủ",
+                "thực sự",
+                "đẹp",
+                "quan trọng",
+                "Cuối cùng",
+                "dài",
+                "hài lòng",
+                "tuyệt vời"
+            ],
+            "mức": [
+                "hợp lý"
+            ],
+            "giá": [
+                "hợp lý"
+            ],
+            "bộ váy": [
+                "Thực sự",
+                "hài lòng",
+                "mới",
+                "nhiều"
+            ],
+            "cửa hàng": [
+                "đầu tiên",
+                "đẹp"
+            ],
+            "áo đồ liền quần": [],
+            "giá cả": [
+                "vừa vặn",
+                "tốt"
+            ],
+            "khi": [
+                "nhiều",
+                "chính xác"
+            ],
+            "thợ may": [
+                "thực sự"
+            ],
+            "bán hàng": [],
+            "trình diễn": [],
+            "áo khoác": [
+                "nhiều"
+            ],
+            "mức giá": [
+                "vô lý"
+            ],
+            "buổi biểu diễn": [],
+            "chất lượng": [
+                "tốt",
+                "tốt",
+                "hơn",
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "áo sơ mi công sở": [],
+            "áo sơ mi": [
+                "sẵn sàng",
+                "Cuối cùng",
+                "kém",
+                "quan trọng",
+                "đầu tiên"
+            ],
+            "thợ may giỏi": [
+                "hơn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 0.5,
+            "váy": 2.0,
+            "mức": 0.5,
+            "giá": 0.5,
+            "bộ váy": 0.5,
+            "cửa hàng": 1.0,
+            "áo đồ liền quần": 0.5,
+            "giá cả": 0.5,
+            "khi": 0.5,
+            "thợ may": 1.0,
+            "bán hàng": 0.5,
+            "trình diễn": 0.5,
+            "áo khoác": 0.5,
+            "mức giá": 0.5,
+            "buổi biểu diễn": 0.5,
+            "chất lượng": 1.5,
+            "áo sơ mi công sở": 0.5,
+            "áo sơ mi": 0.5,
+            "thợ may giỏi": 0.5
+        }
     },
     {
         "attraction_name": "Golden Silk Hoi An",
@@ -991,7 +2101,142 @@
             "https://www.tripadvisor.com/Attraction_Review-g212526-d3459118-Reviews-Bunratty_Castle_Medieval_Banquet-Bunratty_County_Clare.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or80-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or70-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or70-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "váy": 0.7730374557024333,
+            "trải nghiệm": 0.9952929429709911,
+            "giá cả": 0.8737691454589367,
+            "tiền bạc": 0.8292308421805501,
+            "cửa hàng": 0.1722679813974537,
+            "dáng người": 0.5,
+            "màu da": 0.5,
+            "buổi trưa": 0.9718702000100166,
+            "quần áo": 0.18627551481282958,
+            "nhân viên": 0.9785002024081121,
+            "tiệm may": -0.9696870232000947,
+            "chất lượng": 0.5,
+            "chất liệu": 0.8737691454589367,
+            "đường may": 0.9684229581616819,
+            "biện pháp": 0.9802436616737396,
+            "thợ may": 0.972724866742889,
+            "giá": 0.7279275641776621,
+            "quần short": 0.9935911458451301,
+            "chất lượng quá": 0.9955676378449425,
+            "áo khoác mùa": 0.5,
+            "tay nghề": 0.8737691454589367,
+            "doanh nghiệp": 0.9954611475695856
+        },
+        "dicts_adj": {
+            "váy": [
+                "tuyệt vời",
+                "rẻ",
+                "hơn",
+                "hơn",
+                "nhanh",
+                "hài lòng",
+                "mới"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "thực sự",
+                "công bằng",
+                "chân thành"
+            ],
+            "tiền bạc": [
+                "Chắc chắn",
+                "nhiều",
+                "nhiều",
+                "hơn",
+                "nhiều",
+                "hơn"
+            ],
+            "cửa hàng": [
+                "tử tế",
+                "nhất"
+            ],
+            "dáng người": [],
+            "màu da": [],
+            "buổi trưa": [],
+            "quần áo": [
+                "Gần",
+                "may",
+                "thực sự",
+                "tự hào",
+                "chuyên nghiệp",
+                "khác"
+            ],
+            "nhân viên": [
+                "thực sự",
+                "quan trọng",
+                "thực sự",
+                "thoải mái",
+                "căng thẳng",
+                "nhiều"
+            ],
+            "tiệm may": [
+                "khác"
+            ],
+            "chất lượng": [],
+            "chất liệu": [
+                "tốt"
+            ],
+            "đường may": [
+                "tốt"
+            ],
+            "biện pháp": [],
+            "thợ may": [
+                "thực sự",
+                "thoải mái",
+                "căng thẳng"
+            ],
+            "giá": [
+                "rẻ",
+                "hơn",
+                "khác"
+            ],
+            "quần short": [
+                "thực sự"
+            ],
+            "chất lượng quá": [
+                "tốt",
+                "rẻ"
+            ],
+            "áo khoác mùa": [],
+            "tay nghề": [
+                "đẹp"
+            ],
+            "doanh nghiệp": [
+                "thân thiện"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "váy": 2.0,
+            "trải nghiệm": 1,
+            "giá cả": 1,
+            "tiền bạc": 1.5,
+            "cửa hàng": 1.0,
+            "dáng người": 0.5,
+            "màu da": 0.5,
+            "buổi trưa": 0.5,
+            "quần áo": 1.5,
+            "nhân viên": 1.5,
+            "tiệm may": 0.5,
+            "chất lượng": 0.5,
+            "chất liệu": 0.5,
+            "đường may": 0.5,
+            "biện pháp": 0.5,
+            "thợ may": 0.5,
+            "giá": 1.0,
+            "quần short": 0.5,
+            "chất lượng quá": 0.5,
+            "áo khoác mùa": 0.5,
+            "tay nghề": 0.5,
+            "doanh nghiệp": 0.5
+        }
     },
     {
         "attraction_name": "Golden Silk Hoi An",
@@ -1116,7 +2361,188 @@
             "https://www.tripadvisor.com/Attraction_Review-g293760-d6674002-Reviews-Lion_and_Cheetah_Park-Harare_Harare_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or90-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or80-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or80-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tracey": 0.9955383344786242,
+            "bộ": 0.8388872351497412,
+            "quần áo": 0.7950486153131351,
+            "chất lượng": 0.6651380887487903,
+            "vải": 0.5,
+            "thợ may": 0.7093504863975492,
+            "trải nghiệm": 0.995440857950598,
+            "áo ghi lê": 0.5,
+            "quần dài": 0.5,
+            "quần áo may đo": 0.995381434855517,
+            "giá cả": 0.9952133885235526,
+            "chất liệu": 0.9946310277446173,
+            "dịch vụ vận chuyển quốc": 0.9387967251241207,
+            "món đồ": 0.9142713580076816,
+            "người dân": 0.5,
+            "chuyến thăm": 0.9471508488059044,
+            "cơ sở": 0.29645629972219467,
+            "áo khoác": 0.7380235991440713,
+            "áo khoác mùa đông": 0.9954167193500325,
+            "áo sơ mi": -0.09381859691347927,
+            "nhà hàng địa phương": 0.9907652597175911,
+            "sản phẩm may mặc": 0.9817849381361157,
+            "lụa": 0.9281245381571352,
+            "dịch vụ": 0.9190641790628433,
+            "thị trấn": 0.5447534387931228,
+            "giá": 0.9337309182155877,
+            "giá cạnh tranh": 0.5,
+            "váy dạ": 0.8514116387814283,
+            "sản phẩm": 0.9953805840341374,
+            "mặt hàng": 0.9857061217771843,
+            "váy": 0.5,
+            "váy ngắn": 0.5
+        },
+        "dicts_adj": {
+            "tracey": [
+                "tuyệt vời"
+            ],
+            "bộ": [
+                "đẹp",
+                "hoàn hảo",
+                "đúng"
+            ],
+            "quần áo": [
+                "đẹp",
+                "sẵn sàng",
+                "vừa vặn",
+                "hoàn hảo",
+                "hoàn hảo",
+                "đúng"
+            ],
+            "chất lượng": [
+                "thân thiện",
+                "thú vị",
+                "bằng"
+            ],
+            "vải": [],
+            "thợ may": [
+                "giỏi",
+                "tuyệt vời",
+                "thực sự",
+                "hữu ích",
+                "hợp lý",
+                "khác"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "áo ghi lê": [],
+            "quần dài": [],
+            "quần áo may đo": [
+                "tốt"
+            ],
+            "giá cả": [
+                "tốt"
+            ],
+            "chất liệu": [
+                "linh hoạt",
+                "cuối cùng",
+                "tận tình",
+                "vừa vặn",
+                "hoàn hảo"
+            ],
+            "dịch vụ vận chuyển quốc": [
+                "quốc tế"
+            ],
+            "món đồ": [
+                "đẹp",
+                "quan trọng",
+                "hơn"
+            ],
+            "người dân": [],
+            "chuyến thăm": [
+                "đầu tiên",
+                "đặc biệt"
+            ],
+            "cơ sở": [
+                "tình cờ"
+            ],
+            "áo khoác": [
+                "dễ"
+            ],
+            "áo khoác mùa đông": [
+                "rõ",
+                "cụ thể"
+            ],
+            "áo sơ mi": [
+                "vừa vặn",
+                "hoàn hảo",
+                "hỏng"
+            ],
+            "nhà hàng địa phương": [
+                "xa"
+            ],
+            "sản phẩm may mặc": [
+                "lâu dài",
+                "nhiều"
+            ],
+            "lụa": [
+                "dài",
+                "vàng"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "thị trấn": [
+                "hợp lý"
+            ],
+            "giá": [
+                "hợp lý"
+            ],
+            "giá cạnh tranh": [],
+            "váy dạ": [
+                "dài"
+            ],
+            "sản phẩm": [
+                "tử tế",
+                "vui vẻ",
+                "tuyệt"
+            ],
+            "mặt hàng": [],
+            "váy": [],
+            "váy ngắn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tracey": 1,
+            "bộ": 2.0,
+            "quần áo": 2.0,
+            "chất lượng": 1.5,
+            "vải": 1,
+            "thợ may": 3.0,
+            "trải nghiệm": 1.5,
+            "áo ghi lê": 1.5,
+            "quần dài": 1.5,
+            "quần áo may đo": 1.5,
+            "giá cả": 1.5,
+            "chất liệu": 2.0,
+            "dịch vụ vận chuyển quốc": 1.5,
+            "món đồ": 2.0,
+            "người dân": 1.5,
+            "chuyến thăm": 1.5,
+            "cơ sở": 0.5,
+            "áo khoác": 1.0,
+            "áo khoác mùa đông": 0.5,
+            "áo sơ mi": 1.0,
+            "nhà hàng địa phương": 0.5,
+            "sản phẩm may mặc": 0.5,
+            "lụa": 0.5,
+            "dịch vụ": 1.0,
+            "thị trấn": 0.5,
+            "giá": 0.5,
+            "giá cạnh tranh": 0.5,
+            "váy dạ": 0.5,
+            "sản phẩm": 0.5,
+            "mặt hàng": 0.5,
+            "váy": 0.5,
+            "váy ngắn": 0.5
+        }
     },
     {
         "attraction_name": "Golden Silk Hoi An",
@@ -1240,6 +2666,127 @@
             "https://www.tripadvisor.com/Attraction_Review-g49633-d2169050-Reviews-Falls_Lake_State_Recreation_Area-Wake_Forest_North_Carolina.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or100-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or90-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4211368-Reviews-or90-Golden_Silk_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quần áo": 0.9521192548175653,
+            "cửa hàng": 0.5008226210678307,
+            "loại": 0.99324021267239,
+            "vải": 0.9911317233054433,
+            "chất lượng": 0.9943846015085,
+            "dịch vụ": 0.9505574726693643,
+            "bộ": 0.7477178747940343,
+            "quần áo mới": 0.9953433560440317,
+            "giá": 0.9841543191578239,
+            "áo sơ mi": -0.8848321293480694,
+            "quần ngắn": -0.9472935108933598,
+            "váy": 0.8696708507486619,
+            "quần short": 0.9517214712686837,
+            "đồ vật": 0.9276440050452948,
+            "cả": 0.9950225218199193,
+            "cạnh tranh": 0.9929623160278425,
+            "trải nghiệm": 0.9951657325727865,
+            "áo khoác": 0.5261962153017521
+        },
+        "dicts_adj": {
+            "quần áo": [
+                "thực sự",
+                "đúng",
+                "đẹp",
+                "sẵn sàng"
+            ],
+            "cửa hàng": [
+                "chuyên nghiệp",
+                "thoải mái",
+                "khác"
+            ],
+            "loại": [
+                "đẹp"
+            ],
+            "vải": [
+                "đẹp",
+                "nhiều",
+                "tuyệt vời",
+                "dễ dàng"
+            ],
+            "chất lượng": [
+                "rẻ",
+                "tốt",
+                "nhanh chóng",
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "tuyệt vời",
+                "ngọt ngào",
+                "nhất",
+                "hài lòng",
+                "hài lòng",
+                "nhanh chóng"
+            ],
+            "bộ": [
+                "tuyệt vời"
+            ],
+            "quần áo mới": [
+                "tuyệt vời"
+            ],
+            "giá": [
+                "tốt",
+                "hợp lý",
+                "nhanh chóng",
+                "tốt"
+            ],
+            "áo sơ mi": [
+                "muộn"
+            ],
+            "quần ngắn": [
+                "muộn"
+            ],
+            "váy": [
+                "dễ thương",
+                "nhất",
+                "vui",
+                "nhiều",
+                "riêng"
+            ],
+            "quần short": [
+                "đẹp",
+                "ngắn"
+            ],
+            "đồ vật": [],
+            "cả": [
+                "nhanh chóng"
+            ],
+            "cạnh tranh": [
+                "nhanh chóng"
+            ],
+            "trải nghiệm": [
+                "hài lòng"
+            ],
+            "áo khoác": [
+                "riêng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quần áo": 1.5,
+            "cửa hàng": 1.5,
+            "loại": 0.5,
+            "vải": 1.0,
+            "chất lượng": 1.0,
+            "dịch vụ": 1.5,
+            "bộ": 1.0,
+            "quần áo mới": 0.5,
+            "giá": 1.5,
+            "áo sơ mi": 0.5,
+            "quần ngắn": 0.5,
+            "váy": 1.5,
+            "quần short": 0.5,
+            "đồ vật": 0.5,
+            "cả": 0.5,
+            "cạnh tranh": 0.5,
+            "trải nghiệm": 0.5,
+            "áo khoác": 0.5
+        }
     }
 ]

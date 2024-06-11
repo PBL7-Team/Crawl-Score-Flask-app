@@ -66,7 +66,171 @@
             "https://www.tripadvisor.com/Attraction_Review-g188098-d11743904-Reviews-Stellisee-Zermatt_Canton_of_Valais_Swiss_Alps.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g2093913-d10000843-Reviews-or10-Sadec_Flower_Village-Sa_Dec_Dong_Thap_Province_Mekong_Delta.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g2093913-d10000843-Reviews-Sadec_Flower_Village-Sa_Dec_Dong_Thap_Province_Mekong_Delta.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g2093913-d10000843-Reviews-Sadec_Flower_Village-Sa_Dec_Dong_Thap_Province_Mekong_Delta.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tết nguyên đán": 0.9570604825858027,
+            "hoa": 0.7478015696979128,
+            "trải nghiệm": 0.5,
+            "văn hóa địa phương": 0.5,
+            "làng": 0.5,
+            "cốc nhựa": -0.4701802106574178,
+            "túi rác": 0.5660122819244862,
+            "họ": 0.8737691454589367,
+            "dịch vụ": -0.962490200297907,
+            "thực phẩm": 0.5,
+            "đồ uống": 0.5,
+            "hoa tết tết nguyên đán": 0.8737691454589367,
+            "ngành kinh doanh": 0.9672070175874978,
+            "xe": 0.5,
+            "vườn": 0.5,
+            "giá": 0.5,
+            "cửa hàng": 0.5,
+            "quán cà phê": 0.5,
+            "ngôi làng": 0.8252389447928484,
+            "nguồn cung": 0.9259569719433784,
+            "hệ thống sông cửu long": 0.8737691454589367,
+            "làng hoa": 0.623428734310437,
+            "chuyến đi": 0.979775135172531,
+            "cây xanh": 0.8453981494531035,
+            "người nông dân địa phương": 0.7338047660887241,
+            "loại hoa": 0.995534383051563,
+            "láng hoa sa đéc": -0.9337759541813284,
+            "hoàng hôn": 0.9947477817768231,
+            "khu vườn": 0.67859254963696,
+            "dân làng trồng hoa cây cảnh": 0.5,
+            "loại": 0.5,
+            "tưới nước cắt hoa…": 0.5194492638111115,
+            "thị trấn sa": 0.5,
+            "chợ": 0.5,
+            "cầu": 0.5
+        },
+        "dicts_adj": {
+            "tết nguyên đán": [
+                "lý tưởng"
+            ],
+            "hoa": [
+                "nhiều"
+            ],
+            "trải nghiệm": [],
+            "văn hóa địa phương": [],
+            "làng": [],
+            "cốc nhựa": [
+                "nhiều"
+            ],
+            "túi rác": [
+                "nhiều"
+            ],
+            "họ": [
+                "nhiều"
+            ],
+            "dịch vụ": [
+                "nhiều"
+            ],
+            "thực phẩm": [],
+            "đồ uống": [],
+            "hoa tết tết nguyên đán": [
+                "rõ ràng"
+            ],
+            "ngành kinh doanh": [
+                "lớn"
+            ],
+            "xe": [],
+            "vườn": [],
+            "giá": [],
+            "cửa hàng": [],
+            "quán cà phê": [],
+            "ngôi làng": [
+                "thực sự",
+                "thực sự",
+                "tuyệt vời",
+                "đặc biệt",
+                "xinh đẹp"
+            ],
+            "nguồn cung": [
+                "lớn"
+            ],
+            "hệ thống sông cửu long": [
+                "lớn"
+            ],
+            "làng hoa": [
+                "lớn"
+            ],
+            "chuyến đi": [
+                "dài",
+                "thú vị"
+            ],
+            "cây xanh": [
+                "ít",
+                "nhiều",
+                "cơ bản"
+            ],
+            "người nông dân địa phương": [
+                "thực sự"
+            ],
+            "loại hoa": [
+                "tốt",
+                "nhiều"
+            ],
+            "láng hoa sa đéc": [
+                "chính xác",
+                "google"
+            ],
+            "hoàng hôn": [
+                "thích hợp",
+                "muộn",
+                "hơn"
+            ],
+            "khu vườn": [
+                "lớn"
+            ],
+            "dân làng trồng hoa cây cảnh": [],
+            "loại": [],
+            "tưới nước cắt hoa…": [
+                "cùng"
+            ],
+            "thị trấn sa": [],
+            "chợ": [],
+            "cầu": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tết nguyên đán": 1,
+            "hoa": 2.0,
+            "trải nghiệm": 1,
+            "văn hóa địa phương": 1,
+            "làng": 1,
+            "cốc nhựa": 0.5,
+            "túi rác": 0.5,
+            "họ": 0.5,
+            "dịch vụ": 0.5,
+            "thực phẩm": 0.5,
+            "đồ uống": 0.5,
+            "hoa tết tết nguyên đán": 0.5,
+            "ngành kinh doanh": 0.5,
+            "xe": 0.5,
+            "vườn": 0.5,
+            "giá": 0.5,
+            "cửa hàng": 0.5,
+            "quán cà phê": 0.5,
+            "ngôi làng": 1.5,
+            "nguồn cung": 0.5,
+            "hệ thống sông cửu long": 0.5,
+            "làng hoa": 2.0,
+            "chuyến đi": 1.0,
+            "cây xanh": 0.5,
+            "người nông dân địa phương": 0.5,
+            "loại hoa": 0.5,
+            "láng hoa sa đéc": 0.5,
+            "hoàng hôn": 0.5,
+            "khu vườn": 0.5,
+            "dân làng trồng hoa cây cảnh": 0.5,
+            "loại": 0.5,
+            "tưới nước cắt hoa…": 0.5,
+            "thị trấn sa": 1.0,
+            "chợ": 0.5,
+            "cầu": 0.5
+        }
     },
     {
         "attraction_name": "Sadec Flower Village",
@@ -133,7 +297,212 @@
             "https://www.tripadvisor.com/Attraction_Review-g294212-d325810-Reviews-Silk_Street_Pearl_Market_Xiushui-Beijing.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g2093913-d10000843-Reviews-or20-Sadec_Flower_Village-Sa_Dec_Dong_Thap_Province_Mekong_Delta.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g2093913-d10000843-Reviews-or10-Sadec_Flower_Village-Sa_Dec_Dong_Thap_Province_Mekong_Delta.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g2093913-d10000843-Reviews-or10-Sadec_Flower_Village-Sa_Dec_Dong_Thap_Province_Mekong_Delta.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi làng": 0.7456944143632427,
+            "sông": 0.5,
+            "cây hoa": 0.8737691454589367,
+            "con phố": 0.5,
+            "điểm tham quan": 0.9953943134751171,
+            "chuyến đi": 0.9943868201225996,
+            "rượu rắn": 0.993722545565106,
+            "chợ sa": 0.8737691454589367,
+            "bờ sông": 0.5515706447379974,
+            "làng hoa sa": 0.7471289550885558,
+            "chuyến đi trekking": 0.9953594672260806,
+            "cuộc sống địa phương": 0.09355384297668934,
+            "làng": 0.675792090468652,
+            "cây cảnh": 0.4843767583370209,
+            "chợ hoa": 0.7216080324724317,
+            "bờ sông nơi": 0.8737691454589367,
+            "hoa": 0.7897604983882047,
+            "chuyến thăm": 0.9953265593503602,
+            "điểm du lịch": 0.9943811628036201,
+            "sa đéc": 0.8737691454589367,
+            "hoa sa đéc": 0.8737691454589367,
+            "vườn": 0.5,
+            "làng hoa thương mại": 0.5,
+            "sông cửu long": 0.5,
+            "chuyến": 0.5,
+            "nhà huyn": 0.8737691454589367,
+            "làng hoa": 0.5,
+            "loài hoa nhiệt đới": 0.5,
+            "đạp xe": 0.5,
+            "quán cà phê": 0.5,
+            "xe đạp": 0.9939544078661129,
+            "người dân": 0.11735073861200362,
+            "cây": 0.5,
+            "vườn nhà": 0.5,
+            "người": 0.511215565726161,
+            "nông dân bán hoa": 0.5778549704700708,
+            "xe golf": 0.5275491056963801,
+            "món ăn đường phố": 0.979587389039807,
+            "bánh quế": 0.5,
+            "chỗ đậu xe": 0.6972875045612454,
+            "đi bộ": 0.9789600179065019,
+            "taxi điện": 0.5015245117247105,
+            "cánh đồng hoa": 0.5
+        },
+        "dicts_adj": {
+            "ngôi làng": [],
+            "sông": [],
+            "cây hoa": [
+                "dọc"
+            ],
+            "con phố": [],
+            "điểm tham quan": [],
+            "chuyến đi": [],
+            "rượu rắn": [
+                "khô",
+                "ngon"
+            ],
+            "chợ sa": [
+                "dọc"
+            ],
+            "bờ sông": [
+                "đáng giá",
+                "nhiều",
+                "rộng lớn"
+            ],
+            "làng hoa sa": [
+                "dọc",
+                "tệ",
+                "khoảng",
+                "xa"
+            ],
+            "chuyến đi trekking": [
+                "đáng giá",
+                "nhiều"
+            ],
+            "cuộc sống địa phương": [
+                "dọc"
+            ],
+            "làng": [
+                "đáng giá",
+                "nhiều",
+                "nhiều"
+            ],
+            "cây cảnh": [
+                "dọc"
+            ],
+            "chợ hoa": [
+                "dọc"
+            ],
+            "bờ sông nơi": [
+                "dọc"
+            ],
+            "hoa": [
+                "đáng giá",
+                "nhiều",
+                "nhiều"
+            ],
+            "chuyến thăm": [
+                "thú vị"
+            ],
+            "điểm du lịch": [
+                "bất kỳ"
+            ],
+            "sa đéc": [
+                "thú vị",
+                "đủ",
+                "đủ"
+            ],
+            "hoa sa đéc": [
+                "nhiều"
+            ],
+            "vườn": [],
+            "làng hoa thương mại": [],
+            "sông cửu long": [],
+            "chuyến": [],
+            "nhà huyn": [
+                "đủ"
+            ],
+            "làng hoa": [],
+            "loài hoa nhiệt đới": [],
+            "đạp xe": [],
+            "quán cà phê": [],
+            "xe đạp": [
+                "tuyệt nếu"
+            ],
+            "người dân": [
+                "thực sự",
+                "tốt",
+                "nhiều",
+                "vất vả"
+            ],
+            "cây": [],
+            "vườn nhà": [],
+            "người": [
+                "gần"
+            ],
+            "nông dân bán hoa": [
+                "gần"
+            ],
+            "xe golf": [
+                "khoảng"
+            ],
+            "món ăn đường phố": [
+                "dọc",
+                "đặc biệt"
+            ],
+            "bánh quế": [],
+            "chỗ đậu xe": [],
+            "đi bộ": [
+                "nhiều",
+                "nhiều"
+            ],
+            "taxi điện": [
+                "khoảng"
+            ],
+            "cánh đồng hoa": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngôi làng": 1.0,
+            "sông": 0.5,
+            "cây hoa": 0.5,
+            "con phố": 0.5,
+            "điểm tham quan": 0.5,
+            "chuyến đi": 0.5,
+            "rượu rắn": 0.5,
+            "chợ sa": 0.5,
+            "bờ sông": 0.5,
+            "làng hoa sa": 1.0,
+            "chuyến đi trekking": 0.5,
+            "cuộc sống địa phương": 0.5,
+            "làng": 1.5,
+            "cây cảnh": 0.5,
+            "chợ hoa": 0.5,
+            "bờ sông nơi": 0.5,
+            "hoa": 1.5,
+            "chuyến thăm": 0.5,
+            "điểm du lịch": 0.5,
+            "sa đéc": 1.0,
+            "hoa sa đéc": 0.5,
+            "vườn": 0.5,
+            "làng hoa thương mại": 0.5,
+            "sông cửu long": 0.5,
+            "chuyến": 0.5,
+            "nhà huyn": 0.5,
+            "làng hoa": 0.5,
+            "loài hoa nhiệt đới": 0.5,
+            "đạp xe": 0.5,
+            "quán cà phê": 0.5,
+            "xe đạp": 0.5,
+            "người dân": 1.0,
+            "cây": 0.5,
+            "vườn nhà": 0.5,
+            "người": 0.5,
+            "nông dân bán hoa": 0.5,
+            "xe golf": 0.5,
+            "món ăn đường phố": 0.5,
+            "bánh quế": 0.5,
+            "chỗ đậu xe": 0.5,
+            "đi bộ": 0.5,
+            "taxi điện": 0.5,
+            "cánh đồng hoa": 0.5
+        }
     },
     {
         "attraction_name": "Sadec Flower Village",
@@ -193,6 +562,60 @@
             "https://www.tripadvisor.com/Attraction_Review-g32091-d584602-Reviews-Potter_Schoolhouse-Bodega_Bay_Sonoma_County_California.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g2093913-d10000843-Reviews-or20-Sadec_Flower_Village-Sa_Dec_Dong_Thap_Province_Mekong_Delta.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g2093913-d10000843-Reviews-or20-Sadec_Flower_Village-Sa_Dec_Dong_Thap_Province_Mekong_Delta.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "người dân địa phương": -0.7225508661940694,
+            "sông": 0.9934510932071134,
+            "sa đéc": 0.8737691454589367,
+            "ngôi làng": 0.7452192785276566,
+            "trung tâm sa": 0.5,
+            "chuyến đi": 0.9690580237365793,
+            "trung tâm văn hóa sa đéc": 0.8737691454589367,
+            "làng hoa": 0.5,
+            "thị trấn sa đéc": 0.5
+        },
+        "dicts_adj": {
+            "người dân địa phương": [
+                "nhiều",
+                "đông đúc",
+                "đầy"
+            ],
+            "sông": [
+                "dọc",
+                "thú vị",
+                "đầy"
+            ],
+            "sa đéc": [
+                "yên bình",
+                "yên bình"
+            ],
+            "ngôi làng": [
+                "yên bình"
+            ],
+            "trung tâm sa": [],
+            "chuyến đi": [
+                "yên bình",
+                "xinh đẹp"
+            ],
+            "trung tâm văn hóa sa đéc": [
+                "yên bình",
+                "xinh đẹp"
+            ],
+            "làng hoa": [],
+            "thị trấn sa đéc": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "người dân địa phương": 0.5,
+            "sông": 0.5,
+            "sa đéc": 0.5,
+            "ngôi làng": 1.0,
+            "trung tâm sa": 0.5,
+            "chuyến đi": 0.5,
+            "trung tâm văn hóa sa đéc": 0.5,
+            "làng hoa": 1,
+            "thị trấn sa đéc": 1
+        }
     }
 ]

@@ -62,6 +62,62 @@
             "https://www.tripadvisor.com/Attraction_Review-g52819-d214288-Reviews-The_Spa_At_The_Hotel_Hershey-Hershey_Pennsylvania.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d15236723-Reviews-Sunrise_Surf_Kite_School-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d15236723-Reviews-Sunrise_Surf_Kite_School-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "mũi né": 0.9292997363954782,
+            "thiết bị": 0.5,
+            "nhân viên": 0.6868845727294683,
+            "trường học": 0.6139003320907553,
+            "trường dạy lướt": 0.9709277686197311,
+            "môi trường": 0.9936531599378213,
+            "tay đua": 0.9849876221269369,
+            "người": 0.6352102542296052,
+            "dịch vụ": 0.5791719118133187
+        },
+        "dicts_adj": {
+            "mũi né": [
+                "tốt",
+                "nhiều"
+            ],
+            "thiết bị": [],
+            "nhân viên": [
+                "thư giãn"
+            ],
+            "trường học": [
+                "chắc chắn",
+                "nổi bật",
+                "nhất"
+            ],
+            "trường dạy lướt": [
+                "chắc chắn",
+                "nổi bật",
+                "nhất"
+            ],
+            "môi trường": [
+                "thư giãn"
+            ],
+            "tay đua": [
+                "giàu"
+            ],
+            "người": [
+                "giàu"
+            ],
+            "dịch vụ": [
+                "xuất sắc"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "mũi né": 1.0,
+            "thiết bị": 0.5,
+            "nhân viên": 1.0,
+            "trường học": 0.5,
+            "trường dạy lướt": 0.5,
+            "môi trường": 0.5,
+            "tay đua": 0.5,
+            "người": 0.5,
+            "dịch vụ": 0.5
+        }
     }
 ]

@@ -117,7 +117,154 @@
             "https://www.tripadvisor.com/Attraction_Review-g48001-d14057413-Reviews-Kings_Park_Bluff-Kings_Park_Long_Island_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or10-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ba lô": 0.9864209746010602,
+            "nhà sản": 0.9555401345714927,
+            "nơi": 0.7936949534108863,
+            "bán đồ da": 0.8070316184312105,
+            "cửa hàng": 0.4993934210090499,
+            "dịch vụ": 0.9275289970391896,
+            "sản phẩm": 0.979793356731534,
+            "đôi dép": 0.5135703179985285,
+            "đôi bốt": 0.565492270514369,
+            "giá trị": 0.9955949977156706,
+            "túi da": -0.9634522527921945,
+            "tác phẩm nghệ thuật": 0.9913546043680981,
+            "cửa": 0.5,
+            "hàng da": 0.5,
+            "sở": 0.5,
+            "áo": 0.9947203415867989,
+            "nhân viên": 0.9616831694729626,
+            "xe tay ga": 0.5,
+            "đồ trang sức": 0.5,
+            "mặt hàng": 0.9947156343259849,
+            "túi xách": 0.9005887230392545,
+            "đôi dép quai": 0.994861677987501,
+            "đôi dép da quai": 0.9954251351882704
+        },
+        "dicts_adj": {
+            "ba lô": [],
+            "nhà sản": [
+                "đầy",
+                "đúng"
+            ],
+            "nơi": [
+                "rẻ",
+                "nhất",
+                "hợp lý",
+                "tốt",
+                "nhiều"
+            ],
+            "bán đồ da": [
+                "rẻ",
+                "nhất",
+                "hợp lý",
+                "tốt",
+                "nhiều"
+            ],
+            "cửa hàng": [
+                "hài lòng",
+                "vui vẻ"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "thực sự",
+                "tuyệt vời",
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "sản phẩm": [
+                "cao"
+            ],
+            "đôi dép": [
+                "tông"
+            ],
+            "đôi bốt": [
+                "riêng"
+            ],
+            "giá trị": [
+                "chắc chắn",
+                "tuyệt vời"
+            ],
+            "túi da": [],
+            "tác phẩm nghệ thuật": [],
+            "cửa": [],
+            "hàng da": [],
+            "sở": [],
+            "áo": [
+                "hoàn toàn",
+                "tuyệt vời",
+                "hài lòng",
+                "hoàn toàn",
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "dễ thương",
+                "dễ thương"
+            ],
+            "xe tay ga": [],
+            "đồ trang sức": [],
+            "mặt hàng": [
+                "khuyến khích",
+                "chắc chắn",
+                "nhiều",
+                "hơn",
+                "khuyến khích",
+                "chắc chắn",
+                "nhiều",
+                "hơn"
+            ],
+            "túi xách": [
+                "riêng",
+                "tuyệt vời",
+                "đúng",
+                "hài lòng",
+                "cuối cùng",
+                "riêng",
+                "tuyệt vời",
+                "đúng",
+                "hài lòng",
+                "cuối cùng"
+            ],
+            "đôi dép quai": [
+                "độc đáo",
+                "nhiều",
+                "nhỏ",
+                "hoàn toàn"
+            ],
+            "đôi dép da quai": [
+                "độc đáo",
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ba lô": 1,
+            "nhà sản": 1,
+            "nơi": 1,
+            "bán đồ da": 1,
+            "cửa hàng": 3.5,
+            "dịch vụ": 4.0,
+            "sản phẩm": 1,
+            "đôi dép": 1,
+            "đôi bốt": 1,
+            "giá trị": 1,
+            "túi da": 2.5,
+            "tác phẩm nghệ thuật": 2.5,
+            "cửa": 2.5,
+            "hàng da": 2.5,
+            "sở": 2.5,
+            "áo": 4.0,
+            "nhân viên": 2.5,
+            "xe tay ga": 2.5,
+            "đồ trang sức": 2.5,
+            "mặt hàng": 2.5,
+            "túi xách": 3.0,
+            "đôi dép quai": 1.5,
+            "đôi dép da quai": 2
+        }
     },
     {
         "attraction_name": "New Stars Shoe Shop",
@@ -239,7 +386,105 @@
             "https://www.tripadvisor.com/Attraction_Review-g32763-d266781-Reviews-Mercer_Caverns-Murphys_Calaveras_County_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or20-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or10-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or10-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "túi xách": 0.720625008969364,
+            "dịch vụ": 0.9503125350456685,
+            "cửa": 0.8737691454589367,
+            "hàng đồ da": 0.9954223940731026,
+            "xa khi": 0.5,
+            "mua sắm đồ da": 0.5,
+            "cửa hàng": 0.8737691454589367,
+            "chủ sở hữu": 0.9954070384847,
+            "áo khoác da": 0.9945382286095992,
+            "vật liệu": 0.9882824788219295,
+            "đôi dép": 0.5195469856262207,
+            "dây đeo": 0.9906009179539979,
+            "người chồng": 0.9954308185260743,
+            "chất liệu": 0.8737691454589367,
+            "tay nghề": 0.9855159884318709,
+            "hộ chiếu": 0.9845106529537588,
+            "kiên nhẫn": 0.7672414109110832
+        },
+        "dicts_adj": {
+            "túi xách": [
+                "tuyệt vời",
+                "chính xác",
+                "hài lòng",
+                "cuối cùng",
+                "đẹp"
+            ],
+            "dịch vụ": [
+                "thực sự",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "cửa": [
+                "tuyệt vời"
+            ],
+            "hàng đồ da": [
+                "tuyệt vời"
+            ],
+            "xa khi": [],
+            "mua sắm đồ da": [],
+            "cửa hàng": [
+                "tuyệt vời"
+            ],
+            "chủ sở hữu": [
+                "tuyệt vời"
+            ],
+            "áo khoác da": [
+                "riêng",
+                "đẹp"
+            ],
+            "vật liệu": [
+                "khác"
+            ],
+            "đôi dép": [],
+            "dây đeo": [
+                "hữu ích",
+                "chính xác"
+            ],
+            "người chồng": [
+                "chuyên nghiệp",
+                "tốt bụng"
+            ],
+            "chất liệu": [
+                "tuyệt vời"
+            ],
+            "tay nghề": [
+                "đẹp"
+            ],
+            "hộ chiếu": [
+                "cao",
+                "hơn",
+                "độc đáo"
+            ],
+            "kiên nhẫn": [
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "túi xách": 4.0,
+            "dịch vụ": 3.0,
+            "cửa": 1.5,
+            "hàng đồ da": 1.5,
+            "xa khi": 1.5,
+            "mua sắm đồ da": 1.5,
+            "cửa hàng": 1,
+            "chủ sở hữu": 1,
+            "áo khoác da": 1,
+            "vật liệu": 2,
+            "đôi dép": 1,
+            "dây đeo": 1,
+            "người chồng": 1,
+            "chất liệu": 1,
+            "tay nghề": 1,
+            "hộ chiếu": 1,
+            "kiên nhẫn": 1
+        }
     },
     {
         "attraction_name": "New Stars Shoe Shop",
@@ -361,7 +606,66 @@
             "https://www.tripadvisor.com/Attraction_Review-g1189604-d6898712-Reviews-Chrissi_Akti_Beach-Daratsos_Chania_Prefecture_Crete.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or30-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or20-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or20-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "túi da": 0.9953581891022623,
+            "giá cả": 0.9955939459032379,
+            "sản phẩm": 0.8450740792031866,
+            "thợ may": 0.9884148985147476,
+            "nhân viên": 0.9955746328147749,
+            "hàng": 0.5,
+            "trưng bày": 0.5,
+            "cửa hàng": 0.7055523935705423,
+            "chân": -0.03268890082836151
+        },
+        "dicts_adj": {
+            "túi da": [
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "cùng",
+                "tuyệt vời",
+                "cùng"
+            ],
+            "sản phẩm": [
+                "nhiều",
+                "lớn",
+                "tuyệt vời"
+            ],
+            "thợ may": [],
+            "nhân viên": [
+                "thân thiện",
+                "thực sự",
+                "vui",
+                "Nhiều",
+                "tuyệt vời",
+                "thân thiện",
+                "hữu ích",
+                "dễ",
+                "gần"
+            ],
+            "hàng": [],
+            "trưng bày": [],
+            "cửa hàng": [],
+            "chân": [
+                "to",
+                "hơn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "túi da": 1.5,
+            "giá cả": 1.5,
+            "sản phẩm": 1,
+            "thợ may": 1,
+            "nhân viên": 1.5,
+            "hàng": 0.5,
+            "trưng bày": 0.5,
+            "cửa hàng": 0.5,
+            "chân": 0.5
+        }
     },
     {
         "attraction_name": "New Stars Shoe Shop",
@@ -483,7 +787,88 @@
             "https://www.tripadvisor.com/Attraction_Review-g293817-d477947-Reviews-China_Town-Port_Louis.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or40-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or30-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or30-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa hàng": 0.5184531956911087,
+            "bộ đồ": 0.9918289517518133,
+            "găng tay": 0.9888495982158929,
+            "chiếc ủng": 0.7783150859177113,
+            "nhân viên": 0.9949143449193798,
+            "bão táp": 0.9943571152398363,
+            "sản phẩm": 0.9953263465431519,
+            "thợ may": 0.5386372683569789,
+            "giá cả": 0.8737691454589367,
+            "dịch vụ": 0.995489668333903,
+            "giày": 0.5,
+            "túi xách": 0.5,
+            "đôi bốt": 0.9907577506965026,
+            "đôi giày": 0.992940688932625
+        },
+        "dicts_adj": {
+            "cửa hàng": [
+                "nhỏ",
+                "đầu tiên",
+                "đen"
+            ],
+            "bộ đồ": [
+                "đầu tiên",
+                "sẵn sàng"
+            ],
+            "găng tay": [
+                "đặc biệt"
+            ],
+            "chiếc ủng": [
+                "đặc biệt"
+            ],
+            "nhân viên": [
+                "tuyệt vời"
+            ],
+            "bão táp": [],
+            "sản phẩm": [
+                "hài lòng",
+                "cuối cùng"
+            ],
+            "thợ may": [
+                "cuối cùng"
+            ],
+            "giá cả": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "giày": [],
+            "túi xách": [],
+            "đôi bốt": [
+                "hợp lý",
+                "vừa vặn",
+                "hoàn hảo"
+            ],
+            "đôi giày": [
+                "hợp lý",
+                "vừa vặn",
+                "hoàn hảo"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa hàng": 1.5,
+            "bộ đồ": 1.5,
+            "găng tay": 1.5,
+            "chiếc ủng": 1.5,
+            "nhân viên": 1.5,
+            "bão táp": 1.5,
+            "sản phẩm": 0.5,
+            "thợ may": 0.5,
+            "giá cả": 0.5,
+            "dịch vụ": 1.0,
+            "giày": 0.5,
+            "túi xách": 0.5,
+            "đôi bốt": 0.5,
+            "đôi giày": 0.5
+        }
     },
     {
         "attraction_name": "New Stars Shoe Shop",
@@ -606,7 +991,74 @@
             "https://www.tripadvisor.com/Attraction_Review-g666519-d6994539-Reviews-Bibich_Winery-Skradin_Sibenik_Knin_County_Dalmatia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or50-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or40-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or40-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.8737691454589367,
+            "thủ công": 0.5,
+            "cửa hàng": 0.5260752663016319,
+            "trải nghiệm": 0.9953808772843331,
+            "ba lô": 0.9893246666761115,
+            "quần áo": 0.9944351306185126,
+            "chất": 0.8737691454589367,
+            "lượng giày": 0.503521415424378,
+            "nhân viên": 0.5,
+            "chuyến đi": 0.5,
+            "cửa": 0.8737691454589367,
+            "hàng đồ da": 0.9889835490612313
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tuyệt vời",
+                "đa dạng"
+            ],
+            "thủ công": [],
+            "cửa hàng": [
+                "nhiều",
+                "khác"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "ba lô": [],
+            "quần áo": [
+                "vui"
+            ],
+            "chất": [
+                "tuyệt vời",
+                "liên tục",
+                "vừa vặn"
+            ],
+            "lượng giày": [
+                "tuyệt vời",
+                "liên tục",
+                "vừa vặn"
+            ],
+            "nhân viên": [],
+            "chuyến đi": [],
+            "cửa": [
+                "tốt"
+            ],
+            "hàng đồ da": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 1.5,
+            "thủ công": 1.5,
+            "cửa hàng": 1.5,
+            "trải nghiệm": 0.5,
+            "ba lô": 0.5,
+            "quần áo": 0.5,
+            "chất": 0.5,
+            "lượng giày": 0.5,
+            "nhân viên": 0.5,
+            "chuyến đi": 0.5,
+            "cửa": 0.5,
+            "hàng đồ da": 0.5
+        }
     },
     {
         "attraction_name": "New Stars Shoe Shop",
@@ -728,7 +1180,92 @@
             "https://www.tripadvisor.com/Attraction_Review-g306997-d6739521-Reviews-Portuguese_Settlement-Melaka_Central_Melaka_District_Melaka_State.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or60-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or50-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or50-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ": 0.9689318677410483,
+            "loại da": -0.6095457430928946,
+            "đôi giày": 0.6796108453709166,
+            "đôi bốt da": -0.27093805838376284,
+            "chiếc": -0.2894840110093355,
+            "thắt lưng": -0.619180841371417,
+            "đôi": 0.3509069141000509,
+            "bốt da": -0.27093805838376284,
+            "đôi sandal da": 0.9794545471668243,
+            "hàng giày": 0.9810066865757108,
+            "đôi giày chất lượng": 0.9955807802616619,
+            "túi": 0.9939964014920406,
+            "giày bốt": 0.5,
+            "giày lười": 0.5,
+            "đôi giày da": 0.9938565941993147,
+            "phong cách": 0.9949974992196076
+        },
+        "dicts_adj": {
+            "bộ": [
+                "lớn"
+            ],
+            "loại da": [
+                "khác"
+            ],
+            "đôi giày": [
+                "đen",
+                "nhiều",
+                "đúng"
+            ],
+            "đôi bốt da": [
+                "nâu"
+            ],
+            "chiếc": [
+                "đen"
+            ],
+            "thắt lưng": [
+                "đen"
+            ],
+            "đôi": [
+                "nâu"
+            ],
+            "bốt da": [
+                "nâu"
+            ],
+            "đôi sandal da": [
+                "nâu",
+                "nâu"
+            ],
+            "hàng giày": [],
+            "đôi giày chất lượng": [
+                "thực sự",
+                "tốt",
+                "thoải mái"
+            ],
+            "túi": [
+                "đẹp"
+            ],
+            "giày bốt": [],
+            "giày lười": [],
+            "đôi giày da": [
+                "đẹp"
+            ],
+            "phong cách": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ": 1.5,
+            "loại da": 1.5,
+            "đôi giày": 1.0,
+            "đôi bốt da": 0.5,
+            "chiếc": 0.5,
+            "thắt lưng": 0.5,
+            "đôi": 0.5,
+            "bốt da": 0.5,
+            "đôi sandal da": 0.5,
+            "hàng giày": 0.5,
+            "đôi giày chất lượng": 0.5,
+            "túi": 0.5,
+            "giày bốt": 0.5,
+            "giày lười": 0.5,
+            "đôi giày da": 0.5,
+            "phong cách": 0.5
+        }
     },
     {
         "attraction_name": "New Stars Shoe Shop",
@@ -851,7 +1388,61 @@
             "https://www.tripadvisor.com/Attraction_Review-g8363967-d2558683-Reviews-Mall_of_Arabia-6th_of_October_City_Giza_Governorate.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or70-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or60-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or60-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thợ may": 0.9839514050399885,
+            "cửa hàng": 0.883437847282039,
+            "túi du lịch": 0.6907609384506941,
+            "túi": 0.994724465883337,
+            "bộ đồ": 0.9828105230117217,
+            "giày duć": 0.8737691454589367,
+            "người thợ đóng": 0.9943324333871715,
+            "vì ủng": 0.9904555417597294,
+            "đôi giày lười": 0.9479880286380649
+        },
+        "dicts_adj": {
+            "thợ may": [
+                "hài lòng",
+                "tuyệt vời"
+            ],
+            "cửa hàng": [
+                "tốt bụng",
+                "khác"
+            ],
+            "túi du lịch": [
+                "lớn",
+                "hơn"
+            ],
+            "túi": [
+                "tuyệt vời"
+            ],
+            "bộ đồ": [
+                "sẵn sàng",
+                "đúng",
+                "sẵn sàng"
+            ],
+            "giày duć": [
+                "hữu ích"
+            ],
+            "người thợ đóng": [
+                "hữu ích"
+            ],
+            "vì ủng": [],
+            "đôi giày lười": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thợ may": 2.0,
+            "cửa hàng": 2.0,
+            "túi du lịch": 0.5,
+            "túi": 0.5,
+            "bộ đồ": 0.5,
+            "giày duć": 0.5,
+            "người thợ đóng": 0.5,
+            "vì ủng": 0.5,
+            "đôi giày lười": 0.5
+        }
     },
     {
         "attraction_name": "New Stars Shoe Shop",
@@ -973,7 +1564,119 @@
             "https://www.tripadvisor.com/Attraction_Review-g776017-d6975712-Reviews-Corfu_Donkey_Rescue-Paleokastritsa_Corfu_Ionian_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or80-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or70-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or70-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đôi bốt": -0.5075619017006829,
+            "khách sạn": 0.5333984517492354,
+            "đồng phạm": 0.5,
+            "họ": 0.994569547357969,
+            "túi giá cả": 0.9901968305930495,
+            "sản phẩm": 0.9932570165256038,
+            "khuyến nghị": 0.8634885884821415,
+            "cửa hàng": 0.810572292888537,
+            "túi da": 0.9899813366355374,
+            "đôi giày": 0.9954730200697668,
+            "hoàng kim": 0.9933733235811815,
+            "đôi": 0.5,
+            "đôi dép": 0.6068645771592855,
+            "phần khớp nối": 0.8737691454589367,
+            "nhà sản xuất": 0.5,
+            "nhân viên": 0.9944136056583375,
+            "chỗ ở": 0.5,
+            "tay nghề": 0.5169320497661829
+        },
+        "dicts_adj": {
+            "đôi bốt": [
+                "trung bình",
+                "đầu tiên",
+                "giống"
+            ],
+            "khách sạn": [
+                "Cuối cùng",
+                "giống"
+            ],
+            "đồng phạm": [],
+            "họ": [
+                "nhanh nhẹn",
+                "tốt bụng",
+                "lịch sự",
+                "chính xác",
+                "khéo léo"
+            ],
+            "túi giá cả": [
+                "hợp lý",
+                "đặc biệt"
+            ],
+            "sản phẩm": [
+                "hài lòng",
+                "cuối cùng"
+            ],
+            "khuyến nghị": [
+                "mạnh mẽ",
+                "chắc chắn"
+            ],
+            "cửa hàng": [
+                "tình cờ",
+                "khó khăn",
+                "sớm",
+                "hơn",
+                "chắc chắn",
+                "nhiều",
+                "hơn",
+                "tốt",
+                "hơn"
+            ],
+            "túi da": [],
+            "đôi giày": [
+                "tốt",
+                "tốt"
+            ],
+            "hoàng kim": [
+                "thực sự",
+                "hợp lý"
+            ],
+            "đôi": [],
+            "đôi dép": [
+                "tốt",
+                "khác"
+            ],
+            "phần khớp nối": [
+                "chặt",
+                "cụ thể"
+            ],
+            "nhà sản xuất": [],
+            "nhân viên": [
+                "dễ thương"
+            ],
+            "chỗ ở": [],
+            "tay nghề": [
+                "cụ thể",
+                "cao",
+                "hơn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đôi bốt": 2.0,
+            "khách sạn": 2.0,
+            "đồng phạm": 1.5,
+            "họ": 0.5,
+            "túi giá cả": 0.5,
+            "sản phẩm": 0.5,
+            "khuyến nghị": 0.5,
+            "cửa hàng": 1.0,
+            "túi da": 0.5,
+            "đôi giày": 0.5,
+            "hoàng kim": 0.5,
+            "đôi": 0.5,
+            "đôi dép": 0.5,
+            "phần khớp nối": 0.5,
+            "nhà sản xuất": 0.5,
+            "nhân viên": 0.5,
+            "chỗ ở": 0.5,
+            "tay nghề": 0.5
+        }
     },
     {
         "attraction_name": "New Stars Shoe Shop",
@@ -1096,7 +1799,104 @@
             "https://www.tripadvisor.com/Attraction_Review-g188590-d19113016-Reviews-WONDR_Experience-Amsterdam_North_Holland_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or90-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or80-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or80-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.9955080777872354,
+            "sản phẩm": 0.979793356731534,
+            "đôi dép tông": 0.8859424311667681,
+            "đôi bốt": 0.7941363658756018,
+            "giá trị": 0.9955879745539278,
+            "chủ sở hữu": 0.9954203517409042,
+            "nhân viên": 0.9949937390047126,
+            "túi": 0.5,
+            "lực lượng lao động": 0.5,
+            "cửa hàng": 0.7063349299132824,
+            "ga xe lửa": 0.5,
+            "quần áo may": 0.9875849089585245,
+            "cửa": 0.6868845727294683,
+            "hàng giày new": 0.8737691454589367,
+            "buổi thử đồ": 0.6023207167163491,
+            "găng tay": -0.8171922229230404,
+            "hàng giày": 0.5,
+            "đôi giày": 0.5,
+            "ly người": 0.5881717465817928
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "sản phẩm": [
+                "cao"
+            ],
+            "đôi dép tông": [
+                "riêng"
+            ],
+            "đôi bốt": [
+                "riêng"
+            ],
+            "giá trị": [
+                "chắc chắn",
+                "tuyệt vời"
+            ],
+            "chủ sở hữu": [
+                "hữu ích"
+            ],
+            "nhân viên": [
+                "hữu ích",
+                "đẹp"
+            ],
+            "túi": [],
+            "lực lượng lao động": [],
+            "cửa hàng": [],
+            "ga xe lửa": [],
+            "quần áo may": [
+                "thực sự",
+                "đẹp"
+            ],
+            "cửa": [
+                "chắc chắn"
+            ],
+            "hàng giày new": [
+                "chắc chắn"
+            ],
+            "buổi thử đồ": [
+                "đầu tiên"
+            ],
+            "găng tay": [],
+            "hàng giày": [],
+            "đôi giày": [],
+            "ly người": [
+                "vội vã",
+                "lâu dài",
+                "giống",
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 2.0,
+            "sản phẩm": 1,
+            "đôi dép tông": 1,
+            "đôi bốt": 1,
+            "giá trị": 1,
+            "chủ sở hữu": 1.5,
+            "nhân viên": 0.5,
+            "túi": 0.5,
+            "lực lượng lao động": 0.5,
+            "cửa hàng": 1.0,
+            "ga xe lửa": 0.5,
+            "quần áo may": 0.5,
+            "cửa": 1.0,
+            "hàng giày new": 0.5,
+            "buổi thử đồ": 0.5,
+            "găng tay": 0.5,
+            "hàng giày": 0.5,
+            "đôi giày": 0.5,
+            "ly người": 0.5
+        }
     },
     {
         "attraction_name": "New Stars Shoe Shop",
@@ -1206,6 +2006,131 @@
             "https://www.tripadvisor.com/Attraction_Review-g294265-d1837767-Reviews-Sands_Skypark_Observation_Deck-Singapore.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or90-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6653272-Reviews-or90-New_Stars_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ba lô": 0.9877922734012827,
+            "nơi": 0.756694313371554,
+            "đồ da": 0.9727194830775261,
+            "giá cả": 0.8093678883095788,
+            "mua hàng": 0.7061047703027725,
+            "cửa hàng": 0.7895136810839176,
+            "thợ may": 0.9899515807628632,
+            "dịch vụ chất": 0.9866533800959587,
+            "đôi giày sân": 0.9902139259502292,
+            "dịch vụ": 0.5138750923360931,
+            "thị trấn": 0.9952781428582966,
+            "cửa": 0.9954351701308042,
+            "hàng giày": 0.9303864515095484,
+            "túi xách": 0.5670997388660908,
+            "mặt hàng da": -0.8975405334495008,
+            "chủ ly": 0.9953162919264287,
+            "kiến ​​thức": 0.9761539546307176,
+            "phí bưu chính": 0.5529929576441646,
+            "loại da": -0.935675507877022,
+            "da": -0.9383436869829893,
+            "dịch vụ giá cả": 0.9954079930321313
+        },
+        "dicts_adj": {
+            "ba lô": [
+                "mong đợi"
+            ],
+            "nơi": [
+                "rẻ",
+                "nhất"
+            ],
+            "đồ da": [
+                "rẻ",
+                "nhất"
+            ],
+            "giá cả": [
+                "phải",
+                "tốt",
+                "nhiều",
+                "hợp lý",
+                "rẻ"
+            ],
+            "mua hàng": [
+                "dễ chịu"
+            ],
+            "cửa hàng": [
+                "dễ chịu",
+                "nhiều"
+            ],
+            "thợ may": [
+                "tốt"
+            ],
+            "dịch vụ chất": [
+                "tốt"
+            ],
+            "đôi giày sân": [
+                "tốt"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "rẻ"
+            ],
+            "thị trấn": [
+                "rực rỡ"
+            ],
+            "cửa": [
+                "tuyệt vời"
+            ],
+            "hàng giày": [
+                "tuyệt vời"
+            ],
+            "túi xách": [
+                "khác"
+            ],
+            "mặt hàng da": [
+                "khác"
+            ],
+            "chủ ly": [
+                "tốt",
+                "chuyên nghiệp",
+                "chắc chắn"
+            ],
+            "kiến ​​thức": [
+                "nhiều"
+            ],
+            "phí bưu chính": [
+                "trực tuyến",
+                "hợp lý"
+            ],
+            "loại da": [
+                "khác"
+            ],
+            "da": [
+                "khác"
+            ],
+            "dịch vụ giá cả": [
+                "hài lòng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ba lô": 1,
+            "nơi": 1,
+            "đồ da": 1,
+            "giá cả": 3.0,
+            "mua hàng": 1,
+            "cửa hàng": 1.5,
+            "thợ may": 1.5,
+            "dịch vụ chất": 1.5,
+            "đôi giày sân": 1.5,
+            "dịch vụ": 2.0,
+            "thị trấn": 0.5,
+            "cửa": 0.5,
+            "hàng giày": 1.0,
+            "túi xách": 0.5,
+            "mặt hàng da": 0.5,
+            "chủ ly": 0.5,
+            "kiến ​​thức": 0.5,
+            "phí bưu chính": 0.5,
+            "loại da": 0.5,
+            "da": 0.5,
+            "dịch vụ giá cả": 0.5
+        }
     }
 ]

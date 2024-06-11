@@ -104,7 +104,173 @@
             "https://www.tripadvisor.com/Attraction_Review-g150812-d7225914-Reviews-Cirque_du_Soleil_Joya-Playa_del_Carmen_Yucatan_Peninsula.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d11911750-Reviews-or10-Tiny_Nail-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d11911750-Reviews-Tiny_Nail-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d11911750-Reviews-Tiny_Nail-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "gel": 0.10584405785064317,
+            "mát-xa 90 phút": 0.9941389645682648,
+            "đầu": 0.5332320462912321,
+            "mát-xa": 0.5938382148742676,
+            "toàn bộ": 0.48854608461260796,
+            "và lưng": 0.5,
+            "dịch vụ": 0.3380763342526431,
+            "tiệm": 0.8072307538241148,
+            "spa": 0.5,
+            "tiệm làm đẹp nail": 0.5,
+            "liệu pháp mát-xa": 0.5,
+            "và chăm": 0.5,
+            "da mặt tốt": 0.5,
+            "nhân viên": 0.5448342638943965,
+            "nhà trị liệu": 0.9947008515009657,
+            "vị trí": 0.995388443232514,
+            "dịch vụ mát-xa trong một": 0.9946653702063486,
+            "môi trường": 0.9955470758141018,
+            "thuốc": 0.4735335372388363,
+            "lịch": 0.5,
+            "xăm lông mày": 0.5,
+            "không khí": -0.9370632087811828,
+            "dán đá": 0.6640417650341988,
+            "nghệ sĩ": 0.992485711700283,
+            "tác phẩm": 0.977668781299144,
+            "người có": 0.9245693392585963,
+            "kỹ năng": 0.986850744986441,
+            "chất lượng": 0.77053284982685,
+            "mức giá": 0.5,
+            "mát-xa chân và": 0.7362541817128658,
+            "massage": 0.995499414158985
+        },
+        "dicts_adj": {
+            "gel": [
+                "đầy đủ",
+                "đơn giản",
+                "thực sự",
+                "tốt",
+                "tốt"
+            ],
+            "mát-xa 90 phút": [
+                "thực sự",
+                "tốt"
+            ],
+            "đầu": [
+                "khô"
+            ],
+            "mát-xa": [
+                "cổ vai"
+            ],
+            "toàn bộ": [
+                "cổ vai"
+            ],
+            "và lưng": [],
+            "dịch vụ": [
+                "trung bình",
+                "đặc biệt",
+                "kỹ lưỡng",
+                "cao",
+                "tuyệt vời"
+            ],
+            "tiệm": [
+                "tốt",
+                "hơn",
+                "thấp",
+                "hơn",
+                "khác"
+            ],
+            "spa": [],
+            "tiệm làm đẹp nail": [],
+            "liệu pháp mát-xa": [],
+            "và chăm": [],
+            "da mặt tốt": [],
+            "nhân viên": [
+                "tuyệt vời",
+                "giỏi",
+                "hoàn toàn"
+            ],
+            "nhà trị liệu": [
+                "tuyệt vời"
+            ],
+            "vị trí": [
+                "tuyệt vời",
+                "thuận tiện"
+            ],
+            "dịch vụ mát-xa trong một": [
+                "chắc chắn",
+                "bất kỳ",
+                "thoải mái",
+                "sạch sẽ"
+            ],
+            "môi trường": [
+                "thoải mái",
+                "chuyên nghiệp",
+                "sạch sẽ"
+            ],
+            "thuốc": [],
+            "lịch": [],
+            "xăm lông mày": [],
+            "không khí": [
+                "tuyệt vời"
+            ],
+            "dán đá": [
+                "giỏi"
+            ],
+            "nghệ sĩ": [
+                "giỏi"
+            ],
+            "tác phẩm": [
+                "bảnh bao",
+                "vui vẻ",
+                "dễ thương"
+            ],
+            "người có": [
+                "tốt"
+            ],
+            "kỹ năng": [
+                "tốt"
+            ],
+            "chất lượng": [
+                "thực sự",
+                "tốt"
+            ],
+            "mức giá": [],
+            "mát-xa chân và": [],
+            "massage": [
+                "đơn giản",
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "gel": 1.5,
+            "mát-xa 90 phút": 0.5,
+            "đầu": 0.5,
+            "mát-xa": 0.5,
+            "toàn bộ": 0.5,
+            "và lưng": 0.5,
+            "dịch vụ": 1.5,
+            "tiệm": 0.5,
+            "spa": 0.5,
+            "tiệm làm đẹp nail": 0.5,
+            "liệu pháp mát-xa": 0.5,
+            "và chăm": 0.5,
+            "da mặt tốt": 0.5,
+            "nhân viên": 1.5,
+            "nhà trị liệu": 0.5,
+            "vị trí": 0.5,
+            "dịch vụ mát-xa trong một": 0.5,
+            "môi trường": 0.5,
+            "thuốc": 0.5,
+            "lịch": 0.5,
+            "xăm lông mày": 0.5,
+            "không khí": 0.5,
+            "dán đá": 0.5,
+            "nghệ sĩ": 0.5,
+            "tác phẩm": 0.5,
+            "người có": 0.5,
+            "kỹ năng": 0.5,
+            "chất lượng": 0.5,
+            "mức giá": 0.5,
+            "mát-xa chân và": 0.5,
+            "massage": 0.5
+        }
     },
     {
         "attraction_name": "Tiny&Nail",
@@ -216,7 +382,147 @@
             "https://www.tripadvisor.com/Attraction_Review-g186338-d187675-Reviews-Regent_s_Park-London_England.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d11911750-Reviews-or20-Tiny_Nail-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d11911750-Reviews-or10-Tiny_Nail-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d11911750-Reviews-or10-Tiny_Nail-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "của hàng mi": 0.9954178800107911,
+            "tiền": 0.9956163962488063,
+            "trải nghiệm": 0.8361049904488027,
+            "quán": 0.5,
+            "sửa mi": 0.9786984549136832,
+            "thợ làm móng": 0.8737691454589367,
+            "nhân viên": 0.14762126651476137,
+            "tiếng việt": 0.8737691454589367,
+            "giá cả": 0.5929320529103279,
+            "lớp biểu bì": 0.7682723067700863,
+            "cắt móng": 0.5,
+            "người thợ": -0.3498564986512065,
+            "spa": 0.449581057560863,
+            "tiny nail": 0.8737691454589367,
+            "wifi": 0.8588807885535061,
+            "khách sạn": 0.9925370294367895,
+            "bộ móng": 0.9954492809483781,
+            "gel": 0.9911089382367209,
+            "dịch vụ": 0.6522628639213508,
+            "dịch vụ chăm sóc bàn chân": 0.5,
+            "chà chân": 0.5,
+            "mát-xa": 0.5,
+            "và quấn": 0.5,
+            "shellac": 0.5162225468084216,
+            "bác sĩ trị": -0.25791557878255844,
+            "nghệ thuật": 0.9950485727749765
+        },
+        "dicts_adj": {
+            "của hàng mi": [
+                "đẹp",
+                "đúng"
+            ],
+            "tiền": [
+                "chắc chắn"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "thông thường"
+            ],
+            "quán": [],
+            "sửa mi": [
+                "tốt"
+            ],
+            "thợ làm móng": [
+                "tốt"
+            ],
+            "nhân viên": [
+                "nhiều",
+                "khác",
+                "tốt",
+                "hơn",
+                "nhiều",
+                "hào phóng",
+                "dễ thương",
+                "lạnh lùng"
+            ],
+            "tiếng việt": [
+                "tốt"
+            ],
+            "giá cả": [
+                "phải chăng"
+            ],
+            "lớp biểu bì": [],
+            "cắt móng": [],
+            "người thợ": [],
+            "spa": [
+                "khác",
+                "khác",
+                "sạch đẹp"
+            ],
+            "tiny nail": [
+                "bận rộn"
+            ],
+            "wifi": [
+                "khó"
+            ],
+            "khách sạn": [
+                "hài lòng"
+            ],
+            "bộ móng": [
+                "dễ thương"
+            ],
+            "gel": [
+                "dễ thương",
+                "nhanh chóng"
+            ],
+            "dịch vụ": [
+                "ổn",
+                "tốt",
+                "bất kỳ",
+                "phải",
+                "chuyên nghiệp",
+                "tốt"
+            ],
+            "dịch vụ chăm sóc bàn chân": [],
+            "chà chân": [],
+            "mát-xa": [],
+            "và quấn": [],
+            "shellac": [],
+            "bác sĩ trị": [
+                "đầy đủ",
+                "dễ",
+                "đầy",
+                "đầy đủ"
+            ],
+            "nghệ thuật": [
+                "giả"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "của hàng mi": 0.5,
+            "tiền": 0.5,
+            "trải nghiệm": 1.0,
+            "quán": 0.5,
+            "sửa mi": 0.5,
+            "thợ làm móng": 0.5,
+            "nhân viên": 2.0,
+            "tiếng việt": 0.5,
+            "giá cả": 0.5,
+            "lớp biểu bì": 0.5,
+            "cắt móng": 0.5,
+            "người thợ": 0.5,
+            "spa": 1.0,
+            "tiny nail": 0.5,
+            "wifi": 0.5,
+            "khách sạn": 0.5,
+            "bộ móng": 0.5,
+            "gel": 1.0,
+            "dịch vụ": 2.0,
+            "dịch vụ chăm sóc bàn chân": 0.5,
+            "chà chân": 0.5,
+            "mát-xa": 0.5,
+            "và quấn": 0.5,
+            "shellac": 0.5,
+            "bác sĩ trị": 0.5,
+            "nghệ thuật": 0.5
+        }
     },
     {
         "attraction_name": "Tiny&Nail",
@@ -323,6 +629,223 @@
             "https://www.tripadvisor.com/Attraction_Review-g28970-d564540-Reviews-L_Enfant_Plaza-Washington_DC_District_of_Columbia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d11911750-Reviews-or30-Tiny_Nail-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d11911750-Reviews-or20-Tiny_Nail-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d11911750-Reviews-or20-Tiny_Nail-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "buổi chiều": 0.0015738769434392452,
+            "chỗ ở": 0.5,
+            "cửa hàng": 0.01969536009710282,
+            "thẩm mỹ viện": 0.9943104640697129,
+            "dịch vụ": 0.7138978982227855,
+            "massage": 0.6443291162140667,
+            "vân thao tác tỉ mỉ": 0.5,
+            "họ chỉ": 0.8737691454589367,
+            "sơn móng tay": -0.33306500952069956,
+            "mức": 0.5,
+            "giá đó": 0.5,
+            "spa": 0.9918146850832272,
+            "tô tịch hoàn kiếm": 0.8737691454589367,
+            "thợ làm": 0.9951173341250978,
+            "chuyến thăm": 0.7643480114638805,
+            "nhà trị liệu": 0.9924319570418447,
+            "kỹ thuật": 0.5,
+            "kỳ nghỉ": 0.9916272790869698,
+            "trải nghiệm": 0.9952929429709911,
+            "mỹ viện": 0.519773256033659,
+            "ký túc xá": 0.5,
+            "nhân viên": 0.13904456306934457,
+            "chuyện": 0.41805141791701317,
+            "000 đồng": 0.9955013745347969,
+            "bé": 0.9810866478364915,
+            "gel": 0.07264414010569453,
+            "màu xám": 0.9940089588053524,
+            "màu sắc": -0.1874994169920683,
+            "bộ": 0.9950458366656676,
+            "giá cả": 0.5,
+            "lớp sơn": -0.9765591846080497,
+            "nghệ thuật": 0.5645607355982065,
+            "tiệm": 0.9737472881097347,
+            "mẫu hoa": 0.14310193806886673,
+            "hiệu": 0.9233177434653044,
+            "lớp": 0.38683659583330154,
+            "bức sơn": 0.6948726469418034,
+            "giá": -0.11871011415496469,
+            "tác phẩm nghệ thuật": -0.968320306041278
+        },
+        "dicts_adj": {
+            "buổi chiều": [
+                "nóng",
+                "nhanh chóng"
+            ],
+            "chỗ ở": [],
+            "cửa hàng": [
+                "mát",
+                "thực sự"
+            ],
+            "thẩm mỹ viện": [
+                "sạch sẽ",
+                "chuyên nghiệp"
+            ],
+            "dịch vụ": [
+                "hài lòng",
+                "xuất sắc",
+                "hiệu quả",
+                "tốt",
+                "khủng khiếp"
+            ],
+            "massage": [
+                "hài lòng"
+            ],
+            "vân thao tác tỉ mỉ": [],
+            "họ chỉ": [
+                "cao",
+                "nhiều",
+                "đa dạng"
+            ],
+            "sơn móng tay": [
+                "cao",
+                "nhiều",
+                "đa dạng"
+            ],
+            "mức": [],
+            "giá đó": [],
+            "spa": [
+                "nhỏ",
+                "tuyệt vời"
+            ],
+            "tô tịch hoàn kiếm": [
+                "nhỏ"
+            ],
+            "thợ làm": [
+                "đầu tiên",
+                "hài lòng",
+                "dịu dàng"
+            ],
+            "chuyến thăm": [],
+            "nhà trị liệu": [
+                "đặc biệt"
+            ],
+            "kỹ thuật": [],
+            "kỳ nghỉ": [],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "mỹ viện": [
+                "cùng"
+            ],
+            "ký túc xá": [],
+            "nhân viên": [
+                "thân thiện",
+                "đủ",
+                "dễ thương",
+                "đẹp",
+                "nhiều",
+                "thực sự"
+            ],
+            "chuyện": [
+                "nhiều",
+                "phải"
+            ],
+            "000 đồng": [
+                "tuyệt vời"
+            ],
+            "bé": [
+                "nhỏ bé"
+            ],
+            "gel": [
+                "tệ",
+                "trẻ",
+                "tỉ mỉ",
+                "gần"
+            ],
+            "màu xám": [
+                "tuyệt vời"
+            ],
+            "màu sắc": [
+                "giỏi"
+            ],
+            "bộ": [
+                "đẹp"
+            ],
+            "giá cả": [],
+            "lớp sơn": [],
+            "nghệ thuật": [
+                "cẩm thạch",
+                "đầu tiên",
+                "cuối cùng",
+                "ngắn"
+            ],
+            "tiệm": [
+                "nhiều",
+                "đẹp",
+                "ngắn",
+                "khác"
+            ],
+            "mẫu hoa": [
+                "đơn giản"
+            ],
+            "hiệu": [
+                "Cuối cùng",
+                "lấp lánh",
+                "đơn giản"
+            ],
+            "lớp": [
+                "cùng"
+            ],
+            "bức sơn": [
+                "bình thường",
+                "phải"
+            ],
+            "giá": [
+                "rõ ràng",
+                "phải"
+            ],
+            "tác phẩm nghệ thuật": [
+                "rõ ràng",
+                "phải"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "buổi chiều": 0.5,
+            "chỗ ở": 0.5,
+            "cửa hàng": 1.0,
+            "thẩm mỹ viện": 1.0,
+            "dịch vụ": 2.5,
+            "massage": 1.0,
+            "vân thao tác tỉ mỉ": 0.5,
+            "họ chỉ": 0.5,
+            "sơn móng tay": 0.5,
+            "mức": 0.5,
+            "giá đó": 0.5,
+            "spa": 0.5,
+            "tô tịch hoàn kiếm": 0.5,
+            "thợ làm": 0.5,
+            "chuyến thăm": 0.5,
+            "nhà trị liệu": 0.5,
+            "kỹ thuật": 0.5,
+            "kỳ nghỉ": 0.5,
+            "trải nghiệm": 0.5,
+            "mỹ viện": 0.5,
+            "ký túc xá": 0.5,
+            "nhân viên": 1.5,
+            "chuyện": 0.5,
+            "000 đồng": 0.5,
+            "bé": 0.5,
+            "gel": 0.5,
+            "màu xám": 0.5,
+            "màu sắc": 0.5,
+            "bộ": 0.5,
+            "giá cả": 0.5,
+            "lớp sơn": 0.5,
+            "nghệ thuật": 0.5,
+            "tiệm": 0.5,
+            "mẫu hoa": 0.5,
+            "hiệu": 0.5,
+            "lớp": 0.5,
+            "bức sơn": 0.5,
+            "giá": 0.5,
+            "tác phẩm nghệ thuật": 0.5
+        }
     }
 ]

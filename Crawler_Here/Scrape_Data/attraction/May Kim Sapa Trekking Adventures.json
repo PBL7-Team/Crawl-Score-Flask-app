@@ -70,6 +70,131 @@
             "https://www.tripadvisor.com/Attraction_Review-g58466-d4283267-Reviews-Jetty_Island-Everett_Washington.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d26167022-Reviews-May_Kim_Sapa_Trekking_Adventures-Sapa_Lao_Cai_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d26167022-Reviews-May_Kim_Sapa_Trekking_Adventures-Sapa_Lao_Cai_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tour": 0.9953871080651879,
+            "trek": 0.9945868672803044,
+            "trekking": 0.9903564020060003,
+            "dịch vụ": 0.9499740181490779,
+            "hướng dẫn viên": 0.7291503292508423,
+            "văn hóa": 0.5,
+            "môi trường": 0.5,
+            "trải nghiệm": 0.5049630459398031,
+            "tắm thảo dược": 0.9934361662017182,
+            "ngôi nhà": 0.5,
+            "người dao đỏ": 0.5,
+            "khung cảnh": 0.8737691454589367,
+            "ngọn": 0.9899877201532945,
+            "núi": 0.9900722856400535,
+            "chuyến đi": 0.9938079697021749,
+            "món ăn chay": 0.9766988587216474,
+            "rừng": 0.5,
+            "khoảng thời gian": 0.9953458107775077,
+            "bữa tối": 0.9560744218179025,
+            "nhà trọ": 0.9955226865131408,
+            "bức tranh": 0.5,
+            "làng": 0.5,
+            "lối sống": 0.5,
+            "người dân": 0.5,
+            "ruộng bậc thang": 0.995115342841018,
+            "nhà may": 0.8737691454589367,
+            "thuốc": 0.5
+        },
+        "dicts_adj": {
+            "tour": [],
+            "trek": [],
+            "trekking": [],
+            "dịch vụ": [
+                "giỏi",
+                "nhất"
+            ],
+            "hướng dẫn viên": [
+                "giỏi",
+                "nhất"
+            ],
+            "văn hóa": [],
+            "môi trường": [],
+            "trải nghiệm": [
+                "khó",
+                "khó"
+            ],
+            "tắm thảo dược": [
+                "tốt"
+            ],
+            "ngôi nhà": [],
+            "người dao đỏ": [],
+            "khung cảnh": [
+                "ngoạn mục"
+            ],
+            "ngọn": [
+                "tuyệt vời",
+                "nhất"
+            ],
+            "núi": [
+                "tuyệt vời",
+                "nhất"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "nhất"
+            ],
+            "món ăn chay": [
+                "tuyệt vời",
+                "riêng"
+            ],
+            "rừng": [],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "bữa tối": [
+                "vui vẻ",
+                "cùng"
+            ],
+            "nhà trọ": [
+                "tuyệt"
+            ],
+            "bức tranh": [],
+            "làng": [],
+            "lối sống": [],
+            "người dân": [],
+            "ruộng bậc thang": [
+                "đẹp"
+            ],
+            "nhà may": [
+                "đẹp"
+            ],
+            "thuốc": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tour": 1,
+            "trek": 1,
+            "trekking": 1,
+            "dịch vụ": 1,
+            "hướng dẫn viên": 1,
+            "văn hóa": 2,
+            "môi trường": 1,
+            "trải nghiệm": 2,
+            "tắm thảo dược": 1,
+            "ngôi nhà": 1,
+            "người dao đỏ": 1,
+            "khung cảnh": 1,
+            "ngọn": 1,
+            "núi": 1,
+            "chuyến đi": 1,
+            "món ăn chay": 1,
+            "rừng": 1,
+            "khoảng thời gian": 1,
+            "bữa tối": 1,
+            "nhà trọ": 1,
+            "bức tranh": 1,
+            "làng": 1,
+            "lối sống": 1,
+            "người dân": 1,
+            "ruộng bậc thang": 1,
+            "nhà may": 1,
+            "thuốc": 1
+        }
     }
 ]

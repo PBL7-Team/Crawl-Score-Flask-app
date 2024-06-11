@@ -85,6 +85,80 @@
             "https://www.tripadvisor.com/Attraction_Review-g304013-d1751665-Reviews-Chefchaouen_Medina-Chefchaouen_Tanger_Tetouan_Al_Hoceima.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d17764816-Reviews-Thao_Dien_Van_Loc_Farm-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d17764816-Reviews-Thao_Dien_Van_Loc_Farm-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cây xanh": 0.9955474328016862,
+            "không gian": 0.9954416594991926,
+            "trang trại": 0.985295596687744,
+            "cây ăn": 0.9955558577785268,
+            "nhân viên": 0.9941510454227682,
+            "bữa ăn": 0.5291670514270663,
+            "trải nghiệm": 0.9955300235887989,
+            "sinh thái": 0.9954729304881766,
+            "không gian trải nghiệm": 0.9951312207849696,
+            "khu sinh thái": 0.8737691454589367,
+            "thiên nhiên": 0.5
+        },
+        "dicts_adj": {
+            "cây xanh": [
+                "đẹp",
+                "nhiều",
+                "nhiều",
+                "thú vị"
+            ],
+            "không gian": [
+                "thoáng mát",
+                "sạch sẽ",
+                "bình yên"
+            ],
+            "trang trại": [
+                "nhiều",
+                "vui vẻ",
+                "chú đáo"
+            ],
+            "cây ăn": [
+                "thú vị"
+            ],
+            "nhân viên": [
+                "vui vẻ",
+                "chú đáo"
+            ],
+            "bữa ăn": [
+                "nhỏ",
+                "cùng"
+            ],
+            "trải nghiệm": [
+                "nhiều",
+                "thú vị",
+                "chắc chắn",
+                "giống"
+            ],
+            "sinh thái": [
+                "đầy"
+            ],
+            "không gian trải nghiệm": [
+                "nhỏ",
+                "trẻ"
+            ],
+            "khu sinh thái": [
+                "lý tưởng"
+            ],
+            "thiên nhiên": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cây xanh": 1.0,
+            "không gian": 1.0,
+            "trang trại": 0.5,
+            "cây ăn": 0.5,
+            "nhân viên": 0.5,
+            "bữa ăn": 0.5,
+            "trải nghiệm": 0.5,
+            "sinh thái": 0.5,
+            "không gian trải nghiệm": 0.5,
+            "khu sinh thái": 0.5,
+            "thiên nhiên": 0.5
+        }
     }
 ]

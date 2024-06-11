@@ -81,7 +81,295 @@
             "https://www.tripadvisor.com/Attraction_Review-g60956-d5886109-Reviews-The_Grotto-San_Antonio_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d17462448-Reviews-or10-Lucy_s_Dream_Fashion_and_Art_Exhibition_Center-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d17462448-Reviews-Lucy_s_Dream_Fashion_and_Art_Exhibition_Center-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d17462448-Reviews-Lucy_s_Dream_Fashion_and_Art_Exhibition_Center-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9346304170030635,
+            "món ăn": 0.995578886300791,
+            "con người": 0.9718693168057749,
+            "trải nghiệm": 0.830343362603647,
+            "váy thời trang": 0.5,
+            "hướng nghệ thuật": 0.99324146786239,
+            "không gian": 0.5,
+            "triển lãm": 0.4931563506834209,
+            "nghệ thuật": 0.7446423146757297,
+            "cách trang trí": 0.8737691454589367,
+            "tác phẩm": 0.7013736497727223,
+            "chất liệu ren lụa…": 0.9937507417052984,
+            "sĩ trẻ": 0.5,
+            "trang phục hàng": 0.9907022282131948,
+            "sự kiện": 0.9914331849431619,
+            "chuyến tham quan": 0.5060355579480529,
+            "đội ngũ": 0.7528900073181528,
+            "thương hiệu": 0.9950062304269522,
+            "thời trang": 0.5984479514881968,
+            "tác phẩm nghệ thuật": 0.4449638168831977,
+            "trang phục thời trang": 0.5,
+            "hình": 0.9951700184610672,
+            "trang phục": 0.7448959270986961,
+            "quần áo thời trang": 0.5,
+            "sản phẩm ren lụa": 0.5,
+            "nhà thiết kế": 0.7466447091040511,
+            "váy dạ hội": 0.5,
+            "váy": 0.8085488113186633,
+            "dạo phố": 0.5,
+            "bộ": 0.9783630971796811,
+            "quần áo": 0.9850632020679768,
+            "chất liệu": 0.016217911965213716,
+            "viện": 0.9430860360153019,
+            "bảo tàng nghệ thuật": 0.9285007296130061,
+            "nghệ sĩ": 0.9946587518788874,
+            "chuyến thăm": 0.9955013226135634,
+            "nghệ sĩ trẻ": 0.5,
+            "không gian sáng tạo": 0.5,
+            "vải": 0.9891184393200092,
+            "tiết": 0.9955814682180062,
+            "không gian nghệ thuật": 0.5,
+            "ren": 0.5,
+            "lụa": 0.5,
+            "bộ váy": 0.5,
+            "xưởng sản xuất ren": 0.49281843565404415,
+            "chất liệu ren": 0.7444533869856969,
+            "trang phục nghệ thuật": 0.9937292304821312,
+            "tranh gỗ sứ tường… nhưng": 0.8737691454589367,
+            "thuật khoác": 0.5,
+            "chất liệu truyền thống": 0.5,
+            "nghệ thuật trẻ": 0.5,
+            "chuyến thăm đó": 0.9942158268531784,
+            "dịch vụ": 0.8737691454589367,
+            "váy may": 0.995312265760731,
+            "cơ sở": 0.557873978279531
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "ngon",
+                "thân yêu",
+                "xinh đẹp"
+            ],
+            "món ăn": [
+                "ngon"
+            ],
+            "con người": [
+                "thân thiện",
+                "nhất",
+                "đầu tiên"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "thú vị"
+            ],
+            "váy thời trang": [],
+            "hướng nghệ thuật": [
+                "độc đáo"
+            ],
+            "không gian": [],
+            "triển lãm": [
+                "trẻ"
+            ],
+            "nghệ thuật": [
+                "cùng",
+                "độc đáo",
+                "khó",
+                "hoàn toàn",
+                "bất ngờ",
+                "đẹp",
+                "sớm"
+            ],
+            "cách trang trí": [
+                "hấp dẫn",
+                "đầy"
+            ],
+            "tác phẩm": [
+                "sáng tạo",
+                "đủ",
+                "khác",
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "chất liệu ren lụa…": [
+                "sáng tạo"
+            ],
+            "sĩ trẻ": [],
+            "trang phục hàng": [
+                "quan trọng",
+                "đẹp"
+            ],
+            "sự kiện": [
+                "quan trọng",
+                "đẹp"
+            ],
+            "chuyến tham quan": [
+                "trẻ",
+                "đầu tiên"
+            ],
+            "đội ngũ": [
+                "trẻ",
+                "nhiều",
+                "khác",
+                "khắp"
+            ],
+            "thương hiệu": [
+                "hoàn toàn"
+            ],
+            "thời trang": [
+                "hoàn toàn",
+                "khó"
+            ],
+            "tác phẩm nghệ thuật": [
+                "cao",
+                "tuyệt vời",
+                "hoàn toàn",
+                "phải",
+                "nhiều",
+                "nhiều",
+                "thực sự",
+                "đầu tiên"
+            ],
+            "trang phục thời trang": [],
+            "hình": [
+                "độc đáo"
+            ],
+            "trang phục": [
+                "khó",
+                "hoàn toàn",
+                "bất ngờ"
+            ],
+            "quần áo thời trang": [],
+            "sản phẩm ren lụa": [],
+            "nhà thiết kế": [
+                "nhiều",
+                "khác",
+                "khắp"
+            ],
+            "váy dạ hội": [],
+            "váy": [
+                "đẹp"
+            ],
+            "dạo phố": [],
+            "bộ": [
+                "sang trọng"
+            ],
+            "quần áo": [
+                "sang trọng"
+            ],
+            "chất liệu": [
+                "sang trọng",
+                "hoàn toàn",
+                "truyền thống"
+            ],
+            "viện": [
+                "hoàn toàn"
+            ],
+            "bảo tàng nghệ thuật": [
+                "hoàn toàn"
+            ],
+            "nghệ sĩ": [
+                "nhiều",
+                "khác",
+                "khắp"
+            ],
+            "chuyến thăm": [
+                "đặc biệt",
+                "vui",
+                "nhiều"
+            ],
+            "nghệ sĩ trẻ": [],
+            "không gian sáng tạo": [],
+            "vải": [
+                "hoàn toàn",
+                "bất ngờ"
+            ],
+            "tiết": [
+                "đẹp"
+            ],
+            "không gian nghệ thuật": [],
+            "ren": [],
+            "lụa": [],
+            "bộ váy": [],
+            "xưởng sản xuất ren": [
+                "riêng"
+            ],
+            "chất liệu ren": [
+                "đầy"
+            ],
+            "trang phục nghệ thuật": [
+                "khắp"
+            ],
+            "tranh gỗ sứ tường… nhưng": [
+                "thực sự",
+                "đầu tiên"
+            ],
+            "thuật khoác": [],
+            "chất liệu truyền thống": [],
+            "nghệ thuật trẻ": [],
+            "chuyến thăm đó": [],
+            "dịch vụ": [
+                "tuyệt vời",
+                "xinh đẹp"
+            ],
+            "váy may": [
+                "tuyệt vời"
+            ],
+            "cơ sở": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 1.0,
+            "món ăn": 0.5,
+            "con người": 0.5,
+            "trải nghiệm": 1.5,
+            "váy thời trang": 0.5,
+            "hướng nghệ thuật": 0.5,
+            "không gian": 0.5,
+            "triển lãm": 2.0,
+            "nghệ thuật": 3.5,
+            "cách trang trí": 0.5,
+            "tác phẩm": 2.5,
+            "chất liệu ren lụa…": 0.5,
+            "sĩ trẻ": 0.5,
+            "trang phục hàng": 0.5,
+            "sự kiện": 0.5,
+            "chuyến tham quan": 1.0,
+            "đội ngũ": 1.0,
+            "thương hiệu": 0.5,
+            "thời trang": 1.0,
+            "tác phẩm nghệ thuật": 2.5,
+            "trang phục thời trang": 0.5,
+            "hình": 0.5,
+            "trang phục": 2.0,
+            "quần áo thời trang": 0.5,
+            "sản phẩm ren lụa": 0.5,
+            "nhà thiết kế": 1.0,
+            "váy dạ hội": 0.5,
+            "váy": 1.5,
+            "dạo phố": 0.5,
+            "bộ": 0.5,
+            "quần áo": 1.0,
+            "chất liệu": 1.0,
+            "viện": 0.5,
+            "bảo tàng nghệ thuật": 0.5,
+            "nghệ sĩ": 0.5,
+            "chuyến thăm": 0.5,
+            "nghệ sĩ trẻ": 0.5,
+            "không gian sáng tạo": 0.5,
+            "vải": 0.5,
+            "tiết": 0.5,
+            "không gian nghệ thuật": 0.5,
+            "ren": 0.5,
+            "lụa": 0.5,
+            "bộ váy": 0.5,
+            "xưởng sản xuất ren": 0.5,
+            "chất liệu ren": 1.0,
+            "trang phục nghệ thuật": 0.5,
+            "tranh gỗ sứ tường… nhưng": 0.5,
+            "thuật khoác": 0.5,
+            "chất liệu truyền thống": 0.5,
+            "nghệ thuật trẻ": 0.5,
+            "chuyến thăm đó": 0.5,
+            "dịch vụ": 0.5,
+            "váy may": 0.5,
+            "cơ sở": 0.5
+        }
     },
     {
         "attraction_name": "Lucy's Dream Fashion and Art Exhibition Center",
@@ -166,7 +454,266 @@
             "https://www.tripadvisor.com/Attraction_Review-g187234-d610635-Reviews-Castel_Plage-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d17462448-Reviews-or20-Lucy_s_Dream_Fashion_and_Art_Exhibition_Center-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d17462448-Reviews-or10-Lucy_s_Dream_Fashion_and_Art_Exhibition_Center-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d17462448-Reviews-or10-Lucy_s_Dream_Fashion_and_Art_Exhibition_Center-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.7325559551245533,
+            "chất lượng": 0.9316489337797975,
+            "đường may": 0.9870672880206257,
+            "thợ may": 0.9953288131509908,
+            "cửa hàng": 0.6429496742784977,
+            "không khí": 0.8737691454589367,
+            "triển lãm": 0.6749989764139173,
+            "váy": 0.8430202113471751,
+            "bầu không khí": 0.5,
+            "quần áo": 0.7744525152957067,
+            "họ may": 0.9728465896720687,
+            "nhân viên": 0.995508058287669,
+            "chất lượng tinh xảo": 0.9954040205921046,
+            "trung tâm triển lãm": 0.9427724354318343,
+            "kho báu": 0.9801966196391732,
+            "vải": 0.9955896206083708,
+            "giá": 0.768040653783828,
+            "nghệ thuật": 0.8737691454589367,
+            "thời trang": 0.8737691454589367,
+            "vị trí": 0.5825215838849545,
+            "tác phẩm": 0.5,
+            "tác phẩm nghệ thuật": 0.7538165456498973,
+            "phòng trưng bày nghệ thuật": 0.9928293820703402,
+            "bảo tàng": 0.9903386204969138,
+            "không gian": 0.5,
+            "xưởng may": 0.9954753403435461,
+            "hướng dẫn viên du lịch": 0.8296295213125026,
+            "bức": 0.5,
+            "tranh": 0.5,
+            "câu chuyện": 0.5,
+            "nguồn cảm hứng": 0.5,
+            "buổi": 0.5,
+            "hội thảo đó": 0.5,
+            "áo ba lỗ": 0.9883801718242466,
+            "dân tộc": 0.9940953580080532,
+            "bộ đồ": 0.5,
+            "văn hóa": 0.9892682279460132,
+            "phương tiện đi lại": 0.5,
+            "trải nghiệm nghệ thuật": 0.9907544713933021,
+            "họ": 0.6811152808368206,
+            "nghệ sĩ": 0.11702447663992643,
+            "quà lưu niệm": 0.9859233496244997,
+            "món đồ đó": 0.9953485944424756,
+            "trải nghiệm": 0.7425767484819517,
+            "tour": 0.5,
+            "khách sạn": 0.5,
+            "dệt may": 0.5,
+            "nghệ thuật in ấn": 0.5,
+            "đồ lưu niệm": 0.5,
+            "bối cảnh": 0.5
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tuyệt vời",
+                "chuyên nghiệp",
+                "tốt"
+            ],
+            "chất lượng": [
+                "tốt",
+                "tuyệt vời",
+                "hoàn toàn"
+            ],
+            "đường may": [
+                "tốt"
+            ],
+            "thợ may": [
+                "nhanh chóng",
+                "gần",
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "cửa hàng": [
+                "đặc biệt",
+                "khác"
+            ],
+            "không khí": [
+                "tuyệt vời"
+            ],
+            "triển lãm": [
+                "giống",
+                "tuyệt vời",
+                "khó khăn",
+                "chi tiết"
+            ],
+            "váy": [
+                "thực sự",
+                "tuyệt vời",
+                "tuyệt vời",
+                "nhiều",
+                "nhẹ",
+                "dễ",
+                "rộng rãi",
+                "tốt",
+                "nhiều",
+                "chuyên nghiệp",
+                "chính xác",
+                "đẹp"
+            ],
+            "bầu không khí": [],
+            "quần áo": [
+                "nhẹ",
+                "dễ",
+                "rộng rãi",
+                "độc đáo",
+                "đẹp"
+            ],
+            "họ may": [
+                "nhẹ",
+                "dễ",
+                "rộng rãi"
+            ],
+            "nhân viên": [
+                "hoàn toàn",
+                "tuyệt vời"
+            ],
+            "chất lượng tinh xảo": [
+                "độc đáo"
+            ],
+            "trung tâm triển lãm": [
+                "tốt",
+                "nhiều",
+                "nhiều"
+            ],
+            "kho báu": [],
+            "vải": [
+                "đẹp"
+            ],
+            "giá": [
+                "tốt",
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "nghệ thuật": [
+                "thực sự",
+                "chắc chắn",
+                "tuyệt vời"
+            ],
+            "thời trang": [
+                "thực sự",
+                "chắc chắn",
+                "tuyệt vời"
+            ],
+            "vị trí": [
+                "ngắn"
+            ],
+            "tác phẩm": [],
+            "tác phẩm nghệ thuật": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "chi tiết"
+            ],
+            "phòng trưng bày nghệ thuật": [
+                "tình cờ"
+            ],
+            "bảo tàng": [
+                "tình cờ"
+            ],
+            "không gian": [],
+            "xưởng may": [
+                "vui"
+            ],
+            "hướng dẫn viên du lịch": [
+                "vui vẻ"
+            ],
+            "bức": [],
+            "tranh": [],
+            "câu chuyện": [],
+            "nguồn cảm hứng": [],
+            "buổi": [],
+            "hội thảo đó": [],
+            "áo ba lỗ": [
+                "vui"
+            ],
+            "dân tộc": [
+                "vui"
+            ],
+            "bộ đồ": [],
+            "văn hóa": [
+                "tuyệt vời"
+            ],
+            "phương tiện đi lại": [],
+            "trải nghiệm nghệ thuật": [
+                "tuyệt vời"
+            ],
+            "họ": [
+                "rộng rãi"
+            ],
+            "nghệ sĩ": [
+                "nhiều"
+            ],
+            "quà lưu niệm": [
+                "hoàn toàn"
+            ],
+            "món đồ đó": [],
+            "trải nghiệm": [
+                "tốt"
+            ],
+            "tour": [],
+            "khách sạn": [],
+            "dệt may": [],
+            "nghệ thuật in ấn": [],
+            "đồ lưu niệm": [],
+            "bối cảnh": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 2.0,
+            "chất lượng": 1.0,
+            "đường may": 0.5,
+            "thợ may": 0.5,
+            "cửa hàng": 0.5,
+            "không khí": 0.5,
+            "triển lãm": 2.0,
+            "váy": 2.0,
+            "bầu không khí": 0.5,
+            "quần áo": 1.5,
+            "họ may": 0.5,
+            "nhân viên": 0.5,
+            "chất lượng tinh xảo": 0.5,
+            "trung tâm triển lãm": 1.0,
+            "kho báu": 0.5,
+            "vải": 0.5,
+            "giá": 1.0,
+            "nghệ thuật": 1.0,
+            "thời trang": 1.0,
+            "vị trí": 0.5,
+            "tác phẩm": 0.5,
+            "tác phẩm nghệ thuật": 2.0,
+            "phòng trưng bày nghệ thuật": 0.5,
+            "bảo tàng": 0.5,
+            "không gian": 1.0,
+            "xưởng may": 0.5,
+            "hướng dẫn viên du lịch": 1.5,
+            "bức": 0.5,
+            "tranh": 0.5,
+            "câu chuyện": 0.5,
+            "nguồn cảm hứng": 0.5,
+            "buổi": 0.5,
+            "hội thảo đó": 0.5,
+            "áo ba lỗ": 0.5,
+            "dân tộc": 0.5,
+            "bộ đồ": 0.5,
+            "văn hóa": 0.5,
+            "phương tiện đi lại": 0.5,
+            "trải nghiệm nghệ thuật": 0.5,
+            "họ": 0.5,
+            "nghệ sĩ": 1.0,
+            "quà lưu niệm": 0.5,
+            "món đồ đó": 0.5,
+            "trải nghiệm": 1.0,
+            "tour": 0.5,
+            "khách sạn": 0.5,
+            "dệt may": 0.5,
+            "nghệ thuật in ấn": 0.5,
+            "đồ lưu niệm": 0.5,
+            "bối cảnh": 0.5
+        }
     },
     {
         "attraction_name": "Lucy's Dream Fashion and Art Exhibition Center",
@@ -239,6 +786,126 @@
             "https://www.tripadvisor.com/Attraction_Review-g60149-d10766260-Reviews-Bender_Park_Waterfront-Oak_Creek_Wisconsin.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d17462448-Reviews-or20-Lucy_s_Dream_Fashion_and_Art_Exhibition_Center-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d17462448-Reviews-or20-Lucy_s_Dream_Fashion_and_Art_Exhibition_Center-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "phương tiện di chuyển": 0.9855758447665721,
+            "hướng dẫn viên du lịch": 0.9872205728897825,
+            "tác phẩm nghệ thuật": 0.8303169701442433,
+            "trải nghiệm": 0.9440490559500176,
+            "nghệ sĩ": 0.9914339493843727,
+            "chuyển nghệ thuật sang": 0.8737691454589367,
+            "thời trang": 0.8737691454589367,
+            "quần áo": 0.5,
+            "nghệ thuật": 0.6868845727294683,
+            "hàng dệt may": 0.5,
+            "trang phục ren": 0.5,
+            "thông điệp": 0.8737691454589367,
+            "sản phẩm": 0.9780002544866875,
+            "bối cảnh nghệ thuật": 0.8737691454589367,
+            "xưởng may": 0.5,
+            "trung tâm triển lãm nghệ thuật": 0.8737691454589367,
+            "tác phẩm": 0.9839896047487855,
+            "áo": 0.9886574973352253,
+            "vải": 0.995484822022263,
+            "dân tộc cổ": 0.9954756376682781,
+            "bức tranh": 0.9955071256263182,
+            "giấy truyền thống": 0.5,
+            "bộ sưu tập": 0.9954881360172294
+        },
+        "dicts_adj": {
+            "phương tiện di chuyển": [
+                "giỏi"
+            ],
+            "hướng dẫn viên du lịch": [
+                "giỏi"
+            ],
+            "tác phẩm nghệ thuật": [
+                "đẹp",
+                "đẹp",
+                "độc đáo",
+                "thực sự"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "nhiều",
+                "thú vị"
+            ],
+            "nghệ sĩ": [
+                "đẹp",
+                "độc đáo"
+            ],
+            "chuyển nghệ thuật sang": [
+                "ngẫu nhiên"
+            ],
+            "thời trang": [
+                "ngẫu nhiên",
+                "đặc biệt",
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "quần áo": [],
+            "nghệ thuật": [
+                "nhiều"
+            ],
+            "hàng dệt may": [],
+            "trang phục ren": [],
+            "thông điệp": [
+                "thực sự"
+            ],
+            "sản phẩm": [],
+            "bối cảnh nghệ thuật": [
+                "đặc biệt"
+            ],
+            "xưởng may": [],
+            "trung tâm triển lãm nghệ thuật": [
+                "tuyệt vời"
+            ],
+            "tác phẩm": [
+                "đẹp"
+            ],
+            "áo": [
+                "đẹp"
+            ],
+            "vải": [
+                "đẹp"
+            ],
+            "dân tộc cổ": [
+                "đẹp"
+            ],
+            "bức tranh": [
+                "đẹp"
+            ],
+            "giấy truyền thống": [],
+            "bộ sưu tập": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "phương tiện di chuyển": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "tác phẩm nghệ thuật": 1.5,
+            "trải nghiệm": 1.0,
+            "nghệ sĩ": 0.5,
+            "chuyển nghệ thuật sang": 0.5,
+            "thời trang": 1.0,
+            "quần áo": 0.5,
+            "nghệ thuật": 1.0,
+            "hàng dệt may": 0.5,
+            "trang phục ren": 0.5,
+            "thông điệp": 0.5,
+            "sản phẩm": 0.5,
+            "bối cảnh nghệ thuật": 0.5,
+            "xưởng may": 0.5,
+            "trung tâm triển lãm nghệ thuật": 0.5,
+            "tác phẩm": 0.5,
+            "áo": 0.5,
+            "vải": 0.5,
+            "dân tộc cổ": 0.5,
+            "bức tranh": 0.5,
+            "giấy truyền thống": 0.5,
+            "bộ sưu tập": 0.5
+        }
     }
 ]

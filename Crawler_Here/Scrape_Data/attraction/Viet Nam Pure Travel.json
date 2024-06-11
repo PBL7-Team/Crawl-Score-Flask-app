@@ -86,7 +86,172 @@
             "https://www.tripadvisor.com/Attraction_Review-g34677-d23598437-Reviews-Trapeze_Club-Tamarac_Broward_County_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d15317635-Reviews-or10-Viet_Nam_Pure_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d15317635-Reviews-Viet_Nam_Pure_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d15317635-Reviews-Viet_Nam_Pure_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.7031468154358057,
+            "giá cả": 0.8481452384730801,
+            "tour": 0.9854349925299175,
+            "tiền": 0.5,
+            "du thuyền": 0.5,
+            "vịnh": 0.5,
+            "thuyền": 0.5,
+            "hướng dẫn viên": 0.9946020329953171,
+            "thức ăn": 0.9956040888209827,
+            "ty du lịch": -0.4512639343738556,
+            "chuyến đi": 0.7230620854663559,
+            "văn phòng du lịch": 0.5,
+            "sim": 0.8737691454589367,
+            "giá": 0.8300694325298537,
+            "kỳ nghỉ": 0.9955235957750119,
+            "khách sạn": 0.018919888709206134,
+            "chuyến bay": 0.5,
+            "công ty du lịch": 0.9941666733066086,
+            "túp lều": 0.5,
+            "ở": 0.5,
+            "đảo": 0.5,
+            "tàu": 0.5,
+            "đại lý": 0.9942537053721026,
+            "giấc": 0.9955389263341203,
+            "chuyến du lịch": 0.8387703052721918,
+            "thợ cơ khí": 0.38086074590682983,
+            "thị trấn xa": 0.9837803094414994,
+            "xe": 0.5,
+            "phí hoa hồng": 0.5,
+            "chuyến đi 11 ngày": 0.9687705356627703,
+            "nhóm": 0.9888489010045305,
+            "nhân viên": -0.02036559209227562,
+            "cửa hàng": 0.9885171183850616,
+            "chuyến đi qua đêm": 0.5
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tốt",
+                "xa",
+                "khác",
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "trung thực",
+                "nhiều"
+            ],
+            "tour": [
+                "tốt",
+                "tốt"
+            ],
+            "tiền": [],
+            "du thuyền": [],
+            "vịnh": [],
+            "thuyền": [],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "thức ăn": [
+                "ngon"
+            ],
+            "ty du lịch": [],
+            "chuyến đi": [
+                "tuyệt vời",
+                "suôn sẻ",
+                "vui vẻ"
+            ],
+            "văn phòng du lịch": [],
+            "sim": [
+                "rẻ"
+            ],
+            "giá": [
+                "rẻ",
+                "ổn",
+                "tốt"
+            ],
+            "kỳ nghỉ": [
+                "tuyệt vời"
+            ],
+            "khách sạn": [
+                "cụ thể",
+                "đẹp"
+            ],
+            "chuyến bay": [],
+            "công ty du lịch": [
+                "chắc chắn",
+                "vui",
+                "tuyệt vời"
+            ],
+            "túp lều": [],
+            "ở": [],
+            "đảo": [],
+            "tàu": [],
+            "đại lý": [
+                "khác",
+                "thoải mái"
+            ],
+            "giấc": [
+                "hoàn hảo"
+            ],
+            "chuyến du lịch": [],
+            "thợ cơ khí": [
+                "xa xôi"
+            ],
+            "thị trấn xa": [
+                "xa xôi"
+            ],
+            "xe": [],
+            "phí hoa hồng": [],
+            "chuyến đi 11 ngày": [
+                "hiểu biết"
+            ],
+            "nhóm": [
+                "vui vẻ"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "đặc biệt"
+            ],
+            "cửa hàng": [
+                "nhiều",
+                "tốt",
+                "hơn"
+            ],
+            "chuyến đi qua đêm": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 1.0,
+            "giá cả": 0.5,
+            "tour": 1.0,
+            "tiền": 0.5,
+            "du thuyền": 0.5,
+            "vịnh": 2.0,
+            "thuyền": 0.5,
+            "hướng dẫn viên": 1.0,
+            "thức ăn": 0.5,
+            "ty du lịch": 0.5,
+            "chuyến đi": 1.5,
+            "văn phòng du lịch": 0.5,
+            "sim": 0.5,
+            "giá": 2.0,
+            "kỳ nghỉ": 0.5,
+            "khách sạn": 1.0,
+            "chuyến bay": 0.5,
+            "công ty du lịch": 1.0,
+            "túp lều": 0.5,
+            "ở": 0.5,
+            "đảo": 0.5,
+            "tàu": 0.5,
+            "đại lý": 0.5,
+            "giấc": 0.5,
+            "chuyến du lịch": 0.5,
+            "thợ cơ khí": 0.5,
+            "thị trấn xa": 0.5,
+            "xe": 0.5,
+            "phí hoa hồng": 0.5,
+            "chuyến đi 11 ngày": 0.5,
+            "nhóm": 0.5,
+            "nhân viên": 0.5,
+            "cửa hàng": 0.5,
+            "chuyến đi qua đêm": 0.5
+        }
     },
     {
         "attraction_name": "Viet Nam Pure Travel",
@@ -174,7 +339,143 @@
             "https://www.tripadvisor.com/Attraction_Review-g189970-d6921372-Reviews-Kolaportid_Flea_Market-Reykjavik_Capital_Region.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d15317635-Reviews-or20-Viet_Nam_Pure_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d15317635-Reviews-or10-Viet_Nam_Pure_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d15317635-Reviews-or10-Viet_Nam_Pure_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "giá cả": 0.9113715626299381,
+            "khách sạn": 0.06653622351586819,
+            "cửa hàng": 0.5893570948392153,
+            "buổi biểu diễn": 0.5,
+            "múa rối": 0.5,
+            "vịnh": 0.6738689678604715,
+            "chuyến đi": 0.9063625342678279,
+            "tour": 0.9932668823748827,
+            "phố cổ": 0.8737691454589367,
+            "đất nước": 0.7477721315226518,
+            "chuyến du ngoạn": 0.5,
+            "bác": 0.5,
+            "sim": 0.5,
+            "chuyến": 0.9842322811018676,
+            "đại lý du lịch": 0.9954995685257018,
+            "chuyến phiêu lưu": 0.9954905675258487,
+            "chuyến du lịch": 0.9931852167937905,
+            "chuyến tham quan": 0.9766622237802949,
+            "dịch vụ": 0.5333010442554951,
+            "chuyến đi vịnh": 0.5,
+            "văn phòng": 0.5,
+            "giá": 0.6405998542904854,
+            "du thuyền": 0.9131851028650999,
+            "bac": 0.7250934671610594,
+            "đại lý": -0.8544141817837954
+        },
+        "dicts_adj": {
+            "giá cả": [
+                "khác",
+                "tốt",
+                "nhỏ"
+            ],
+            "khách sạn": [
+                "gần"
+            ],
+            "cửa hàng": [
+                "gần"
+            ],
+            "buổi biểu diễn": [],
+            "múa rối": [],
+            "vịnh": [
+                "đẹp",
+                "hoàn hảo"
+            ],
+            "chuyến đi": [
+                "vui vẻ",
+                "tuyệt vời",
+                "dễ dàng",
+                "vui vẻ",
+                "tuyệt vời",
+                "tốt",
+                "tối đa",
+                "hài lòng",
+                "dễ dàng",
+                "giỏi",
+                "hoàn hảo"
+            ],
+            "tour": [
+                "tốt"
+            ],
+            "phố cổ": [
+                "đầy đủ"
+            ],
+            "đất nước": [
+                "xinh đẹp"
+            ],
+            "chuyến du ngoạn": [],
+            "bác": [],
+            "sim": [],
+            "chuyến": [
+                "ổn"
+            ],
+            "đại lý du lịch": [
+                "chắc chắn",
+                "có thể"
+            ],
+            "chuyến phiêu lưu": [
+                "hữu ích"
+            ],
+            "chuyến du lịch": [],
+            "chuyến tham quan": [
+                "hạnh phúc",
+                "xinh đẹp"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "đầu tiên"
+            ],
+            "chuyến đi vịnh": [],
+            "văn phòng": [],
+            "giá": [
+                "rẻ",
+                "hơn"
+            ],
+            "du thuyền": [
+                "tốt"
+            ],
+            "bac": [
+                "gần",
+                "đầu tiên"
+            ],
+            "đại lý": [
+                "bất kỳ",
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "giá cả": 0.5,
+            "khách sạn": 1.5,
+            "cửa hàng": 0.5,
+            "buổi biểu diễn": 0.5,
+            "múa rối": 0.5,
+            "vịnh": 2.5,
+            "chuyến đi": 3.0,
+            "tour": 0.5,
+            "phố cổ": 0.5,
+            "đất nước": 1.0,
+            "chuyến du ngoạn": 0.5,
+            "bác": 0.5,
+            "sim": 0.5,
+            "chuyến": 0.5,
+            "đại lý du lịch": 0.5,
+            "chuyến phiêu lưu": 0.5,
+            "chuyến du lịch": 0.5,
+            "chuyến tham quan": 1.0,
+            "dịch vụ": 0.5,
+            "chuyến đi vịnh": 0.5,
+            "văn phòng": 0.5,
+            "giá": 0.5,
+            "du thuyền": 0.5,
+            "bac": 0.5,
+            "đại lý": 0.5
+        }
     },
     {
         "attraction_name": "Viet Nam Pure Travel",
@@ -263,7 +564,207 @@
             "https://www.tripadvisor.com/Attraction_Review-g44501-d13477466-Reviews-Rockford_Beach_Park-House_Springs_Missouri.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d15317635-Reviews-or30-Viet_Nam_Pure_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d15317635-Reviews-or20-Viet_Nam_Pure_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d15317635-Reviews-or20-Viet_Nam_Pure_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi 2 ngày 1 đêm": 0.9917350936448202,
+            "điệp": 0.9948620479553938,
+            "tour": 0.7428896393394098,
+            "phố cổ": 0.8737691454589367,
+            "giá": 0.957643664861098,
+            "dịch vụ": 0.8443007431885539,
+            "khách sạn": 0.7293185153976083,
+            "khoảng thời gian": 0.9945905857603066,
+            "trải nghiệm": 0.9953516774112359,
+            "chuyến đi": 0.9948164324159734,
+            "thuyền": 0.9930950066773221,
+            "đạp xe": 0.9900176818482578,
+            "khung cảnh": 0.995112557488028,
+            "vịnh": 0.7477257721766364,
+            "du thuyền": 0.7450898550014244,
+            "kỳ nghỉ": 0.9924456655862741,
+            "công ty du lịch": 0.9926670591812581,
+            "bà bắc": 0.5783590786159039,
+            "nhân viên": 0.9364676571373517,
+            "bà": 0.9752411591277147,
+            "cơ quan": 0.5,
+            "lịch": 0.992917180294171,
+            "trải nghiệm du lịch": 0.9955588979064487,
+            "dịch vụ lưu trú": 0.5,
+            "đồ ăn": 0.5,
+            "hướng dẫn viên": 0.5,
+            "thái độ": 0.9954386897734366,
+            "chuyến tham quan": 0.8275658313650638,
+            "cả": 0.8737691454589367,
+            "bắc": 0.8737691454589367,
+            "văn": 0.5,
+            "chuyến thăm": 0.9662264599464834,
+            "đất nước": 0.9949175373185426
+        },
+        "dicts_adj": {
+            "chuyến đi 2 ngày 1 đêm": [],
+            "điệp": [
+                "hiểu biết"
+            ],
+            "tour": [
+                "tốt"
+            ],
+            "phố cổ": [
+                "đầu tiên"
+            ],
+            "giá": [
+                "tốt",
+                "hoàn toàn",
+                "rẻ",
+                "hơn",
+                "tốt",
+                "tốt",
+                "Cuối cùng",
+                "hợp lý",
+                "tốt",
+                "hợp lý"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "thân mật",
+                "xuất sắc",
+                "đặc biệt",
+                "khó",
+                "nhiều",
+                "hơn",
+                "tốt đẹp",
+                "xa",
+                "tuyệt vời"
+            ],
+            "khách sạn": [
+                "sẵn sàng"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời",
+                "chân thật",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "thực sự",
+                "suôn sẻ",
+                "đủ",
+                "tuyệt vời",
+                "thú vị",
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "ngoạn mục",
+                "sẵn sàng",
+                "tuyệt vời"
+            ],
+            "thuyền": [
+                "ngoạn mục"
+            ],
+            "đạp xe": [
+                "ngoạn mục"
+            ],
+            "khung cảnh": [
+                "ngoạn mục"
+            ],
+            "vịnh": [
+                "tuyệt vời"
+            ],
+            "du thuyền": [
+                "tuyệt vời",
+                "thực sự",
+                "tốt bụng"
+            ],
+            "kỳ nghỉ": [
+                "dễ chịu",
+                "tuyệt vời"
+            ],
+            "công ty du lịch": [
+                "mạnh mẽ"
+            ],
+            "bà bắc": [
+                "đặc biệt"
+            ],
+            "nhân viên": [
+                "khó",
+                "nhiều",
+                "hơn"
+            ],
+            "bà": [
+                "khó",
+                "nhiều",
+                "hơn"
+            ],
+            "cơ quan": [],
+            "lịch": [
+                "nhiều",
+                "tốt bụng",
+                "trung thực",
+                "lịch sự"
+            ],
+            "trải nghiệm du lịch": [
+                "nhiều",
+                "khó"
+            ],
+            "dịch vụ lưu trú": [],
+            "đồ ăn": [],
+            "hướng dẫn viên": [],
+            "thái độ": [
+                "kiên nhẫn"
+            ],
+            "chuyến tham quan": [
+                "sẵn sàng",
+                "tốt"
+            ],
+            "cả": [
+                "nhanh chóng"
+            ],
+            "bắc": [
+                "nhanh chóng"
+            ],
+            "văn": [],
+            "chuyến thăm": [
+                "hợp lý"
+            ],
+            "đất nước": [
+                "xinh đẹp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi 2 ngày 1 đêm": 0.5,
+            "điệp": 0.5,
+            "tour": 1.0,
+            "phố cổ": 0.5,
+            "giá": 2.5,
+            "dịch vụ": 2.5,
+            "khách sạn": 1.0,
+            "khoảng thời gian": 1.0,
+            "trải nghiệm": 1.5,
+            "chuyến đi": 1.0,
+            "thuyền": 0.5,
+            "đạp xe": 0.5,
+            "khung cảnh": 0.5,
+            "vịnh": 1.0,
+            "du thuyền": 1.0,
+            "kỳ nghỉ": 1.0,
+            "công ty du lịch": 0.5,
+            "bà bắc": 0.5,
+            "nhân viên": 0.5,
+            "bà": 0.5,
+            "cơ quan": 0.5,
+            "lịch": 0.5,
+            "trải nghiệm du lịch": 0.5,
+            "dịch vụ lưu trú": 0.5,
+            "đồ ăn": 0.5,
+            "hướng dẫn viên": 0.5,
+            "thái độ": 0.5,
+            "chuyến tham quan": 1.5,
+            "cả": 0.5,
+            "bắc": 0.5,
+            "văn": 0.5,
+            "chuyến thăm": 0.5,
+            "đất nước": 0.5
+        }
     },
     {
         "attraction_name": "Viet Nam Pure Travel",
@@ -343,6 +844,128 @@
             "https://www.tripadvisor.com/Attraction_Review-g48254-d2007536-Reviews-Orange_County_Choppers-Newburgh_New_York.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d15317635-Reviews-or30-Viet_Nam_Pure_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d15317635-Reviews-or30-Viet_Nam_Pure_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "vịnh": 0.8129743214813061,
+            "dịch vụ": 0.2547560206614435,
+            "vận chuyển bằng du thuyền": 0.5138728562742472,
+            "khách sạn": -0.9751504678279161,
+            "thuyền": 0.5,
+            "sim khi": 0.8737691454589367,
+            "công ty du lịch": 0.5,
+            "bắc": 0.5,
+            "sim": 0.5,
+            "chuyến tham quan": 0.9947826417046599,
+            "tàu": 0.9930658311932348,
+            "giá": 0.9160188616563877,
+            "túi tiền": 0.5,
+            "chuyến đi": 0.8364900004914185,
+            "đại lý du lịch": 0.9954978886526078,
+            "con người": 0.9955776456044987,
+            "chuyến đi vịnh": 0.5,
+            "chuyến đi hoa": 0.5,
+            "họ": 0.5,
+            "tuần trăng mật": 0.9953551819198765,
+            "cabin": 0.9935921675059944,
+            "du thuyền": 0.9937507996801287,
+            "bánh": 0.5,
+            "trứng cá": 0.5
+        },
+        "dicts_adj": {
+            "vịnh": [],
+            "dịch vụ": [
+                "sang trọng",
+                "đẹp",
+                "hơn",
+                "nhiều",
+                "suốt",
+                "cao",
+                "tốt"
+            ],
+            "vận chuyển bằng du thuyền": [
+                "sang trọng"
+            ],
+            "khách sạn": [
+                "đúng"
+            ],
+            "thuyền": [],
+            "sim khi": [
+                "tình cờ"
+            ],
+            "công ty du lịch": [],
+            "bắc": [],
+            "sim": [],
+            "chuyến tham quan": [
+                "hợp lý"
+            ],
+            "tàu": [
+                "hợp lý"
+            ],
+            "giá": [
+                "hợp lý",
+                "rẻ",
+                "hơn",
+                "khác",
+                "tốt"
+            ],
+            "túi tiền": [],
+            "chuyến đi": [
+                "suốt",
+                "khó",
+                "thân thiện",
+                "hữu ích",
+                "nhiều",
+                "hoàn toàn"
+            ],
+            "đại lý du lịch": [
+                "chắc chắn"
+            ],
+            "con người": [
+                "xinh đẹp",
+                "xinh đẹp"
+            ],
+            "chuyến đi vịnh": [],
+            "chuyến đi hoa": [],
+            "họ": [],
+            "tuần trăng mật": [
+                "lãng mạn"
+            ],
+            "cabin": [
+                "lãng mạn"
+            ],
+            "du thuyền": [
+                "lãng mạn"
+            ],
+            "bánh": [],
+            "trứng cá": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "vịnh": 1.0,
+            "dịch vụ": 1.0,
+            "vận chuyển bằng du thuyền": 0.5,
+            "khách sạn": 0.5,
+            "thuyền": 0.5,
+            "sim khi": 0.5,
+            "công ty du lịch": 0.5,
+            "bắc": 0.5,
+            "sim": 0.5,
+            "chuyến tham quan": 0.5,
+            "tàu": 0.5,
+            "giá": 1.5,
+            "túi tiền": 0.5,
+            "chuyến đi": 1.5,
+            "đại lý du lịch": 0.5,
+            "con người": 0.5,
+            "chuyến đi vịnh": 0.5,
+            "chuyến đi hoa": 0.5,
+            "họ": 0.5,
+            "tuần trăng mật": 0.5,
+            "cabin": 0.5,
+            "du thuyền": 0.5,
+            "bánh": 0.5,
+            "trứng cá": 0.5
+        }
     }
 ]
