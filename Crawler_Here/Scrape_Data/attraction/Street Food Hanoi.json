@@ -77,7 +77,290 @@
             "https://www.tripadvisor.com/Attraction_Review-g150800-d183986-Reviews-Chapultepec_Castle-Mexico_City_Central_Mexico_and_Gulf_Coast.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-or10-Street_Food_Hanoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-Street_Food_Hanoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-Street_Food_Hanoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nước": 0.8737691454589367,
+            "ẩm thực": 0.5,
+            "đường phố": 0.5,
+            "chuyến tham quan": 0.5347520490176976,
+            "hướng dẫn viên": 0.9236874259659089,
+            "nhà hàng": 0.7476107035181485,
+            "thức ăn": 0.7335144068056252,
+            "đồ ăn": 0.48244191271078307,
+            "chuyến đi": 0.9953747011604719,
+            "món ăn": 0.9463780710745292,
+            "tour": 0.8737691454589367,
+            "khách sạn": 0.5,
+            "nhà nghỉ": 0.5,
+            "món ăn đường phố": 0.9900464946695138,
+            "cà phê": 0.9923378753010184,
+            "xe máy": 0.5438046241179109,
+            "quán ăn": 0.6160306427627802,
+            "hoa quả": 0.5,
+            "tráng miệng": 0.5,
+            "kiến ​​thức": 0.7090042680501938,
+            "chất lượng": 0.5,
+            "giá cả": 0.5,
+            "mimi": 0.8737691454589367,
+            "văn hóa": 0.7454477894352749,
+            "hướng dẫn viên du lịch": 0.9954597401665524,
+            "thành phố": 0.5,
+            "khu du lịch": 0.5,
+            "văn hóa địa phương": 0.06595054268836975,
+            "người dân địa phương": 0.43895148280231905,
+            "xe": -0.8266540546901524,
+            "bia hội": 0.9807880125008523,
+            "người da trắng da đen": -0.5772782580461353,
+            "người địa phương": -0.9752032989636064,
+            "giá": 0.8413291210308671,
+            "cửa hàng": 0.7982089824314851,
+            "khu ẩm thực đường phố": 0.5,
+            "phố cổ": 0.5,
+            "quán bar": 0.47417714446783066,
+            "quán cà phê": 0.5940023399889469,
+            "nhà hàng đông": 0.7099057408049703,
+            "mức giá": 0.8976279455237091,
+            "món": 0.5,
+            "lẩu nướng": 0.5,
+            "hương vị": 0.9954857173725031,
+            "dịch vụ": 0.8737691454589367,
+            "nhân viên": 0.9952111943275668,
+            "không khí": 0.8737691454589367,
+            "đồ ăn thì": 0.9912464228691533,
+            "ăn phở thứ": 0.8737691454589367,
+            "cha": 0.5976000223308802,
+            "chợ": 0.5,
+            "ẩm thực đường phố": 0.9953880354296416,
+            "khoảng thời gian": 0.9953072104835883,
+            "người hướng dẫn": 0.5,
+            "thức ăn đường phố": 0.9863245466258377,
+            "trải nghiệm": 0.9952929429709911
+        },
+        "dicts_adj": {
+            "nước": [
+                "nhiều"
+            ],
+            "ẩm thực": [],
+            "đường phố": [],
+            "chuyến tham quan": [
+                "hoàn toàn",
+                "chắc chắn",
+                "mới",
+                "thú vị",
+                "nhiều",
+                "nhiều"
+            ],
+            "hướng dẫn viên": [
+                "khác",
+                "tốt bụng",
+                "thân thiện"
+            ],
+            "nhà hàng": [
+                "tốt"
+            ],
+            "thức ăn": [
+                "nhanh",
+                "khác"
+            ],
+            "đồ ăn": [
+                "tuyệt công ty",
+                "nổi tiếng",
+                "ngon",
+                "hợp lý",
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "món ăn": [
+                "ngon",
+                "vui vẻ",
+                "nhiều",
+                "đơn giản",
+                "ngon"
+            ],
+            "tour": [
+                "thực sự",
+                "may mắn"
+            ],
+            "khách sạn": [],
+            "nhà nghỉ": [],
+            "món ăn đường phố": [
+                "khác",
+                "ngon tuyệt",
+                "thực sự",
+                "vui"
+            ],
+            "cà phê": [],
+            "xe máy": [
+                "nổi tiếng"
+            ],
+            "quán ăn": [
+                "nổi tiếng"
+            ],
+            "hoa quả": [],
+            "tráng miệng": [],
+            "kiến ​​thức": [
+                "rộng"
+            ],
+            "chất lượng": [],
+            "giá cả": [],
+            "mimi": [
+                "thân thiện"
+            ],
+            "văn hóa": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "xuất sắc",
+                "thú vị"
+            ],
+            "thành phố": [],
+            "khu du lịch": [],
+            "văn hóa địa phương": [
+                "rõ",
+                "hơn"
+            ],
+            "người dân địa phương": [
+                "phải",
+                "cùng",
+                "ngon"
+            ],
+            "xe": [
+                "phải"
+            ],
+            "bia hội": [],
+            "người da trắng da đen": [
+                "bất kỳ",
+                "phải"
+            ],
+            "người địa phương": [
+                "rẻ"
+            ],
+            "giá": [
+                "rẻ"
+            ],
+            "cửa hàng": [
+                "ngon",
+                "bất kỳ",
+                "nhanh",
+                "khác"
+            ],
+            "khu ẩm thực đường phố": [],
+            "phố cổ": [],
+            "quán bar": [
+                "đông đúc"
+            ],
+            "quán cà phê": [
+                "đông đúc"
+            ],
+            "nhà hàng đông": [
+                "đông đúc"
+            ],
+            "mức giá": [
+                "hợp lý"
+            ],
+            "món": [],
+            "lẩu nướng": [],
+            "hương vị": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "tốt"
+            ],
+            "không khí": [
+                "tuyệt vời"
+            ],
+            "đồ ăn thì": [
+                "tuyệt vời"
+            ],
+            "ăn phở thứ": [
+                "hơn"
+            ],
+            "cha": [
+                "hơn"
+            ],
+            "chợ": [],
+            "ẩm thực đường phố": [
+                "tuyệt vời"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "người hướng dẫn": [],
+            "thức ăn đường phố": [
+                "đủ",
+                "sạch sẽ"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nước": 0.5,
+            "ẩm thực": 1.5,
+            "đường phố": 1.0,
+            "chuyến tham quan": 1.5,
+            "hướng dẫn viên": 2.0,
+            "nhà hàng": 1.0,
+            "thức ăn": 1.0,
+            "đồ ăn": 2.0,
+            "chuyến đi": 0.5,
+            "món ăn": 1.5,
+            "tour": 0.5,
+            "khách sạn": 0.5,
+            "nhà nghỉ": 0.5,
+            "món ăn đường phố": 1.0,
+            "cà phê": 0.5,
+            "xe máy": 0.5,
+            "quán ăn": 1.0,
+            "hoa quả": 0.5,
+            "tráng miệng": 0.5,
+            "kiến ​​thức": 0.5,
+            "chất lượng": 0.5,
+            "giá cả": 0.5,
+            "mimi": 0.5,
+            "văn hóa": 1.0,
+            "hướng dẫn viên du lịch": 0.5,
+            "thành phố": 0.5,
+            "khu du lịch": 0.5,
+            "văn hóa địa phương": 0.5,
+            "người dân địa phương": 1.5,
+            "xe": 0.5,
+            "bia hội": 0.5,
+            "người da trắng da đen": 0.5,
+            "người địa phương": 0.5,
+            "giá": 0.5,
+            "cửa hàng": 1.0,
+            "khu ẩm thực đường phố": 0.5,
+            "phố cổ": 0.5,
+            "quán bar": 0.5,
+            "quán cà phê": 0.5,
+            "nhà hàng đông": 0.5,
+            "mức giá": 0.5,
+            "món": 0.5,
+            "lẩu nướng": 0.5,
+            "hương vị": 0.5,
+            "dịch vụ": 0.5,
+            "nhân viên": 0.5,
+            "không khí": 0.5,
+            "đồ ăn thì": 0.5,
+            "ăn phở thứ": 0.5,
+            "cha": 0.5,
+            "chợ": 0.5,
+            "ẩm thực đường phố": 0.5,
+            "khoảng thời gian": 0.5,
+            "người hướng dẫn": 0.5,
+            "thức ăn đường phố": 0.5,
+            "trải nghiệm": 0.5
+        }
     },
     {
         "attraction_name": "Street Food Hanoi",
@@ -160,7 +443,309 @@
             "https://www.tripadvisor.com/Attraction_Review-g294472-d550310-Reviews-St_Sava_Temple-Belgrade.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-or20-Street_Food_Hanoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-or10-Street_Food_Hanoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-or10-Street_Food_Hanoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "món ăn": 0.8362514385880786,
+            "nước bia -": 0.5489607751369476,
+            "cà phê trứng": 0.5357387028634548,
+            "khu phố cổ": 0.5,
+            "chuyến du lịch": 0.5,
+            "ẩm thực": 0.7476731620263308,
+            "phong cách": -0.9631453172769397,
+            "bún chả": 0.7134217992424965,
+            "súp": 0.6868845727294683,
+            "salad": 0.5,
+            "trái cây": 0.5,
+            "chuyến lưu diễn": 0.9938691944698803,
+            "đường phố có": 0.7657745387405157,
+            "chuyến tham quan": 0.9267209729878232,
+            "giá": 0.8737691454589367,
+            "người hướng dẫn": 0.6650933170264276,
+            "hướng dẫn viên": 0.542584572249325,
+            "phong tục": 0.5,
+            "bữa ăn": 0.7463401068234816,
+            "đồ ăn": 0.9954956110741477,
+            "sức khỏe": 0.9952204420696944,
+            "món ăn đường phố địa phương": 0.9955370424431749,
+            "thức ăn": 0.5899761627661064,
+            "kiến ​​thức": 0.5,
+            "trải nghiệm": 0.70435065345373,
+            "vị trí": 0.5,
+            "điểm tham quan": 0.5,
+            "gia vị": 0.5157943703234196,
+            "thực phẩm": 0.9920385716250166,
+            "cho đêm": 0.9953812741441652,
+            "ẩm thực đường phố": 0.9954359272378497,
+            "hương vị": 0.8737691454589367,
+            "địa điểm ăn uống": 0.5,
+            "chuyến thăm": 0.5,
+            "chuyến đi hà nội": 0.8737691454589367,
+            "tour ẩm thực đường phố": 0.5,
+            "bữa tối": 0.5,
+            "đồ ăn đường phố": 0.5,
+            "bánh cuốn": 0.5,
+            "bánh gạo nhân": 0.5,
+            "thịt lợn": 0.7594497709069401,
+            "bánh chấm": 0.9918098640628159,
+            "bánh empanada": 0.9945489650999662,
+            "mì": 0.7521811697224621,
+            "nhân": 0.7118942509405315,
+            "súp mì bò": 0.9954172674333677,
+            "món": 0.8737691454589367,
+            "người ấn độ": 0.8737691454589367,
+            "nước sốt ớt": 0.5,
+            "bia": 0.8737691454589367,
+            "quầy hàng": -0.21911593369441107,
+            "đường phố": -0.22074779879767448,
+            "hòa nhập": 0.5,
+            "viên ngọc": 0.5,
+            "ẩm thực ẩn": 0.4516857713460922,
+            "tour": 0.9845481996890157,
+            "nhà hàng": 0.991009745397605,
+            "chất lượng": 0.8737691454589367,
+            "không gian": 0.6316197197884321,
+            "bột trắng -": 0.5,
+            "cửa hàng": 0.5
+        },
+        "dicts_adj": {
+            "món ăn": [
+                "khác",
+                "sẵn",
+                "tốt",
+                "độc đáo"
+            ],
+            "nước bia -": [
+                "khác"
+            ],
+            "cà phê trứng": [
+                "khác"
+            ],
+            "khu phố cổ": [],
+            "chuyến du lịch": [],
+            "ẩm thực": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "phong cách": [
+                "chi tiết",
+                "dí dỏm",
+                "ấm áp"
+            ],
+            "bún chả": [
+                "nổi bật"
+            ],
+            "súp": [
+                "nổi bật"
+            ],
+            "salad": [],
+            "trái cây": [],
+            "chuyến lưu diễn": [
+                "nhiều"
+            ],
+            "đường phố có": [
+                "sẵn",
+                "tốt"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời"
+            ],
+            "giá": [
+                "tốt"
+            ],
+            "người hướng dẫn": [],
+            "hướng dẫn viên": [
+                "thực sự",
+                "giỏi",
+                "đầy đủ",
+                "nhiều",
+                "xinh đẹp",
+                "đầy đủ",
+                "khác thường",
+                "tốt"
+            ],
+            "phong tục": [],
+            "bữa ăn": [
+                "nhiều"
+            ],
+            "đồ ăn": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "sức khỏe": [
+                "thon thả",
+                "nhiều",
+                "tốt"
+            ],
+            "món ăn đường phố địa phương": [
+                "vui",
+                "tuyệt vời"
+            ],
+            "thức ăn": [
+                "tuyệt vời",
+                "sạch sẽ",
+                "nhiều",
+                "ngon",
+                "chân thực"
+            ],
+            "kiến ​​thức": [],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "địa phương",
+                "hơn"
+            ],
+            "vị trí": [],
+            "điểm tham quan": [],
+            "gia vị": [
+                "phức tạp"
+            ],
+            "thực phẩm": [
+                "hoàn toàn"
+            ],
+            "cho đêm": [],
+            "ẩm thực đường phố": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "hương vị": [
+                "tuyệt vời",
+                "ngon"
+            ],
+            "địa điểm ăn uống": [],
+            "chuyến thăm": [],
+            "chuyến đi hà nội": [
+                "Đúng"
+            ],
+            "tour ẩm thực đường phố": [],
+            "bữa tối": [],
+            "đồ ăn đường phố": [],
+            "bánh cuốn": [],
+            "bánh gạo nhân": [],
+            "thịt lợn": [
+                "tuyệt vời",
+                "khác"
+            ],
+            "bánh chấm": [],
+            "bánh empanada": [
+                "tuyệt vời",
+                "khác"
+            ],
+            "mì": [
+                "tuyệt vời",
+                "khác"
+            ],
+            "nhân": [
+                "tuyệt vời",
+                "khác"
+            ],
+            "súp mì bò": [
+                "ấm áp"
+            ],
+            "món": [
+                "nhạt",
+                "hơn"
+            ],
+            "người ấn độ": [
+                "nhạt",
+                "hơn"
+            ],
+            "nước sốt ớt": [],
+            "bia": [
+                "Cuối cùng",
+                "lạnh"
+            ],
+            "quầy hàng": [
+                "sạch sẽ",
+                "nhiều"
+            ],
+            "đường phố": [
+                "sạch sẽ",
+                "nhiều"
+            ],
+            "hòa nhập": [],
+            "viên ngọc": [],
+            "ẩm thực ẩn": [
+                "tuyệt vời"
+            ],
+            "tour": [],
+            "nhà hàng": [
+                "xuất sắc",
+                "khác"
+            ],
+            "chất lượng": [
+                "tuyệt vời"
+            ],
+            "không gian": [
+                "sạch sẽ",
+                "khó"
+            ],
+            "bột trắng -": [],
+            "cửa hàng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "món ăn": 2.0,
+            "nước bia -": 0.5,
+            "cà phê trứng": 0.5,
+            "khu phố cổ": 0.5,
+            "chuyến du lịch": 0.5,
+            "ẩm thực": 2.0,
+            "phong cách": 0.5,
+            "bún chả": 1.0,
+            "súp": 1.0,
+            "salad": 0.5,
+            "trái cây": 0.5,
+            "chuyến lưu diễn": 0.5,
+            "đường phố có": 0.5,
+            "chuyến tham quan": 1.0,
+            "giá": 0.5,
+            "người hướng dẫn": 1.5,
+            "hướng dẫn viên": 3.0,
+            "phong tục": 0.5,
+            "bữa ăn": 1.0,
+            "đồ ăn": 1.0,
+            "sức khỏe": 0.5,
+            "món ăn đường phố địa phương": 0.5,
+            "thức ăn": 1.5,
+            "kiến ​​thức": 0.5,
+            "trải nghiệm": 1.5,
+            "vị trí": 0.5,
+            "điểm tham quan": 0.5,
+            "gia vị": 0.5,
+            "thực phẩm": 0.5,
+            "cho đêm": 0.5,
+            "ẩm thực đường phố": 1.0,
+            "hương vị": 0.5,
+            "địa điểm ăn uống": 0.5,
+            "chuyến thăm": 0.5,
+            "chuyến đi hà nội": 0.5,
+            "tour ẩm thực đường phố": 0.5,
+            "bữa tối": 0.5,
+            "đồ ăn đường phố": 0.5,
+            "bánh cuốn": 0.5,
+            "bánh gạo nhân": 0.5,
+            "thịt lợn": 0.5,
+            "bánh chấm": 0.5,
+            "bánh empanada": 0.5,
+            "mì": 0.5,
+            "nhân": 0.5,
+            "súp mì bò": 0.5,
+            "món": 0.5,
+            "người ấn độ": 0.5,
+            "nước sốt ớt": 0.5,
+            "bia": 0.5,
+            "quầy hàng": 0.5,
+            "đường phố": 0.5,
+            "hòa nhập": 0.5,
+            "viên ngọc": 0.5,
+            "ẩm thực ẩn": 0.5,
+            "tour": 0.5,
+            "nhà hàng": 0.5,
+            "chất lượng": 0.5,
+            "không gian": 0.5,
+            "bột trắng -": 0.5,
+            "cửa hàng": 0.5
+        }
     },
     {
         "attraction_name": "Street Food Hanoi",
@@ -244,7 +829,344 @@
             "https://www.tripadvisor.com/Attraction_Review-g188662-d319487-Reviews-Citadelle_de_Dinant-Dinant_The_Ardennes_Wallonia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-or30-Street_Food_Hanoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-or20-Street_Food_Hanoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-or20-Street_Food_Hanoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thức ăn": 0.9547962419940935,
+            "món ăn đường phố": 0.8239237844827585,
+            "giá": 0.9906898845219985,
+            "đồ ăn": 0.837063199452435,
+            "nhà hàng": 0.537813046015799,
+            "bánh": 0.6568489260971546,
+            "đường phố": 0.9942047092481516,
+            "quầy bar": 0.9893253115005791,
+            "khoai tây": 0.5252320999279618,
+            "cốt": 0.5006781592965126,
+            "khoai tây chiên phô mai": 0.7803522193183502,
+            "bánh pizza": 0.5742982374504209,
+            "ốc quế": 0.5622567236423492,
+            "bầu không khí": 0.2322161285749947,
+            "tivi": 0.5,
+            "trận đấu": 0.5,
+            "món ăn": 0.7759305819183484,
+            "cà phê phở": 0.9954527739319019,
+            "thức ăn đường phố": 0.9949445143574849,
+            "rau tươi": 0.5,
+            "bữa ăn": 0.5,
+            "bun-cha phở": 0.5,
+            "ga 2 món": 0.5,
+            "với hương": 0.5,
+            "thực phẩm": 0.9954563884530216,
+            "đồ ăn cà phê": 0.9955081980442628,
+            "cà phê": 0.995454442629125,
+            "cà phê trứng": 0.8300090208455609,
+            "trà đá": 0.5,
+            "thực phẩm đường phố": 0.8737691454589367,
+            "trải nghiệm": 0.9941907585792554,
+            "bữa ăn phở": 0.5,
+            "bánh mì": 0.5,
+            "bún chả lẩu": 0.5,
+            "đồ chiên": 0.5,
+            "ngân sách": 0.9956055851071142,
+            "chuyến tham quan": 0.7815706095684113,
+            "người hướng dẫn": 0.5231262426823378,
+            "chất lượng": 0.8737691454589367,
+            "môi trường": 0.9608194688335061,
+            "ẩm thực việt nam": 0.9953217105357908,
+            "cái bụng": -0.31241914443671703,
+            "văn hóa việt": 0.8737691454589367,
+            "hướng dẫn viên": 0.8737691454589367,
+            "con phố nhỏ": 0.5,
+            "món ăn ẩn": 0.5,
+            "điểm dừng": 0.9888502622488886,
+            "người dân địa phương": 0.994623136066366,
+            "sến sẩm": -0.9669974457938224,
+            "đồ uống mặn": 0.4065104592591524,
+            "cả": 0.9953277974855155,
+            "quán cà phê": 0.9872179324156605,
+            "nguyên liệu": 0.9472372703603469,
+            "di sản": 0.8133021928952076,
+            "bánh xèo": 0.7490698175970465,
+            "văn hóa": 0.19806306099053472,
+            "ẩm thực đường phố": 0.9926180243492126,
+            "chuyến đi": 0.9955039919004776,
+            "cuộc phiêu lưu": -0.3804430831223726,
+            "hội an": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "thức ăn": [
+                "ngon",
+                "rẻ",
+                "tuyệt vời",
+                "tuyệt vời",
+                "rẻ",
+                "tuyệt vời"
+            ],
+            "món ăn đường phố": [
+                "trọn vẹn",
+                "sâu sắc",
+                "thực sự"
+            ],
+            "giá": [
+                "nhiều",
+                "rẻ"
+            ],
+            "đồ ăn": [
+                "ngon",
+                "nhiều",
+                "ngon",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "nhà hàng": [
+                "phải",
+                "sạch sẽ",
+                "nhỏ",
+                "hơn"
+            ],
+            "bánh": [],
+            "đường phố": [
+                "tuyệt vời",
+                "rẻ"
+            ],
+            "quầy bar": [
+                "sớm"
+            ],
+            "khoai tây": [
+                "đủ"
+            ],
+            "cốt": [
+                "đủ"
+            ],
+            "khoai tây chiên phô mai": [
+                "nhiều",
+                "khác",
+                "ngọt"
+            ],
+            "bánh pizza": [
+                "đủ"
+            ],
+            "ốc quế": [
+                "đủ"
+            ],
+            "bầu không khí": [
+                "tuyệt vời",
+                "nhiều",
+                "hối hả",
+                "nhộn nhịp",
+                "thực sự"
+            ],
+            "tivi": [],
+            "trận đấu": [],
+            "món ăn": [
+                "nhiều",
+                "ngon",
+                "tươi",
+                "Chắc chắn",
+                "ngon",
+                "ngon",
+                "ngọt",
+                "khác",
+                "tốt",
+                "khác",
+                "tốt",
+                "no"
+            ],
+            "cà phê phở": [],
+            "thức ăn đường phố": [
+                "đa dạng",
+                "hơn"
+            ],
+            "rau tươi": [],
+            "bữa ăn": [],
+            "bun-cha phở": [],
+            "ga 2 món": [],
+            "với hương": [],
+            "thực phẩm": [
+                "tốt",
+                "tốt",
+                "tuyệt vời",
+                "nhiều",
+                "dễ dàng"
+            ],
+            "đồ ăn cà phê": [],
+            "cà phê": [
+                "đậm",
+                "thơm",
+                "ngon",
+                "hơn"
+            ],
+            "cà phê trứng": [
+                "thực sự",
+                "khuyến khích",
+                "tuyệt vời"
+            ],
+            "trà đá": [],
+            "thực phẩm đường phố": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "chắc chắn"
+            ],
+            "bữa ăn phở": [],
+            "bánh mì": [],
+            "bún chả lẩu": [],
+            "đồ chiên": [],
+            "ngân sách": [
+                "hoàn hảo"
+            ],
+            "chuyến tham quan": [
+                "yếu",
+                "đầu tiên",
+                "sâu sắc",
+                "tuyệt vời",
+                "tuyệt vời",
+                "thực sự",
+                "nổi bật"
+            ],
+            "người hướng dẫn": [
+                "trung thực"
+            ],
+            "chất lượng": [
+                "tuyệt vời"
+            ],
+            "môi trường": [
+                "sạch sẽ"
+            ],
+            "ẩm thực việt nam": [
+                "chắc chắn",
+                "sâu sắc",
+                "tuyệt vời"
+            ],
+            "cái bụng": [
+                "trống"
+            ],
+            "văn hóa việt": [
+                "tốt"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời"
+            ],
+            "con phố nhỏ": [],
+            "món ăn ẩn": [],
+            "điểm dừng": [
+                "đầy đủ",
+                "no"
+            ],
+            "người dân địa phương": [
+                "hoàn toàn"
+            ],
+            "sến sẩm": [
+                "thực sự"
+            ],
+            "đồ uống mặn": [
+                "ngọt"
+            ],
+            "cả": [
+                "tuyệt vời"
+            ],
+            "quán cà phê": [
+                "cổ",
+                "đẹp"
+            ],
+            "nguyên liệu": [
+                "khác",
+                "tốt"
+            ],
+            "di sản": [
+                "khác",
+                "tốt"
+            ],
+            "bánh xèo": [
+                "khác",
+                "tốt"
+            ],
+            "văn hóa": [
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "ẩm thực đường phố": [
+                "nổi bật"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "cuộc phiêu lưu": [
+                "giống",
+                "bí mật",
+                "riêng"
+            ],
+            "hội an": [
+                "đủ",
+                "tuyệt vời",
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thức ăn": 1.5,
+            "món ăn đường phố": 1.5,
+            "giá": 0.5,
+            "đồ ăn": 1.5,
+            "nhà hàng": 0.5,
+            "bánh": 0.5,
+            "đường phố": 0.5,
+            "quầy bar": 0.5,
+            "khoai tây": 0.5,
+            "cốt": 0.5,
+            "khoai tây chiên phô mai": 0.5,
+            "bánh pizza": 0.5,
+            "ốc quế": 0.5,
+            "bầu không khí": 1.0,
+            "tivi": 0.5,
+            "trận đấu": 0.5,
+            "món ăn": 1.5,
+            "cà phê phở": 0.5,
+            "thức ăn đường phố": 0.5,
+            "rau tươi": 0.5,
+            "bữa ăn": 0.5,
+            "bun-cha phở": 0.5,
+            "ga 2 món": 0.5,
+            "với hương": 0.5,
+            "thực phẩm": 1.0,
+            "đồ ăn cà phê": 0.5,
+            "cà phê": 0.5,
+            "cà phê trứng": 1.5,
+            "trà đá": 0.5,
+            "thực phẩm đường phố": 0.5,
+            "trải nghiệm": 1.5,
+            "bữa ăn phở": 0.5,
+            "bánh mì": 0.5,
+            "bún chả lẩu": 0.5,
+            "đồ chiên": 0.5,
+            "ngân sách": 0.5,
+            "chuyến tham quan": 1.5,
+            "người hướng dẫn": 0.5,
+            "chất lượng": 0.5,
+            "môi trường": 0.5,
+            "ẩm thực việt nam": 0.5,
+            "cái bụng": 0.5,
+            "văn hóa việt": 0.5,
+            "hướng dẫn viên": 0.5,
+            "con phố nhỏ": 0.5,
+            "món ăn ẩn": 0.5,
+            "điểm dừng": 0.5,
+            "người dân địa phương": 0.5,
+            "sến sẩm": 0.5,
+            "đồ uống mặn": 0.5,
+            "cả": 0.5,
+            "quán cà phê": 0.5,
+            "nguyên liệu": 0.5,
+            "di sản": 0.5,
+            "bánh xèo": 0.5,
+            "văn hóa": 0.5,
+            "ẩm thực đường phố": 0.5,
+            "chuyến đi": 0.5,
+            "cuộc phiêu lưu": 0.5,
+            "hội an": 0.5
+        }
     },
     {
         "attraction_name": "Street Food Hanoi",
@@ -328,7 +1250,364 @@
             "https://www.tripadvisor.com/Attraction_Review-g32735-d4491504-Reviews-Shops_at_Montebello-Montebello_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-or40-Street_Food_Hanoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-or30-Street_Food_Hanoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-or30-Street_Food_Hanoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khu phố cổ": 0.9946303589968011,
+            "ẩm thực đường phố": 0.2544465462657778,
+            "sản phẩm": -0.90781787969172,
+            "giá": -0.24234777223318815,
+            "thức ăn": 0.7477912241884042,
+            "đường phố": 0.5,
+            "bếp": 0.5,
+            "hang bạc": 0.5,
+            "cạm bẫy": 0.5,
+            "món ăn đường phố": 0.9936365479370579,
+            "nhà hàng": 0.7590781486127526,
+            "món ăn": 0.6834932629180711,
+            "chuyến tham quan": 0.5797902071441058,
+            "nhà bếp": 0.0377590898424387,
+            "người dân địa phương": 0.723022279329598,
+            "quầy hàng": 0.5,
+            "ẩm thực": 0.5,
+            "kén ăn": 0.37975433468818665,
+            "bánh cuốn thịt": 0.5,
+            "bánh tráng": 0.5,
+            "bun cha": 0.9956090967752971,
+            "snack": 0.8737691454589367,
+            "bò": 0.8737691454589367,
+            "bia chả giò": 0.8737691454589367,
+            "bun bo nam bo": 0.8737691454589367,
+            "cà phê trứng": 0.8737691454589367,
+            "đồ ăn": 0.9956076691742055,
+            "nhân viên": 0.9946215158561245,
+            "khách sạn": 0.5,
+            "khu phố cổ la": 0.5,
+            "hướng dẫn viên": 0.6868845727294683,
+            "bữa ăn": 0.5535020376555622,
+            "quán cà phê": 0.5,
+            "đồng tiền": 0.9955225717858411,
+            "thức ăn đường phố": -0.9339085007086396,
+            "tiền tệ": -0.9750567357987165,
+            "cửa hàng": 0.5,
+            "quán ăn": 0.5279109925031662,
+            "người bán hàng": 0.35594846215099096,
+            "bàn ghế nhựa": 0.3874616287648678,
+            "thực phẩm địa phương": 0.12745430506765842,
+            "món phở việt": 0.8737691454589367,
+            "món trứng": 0.5,
+            "vịt": 0.5,
+            "hột vịt": 0.5,
+            "quả trứng": 0.5294415690004826,
+            "bánh rán": -0.48261748254299164,
+            "phố": 0.5,
+            "hàng bạc": 0.5,
+            "quán áo thun": 0.5,
+            "cà": 0.5,
+            "rốt mộc nhĩ": 0.5,
+            "thịt heo bằm": 0.5,
+            "phố nơi": -0.521075464785099,
+            "quần áo": -0.9748610026435927,
+            "món tráng miệng": 0.5544252013787627,
+            "mùa đông": 0.6036975085735321,
+            "bánh bao nếp nhân mè": 0.5477623343467712,
+            "xi-rô": 0.5,
+            "gừng": 0.5,
+            "ngọt": 0.5,
+            "ly thạch cỏ": -0.013259269064292312,
+            "siro": 0.5,
+            "hoa nhài": 0.5,
+            "hạt sen": 0.5,
+            "sức khỏe": 0.5,
+            "hàm lượng": 0.5,
+            "tour du lịch": 0.5,
+            "ẩm thực đi bộ": 0.5,
+            "vực ăn": 0.5,
+            "sa mạc": 0.5,
+            "cà phê": 0.5,
+            "âm nhạc": 0.5
+        },
+        "dicts_adj": {
+            "khu phố cổ": [
+                "thực sự"
+            ],
+            "ẩm thực đường phố": [
+                "tệ",
+                "đầu tiên",
+                "thoải mái",
+                "nhỏ"
+            ],
+            "sản phẩm": [
+                "thấp"
+            ],
+            "giá": [
+                "khác",
+                "cẩn thận",
+                "cao"
+            ],
+            "thức ăn": [
+                "tươi",
+                "ngon"
+            ],
+            "đường phố": [],
+            "bếp": [],
+            "hang bạc": [],
+            "cạm bẫy": [],
+            "món ăn đường phố": [
+                "đủ",
+                "can đảm"
+            ],
+            "nhà hàng": [
+                "thực sự",
+                "ngon",
+                "nhiều",
+                "hơn",
+                "trung bình",
+                "nóng hổi",
+                "ngon",
+                "hơn"
+            ],
+            "món ăn": [
+                "thực sự",
+                "ngon",
+                "nhiều",
+                "hơn",
+                "trung bình",
+                "tươi",
+                "ngon",
+                "hữu ích",
+                "dễ dàng",
+                "hơn",
+                "nhiều",
+                "khác",
+                "phổ biến"
+            ],
+            "chuyến tham quan": [
+                "đầu tiên",
+                "thoải mái",
+                "nhỏ",
+                "đói",
+                "nhiều"
+            ],
+            "nhà bếp": [
+                "khác"
+            ],
+            "người dân địa phương": [
+                "tốt"
+            ],
+            "quầy hàng": [],
+            "ẩm thực": [],
+            "kén ăn": [],
+            "bánh cuốn thịt": [],
+            "bánh tráng": [],
+            "bun cha": [
+                "tuyệt vời"
+            ],
+            "snack": [
+                "cuối cùng",
+                "khó chịu",
+                "thú vị",
+                "kém"
+            ],
+            "bò": [
+                "cuối cùng",
+                "khó chịu",
+                "thú vị",
+                "kém"
+            ],
+            "bia chả giò": [
+                "cuối cùng",
+                "khó chịu",
+                "thú vị",
+                "kém"
+            ],
+            "bun bo nam bo": [
+                "cuối cùng",
+                "khó chịu",
+                "thú vị",
+                "kém"
+            ],
+            "cà phê trứng": [
+                "cuối cùng",
+                "khó chịu",
+                "thú vị",
+                "kém"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "nhân viên": [
+                "hữu ích"
+            ],
+            "khách sạn": [],
+            "khu phố cổ la": [],
+            "hướng dẫn viên": [
+                "tuyệt vời"
+            ],
+            "bữa ăn": [
+                "nhiều"
+            ],
+            "quán cà phê": [],
+            "đồng tiền": [
+                "thực sự"
+            ],
+            "thức ăn đường phố": [
+                "truyền thống",
+                "hơn",
+                "may",
+                "trẻ",
+                "nhanh chóng"
+            ],
+            "tiền tệ": [
+                "bối rối"
+            ],
+            "cửa hàng": [],
+            "quán ăn": [
+                "nhỏ"
+            ],
+            "người bán hàng": [
+                "nhỏ",
+                "dọc"
+            ],
+            "bàn ghế nhựa": [
+                "nhỏ",
+                "dọc"
+            ],
+            "thực phẩm địa phương": [
+                "nhiều",
+                "đông đúc"
+            ],
+            "món phở việt": [
+                "nhiều"
+            ],
+            "món trứng": [],
+            "vịt": [],
+            "hột vịt": [],
+            "quả trứng": [
+                "dễ dàng",
+                "nhỏ"
+            ],
+            "bánh rán": [
+                "trẻ",
+                "chuyên",
+                "cao"
+            ],
+            "phố": [],
+            "hàng bạc": [],
+            "quán áo thun": [],
+            "cà": [],
+            "rốt mộc nhĩ": [],
+            "thịt heo bằm": [],
+            "phố nơi": [
+                "sống động"
+            ],
+            "quần áo": [
+                "sống động"
+            ],
+            "món tráng miệng": [
+                "xanh"
+            ],
+            "mùa đông": [
+                "xanh"
+            ],
+            "bánh bao nếp nhân mè": [
+                "xanh"
+            ],
+            "xi-rô": [],
+            "gừng": [],
+            "ngọt": [],
+            "ly thạch cỏ": [
+                "lạnh",
+                "đen"
+            ],
+            "siro": [],
+            "hoa nhài": [],
+            "hạt sen": [],
+            "sức khỏe": [],
+            "hàm lượng": [],
+            "tour du lịch": [],
+            "ẩm thực đi bộ": [],
+            "vực ăn": [],
+            "sa mạc": [],
+            "cà phê": [],
+            "âm nhạc": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khu phố cổ": 0.5,
+            "ẩm thực đường phố": 2.0,
+            "sản phẩm": 0.5,
+            "giá": 1.0,
+            "thức ăn": 1.0,
+            "đường phố": 1.0,
+            "bếp": 0.5,
+            "hang bạc": 0.5,
+            "cạm bẫy": 0.5,
+            "món ăn đường phố": 0.5,
+            "nhà hàng": 1.5,
+            "món ăn": 1.5,
+            "chuyến tham quan": 2.0,
+            "nhà bếp": 0.5,
+            "người dân địa phương": 1.0,
+            "quầy hàng": 0.5,
+            "ẩm thực": 0.5,
+            "kén ăn": 0.5,
+            "bánh cuốn thịt": 0.5,
+            "bánh tráng": 0.5,
+            "bun cha": 0.5,
+            "snack": 0.5,
+            "bò": 0.5,
+            "bia chả giò": 0.5,
+            "bun bo nam bo": 0.5,
+            "cà phê trứng": 0.5,
+            "đồ ăn": 0.5,
+            "nhân viên": 0.5,
+            "khách sạn": 1.0,
+            "khu phố cổ la": 0.5,
+            "hướng dẫn viên": 1.0,
+            "bữa ăn": 1.0,
+            "quán cà phê": 0.5,
+            "đồng tiền": 0.5,
+            "thức ăn đường phố": 0.5,
+            "tiền tệ": 0.5,
+            "cửa hàng": 0.5,
+            "quán ăn": 0.5,
+            "người bán hàng": 0.5,
+            "bàn ghế nhựa": 0.5,
+            "thực phẩm địa phương": 0.5,
+            "món phở việt": 0.5,
+            "món trứng": 0.5,
+            "vịt": 0.5,
+            "hột vịt": 0.5,
+            "quả trứng": 0.5,
+            "bánh rán": 0.5,
+            "phố": 0.5,
+            "hàng bạc": 0.5,
+            "quán áo thun": 0.5,
+            "cà": 0.5,
+            "rốt mộc nhĩ": 0.5,
+            "thịt heo bằm": 0.5,
+            "phố nơi": 0.5,
+            "quần áo": 0.5,
+            "món tráng miệng": 0.5,
+            "mùa đông": 0.5,
+            "bánh bao nếp nhân mè": 0.5,
+            "xi-rô": 0.5,
+            "gừng": 0.5,
+            "ngọt": 0.5,
+            "ly thạch cỏ": 0.5,
+            "siro": 0.5,
+            "hoa nhài": 0.5,
+            "hạt sen": 0.5,
+            "sức khỏe": 0.5,
+            "hàm lượng": 0.5,
+            "tour du lịch": 0.5,
+            "ẩm thực đi bộ": 0.5,
+            "vực ăn": 0.5,
+            "sa mạc": 0.5,
+            "cà phê": 0.5,
+            "âm nhạc": 0.5
+        }
     },
     {
         "attraction_name": "Street Food Hanoi",
@@ -412,7 +1691,214 @@
             "https://www.tripadvisor.com/Attraction_Review-g28926-d104844-Reviews-Silverado_Trail-California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-or50-Street_Food_Hanoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-or40-Street_Food_Hanoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-or40-Street_Food_Hanoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "con": 0.5,
+            "côn trùng": 0.5,
+            "thức ăn đường phố": 0.5056998319923878,
+            "thịt có": 0.9955680013517849,
+            "chất lượng": 0.9955811505788006,
+            "thấp -": 0.995464573323261,
+            "bánh mì kẹp": 0.9954065376659855,
+            "thịt nướng": 0.9955063221859746,
+            "món ăn địa phương": 0.8598931822925806,
+            "thực phẩm": 0.8269024880137295,
+            "món ăn": 0.6033469336034614,
+            "người địa phương": 0.43200621102005243,
+            "văn hóa địa phương": 0.5,
+            "món phở": 0.5,
+            "món phở trong ngõ": 0.5,
+            "nhân viên": 0.9955122802057303,
+            "thả lỏng": 0.5,
+            "tận hưởng": 0.5,
+            "thịt rắn-": 0.991489268722944,
+            "tiệc nướng rất": 0.9955464708036743,
+            "chân": 0.5,
+            "trái cây": 0.5,
+            "vị": 0.5,
+            "bánh mì": 0.6868845727294683,
+            "cá ngừ": 0.5,
+            "-": 0.5,
+            "bánh mì truyền thống": 0.5,
+            "banh my nguyen": 0.8768153693526983,
+            "nguyễn hữu": 0.5,
+            "hoàn kiếm": 0.5,
+            "phở": 0.8737691454589367,
+            "điểm dừng": 0.9738626715261489,
+            "vũ trụ": 0.5,
+            "ẩm thực đường phố": 0.5,
+            "món ăn đường phố": 0.976049592718482,
+            "đồ ăn": 0.9784307834052015,
+            "địa điểm ăn uống": 0.747769567213254,
+            "người dân địa phương": 0.5,
+            "khu phố cổ": 0.9579885043203831,
+            "trải nghiệm": 0.8737691454589367,
+            "ẩm thực địa phương": 0.9471004870720208,
+            "bún chả": 0.9954907252104022,
+            "chuyến đi": 0.9674397117923945
+        },
+        "dicts_adj": {
+            "con": [],
+            "côn trùng": [],
+            "thức ăn đường phố": [
+                "phấn khích"
+            ],
+            "thịt có": [
+                "ngon"
+            ],
+            "chất lượng": [
+                "ngon"
+            ],
+            "thấp -": [
+                "ngon"
+            ],
+            "bánh mì kẹp": [
+                "ngon"
+            ],
+            "thịt nướng": [
+                "ngon"
+            ],
+            "món ăn địa phương": [
+                "nhiều",
+                "hơn"
+            ],
+            "thực phẩm": [
+                "khác",
+                "dễ dàng"
+            ],
+            "món ăn": [
+                "thú vị",
+                "tuyệt vời",
+                "nhiều",
+                "nhiều",
+                "khác",
+                "nhiều",
+                "hơn",
+                "nhiều",
+                "hơn",
+                "nhiều",
+                "khác",
+                "hơn"
+            ],
+            "người địa phương": [
+                "tốt",
+                "hơn"
+            ],
+            "văn hóa địa phương": [],
+            "món phở": [],
+            "món phở trong ngõ": [],
+            "nhân viên": [
+                "nóng",
+                "chủ sở hữu",
+                "vui vẻ"
+            ],
+            "thả lỏng": [],
+            "tận hưởng": [],
+            "thịt rắn-": [
+                "ngon"
+            ],
+            "tiệc nướng rất": [
+                "ngon"
+            ],
+            "chân": [],
+            "trái cây": [],
+            "vị": [],
+            "bánh mì": [
+                "tuyệt vời"
+            ],
+            "cá ngừ": [],
+            "-": [],
+            "bánh mì truyền thống": [],
+            "banh my nguyen": [],
+            "nguyễn hữu": [],
+            "hoàn kiếm": [],
+            "phở": [
+                "Nhiều",
+                "nhiều"
+            ],
+            "điểm dừng": [
+                "no"
+            ],
+            "vũ trụ": [],
+            "ẩm thực đường phố": [],
+            "món ăn đường phố": [
+                "nhiều"
+            ],
+            "đồ ăn": [
+                "tốt",
+                "ngon",
+                "rẻ"
+            ],
+            "địa điểm ăn uống": [
+                "ngon"
+            ],
+            "người dân địa phương": [],
+            "khu phố cổ": [
+                "an toàn",
+                "trẻ",
+                "thú vị"
+            ],
+            "trải nghiệm": [
+                "tốt"
+            ],
+            "ẩm thực địa phương": [
+                "tốt"
+            ],
+            "bún chả": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "chắc chắn",
+                "dễ dàng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "con": 0.5,
+            "côn trùng": 0.5,
+            "thức ăn đường phố": 0.5,
+            "thịt có": 0.5,
+            "chất lượng": 0.5,
+            "thấp -": 0.5,
+            "bánh mì kẹp": 0.5,
+            "thịt nướng": 0.5,
+            "món ăn địa phương": 1.0,
+            "thực phẩm": 1.5,
+            "món ăn": 1.0,
+            "người địa phương": 0.5,
+            "văn hóa địa phương": 0.5,
+            "món phở": 0.5,
+            "món phở trong ngõ": 0.5,
+            "nhân viên": 0.5,
+            "thả lỏng": 0.5,
+            "tận hưởng": 0.5,
+            "thịt rắn-": 0.5,
+            "tiệc nướng rất": 0.5,
+            "chân": 0.5,
+            "trái cây": 0.5,
+            "vị": 0.5,
+            "bánh mì": 1.0,
+            "cá ngừ": 0.5,
+            "-": 0.5,
+            "bánh mì truyền thống": 0.5,
+            "banh my nguyen": 0.5,
+            "nguyễn hữu": 0.5,
+            "hoàn kiếm": 0.5,
+            "phở": 0.5,
+            "điểm dừng": 0.5,
+            "vũ trụ": 0.5,
+            "ẩm thực đường phố": 0.5,
+            "món ăn đường phố": 0.5,
+            "đồ ăn": 1.0,
+            "địa điểm ăn uống": 1.0,
+            "người dân địa phương": 0.5,
+            "khu phố cổ": 0.5,
+            "trải nghiệm": 0.5,
+            "ẩm thực địa phương": 0.5,
+            "bún chả": 0.5,
+            "chuyến đi": 1.0
+        }
     },
     {
         "attraction_name": "Street Food Hanoi",
@@ -496,7 +1982,227 @@
             "https://www.tripadvisor.com/Attraction_Review-g297697-d2432306-Reviews-Ground_Zero_Monument-Kuta_Kuta_District_Bali.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-or60-Street_Food_Hanoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-or50-Street_Food_Hanoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-or50-Street_Food_Hanoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.6856033103152489,
+            "hướng dẫn viên": 0.6868845727294683,
+            "đồ ăn": 0.9888631028588861,
+            "giá cả": 0.8992425436154008,
+            "món ăn": 0.9953522247960791,
+            "thức ăn đường phố": 0.9895048988983035,
+            "quán bún chả": 0.5256284065544605,
+            "ghế đẩu": 0.55936557178696,
+            "giá": -0.9670957389753312,
+            "trải nghiệm": 0.7476871592079988,
+            "món ăn đường phố": 0.7477506558061577,
+            "chủ gian hàng": 0.9947761928196996,
+            "họ nấu ăn": 0.5,
+            "hướng dẫn viên địa phương": 0.8737691454589367,
+            "con phố": 0.6162571646273136,
+            "điểm dừng": 0.9955032386933453,
+            "địa điểm": 0.5,
+            "thức ăn": 0.39037165482295677,
+            "phố cổ": 0.5557307582348585,
+            "bàn ghế nhựa": -0.23653515707701445,
+            "thịt bò": 0.6868845727294683,
+            "rau": 0.6651736161438748,
+            "bánh mì baguette": 0.9951593460282311,
+            "đồ ăn sẵn có": 0.7578891515731812,
+            "người hướng dẫn": 0.9599574659951031,
+            "món ngon địa phương": 0.5,
+            "bún chả": 0.5,
+            "bánh mì cà phê trứng chả giò": 0.5,
+            "bánh gối": 0.5,
+            "trái cây": 0.768343331059441,
+            "tráng miệng": -0.9616021835827269,
+            "lượng": 0.5,
+            "thực phẩm": 0.7477689560619183,
+            "họ": 0.5,
+            "thịt gà": 0.5,
+            "thịt lợn": 0.5,
+            "cuộc phiêu lưu": 0.991314226295799,
+            "chuyến đi": 0.5,
+            "người dân địa phương": 0.5,
+            "thịt tươi": 0.5,
+            "hải sản": 0.5,
+            "gia vị": 0.5,
+            "cà phê": 0.9892134878318757,
+            "mật": 0.5,
+            "đêm": 0.9955019925255328
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "cuối cùng",
+                "riêng",
+                "sớm"
+            ],
+            "hướng dẫn viên": [
+                "vui vẻ",
+                "nhiều"
+            ],
+            "đồ ăn": [
+                "tuyệt vời",
+                "nhiều",
+                "hơn"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "hoàn toàn",
+                "khác",
+                "hợp lý"
+            ],
+            "món ăn": [
+                "tuyệt vời",
+                "đa dạng"
+            ],
+            "thức ăn đường phố": [
+                "thực sự"
+            ],
+            "quán bún chả": [
+                "nhỏ"
+            ],
+            "ghế đẩu": [
+                "nhỏ",
+                "đỏ",
+                "ấm áp",
+                "ngon no",
+                "nhỏ"
+            ],
+            "giá": [
+                "lớn"
+            ],
+            "trải nghiệm": [
+                "thực sự",
+                "tốt",
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "món ăn đường phố": [
+                "ngon"
+            ],
+            "chủ gian hàng": [
+                "vui vẻ"
+            ],
+            "họ nấu ăn": [],
+            "hướng dẫn viên địa phương": [
+                "tuyệt vời"
+            ],
+            "con phố": [
+                "đông đúc"
+            ],
+            "điểm dừng": [
+                "tuyệt vời"
+            ],
+            "địa điểm": [],
+            "thức ăn": [
+                "rẻ",
+                "nhiều",
+                "nóng",
+                "nóng"
+            ],
+            "phố cổ": [
+                "nhỏ"
+            ],
+            "bàn ghế nhựa": [
+                "nhỏ"
+            ],
+            "thịt bò": [
+                "tuyệt vời"
+            ],
+            "rau": [
+                "tuyệt vời"
+            ],
+            "bánh mì baguette": [
+                "tuyệt vời"
+            ],
+            "đồ ăn sẵn có": [
+                "khác"
+            ],
+            "người hướng dẫn": [
+                "dễ chịu"
+            ],
+            "món ngon địa phương": [],
+            "bún chả": [],
+            "bánh mì cà phê trứng chả giò": [],
+            "bánh gối": [],
+            "trái cây": [
+                "nhiều",
+                "khác"
+            ],
+            "tráng miệng": [
+                "nhiều",
+                "khác"
+            ],
+            "lượng": [],
+            "thực phẩm": [
+                "cuối cùng"
+            ],
+            "họ": [],
+            "thịt gà": [],
+            "thịt lợn": [],
+            "cuộc phiêu lưu": [
+                "nổi bật"
+            ],
+            "chuyến đi": [],
+            "người dân địa phương": [],
+            "thịt tươi": [],
+            "hải sản": [],
+            "gia vị": [],
+            "cà phê": [
+                "bí mật"
+            ],
+            "mật": [],
+            "đêm": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 1.5,
+            "hướng dẫn viên": 1.0,
+            "đồ ăn": 0.5,
+            "giá cả": 1.0,
+            "món ăn": 0.5,
+            "thức ăn đường phố": 0.5,
+            "quán bún chả": 0.5,
+            "ghế đẩu": 1.0,
+            "giá": 0.5,
+            "trải nghiệm": 2.0,
+            "món ăn đường phố": 1.0,
+            "chủ gian hàng": 0.5,
+            "họ nấu ăn": 0.5,
+            "hướng dẫn viên địa phương": 0.5,
+            "con phố": 0.5,
+            "điểm dừng": 0.5,
+            "địa điểm": 0.5,
+            "thức ăn": 1.0,
+            "phố cổ": 0.5,
+            "bàn ghế nhựa": 0.5,
+            "thịt bò": 1.0,
+            "rau": 1.5,
+            "bánh mì baguette": 0.5,
+            "đồ ăn sẵn có": 0.5,
+            "người hướng dẫn": 0.5,
+            "món ngon địa phương": 0.5,
+            "bún chả": 0.5,
+            "bánh mì cà phê trứng chả giò": 0.5,
+            "bánh gối": 0.5,
+            "trái cây": 0.5,
+            "tráng miệng": 0.5,
+            "lượng": 0.5,
+            "thực phẩm": 1.0,
+            "họ": 0.5,
+            "thịt gà": 0.5,
+            "thịt lợn": 0.5,
+            "cuộc phiêu lưu": 0.5,
+            "chuyến đi": 0.5,
+            "người dân địa phương": 0.5,
+            "thịt tươi": 0.5,
+            "hải sản": 0.5,
+            "gia vị": 0.5,
+            "cà phê": 0.5,
+            "mật": 0.5,
+            "đêm": 0.5
+        }
     },
     {
         "attraction_name": "Street Food Hanoi",
@@ -580,7 +2286,205 @@
             "https://www.tripadvisor.com/Attraction_Review-g295370-d12589033-Reviews-SNAV-Split_Split_Dalmatia_County_Dalmatia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-or70-Street_Food_Hanoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-or60-Street_Food_Hanoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-or60-Street_Food_Hanoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ẩm thực đường phố": 0.8737691454589367,
+            "món ăn": 0.8412898112259831,
+            "bún chả": 0.9951147058745846,
+            "chuyến tham quan": 0.5,
+            "hướng dẫn viên": 0.827445061741552,
+            "trải nghiệm": 0.7476464714854956,
+            "món ăn đường phố": 0.9346609946223907,
+            "quán cà phê": 0.5,
+            "vỉa hè": 0.5,
+            "người dân": 0.30798918940126896,
+            "khách sạn du lịch": -0.6877691587433219,
+            "ẩm thực": 0.9950622679510465,
+            "ẩm thực địa phương": 0.5,
+            "giá": 0.5,
+            "hương": 0.5,
+            "tiền": 0.5,
+            "người dân địa phương": -0.942859317176044,
+            "nhà hàng": -0.9731482085771859,
+            "đồ ăn": 0.7633628168841824,
+            "bậc": -0.23715957812964916,
+            "cá": 0.5,
+            "đến": 0.5,
+            "kem": 0.5,
+            "cả": 0.5,
+            "cà phê": 0.5,
+            "bánh ngọt": 0.9930167129205074,
+            "món mì": 0.5,
+            "tour ẩm thực": 0.9919003325048834,
+            "ẩm thực đường": 0.9954983841162175,
+            "đặc sản": 0.5,
+            "khu phố cổ": 0.8737691454589367,
+            "hải sản": 0.9955552517203614,
+            "đồ ăn việt nam": 0.9949411728302948,
+            "bữa trưa": -0.7706026379019022,
+            "thức ăn đường phố": 0.8737691454589367,
+            "sức khỏe": 0.5,
+            "quầy hàng": 0.979647813597694,
+            "thực phẩm": 0.9955463649821468
+        },
+        "dicts_adj": {
+            "ẩm thực đường phố": [
+                "ngon",
+                "nhất",
+                "thơm",
+                "ngon",
+                "đơn giản",
+                "ngon",
+                "nhất",
+                "ngon",
+                "thực sự",
+                "an toàn"
+            ],
+            "món ăn": [
+                "ngon",
+                "nhất",
+                "thơm",
+                "ngon",
+                "nhỏ",
+                "ngon",
+                "nhất",
+                "ngon",
+                "thực sự",
+                "an toàn",
+                "tuyệt vời"
+            ],
+            "bún chả": [
+                "ngon"
+            ],
+            "chuyến tham quan": [],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "ngon"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "món ăn đường phố": [
+                "nhiều",
+                "ngon"
+            ],
+            "quán cà phê": [],
+            "vỉa hè": [],
+            "người dân": [
+                "lớn",
+                "hơn"
+            ],
+            "khách sạn du lịch": [
+                "lớn",
+                "hơn"
+            ],
+            "ẩm thực": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "độc đáo",
+                "khác thường"
+            ],
+            "ẩm thực địa phương": [],
+            "giá": [],
+            "hương": [],
+            "tiền": [],
+            "người dân địa phương": [
+                "đắt"
+            ],
+            "nhà hàng": [
+                "đắt"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "bậc": [],
+            "cá": [],
+            "đến": [],
+            "kem": [],
+            "cả": [],
+            "cà phê": [],
+            "bánh ngọt": [
+                "ngon",
+                "nhất"
+            ],
+            "món mì": [],
+            "tour ẩm thực": [
+                "ngon"
+            ],
+            "ẩm thực đường": [
+                "ngon"
+            ],
+            "đặc sản": [],
+            "khu phố cổ": [
+                "ngon"
+            ],
+            "hải sản": [
+                "nhanh",
+                "tươi",
+                "tuyệt vời"
+            ],
+            "đồ ăn việt nam": [
+                "tuyệt",
+                "thực sự"
+            ],
+            "bữa trưa": [],
+            "thức ăn đường phố": [
+                "khắp",
+                "an toàn",
+                "tốt"
+            ],
+            "sức khỏe": [],
+            "quầy hàng": [
+                "nhiều",
+                "khác"
+            ],
+            "thực phẩm": [
+                "tươi",
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ẩm thực đường phố": 1.5,
+            "món ăn": 1.5,
+            "bún chả": 0.5,
+            "chuyến tham quan": 0.5,
+            "hướng dẫn viên": 1.5,
+            "trải nghiệm": 1.0,
+            "món ăn đường phố": 1.0,
+            "quán cà phê": 0.5,
+            "vỉa hè": 0.5,
+            "người dân": 0.5,
+            "khách sạn du lịch": 0.5,
+            "ẩm thực": 1.5,
+            "ẩm thực địa phương": 0.5,
+            "giá": 0.5,
+            "hương": 0.5,
+            "tiền": 0.5,
+            "người dân địa phương": 0.5,
+            "nhà hàng": 0.5,
+            "đồ ăn": 0.5,
+            "bậc": 0.5,
+            "cá": 0.5,
+            "đến": 0.5,
+            "kem": 0.5,
+            "cả": 0.5,
+            "cà phê": 0.5,
+            "bánh ngọt": 0.5,
+            "món mì": 0.5,
+            "tour ẩm thực": 0.5,
+            "ẩm thực đường": 0.5,
+            "đặc sản": 0.5,
+            "khu phố cổ": 0.5,
+            "hải sản": 0.5,
+            "đồ ăn việt nam": 0.5,
+            "bữa trưa": 0.5,
+            "thức ăn đường phố": 0.5,
+            "sức khỏe": 0.5,
+            "quầy hàng": 0.5,
+            "thực phẩm": 0.5
+        }
     },
     {
         "attraction_name": "Street Food Hanoi",
@@ -662,6 +2566,215 @@
             "https://www.tripadvisor.com/Attraction_Review-g188636-d273960-Reviews-Grote_Markt-Antwerp_Antwerp_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-or80-Street_Food_Hanoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-or70-Street_Food_Hanoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d7897617-Reviews-or70-Street_Food_Hanoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "món ăn đường phố": 0.8128432420780882,
+            "bữa ăn": 0.994942018277167,
+            "đồ ăn": 0.6150861153388784,
+            "vì": 0.5,
+            "ẩm thực đường phố": 0.6723775501401784,
+            "giá cả": 0.9749179650098085,
+            "người dân": 0.9948214809992351,
+            "hải sản": 0.9544302732683718,
+            "nghêu sốt me": 0.9953325654302413,
+            "món ăn địa phương": 0.9944002454479536,
+            "chả giò": 0.544194309040904,
+            "cá": 0.5,
+            "trải nghiệm": 0.9953471721382812,
+            "giá": 0.8737691454589367,
+            "món ăn": 0.5331539950828301,
+            "đồ ăn chỗ": 0.9955613954225555,
+            "chuyến tham quan": 0.667752914208298,
+            "hướng dẫn viên": 0.5,
+            "bữa trưa": 0.5,
+            "đồ ăn đường phố": 0.8457590728066862,
+            "thức ăn": 0.24689586367458105,
+            "quán cà phê": -0.9672421345021576,
+            "pha cà phê": 0.9911282270913944,
+            "bánh tôm nhỏ": 0.5,
+            "tráng miệng": 0.5,
+            "ghế đẩu": 0.5,
+            "ẩm thực": 0.5779627300798893,
+            "khu phố cổ": 0.5,
+            "gian hàng": 0.5,
+            "nhà hàng": 0.5,
+            "khách sạn": 0.5,
+            "chuyến đi": 0.9953127925400622,
+            "quán": 0.23147092387080193,
+            "thức ăn đường phố": 0.9950941070565023,
+            "thực phẩm": -0.9508134485222399,
+            "thịt cơ": 0.5221648085862398,
+            "người hướng dẫn": 0.5460793171077967,
+            "cửa hàng": 0.5691410200670362,
+            "phố ẩm thực": 0.5,
+            "đầu bếp": 0.5,
+            "vị giác": 0.01307036355137825
+        },
+        "dicts_adj": {
+            "món ăn đường phố": [
+                "sạch sẽ",
+                "tốt",
+                "thực sự",
+                "ngon",
+                "khác"
+            ],
+            "bữa ăn": [
+                "thực sự",
+                "ngon",
+                "khác"
+            ],
+            "đồ ăn": [
+                "an toàn",
+                "tốt",
+                "tuyệt vời",
+                "ngon"
+            ],
+            "vì": [],
+            "ẩm thực đường phố": [
+                "an toàn",
+                "tốt",
+                "nhỏ"
+            ],
+            "giá cả": [
+                "phải chăng"
+            ],
+            "người dân": [
+                "nồng hậu"
+            ],
+            "hải sản": [
+                "đặc biệt"
+            ],
+            "nghêu sốt me": [
+                "tươi",
+                "thực sự",
+                "khó"
+            ],
+            "món ăn địa phương": [
+                "tươi",
+                "thực sự",
+                "khó"
+            ],
+            "chả giò": [],
+            "cá": [],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "giá": [
+                "rẻ",
+                "nhiều"
+            ],
+            "món ăn": [
+                "ngon",
+                "Đúng",
+                "khác",
+                "hối hả",
+                "khác",
+                "hối hả"
+            ],
+            "đồ ăn chỗ": [
+                "ngon"
+            ],
+            "chuyến tham quan": [
+                "an toàn",
+                "tốt",
+                "nhỏ"
+            ],
+            "hướng dẫn viên": [],
+            "bữa trưa": [],
+            "đồ ăn đường phố": [
+                "đầu tiên"
+            ],
+            "thức ăn": [
+                "sâu sắc"
+            ],
+            "quán cà phê": [
+                "truyền thống"
+            ],
+            "pha cà phê": [
+                "truyền thống"
+            ],
+            "bánh tôm nhỏ": [],
+            "tráng miệng": [],
+            "ghế đẩu": [],
+            "ẩm thực": [
+                "cùng"
+            ],
+            "khu phố cổ": [],
+            "gian hàng": [],
+            "nhà hàng": [],
+            "khách sạn": [],
+            "chuyến đi": [
+                "tuyệt vời",
+                "nhất"
+            ],
+            "quán": [],
+            "thức ăn đường phố": [
+                "đa dạng",
+                "nhiều"
+            ],
+            "thực phẩm": [
+                "cơ bản"
+            ],
+            "thịt cơ": [
+                "cơ bản"
+            ],
+            "người hướng dẫn": [
+                "cùng",
+                "ngắn gọn"
+            ],
+            "cửa hàng": [],
+            "phố ẩm thực": [],
+            "đầu bếp": [],
+            "vị giác": [
+                "khác",
+                "hối hả"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "món ăn đường phố": 0.5,
+            "bữa ăn": 0.5,
+            "đồ ăn": 2.0,
+            "vì": 0.5,
+            "ẩm thực đường phố": 1.5,
+            "giá cả": 0.5,
+            "người dân": 0.5,
+            "hải sản": 0.5,
+            "nghêu sốt me": 0.5,
+            "món ăn địa phương": 0.5,
+            "chả giò": 1.0,
+            "cá": 0.5,
+            "trải nghiệm": 1.0,
+            "giá": 0.5,
+            "món ăn": 1.0,
+            "đồ ăn chỗ": 0.5,
+            "chuyến tham quan": 1.5,
+            "hướng dẫn viên": 1.0,
+            "bữa trưa": 0.5,
+            "đồ ăn đường phố": 0.5,
+            "thức ăn": 0.5,
+            "quán cà phê": 0.5,
+            "pha cà phê": 0.5,
+            "bánh tôm nhỏ": 0.5,
+            "tráng miệng": 0.5,
+            "ghế đẩu": 0.5,
+            "ẩm thực": 1.0,
+            "khu phố cổ": 0.5,
+            "gian hàng": 0.5,
+            "nhà hàng": 0.5,
+            "khách sạn": 0.5,
+            "chuyến đi": 0.5,
+            "quán": 0.5,
+            "thức ăn đường phố": 0.5,
+            "thực phẩm": 0.5,
+            "thịt cơ": 0.5,
+            "người hướng dẫn": 0.5,
+            "cửa hàng": 0.5,
+            "phố ẩm thực": 0.5,
+            "đầu bếp": 0.5,
+            "vị giác": 0.5
+        }
     }
 ]

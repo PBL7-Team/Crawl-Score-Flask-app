@@ -96,6 +96,130 @@
             "https://www.tripadvisor.com/Attraction_Review-g294013-d4259953-Reviews-National_Cinema-Abu_Dhabi_Emirate_of_Abu_Dhabi.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d4742578-Reviews-Maroon-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d4742578-Reviews-Maroon-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chất lượng": 0.8737691454589367,
+            "sản phẩm": 0.9954899268923327,
+            "cửa hàng": 0.5132282190723344,
+            "đồ gốm": 0.9954472093959339,
+            "phạm vi": 0.8737691454589367,
+            "giá cả": 0.8238980028351458,
+            "nhân viên": 0.8275510867824778,
+            "đồ sơn mài": 0.670855842763558,
+            "đồ sơn": 0.991896397783421,
+            "cạnh tranh": 0.9955028673284687,
+            "dịch vụ": 0.7470784524339251,
+            "mặt hàng quà tặng": 0.5,
+            "khăn": 0.5,
+            "đồ dùng": 0.5,
+            "sừng": 0.5,
+            "trâu nước": 0.5,
+            "mặt hàng": 0.5246793761616573,
+            "phí chuyển phát": 0.8907798752188683,
+            "bưu": 0.9808784257620573,
+            "không khí": 0.8737691454589367,
+            "khăn trải": 0.20814283564686775,
+            "-": 0.5,
+            "hoa văn": 0.5
+        },
+        "dicts_adj": {
+            "chất lượng": [
+                "tuyệt vời"
+            ],
+            "sản phẩm": [
+                "đẹp mắt"
+            ],
+            "cửa hàng": [
+                "tốt",
+                "hơn",
+                "nhỏ",
+                "tuyệt vời",
+                "nhiều",
+                "khác",
+                "dễ chịu"
+            ],
+            "đồ gốm": [
+                "đẹp",
+                "đầu tiên",
+                "tuyệt vời"
+            ],
+            "phạm vi": [
+                "tốt"
+            ],
+            "giá cả": [
+                "tốt",
+                "hợp lý"
+            ],
+            "nhân viên": [
+                "hữu ích",
+                "lịch sự",
+                "xuất sắc"
+            ],
+            "đồ sơn mài": [
+                "tốt",
+                "hơn"
+            ],
+            "đồ sơn": [
+                "Gần"
+            ],
+            "cạnh tranh": [
+                "tốt"
+            ],
+            "dịch vụ": [
+                "tốt"
+            ],
+            "mặt hàng quà tặng": [],
+            "khăn": [],
+            "đồ dùng": [],
+            "sừng": [],
+            "trâu nước": [],
+            "mặt hàng": [
+                "khác",
+                "xuất sắc",
+                "độc đáo"
+            ],
+            "phí chuyển phát": [
+                "nhanh",
+                "cao"
+            ],
+            "bưu": [
+                "NHIỀU"
+            ],
+            "không khí": [
+                "dễ chịu"
+            ],
+            "khăn trải": [
+                "cụ thể"
+            ],
+            "-": [],
+            "hoa văn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chất lượng": 0.5,
+            "sản phẩm": 0.5,
+            "cửa hàng": 1.5,
+            "đồ gốm": 0.5,
+            "phạm vi": 0.5,
+            "giá cả": 1.5,
+            "nhân viên": 1.5,
+            "đồ sơn mài": 0.5,
+            "đồ sơn": 0.5,
+            "cạnh tranh": 0.5,
+            "dịch vụ": 1.0,
+            "mặt hàng quà tặng": 0.5,
+            "khăn": 0.5,
+            "đồ dùng": 0.5,
+            "sừng": 0.5,
+            "trâu nước": 0.5,
+            "mặt hàng": 0.5,
+            "phí chuyển phát": 0.5,
+            "bưu": 0.5,
+            "không khí": 0.5,
+            "khăn trải": 0.5,
+            "-": 0.5,
+            "hoa văn": 0.5
+        }
     }
 ]

@@ -115,7 +115,184 @@
             "https://www.tripadvisor.com/Attraction_Review-g635964-d15688040-Reviews-Ceiba_Ferry_Terminal-Ceiba_Puerto_Rico.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13873401-Reviews-or10-Viet_Aroma_Shop-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13873401-Reviews-Viet_Aroma_Shop-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13873401-Reviews-Viet_Aroma_Shop-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhà hàng": 0.9936123358202167,
+            "phòng": 0.9883068190344299,
+            "nhân viên": 0.989444779464975,
+            "đồ ăn": 0.5,
+            "món ăn": 0.5,
+            "vị trí": 0.5,
+            "khách sạn": 0.7842420563101768,
+            "khu phố cổ": 0.6868845727294683,
+            "cửa hàng": 0.5663321773608914,
+            "quận hoàn kiếm": 0.8737691454589367,
+            "cà phê": 0.8303130103595322,
+            "hạt": 0.9888383594807237,
+            "giá": 0.8314423211850226,
+            "chất lượng": 0.9337505974981468,
+            "sàn": 0.8737691454589367,
+            "nhà": 0.9937732237158343,
+            "ánh sáng": 0.9954794970108196,
+            "sản phẩm": 0.9926716578193009,
+            "trà nặng": 0.2652262281626463,
+            "túi giấy": 0.30850130412727594,
+            "dịch vụ": 0.9799772842670791,
+            "trái cây": 0.6718589868784571,
+            "sấy khô": 0.7448194917524233,
+            "trà cà phê": 0.5,
+            "gia vị": 0.7477815953752724,
+            "hàng": 0.5,
+            "chuyến đi": 0.5,
+            "trà": 0.18058031046530232,
+            "giá cả": 0.9133380720159039
+        },
+        "dicts_adj": {
+            "nhà hàng": [
+                "thân thiện",
+                "bất kỳ",
+                "tuyệt vời"
+            ],
+            "phòng": [
+                "thân thiện",
+                "bất kỳ",
+                "tuyệt vời",
+                "thân thiện",
+                "bất kỳ",
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "bất kỳ",
+                "tuyệt vời",
+                "xuất sắc"
+            ],
+            "đồ ăn": [],
+            "món ăn": [],
+            "vị trí": [],
+            "khách sạn": [
+                "sạch sẽ"
+            ],
+            "khu phố cổ": [
+                "nhiều",
+                "thú vị",
+                "đủ",
+                "tốt đẹp"
+            ],
+            "cửa hàng": [
+                "nhỏ",
+                "khác",
+                "nhỏ",
+                "dễ thương",
+                "nhiều",
+                "nhỏ",
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "quận hoàn kiếm": [
+                "nhỏ"
+            ],
+            "cà phê": [
+                "tốt",
+                "thơm",
+                "ngon",
+                "khác"
+            ],
+            "hạt": [
+                "tốt",
+                "thơm",
+                "ngon"
+            ],
+            "giá": [
+                "cao"
+            ],
+            "chất lượng": [
+                "tốt",
+                "tốt"
+            ],
+            "sàn": [
+                "sạch sẽ"
+            ],
+            "nhà": [
+                "sạch sẽ"
+            ],
+            "ánh sáng": [
+                "đẹp"
+            ],
+            "sản phẩm": [
+                "nhiều"
+            ],
+            "trà nặng": [
+                "nhỏ",
+                "hơn"
+            ],
+            "túi giấy": [
+                "nhỏ",
+                "hơn"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "trái cây": [
+                "thơm",
+                "ngon",
+                "khô"
+            ],
+            "sấy khô": [
+                "thơm",
+                "ngon"
+            ],
+            "trà cà phê": [],
+            "gia vị": [
+                "thơm",
+                "ngon"
+            ],
+            "hàng": [],
+            "chuyến đi": [],
+            "trà": [
+                "thơm",
+                "ngon",
+                "khác"
+            ],
+            "giá cả": [
+                "tốt",
+                "hợp lý"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhà hàng": 0.5,
+            "phòng": 0.5,
+            "nhân viên": 1.0,
+            "đồ ăn": 0.5,
+            "món ăn": 0.5,
+            "vị trí": 0.5,
+            "khách sạn": 0.5,
+            "khu phố cổ": 1.0,
+            "cửa hàng": 2.0,
+            "quận hoàn kiếm": 0.5,
+            "cà phê": 2.0,
+            "hạt": 1.0,
+            "giá": 1.0,
+            "chất lượng": 1.0,
+            "sàn": 0.5,
+            "nhà": 0.5,
+            "ánh sáng": 0.5,
+            "sản phẩm": 0.5,
+            "trà nặng": 0.5,
+            "túi giấy": 0.5,
+            "dịch vụ": 1.0,
+            "trái cây": 1.5,
+            "sấy khô": 1.0,
+            "trà cà phê": 0.5,
+            "gia vị": 1.0,
+            "hàng": 0.5,
+            "chuyến đi": 0.5,
+            "trà": 1.5,
+            "giá cả": 1.0
+        }
     },
     {
         "attraction_name": "Viet Aroma Shop",
@@ -236,7 +413,100 @@
             "https://www.tripadvisor.com/Attraction_Review-g44926-d258061-Reviews-Dickerson_Park_Zoo-Springfield_Missouri.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13873401-Reviews-or20-Viet_Aroma_Shop-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13873401-Reviews-or10-Viet_Aroma_Shop-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13873401-Reviews-or10-Viet_Aroma_Shop-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa hàng": 0.8045404925166318,
+            "cà phê": 0.7676429731072858,
+            "trà": 0.6199331064708531,
+            "gia vị": 0.9765828503295779,
+            "trái cây": 0.5014508776366711,
+            "nhân viên": 0.9346638441493269,
+            "sản phẩm": -0.966109786182642,
+            "xuất xứ": 0.5,
+            "quà tặng": 0.9928538496606052,
+            "cà phê hạt": 0.9922212751116604,
+            "giá": 0.9020466934889555,
+            "mặt hàng": 0.9955469375126995,
+            "chất lượng": 0.5,
+            "thực phẩm": 0.5,
+            "túi thức ăn": 0.9950895725633018,
+            "chuyến thăm": 0.5,
+            "sản phẩm dân tộc": 0.9955419810721651
+        },
+        "dicts_adj": {
+            "cửa hàng": [
+                "nhỏ",
+                "tuyệt vời",
+                "khô",
+                "tuyệt vời"
+            ],
+            "cà phê": [
+                "khô",
+                "cao"
+            ],
+            "trà": [
+                "khô",
+                "tuyệt vời",
+                "cao"
+            ],
+            "gia vị": [
+                "khô"
+            ],
+            "trái cây": [
+                "khô"
+            ],
+            "nhân viên": [
+                "khác",
+                "tuyệt vời"
+            ],
+            "sản phẩm": [
+                "khác"
+            ],
+            "xuất xứ": [],
+            "quà tặng": [
+                "ngọt"
+            ],
+            "cà phê hạt": [
+                "ngọt"
+            ],
+            "giá": [
+                "thấp",
+                "tốt"
+            ],
+            "mặt hàng": [
+                "tuyệt vời"
+            ],
+            "chất lượng": [],
+            "thực phẩm": [],
+            "túi thức ăn": [
+                "tuyệt vời"
+            ],
+            "chuyến thăm": [],
+            "sản phẩm dân tộc": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa hàng": 1.5,
+            "cà phê": 2.0,
+            "trà": 2.0,
+            "gia vị": 0.5,
+            "trái cây": 0.5,
+            "nhân viên": 1.0,
+            "sản phẩm": 0.5,
+            "xuất xứ": 0.5,
+            "quà tặng": 0.5,
+            "cà phê hạt": 0.5,
+            "giá": 1.0,
+            "mặt hàng": 0.5,
+            "chất lượng": 0.5,
+            "thực phẩm": 0.5,
+            "túi thức ăn": 0.5,
+            "chuyến thăm": 0.5,
+            "sản phẩm dân tộc": 0.5
+        }
     },
     {
         "attraction_name": "Viet Aroma Shop",
@@ -357,7 +627,121 @@
             "https://www.tripadvisor.com/Attraction_Review-g298564-d12548684-Reviews-Owl_Family_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13873401-Reviews-or30-Viet_Aroma_Shop-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13873401-Reviews-or20-Viet_Aroma_Shop-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13873401-Reviews-or20-Viet_Aroma_Shop-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cà phê": 0.7462982414363069,
+            "tác phẩm nghệ thuật": 0.93434505793266,
+            "món đồ": 0.9954559603938833,
+            "chủ sở hữu": 0.9932741619995795,
+            "hạt": 0.47218103893101215,
+            "cửa hàng": 0.7503392263897695,
+            "trái cây": 0.8388930577784777,
+            "sấy khô": 0.8125745451834518,
+            "trà": 0.6968213655054569,
+            "sản phẩm": 0.504244849740644,
+            "thảo dược": 0.018859742383938283,
+            "cơ thể": 0.5,
+            "sức khỏe": 0.5,
+            "trà cà phê": 0.9955613105557859,
+            "trung tâm thành phố": 0.5,
+            "vị trí": 0.8737691454589367,
+            "trái cây khô": -0.3739769645035267,
+            "giá": 0.5200613494962454
+        },
+        "dicts_adj": {
+            "cà phê": [
+                "thiếu",
+                "cùng",
+                "ngon",
+                "lớn",
+                "khô",
+                "khác",
+                "tuyệt vời",
+                "cao"
+            ],
+            "tác phẩm nghệ thuật": [
+                "cuối cùng",
+                "khác"
+            ],
+            "món đồ": [
+                "đẹp"
+            ],
+            "chủ sở hữu": [
+                "thân thiện"
+            ],
+            "hạt": [
+                "khô"
+            ],
+            "cửa hàng": [
+                "khác",
+                "tuyệt vời",
+                "vui"
+            ],
+            "trái cây": [
+                "khác",
+                "tuyệt vời"
+            ],
+            "sấy khô": [
+                "khác",
+                "tuyệt vời"
+            ],
+            "trà": [
+                "khác",
+                "tuyệt vời",
+                "cao"
+            ],
+            "sản phẩm": [
+                "khác",
+                "tuyệt vời",
+                "thực sự",
+                "tốt",
+                "tốt"
+            ],
+            "thảo dược": [
+                "khác",
+                "tuyệt vời"
+            ],
+            "cơ thể": [],
+            "sức khỏe": [],
+            "trà cà phê": [
+                "bất kỳ",
+                "ngon",
+                "vui vẻ"
+            ],
+            "trung tâm thành phố": [],
+            "vị trí": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "trái cây khô": [
+                "cao"
+            ],
+            "giá": [
+                "bình thường"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cà phê": 2.0,
+            "tác phẩm nghệ thuật": 0.5,
+            "món đồ": 0.5,
+            "chủ sở hữu": 0.5,
+            "hạt": 0.5,
+            "cửa hàng": 1.5,
+            "trái cây": 0.5,
+            "sấy khô": 0.5,
+            "trà": 1.0,
+            "sản phẩm": 0.5,
+            "thảo dược": 0.5,
+            "cơ thể": 0.5,
+            "sức khỏe": 0.5,
+            "trà cà phê": 0.5,
+            "trung tâm thành phố": 0.5,
+            "vị trí": 0.5,
+            "trái cây khô": 0.5,
+            "giá": 0.5
+        }
     },
     {
         "attraction_name": "Viet Aroma Shop",
@@ -484,7 +868,151 @@
             "https://www.tripadvisor.com/Attraction_Review-g32655-d254736-Reviews-Hollywood_Highland-Los_Angeles_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13873401-Reviews-or40-Viet_Aroma_Shop-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13873401-Reviews-or30-Viet_Aroma_Shop-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13873401-Reviews-or30-Viet_Aroma_Shop-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9954776706290431,
+            "trà": 0.5854001839179546,
+            "hoàng hậu": 0.5,
+            "trà sả": 0.5,
+            "shop": 0.9955570712918416,
+            "cửa hàng": 0.8938163856413059,
+            "dịch vụ": 0.9955284656607546,
+            "trà sữa": 0.5,
+            "trà sen": 0.5,
+            "xoài khô gừng khô": 0.5,
+            "mít khô": 0.5,
+            "dứa khô": 0.9740109897684306,
+            "giá cả": 0.9742430299229454,
+            "cà phê": 0.3344707688859974,
+            "món ăn": -0.9730276024201885,
+            "hương vị quê nhà": 0.5,
+            "hoa": 0.9955082293599844,
+            "nhân viên": 0.7548794093600009,
+            "hạt trái cây": 0.9939980402123183,
+            "sấy khô": 0.9929104171460494,
+            "giá": 0.9920917224953882,
+            "mọi người": 0.8737691454589367,
+            "tách trà": 0.5731114447116852,
+            "sản phẩm": 0.8737691454589367,
+            "chủ sở hữu": 0.5,
+            "quán": 0.8737691454589367,
+            "trung tâm": 0.5,
+            "gia vị": 0.9906089610885829,
+            "trái cây": -0.696505811996758
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "tuyệt vời"
+            ],
+            "trà": [
+                "khác",
+                "ngon",
+                "cao",
+                "khô"
+            ],
+            "hoàng hậu": [],
+            "trà sả": [],
+            "shop": [
+                "nhiều"
+            ],
+            "cửa hàng": [
+                "dễ chịu",
+                "thực sự",
+                "nhiều",
+                "gọn gàng"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "trà sữa": [],
+            "trà sen": [],
+            "xoài khô gừng khô": [],
+            "mít khô": [],
+            "dứa khô": [],
+            "giá cả": [
+                "hoàn toàn",
+                "xứng đáng",
+                "sớm",
+                "hợp lý"
+            ],
+            "cà phê": [
+                "khác",
+                "cao",
+                "khô"
+            ],
+            "món ăn": [
+                "khác"
+            ],
+            "hương vị quê nhà": [],
+            "hoa": [
+                "ngon"
+            ],
+            "nhân viên": [
+                "tốt",
+                "nhất"
+            ],
+            "hạt trái cây": [
+                "cao"
+            ],
+            "sấy khô": [
+                "cao"
+            ],
+            "giá": [
+                "hợp lý"
+            ],
+            "mọi người": [
+                "thực sự"
+            ],
+            "tách trà": [],
+            "sản phẩm": [
+                "tuyệt vời"
+            ],
+            "chủ sở hữu": [],
+            "quán": [
+                "sạch sẽ"
+            ],
+            "trung tâm": [],
+            "gia vị": [
+                "khô"
+            ],
+            "trái cây": [
+                "khô"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 0.5,
+            "trà": 2.0,
+            "hoàng hậu": 0.5,
+            "trà sả": 0.5,
+            "shop": 0.5,
+            "cửa hàng": 1.0,
+            "dịch vụ": 1.0,
+            "trà sữa": 0.5,
+            "trà sen": 0.5,
+            "xoài khô gừng khô": 0.5,
+            "mít khô": 0.5,
+            "dứa khô": 0.5,
+            "giá cả": 1.0,
+            "cà phê": 1.5,
+            "món ăn": 0.5,
+            "hương vị quê nhà": 0.5,
+            "hoa": 0.5,
+            "nhân viên": 1.0,
+            "hạt trái cây": 0.5,
+            "sấy khô": 0.5,
+            "giá": 0.5,
+            "mọi người": 0.5,
+            "tách trà": 0.5,
+            "sản phẩm": 0.5,
+            "chủ sở hữu": 0.5,
+            "quán": 0.5,
+            "trung tâm": 0.5,
+            "gia vị": 0.5,
+            "trái cây": 0.5
+        }
     },
     {
         "attraction_name": "Viet Aroma Shop",
@@ -587,6 +1115,112 @@
             "https://www.tripadvisor.com/Attraction_Review-g293916-d2233580-Reviews-Moon_Bar_Bangkok-Bangkok.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13873401-Reviews-or40-Viet_Aroma_Shop-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13873401-Reviews-or40-Viet_Aroma_Shop-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa hàng": 0.6817892882972956,
+            "trải nghiệm": 0.9953261841437779,
+            "nhân viên": 0.9006726304214681,
+            "quán sáng sủa": 0.9954986803932115,
+            "xoài khô": 0.5,
+            "dâu tây": 0.5,
+            "dâu tằm": 0.5,
+            "quà lưu niệm": 0.5,
+            "giá cả": 0.9758615375030786,
+            "mùi trà": 0.8737691454589367,
+            "mùi cà phê": 0.010137299570487812,
+            "đồ": 0.9682305124588311,
+            "đồ ăn vặt": 0.48281528800725937,
+            "trà": 0.5,
+            "nước": 0.5,
+            "cốt dừa": 0.5,
+            "mùi": 0.9955101441009901,
+            "sản phẩm địa phương": 0.99388579063816,
+            "trà cà phê": 0.9955014410079457,
+            "gia vị": 0.9952618110110052,
+            "giá": 0.9807483516633511
+        },
+        "dicts_adj": {
+            "cửa hàng": [
+                "cuối cùng",
+                "đẹp",
+                "nhiều"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "sạch sẽ"
+            ],
+            "quán sáng sủa": [
+                "thông minh",
+                "đặc biệt",
+                "dễ"
+            ],
+            "xoài khô": [],
+            "dâu tây": [],
+            "dâu tằm": [],
+            "quà lưu niệm": [],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "mùi trà": [
+                "thơm",
+                "nồng"
+            ],
+            "mùi cà phê": [
+                "thơm",
+                "nồng"
+            ],
+            "đồ": [
+                "rẻ"
+            ],
+            "đồ ăn vặt": [
+                "tự nhiên"
+            ],
+            "trà": [],
+            "nước": [],
+            "cốt dừa": [],
+            "mùi": [
+                "thơm"
+            ],
+            "sản phẩm địa phương": [
+                "tốt"
+            ],
+            "trà cà phê": [
+                "tốt"
+            ],
+            "gia vị": [
+                "tốt"
+            ],
+            "giá": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa hàng": 1.5,
+            "trải nghiệm": 1.0,
+            "nhân viên": 1.0,
+            "quán sáng sủa": 0.5,
+            "xoài khô": 0.5,
+            "dâu tây": 0.5,
+            "dâu tằm": 0.5,
+            "quà lưu niệm": 0.5,
+            "giá cả": 0.5,
+            "mùi trà": 0.5,
+            "mùi cà phê": 0.5,
+            "đồ": 0.5,
+            "đồ ăn vặt": 0.5,
+            "trà": 0.5,
+            "nước": 0.5,
+            "cốt dừa": 0.5,
+            "mùi": 0.5,
+            "sản phẩm địa phương": 0.5,
+            "trà cà phê": 0.5,
+            "gia vị": 0.5,
+            "giá": 0.5
+        }
     }
 ]

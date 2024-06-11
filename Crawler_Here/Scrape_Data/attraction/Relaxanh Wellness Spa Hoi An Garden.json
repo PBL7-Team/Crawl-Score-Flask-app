@@ -117,6 +117,135 @@
             "https://www.tripadvisor.com/Attraction_Review-g60608-d4868306-Reviews-49_Black_Sand_Beach-Waikoloa_Kohala_Coast_Island_of_Hawaii_Hawaii.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d27139892-Reviews-Relaxanh_Wellness_Spa_Hoi_An_Garden-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d27139892-Reviews-Relaxanh_Wellness_Spa_Hoi_An_Garden-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "massage": 0.700167556774061,
+            "thảo dược": 0.7407838078215718,
+            "dầu": 0.5220647715032101,
+            "mát-xa": 0.5,
+            "lời chào": 0.9954275773488916,
+            "liệu pháp điều trị": 0.9950412975158542,
+            "nguồn động viên": 0.9884620846714824,
+            "dịch vụ": 0.5379773484827537,
+            "spa": 0.9912552601035713,
+            "phố cổ": 0.5,
+            "chăm sóc sức": 0.5,
+            "túi": 0.963696738705039,
+            "người dân": 0.8737691454589367,
+            "dịch vụ mát-xa thì hoàn hảo": 0.5,
+            "bánh quy": 0.445522490888834,
+            "nhân viên": 0.9223406290868297,
+            "ven biển": 0.9952586216386408,
+            "mát-xa và nó": 0.9955423290957697,
+            "kỹ năng": 0.9911457871494349,
+            "trải nghiệm": 0.9953197262948379,
+            "nhân viên lễ tân": 0.9953202980104834
+        },
+        "dicts_adj": {
+            "massage": [
+                "thư giãn",
+                "tuyệt vời",
+                "tốt",
+                "mạnh mẽ",
+                "tốt"
+            ],
+            "thảo dược": [
+                "riêng"
+            ],
+            "dầu": [
+                "riêng"
+            ],
+            "mát-xa": [],
+            "lời chào": [
+                "nồng nhiệt"
+            ],
+            "liệu pháp điều trị": [
+                "vui",
+                "tốt đẹp",
+                "vui",
+                "tốt đẹp",
+                "vui",
+                "tốt đẹp",
+                "vui",
+                "tốt đẹp",
+                "vui",
+                "tốt đẹp"
+            ],
+            "nguồn động viên": [
+                "hơn",
+                "hơn",
+                "hơn",
+                "hơn",
+                "hơn"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "mạnh mẽ"
+            ],
+            "spa": [
+                "nồng nhiệt"
+            ],
+            "phố cổ": [],
+            "chăm sóc sức": [],
+            "túi": [
+                "lớn"
+            ],
+            "người dân": [
+                "thân thiện",
+                "tốt bụng",
+                "tuyệt vời"
+            ],
+            "dịch vụ mát-xa thì hoàn hảo": [],
+            "bánh quy": [],
+            "nhân viên": [
+                "nồng nhiệt",
+                "quan trọng",
+                "tốt"
+            ],
+            "ven biển": [
+                "nồng nhiệt"
+            ],
+            "mát-xa và nó": [
+                "biết ơn",
+                "đầu tiên",
+                "thú vị",
+                "dễ"
+            ],
+            "kỹ năng": [
+                "tốt",
+                "khuyến khích"
+            ],
+            "trải nghiệm": [
+                "thực sự"
+            ],
+            "nhân viên lễ tân": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "massage": 13.5,
+            "thảo dược": 2,
+            "dầu": 2,
+            "mát-xa": 2,
+            "lời chào": 2,
+            "liệu pháp điều trị": 8.0,
+            "nguồn động viên": 8.0,
+            "dịch vụ": 9.0,
+            "spa": 8.0,
+            "phố cổ": 8.0,
+            "chăm sóc sức": 8.0,
+            "túi": 1.5,
+            "người dân": 1.5,
+            "dịch vụ mát-xa thì hoàn hảo": 1.5,
+            "bánh quy": 1.5,
+            "nhân viên": 2.5,
+            "ven biển": 1.5,
+            "mát-xa và nó": 1.5,
+            "kỹ năng": 1,
+            "trải nghiệm": 1,
+            "nhân viên lễ tân": 1
+        }
     }
 ]

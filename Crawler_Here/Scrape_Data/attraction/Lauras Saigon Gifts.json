@@ -101,6 +101,128 @@
             "https://www.tripadvisor.com/Attraction_Review-g31310-d12794326-Reviews-The_Van_Buren-Phoenix_Arizona.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d26322637-Reviews-Laura_s_Saigon_Gifts-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d26322637-Reviews-Laura_s_Saigon_Gifts-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa hàng": 0.7591026110749226,
+            "dịch vụ": 0.9955423256809203,
+            "khoảng thời gian": 0.9954275636700913,
+            "khu mua sắm": 0.9943832465796731,
+            "đôi dép": 0.5,
+            "rơm": 0.5,
+            "sản phẩm": 0.995484848797787,
+            "giá cả": 0.9806924235017505,
+            "nhân viên": 0.9538161516732847,
+            "quà tặng": 0.5,
+            "quà lưu niệm": 0.9954687047090071,
+            "chuyến đi": 0.5,
+            "hàng hóa": 0.7218953654519282,
+            "thứ": 0.9940582296112552,
+            "cửa hàng lưu niệm": 0.9953215761343017,
+            "kho tàng quà": 0.9941765249241143,
+            "giá": 0.684769805171527,
+            "mặt hàng": 0.5,
+            "vòng tay": 0.9951617217157036,
+            "mũ": 0.9952743336325511,
+            "chất lượng": 0.9954711010213941,
+            "gas": -0.896172612439841
+        },
+        "dicts_adj": {
+            "cửa hàng": [
+                "nhiều",
+                "dễ thương",
+                "cuối cùng"
+            ],
+            "dịch vụ": [
+                "tuyệt",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "khu mua sắm": [
+                "cuối cùng"
+            ],
+            "đôi dép": [],
+            "rơm": [],
+            "sản phẩm": [
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "tuyệt vời",
+                "chắc chắn"
+            ],
+            "nhân viên": [
+                "tốt bụng",
+                "lịch sự",
+                "hữu ích"
+            ],
+            "quà tặng": [],
+            "quà lưu niệm": [
+                "tuyệt vời",
+                "Chắc chắn",
+                "tốt"
+            ],
+            "chuyến đi": [],
+            "hàng hóa": [
+                "tuyệt vời",
+                "chắc chắn"
+            ],
+            "thứ": [
+                "nhiều",
+                "đa dạng",
+                "cao"
+            ],
+            "cửa hàng lưu niệm": [
+                "tuyệt vời"
+            ],
+            "kho tàng quà": [
+                "bất ngờ"
+            ],
+            "giá": [
+                "tốt",
+                "thẳng"
+            ],
+            "mặt hàng": [],
+            "vòng tay": [
+                "tốt"
+            ],
+            "mũ": [
+                "tốt"
+            ],
+            "chất lượng": [
+                "tốt"
+            ],
+            "gas": [
+                "thẳng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa hàng": 2,
+            "dịch vụ": 3,
+            "khoảng thời gian": 1,
+            "khu mua sắm": 1,
+            "đôi dép": 1,
+            "rơm": 1,
+            "sản phẩm": 1,
+            "giá cả": 2,
+            "nhân viên": 3,
+            "quà tặng": 1,
+            "quà lưu niệm": 3,
+            "chuyến đi": 1,
+            "hàng hóa": 1,
+            "thứ": 1,
+            "cửa hàng lưu niệm": 1,
+            "kho tàng quà": 1,
+            "giá": 2,
+            "mặt hàng": 1,
+            "vòng tay": 1,
+            "mũ": 1,
+            "chất lượng": 1,
+            "gas": 1
+        }
     }
 ]

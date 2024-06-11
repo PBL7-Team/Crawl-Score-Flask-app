@@ -81,7 +81,200 @@
             "https://www.tripadvisor.com/Attraction_Review-g293962-d523522-Reviews-Laksala-Colombo_Western_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d10000648-Reviews-or10-Hue_Private_Cars-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d10000648-Reviews-Hue_Private_Cars-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d10000648-Reviews-Hue_Private_Cars-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "lịch sử": 0.9851407504174858,
+            "ngôi mộ": 0.5,
+            "chùa chiền": 0.5,
+            "ăn trưa": 0.9953919275430962,
+            "cà phê": 0.9955807809019461,
+            "khách sạn": 0.5905740851070732,
+            "ăn hàu": 0.5,
+            "bãi biển": 0.5596278278777996,
+            "văn hóa việt nam": 0.6679776236414909,
+            "chuyến đi": 0.8308308048173785,
+            "người lái xe": 0.5070450250059366,
+            "đất nước": 0.9819742676336318,
+            "người dân địa phương": 0.9944057745160535,
+            "người lái xe giỏi": 0.9935835339128971,
+            "nước": 0.5,
+            "đóng chai": 0.5,
+            "điểm tham quan": 0.4314482696354389,
+            "nhà hàng": 0.9934152489295229,
+            "xe": 0.523778167553246,
+            "lăng cô": 0.8737691454589367,
+            "bờ biển": 0.5,
+            "ngồi uống nước dừa": 0.5,
+            "đồ uống": 0.5,
+            "phí tham quan": 0.5,
+            "chuyến tham quan": 0.9949215627663458,
+            "giá": 0.9828026730101556,
+            "hang múa": 0.5,
+            "tràng an": -0.8774661435745656,
+            "thuyền": 0.5168725997209549,
+            "hang động": 0.5,
+            "chàng trai": 0.9954512460972182,
+            "câu chuyện": -0.9095504218712449,
+            "dịch vụ lái xe": 0.9955504864337854,
+            "dịch vụ": 0.9340162153821439,
+            "điểm du lịch": 0.5,
+            "lái xe": 0.9951874295365997,
+            "trải nghiệm": 0.8334847553633153,
+            "quán": 0.5,
+            "vinh": 0.5,
+            "địa điểm": 0.9920147304655984
+        },
+        "dicts_adj": {
+            "lịch sử": [
+                "nhiều"
+            ],
+            "ngôi mộ": [],
+            "chùa chiền": [],
+            "ăn trưa": [
+                "tuyệt vời"
+            ],
+            "cà phê": [
+                "tuyệt vời"
+            ],
+            "khách sạn": [
+                "dọc",
+                "dọc",
+                "hoàn toàn"
+            ],
+            "ăn hàu": [],
+            "bãi biển": [
+                "dọc"
+            ],
+            "văn hóa việt nam": [
+                "sẵn sàng"
+            ],
+            "chuyến đi": [
+                "khác",
+                "tuyệt vời",
+                "nhiều",
+                "nhiều",
+                "dọc",
+                "xinh đẹp",
+                "thực sự",
+                "tuyệt vời",
+                "tuyệt vời",
+                "dài"
+            ],
+            "người lái xe": [
+                "đầu tiên"
+            ],
+            "đất nước": [
+                "nhiều"
+            ],
+            "người dân địa phương": [
+                "tuyệt vời"
+            ],
+            "người lái xe giỏi": [
+                "thân thiện"
+            ],
+            "nước": [],
+            "đóng chai": [],
+            "điểm tham quan": [],
+            "nhà hàng": [
+                "tuyệt vời"
+            ],
+            "xe": [],
+            "lăng cô": [
+                "dọc"
+            ],
+            "bờ biển": [],
+            "ngồi uống nước dừa": [],
+            "đồ uống": [],
+            "phí tham quan": [],
+            "chuyến tham quan": [
+                "thực sự",
+                "dễ dàng",
+                "thân thiện"
+            ],
+            "giá": [],
+            "hang múa": [],
+            "tràng an": [
+                "cao"
+            ],
+            "thuyền": [],
+            "hang động": [],
+            "chàng trai": [
+                "hữu ích",
+                "tốt bụng"
+            ],
+            "câu chuyện": [
+                "khác",
+                "thực sự"
+            ],
+            "dịch vụ lái xe": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "rắc rối"
+            ],
+            "điểm du lịch": [],
+            "lái xe": [
+                "chuyên nghiệp",
+                "lịch sự",
+                "an toàn"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "nhất quán",
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "quán": [],
+            "vinh": [],
+            "địa điểm": [
+                "đẹp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "lịch sử": 1,
+            "ngôi mộ": 1,
+            "chùa chiền": 1,
+            "ăn trưa": 1,
+            "cà phê": 1,
+            "khách sạn": 2.5,
+            "ăn hàu": 1,
+            "bãi biển": 1.5,
+            "văn hóa việt nam": 1,
+            "chuyến đi": 2.5,
+            "người lái xe": 0.5,
+            "đất nước": 0.5,
+            "người dân địa phương": 0.5,
+            "người lái xe giỏi": 0.5,
+            "nước": 0.5,
+            "đóng chai": 0.5,
+            "điểm tham quan": 0.5,
+            "nhà hàng": 0.5,
+            "xe": 0.5,
+            "lăng cô": 0.5,
+            "bờ biển": 0.5,
+            "ngồi uống nước dừa": 0.5,
+            "đồ uống": 0.5,
+            "phí tham quan": 0.5,
+            "chuyến tham quan": 1.5,
+            "giá": 0.5,
+            "hang múa": 0.5,
+            "tràng an": 0.5,
+            "thuyền": 0.5,
+            "hang động": 0.5,
+            "chàng trai": 0.5,
+            "câu chuyện": 0.5,
+            "dịch vụ lái xe": 0.5,
+            "dịch vụ": 1.0,
+            "điểm du lịch": 0.5,
+            "lái xe": 0.5,
+            "trải nghiệm": 1.0,
+            "quán": 0.5,
+            "vinh": 0.5,
+            "địa điểm": 0.5
+        }
     },
     {
         "attraction_name": "Hue Private Cars",
@@ -174,7 +367,129 @@
             "https://www.tripadvisor.com/Attraction_Review-g34439-d19229138-Reviews-The_Museum_of_Illusions-Miami_Beach_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d10000648-Reviews-or20-Hue_Private_Cars-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d10000648-Reviews-or10-Hue_Private_Cars-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d10000648-Reviews-or10-Hue_Private_Cars-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.8330361364409328,
+            "quán": 0.5,
+            "chuyến đi": 0.8269330902174781,
+            "vinh": 0.5747538290917873,
+            "phòng": 0.9949896021571476,
+            "khách sạn": -0.43691303418017924,
+            "xe": 0.993994633667171,
+            "chuyến tham quan": 0.9930452830158174,
+            "dịch vụ": 0.8491314065468032,
+            "cuộc hành trình": 0.8737691454589367,
+            "ngũ hành sơn v": 0.8737691454589367,
+            "nhân viên": 0.7782381447032094,
+            "chuyến du lịch": 0.8731526779010892,
+            "đất nước": 0.9955442630453035,
+            "hướng dẫn viên": 0.9955865906085819,
+            "chiến tranh": 0.5,
+            "lịch sử": 0.5,
+            "vũ": 0.9916938915266655
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời",
+                "nhất quán",
+                "tuyệt vời",
+                "nhất quán",
+                "hài lòng",
+                "khó khăn",
+                "tuyệt vời",
+                "nhất quán",
+                "hài lòng",
+                "khó khăn"
+            ],
+            "quán": [],
+            "chuyến đi": [
+                "nhiều",
+                "tuyệt vời",
+                "tuyệt vời",
+                "cùng",
+                "đầu tiên",
+                "may mắn",
+                "nhiều",
+                "tuyệt vời",
+                "cùng",
+                "an toàn",
+                "vui",
+                "cùng",
+                "chắc chắn",
+                "vui"
+            ],
+            "vinh": [
+                "an toàn"
+            ],
+            "phòng": [
+                "nhanh chóng",
+                "dễ dàng",
+                "đặc biệt"
+            ],
+            "khách sạn": [
+                "đúng",
+                "nhiều"
+            ],
+            "xe": [
+                "đẹp",
+                "sạch sẽ",
+                "sạch",
+                "đẹp"
+            ],
+            "chuyến tham quan": [
+                "vui",
+                "cùng"
+            ],
+            "dịch vụ": [
+                "đúng",
+                "cùng"
+            ],
+            "cuộc hành trình": [
+                "thú vị",
+                "dọc"
+            ],
+            "ngũ hành sơn v": [
+                "thú vị",
+                "dọc"
+            ],
+            "nhân viên": [
+                "chắc chắn",
+                "vui"
+            ],
+            "chuyến du lịch": [],
+            "đất nước": [
+                "xinh đẹp"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt",
+                "tuyệt vời"
+            ],
+            "chiến tranh": [],
+            "lịch sử": [],
+            "vũ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 2.5,
+            "quán": 1.5,
+            "chuyến đi": 3.5,
+            "vinh": 2.5,
+            "phòng": 1.0,
+            "khách sạn": 1.0,
+            "xe": 1.0,
+            "chuyến tham quan": 0.5,
+            "dịch vụ": 2.0,
+            "cuộc hành trình": 0.5,
+            "ngũ hành sơn v": 0.5,
+            "nhân viên": 0.5,
+            "chuyến du lịch": 0.5,
+            "đất nước": 0.5,
+            "hướng dẫn viên": 0.5,
+            "chiến tranh": 0.5,
+            "lịch sử": 0.5,
+            "vũ": 0.5
+        }
     },
     {
         "attraction_name": "Hue Private Cars",
@@ -267,7 +582,145 @@
             "https://www.tripadvisor.com/Attraction_Review-g52841-d3372738-Reviews-Pittsburgh_Improv-Homestead_Pennsylvania.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d10000648-Reviews-or30-Hue_Private_Cars-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d10000648-Reviews-or20-Hue_Private_Cars-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d10000648-Reviews-or20-Hue_Private_Cars-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khách sạn": 0.2011346667422913,
+            "chuyến di chuyển": 0.9954657831112854,
+            "chuyến đi": 0.5622948575764894,
+            "vinh": 0.5747538290917873,
+            "tour du lịch": 0.5,
+            "ẩm thực bằng xe xích lô": 0.5,
+            "hướng dẫn viên": 0.44443701207637787,
+            "thức ăn": 0.8737691454589367,
+            "người hướng dẫn": 0.48087688349187374,
+            "điểm dừng": 0.6076836101710796,
+            "chuyến đi xích lô": 0.5057210512459278,
+            "hoàng thành": 0.8737691454589367,
+            "đèn lồng": 0.983386700740084,
+            "chuyến tham quan": 0.5,
+            "ẩm thực": 0.5,
+            "trải nghiệm": 0.9952805409557186,
+            "dịch vụ": 0.8395503774356459,
+            "chuyến bay": -0.8664593454450369,
+            "xe thì siêu sạch": 0.9954207423143089,
+            "người lái xe": 0.8737691454589367,
+            "ngũ hành": 0.5,
+            "đầm": 0.5,
+            "giá": 0.5225544609129429,
+            "trình điều": 0.9955666501191445
+        },
+        "dicts_adj": {
+            "khách sạn": [
+                "đúng",
+                "sạch sẽ",
+                "thoải mái"
+            ],
+            "chuyến di chuyển": [
+                "nhiều",
+                "tuyệt vời",
+                "riêng"
+            ],
+            "chuyến đi": [
+                "an toàn"
+            ],
+            "vinh": [
+                "an toàn"
+            ],
+            "tour du lịch": [],
+            "ẩm thực bằng xe xích lô": [],
+            "hướng dẫn viên": [
+                "duy nhất"
+            ],
+            "thức ăn": [
+                "tuyệt",
+                "phải"
+            ],
+            "người hướng dẫn": [
+                "tuyệt"
+            ],
+            "điểm dừng": [
+                "nhiều",
+                "hơn",
+                "đầy đủ"
+            ],
+            "chuyến đi xích lô": [
+                "may mắn"
+            ],
+            "hoàng thành": [
+                "thú vị"
+            ],
+            "đèn lồng": [
+                "thú vị"
+            ],
+            "chuyến tham quan": [],
+            "ẩm thực": [],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "vui",
+                "cao",
+                "tuyệt vời",
+                "nhất quán"
+            ],
+            "dịch vụ": [
+                "xuất sắc",
+                "riêng",
+                "xuất sắc",
+                "vui mừng",
+                "cao",
+                "tuyệt vời",
+                "xuất sắc",
+                "nhanh chóng",
+                "lịch sự",
+                "tử tế",
+                "chắc chắn",
+                "xuất sắc"
+            ],
+            "chuyến bay": [
+                "khác",
+                "đặc biệt"
+            ],
+            "xe thì siêu sạch": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "người lái xe": [
+                "tốt"
+            ],
+            "ngũ hành": [],
+            "đầm": [],
+            "giá": [],
+            "trình điều": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khách sạn": 1.5,
+            "chuyến di chuyển": 0.5,
+            "chuyến đi": 3.0,
+            "vinh": 2.5,
+            "tour du lịch": 0.5,
+            "ẩm thực bằng xe xích lô": 0.5,
+            "hướng dẫn viên": 0.5,
+            "thức ăn": 0.5,
+            "người hướng dẫn": 0.5,
+            "điểm dừng": 0.5,
+            "chuyến đi xích lô": 0.5,
+            "hoàng thành": 0.5,
+            "đèn lồng": 0.5,
+            "chuyến tham quan": 0.5,
+            "ẩm thực": 0.5,
+            "trải nghiệm": 1.0,
+            "dịch vụ": 3.0,
+            "chuyến bay": 0.5,
+            "xe thì siêu sạch": 0.5,
+            "người lái xe": 0.5,
+            "ngũ hành": 0.5,
+            "đầm": 0.5,
+            "giá": 0.5,
+            "trình điều": 0.5
+        }
     },
     {
         "attraction_name": "Hue Private Cars",
@@ -355,7 +808,203 @@
             "https://www.tripadvisor.com/Attraction_Review-g3176298-d215733-Reviews-Bavaro_Beach-Bavaro_Punta_Cana_La_Altagracia_Province_Dominican_Republic.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d10000648-Reviews-or40-Hue_Private_Cars-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d10000648-Reviews-or30-Hue_Private_Cars-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d10000648-Reviews-or30-Hue_Private_Cars-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "núi": 0.5,
+            "khách sạn": -0.43093820032663643,
+            "bánh mì": 0.5,
+            "bữa ăn nhẹ": 0.5,
+            "phí": 0.5,
+            "điểm dừng": 0.7118225982412696,
+            "chuyển khoản": 0.7835032176226377,
+            "xe buýt": 0.980669051874429,
+            "ga": 0.5,
+            "xe lửa": 0.5,
+            "bến xe buýt": 0.5,
+            "chuyến đi": 0.9335544023820798,
+            "trải nghiệm": 0.9952446878887713,
+            "vinh": 0.7491794303059578,
+            "dịch vụ": 0.6596598292235285,
+            "giá cả": 0.9947525459574535,
+            "điều hòa": 0.9305243585258722,
+            "họ": 0.9955555593478493,
+            "xe có": 0.5,
+            "người lái xe": 0.6647250893195936,
+            "cảnh quan": 0.5,
+            "con người": 0.5,
+            "núi đá": 0.994114083237946,
+            "chuyển tiền": 0.9953337774786633,
+            "đèo": 0.8737691454589367,
+            "điểm tham quan": 0.5,
+            "hướng dẫn viên": 0.8077312121167779,
+            "lịch sử": 0.486003328114748,
+            "wifi": 0.9954906377533916,
+            "đồ ăn nhẹ": 0.995557009766344,
+            "đồ uống": 0.9954910131928045,
+            "điểm dừng du lịch": 0.9894993916386738,
+            "chuyến thăm ngũ hành sơn": 0.5,
+            "thánh địa mỹ": 0.5,
+            "chương trình tham quan": 0.995289396843873
+        },
+        "dicts_adj": {
+            "núi": [],
+            "khách sạn": [
+                "khắp",
+                "xa xôi"
+            ],
+            "bánh mì": [],
+            "bữa ăn nhẹ": [],
+            "phí": [],
+            "điểm dừng": [],
+            "chuyển khoản": [
+                "Thực sự",
+                "rẻ",
+                "thoải mái"
+            ],
+            "xe buýt": [],
+            "ga": [],
+            "xe lửa": [],
+            "bến xe buýt": [],
+            "chuyến đi": [
+                "nhiều",
+                "tuyệt vời",
+                "khắp",
+                "an toàn",
+                "nhiều",
+                "an toàn",
+                "riêng",
+                "vui",
+                "đẹp",
+                "đẹp",
+                "tuyệt vời",
+                "đẹp",
+                "thân thiện",
+                "an toàn",
+                "thoải mái",
+                "suốt",
+                "đặc biệt",
+                "nhiều",
+                "nhiều",
+                "có thể"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "nhất quán",
+                "tuyệt vời",
+                "nhất quán"
+            ],
+            "vinh": [
+                "an toàn",
+                "an toàn"
+            ],
+            "dịch vụ": [
+                "khắp",
+                "tuyệt vời",
+                "đúng",
+                "hài lòng",
+                "xa xôi",
+                "riêng",
+                "vui",
+                "bất kỳ",
+                "khác"
+            ],
+            "giá cả": [
+                "đúng",
+                "tốt",
+                "hợp lý"
+            ],
+            "điều hòa": [
+                "tốt"
+            ],
+            "họ": [
+                "khắp"
+            ],
+            "xe có": [],
+            "người lái xe": [
+                "giỏi",
+                "an toàn"
+            ],
+            "cảnh quan": [],
+            "con người": [],
+            "núi đá": [
+                "cuối cùng",
+                "cẩm thạch",
+                "đẹp"
+            ],
+            "chuyển tiền": [
+                "giỏi",
+                "an toàn"
+            ],
+            "đèo": [
+                "đẹp"
+            ],
+            "điểm tham quan": [],
+            "hướng dẫn viên": [
+                "khác"
+            ],
+            "lịch sử": [
+                "khác"
+            ],
+            "wifi": [
+                "tuyệt vời",
+                "thú vị"
+            ],
+            "đồ ăn nhẹ": [
+                "tuyệt vời",
+                "thú vị"
+            ],
+            "đồ uống": [
+                "tuyệt vời",
+                "thú vị"
+            ],
+            "điểm dừng du lịch": [
+                "thông thường"
+            ],
+            "chuyến thăm ngũ hành sơn": [],
+            "thánh địa mỹ": [],
+            "chương trình tham quan": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "núi": 0.5,
+            "khách sạn": 1.5,
+            "bánh mì": 0.5,
+            "bữa ăn nhẹ": 0.5,
+            "phí": 0.5,
+            "điểm dừng": 1.0,
+            "chuyển khoản": 0.5,
+            "xe buýt": 0.5,
+            "ga": 0.5,
+            "xe lửa": 0.5,
+            "bến xe buýt": 0.5,
+            "chuyến đi": 3.5,
+            "trải nghiệm": 1.0,
+            "vinh": 1.5,
+            "dịch vụ": 2.5,
+            "giá cả": 0.5,
+            "điều hòa": 0.5,
+            "họ": 0.5,
+            "xe có": 0.5,
+            "người lái xe": 1.5,
+            "cảnh quan": 0.5,
+            "con người": 0.5,
+            "núi đá": 0.5,
+            "chuyển tiền": 0.5,
+            "đèo": 0.5,
+            "điểm tham quan": 0.5,
+            "hướng dẫn viên": 0.5,
+            "lịch sử": 0.5,
+            "wifi": 0.5,
+            "đồ ăn nhẹ": 0.5,
+            "đồ uống": 0.5,
+            "điểm dừng du lịch": 0.5,
+            "chuyến thăm ngũ hành sơn": 0.5,
+            "thánh địa mỹ": 0.5,
+            "chương trình tham quan": 0.5
+        }
     },
     {
         "attraction_name": "Hue Private Cars",
@@ -439,7 +1088,220 @@
             "https://www.tripadvisor.com/Attraction_Review-g45963-d207889-Reviews-Bali_Hai_Golf_Club-Las_Vegas_Nevada.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d10000648-Reviews-or50-Hue_Private_Cars-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d10000648-Reviews-or40-Hue_Private_Cars-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d10000648-Reviews-or40-Hue_Private_Cars-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "phương tiện": 0.6074140686541796,
+            "xe buýt": 0.5135908536612988,
+            "đặt chỗ": 0.993993834941648,
+            "quan": 0.5,
+            "ngũ hành sơn": 0.5,
+            "trải nghiệm": 0.9953407885041088,
+            "xe": 0.9940883059607586,
+            "đầm": 0.9048408940434456,
+            "thực phẩm": 0.5,
+            "điểm dừng": 0.7707655098056421,
+            "ăn hàu": 0.5713220639154315,
+            "ngắm cảnh": 0.7362289214506745,
+            "người lái xe": 0.8554894789316071,
+            "điểm tham quan": -0.9407074416521937,
+            "chuyến lái xe": 0.995527385675814,
+            "mẹo": 0.9836795359151438,
+            "kiến ​​thức địa phương": 0.9514784058555961,
+            "dịch vụ": 0.7477377049217466,
+            "chuyến đi": 0.9955438388278708,
+            "lăng mộ hoàng gia": 0.8737691454589367,
+            "chùa": 0.5,
+            "thuyền": 0.5,
+            "sông hương": 0.8737691454589367,
+            "khách sạn": -0.08005029682276978,
+            "thanh niên": 0.9792443374171853,
+            "chuyến du lịch": -0.903336247894913,
+            "địa điểm": 0.8577608354389668,
+            "lịch sử": 0.5,
+            "chuyến đi bằng": 0.5970688248053193,
+            "phong": 0.8737691454589367,
+            "ga cáp treo": 0.6362649826332927,
+            "bãi biển lăng cô": 0.7407315904274583,
+            "đồ đạc": 0.5,
+            "suối": 0.9946848261170089,
+            "nhà hàng địa phương": 0.9954840434947982,
+            "ăn trưa": 0.9954852687660605,
+            "món ăn": 0.995578886300791,
+            "câu chuyện": 0.9953987963381223,
+            "tuần trăng mật": 0.5,
+            "bánh": 0.9841437327850144,
+            "hoa": 0.9943380427721422
+        },
+        "dicts_adj": {
+            "phương tiện": [
+                "riêng"
+            ],
+            "xe buýt": [
+                "riêng"
+            ],
+            "đặt chỗ": [
+                "dễ dàng",
+                "nhanh chóng",
+                "chuyên nghiệp"
+            ],
+            "quan": [],
+            "ngũ hành sơn": [],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "xe": [
+                "thoải mái",
+                "sạch sẽ",
+                "thoải mái"
+            ],
+            "đầm": [
+                "tốt"
+            ],
+            "thực phẩm": [],
+            "điểm dừng": [
+                "dọc"
+            ],
+            "ăn hàu": [
+                "dọc"
+            ],
+            "ngắm cảnh": [
+                "dọc"
+            ],
+            "người lái xe": [
+                "xuất sắc",
+                "nhiều",
+                "đầu tiên",
+                "tốt"
+            ],
+            "điểm tham quan": [
+                "khác"
+            ],
+            "chuyến lái xe": [
+                "thú vị"
+            ],
+            "mẹo": [
+                "an toàn"
+            ],
+            "kiến ​​thức địa phương": [],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "tuyệt vời"
+            ],
+            "lăng mộ hoàng gia": [
+                "đúng",
+                "riêng"
+            ],
+            "chùa": [],
+            "thuyền": [],
+            "sông hương": [
+                "đúng",
+                "riêng"
+            ],
+            "khách sạn": [
+                "đúng",
+                "sớm",
+                "vui vẻ"
+            ],
+            "thanh niên": [
+                "dễ chịu",
+                "lịch sự",
+                "tốt"
+            ],
+            "chuyến du lịch": [
+                "bất kỳ",
+                "cá nhân",
+                "hơn"
+            ],
+            "địa điểm": [
+                "quan trọng"
+            ],
+            "lịch sử": [],
+            "chuyến đi bằng": [
+                "riêng"
+            ],
+            "phong": [
+                "đầu tiên"
+            ],
+            "ga cáp treo": [],
+            "bãi biển lăng cô": [
+                "cùng"
+            ],
+            "đồ đạc": [],
+            "suối": [
+                "vui"
+            ],
+            "nhà hàng địa phương": [
+                "tuyệt vời"
+            ],
+            "ăn trưa": [
+                "tuyệt vời"
+            ],
+            "món ăn": [
+                "ngon"
+            ],
+            "câu chuyện": [
+                "vui vẻ",
+                "tuyệt vời",
+                "sâu sắc",
+                "hơn"
+            ],
+            "tuần trăng mật": [],
+            "bánh": [
+                "hoàn toàn",
+                "bất ngờ"
+            ],
+            "hoa": [
+                "hoàn toàn",
+                "bất ngờ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "phương tiện": 0.5,
+            "xe buýt": 0.5,
+            "đặt chỗ": 0.5,
+            "quan": 0.5,
+            "ngũ hành sơn": 0.5,
+            "trải nghiệm": 0.5,
+            "xe": 1.0,
+            "đầm": 0.5,
+            "thực phẩm": 0.5,
+            "điểm dừng": 1.0,
+            "ăn hàu": 0.5,
+            "ngắm cảnh": 0.5,
+            "người lái xe": 1.5,
+            "điểm tham quan": 0.5,
+            "chuyến lái xe": 0.5,
+            "mẹo": 0.5,
+            "kiến ​​thức địa phương": 0.5,
+            "dịch vụ": 1.0,
+            "chuyến đi": 0.5,
+            "lăng mộ hoàng gia": 0.5,
+            "chùa": 0.5,
+            "thuyền": 0.5,
+            "sông hương": 0.5,
+            "khách sạn": 1.5,
+            "thanh niên": 0.5,
+            "chuyến du lịch": 0.5,
+            "địa điểm": 0.5,
+            "lịch sử": 0.5,
+            "chuyến đi bằng": 0.5,
+            "phong": 0.5,
+            "ga cáp treo": 0.5,
+            "bãi biển lăng cô": 0.5,
+            "đồ đạc": 0.5,
+            "suối": 0.5,
+            "nhà hàng địa phương": 0.5,
+            "ăn trưa": 0.5,
+            "món ăn": 0.5,
+            "câu chuyện": 0.5,
+            "tuần trăng mật": 0.5,
+            "bánh": 0.5,
+            "hoa": 0.5
+        }
     },
     {
         "attraction_name": "Hue Private Cars",
@@ -519,6 +1381,186 @@
             "https://www.tripadvisor.com/Attraction_Review-g32676-d560725-Reviews-Malibu_Pier-Malibu_California.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d10000648-Reviews-or50-Hue_Private_Cars-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d10000648-Reviews-or50-Hue_Private_Cars-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khách sạn": 0.7461252484063152,
+            "điểm tham quan": 0.2899421975016594,
+            "bãi biển": 0.5,
+            "lan": 0.5,
+            "đèo hải vân": 0.5,
+            "ngũ hành sơn": 0.5,
+            "hang động": 0.5,
+            "đền thờ": 0.5,
+            "chuyến đi": 0.9158616203090383,
+            "người lái xe": 0.79363592795562,
+            "dịch vụ": 0.7944354756909888,
+            "xe hơi": -0.39540545642375946,
+            "trẻ em": 0.5,
+            "chỉ dẫn": 0.9935879913391545,
+            "xe": 0.9061834468027681,
+            "com": 0.9951679909136146,
+            "tay lái siêu": 0.9558198740705848,
+            "tour": 0.9929371426987927,
+            "lịch sử": 0.9954033331596293,
+            "môi trường": 0.9953570773359388,
+            "địa điểm": 0.995343882299494,
+            "món ăn": 0.995578886300791,
+            "dịch vụ lái xe": 0.5,
+            "kỳ nghỉ": 0.6224082307890058,
+            "tấm biển": 0.5,
+            "wifi": 0.5,
+            "địa điểm du lịch": 0.995417300844565,
+            "trải nghiệm": 0.9954538171296008,
+            "địa đạo": 0.9550262966076843,
+            "vịnh mốc": 0.8737691454589367,
+            "cầu sông": 0.8424422778771259,
+            "chuyến đi đông": 0.8737691454589367,
+            "lê quang lộc": 0.9955898962216452
+        },
+        "dicts_adj": {
+            "khách sạn": [
+                "an toàn"
+            ],
+            "điểm tham quan": [
+                "xuất sắc",
+                "nhiều"
+            ],
+            "bãi biển": [],
+            "lan": [],
+            "đèo hải vân": [],
+            "ngũ hành sơn": [],
+            "hang động": [],
+            "đền thờ": [],
+            "chuyến đi": [
+                "chuyên nghiệp",
+                "thú vị",
+                "hữu ích",
+                "nhiều",
+                "gần",
+                "đầu tiên",
+                "đúng",
+                "đúng",
+                "tuyệt vời"
+            ],
+            "người lái xe": [
+                "xuất sắc",
+                "đúng",
+                "xuất sắc",
+                "giỏi",
+                "nhất"
+            ],
+            "dịch vụ": [
+                "sang trọng",
+                "nhiều",
+                "nhiều",
+                "vui tính",
+                "kiên nhẫn",
+                "tuyệt vời",
+                "tuyệt vời",
+                "hữu ích",
+                "tuyệt vời"
+            ],
+            "xe hơi": [
+                "nhỏ"
+            ],
+            "trẻ em": [],
+            "chỉ dẫn": [],
+            "xe": [
+                "rộng rãi",
+                "sạch sẽ",
+                "sạch sẽ"
+            ],
+            "com": [],
+            "tay lái siêu": [],
+            "tour": [
+                "rộng rãi",
+                "sạch sẽ"
+            ],
+            "lịch sử": [
+                "thân thiện",
+                "xuất sắc",
+                "tốt",
+                "cơ bản",
+                "thú vị"
+            ],
+            "môi trường": [
+                "tuyệt vời",
+                "dễ dàng",
+                "thoải mái"
+            ],
+            "địa điểm": [
+                "thú vị"
+            ],
+            "món ăn": [
+                "ngon"
+            ],
+            "dịch vụ lái xe": [],
+            "kỳ nghỉ": [
+                "gần"
+            ],
+            "tấm biển": [],
+            "wifi": [],
+            "địa điểm du lịch": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "địa đạo": [
+                "thú vị",
+                "khác"
+            ],
+            "vịnh mốc": [
+                "riêng"
+            ],
+            "cầu sông": [
+                "thú vị",
+                "khác"
+            ],
+            "chuyến đi đông": [
+                "giỏi",
+                "nhất"
+            ],
+            "lê quang lộc": [
+                "tốt đẹp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khách sạn": 1.0,
+            "điểm tham quan": 0.5,
+            "bãi biển": 1.0,
+            "lan": 0.5,
+            "đèo hải vân": 0.5,
+            "ngũ hành sơn": 0.5,
+            "hang động": 0.5,
+            "đền thờ": 0.5,
+            "chuyến đi": 1.5,
+            "người lái xe": 1.5,
+            "dịch vụ": 1.5,
+            "xe hơi": 0.5,
+            "trẻ em": 0.5,
+            "chỉ dẫn": 0.5,
+            "xe": 1.5,
+            "com": 0.5,
+            "tay lái siêu": 0.5,
+            "tour": 0.5,
+            "lịch sử": 0.5,
+            "môi trường": 0.5,
+            "địa điểm": 0.5,
+            "món ăn": 0.5,
+            "dịch vụ lái xe": 0.5,
+            "kỳ nghỉ": 0.5,
+            "tấm biển": 0.5,
+            "wifi": 0.5,
+            "địa điểm du lịch": 0.5,
+            "trải nghiệm": 0.5,
+            "địa đạo": 0.5,
+            "vịnh mốc": 0.5,
+            "cầu sông": 0.5,
+            "chuyến đi đông": 0.5,
+            "lê quang lộc": 0.5
+        }
     }
 ]

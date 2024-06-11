@@ -92,7 +92,305 @@
             "https://www.tripadvisor.com/Attraction_Review-g1087447-d3217618-Reviews-Attractiepark_Toverland-Sevenum_Limburg_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or10-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.7480023673560936,
+            "đám đông": 0.9897136322688311,
+            "món ăn": 0.39551376629970036,
+            "ẩm thực việt": 0.8737691454589367,
+            "bánh xèo": 0.5,
+            "bánh mì nước mía": 0.5,
+            "quất": 0.5,
+            "kem dừa": 0.5,
+            "hướng dẫn viên": 0.8458222418907099,
+            "chuyến tham quan": 0.7116321342036827,
+            "khoảng thời gian": 0.8268398869937906,
+            "khu": 0.5501464270055294,
+            "cuộc sống": 0.5,
+            "nữ": 0.5,
+            "thành phố": 0.9333149234298617,
+            "cuộc sống thành phố": 0.9954035602277145,
+            "com": 0.5,
+            "nụ hôn": 0.5,
+            "lẽ": 0.9954079449526034,
+            "tour du lịch địa phương": 0.9953809911385179,
+            "tour": 0.9897546287684236,
+            "xe đạp": 0.5,
+            "quầy hàng thực phẩm địa phương": 0.9941724445670843,
+            "cà phê": 0.9955314219114371,
+            "quán cà phê": 0.09619042082340457,
+            "ngôi đền": 0.5252229254692793,
+            "nhà thờ": 0.8737691454589367,
+            "chợ hoa": 0.8163755058259187,
+            "căn hộ": -0.15129478182643652,
+            "người dân địa phương": 0.5,
+            "cơm": 0.5,
+            "thịt nướng": 0.5,
+            "chợ": 0.8737691454589367,
+            "taho": 0.7803793754428625,
+            "chuyến đi": 0.9494503960158909,
+            "thắng cảnh": 0.9953557343687862,
+            "xếp hạng": 0.9906157453078777,
+            "nền tảng": 0.5074680987745523,
+            "đất nước": 0.9931083970004693,
+            "món ăn đường phố": 0.747672425408382,
+            "sa mạc": 0.5,
+            "chuyến thăm": 0.5,
+            "chuyến du lịch": 0.9953884899732657,
+            "văn hóa địa phương": 0.5,
+            "bẫy du lịch": 0.7495209702174179,
+            "thắc mắc": 0.5,
+            "chỗ": 0.5,
+            "đội ngũ": 0.5,
+            "tour du lịch": 0.9851599705871195,
+            "tay đua": 0.9954172855359502,
+            "sản": 0.9802669864147902,
+            "xe máy": -0.8461949098855257,
+            "người hâm mộ": 0.5336115621030331,
+            "hải sản": 0.6771000269800425
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời",
+                "khó",
+                "nhiều",
+                "tuyệt vời",
+                "nhiều",
+                "tuyệt vời",
+                "vui",
+                "thú vị",
+                "cùng",
+                "thực sự",
+                "tốt",
+                "tuyệt vời",
+                "tuyệt vời",
+                "chính xác",
+                "tự hào",
+                "bất ngờ",
+                "linh hoạt",
+                "nổi tiếng"
+            ],
+            "đám đông": [
+                "nhiều"
+            ],
+            "món ăn": [
+                "ngon",
+                "khác",
+                "tuyệt vời"
+            ],
+            "ẩm thực việt": [
+                "nhiều"
+            ],
+            "bánh xèo": [],
+            "bánh mì nước mía": [],
+            "quất": [],
+            "kem dừa": [],
+            "hướng dẫn viên": [
+                "chuyên nghiệp",
+                "sớm",
+                "hơn",
+                "thực sự",
+                "cao",
+                "ấm áp",
+                "hoàn toàn",
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "chuyến tham quan": [
+                "vui",
+                "tốt",
+                "suốt",
+                "sớm",
+                "hơn",
+                "thực sự",
+                "cao",
+                "cùng",
+                "cùng",
+                "tuyệt khi",
+                "thú vị",
+                "ấm áp",
+                "khó",
+                "khó"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời",
+                "nhất",
+                "tuyệt vời",
+                "cùng",
+                "tuyệt vời"
+            ],
+            "khu": [
+                "khác"
+            ],
+            "cuộc sống": [],
+            "nữ": [],
+            "thành phố": [
+                "vui",
+                "tự hào",
+                "ấm áp"
+            ],
+            "cuộc sống thành phố": [
+                "tuyệt khi",
+                "thực sự"
+            ],
+            "com": [],
+            "nụ hôn": [],
+            "lẽ": [
+                "tuyệt"
+            ],
+            "tour du lịch địa phương": [
+                "tuyệt"
+            ],
+            "tour": [
+                "chuyên nghiệp",
+                "vui mừng"
+            ],
+            "xe đạp": [],
+            "quầy hàng thực phẩm địa phương": [
+                "ngon"
+            ],
+            "cà phê": [
+                "ngon"
+            ],
+            "quán cà phê": [
+                "lâu đời",
+                "nhất"
+            ],
+            "ngôi đền": [
+                "cuối cùng"
+            ],
+            "nhà thờ": [
+                "ngon"
+            ],
+            "chợ hoa": [
+                "tuyệt vời",
+                "nhất",
+                "gần",
+                "thú vị"
+            ],
+            "căn hộ": [
+                "lâu đời",
+                "nhất"
+            ],
+            "người dân địa phương": [],
+            "cơm": [],
+            "thịt nướng": [],
+            "chợ": [
+                "gần"
+            ],
+            "taho": [
+                "lạ"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "thắng cảnh": [
+                "cùng"
+            ],
+            "xếp hạng": [
+                "hoàn toàn",
+                "giống",
+                "hoàn toàn",
+                "giống"
+            ],
+            "nền tảng": [],
+            "đất nước": [],
+            "món ăn đường phố": [
+                "thực sự"
+            ],
+            "sa mạc": [],
+            "chuyến thăm": [],
+            "chuyến du lịch": [
+                "bất ngờ",
+                "thú vị",
+                "thú vị"
+            ],
+            "văn hóa địa phương": [],
+            "bẫy du lịch": [
+                "thông thường",
+                "tuyệt vời"
+            ],
+            "thắc mắc": [],
+            "chỗ": [],
+            "đội ngũ": [],
+            "tour du lịch": [],
+            "tay đua": [
+                "tuyệt vời"
+            ],
+            "sản": [
+                "phải"
+            ],
+            "xe máy": [
+                "an toàn",
+                "nhiều"
+            ],
+            "người hâm mộ": [
+                "lớn"
+            ],
+            "hải sản": [
+                "lớn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 16,
+            "đám đông": 2,
+            "món ăn": 8,
+            "ẩm thực việt": 2,
+            "bánh xèo": 2,
+            "bánh mì nước mía": 2,
+            "quất": 2,
+            "kem dừa": 2,
+            "hướng dẫn viên": 16,
+            "chuyến tham quan": 16,
+            "khoảng thời gian": 6,
+            "khu": 2,
+            "cuộc sống": 2,
+            "nữ": 2,
+            "thành phố": 2,
+            "cuộc sống thành phố": 2,
+            "com": 10,
+            "nụ hôn": 10,
+            "lẽ": 2,
+            "tour du lịch địa phương": 2,
+            "tour": 4,
+            "xe đạp": 2,
+            "quầy hàng thực phẩm địa phương": 2,
+            "cà phê": 2,
+            "quán cà phê": 2,
+            "ngôi đền": 2,
+            "nhà thờ": 2,
+            "chợ hoa": 6,
+            "căn hộ": 2,
+            "người dân địa phương": 2,
+            "cơm": 2,
+            "thịt nướng": 2,
+            "chợ": 2,
+            "taho": 2,
+            "chuyến đi": 4,
+            "thắng cảnh": 2,
+            "xếp hạng": 2,
+            "nền tảng": 2,
+            "đất nước": 2,
+            "món ăn đường phố": 4,
+            "sa mạc": 2,
+            "chuyến thăm": 2,
+            "chuyến du lịch": 2,
+            "văn hóa địa phương": 2,
+            "bẫy du lịch": 2,
+            "thắc mắc": 6,
+            "chỗ": 6,
+            "đội ngũ": 2,
+            "tour du lịch": 2,
+            "tay đua": 2,
+            "sản": 2,
+            "xe máy": 2,
+            "người hâm mộ": 2,
+            "hải sản": 2
+        }
     },
     {
         "attraction_name": "Saigon Kiss Tours",
@@ -180,7 +478,223 @@
             "https://www.tripadvisor.com/Attraction_Review-g635753-d4558038-Reviews-Sabah-Semporna_Semporna_District_Sabah.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or20-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or10-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or10-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên": 0.9588226521853358,
+            "bánh mì sang": -0.042459892109036446,
+            "món ăn": -0.9730276024201885,
+            "họ": 0.9951124968356453,
+            "món phở địa phương": 0.9946318976581097,
+            "lịch sử": 0.7476030735997483,
+            "văn hóa": 0.829947611123013,
+            "bánh tráng": 0.5737380255013704,
+            "địa điểm ăn uống": 0.9945557842729613,
+            "nữ": 0.9006564216688275,
+            "chuyến tham quan": 0.9042002332862467,
+            "thắc mắc": 0.5,
+            "chỗ": 0.5,
+            "com": 0.5,
+            "nụ hôn": 0.5,
+            "hướng dẫn viên du lịch": 0.9950394569605123,
+            "lái xe": 0.991042276727967,
+            "danh lam": 0.5,
+            "thắng cảnh": 0.5,
+            "chuyến": 0.9850911947432905,
+            "xe đạp": 0.5,
+            "khách sạn": 0.5,
+            "thức ăn": 0.9954543508938514,
+            "trải nghiệm": 0.9250981358229182,
+            "xe buýt": 0.5,
+            "chuyên gia": 0.9950064530130476,
+            "giao thông": 0.4427730478346348,
+            "kỳ nghỉ": 0.5,
+            "thành phố": 0.9954059198498726,
+            "quý cô": 0.995426737004891,
+            "kiên nhẫn": 0.995553425163962,
+            "tổng quan": 0.8260890342062339,
+            "sinh viên": 0.9954989466932602,
+            "tour du lịch": 0.9954399293055758,
+            "xe tay ga": 0.572271048091352,
+            "rào": 0.5,
+            "trình": 0.5,
+            "tour": 0.9933367868652567,
+            "cuộc sống về đêm": 0.8833937742747366,
+            "văn hóa ẩm thực đường phố": 0.6969168968498707,
+            "ẩm thực": 0.9953177408315241
+        },
+        "dicts_adj": {
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "tự hào",
+                "nổi bật",
+                "am hiểu",
+                "thân thiện",
+                "tuyệt vời",
+                "chi tiết"
+            ],
+            "bánh mì sang": [
+                "khác"
+            ],
+            "món ăn": [
+                "khác"
+            ],
+            "họ": [
+                "ngon"
+            ],
+            "món phở địa phương": [
+                "ngon"
+            ],
+            "lịch sử": [
+                "độc đáo"
+            ],
+            "văn hóa": [
+                "độc đáo",
+                "thú vị"
+            ],
+            "bánh tráng": [],
+            "địa điểm ăn uống": [
+                "nhiều",
+                "rảnh rỗi"
+            ],
+            "nữ": [
+                "tự hào"
+            ],
+            "chuyến tham quan": [
+                "đặc biệt",
+                "tuyệt vời",
+                "nhất",
+                "nổi bật",
+                "tuyệt vời",
+                "đầu tiên",
+                "đặc biệt",
+                "đầu tiên"
+            ],
+            "thắc mắc": [],
+            "chỗ": [],
+            "com": [],
+            "nụ hôn": [],
+            "hướng dẫn viên du lịch": [
+                "thân thiện",
+                "độc đáo"
+            ],
+            "lái xe": [
+                "tốt"
+            ],
+            "danh lam": [],
+            "thắng cảnh": [],
+            "chuyến": [
+                "nổi bật"
+            ],
+            "xe đạp": [],
+            "khách sạn": [],
+            "thức ăn": [
+                "tuyệt vời",
+                "thú vị",
+                "khác biệt",
+                "ngon"
+            ],
+            "trải nghiệm": [
+                "Lái xe máy",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "đặc biệt",
+                "đầu tiên",
+                "thú vị"
+            ],
+            "xe buýt": [],
+            "chuyên gia": [
+                "thực thụ",
+                "thoải mái"
+            ],
+            "giao thông": [
+                "hỗn loạn"
+            ],
+            "kỳ nghỉ": [],
+            "thành phố": [
+                "tốt bụng",
+                "hài hước"
+            ],
+            "quý cô": [],
+            "kiên nhẫn": [],
+            "tổng quan": [
+                "tuyệt vời",
+                "đầu tiên"
+            ],
+            "sinh viên": [
+                "vui vẻ",
+                "nhiệt tình",
+                "vui vẻ"
+            ],
+            "tour du lịch": [
+                "Hoàn toàn",
+                "tuyệt vời"
+            ],
+            "xe tay ga": [
+                "riêng biệt"
+            ],
+            "rào": [],
+            "trình": [],
+            "tour": [
+                "thực sự"
+            ],
+            "cuộc sống về đêm": [
+                "đặc biệt",
+                "đầu tiên"
+            ],
+            "văn hóa ẩm thực đường phố": [
+                "đặc biệt",
+                "đầu tiên"
+            ],
+            "ẩm thực": [
+                "thú vị"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên": 10,
+            "bánh mì sang": 2,
+            "món ăn": 2,
+            "họ": 2,
+            "món phở địa phương": 2,
+            "lịch sử": 4,
+            "văn hóa": 6,
+            "bánh tráng": 2,
+            "địa điểm ăn uống": 2,
+            "nữ": 2,
+            "chuyến tham quan": 8,
+            "thắc mắc": 2,
+            "chỗ": 2,
+            "com": 2,
+            "nụ hôn": 2,
+            "hướng dẫn viên du lịch": 2,
+            "lái xe": 2,
+            "danh lam": 2,
+            "thắng cảnh": 2,
+            "chuyến": 2,
+            "xe đạp": 2,
+            "khách sạn": 2,
+            "thức ăn": 4,
+            "trải nghiệm": 10,
+            "xe buýt": 2,
+            "chuyên gia": 2,
+            "giao thông": 4,
+            "kỳ nghỉ": 2,
+            "thành phố": 2,
+            "quý cô": 2,
+            "kiên nhẫn": 2,
+            "tổng quan": 2,
+            "sinh viên": 2,
+            "tour du lịch": 2,
+            "xe tay ga": 2,
+            "rào": 2,
+            "trình": 2,
+            "tour": 2,
+            "cuộc sống về đêm": 2,
+            "văn hóa ẩm thực đường phố": 2,
+            "ẩm thực": 2
+        }
     },
     {
         "attraction_name": "Saigon Kiss Tours",
@@ -266,7 +780,139 @@
             "https://www.tripadvisor.com/Attraction_Review-g32655-d254736-Reviews-Hollywood_Highland-Los_Angeles_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or30-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or20-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or20-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9899555235460866,
+            "thức ăn": 0.9346457458450459,
+            "trải nghiệm": 0.899109621962998,
+            "phố ẩm thực": 0.5,
+            "chợ": 0.5,
+            "công viên": 0.5,
+            "ven sông": 0.5,
+            "món ăn": 0.5,
+            "đồ uống địa phương": 0.5,
+            "chuyến tham quan": 0.025462899463794486,
+            "hướng dẫn viên": 0.7596593253159274,
+            "ẩm thực": 0.9882149797243377,
+            "câu": 0.5,
+            "cửa hàng": 0.5,
+            "món ăn đường phố": 0.5,
+            "tour": 0.9546160470733108,
+            "món tráng miệng": 0.5,
+            "đội ngũ": 0.8737691454589367,
+            "địa điểm ăn uống": 0.9954369063489139,
+            "địa điểm": 0.5,
+            "khu chợ ẩm thực đường phố": 0.9954798242542893,
+            "đồ ăn chay": 0.9949449973646551,
+            "hướng": 0.6362117774163684,
+            "món ăn địa phương": 0.9403985114768147
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "tuyệt vời"
+            ],
+            "thức ăn": [
+                "tuyệt vời",
+                "ngon"
+            ],
+            "trải nghiệm": [
+                "thú vị",
+                "khác",
+                "đầu tiên",
+                "tuyệt vời",
+                "tử tế",
+                "sẵn sàng",
+                "tuyệt vời",
+                "chắc chắn",
+                "thực sự"
+            ],
+            "phố ẩm thực": [],
+            "chợ": [],
+            "công viên": [],
+            "ven sông": [],
+            "món ăn": [],
+            "đồ uống địa phương": [],
+            "chuyến tham quan": [
+                "khác",
+                "nhiều",
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "hướng dẫn viên": [
+                "đặc biệt",
+                "trẻ",
+                "lanh lợi",
+                "thú vị"
+            ],
+            "ẩm thực": [
+                "nhiều",
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "câu": [],
+            "cửa hàng": [],
+            "món ăn đường phố": [],
+            "tour": [
+                "tuyệt vời",
+                "tốt",
+                "nhiều"
+            ],
+            "món tráng miệng": [],
+            "đội ngũ": [
+                "nhỏ"
+            ],
+            "địa điểm ăn uống": [
+                "tuyệt vời"
+            ],
+            "địa điểm": [],
+            "khu chợ ẩm thực đường phố": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "đồ ăn chay": [
+                "tuyệt vời",
+                "an toàn",
+                "tuyệt vời"
+            ],
+            "hướng": [
+                "trẻ",
+                "lanh lợi",
+                "thú vị"
+            ],
+            "món ăn địa phương": [
+                "nhiều",
+                "gần",
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 4,
+            "thức ăn": 4,
+            "trải nghiệm": 10,
+            "phố ẩm thực": 2,
+            "chợ": 2,
+            "công viên": 2,
+            "ven sông": 2,
+            "món ăn": 2,
+            "đồ uống địa phương": 2,
+            "chuyến tham quan": 4,
+            "hướng dẫn viên": 4,
+            "ẩm thực": 2,
+            "câu": 2,
+            "cửa hàng": 2,
+            "món ăn đường phố": 2,
+            "tour": 6,
+            "món tráng miệng": 2,
+            "đội ngũ": 2,
+            "địa điểm ăn uống": 2,
+            "địa điểm": 2,
+            "khu chợ ẩm thực đường phố": 2,
+            "đồ ăn chay": 2,
+            "hướng": 2,
+            "món ăn địa phương": 2
+        }
     },
     {
         "attraction_name": "Saigon Kiss Tours",
@@ -352,7 +998,154 @@
             "https://www.tripadvisor.com/Attraction_Review-g45963-d266890-Reviews-O_Cirque_du_Soleil-Las_Vegas_Nevada.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or40-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or30-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or30-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "phố hoa": 0.9954990008263849,
+            "trải nghiệm": 0.8298085731318375,
+            "chuyến tham quan": 0.9009307603607886,
+            "người dân thành phố hồ": 0.8737691454589367,
+            "ẩm thực": 0.5,
+            "văn hóa": 0.6641457229076574,
+            "đêm": 0.7781597494613379,
+            "chuyến lưu diễn": 0.7475992029067129,
+            "hướng dẫn viên": 0.9900578790984582,
+            "truyền thống": 0.5,
+            "thức ăn": 0.8737691454589367,
+            "món ăn": 0.830030172112553,
+            "văn hóa việt nam": 0.9570292737334967,
+            "giao thông": 0.9953968644840643,
+            "chuyến du lịch": 0.9951366682071239,
+            "dịch vụ": 0.9955264872405678,
+            "người dân địa phương": 0.5,
+            "lịch sử địa phương": 0.9891060690861195,
+            "bún bò huế": 0.9682976850308478,
+            "món ăn bây": 0.9950368806021288,
+            "đồ uống": 0.9955847631790675,
+            "trang web": 0.9953945613233373,
+            "chuyến đi": 0.9949599923565984,
+            "mù mịt": 0.5
+        },
+        "dicts_adj": {
+            "phố hoa": [
+                "hân hạnh",
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "giống",
+                "tuyệt vời",
+                "đầu tiên",
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "tốt",
+                "cao",
+                "tốt",
+                "cao",
+                "thường ngày",
+                "nhanh chóng",
+                "ngắn gọn",
+                "nhanh chóng",
+                "ngắn gọn",
+                "nhiều",
+                "hơn",
+                "vui",
+                "nhiều"
+            ],
+            "người dân thành phố hồ": [
+                "thường ngày"
+            ],
+            "ẩm thực": [],
+            "văn hóa": [
+                "tuyệt khi"
+            ],
+            "đêm": [
+                "tuyệt vời",
+                "nhất"
+            ],
+            "chuyến lưu diễn": [
+                "tuyệt vời",
+                "nhất"
+            ],
+            "hướng dẫn viên": [
+                "đông đúc",
+                "thoải mái",
+                "thân thiện",
+                "vui vẻ"
+            ],
+            "truyền thống": [],
+            "thức ăn": [
+                "ngon"
+            ],
+            "món ăn": [
+                "ngon"
+            ],
+            "văn hóa việt nam": [
+                "mới"
+            ],
+            "giao thông": [
+                "tuyệt vời",
+                "an toàn",
+                "đông đúc"
+            ],
+            "chuyến du lịch": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "người dân địa phương": [],
+            "lịch sử địa phương": [
+                "am hiểu",
+                "quan trọng"
+            ],
+            "bún bò huế": [
+                "đầu tiên"
+            ],
+            "món ăn bây": [
+                "hoàn toàn"
+            ],
+            "đồ uống": [
+                "ngon"
+            ],
+            "trang web": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "đầu tiên",
+                "nhất"
+            ],
+            "mù mịt": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "phố hoa": 1.5,
+            "trải nghiệm": 4.5,
+            "chuyến tham quan": 7.5,
+            "người dân thành phố hồ": 1.5,
+            "ẩm thực": 3.0,
+            "văn hóa": 4.5,
+            "đêm": 1.5,
+            "chuyến lưu diễn": 3.0,
+            "hướng dẫn viên": 3.0,
+            "truyền thống": 1.5,
+            "thức ăn": 1.5,
+            "món ăn": 4.5,
+            "văn hóa việt nam": 1.5,
+            "giao thông": 1.5,
+            "chuyến du lịch": 1.5,
+            "dịch vụ": 1.5,
+            "người dân địa phương": 1.5,
+            "lịch sử địa phương": 1.5,
+            "bún bò huế": 1.5,
+            "món ăn bây": 1.5,
+            "đồ uống": 1.5,
+            "trang web": 1.5,
+            "chuyến đi": 1.5,
+            "mù mịt": 1.5
+        }
     },
     {
         "attraction_name": "Saigon Kiss Tours",
@@ -440,7 +1233,179 @@
             "https://www.tripadvisor.com/Attraction_Review-g58578-d2390260-Reviews-Olympus_Spa-Lynnwood_Washington.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or50-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or40-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or40-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.9743824143564174,
+            "đội ngũ": 0.6803069258749019,
+            "thức ăn": 0.9954034029506147,
+            "ẩm thực": 0.9892519460991025,
+            "đồ ăn": 0.74779866670724,
+            "khách sạn": -0.8848768509924412,
+            "hướng dẫn viên": 0.8343502066563815,
+            "chuyên gia lái": 0.9848339210730046,
+            "đường phố": 0.9946323642507195,
+            "quang cảnh": 0.8737691454589367,
+            "âm thanh": 0.9954153130529448,
+            "mùi vị": 0.9953703315695748,
+            "nhà hàng": 0.9859375837258995,
+            "địa điểm": 0.5,
+            "tour": 0.8737691454589367,
+            "hướng dẫn viên du lịch": 0.7477772087440826,
+            "kỷ niệm": 0.9950389604782686,
+            "phố cổ": 0.8737691454589367,
+            "món ăn địa phương": 0.9953388290014118,
+            "tay đua": -0.6473413091152906,
+            "lịch sử": 0.5,
+            "chuyến đi": 0.7476909263932612,
+            "trải nghiệm": 0.7972639920597431,
+            "quý cô xe tay ga": 0.5,
+            "đồ ăn truyền thống": 0.995256123598665,
+            "món ăn": 0.5,
+            "văn hóa địa phương": 0.5,
+            "chợ": 0.5,
+            "hoa": 0.5,
+            "lịch trình": 0.8737691454589367,
+            "ẩm thực địa phương": 0.5,
+            "phương tiện di chuyển bằng xe máy": 0.5
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "thực sự",
+                "chắc chắn",
+                "nhiều",
+                "nhiều",
+                "đẹp",
+                "tuyệt",
+                "tuyệt vời"
+            ],
+            "đội ngũ": [
+                "xuất sắc",
+                "tuyệt vời",
+                "thực sự",
+                "cao"
+            ],
+            "thức ăn": [
+                "chân thực",
+                "thực sự",
+                "thú vị"
+            ],
+            "ẩm thực": [
+                "tử tế",
+                "nhiều"
+            ],
+            "đồ ăn": [
+                "đẹp",
+                "ngon"
+            ],
+            "khách sạn": [
+                "nhiều"
+            ],
+            "hướng dẫn viên": [
+                "nhiều",
+                "đúng"
+            ],
+            "chuyên gia lái": [
+                "nhiều"
+            ],
+            "đường phố": [],
+            "quang cảnh": [
+                "tuyệt vời"
+            ],
+            "âm thanh": [
+                "tuyệt vời"
+            ],
+            "mùi vị": [
+                "tuyệt vời"
+            ],
+            "nhà hàng": [
+                "ngon",
+                "khác"
+            ],
+            "địa điểm": [],
+            "tour": [
+                "nhiều"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tốt bụng",
+                "tuyệt vời",
+                "chắc chắn"
+            ],
+            "kỷ niệm": [
+                "khó"
+            ],
+            "phố cổ": [
+                "tuyệt vời"
+            ],
+            "món ăn địa phương": [
+                "tuyệt vời"
+            ],
+            "tay đua": [
+                "trôi chảy"
+            ],
+            "lịch sử": [],
+            "chuyến đi": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "thực sự",
+                "tốt đẹp",
+                "tuyệt",
+                "độc đáo",
+                "vui vẻ",
+                "tuyệt vời"
+            ],
+            "quý cô xe tay ga": [],
+            "đồ ăn truyền thống": [
+                "ngon"
+            ],
+            "món ăn": [],
+            "văn hóa địa phương": [],
+            "chợ": [],
+            "hoa": [],
+            "lịch trình": [
+                "tuyệt vời"
+            ],
+            "ẩm thực địa phương": [],
+            "phương tiện di chuyển bằng xe máy": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 9.0,
+            "đội ngũ": 1.5,
+            "thức ăn": 1.5,
+            "ẩm thực": 1.5,
+            "đồ ăn": 3.0,
+            "khách sạn": 1.5,
+            "hướng dẫn viên": 3.0,
+            "chuyên gia lái": 1.5,
+            "đường phố": 1.5,
+            "quang cảnh": 1.5,
+            "âm thanh": 1.5,
+            "mùi vị": 1.5,
+            "nhà hàng": 1.5,
+            "địa điểm": 1.5,
+            "tour": 1.5,
+            "hướng dẫn viên du lịch": 3.0,
+            "kỷ niệm": 1.5,
+            "phố cổ": 1.5,
+            "món ăn địa phương": 1.5,
+            "tay đua": 1.5,
+            "lịch sử": 1.5,
+            "chuyến đi": 3.0,
+            "trải nghiệm": 7.5,
+            "quý cô xe tay ga": 1.5,
+            "đồ ăn truyền thống": 1.5,
+            "món ăn": 3.0,
+            "văn hóa địa phương": 1.5,
+            "chợ": 1.5,
+            "hoa": 1.5,
+            "lịch trình": 1.5,
+            "ẩm thực địa phương": 1.5,
+            "phương tiện di chuyển bằng xe máy": 1.5
+        }
     },
     {
         "attraction_name": "Saigon Kiss Tours",
@@ -528,7 +1493,164 @@
             "https://www.tripadvisor.com/Attraction_Review-g2615157-d7357088-Reviews-Frankenstein_Castle-Frankenstein_Rhineland_Palatinate.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or60-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or50-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or50-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.8691381313789558,
+            "tour": 0.7475339962693397,
+            "chuyến đi": 0.9954915289272321,
+            "món ăn": 0.7477033106260933,
+            "chuyến tham quan": 0.8499299786344636,
+            "địa điểm": 0.9686714201234281,
+            "ẩm thực": 0.6494542071595788,
+            "hướng dẫn viên": 0.9045148831719416,
+            "xe tay ga": 0.9947184631018899,
+            "người lái xe": 0.9874857487156987,
+            "thức ăn": 0.9954995716689155,
+            "tay đua": 0.595530571018268,
+            "món ăn đường phố": 0.9955134981428273,
+            "khung cảnh": 0.9954554170835763,
+            "điểm tham quan": 0.5,
+            "món ăn địa phương": -0.015522406436502934,
+            "điểm du lịch": 0.9954645235848147,
+            "kỷ niệm": 0.7477249457733706,
+            "chuyến đi việt": 0.5,
+            "phi hành đoàn": 0.9954482838511467,
+            "quận": 0.5684286765754223
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "khó",
+                "tuyệt vời",
+                "nhiều",
+                "hơn",
+                "thân thiện",
+                "tuyệt vời",
+                "tuyệt vời",
+                "an toàn",
+                "bất kỳ",
+                "tuyệt vời"
+            ],
+            "tour": [],
+            "chuyến đi": [
+                "tuyệt vời",
+                "thực sự",
+                "tốt bụng",
+                "tuyệt vời",
+                "tuyệt vời",
+                "an toàn",
+                "tuyệt vời",
+                "nhất",
+                "tuyệt vời",
+                "nhất",
+                "hoàn toàn",
+                "thú vị",
+                "hơn"
+            ],
+            "món ăn": [
+                "có thể",
+                "tuyệt vời",
+                "mới mẻ",
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "bận rộn",
+                "xứng đáng",
+                "tốt",
+                "nhỏ",
+                "an toàn",
+                "tuyệt vời",
+                "chắc chắn",
+                "tốt",
+                "tốt"
+            ],
+            "địa điểm": [
+                "bận rộn"
+            ],
+            "ẩm thực": [
+                "bận rộn"
+            ],
+            "hướng dẫn viên": [
+                "thực sự",
+                "tuyệt vời",
+                "tuyệt vời",
+                "đầy đủ",
+                "thú vị",
+                "xuất sắc",
+                "tuyệt vời",
+                "phải",
+                "tốt",
+                "năng động",
+                "kỹ lưỡng"
+            ],
+            "xe tay ga": [
+                "an toàn"
+            ],
+            "người lái xe": [
+                "xuất sắc"
+            ],
+            "thức ăn": [
+                "tuyệt vời",
+                "nhiều",
+                "hoàn hảo"
+            ],
+            "tay đua": [
+                "tuyệt vời",
+                "phải",
+                "tốt",
+                "chu đáo",
+                "tuyệt vời"
+            ],
+            "món ăn đường phố": [
+                "thú vị",
+                "vui vẻ"
+            ],
+            "khung cảnh": [
+                "thú vị",
+                "vui vẻ"
+            ],
+            "điểm tham quan": [],
+            "món ăn địa phương": [
+                "thực sự",
+                "phấn khích"
+            ],
+            "điểm du lịch": [
+                "thực sự",
+                "phấn khích"
+            ],
+            "kỷ niệm": [
+                "tuyệt vời"
+            ],
+            "chuyến đi việt": [],
+            "phi hành đoàn": [],
+            "quận": [
+                "phong phú"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 9.0,
+            "tour": 3.0,
+            "chuyến đi": 6.0,
+            "món ăn": 3.0,
+            "chuyến tham quan": 9.0,
+            "địa điểm": 1.5,
+            "ẩm thực": 3.0,
+            "hướng dẫn viên": 6.0,
+            "xe tay ga": 1.5,
+            "người lái xe": 1.5,
+            "thức ăn": 3.0,
+            "tay đua": 3.0,
+            "món ăn đường phố": 1.5,
+            "khung cảnh": 1.5,
+            "điểm tham quan": 1.5,
+            "món ăn địa phương": 1.5,
+            "điểm du lịch": 1.5,
+            "kỷ niệm": 3.0,
+            "chuyến đi việt": 1.5,
+            "phi hành đoàn": 1.5,
+            "quận": 1.5
+        }
     },
     {
         "attraction_name": "Saigon Kiss Tours",
@@ -614,7 +1736,124 @@
             "https://www.tripadvisor.com/Attraction_Review-g60763-d548583-Reviews-The_Village_Vanguard-New_York_City_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or70-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or60-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or60-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.8624310457574514,
+            "kiến thức": 0.8737691454589367,
+            "lịch sử": 0.9823533410090022,
+            "giao thông": 0.7362883215537295,
+            "cà phê": 0.5,
+            "bữa trưa": 0.5,
+            "tour": 0.5,
+            "chuyến lưu diễn": 0.5,
+            "thái độ": 0.9928106298903003,
+            "tour ẩm thực đêm": 0.9950430922908708,
+            "đồ ăn thì": 0.9955987529829144,
+            "khoảng thời gian": 0.9953072104835883,
+            "chuyến du lịch": 0.5,
+            "chuyến đi": 0.747717169317184,
+            "người hướng dẫn": 0.9932982895988971,
+            "món ăn đường phố": 0.9954761911649257,
+            "chuyến tham quan": 0.7995749875553884,
+            "món ăn": 0.9942573152511613,
+            "tour du lịch": 0.9955244232551195,
+            "chuyến lái xe": 0.9955074393656105
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời",
+                "Chắc chắn"
+            ],
+            "kiến thức": [
+                "tốt",
+                "dễ"
+            ],
+            "lịch sử": [
+                "tốt",
+                "dễ"
+            ],
+            "giao thông": [
+                "tệ",
+                "an toàn",
+                "tuyệt vời",
+                "chuyên nghiệp",
+                "an toàn"
+            ],
+            "cà phê": [],
+            "bữa trưa": [],
+            "tour": [],
+            "chuyến lưu diễn": [],
+            "thái độ": [
+                "mạnh mẽ",
+                "hiểu biết",
+                "đặc biệt"
+            ],
+            "tour ẩm thực đêm": [
+                "đặc biệt"
+            ],
+            "đồ ăn thì": [
+                "vui",
+                "tuyệt vời"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "chuyến du lịch": [],
+            "chuyến đi": [
+                "tuyệt vời"
+            ],
+            "người hướng dẫn": [
+                "tuyệt vời"
+            ],
+            "món ăn đường phố": [
+                "tuyệt vời",
+                "an toàn",
+                "ngon",
+                "ngon"
+            ],
+            "chuyến tham quan": [
+                "an toàn",
+                "sầm uất",
+                "thú vị"
+            ],
+            "món ăn": [
+                "ngon",
+                "hợp lý",
+                "đúng",
+                "mới",
+                "ngon"
+            ],
+            "tour du lịch": [
+                "tuyệt vời"
+            ],
+            "chuyến lái xe": [
+                "thú vị"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 4.5,
+            "kiến thức": 1.5,
+            "lịch sử": 1.5,
+            "giao thông": 3.0,
+            "cà phê": 1.5,
+            "bữa trưa": 1.5,
+            "tour": 1.5,
+            "chuyến lưu diễn": 1.5,
+            "thái độ": 1.5,
+            "tour ẩm thực đêm": 1.5,
+            "đồ ăn thì": 1.5,
+            "khoảng thời gian": 1.5,
+            "chuyến du lịch": 1.5,
+            "chuyến đi": 3.0,
+            "người hướng dẫn": 1.5,
+            "món ăn đường phố": 3.0,
+            "chuyến tham quan": 3.0,
+            "món ăn": 3.0,
+            "tour du lịch": 1.5,
+            "chuyến lái xe": 1.5
+        }
     },
     {
         "attraction_name": "Saigon Kiss Tours",
@@ -700,7 +1939,230 @@
             "https://www.tripadvisor.com/Attraction_Review-g297930-d7365249-Reviews-Blue_Dolphin_Men_s_Massage-Patong_Kathu_Phuket.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or80-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or70-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or70-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tour ẩm thực": 0.9954592996509746,
+            "lái xe": 0.8858398655429482,
+            "trải nghiệm": 0.7476190381566994,
+            "đồ ăn": 0.7491794303059578,
+            "ẩm thực": 0.5,
+            "bữa trưa": 0.5152817647904158,
+            "tay đua": 0.9949669305351563,
+            "tay đua xe đạp": -0.7960346061736345,
+            "giao thông": 0.5,
+            "món ăn": 0.9795025964849629,
+            "xe đạp": 0.9930209696758538,
+            "điểm tham quan": 0.5041391663253307,
+            "quận": 0.5,
+            "chuyến lưu diễn": 0.9949315310223028,
+            "người dẫn": 0.5,
+            "xe": 0.5,
+            "bữa ăn nhẹ": 0.27789536863565445,
+            "bữa ăn": 0.7298655974154826,
+            "chợ hoa": 0.8737691454589367,
+            "chợ": 0.5,
+            "chuyến tham quan": 0.8293634681467665,
+            "vinh dự": 0.5,
+            "hành trình": 0.9953215338755399,
+            "đắm chìm": 0.3535061255097389,
+            "khu vực địa phương": 0.3838179372251034,
+            "môi trường": 0.5,
+            "tour du lịch": 0.9955922355875373,
+            "doanh": 0.9952387843513861,
+            "khách sạn": 0.5,
+            "xe tay ga": 0.955186435545329,
+            "trạng thái": 0.9618862405186519,
+            "điểm dừng": 0.9931956185610034,
+            "món ăn địa phương": -0.9085962260141969,
+            "địa danh địa": 0.5,
+            "lịch sử": 0.5,
+            "tour xe đạp": 0.9954320520628244,
+            "cảnh quan": 0.9954133407445624,
+            "hướng dẫn viên": 0.9952218109974638,
+            "họ": 0.5,
+            "thực phẩm địa phương": 0.5,
+            "thị trường": 0.5,
+            "hướng dẫn viên du lịch": 0.9955323973554187,
+            "địa điểm": 0.5,
+            "bánh sinh": 0.8872305327095091,
+            "chuyến du lịch": 0.5,
+            "chuyến đi": 0.5
+        },
+        "dicts_adj": {
+            "tour ẩm thực": [
+                "tuyệt vời"
+            ],
+            "lái xe": [
+                "giàu"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "khác",
+                "ngon",
+                "hoàn toàn",
+                "ngon"
+            ],
+            "ẩm thực": [],
+            "bữa trưa": [
+                "nhiều"
+            ],
+            "tay đua": [
+                "đúng",
+                "thân thiện",
+                "xuất sắc"
+            ],
+            "tay đua xe đạp": [
+                "nguy hiểm"
+            ],
+            "giao thông": [],
+            "món ăn": [
+                "nhiều",
+                "đủ",
+                "nhiều",
+                "ngon"
+            ],
+            "xe đạp": [
+                "tuyệt vời"
+            ],
+            "điểm tham quan": [],
+            "quận": [],
+            "chuyến lưu diễn": [
+                "tuyệt vời"
+            ],
+            "người dẫn": [],
+            "xe": [],
+            "bữa ăn nhẹ": [
+                "cuối cùng"
+            ],
+            "bữa ăn": [
+                "ngon",
+                "cuối cùng"
+            ],
+            "chợ hoa": [
+                "đẹp"
+            ],
+            "chợ": [],
+            "chuyến tham quan": [
+                "thú vị",
+                "nhất",
+                "đáng giá",
+                "thú vị",
+                "nhanh chóng",
+                "tốt",
+                "đặc biệt",
+                "đầu tiên",
+                "đặc biệt",
+                "nhiều",
+                "nổi bật",
+                "tuyệt vời"
+            ],
+            "vinh dự": [],
+            "hành trình": [
+                "thú vị"
+            ],
+            "đắm chìm": [
+                "khó"
+            ],
+            "khu vực địa phương": [
+                "khó"
+            ],
+            "môi trường": [],
+            "tour du lịch": [
+                "tốt đẹp"
+            ],
+            "doanh": [
+                "tuyệt vời",
+                "đặc biệt"
+            ],
+            "khách sạn": [],
+            "xe tay ga": [
+                "dễ dàng",
+                "an toàn"
+            ],
+            "trạng thái": [
+                "tốt"
+            ],
+            "điểm dừng": [
+                "ngon",
+                "linh hoạt"
+            ],
+            "món ăn địa phương": [
+                "khác"
+            ],
+            "địa danh địa": [],
+            "lịch sử": [],
+            "tour xe đạp": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "cảnh quan": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [],
+            "họ": [],
+            "thực phẩm địa phương": [],
+            "thị trường": [],
+            "hướng dẫn viên du lịch": [
+                "xinh đẹp",
+                "tuyệt vời"
+            ],
+            "địa điểm": [],
+            "bánh sinh": [],
+            "chuyến du lịch": [],
+            "chuyến đi": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tour ẩm thực": 1.5,
+            "lái xe": 1.5,
+            "trải nghiệm": 3.0,
+            "đồ ăn": 4.5,
+            "ẩm thực": 1.5,
+            "bữa trưa": 1.5,
+            "tay đua": 1.5,
+            "tay đua xe đạp": 1.5,
+            "giao thông": 1.5,
+            "món ăn": 4.5,
+            "xe đạp": 1.5,
+            "điểm tham quan": 1.5,
+            "quận": 1.5,
+            "chuyến lưu diễn": 1.5,
+            "người dẫn": 1.5,
+            "xe": 1.5,
+            "bữa ăn nhẹ": 1.5,
+            "bữa ăn": 1.5,
+            "chợ hoa": 1.5,
+            "chợ": 1.5,
+            "chuyến tham quan": 12.0,
+            "vinh dự": 1.5,
+            "hành trình": 1.5,
+            "đắm chìm": 1.5,
+            "khu vực địa phương": 1.5,
+            "môi trường": 1.5,
+            "tour du lịch": 1.5,
+            "doanh": 1.5,
+            "khách sạn": 1.5,
+            "xe tay ga": 1.5,
+            "trạng thái": 1.5,
+            "điểm dừng": 3.0,
+            "món ăn địa phương": 1.5,
+            "địa danh địa": 1.5,
+            "lịch sử": 1.5,
+            "tour xe đạp": 1.5,
+            "cảnh quan": 1.5,
+            "hướng dẫn viên": 1.5,
+            "họ": 1.5,
+            "thực phẩm địa phương": 1.5,
+            "thị trường": 1.5,
+            "hướng dẫn viên du lịch": 1.5,
+            "địa điểm": 1.5,
+            "bánh sinh": 1.5,
+            "chuyến du lịch": 1.5,
+            "chuyến đi": 1.5
+        }
     },
     {
         "attraction_name": "Saigon Kiss Tours",
@@ -788,7 +2250,145 @@
             "https://www.tripadvisor.com/Attraction_Review-g34438-d6352632-Reviews-Ball_Chain-Miami_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or90-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or80-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or80-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khi": 0.5213041082024574,
+            "thành phố": 0.994088891078718,
+            "hướng dẫn viên": 0.9955718797282316,
+            "món ăn việt nam": 0.9949749276274815,
+            "trải nghiệm": 0.8963246874976903,
+            "đêm": 0.7781597494613379,
+            "chuyến du lịch": 0.5,
+            "văn hóa": 0.3088408596813679,
+            "chợ hoa": 0.9950517294928432,
+            "món ăn": 0.7477437182969879,
+            "người lái xe": 0.994169487094041,
+            "lái xe": 0.9326766256708652,
+            "ẩm thực": 0.5,
+            "lịch sử": 0.5,
+            "chuyến tham quan": 0.7472544846241362,
+            "khoảng thời gian": 0.995535678230226,
+            "điểm dừng chân": 0.9892829521559179,
+            "câu chuyện": 0.5070476904511452,
+            "chuyến đi": 0.8776433202438056,
+            "quý": 0.7985505340620875,
+            "thức ăn": 0.8737691454589367,
+            "chuyến đi bằng xe máy": 0.5088653285056353,
+            "đồ ăn": 0.9956208867952228,
+            "chợ đêm": 0.5
+        },
+        "dicts_adj": {
+            "khi": [],
+            "thành phố": [
+                "hơn",
+                "nhiều",
+                "nhiều",
+                "chắc chắn"
+            ],
+            "hướng dẫn viên": [
+                "tốt bụng",
+                "chu đáo",
+                "chu đáo",
+                "thú vị"
+            ],
+            "món ăn việt nam": [
+                "nhiều",
+                "thú vị",
+                "nhiều",
+                "ngon",
+                "nhiều"
+            ],
+            "trải nghiệm": [
+                "nhiều",
+                "khó",
+                "thú vị",
+                "tốt đẹp",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "đêm": [
+                "tuyệt vời",
+                "nhất"
+            ],
+            "chuyến du lịch": [],
+            "văn hóa": [
+                "nhiều"
+            ],
+            "chợ hoa": [
+                "nhiều"
+            ],
+            "món ăn": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "người lái xe": [
+                "tốt bụng",
+                "giỏi"
+            ],
+            "lái xe": [
+                "tuyệt",
+                "yếu",
+                "an toàn",
+                "thú vị"
+            ],
+            "ẩm thực": [],
+            "lịch sử": [],
+            "chuyến tham quan": [],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "điểm dừng chân": [
+                "đúng",
+                "đầu tiên"
+            ],
+            "câu chuyện": [
+                "gần"
+            ],
+            "chuyến đi": [
+                "gần"
+            ],
+            "quý": [],
+            "thức ăn": [
+                "tuyệt"
+            ],
+            "chuyến đi bằng xe máy": [
+                "tuyệt"
+            ],
+            "đồ ăn": [
+                "ngon",
+                "vui",
+                "cùng"
+            ],
+            "chợ đêm": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khi": 1.5,
+            "thành phố": 1.5,
+            "hướng dẫn viên": 1.5,
+            "món ăn việt nam": 1.5,
+            "trải nghiệm": 7.5,
+            "đêm": 1.5,
+            "chuyến du lịch": 3.0,
+            "văn hóa": 4.5,
+            "chợ hoa": 1.5,
+            "món ăn": 3.0,
+            "người lái xe": 3.0,
+            "lái xe": 3.0,
+            "ẩm thực": 3.0,
+            "lịch sử": 1.5,
+            "chuyến tham quan": 3.0,
+            "khoảng thời gian": 1.5,
+            "điểm dừng chân": 1.5,
+            "câu chuyện": 1.5,
+            "chuyến đi": 1.5,
+            "quý": 1.5,
+            "thức ăn": 1.5,
+            "chuyến đi bằng xe máy": 1.5,
+            "đồ ăn": 1.5,
+            "chợ đêm": 1.5
+        }
     },
     {
         "attraction_name": "Saigon Kiss Tours",
@@ -874,6 +2474,174 @@
             "https://www.tripadvisor.com/Attraction_Review-g45946-d8820171-Reviews-Burning_Man-Gerlach_Nevada.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or100-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or90-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d10694795-Reviews-or90-Saigon_Kiss_Tours-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.646048911701655,
+            "mia phoebe": 0.8737691454589367,
+            "khoảng thời gian": 0.9955244169104844,
+            "trải nghiệm": 0.7789395865693223,
+            "hướng dẫn viên": 0.8822855019941926,
+            "đồ ăn thì": 0.9954700215021148,
+            "thực phẩm": 0.5,
+            "xe tay ga": 0.9954145551309921,
+            "kiến ​​thức văn hóa": 0.9602893479168415,
+            "quán cà phê": 0.4441365711390972,
+            "nhà hàng": 0.654038856853731,
+            "món phở": 0.9339260817505419,
+            "kỳ nghỉ": 0.9955620400724001,
+            "ho": 0.9951484077610075,
+            "tour": 0.9913246339128818,
+            "banh mi": 0.9883523031603545,
+            "chuyến đi nhóm": 0.9904797679046169,
+            "địa điểm": 0.9920147304655984,
+            "đồ ăn": 0.9953176743874792,
+            "chuyến du lịch": 0.8737691454589367,
+            "chuyến đi": 0.177293776262862,
+            "đi bộ": 0.5,
+            "ngựa": 0.5,
+            "kỷ niệm": 0.9952385999495164,
+            "thức ăn": 0.8737691454589367,
+            "món ăn địa phương": 0.9953129579080269,
+            "người dân địa phương": 0.7877419083379209,
+            "bữa": 0.9798567454563454,
+            "kỹ năng lái xe": 0.9861717687454075
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "bất kỳ",
+                "nhanh",
+                "tuyệt vời"
+            ],
+            "mia phoebe": [
+                "tuyệt vời"
+            ],
+            "khoảng thời gian": [
+                "an toàn",
+                "tuyệt vời",
+                "khác"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "đặc biệt",
+                "tuyệt"
+            ],
+            "hướng dẫn viên": [
+                "xuất sắc",
+                "vui vẻ",
+                "nguy hiểm",
+                "an toàn",
+                "thú vị",
+                "thông tin",
+                "vui",
+                "tuyệt vời"
+            ],
+            "đồ ăn thì": [
+                "tuyệt vời"
+            ],
+            "thực phẩm": [],
+            "xe tay ga": [
+                "tuyệt vời",
+                "thoải mái",
+                "an toàn"
+            ],
+            "kiến ​​thức văn hóa": [
+                "xuất sắc"
+            ],
+            "quán cà phê": [
+                "nhỏ"
+            ],
+            "nhà hàng": [
+                "nhỏ",
+                "tuyệt vời"
+            ],
+            "món phở": [
+                "đúng"
+            ],
+            "kỳ nghỉ": [
+                "Giống",
+                "khác",
+                "nổi bật",
+                "tuyệt vời"
+            ],
+            "ho": [],
+            "tour": [
+                "chắc chắn"
+            ],
+            "banh mi": [],
+            "chuyến đi nhóm": [
+                "vui",
+                "nhất"
+            ],
+            "địa điểm": [
+                "đẹp"
+            ],
+            "đồ ăn": [
+                "ngon",
+                "nhiều"
+            ],
+            "chuyến du lịch": [
+                "nổi bật"
+            ],
+            "chuyến đi": [
+                "tốt"
+            ],
+            "đi bộ": [],
+            "ngựa": [],
+            "kỷ niệm": [
+                "suốt",
+                "khuyến khích"
+            ],
+            "thức ăn": [
+                "tuyệt"
+            ],
+            "món ăn địa phương": [
+                "tuyệt vời"
+            ],
+            "người dân địa phương": [
+                "quan trọng",
+                "hơn"
+            ],
+            "bữa": [
+                "quan trọng",
+                "hơn"
+            ],
+            "kỹ năng lái xe": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 6.0,
+            "mia phoebe": 1.5,
+            "khoảng thời gian": 1.5,
+            "trải nghiệm": 3.0,
+            "hướng dẫn viên": 7.5,
+            "đồ ăn thì": 1.5,
+            "thực phẩm": 1.5,
+            "xe tay ga": 3.0,
+            "kiến ​​thức văn hóa": 1.5,
+            "quán cà phê": 1.5,
+            "nhà hàng": 3.0,
+            "món phở": 1.5,
+            "kỳ nghỉ": 1.5,
+            "ho": 1.5,
+            "tour": 3.0,
+            "banh mi": 1.5,
+            "chuyến đi nhóm": 1.5,
+            "địa điểm": 1.5,
+            "đồ ăn": 1.5,
+            "chuyến du lịch": 1.5,
+            "chuyến đi": 4.5,
+            "đi bộ": 1.5,
+            "ngựa": 1.5,
+            "kỷ niệm": 1.5,
+            "thức ăn": 1.5,
+            "món ăn địa phương": 1.5,
+            "người dân địa phương": 1.5,
+            "bữa": 1.5,
+            "kỹ năng lái xe": 1.5
+        }
     }
 ]

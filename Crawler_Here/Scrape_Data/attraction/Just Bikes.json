@@ -63,6 +63,26 @@
             "https://www.tripadvisor.com/Attraction_Review-g187780-d4135835-Reviews-Valle_delle_Ferriere-Amalfi_Amalfi_Coast_Province_of_Salerno_Campania.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d26327977-Reviews-Just_Bikes-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d26327977-Reviews-Just_Bikes-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.9946147670852952,
+            "xe máy": 0.5197938047349453,
+            "nhân viên": 0.5192753560841084
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tốt",
+                "tốt"
+            ],
+            "xe máy": [],
+            "nhân viên": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 1,
+            "xe máy": 1,
+            "nhân viên": 1
+        }
     }
 ]

@@ -86,7 +86,156 @@
             "https://www.tripadvisor.com/Attraction_Review-g60745-d104816-Reviews-Boston_Public_Library-Boston_Massachusetts.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d24155502-Reviews-or10-Cao_Cao_Adventures-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d24155502-Reviews-Cao_Cao_Adventures-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d24155502-Reviews-Cao_Cao_Adventures-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tour du lịch bằng": 0.9952969153528102,
+            "địa đạo": 0.8737691454589367,
+            "chuyến đi xe đạp": 0.994941963639576,
+            "cây xanh": 0.99115866352804,
+            "đường hầm": 0.9953423005063087,
+            "hướng dẫn viên du lịch": 0.8737691454589367,
+            "trải nghiệm": 0.6984471641480923,
+            "xe đạp thể thao": 0.9880068122874945,
+            "chuyến tham quan": 0.995216949241391,
+            "khoảng thời gian": 0.9953072104835883,
+            "phong cảnh": 0.5,
+            "khung cảnh": 0.7477208949567284,
+            "xe đạp": 0.5,
+            "dịch vụ": 0.7477825294190552,
+            "tour du lịch": 0.9935744813992642,
+            "cuộc": 0.8737691454589367,
+            "hành trình": 0.9954963969066739,
+            "thám hiểm tào tháo": 0.9934362941421568,
+            "chuyến đi": 0.9715576770379104,
+            "cảnh quan": 0.9947529697674327,
+            "không khí": -0.9535068550612777,
+            "hướng dẫn viên": 0.9895757877966389,
+            "người dân các": 0.9898992539383471,
+            "dân tộc miền núi": 0.9894616209203377,
+            "đồ ăn": 0.9955428341054358,
+            "địa điểm": 0.9920147304655984,
+            "chuyến": 0.9393080151639879
+        },
+        "dicts_adj": {
+            "tour du lịch bằng": [
+                "tuyệt vời"
+            ],
+            "địa đạo": [
+                "tuyệt vời"
+            ],
+            "chuyến đi xe đạp": [
+                "tốt"
+            ],
+            "cây xanh": [
+                "tuyệt vời"
+            ],
+            "đường hầm": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tốt"
+            ],
+            "xe đạp thể thao": [
+                "tốt"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "vui",
+                "nhiều",
+                "vui"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "phong cảnh": [],
+            "khung cảnh": [
+                "hiền hòa",
+                "chân thành"
+            ],
+            "xe đạp": [],
+            "dịch vụ": [
+                "thân thiện"
+            ],
+            "tour du lịch": [
+                "tuyệt vời"
+            ],
+            "cuộc": [
+                "vui"
+            ],
+            "hành trình": [
+                "vui"
+            ],
+            "thám hiểm tào tháo": [],
+            "chuyến đi": [
+                "nhiều",
+                "an toàn",
+                "hiền hòa",
+                "chân thành",
+                "nhiều",
+                "cùng",
+                "mạnh",
+                "nhiều"
+            ],
+            "cảnh quan": [
+                "đẹp"
+            ],
+            "không khí": [
+                "trong lành"
+            ],
+            "hướng dẫn viên": [
+                "chuyên nghiệp"
+            ],
+            "người dân các": [
+                "hiền hòa",
+                "chân thành"
+            ],
+            "dân tộc miền núi": [
+                "hiền hòa",
+                "chân thành"
+            ],
+            "đồ ăn": [
+                "đẹp",
+                "ngon"
+            ],
+            "địa điểm": [
+                "đẹp"
+            ],
+            "chuyến": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tour du lịch bằng": 1.5,
+            "địa đạo": 1.5,
+            "chuyến đi xe đạp": 1,
+            "cây xanh": 1,
+            "đường hầm": 1,
+            "hướng dẫn viên du lịch": 1,
+            "trải nghiệm": 1,
+            "xe đạp thể thao": 1,
+            "chuyến tham quan": 3,
+            "khoảng thời gian": 1,
+            "phong cảnh": 1,
+            "khung cảnh": 2,
+            "xe đạp": 1,
+            "dịch vụ": 2,
+            "tour du lịch": 2,
+            "cuộc": 1,
+            "hành trình": 1,
+            "thám hiểm tào tháo": 1,
+            "chuyến đi": 3,
+            "cảnh quan": 1,
+            "không khí": 1,
+            "hướng dẫn viên": 1,
+            "người dân các": 1,
+            "dân tộc miền núi": 1,
+            "đồ ăn": 1,
+            "địa điểm": 1,
+            "chuyến": 1
+        }
     },
     {
         "attraction_name": "Cào Cào Adventures",
@@ -149,6 +298,58 @@
             "https://www.tripadvisor.com/Attraction_Review-g155032-d605431-Reviews-Stereo_Nightclub-Montreal_Quebec.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d24155502-Reviews-or10-Cao_Cao_Adventures-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d24155502-Reviews-or10-Cao_Cao_Adventures-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tour đạp": 0.8737691454589367,
+            "nông thôn": 0.9428166160359979,
+            "cánh đồng lúa": 0.5,
+            "hàng dừa xanh": 0.5,
+            "hướng dẫn viên": 0.9917173081194051,
+            "chai nước": 0.4276692718267441,
+            "điểm dừng chân": 0.5,
+            "chuyến tham quan bằng xe đạp": 0.9947238634340465,
+            "chuyến đi": 0.9365389300510287,
+            "chuyến phiêu lưu": 0.5436059981584549
+        },
+        "dicts_adj": {
+            "tour đạp": [
+                "thú vị"
+            ],
+            "nông thôn": [
+                "thú vị"
+            ],
+            "cánh đồng lúa": [],
+            "hàng dừa xanh": [],
+            "hướng dẫn viên": [
+                "nhỏ nhặt",
+                "thân thiện",
+                "lớn"
+            ],
+            "chai nước": [
+                "lạnh"
+            ],
+            "điểm dừng chân": [],
+            "chuyến tham quan bằng xe đạp": [],
+            "chuyến đi": [
+                "cùng"
+            ],
+            "chuyến phiêu lưu": [
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tour đạp": 1,
+            "nông thôn": 1,
+            "cánh đồng lúa": 1,
+            "hàng dừa xanh": 1,
+            "hướng dẫn viên": 1,
+            "chai nước": 1,
+            "điểm dừng chân": 1,
+            "chuyến tham quan bằng xe đạp": 1,
+            "chuyến đi": 1,
+            "chuyến phiêu lưu": 1
+        }
     }
 ]

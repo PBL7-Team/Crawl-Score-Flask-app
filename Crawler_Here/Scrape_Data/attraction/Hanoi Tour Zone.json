@@ -85,7 +85,217 @@
             "https://www.tripadvisor.com/Attraction_Review-g147271-d147979-Reviews-Tropicana-Havana_Ciudad_de_la_Habana_Province_Cuba.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d19125410-Reviews-or10-Hanoi_Tour_Zone-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d19125410-Reviews-Hanoi_Tour_Zone-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d19125410-Reviews-Hanoi_Tour_Zone-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên": 0.5,
+            "kiến ​​thức": 0.5,
+            "lịch sử": 0.5,
+            "ẩm thực": 0.5,
+            "chuyến du lịch": 0.7690620450302958,
+            "chương trình": 0.9143556285804758,
+            "bừa bộn": -0.9739630228141323,
+            "vé rải": -0.0036794458283111453,
+            "cây cột": 0.5496862521395087,
+            "văn hóa việt nam": 0.8737691454589367,
+            "nghệ sĩ": 0.5,
+            "chơi nhạc cụ": 0.5,
+            "rồng": 0.8737691454589367,
+            "nước": 0.9954544574720785,
+            "nhà hát": 0.6874241400510073,
+            "hàng ghế đầu": 0.4828023072332144,
+            "ghế": 0.5492101181298494,
+            "dịch vụ": 0.6404316083159453,
+            "chuyến đi": 0.5,
+            "khách sạn": 0.37102714406015974,
+            "nhân viên": 0.5,
+            "tiền": 0.5,
+            "văn phòng": 0.5,
+            "sản phẩm": 0.9845514931948856,
+            "rạp hát": 0.5,
+            "ngân": 0.5,
+            "hạng vip": 0.8737691454589367,
+            "sân khấu": 0.5910708398247758,
+            "buổi biểu diễn": 0.6868845727294683,
+            "ca hát truyền thống": 0.5,
+            "dịch thuật": 0.11047182325273752,
+            "múa rối truyền thống": -0.9733354763593525,
+            "phòng": 0.012317566201090813,
+            "chuyến tham quan": 0.884917085369428,
+            "người dân địa phương": 0.5,
+            "giá": -0.9700110382400453,
+            "tấm vé": -0.9323330577462912,
+            "buổi diễn": 0.5,
+            "trải nghiệm": 0.994716081651859,
+            "công ty": 0.5354848951101303,
+            "tour du lịch": -0.9717165634501725,
+            "buổi sáng": 0.5,
+            "khu du lịch": 0.9868271171581
+        },
+        "dicts_adj": {
+            "hướng dẫn viên": [],
+            "kiến ​​thức": [],
+            "lịch sử": [],
+            "ẩm thực": [],
+            "chuyến du lịch": [],
+            "chương trình": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "đặc biệt"
+            ],
+            "bừa bộn": [
+                "rải rác",
+                "lạ"
+            ],
+            "vé rải": [
+                "rải rác",
+                "lạ"
+            ],
+            "cây cột": [
+                "rõ"
+            ],
+            "văn hóa việt nam": [
+                "tuyệt vời",
+                "phong phú"
+            ],
+            "nghệ sĩ": [],
+            "chơi nhạc cụ": [],
+            "rồng": [
+                "độc đáo"
+            ],
+            "nước": [
+                "độc đáo"
+            ],
+            "nhà hát": [
+                "Tốt",
+                "hơn",
+                "nhiều",
+                "trực tiếp"
+            ],
+            "hàng ghế đầu": [
+                "gần",
+                "rõ",
+                "hơn"
+            ],
+            "ghế": [
+                "tốt",
+                "khoảng"
+            ],
+            "dịch vụ": [
+                "hài lòng",
+                "giống",
+                "đầy đủ",
+                "hơn",
+                "đẹp",
+                "trực tuyến",
+                "tốt"
+            ],
+            "chuyến đi": [],
+            "khách sạn": [
+                "tốt",
+                "chính xác",
+                "chắc chắn",
+                "bất kỳ",
+                "chính xác",
+                "chắc chắn",
+                "bất kỳ"
+            ],
+            "nhân viên": [],
+            "tiền": [],
+            "văn phòng": [],
+            "sản phẩm": [],
+            "rạp hát": [],
+            "ngân": [],
+            "hạng vip": [
+                "cao"
+            ],
+            "sân khấu": [
+                "gần",
+                "nhất",
+                "dễ dàng"
+            ],
+            "buổi biểu diễn": [
+                "hay"
+            ],
+            "ca hát truyền thống": [],
+            "dịch thuật": [
+                "khó"
+            ],
+            "múa rối truyền thống": [
+                "trực tuyến"
+            ],
+            "phòng": [
+                "bất kỳ"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tối thiểu"
+            ],
+            "người dân địa phương": [],
+            "giá": [],
+            "tấm vé": [
+                "nhiều",
+                "cuối cùng"
+            ],
+            "buổi diễn": [],
+            "trải nghiệm": [
+                "khủng khiếp"
+            ],
+            "công ty": [
+                "hỏng",
+                "tốt đẹp"
+            ],
+            "tour du lịch": [],
+            "buổi sáng": [],
+            "khu du lịch": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên": 2.5,
+            "kiến ​​thức": 1.5,
+            "lịch sử": 2.5,
+            "ẩm thực": 3.0,
+            "chuyến du lịch": 2.5,
+            "chương trình": 3,
+            "bừa bộn": 1,
+            "vé rải": 1,
+            "cây cột": 1,
+            "văn hóa việt nam": 2,
+            "nghệ sĩ": 1,
+            "chơi nhạc cụ": 1,
+            "rồng": 1,
+            "nước": 1,
+            "nhà hát": 1,
+            "hàng ghế đầu": 1,
+            "ghế": 1,
+            "dịch vụ": 3,
+            "chuyến đi": 1,
+            "khách sạn": 2.5,
+            "nhân viên": 2,
+            "tiền": 1,
+            "văn phòng": 1,
+            "sản phẩm": 1,
+            "rạp hát": 1,
+            "ngân": 1,
+            "hạng vip": 1,
+            "sân khấu": 1,
+            "buổi biểu diễn": 2,
+            "ca hát truyền thống": 1,
+            "dịch thuật": 1,
+            "múa rối truyền thống": 1,
+            "phòng": 1.5,
+            "chuyến tham quan": 1.5,
+            "người dân địa phương": 1,
+            "giá": 1,
+            "tấm vé": 1,
+            "buổi diễn": 1,
+            "trải nghiệm": 1,
+            "công ty": 1,
+            "tour du lịch": 0.5,
+            "buổi sáng": 0.5,
+            "khu du lịch": 0.5
+        }
     },
     {
         "attraction_name": "Hanoi Tour Zone",
@@ -172,7 +382,224 @@
             "https://www.tripadvisor.com/Attraction_Review-g56306-d270645-Reviews-Monahans_Sandhills_State_Park-Monahans_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d19125410-Reviews-or20-Hanoi_Tour_Zone-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d19125410-Reviews-or10-Hanoi_Tour_Zone-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d19125410-Reviews-or10-Hanoi_Tour_Zone-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi bộ": 0.9904661037144251,
+            "hướng dẫn viên địa phương": 0.5,
+            "khu phố cổ": 0.7330867452546954,
+            "múa": 0.8737691454589367,
+            "rối nước": 0.9955976462806575,
+            "nghệ thuật": 0.9950981695437804,
+            "dịch vụ": 0.9898119001106048,
+            "đoàn du lịch": 0.9893225349951535,
+            "giá": 0.5889505541029697,
+            "khách sạn": 0.9843063068110496,
+            "rạp": -0.5478772819042206,
+            "sản phẩm": 0.7583293216302991,
+            "trả lương": 0.5,
+            "nhân viên": 0.5,
+            "phí vận chuyển": 0.5,
+            "văn phòng": 0.5,
+            "buổi biểu diễn": 0.9735265276394784,
+            "hướng dẫn viên du lịch": 0.9954011935042217,
+            "chuyến tham quan": 0.6228938962158281,
+            "nhân vật": 0.9953705796506256,
+            "câu chuyện xa": 0.48451112024486065,
+            "hồ nước": 0.5,
+            "thanh": 0.5,
+            "cuộc sống": 0.5,
+            "làng quê": 0.5,
+            "âm nhạc": 0.9955598678789102,
+            "phương": 0.9821996653918177,
+            "phố cổ": 0.5,
+            "người hướng dẫn": 0.5,
+            "hướng dẫn viên": 0.8737691454589367,
+            "trái cây": -0.7592185200192034,
+            "món ăn địa phương": 0.3555923979729414,
+            "lịch sử": 0.03326902404660359,
+            "món ăn": 0.9946280091050236,
+            "mức": 0.671755573246628,
+            "vân": 0.8737691454589367,
+            "trang": 0.8737691454589367,
+            "họ": 0.8737691454589367,
+            "hồ": 0.8737691454589367,
+            "nhà tổ chức": 0.9943010319257155,
+            "trải nghiệm": 0.9930784344905987,
+            "quán cà phê ẩn": 0.9955402893829159
+        },
+        "dicts_adj": {
+            "chuyến đi bộ": [
+                "đặc biệt",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên địa phương": [],
+            "khu phố cổ": [
+                "ngon"
+            ],
+            "múa": [
+                "đẹp"
+            ],
+            "rối nước": [
+                "đẹp"
+            ],
+            "nghệ thuật": [
+                "độc đáo"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "có thể"
+            ],
+            "đoàn du lịch": [
+                "tốt",
+                "tốt"
+            ],
+            "giá": [
+                "hợp lý",
+                "nhất"
+            ],
+            "khách sạn": [],
+            "rạp": [
+                "khẩn cấp",
+                "đầy đủ",
+                "khẩn cấp",
+                "đầy đủ"
+            ],
+            "sản phẩm": [
+                "trực tuyến",
+                "trực tuyến"
+            ],
+            "trả lương": [],
+            "nhân viên": [],
+            "phí vận chuyển": [],
+            "văn phòng": [],
+            "buổi biểu diễn": [
+                "trực tuyến",
+                "thuận tiện",
+                "hơn",
+                "trực tuyến",
+                "thuận tiện",
+                "hơn"
+            ],
+            "hướng dẫn viên du lịch": [
+                "vui lòng",
+                "vui lòng"
+            ],
+            "chuyến tham quan": [],
+            "nhân vật": [
+                "liền"
+            ],
+            "câu chuyện xa": [
+                "xa xưa"
+            ],
+            "hồ nước": [],
+            "thanh": [],
+            "cuộc sống": [],
+            "làng quê": [],
+            "âm nhạc": [
+                "thú vị"
+            ],
+            "phương": [
+                "rảnh rỗi",
+                "tốt"
+            ],
+            "phố cổ": [],
+            "người hướng dẫn": [],
+            "hướng dẫn viên": [
+                "xuất sắc",
+                "hiểu biết",
+                "tốt"
+            ],
+            "trái cây": [
+                "khác"
+            ],
+            "món ăn địa phương": [
+                "khác"
+            ],
+            "lịch sử": [
+                "khác",
+                "ẩn tuyệt",
+                "đẹp"
+            ],
+            "món ăn": [
+                "ngon",
+                "ngon",
+                "nhất",
+                "ngon"
+            ],
+            "mức": [
+                "hợp lý",
+                "nhất"
+            ],
+            "vân": [
+                "tuyệt vời"
+            ],
+            "trang": [
+                "tuyệt vời"
+            ],
+            "họ": [
+                "ngon"
+            ],
+            "hồ": [
+                "ngon"
+            ],
+            "nhà tổ chức": [
+                "tuyệt vời",
+                "kịp thời"
+            ],
+            "trải nghiệm": [
+                "chắc chắn"
+            ],
+            "quán cà phê ẩn": [
+                "ẩn tuyệt",
+                "đẹp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi bộ": 1.0,
+            "hướng dẫn viên địa phương": 0.5,
+            "khu phố cổ": 1.0,
+            "múa": 0.5,
+            "rối nước": 0.5,
+            "nghệ thuật": 0.5,
+            "dịch vụ": 1.5,
+            "đoàn du lịch": 1.0,
+            "giá": 1.5,
+            "khách sạn": 1.0,
+            "rạp": 1.0,
+            "sản phẩm": 1.0,
+            "trả lương": 1.0,
+            "nhân viên": 1.0,
+            "phí vận chuyển": 1.0,
+            "văn phòng": 1.0,
+            "buổi biểu diễn": 1.0,
+            "hướng dẫn viên du lịch": 1.0,
+            "chuyến tham quan": 2.0,
+            "nhân vật": 0.5,
+            "câu chuyện xa": 0.5,
+            "hồ nước": 0.5,
+            "thanh": 0.5,
+            "cuộc sống": 0.5,
+            "làng quê": 0.5,
+            "âm nhạc": 0.5,
+            "phương": 0.5,
+            "phố cổ": 0.5,
+            "người hướng dẫn": 0.5,
+            "hướng dẫn viên": 0.5,
+            "trái cây": 0.5,
+            "món ăn địa phương": 0.5,
+            "lịch sử": 1.0,
+            "món ăn": 1.5,
+            "mức": 0.5,
+            "vân": 0.5,
+            "trang": 0.5,
+            "họ": 0.5,
+            "hồ": 0.5,
+            "nhà tổ chức": 0.5,
+            "trải nghiệm": 0.5,
+            "quán cà phê ẩn": 0.5
+        }
     },
     {
         "attraction_name": "Hanoi Tour Zone",
@@ -258,7 +685,254 @@
             "https://www.tripadvisor.com/Attraction_Review-g1069599-d2489847-Reviews-Togo_Bay_Beach-Porto_Cesareo_Province_of_Lecce_Puglia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d19125410-Reviews-or30-Hanoi_Tour_Zone-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d19125410-Reviews-or20-Hanoi_Tour_Zone-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d19125410-Reviews-or20-Hanoi_Tour_Zone-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.6267303163088703,
+            "khu phố cổ": 0.7896892156762382,
+            "hướng dẫn viên": 0.42768843191637035,
+            "chủ đề": -0.3858591951429844,
+            "câu chuyện": 0.34707480063661933,
+            "thử món": 0.9949337797006592,
+            "cầu long biên": 0.9919847225537524,
+            "trà nóng đá": 0.5,
+            "đồ ăn nhẹ": 0.5,
+            "hạt": 0.5,
+            "quán cà phê": 0.5,
+            "phố": 0.5,
+            "văn hóa": -0.23797642497811466,
+            "sự kiện": 0.5,
+            "lịch sử": 0.25946808233857155,
+            "con trai": 0.9849416728829965,
+            "đãi": 0.5,
+            "họ": 0.5,
+            "trà": 0.5,
+            "hướng dẫn viên du lịch": 0.9955097050406039,
+            "khoảng thời gian": 0.9954074610141106,
+            "trải nghiệm": 0.9955322306486778,
+            "lý": 0.9954422747250646,
+            "hồ nước": 0.5,
+            "người bạn hướng dẫn": 0.9548528185114264,
+            "chuyến thăm": 0.5,
+            "cà phê trứng": 0.9954835965763777,
+            "địa điểm": 0.6868845727294683,
+            "ẩm thực đường phố": 0.868029672652483,
+            "món ăn": 0.6825705207957071,
+            "địa phương": 0.5,
+            "phòng": 0.9934350796975195,
+            "khách sạn": -0.9738092739135027,
+            "điểm tham": 0.5,
+            "chuyến": 0.9944452907657251,
+            "xe buýt": 0.5417106654495001,
+            "nhà hát": 0.6595671412845453,
+            "buổi biểu diễn": -0.572694705799222,
+            "vé điện": 0.5,
+            "đoán": 0.5141971111297607,
+            "hàng": 0.5541587900370359,
+            "lịch trình": 0.9406666292343289,
+            "thức ăn": 0.8737691454589367,
+            "thực phẩm": 0.9720685679931194,
+            "đồ ăn": 0.9188324706628919,
+            "văn miếu": 0.8737691454589367,
+            "bánh mì": 0.5
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "chuyên nghiệp",
+                "nhiều",
+                "nhiều",
+                "tốt",
+                "thân thiện",
+                "vội vã",
+                "suốt",
+                "hoàn toàn"
+            ],
+            "khu phố cổ": [
+                "tốt"
+            ],
+            "hướng dẫn viên": [
+                "chuyên nghiệp",
+                "nhiều",
+                "nhiều",
+                "tốt",
+                "thú vị",
+                "đúng",
+                "ngắn gọn"
+            ],
+            "chủ đề": [
+                "ngắn gọn"
+            ],
+            "câu chuyện": [
+                "ngắn gọn",
+                "tốt",
+                "tốt"
+            ],
+            "thử món": [
+                "hào hứng",
+                "đặc biệt"
+            ],
+            "cầu long biên": [
+                "nhiều",
+                "an toàn",
+                "đặc biệt"
+            ],
+            "trà nóng đá": [],
+            "đồ ăn nhẹ": [],
+            "hạt": [],
+            "quán cà phê": [],
+            "phố": [],
+            "văn hóa": [
+                "khác"
+            ],
+            "sự kiện": [],
+            "lịch sử": [
+                "khác"
+            ],
+            "con trai": [
+                "nhiều"
+            ],
+            "đãi": [],
+            "họ": [],
+            "trà": [],
+            "hướng dẫn viên du lịch": [
+                "tuyệt đối"
+            ],
+            "khoảng thời gian": [
+                "nhiều",
+                "tuyệt vời",
+                "nhất"
+            ],
+            "trải nghiệm": [
+                "nhiều"
+            ],
+            "lý": [
+                "tuyệt vời"
+            ],
+            "hồ nước": [],
+            "người bạn hướng dẫn": [],
+            "chuyến thăm": [],
+            "cà phê trứng": [
+                "tuyệt vời",
+                "hoàn toàn",
+                "ngon"
+            ],
+            "địa điểm": [
+                "nhiều"
+            ],
+            "ẩm thực đường phố": [
+                "nhiều"
+            ],
+            "món ăn": [
+                "ngon",
+                "ngon",
+                "nhiều",
+                "khác",
+                "giỏi",
+                "đầu tiên"
+            ],
+            "địa phương": [],
+            "phòng": [
+                "nhiệt tình",
+                "đầu tiên"
+            ],
+            "khách sạn": [
+                "đúng",
+                "ngắn gọn"
+            ],
+            "điểm tham": [],
+            "chuyến": [
+                "kiên nhẫn",
+                "nhanh chóng",
+                "mệt mỏi",
+                "sớm"
+            ],
+            "xe buýt": [
+                "nhiều",
+                "hơn"
+            ],
+            "nhà hát": [
+                "riêng",
+                "kín",
+                "sang trọng",
+                "liên tục",
+                "khác",
+                "lớn"
+            ],
+            "buổi biểu diễn": [
+                "cuối cùng"
+            ],
+            "vé điện": [],
+            "đoán": [],
+            "hàng": [],
+            "lịch trình": [
+                "cuối cùng"
+            ],
+            "thức ăn": [
+                "ngon"
+            ],
+            "thực phẩm": [
+                "tốt",
+                "nhỏ",
+                "no"
+            ],
+            "đồ ăn": [
+                "nhiều"
+            ],
+            "văn miếu": [
+                "lớn"
+            ],
+            "bánh mì": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 1.0,
+            "khu phố cổ": 1.5,
+            "hướng dẫn viên": 1.5,
+            "chủ đề": 0.5,
+            "câu chuyện": 1.0,
+            "thử món": 0.5,
+            "cầu long biên": 0.5,
+            "trà nóng đá": 0.5,
+            "đồ ăn nhẹ": 0.5,
+            "hạt": 0.5,
+            "quán cà phê": 0.5,
+            "phố": 0.5,
+            "văn hóa": 1.0,
+            "sự kiện": 0.5,
+            "lịch sử": 1.5,
+            "con trai": 0.5,
+            "đãi": 0.5,
+            "họ": 0.5,
+            "trà": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "khoảng thời gian": 0.5,
+            "trải nghiệm": 0.5,
+            "lý": 0.5,
+            "hồ nước": 0.5,
+            "người bạn hướng dẫn": 0.5,
+            "chuyến thăm": 0.5,
+            "cà phê trứng": 0.5,
+            "địa điểm": 1.0,
+            "ẩm thực đường phố": 0.5,
+            "món ăn": 1.0,
+            "địa phương": 0.5,
+            "phòng": 0.5,
+            "khách sạn": 0.5,
+            "điểm tham": 0.5,
+            "chuyến": 0.5,
+            "xe buýt": 0.5,
+            "nhà hát": 1.5,
+            "buổi biểu diễn": 0.5,
+            "vé điện": 0.5,
+            "đoán": 0.5,
+            "hàng": 0.5,
+            "lịch trình": 0.5,
+            "thức ăn": 0.5,
+            "thực phẩm": 0.5,
+            "đồ ăn": 0.5,
+            "văn miếu": 0.5,
+            "bánh mì": 0.5
+        }
     },
     {
         "attraction_name": "Hanoi Tour Zone",
@@ -345,7 +1019,300 @@
             "https://www.tripadvisor.com/Attraction_Review-g293983-d13494357-Reviews-Israel_Aquarium-Jerusalem_Jerusalem_District.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d19125410-Reviews-or40-Hanoi_Tour_Zone-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d19125410-Reviews-or30-Hanoi_Tour_Zone-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d19125410-Reviews-or30-Hanoi_Tour_Zone-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tour du lịch": 0.8737691454589367,
+            "lịch sử": 0.507883058860898,
+            "hướng dẫn viên": 0.8385872855100648,
+            "văn hóa": 0.009616144001483917,
+            "chuyến đi": 0.7859146495582536,
+            "tour": 0.5,
+            "khu du lịch": 0.5,
+            "chuyến tham quan": 0.6952500158261198,
+            "chou chou": 0.8737691454589367,
+            "hướng dẫn viên sinh viên": 0.7955860840156674,
+            "khách sạn": 0.4186671953260278,
+            "chuyến lưu diễn": 0.9004999949975172,
+            "công dân": 0.5211951090022922,
+            "cà phê": 0.5,
+            "đặc sản": 0.7477326531952713,
+            "trải nghiệm": 0.5,
+            "chou": 0.8737691454589367,
+            "xe buýt địa phương": 0.5,
+            "hướng dẫn viên du lịch": 0.9953137337579392,
+            "món ăn": 0.9953775356601303,
+            "ẩm thực": 0.7440794395515695,
+            "cà phê trứng": 0.9169554113177583,
+            "kiến": 0.893480333907064,
+            "nhà hát": 0.8737691454589367,
+            "khu phố": 0.8737691454589367,
+            "hồ hoàn kiếm": 0.5,
+            "đền ngọc sơn": 0.5,
+            "múa": 0.5,
+            "rối nước": 0.5,
+            "buổi biểu diễn": 0.9837425143341534,
+            "địa điểm uống": 0.5,
+            "con phố": 0.5,
+            "khu chợ cổ": 0.5,
+            "cầu đường sắt": 0.6510631525889039,
+            "công": 0.5,
+            "dịch vụ": 0.9873089068569243,
+            "đoàn du lịch": 0.9893225349951535,
+            "giá": 0.5,
+            "rạp": -0.5478772819042206,
+            "sản phẩm": 0.7583293216302991,
+            "trả lương": 0.5,
+            "nhân viên": 0.5,
+            "phí vận chuyển": 0.5,
+            "văn phòng": 0.5,
+            "ẩm thực địa phương": 0.5,
+            "khu phố cổ": 0.5476955141251286,
+            "bánh cuốn phở bò gỏi": 0.9951977765886113,
+            "thịt bò": 0.9827020975062624,
+            "cả kem": 0.6731479714314142,
+            "phố": 0.9789043516696742,
+            "người hướng dẫn": 0.995551731903106,
+            "địa điểm": -0.7995142359286547,
+            "nhà hàng": 0.5,
+            "hồ": 0.5,
+            "ngôi đền": 0.5,
+            "nhà thờ": 0.5,
+            "nhà tù": 0.5,
+            "rượu": 0.5,
+            "sinh viên": 0.9648371022194624,
+            "văn hóa việt nam": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "tour du lịch": [
+                "thú vị"
+            ],
+            "lịch sử": [],
+            "hướng dẫn viên": [
+                "trẻ",
+                "giỏi",
+                "tuyệt vời",
+                "tự nhiên",
+                "nhiệt tình",
+                "nhiều",
+                "thực sự"
+            ],
+            "văn hóa": [
+                "suốt"
+            ],
+            "chuyến đi": [
+                "khác",
+                "tốt"
+            ],
+            "tour": [],
+            "khu du lịch": [],
+            "chuyến tham quan": [
+                "tốt",
+                "thú vị",
+                "tuyệt vời",
+                "chắc chắn"
+            ],
+            "chou chou": [
+                "đúng",
+                "tuyệt vời",
+                "nhiều",
+                "thân thiện",
+                "tốt"
+            ],
+            "hướng dẫn viên sinh viên": [
+                "đúng"
+            ],
+            "khách sạn": [
+                "đúng",
+                "hoành tráng",
+                "an toàn",
+                "thú vị"
+            ],
+            "chuyến lưu diễn": [
+                "tuyệt vời",
+                "nhiều",
+                "thân thiện",
+                "tốt"
+            ],
+            "công dân": [
+                "có thể",
+                "riêng",
+                "lớn tuổi",
+                "chậm chạp"
+            ],
+            "cà phê": [],
+            "đặc sản": [
+                "thơm",
+                "ngon"
+            ],
+            "trải nghiệm": [],
+            "chou": [
+                "cùng"
+            ],
+            "xe buýt địa phương": [],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "vui lòng"
+            ],
+            "món ăn": [
+                "tuyệt vời",
+                "cơ bản",
+                "thú vị"
+            ],
+            "ẩm thực": [
+                "suốt"
+            ],
+            "cà phê trứng": [
+                "tuyệt vời",
+                "thơm",
+                "ngon"
+            ],
+            "kiến": [
+                "thực sự",
+                "thú vị"
+            ],
+            "nhà hát": [
+                "hoành tráng"
+            ],
+            "khu phố": [
+                "hoành tráng"
+            ],
+            "hồ hoàn kiếm": [],
+            "đền ngọc sơn": [],
+            "múa": [],
+            "rối nước": [],
+            "buổi biểu diễn": [
+                "nổi bật",
+                "nhất",
+                "trực tuyến",
+                "thuận tiện",
+                "hơn"
+            ],
+            "địa điểm uống": [],
+            "con phố": [],
+            "khu chợ cổ": [],
+            "cầu đường sắt": [],
+            "công": [],
+            "dịch vụ": [],
+            "đoàn du lịch": [
+                "tốt"
+            ],
+            "giá": [],
+            "rạp": [
+                "khẩn cấp",
+                "đầy đủ"
+            ],
+            "sản phẩm": [
+                "trực tuyến"
+            ],
+            "trả lương": [],
+            "nhân viên": [],
+            "phí vận chuyển": [],
+            "văn phòng": [],
+            "ẩm thực địa phương": [],
+            "khu phố cổ": [
+                "khác"
+            ],
+            "bánh cuốn phở bò gỏi": [
+                "xanh"
+            ],
+            "thịt bò": [
+                "bất ngờ",
+                "lâu đời",
+                "nhất"
+            ],
+            "cả kem": [
+                "bất ngờ",
+                "lâu đời",
+                "nhất"
+            ],
+            "phố": [
+                "bất ngờ",
+                "lâu đời",
+                "nhất"
+            ],
+            "người hướng dẫn": [
+                "khác"
+            ],
+            "địa điểm": [
+                "khác"
+            ],
+            "nhà hàng": [],
+            "hồ": [],
+            "ngôi đền": [],
+            "nhà thờ": [],
+            "nhà tù": [],
+            "rượu": [],
+            "sinh viên": [
+                "nhiều"
+            ],
+            "văn hóa việt nam": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tour du lịch": 0.5,
+            "lịch sử": 2.0,
+            "hướng dẫn viên": 3.5,
+            "văn hóa": 1.5,
+            "chuyến đi": 2.5,
+            "tour": 0.5,
+            "khu du lịch": 0.5,
+            "chuyến tham quan": 2.5,
+            "chou chou": 0.5,
+            "hướng dẫn viên sinh viên": 0.5,
+            "khách sạn": 2.0,
+            "chuyến lưu diễn": 0.5,
+            "công dân": 0.5,
+            "cà phê": 1.0,
+            "đặc sản": 1.0,
+            "trải nghiệm": 0.5,
+            "chou": 0.5,
+            "xe buýt địa phương": 0.5,
+            "hướng dẫn viên du lịch": 1.0,
+            "món ăn": 0.5,
+            "ẩm thực": 1.0,
+            "cà phê trứng": 1.5,
+            "kiến": 0.5,
+            "nhà hát": 0.5,
+            "khu phố": 0.5,
+            "hồ hoàn kiếm": 0.5,
+            "đền ngọc sơn": 0.5,
+            "múa": 0.5,
+            "rối nước": 0.5,
+            "buổi biểu diễn": 1.0,
+            "địa điểm uống": 0.5,
+            "con phố": 0.5,
+            "khu chợ cổ": 0.5,
+            "cầu đường sắt": 0.5,
+            "công": 0.5,
+            "dịch vụ": 0.5,
+            "đoàn du lịch": 0.5,
+            "giá": 0.5,
+            "rạp": 0.5,
+            "sản phẩm": 0.5,
+            "trả lương": 0.5,
+            "nhân viên": 0.5,
+            "phí vận chuyển": 0.5,
+            "văn phòng": 0.5,
+            "ẩm thực địa phương": 0.5,
+            "khu phố cổ": 1.5,
+            "bánh cuốn phở bò gỏi": 0.5,
+            "thịt bò": 0.5,
+            "cả kem": 0.5,
+            "phố": 0.5,
+            "người hướng dẫn": 0.5,
+            "địa điểm": 0.5,
+            "nhà hàng": 0.5,
+            "hồ": 0.5,
+            "ngôi đền": 0.5,
+            "nhà thờ": 0.5,
+            "nhà tù": 0.5,
+            "rượu": 0.5,
+            "sinh viên": 0.5,
+            "văn hóa việt nam": 0.5
+        }
     },
     {
         "attraction_name": "Hanoi Tour Zone",
@@ -431,7 +1398,210 @@
             "https://www.tripadvisor.com/Attraction_Review-g56891-d2294155-Reviews-The_Falls_in_Lucy_Park-Wichita_Falls_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d19125410-Reviews-or50-Hanoi_Tour_Zone-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d19125410-Reviews-or40-Hanoi_Tour_Zone-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d19125410-Reviews-or40-Hanoi_Tour_Zone-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên": 0.7229440812176714,
+            "khu phố cổ": 0.6712556571389238,
+            "cà phê trứng": 0.7476067205134314,
+            "sa mạc": 0.5,
+            "người bán hàng rong": 0.5,
+            "chuyến tham quan": 0.7453437187417876,
+            "hồ hoàn kiếm": 0.8737691454589367,
+            "chợ xuân đông": 0.8737691454589367,
+            "cầu long biên": 0.8737691454589367,
+            "điểm tham quan": -0.9407074416521937,
+            "người dẫn": 0.5012306794524193,
+            "đồ uống": 0.5,
+            "thực phẩm": 0.9949620309052989,
+            "chuyến lưu diễn": 0.9890111521817744,
+            "khu phố pháp": 0.8737691454589367,
+            "quán cà phê": 0.529670238494873,
+            "ngôi chùa": 0.5119880698621273,
+            "người dân địa phương": 0.9909146437421441,
+            "trải nghiệm": 0.9952929429709911,
+            "ẩm thực đường phố": 0.4538700059056282,
+            "khoảng thời gian": 0.9953072104835883,
+            "ẩm thực": 0.7335523385554552,
+            "đồ ăn": 0.9955383458000142,
+            "chuyến đi": 0.9114916864782572,
+            "người hướng dẫn": 0.6936264473285216,
+            "sinh viên địa phương": 0.5,
+            "văn hóa việt nam": 0.8737691454589367,
+            "nhà thờ": 0.5,
+            "hồ nước": 0.5,
+            "chợ": 0.5,
+            "phố bích họa": 0.5,
+            "ngôi nhà truyền thống": 0.5,
+            "múa rối nước": 0.48276823200285435,
+            "lịch sử": -0.9646623320877552,
+            "chuyến du lịch": 0.982424390502274,
+            "chất lượng": 0.9921769790817052,
+            "không khí": -0.9724778798408806,
+            "văn hóa": 0.5,
+            "khí hậu": 0.5,
+            "môi trường": 0.5,
+            "cửa hàng": 0.9766387379495427,
+            "công": 0.9955578385852277
+        },
+        "dicts_adj": {
+            "hướng dẫn viên": [
+                "vui vẻ",
+                "thực sự",
+                "giỏi",
+                "tốt"
+            ],
+            "khu phố cổ": [],
+            "cà phê trứng": [
+                "ngon"
+            ],
+            "sa mạc": [],
+            "người bán hàng rong": [],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "ít",
+                "đói",
+                "tuyệt vời",
+                "tự nhiên",
+                "tuyệt vời"
+            ],
+            "hồ hoàn kiếm": [
+                "khác"
+            ],
+            "chợ xuân đông": [
+                "khác"
+            ],
+            "cầu long biên": [
+                "khác"
+            ],
+            "điểm tham quan": [
+                "khác"
+            ],
+            "người dẫn": [],
+            "đồ uống": [],
+            "thực phẩm": [
+                "thông tin",
+                "hữu ích"
+            ],
+            "chuyến lưu diễn": [
+                "duy nhất",
+                "tốt"
+            ],
+            "khu phố pháp": [
+                "ẩn mình"
+            ],
+            "quán cà phê": [
+                "ẩn mình"
+            ],
+            "ngôi chùa": [
+                "ẩn mình"
+            ],
+            "người dân địa phương": [
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "ẩm thực đường phố": [
+                "đói"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "ẩm thực": [
+                "thực sự"
+            ],
+            "đồ ăn": [
+                "ngon",
+                "ngon"
+            ],
+            "chuyến đi": [],
+            "người hướng dẫn": [
+                "tuyệt vời",
+                "nhiều",
+                "hơn"
+            ],
+            "sinh viên địa phương": [],
+            "văn hóa việt nam": [
+                "thân thiện",
+                "nhiều",
+                "nhiều"
+            ],
+            "nhà thờ": [],
+            "hồ nước": [],
+            "chợ": [],
+            "phố bích họa": [],
+            "ngôi nhà truyền thống": [],
+            "múa rối nước": [
+                "nhiều"
+            ],
+            "lịch sử": [
+                "nhiều"
+            ],
+            "chuyến du lịch": [],
+            "chất lượng": [
+                "tốt"
+            ],
+            "không khí": [
+                "đẹp"
+            ],
+            "văn hóa": [],
+            "khí hậu": [],
+            "môi trường": [],
+            "cửa hàng": [
+                "hoàn toàn"
+            ],
+            "công": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên": 2.0,
+            "khu phố cổ": 1.5,
+            "cà phê trứng": 1.0,
+            "sa mạc": 0.5,
+            "người bán hàng rong": 0.5,
+            "chuyến tham quan": 2.5,
+            "hồ hoàn kiếm": 0.5,
+            "chợ xuân đông": 0.5,
+            "cầu long biên": 0.5,
+            "điểm tham quan": 0.5,
+            "người dẫn": 0.5,
+            "đồ uống": 0.5,
+            "thực phẩm": 0.5,
+            "chuyến lưu diễn": 0.5,
+            "khu phố pháp": 0.5,
+            "quán cà phê": 0.5,
+            "ngôi chùa": 0.5,
+            "người dân địa phương": 0.5,
+            "trải nghiệm": 0.5,
+            "ẩm thực đường phố": 0.5,
+            "khoảng thời gian": 1.0,
+            "ẩm thực": 1.0,
+            "đồ ăn": 1.0,
+            "chuyến đi": 0.5,
+            "người hướng dẫn": 1.0,
+            "sinh viên địa phương": 0.5,
+            "văn hóa việt nam": 1.0,
+            "nhà thờ": 0.5,
+            "hồ nước": 0.5,
+            "chợ": 0.5,
+            "phố bích họa": 0.5,
+            "ngôi nhà truyền thống": 0.5,
+            "múa rối nước": 0.5,
+            "lịch sử": 0.5,
+            "chuyến du lịch": 0.5,
+            "chất lượng": 0.5,
+            "không khí": 0.5,
+            "văn hóa": 0.5,
+            "khí hậu": 0.5,
+            "môi trường": 0.5,
+            "cửa hàng": 0.5,
+            "công": 0.5
+        }
     },
     {
         "attraction_name": "Hanoi Tour Zone",
@@ -503,6 +1673,77 @@
             "https://www.tripadvisor.com/Attraction_Review-g46341-d273155-Reviews-Poverty_Beach-Cape_May_Cape_May_County_New_Jersey.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d19125410-Reviews-or50-Hanoi_Tour_Zone-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d19125410-Reviews-or50-Hanoi_Tour_Zone-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên": 0.6342614848108497,
+            "khách sạn": 0.5,
+            "chuyến đi bộ": 0.5,
+            "cầu chương dương": 0.5,
+            "nhà di sản": 0.5,
+            "hồ hoàn kiếm": 0.5,
+            "tương": 0.9882839359343052,
+            "đồ ăn đường phố": 0.5,
+            "nhà hàng": 0.5,
+            "chuyến tham quan": 0.5,
+            "cà phê trứng": 0.5,
+            "nhà": 0.5,
+            "cà phê giang": 0.5,
+            "cơm": 0.5,
+            "người dân địa phương": 0.9876451711170375,
+            "bữa cùng": 0.5,
+            "văn hóa": 0.5507004801183939,
+            "giá cả": 0.9680773260770366
+        },
+        "dicts_adj": {
+            "hướng dẫn viên": [
+                "đầu tiên"
+            ],
+            "khách sạn": [],
+            "chuyến đi bộ": [],
+            "cầu chương dương": [],
+            "nhà di sản": [],
+            "hồ hoàn kiếm": [],
+            "tương": [
+                "đầu tiên"
+            ],
+            "đồ ăn đường phố": [],
+            "nhà hàng": [],
+            "chuyến tham quan": [],
+            "cà phê trứng": [],
+            "nhà": [],
+            "cà phê giang": [],
+            "cơm": [],
+            "người dân địa phương": [
+                "đầu tiên",
+                "tốt"
+            ],
+            "bữa cùng": [],
+            "văn hóa": [],
+            "giá cả": [
+                "hợp lý"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên": 1.0,
+            "khách sạn": 0.5,
+            "chuyến đi bộ": 0.5,
+            "cầu chương dương": 0.5,
+            "nhà di sản": 0.5,
+            "hồ hoàn kiếm": 0.5,
+            "tương": 0.5,
+            "đồ ăn đường phố": 0.5,
+            "nhà hàng": 0.5,
+            "chuyến tham quan": 1.0,
+            "cà phê trứng": 0.5,
+            "nhà": 0.5,
+            "cà phê giang": 0.5,
+            "cơm": 0.5,
+            "người dân địa phương": 0.5,
+            "bữa cùng": 0.5,
+            "văn hóa": 1,
+            "giá cả": 1
+        }
     }
 ]

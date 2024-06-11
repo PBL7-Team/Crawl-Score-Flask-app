@@ -103,7 +103,174 @@
             "https://www.tripadvisor.com/Attraction_Review-g187497-d295879-Reviews-Palau_Guell-Barcelona_Catalonia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293923-d7940528-Reviews-or10-Bai_Chai_Bridge-Halong_Bay_Quang_Ninh_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d7940528-Reviews-Bai_Chai_Bridge-Halong_Bay_Quang_Ninh_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d7940528-Reviews-Bai_Chai_Bridge-Halong_Bay_Quang_Ninh_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "sông": 0.8168177613988519,
+            "cây cầu": 0.8900924616144039,
+            "cây cầu giống": 0.7130674505606294,
+            "chuyến đi bộ": 0.5217353502909342,
+            "cầu": 0.5060269348323345,
+            "vịnh": 0.8132958684582263,
+            "chải": 0.5,
+            "cây cầu dây văng": -0.8158746855333447,
+            "dây cáp": 0.5,
+            "cầu trông": 0.9833029108121991,
+            "vòng": 0.8737691454589367,
+            "ánh sáng": 0.6988474056124687,
+            "bãi chài": 0.8737691454589367,
+            "chuyến tham quan": 0.9717609516034523,
+            "hành trình": 0.5,
+            "đảo": 0.5,
+            "cây": 0.3664329276167943,
+            "cầu treo dây cáp": 0.7764197196811438,
+            "khách sạn": 0.5,
+            "thị trấn": 0.5,
+            "bảo tàng": 0.5,
+            "cầu treo": 0.39146221295717015,
+            "vùng biển": 0.5,
+            "phông": 0.9952033157460392
+        },
+        "dicts_adj": {
+            "sông": [
+                "tốt",
+                "tốt"
+            ],
+            "cây cầu": [
+                "tốt",
+                "nhất",
+                "nhất",
+                "nhất",
+                "đẹp",
+                "uy nghi",
+                "vương giả",
+                "đẹp",
+                "đẹp",
+                "tốt",
+                "đặc biệt",
+                "đẹp",
+                "sáng",
+                "nhiều",
+                "giống",
+                "hữu ích",
+                "đặc biệt",
+                "nhiều",
+                "tương tự",
+                "khác",
+                "đẹp"
+            ],
+            "cây cầu giống": [
+                "nhất"
+            ],
+            "chuyến đi bộ": [
+                "dài",
+                "nóng",
+                "ẩm"
+            ],
+            "cầu": [
+                "dài"
+            ],
+            "vịnh": [
+                "nhiều",
+                "tuyệt khi",
+                "nhỏ",
+                "sẵn",
+                "nhiều",
+                "cùng",
+                "hiện đại",
+                "đẹp",
+                "cao",
+                "chót vót"
+            ],
+            "chải": [],
+            "cây cầu dây văng": [
+                "dài",
+                "nhất"
+            ],
+            "dây cáp": [],
+            "cầu trông": [
+                "thực sự",
+                "đẹp"
+            ],
+            "vòng": [
+                "gần",
+                "nhiều"
+            ],
+            "ánh sáng": [
+                "nhiều",
+                "hơn"
+            ],
+            "bãi chài": [
+                "giống",
+                "sai lầm",
+                "dài"
+            ],
+            "chuyến tham quan": [
+                "sẵn",
+                "nhiều",
+                "cùng"
+            ],
+            "hành trình": [],
+            "đảo": [],
+            "cây": [
+                "lớn",
+                "nhất",
+                "hiện đại",
+                "đẹp",
+                "cao",
+                "chót vót",
+                "dài"
+            ],
+            "cầu treo dây cáp": [
+                "lớn",
+                "nhất"
+            ],
+            "khách sạn": [],
+            "thị trấn": [],
+            "bảo tàng": [],
+            "cầu treo": [
+                "nhiều",
+                "suốt",
+                "thú vị",
+                "hiện đại",
+                "đẹp",
+                "cao",
+                "chót vót",
+                "dài"
+            ],
+            "vùng biển": [],
+            "phông": [
+                "đẹp",
+                "đẹp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "sông": 1.5,
+            "cây cầu": 5.0,
+            "cây cầu giống": 1.5,
+            "chuyến đi bộ": 1.5,
+            "cầu": 1.0,
+            "vịnh": 2.0,
+            "chải": 0.5,
+            "cây cầu dây văng": 0.5,
+            "dây cáp": 0.5,
+            "cầu trông": 0.5,
+            "vòng": 0.5,
+            "ánh sáng": 0.5,
+            "bãi chài": 1.0,
+            "chuyến tham quan": 0.5,
+            "hành trình": 0.5,
+            "đảo": 0.5,
+            "cây": 1.5,
+            "cầu treo dây cáp": 0.5,
+            "khách sạn": 0.5,
+            "thị trấn": 0.5,
+            "bảo tàng": 0.5,
+            "cầu treo": 1.5,
+            "vùng biển": 0.5,
+            "phông": 0.5
+        }
     },
     {
         "attraction_name": "Bai Chai Bridge",
@@ -210,7 +377,167 @@
             "https://www.tripadvisor.com/Attraction_Review-g143026-d7103216-Reviews-Two_Medicine_Lake-Glacier_National_Park_Montana.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293923-d7940528-Reviews-or20-Bai_Chai_Bridge-Halong_Bay_Quang_Ninh_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d7940528-Reviews-or10-Bai_Chai_Bridge-Halong_Bay_Quang_Ninh_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d7940528-Reviews-or10-Bai_Chai_Bridge-Halong_Bay_Quang_Ninh_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cây cầu": 0.9492250484036049,
+            "vịnh": 0.8279000739566982,
+            "quang cảnh": 0.5,
+            "vòng quay mặt trời": 0.5,
+            "công viên": 0.7462476550135761,
+            "khách sạn": 0.5250302935019135,
+            "tầm nhìn": 0.5,
+            "thị trấn": 0.5,
+            "vùng đất chính": 0.9825253747403622,
+            "cây cầu treo": 0.9340396260959096,
+            "ảnh đêm": 0.995550227293279,
+            "khối": 0.5036590583622456,
+            "cấu trúc nhân tạo": 0.4981683362275362,
+            "người dân": 0.7466968362568878,
+            "hiệu": 0.9950472899945453,
+            "núi": 0.8737691454589367,
+            "bài thơ": 0.8737691454589367,
+            "cáp": 0.9107716012513265,
+            "kết cấu kiểu treo": -0.8767031962051988,
+            "phong cách": 0.9912999393418431,
+            "điểm tham quan": 0.9829404028132558,
+            "chuyến tham quan": 0.9892559368163347,
+            "nhà hàng": 0.9949047190020792,
+            "khu mua sắm": 0.9939027056680061,
+            "chuyến đi": 0.993255774024874,
+            "khung cảnh": 0.995340954978019,
+            "cầu": -0.77635598462075,
+            "kỹ sư": 0.6759545188397169
+        },
+        "dicts_adj": {
+            "cây cầu": [
+                "tuyệt vời",
+                "lớn",
+                "hiện đại",
+                "rộng",
+                "thực sự",
+                "đẹp"
+            ],
+            "vịnh": [
+                "hiện đại",
+                "nhiều"
+            ],
+            "quang cảnh": [],
+            "vòng quay mặt trời": [],
+            "công viên": [
+                "lãng mạn"
+            ],
+            "khách sạn": [
+                "tốt"
+            ],
+            "tầm nhìn": [],
+            "thị trấn": [],
+            "vùng đất chính": [
+                "quan trọng"
+            ],
+            "cây cầu treo": [
+                "hiện đại",
+                "đẹp",
+                "hiện đại",
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "ảnh đêm": [
+                "đẹp"
+            ],
+            "khối": [
+                "tự nhiên"
+            ],
+            "cấu trúc nhân tạo": [
+                "hiện đại"
+            ],
+            "người dân": [
+                "lớn"
+            ],
+            "hiệu": [
+                "đẹp",
+                "nhiều",
+                "liên tục"
+            ],
+            "núi": [
+                "toàn cảnh",
+                "rực rỡ"
+            ],
+            "bài thơ": [
+                "toàn cảnh",
+                "rực rỡ"
+            ],
+            "cáp": [
+                "toàn cảnh",
+                "rực rỡ"
+            ],
+            "kết cấu kiểu treo": [
+                "hiện đại",
+                "rộng"
+            ],
+            "phong cách": [
+                "nhiều",
+                "đẹp mắt"
+            ],
+            "điểm tham quan": [
+                "thú vị"
+            ],
+            "chuyến tham quan": [
+                "thú vị"
+            ],
+            "nhà hàng": [
+                "tốt"
+            ],
+            "khu mua sắm": [
+                "tốt"
+            ],
+            "chuyến đi": [],
+            "khung cảnh": [
+                "hoàn toàn",
+                "ngoạn mục"
+            ],
+            "cầu": [
+                "khác"
+            ],
+            "kỹ sư": [
+                "có thể",
+                "thú vị",
+                "lớn",
+                "khác",
+                "nhanh chóng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cây cầu": 2.0,
+            "vịnh": 1.5,
+            "quang cảnh": 0.5,
+            "vòng quay mặt trời": 0.5,
+            "công viên": 1.0,
+            "khách sạn": 1.0,
+            "tầm nhìn": 0.5,
+            "thị trấn": 0.5,
+            "vùng đất chính": 0.5,
+            "cây cầu treo": 1.0,
+            "ảnh đêm": 0.5,
+            "khối": 0.5,
+            "cấu trúc nhân tạo": 0.5,
+            "người dân": 1.0,
+            "hiệu": 0.5,
+            "núi": 0.5,
+            "bài thơ": 0.5,
+            "cáp": 0.5,
+            "kết cấu kiểu treo": 0.5,
+            "phong cách": 0.5,
+            "điểm tham quan": 0.5,
+            "chuyến tham quan": 0.5,
+            "nhà hàng": 0.5,
+            "khu mua sắm": 0.5,
+            "chuyến đi": 0.5,
+            "khung cảnh": 0.5,
+            "cầu": 0.5,
+            "kỹ sư": 0.5
+        }
     },
     {
         "attraction_name": "Bai Chai Bridge",
@@ -318,7 +645,141 @@
             "https://www.tripadvisor.com/Attraction_Review-g297697-d4416527-Reviews-Pandawa_Beach-Kuta_Kuta_District_Bali.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293923-d7940528-Reviews-or30-Bai_Chai_Bridge-Halong_Bay_Quang_Ninh_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d7940528-Reviews-or20-Bai_Chai_Bridge-Halong_Bay_Quang_Ninh_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d7940528-Reviews-or20-Bai_Chai_Bridge-Halong_Bay_Quang_Ninh_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cây cầu": 0.8029481960582502,
+            "cây cầu dài": 0.9910933705978096,
+            "bãi cháy": 0.8737691454589367,
+            "đồi núi": -0.8852121969684958,
+            "người dân địa phương": 0.4733285829424858,
+            "bụi cây": 0.07259665848687291,
+            "xe máy": 0.525580782443285,
+            "công viên": 0.9951866139890626,
+            "tầm nhìn": 0.9953999089775607,
+            "vịnh": 0.5,
+            "khu thương mại": 0.8077485114336014,
+            "bãi chải": 0.8737691454589367,
+            "bai chay": 0.7812677282490768,
+            "văn hóa việt nam": 0.8737691454589367,
+            "trung tâm mua sắm": 0.5,
+            "đồ ăn": 0.9889674787409604,
+            "cuộc chạy marathon": 0.9696455597877502,
+            "hành": 0.5,
+            "địa điểm": 0.9955719468416646,
+            "chuyến tham quan": 0.5,
+            "bái tử": 0.5,
+            "nhấp": 0.5,
+            "nháy": 0.5,
+            "thị trấn": 0.995267714955844,
+            "view": 0.8737691454589367,
+            "cáp treo": 0.5,
+            "cảnh quan thiên nhiên": -0.8518683854490519
+        },
+        "dicts_adj": {
+            "cây cầu": [
+                "đẹp",
+                "nhiều",
+                "đẹp mắt",
+                "cao",
+                "đầy",
+                "tuyệt vời",
+                "bình thường",
+                "đẹp",
+                "sáng"
+            ],
+            "cây cầu dài": [],
+            "bãi cháy": [
+                "nhiều"
+            ],
+            "đồi núi": [
+                "khó khăn"
+            ],
+            "người dân địa phương": [],
+            "bụi cây": [
+                "nhiều",
+                "khác"
+            ],
+            "xe máy": [
+                "may mắn"
+            ],
+            "công viên": [
+                "ngoạn mục"
+            ],
+            "tầm nhìn": [
+                "ngoạn mục"
+            ],
+            "vịnh": [],
+            "khu thương mại": [
+                "giản dị"
+            ],
+            "bãi chải": [
+                "nhanh chóng"
+            ],
+            "bai chay": [
+                "đầy",
+                "tuyệt vời"
+            ],
+            "văn hóa việt nam": [
+                "sâu",
+                "hơn"
+            ],
+            "trung tâm mua sắm": [],
+            "đồ ăn": [
+                "tạm"
+            ],
+            "cuộc chạy marathon": [
+                "tốt"
+            ],
+            "hành": [],
+            "địa điểm": [
+                "sẵn sàng",
+                "chắc chắn",
+                "đẹp"
+            ],
+            "chuyến tham quan": [],
+            "bái tử": [],
+            "nhấp": [],
+            "nháy": [],
+            "thị trấn": [
+                "gần"
+            ],
+            "view": [
+                "đẹp"
+            ],
+            "cáp treo": [],
+            "cảnh quan thiên nhiên": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cây cầu": 3.5,
+            "cây cầu dài": 0.5,
+            "bãi cháy": 0.5,
+            "đồi núi": 0.5,
+            "người dân địa phương": 0.5,
+            "bụi cây": 0.5,
+            "xe máy": 0.5,
+            "công viên": 0.5,
+            "tầm nhìn": 0.5,
+            "vịnh": 1.5,
+            "khu thương mại": 0.5,
+            "bãi chải": 0.5,
+            "bai chay": 0.5,
+            "văn hóa việt nam": 0.5,
+            "trung tâm mua sắm": 0.5,
+            "đồ ăn": 0.5,
+            "cuộc chạy marathon": 0.5,
+            "hành": 0.5,
+            "địa điểm": 0.5,
+            "chuyến tham quan": 0.5,
+            "bái tử": 0.5,
+            "nhấp": 0.5,
+            "nháy": 0.5,
+            "thị trấn": 0.5,
+            "view": 0.5,
+            "cáp treo": 0.5,
+            "cảnh quan thiên nhiên": 0.5
+        }
     },
     {
         "attraction_name": "Bai Chai Bridge",
@@ -426,7 +887,205 @@
             "https://www.tripadvisor.com/Attraction_Review-g189970-d1775157-Reviews-Kiki_Queer_Bar-Reykjavik_Capital_Region.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293923-d7940528-Reviews-or40-Bai_Chai_Bridge-Halong_Bay_Quang_Ninh_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d7940528-Reviews-or30-Bai_Chai_Bridge-Halong_Bay_Quang_Ninh_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d7940528-Reviews-or30-Bai_Chai_Bridge-Halong_Bay_Quang_Ninh_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cây cầu cao": 0.8737691454589367,
+            "đèn led": 0.8737691454589367,
+            "bờ sông": 0.5257516875863075,
+            "cây cầu cáp": 0.9955230447812937,
+            "bãi cháy": 0.8737691454589367,
+            "cây cầu": 0.7771578545604523,
+            "phông": 0.9955614701611921,
+            "tầm nhìn": 0.975501601351425,
+            "tàu du lịch": 0.7468250642268686,
+            "phòng": 0.8737691454589367,
+            "cây": 0.2597747500985861,
+            "cầu đổi": -0.3894610470160842,
+            "tiền": 0.9912009546533227,
+            "đường": 0.5,
+            "khu du lịch": 0.5,
+            "người dân địa phương": 0.7310936679132283,
+            "bài thơ": 0.8737691454589367,
+            "núi": 0.5,
+            "khung cảnh": 0.9213483254425228,
+            "vịnh": 0.7894602876234179,
+            "cả nước": 0.5356192588806152,
+            "biển": -0.6046680733561516,
+            "đi bộ": 0.0049125682562589645,
+            "quán cà phê": 0.9943888785201125,
+            "xe gắn máy ngựa": 0.5,
+            "xe ngựa": 0.5,
+            "bùn": 0.5,
+            "xe gắn máy": 0.5,
+            "ly socola nóng": 0.9943057384807616,
+            "cầu": 0.98265968891792,
+            "du ngoạn": 0.5,
+            "người dân": 0.5,
+            "làng": 0.5,
+            "hoa văn": 0.9954645335092209,
+            "cáp treo": 0.20513454265892506,
+            "song": 0.9566685277968645,
+            "công viên giải trí": 0.5
+        },
+        "dicts_adj": {
+            "cây cầu cao": [
+                "đẹp",
+                "nhiều",
+                "đủ"
+            ],
+            "đèn led": [
+                "đẹp",
+                "nhiều",
+                "đủ"
+            ],
+            "bờ sông": [
+                "rõ",
+                "dọc"
+            ],
+            "cây cầu cáp": [
+                "đẹp"
+            ],
+            "bãi cháy": [
+                "đẹp",
+                "đẹp",
+                "dài",
+                "đầy",
+                "tuyệt vời"
+            ],
+            "cây cầu": [
+                "hoàn hảo",
+                "đỏ",
+                "xanh",
+                "lớn",
+                "dài",
+                "khổng lồ"
+            ],
+            "phông": [
+                "hoàn hảo"
+            ],
+            "tầm nhìn": [
+                "tốt"
+            ],
+            "tàu du lịch": [
+                "đặc biệt",
+                "vui"
+            ],
+            "phòng": [
+                "đỏ",
+                "xanh"
+            ],
+            "cây": [
+                "xanh"
+            ],
+            "cầu đổi": [
+                "đỏ",
+                "xanh"
+            ],
+            "tiền": [
+                "lớn"
+            ],
+            "đường": [],
+            "khu du lịch": [],
+            "người dân địa phương": [
+                "khúc khích"
+            ],
+            "bài thơ": [
+                "Đặc biệt",
+                "có thể",
+                "Đặc biệt",
+                "có thể"
+            ],
+            "núi": [],
+            "khung cảnh": [
+                "đẹp",
+                "nhất"
+            ],
+            "vịnh": [
+                "đẹp",
+                "nhất"
+            ],
+            "cả nước": [
+                "khắp"
+            ],
+            "biển": [
+                "nguy hiểm"
+            ],
+            "đi bộ": [
+                "nguy hiểm"
+            ],
+            "quán cà phê": [
+                "tốt",
+                "thuận lợi",
+                "đầy",
+                "tuyệt vời"
+            ],
+            "xe gắn máy ngựa": [],
+            "xe ngựa": [],
+            "bùn": [],
+            "xe gắn máy": [],
+            "ly socola nóng": [
+                "đầy",
+                "tuyệt vời"
+            ],
+            "cầu": [
+                "đầy",
+                "tuyệt vời"
+            ],
+            "du ngoạn": [],
+            "người dân": [],
+            "làng": [],
+            "hoa văn": [
+                "tuyệt vời"
+            ],
+            "cáp treo": [
+                "song song"
+            ],
+            "song": [
+                "khổng lồ"
+            ],
+            "công viên giải trí": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cây cầu cao": 0.5,
+            "đèn led": 0.5,
+            "bờ sông": 0.5,
+            "cây cầu cáp": 0.5,
+            "bãi cháy": 2.0,
+            "cây cầu": 2.5,
+            "phông": 0.5,
+            "tầm nhìn": 0.5,
+            "tàu du lịch": 1.0,
+            "phòng": 0.5,
+            "cây": 0.5,
+            "cầu đổi": 0.5,
+            "tiền": 0.5,
+            "đường": 0.5,
+            "khu du lịch": 0.5,
+            "người dân địa phương": 1.0,
+            "bài thơ": 0.5,
+            "núi": 0.5,
+            "khung cảnh": 0.5,
+            "vịnh": 1.5,
+            "cả nước": 0.5,
+            "biển": 0.5,
+            "đi bộ": 0.5,
+            "quán cà phê": 1.0,
+            "xe gắn máy ngựa": 0.5,
+            "xe ngựa": 0.5,
+            "bùn": 0.5,
+            "xe gắn máy": 0.5,
+            "ly socola nóng": 0.5,
+            "cầu": 0.5,
+            "du ngoạn": 0.5,
+            "người dân": 0.5,
+            "làng": 0.5,
+            "hoa văn": 0.5,
+            "cáp treo": 0.5,
+            "song": 0.5,
+            "công viên giải trí": 0.5
+        }
     },
     {
         "attraction_name": "Bai Chai Bridge",
@@ -527,6 +1186,105 @@
             "https://www.tripadvisor.com/Attraction_Review-g40831-d19060568-Reviews-Fort_Knox_Historic_Site-Prospect_Maine.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d7940528-Reviews-or40-Bai_Chai_Bridge-Halong_Bay_Quang_Ninh_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d7940528-Reviews-or40-Bai_Chai_Bridge-Halong_Bay_Quang_Ninh_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cây cầu": 0.6740030901506543,
+            "hòn đảo": 0.9952930419822223,
+            "bến phà": 0.5388053320348263,
+            "quang cảnh": 0.5,
+            "tầm nhìn": 0.9953206954232883,
+            "góc nhìn": 0.7201844066439662,
+            "cây cầu dây": 0.5738063715398312,
+            "biểu tượng": 0.5,
+            "ánh sáng": 0.6368334238941316,
+            "ly cocktail": 0.9953518062829971,
+            "khách sạn": -0.9750872113509104,
+            "vịnh": 0.18683020398020744,
+            "khu công nghiệp": 0.5,
+            "chuyến đi": 0.995546392921824,
+            "bãi cháy": 0.5,
+            "cái nhìn": 0.9953205087222159,
+            "cầu": 0.9040799821086694,
+            "người đi bộ": 0.5
+        },
+        "dicts_adj": {
+            "cây cầu": [
+                "đẹp",
+                "lâu",
+                "đẹp",
+                "khác",
+                "ngoạn mục",
+                "thực sự"
+            ],
+            "hòn đảo": [
+                "đẹp"
+            ],
+            "bến phà": [
+                "gần"
+            ],
+            "quang cảnh": [],
+            "tầm nhìn": [
+                "Tương tự",
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "góc nhìn": [
+                "đẹp",
+                "khác"
+            ],
+            "cây cầu dây": [
+                "dài"
+            ],
+            "biểu tượng": [],
+            "ánh sáng": [
+                "đẹp"
+            ],
+            "ly cocktail": [
+                "tuyệt khi"
+            ],
+            "khách sạn": [
+                "gần"
+            ],
+            "vịnh": [
+                "chủ yếu"
+            ],
+            "khu công nghiệp": [],
+            "chuyến đi": [],
+            "bãi cháy": [],
+            "cái nhìn": [
+                "đẹp"
+            ],
+            "cầu": [
+                "sảng khoái",
+                "nhiều",
+                "trong lành",
+                "dài",
+                "hơn",
+                "rộng"
+            ],
+            "người đi bộ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cây cầu": 2.5,
+            "hòn đảo": 0.5,
+            "bến phà": 0.5,
+            "quang cảnh": 0.5,
+            "tầm nhìn": 1.0,
+            "góc nhìn": 0.5,
+            "cây cầu dây": 0.5,
+            "biểu tượng": 0.5,
+            "ánh sáng": 1.0,
+            "ly cocktail": 0.5,
+            "khách sạn": 0.5,
+            "vịnh": 1.0,
+            "khu công nghiệp": 0.5,
+            "chuyến đi": 0.5,
+            "bãi cháy": 0.5,
+            "cái nhìn": 0.5,
+            "cầu": 0.5,
+            "người đi bộ": 0.5
+        }
     }
 ]

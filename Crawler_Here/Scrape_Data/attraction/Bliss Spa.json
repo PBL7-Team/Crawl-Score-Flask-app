@@ -114,7 +114,115 @@
             "https://www.tripadvisor.com/Attraction_Review-g46594-d117457-Reviews-Manasquan_Beach-Manasquan_New_Jersey.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or10-Bliss_Spa-Hai_Chau_Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-Bliss_Spa-Hai_Chau_Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-Bliss_Spa-Hai_Chau_Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "buổi": -0.9550113305449486,
+            "spa": 0.9393749272538863,
+            "mát-xa": 0.6970172135159374,
+            "chân và chăm": 0.5,
+            "dịch vụ massage tre": 0.987484920071438,
+            "dịch vụ": 0.806640086841071,
+            "kỹ thuật viên": 0.9936623309040442,
+            "massage": 0.9943409806195026,
+            "nhân viên": 0.9947407775325701,
+            "giá cả": 0.9742233429278713
+        },
+        "dicts_adj": {
+            "buổi": [
+                "dài"
+            ],
+            "spa": [
+                "hoàn hảo",
+                "tốt",
+                "nhất",
+                "hài lòng",
+                "nhất",
+                "tốt",
+                "nhất",
+                "hài lòng",
+                "nhất",
+                "tốt",
+                "nhất",
+                "hài lòng",
+                "nhất",
+                "tốt",
+                "nhất",
+                "hài lòng",
+                "nhất",
+                "tuyệt vời",
+                "nhất",
+                "chuyên nghiệp",
+                "tốt",
+                "nhất",
+                "hài lòng",
+                "nhất"
+            ],
+            "mát-xa": [
+                "hoàn toàn",
+                "hài lòng"
+            ],
+            "chân và chăm": [],
+            "dịch vụ massage tre": [],
+            "dịch vụ": [
+                "tốt",
+                "nhất",
+                "hài lòng",
+                "nhất",
+                "tốt",
+                "nhất",
+                "hài lòng",
+                "nhất",
+                "tốt",
+                "nhất",
+                "hài lòng",
+                "nhất",
+                "tuyệt vời",
+                "thực sự",
+                "tốt",
+                "nhất",
+                "hài lòng",
+                "nhất",
+                "tốt",
+                "nhất",
+                "hài lòng",
+                "nhất"
+            ],
+            "kỹ thuật viên": [
+                "tốt",
+                "cẩn thận"
+            ],
+            "massage": [
+                "tuyệt vời",
+                "cứng",
+                "mềm",
+                "tuyệt vời",
+                "thực sự",
+                "sâu"
+            ],
+            "nhân viên": [
+                "thực sự",
+                "khác"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "xứng đáng",
+                "hợp lý"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "buổi": 1.5,
+            "spa": 6.5,
+            "mát-xa": 2.5,
+            "chân và chăm": 1.5,
+            "dịch vụ massage tre": 1,
+            "dịch vụ": 5.0,
+            "kỹ thuật viên": 1,
+            "massage": 1.5,
+            "nhân viên": 0.5,
+            "giá cả": 1.0
+        }
     },
     {
         "attraction_name": "Bliss Spa",
@@ -230,7 +338,184 @@
             "https://www.tripadvisor.com/Attraction_Review-g29976-d12104854-Reviews-Lake_Murray_State_Park-Ardmore_Oklahoma.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or20-Bliss_Spa-Hai_Chau_Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or10-Bliss_Spa-Hai_Chau_Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or10-Bliss_Spa-Hai_Chau_Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "mát-xa": 0.995562604861334,
+            "nhưng tôi": 0.9803892791969702,
+            "massage": 0.7432917768407303,
+            "massage thái không": 0.5,
+            "massage dầu": 0.5,
+            "đá nóng": 0.5,
+            "massage tre": 0.5,
+            "massage thảo dược": 0.5,
+            "giá": 0.8122675255872309,
+            "giấc ngủ": 0.9955381458275951,
+            "tre đá nóng": 0.5,
+            "thảo dược": 0.5,
+            "giá rẻ": 0.9947258863248862,
+            "nhà trị liệu": 0.936729434877634,
+            "dịch vụ": 0.9944317076879088,
+            "trải nghiệm": 0.3915543813103189,
+            "tiệm spa": 0.8737691454589367,
+            "giá cả": 0.7714678983902559,
+            "tiền boa": 0.9200267475098372,
+            "spa": 0.9790374009025982,
+            "thông điệp": 0.8737691454589367,
+            "khách sạn": 0.5,
+            "tấm vải che": 0.5,
+            "trẻ em": 0.9320537596940994,
+            "nhân viên": 0.9940947525028605,
+            "kỹ năng": 0.5,
+            "nhân viên trị liệu": 0.5,
+            "nam mềm": 0.5,
+            "chân cháu gái": 0.9954355243826285,
+            "hành lý": 0.7335211634635925,
+            "quán": 0.5,
+            "chân sướng": 0.5,
+            "quá": 0.5,
+            "tiệm massage": 0.7656482976550857,
+            "loại massage": 0.33224222840120393,
+            "nhà hàng": 0.992367337225005
+        },
+        "dicts_adj": {
+            "mát-xa": [
+                "ngon",
+                "nhanh chóng"
+            ],
+            "nhưng tôi": [
+                "ngon"
+            ],
+            "massage": [
+                "tốt",
+                "cùng",
+                "đa dạng"
+            ],
+            "massage thái không": [],
+            "massage dầu": [],
+            "đá nóng": [],
+            "massage tre": [],
+            "massage thảo dược": [],
+            "giá": [
+                "khác",
+                "tương tự",
+                "tuyệt vời"
+            ],
+            "giấc ngủ": [
+                "thực sự",
+                "tuyệt vời",
+                "sâu"
+            ],
+            "tre đá nóng": [],
+            "thảo dược": [],
+            "giá rẻ": [
+                "tốt"
+            ],
+            "nhà trị liệu": [
+                "tốt"
+            ],
+            "dịch vụ": [
+                "vui",
+                "vui",
+                "tốt",
+                "vui"
+            ],
+            "trải nghiệm": [
+                "thực sự",
+                "sợ hãi",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "tiệm spa": [
+                "thực sự",
+                "sợ hãi",
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "cao"
+            ],
+            "tiền boa": [
+                "tử tế"
+            ],
+            "spa": [
+                "nhiều",
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "thông điệp": [
+                "tuyệt vời"
+            ],
+            "khách sạn": [],
+            "tấm vải che": [],
+            "trẻ em": [],
+            "nhân viên": [
+                "thân thiện"
+            ],
+            "kỹ năng": [],
+            "nhân viên trị liệu": [],
+            "nam mềm": [],
+            "chân cháu gái": [
+                "nhanh chóng"
+            ],
+            "hành lý": [],
+            "quán": [],
+            "chân sướng": [],
+            "quá": [],
+            "tiệm massage": [
+                "mạnh",
+                "yếu",
+                "sẵn"
+            ],
+            "loại massage": [
+                "mạnh",
+                "yếu",
+                "sẵn"
+            ],
+            "nhà hàng": [
+                "nhiều",
+                "ngon"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "mát-xa": 1.0,
+            "nhưng tôi": 0.5,
+            "massage": 1.0,
+            "massage thái không": 0.5,
+            "massage dầu": 0.5,
+            "đá nóng": 1.0,
+            "massage tre": 0.5,
+            "massage thảo dược": 0.5,
+            "giá": 1.0,
+            "giấc ngủ": 0.5,
+            "tre đá nóng": 0.5,
+            "thảo dược": 1.0,
+            "giá rẻ": 0.5,
+            "nhà trị liệu": 0.5,
+            "dịch vụ": 2.0,
+            "trải nghiệm": 1.0,
+            "tiệm spa": 0.5,
+            "giá cả": 1.0,
+            "tiền boa": 0.5,
+            "spa": 2.0,
+            "thông điệp": 0.5,
+            "khách sạn": 0.5,
+            "tấm vải che": 0.5,
+            "trẻ em": 0.5,
+            "nhân viên": 0.5,
+            "kỹ năng": 0.5,
+            "nhân viên trị liệu": 0.5,
+            "nam mềm": 0.5,
+            "chân cháu gái": 0.5,
+            "hành lý": 0.5,
+            "quán": 0.5,
+            "chân sướng": 0.5,
+            "quá": 0.5,
+            "tiệm massage": 0.5,
+            "loại massage": 0.5,
+            "nhà hàng": 0.5
+        }
     },
     {
         "attraction_name": "Bliss Spa",
@@ -349,7 +634,115 @@
             "https://www.tripadvisor.com/Attraction_Review-g55193-d4751919-Reviews-Isha_USA-McMinnville_Tennessee.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or30-Bliss_Spa-Hai_Chau_Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or20-Bliss_Spa-Hai_Chau_Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or20-Bliss_Spa-Hai_Chau_Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "spa": 0.7772545801853994,
+            "giá": 0.9182634913595393,
+            "nhân viên": 0.8411127950821538,
+            "dịch vụ": 0.6952782368074016,
+            "massage chân": 0.5,
+            "mùi thơm": 0.9955392856500112,
+            "buổi": 0.7477417476475239,
+            "nước chanh lạnh": 0.5,
+            "dưa hấu": 0.24643407948315144,
+            "wifi": 0.9829707264434546,
+            "phòng": 0.9956054664799012,
+            "quả": 0.7475189383258112,
+            "người": 0.9954867761698551,
+            "trải nghiệm": 0.9948573894507717,
+            "phương pháp điều trị": 0.9952539664809592,
+            "sức khỏe": 0.6419323896989226,
+            "trà": 0.5,
+            "hoa": 0.5
+        },
+        "dicts_adj": {
+            "spa": [
+                "khác",
+                "tốt",
+                "hơn",
+                "khác",
+                "cùng",
+                "rẻ",
+                "nhiều"
+            ],
+            "giá": [
+                "tốt",
+                "rẻ"
+            ],
+            "nhân viên": [
+                "nhanh chóng",
+                "lịch sự",
+                "nhiệt tình",
+                "vui vẻ",
+                "thoáng",
+                "mát"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "hài lòng"
+            ],
+            "massage chân": [],
+            "mùi thơm": [
+                "sạch sẽ",
+                "đẹp mắt",
+                "dễ chịu"
+            ],
+            "buổi": [
+                "tuyệt vời"
+            ],
+            "nước chanh lạnh": [],
+            "dưa hấu": [
+                "thực sự",
+                "ngon"
+            ],
+            "wifi": [],
+            "phòng": [
+                "sạch sẽ",
+                "thoải mái"
+            ],
+            "quả": [
+                "thực sự",
+                "ngon"
+            ],
+            "người": [
+                "thực sự",
+                "tốt đẹp"
+            ],
+            "trải nghiệm": [
+                "tốt",
+                "tốt"
+            ],
+            "phương pháp điều trị": [
+                "chu đáo"
+            ],
+            "sức khỏe": [
+                "tốt"
+            ],
+            "trà": [],
+            "hoa": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "spa": 3.0,
+            "giá": 1.0,
+            "nhân viên": 2.0,
+            "dịch vụ": 3.0,
+            "massage chân": 0.5,
+            "mùi thơm": 0.5,
+            "buổi": 1.0,
+            "nước chanh lạnh": 0.5,
+            "dưa hấu": 1.0,
+            "wifi": 0.5,
+            "phòng": 0.5,
+            "quả": 1.0,
+            "người": 0.5,
+            "trải nghiệm": 1.0,
+            "phương pháp điều trị": 0.5,
+            "sức khỏe": 0.5,
+            "trà": 0.5,
+            "hoa": 0.5
+        }
     },
     {
         "attraction_name": "Bliss Spa",
@@ -469,7 +862,128 @@
             "https://www.tripadvisor.com/Attraction_Review-g660713-d23290374-Reviews-Khorfakkan_Waterfall-Khorfakkan.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or40-Bliss_Spa-Hai_Chau_Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or30-Bliss_Spa-Hai_Chau_Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or30-Bliss_Spa-Hai_Chau_Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngũ hành sơn": 0.8737691454589367,
+            "núi": 0.995274557324592,
+            "dịch vụ": 0.8441219637461472,
+            "massage toàn thân": 0.5,
+            "nhân viên": 0.8081152290493872,
+            "chuyến đi": -0.040167848812416196,
+            "vùng đất": 0.2497147172689438,
+            "spa": 0.893800412673348,
+            "bliss": 0.8737691454589367,
+            "tiền hàng": 0.5,
+            "thái độ": 0.8292933385819197,
+            "âm nhạc": 0.3720815908163786,
+            "bánh sinh nhật": 0.964122838107869,
+            "dịch vụ mát-xa bliss và": 0.9953793864697218,
+            "mát-xa": 0.5,
+            "để đảm": 0.5,
+            "dịch vụ mát-xa spa còn": 0.9939499323372729,
+            "cây và đồ": 0.9377214318956248,
+            "giá cả": 0.8737691454589367,
+            "bầu không khí": 0.5,
+            "bác sĩ trị liệu": 0.5661620660685003
+        },
+        "dicts_adj": {
+            "ngũ hành sơn": [
+                "thú vị"
+            ],
+            "núi": [
+                "thú vị"
+            ],
+            "dịch vụ": [
+                "đơn thuần",
+                "tốt",
+                "vui",
+                "tốt"
+            ],
+            "massage toàn thân": [],
+            "nhân viên": [
+                "chu đáo",
+                "tốt bụng",
+                "nghiêm túc",
+                "chu đáo",
+                "chuyên nghiệp",
+                "tuyệt vời",
+                "tuyệt vời",
+                "cao",
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "tin tức",
+                "đặc biệt"
+            ],
+            "vùng đất": [
+                "tin tức"
+            ],
+            "spa": [
+                "đặc biệt",
+                "đẹp",
+                "chắc chắn",
+                "tuyệt vời",
+                "thực sự",
+                "tốt",
+                "nhẹ nhõm",
+                "hơn"
+            ],
+            "bliss": [
+                "đặc biệt"
+            ],
+            "tiền hàng": [],
+            "thái độ": [
+                "chu đáo"
+            ],
+            "âm nhạc": [
+                "dễ chịu"
+            ],
+            "bánh sinh nhật": [],
+            "dịch vụ mát-xa bliss và": [],
+            "mát-xa": [],
+            "để đảm": [],
+            "dịch vụ mát-xa spa còn": [
+                "ngọt",
+                "ngon"
+            ],
+            "cây và đồ": [
+                "ngọt",
+                "ngon"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "bầu không khí": [],
+            "bác sĩ trị liệu": [
+                "nhẹ nhõm",
+                "hơn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngũ hành sơn": 0.5,
+            "núi": 0.5,
+            "dịch vụ": 3.0,
+            "massage toàn thân": 0.5,
+            "nhân viên": 3.5,
+            "chuyến đi": 1.0,
+            "vùng đất": 0.5,
+            "spa": 4.5,
+            "bliss": 0.5,
+            "tiền hàng": 0.5,
+            "thái độ": 0.5,
+            "âm nhạc": 0.5,
+            "bánh sinh nhật": 1,
+            "dịch vụ mát-xa bliss và": 1,
+            "mát-xa": 1,
+            "để đảm": 1,
+            "dịch vụ mát-xa spa còn": 1,
+            "cây và đồ": 1,
+            "giá cả": 1,
+            "bầu không khí": 1,
+            "bác sĩ trị liệu": 1
+        }
     },
     {
         "attraction_name": "Bliss Spa",
@@ -577,7 +1091,82 @@
             "https://www.tripadvisor.com/Attraction_Review-g154945-d1859141-Reviews-Fisherman_s_Wharf-Victoria_Victoria_Capital_Regional_District_Vancouver_Island_Br.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or40-Bliss_Spa-Hai_Chau_Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or40-Bliss_Spa-Hai_Chau_Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "spa": 0.9924005230432763,
+            "dịch vụ": 0.8247954628663138,
+            "massage": 0.987657312914962,
+            "không gian": 0.3624459309503436,
+            "nhân viên": 0.5,
+            "ánh nắng": 0.5,
+            "mặt trời": 0.5,
+            "trải nghiệm": 0.9952929429709911,
+            "chất lượng": 0.5
+        },
+        "dicts_adj": {
+            "spa": [
+                "tuyệt vời",
+                "tốt",
+                "nhất",
+                "hài lòng",
+                "nhất",
+                "tốt",
+                "nhất",
+                "hài lòng",
+                "nhất",
+                "tuyệt vời",
+                "thân",
+                "nhiều",
+                "tốt",
+                "nhất",
+                "hài lòng",
+                "nhất"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tốt",
+                "nhất",
+                "hài lòng",
+                "nhất",
+                "tốt",
+                "nhất",
+                "hài lòng",
+                "nhất",
+                "tốt",
+                "nhất",
+                "hài lòng",
+                "nhất"
+            ],
+            "massage": [
+                "sâu",
+                "tuyệt vời"
+            ],
+            "không gian": [
+                "thoải mái",
+                "đẹp"
+            ],
+            "nhân viên": [],
+            "ánh nắng": [],
+            "mặt trời": [],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "chất lượng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "spa": 6,
+            "dịch vụ": 5,
+            "massage": 2,
+            "không gian": 2,
+            "nhân viên": 1,
+            "ánh nắng": 1,
+            "mặt trời": 1,
+            "trải nghiệm": 1,
+            "chất lượng": 1
+        }
     },
     {
         "attraction_name": "Bliss Spa",
@@ -694,7 +1283,25 @@
             "https://www.tripadvisor.com/Attraction_Review-g46594-d117457-Reviews-Manasquan_Beach-Manasquan_New_Jersey.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or10-Bliss_Spa-Hai_Chau_Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-Bliss_Spa-Hai_Chau_Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-Bliss_Spa-Hai_Chau_Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.9955219515250064,
+            "giá cả": 0.9955066627589986
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 0.5,
+            "giá cả": 0.5
+        }
     },
     {
         "attraction_name": "Bliss Spa",
@@ -810,7 +1417,144 @@
             "https://www.tripadvisor.com/Attraction_Review-g29976-d12104854-Reviews-Lake_Murray_State_Park-Ardmore_Oklahoma.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or20-Bliss_Spa-Hai_Chau_Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or10-Bliss_Spa-Hai_Chau_Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or10-Bliss_Spa-Hai_Chau_Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "mát-xa": 0.995562604861334,
+            "nhưng tôi": 0.9803892791969702,
+            "massage": 0.7442928826591622,
+            "massage thái không": 0.5,
+            "massage dầu": 0.5,
+            "đá nóng": 0.5,
+            "massage tre": 0.5,
+            "massage thảo dược": 0.5,
+            "giá": 0.7507659057155252,
+            "giấc ngủ": 0.9955501040676609,
+            "tre đá nóng": 0.5,
+            "thảo dược": 0.5,
+            "giá rẻ": 0.9947258863248862,
+            "nhà trị liệu": 0.936729434877634,
+            "trẻ em": 0.9320537596940994,
+            "nhân viên": 0.9940947525028605,
+            "kỹ năng": 0.5,
+            "giá cả": 0.5900287982076406,
+            "nhân viên trị liệu": 0.5,
+            "nam mềm": 0.5,
+            "chân cháu gái": 0.9954355243826285,
+            "hành lý": 0.7335211634635925,
+            "quán": 0.5,
+            "chân sướng": 0.5,
+            "quá": 0.5,
+            "tiệm massage": 0.7656482976550857,
+            "loại massage": 0.33224222840120393,
+            "nhà hàng": 0.992367337225005,
+            "dịch vụ mát-xa khắp đông": 0.8737691454589367,
+            "tốt nhất": 0.5
+        },
+        "dicts_adj": {
+            "mát-xa": [
+                "ngon",
+                "nhanh chóng"
+            ],
+            "nhưng tôi": [
+                "ngon"
+            ],
+            "massage": [
+                "tốt",
+                "cùng",
+                "đa dạng"
+            ],
+            "massage thái không": [],
+            "massage dầu": [],
+            "đá nóng": [],
+            "massage tre": [],
+            "massage thảo dược": [],
+            "giá": [
+                "khác",
+                "tương tự"
+            ],
+            "giấc ngủ": [
+                "thực sự",
+                "tuyệt vời",
+                "sâu"
+            ],
+            "tre đá nóng": [],
+            "thảo dược": [],
+            "giá rẻ": [
+                "tốt"
+            ],
+            "nhà trị liệu": [
+                "tốt"
+            ],
+            "trẻ em": [],
+            "nhân viên": [
+                "thân thiện"
+            ],
+            "kỹ năng": [],
+            "giá cả": [
+                "cao"
+            ],
+            "nhân viên trị liệu": [],
+            "nam mềm": [],
+            "chân cháu gái": [
+                "nhanh chóng"
+            ],
+            "hành lý": [],
+            "quán": [],
+            "chân sướng": [],
+            "quá": [],
+            "tiệm massage": [
+                "mạnh",
+                "yếu",
+                "sẵn"
+            ],
+            "loại massage": [
+                "mạnh",
+                "yếu",
+                "sẵn"
+            ],
+            "nhà hàng": [
+                "nhiều",
+                "ngon"
+            ],
+            "dịch vụ mát-xa khắp đông": [
+                "nhiều"
+            ],
+            "tốt nhất": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "mát-xa": 1.0,
+            "nhưng tôi": 0.5,
+            "massage": 1.0,
+            "massage thái không": 0.5,
+            "massage dầu": 0.5,
+            "đá nóng": 0.5,
+            "massage tre": 0.5,
+            "massage thảo dược": 0.5,
+            "giá": 0.5,
+            "giấc ngủ": 0.5,
+            "tre đá nóng": 0.5,
+            "thảo dược": 0.5,
+            "giá rẻ": 0.5,
+            "nhà trị liệu": 0.5,
+            "trẻ em": 0.5,
+            "nhân viên": 0.5,
+            "kỹ năng": 0.5,
+            "giá cả": 0.5,
+            "nhân viên trị liệu": 0.5,
+            "nam mềm": 0.5,
+            "chân cháu gái": 0.5,
+            "hành lý": 0.5,
+            "quán": 0.5,
+            "chân sướng": 0.5,
+            "quá": 0.5,
+            "tiệm massage": 0.5,
+            "loại massage": 0.5,
+            "nhà hàng": 0.5,
+            "dịch vụ mát-xa khắp đông": 0.5,
+            "tốt nhất": 0.5
+        }
     },
     {
         "attraction_name": "Bliss Spa",
@@ -929,7 +1673,32 @@
             "https://www.tripadvisor.com/Attraction_Review-g55193-d4751919-Reviews-Isha_USA-McMinnville_Tennessee.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or30-Bliss_Spa-Hai_Chau_Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or20-Bliss_Spa-Hai_Chau_Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or20-Bliss_Spa-Hai_Chau_Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.990856085147243,
+            "nhân viên": 0.9951288101729006,
+            "phòng": 0.9955952293239534
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tốt"
+            ],
+            "nhân viên": [
+                "nhiệt tình",
+                "vui vẻ"
+            ],
+            "phòng": [
+                "sạch sẽ",
+                "thoải mái"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 0.5,
+            "nhân viên": 0.5,
+            "phòng": 0.5
+        }
     },
     {
         "attraction_name": "Bliss Spa",
@@ -1049,7 +1818,12 @@
             "https://www.tripadvisor.com/Attraction_Review-g660713-d23290374-Reviews-Khorfakkan_Waterfall-Khorfakkan.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or40-Bliss_Spa-Hai_Chau_Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or30-Bliss_Spa-Hai_Chau_Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or30-Bliss_Spa-Hai_Chau_Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     },
     {
         "attraction_name": "Bliss Spa",
@@ -1160,6 +1934,32 @@
             "https://www.tripadvisor.com/Attraction_Review-g154945-d1859141-Reviews-Fisherman_s_Wharf-Victoria_Victoria_Capital_Regional_District_Vancouver_Island_Br.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or40-Bliss_Spa-Hai_Chau_Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g25231262-d15871958-Reviews-or40-Bliss_Spa-Hai_Chau_Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "spa": 0.9918845845386386,
+            "trải nghiệm": 0.9952929429709911,
+            "không gian": 0.8737691454589367,
+            "chất lượng": 0.5
+        },
+        "dicts_adj": {
+            "spa": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "không gian": [
+                "đẹp"
+            ],
+            "chất lượng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "spa": 1,
+            "trải nghiệm": 1,
+            "không gian": 1,
+            "chất lượng": 1
+        }
     }
 ]

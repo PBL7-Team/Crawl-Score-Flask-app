@@ -84,6 +84,77 @@
             "https://www.tripadvisor.com/Attraction_Review-g45963-d662769-Reviews-Carrot_Top-Las_Vegas_Nevada.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g4014591-d14131902-Reviews-Phong_Nha_Transportation-Phong_Nha_Ke_Bang_National_Park_Quang_Binh_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g4014591-d14131902-Reviews-Phong_Nha_Transportation-Phong_Nha_Ke_Bang_National_Park_Quang_Binh_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "địa": 0.9950259436154738,
+            "lịch sử": 0.9935832830378786,
+            "người lái xe": 0.9933774796663783,
+            "cảnh đẹp": 0.9918659029062837,
+            "dịch vụ vận chuyển": 0.833519479575833,
+            "vườn quốc gia": 0.8737691454589367,
+            "phong": 0.5,
+            "nha cho": 0.5,
+            "chuyến đi": 0.5,
+            "dịch vụ": 0.8737691454589367,
+            "email xe": 0.9955943503591698
+        },
+        "dicts_adj": {
+            "địa": [
+                "thân thiện"
+            ],
+            "lịch sử": [
+                "thân thiện"
+            ],
+            "người lái xe": [
+                "thân thiện"
+            ],
+            "cảnh đẹp": [
+                "lạnh"
+            ],
+            "dịch vụ vận chuyển": [
+                "thân thiện",
+                "hữu ích",
+                "nhiều",
+                "đẹp",
+                "thoải mái",
+                "lạnh",
+                "lạnh"
+            ],
+            "vườn quốc gia": [
+                "thân thiện",
+                "hữu ích",
+                "nhiều",
+                "đẹp",
+                "thoải mái",
+                "lạnh",
+                "lạnh"
+            ],
+            "phong": [],
+            "nha cho": [],
+            "chuyến đi": [],
+            "dịch vụ": [
+                "đúng",
+                "dễ dàng"
+            ],
+            "email xe": [
+                "sạch sẽ",
+                "hiện đại"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "địa": 0.5,
+            "lịch sử": 0.5,
+            "người lái xe": 0.5,
+            "cảnh đẹp": 0.5,
+            "dịch vụ vận chuyển": 0.5,
+            "vườn quốc gia": 0.5,
+            "phong": 0.5,
+            "nha cho": 0.5,
+            "chuyến đi": 0.5,
+            "dịch vụ": 0.5,
+            "email xe": 0.5
+        }
     }
 ]

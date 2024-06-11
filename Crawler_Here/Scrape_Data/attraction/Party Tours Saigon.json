@@ -69,6 +69,56 @@
             "https://www.tripadvisor.com/Attraction_Review-g274967-d283718-Reviews-House_Of_The_Black_Heads-Riga_Riga_Region.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6032128-Reviews-Party_Tours_Saigon-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6032128-Reviews-Party_Tours_Saigon-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "party": 0.5,
+            "kỳ nghỉ": 0.5,
+            "dịch vụ": 0.9864630213705823,
+            "khoảng thời gian": 0.9945400321157649,
+            "khung cảnh": 0.6460535284131765,
+            "quán bar": 0.5239681005477905,
+            "bình dân": 0.5,
+            "chuyến tham quan": 0.9395876815542579,
+            "đảng người": 0.551786950789392,
+            "đêm": 0.9600266222842038
+        },
+        "dicts_adj": {
+            "party": [],
+            "kỳ nghỉ": [],
+            "dịch vụ": [
+                "nhất",
+                "suốt"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "khung cảnh": [
+                "tiệc tùng"
+            ],
+            "quán bar": [
+                "cao cấp"
+            ],
+            "bình dân": [],
+            "chuyến tham quan": [],
+            "đảng người": [],
+            "đêm": [
+                "chuyên nghiệp",
+                "đặc biệt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "party": 0.5,
+            "kỳ nghỉ": 0.5,
+            "dịch vụ": 0.5,
+            "khoảng thời gian": 0.5,
+            "khung cảnh": 0.5,
+            "quán bar": 0.5,
+            "bình dân": 0.5,
+            "chuyến tham quan": 1.0,
+            "đảng người": 0.5,
+            "đêm": 0.5
+        }
     }
 ]

@@ -94,6 +94,88 @@
             "https://www.tripadvisor.com/Attraction_Review-g47224-d281481-Reviews-Rio_Grande_Gorge_Bridge-Taos_Taos_County_New_Mexico.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d15089211-Reviews-Old_Fashioned_Bar-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d15089211-Reviews-Old_Fashioned_Bar-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bài hát": 0.9882685367483646,
+            "âm thanh": 0.8737691454589367,
+            "bầu không khí": -0.3196446690708399,
+            "cơ sở": 0.9955471508437768,
+            "nhân viên": 0.953329608872688,
+            "ấm trà": -0.33218619755158824,
+            "bình": -0.8776880404911935,
+            "âm nhạc": 0.5313641801476479,
+            "bar": 0.5,
+            "karaoke": 0.5,
+            "chủ sở hữu": 0.9950837477808818,
+            "thiếu sót": 0.5,
+            "quán bar": 0.5,
+            "chất lượng": -0.849221995100379,
+            "chủ quán cà phê": 0.9874805050203577,
+            "cà phê": 0.9953338959021494
+        },
+        "dicts_adj": {
+            "bài hát": [
+                "lớn",
+                "khổng lồ"
+            ],
+            "âm thanh": [
+                "dễ chịu"
+            ],
+            "bầu không khí": [
+                "dễ chịu"
+            ],
+            "cơ sở": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "tốt",
+                "thân thiện"
+            ],
+            "ấm trà": [
+                "gọn gàng",
+                "lâu đáng",
+                "tốt"
+            ],
+            "bình": [
+                "gọn gàng",
+                "lâu đáng",
+                "tốt"
+            ],
+            "âm nhạc": [
+                "thực sự"
+            ],
+            "bar": [],
+            "karaoke": [],
+            "chủ sở hữu": [],
+            "thiếu sót": [],
+            "quán bar": [],
+            "chất lượng": [
+                "cao"
+            ],
+            "chủ quán cà phê": [],
+            "cà phê": [
+                "thực sự"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bài hát": 1.0,
+            "âm thanh": 0.5,
+            "bầu không khí": 0.5,
+            "cơ sở": 0.5,
+            "nhân viên": 1.5,
+            "ấm trà": 0.5,
+            "bình": 0.5,
+            "âm nhạc": 0.5,
+            "bar": 0.5,
+            "karaoke": 0.5,
+            "chủ sở hữu": 0.5,
+            "thiếu sót": 0.5,
+            "quán bar": 0.5,
+            "chất lượng": 0.5,
+            "chủ quán cà phê": 0.5,
+            "cà phê": 0.5
+        }
     }
 ]

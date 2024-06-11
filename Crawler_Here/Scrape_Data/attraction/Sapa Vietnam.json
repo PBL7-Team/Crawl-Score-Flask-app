@@ -59,6 +59,41 @@
             "https://www.tripadvisor.com/Attraction_Review-g189400-d21048999-Reviews-Aquapolis-Athens_Attica.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d27133947-Reviews-Sapa_Vietnam-Sapa_Lao_Cai_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d27133947-Reviews-Sapa_Vietnam-Sapa_Lao_Cai_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nữ hoàng": 0.8737691454589367,
+            "núi": 0.9937429161509499,
+            "khí hậu": 0.9942231315653771,
+            "chuyến đi": 0.9936366776237264,
+            "làng dân tộc": 0.5,
+            "chụp ảnh": 0.5
+        },
+        "dicts_adj": {
+            "nữ hoàng": [
+                "tuyệt vời",
+                "đỉnh cao"
+            ],
+            "núi": [
+                "tuyệt vời",
+                "đỉnh cao"
+            ],
+            "khí hậu": [
+                "tuyệt vời",
+                "đỉnh cao"
+            ],
+            "chuyến đi": [],
+            "làng dân tộc": [],
+            "chụp ảnh": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nữ hoàng": 1.5,
+            "núi": 1.5,
+            "khí hậu": 1.5,
+            "chuyến đi": 1.5,
+            "làng dân tộc": 1.5,
+            "chụp ảnh": 1.5
+        }
     }
 ]

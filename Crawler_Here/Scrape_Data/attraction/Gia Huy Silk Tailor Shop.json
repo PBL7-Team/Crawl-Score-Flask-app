@@ -112,7 +112,204 @@
             "https://www.tripadvisor.com/Attraction_Review-g54171-d596055-Reviews-235_King_Street-Charleston_South_Carolina.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or10-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ đồ": 0.9206181484507396,
+            "họ": 0.9955878872424364,
+            "chất liệu": 0.9955024524824694,
+            "dịch vụ": 0.7792792873515282,
+            "chất lượng": 0.39568459246074783,
+            "bộ váy truyền thống": 0.9950971405487508,
+            "vải": 0.7634180652094074,
+            "trải nghiệm": 0.9951722572441213,
+            "quần": 0.8831063501129393,
+            "váy truyền thống": 0.9166075699031353,
+            "quần áo": 0.7955615775125418,
+            "cửa hàng": 0.8423755522235297,
+            "váy": 0.5089103858481394,
+            "tháo vát": -0.8521800197195262,
+            "nhà máy": 0.5308548733592033,
+            "vận may": 0.874246995896101,
+            "bộ": 0.9224710447209267,
+            "thợ may": 0.7249759262078441,
+            "bộ váy": 0.5800459384918213,
+            "nhân viên": 0.9868268258869648,
+            "vị trí": 0.919869564473629,
+            "quần tây": 0.9954515662393533,
+            "bộ vest": 0.9955357481376268,
+            "giá cả": 0.9930280394037254,
+            "áo": 0.5,
+            "quần dài": 0.5,
+            "thiết bị": 0.9919720779871568,
+            "áo sơ mi lụa": 0.7721090458799154,
+            "kích thước": 0.9952936120098457,
+            "mức giá": 0.9955079531646334,
+            "áo phông": -0.5833452045917511,
+            "khăn trải": 0.5,
+            "giường": 0.5,
+            "giá": 0.5
+        },
+        "dicts_adj": {
+            "bộ đồ": [
+                "tuyệt vời",
+                "xinh xắn"
+            ],
+            "họ": [
+                "tuyệt vời"
+            ],
+            "chất liệu": [
+                "hài lòng"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "xuất sắc",
+                "tuyệt vời"
+            ],
+            "chất lượng": [
+                "tuyệt vời",
+                "tốt",
+                "xa",
+                "hợp lý"
+            ],
+            "bộ váy truyền thống": [
+                "đẹp"
+            ],
+            "vải": [
+                "đúng",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "đúng"
+            ],
+            "quần": [
+                "hữu ích"
+            ],
+            "váy truyền thống": [],
+            "quần áo": [
+                "lớn",
+                "hơn",
+                "tuyệt vời",
+                "rực rỡ",
+                "khó",
+                "tốt",
+                "xa",
+                "nhiều",
+                "đẹp",
+                "ĐẶC BIỆT",
+                "tốt",
+                "hài lòng",
+                "đủ"
+            ],
+            "cửa hàng": [
+                "lớn",
+                "hơn"
+            ],
+            "váy": [
+                "khác",
+                "tuyệt vời",
+                "khác",
+                "tuyệt vời",
+                "xinh xắn"
+            ],
+            "tháo vát": [
+                "nhiều",
+                "khác"
+            ],
+            "nhà máy": [
+                "ổn"
+            ],
+            "vận may": [],
+            "bộ": [
+                "tuyệt vời",
+                "rực rỡ",
+                "khó"
+            ],
+            "thợ may": [
+                "khuyến khích",
+                "thực sự",
+                "xuất sắc",
+                "duy nhất",
+                "nhiều"
+            ],
+            "bộ váy": [],
+            "nhân viên": [
+                "chuyên nghiệp",
+                "cao",
+                "thực sự",
+                "tốt bụng"
+            ],
+            "vị trí": [
+                "tốt",
+                "hơn"
+            ],
+            "quần tây": [
+                "tuyệt vời"
+            ],
+            "bộ vest": [
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "áo": [],
+            "quần dài": [],
+            "thiết bị": [
+                "vui vẻ"
+            ],
+            "áo sơ mi lụa": [
+                "đầy",
+                "riêng"
+            ],
+            "kích thước": [
+                "hợp lý"
+            ],
+            "mức giá": [
+                "hợp lý"
+            ],
+            "áo phông": [],
+            "khăn trải": [],
+            "giường": [],
+            "giá": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ đồ": 2.5,
+            "họ": 1.5,
+            "chất liệu": 1.5,
+            "dịch vụ": 4.0,
+            "chất lượng": 5.0,
+            "bộ váy truyền thống": 1.5,
+            "vải": 2.0,
+            "trải nghiệm": 1.5,
+            "quần": 2.0,
+            "váy truyền thống": 1.5,
+            "quần áo": 4.0,
+            "cửa hàng": 1.5,
+            "váy": 4.0,
+            "tháo vát": 1.5,
+            "nhà máy": 1.5,
+            "vận may": 1.5,
+            "bộ": 1.5,
+            "thợ may": 2.5,
+            "bộ váy": 1,
+            "nhân viên": 2,
+            "vị trí": 1,
+            "quần tây": 1,
+            "bộ vest": 1,
+            "giá cả": 1,
+            "áo": 0.5,
+            "quần dài": 0.5,
+            "thiết bị": 0.5,
+            "áo sơ mi lụa": 0.5,
+            "kích thước": 0.5,
+            "mức giá": 0.5,
+            "áo phông": 0.5,
+            "khăn trải": 0.5,
+            "giường": 0.5,
+            "giá": 0.5
+        }
     },
     {
         "attraction_name": "Gia Huy Silk Tailor Shop",
@@ -233,7 +430,196 @@
             "https://www.tripadvisor.com/Attraction_Review-g1028722-d10239064-Reviews-Pine_Walk-Port_de_Pollenca_Majorca_Balearic_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or20-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or10-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or10-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "loại lụa": 0.5,
+            "chất lượng": 0.7477912832400762,
+            "gia huy": 0.8737691454589367,
+            "trải nghiệm": 0.9916036118908474,
+            "nhờ họ": 0.9908636106410995,
+            "tuyệt đẹp": 0.9955959502258338,
+            "kỳ": 0.9567703863140196,
+            "cửa hàng": 0.8942735286351914,
+            "áo vest5": 0.5,
+            "váy": 0.7470886127121048,
+            "bộ phối": 0.5,
+            "loại": 0.9945194318133872,
+            "vải": 0.9812301724450663,
+            "dịch vụ": 0.6651632227779677,
+            "quần áo": 0.9394603519661663,
+            "áo sơ mi": 0.1413012418197468,
+            "lựa chọn vải": -0.6687744334340096,
+            "găng": 0.5,
+            "vận chuyển quốc tế": -0.9704836141318083,
+            "gia": 0.8737691454589367,
+            "bộ": 0.9954357495880686,
+            "váy lụa": 0.9907149970531464,
+            "đồ ngủ": 0.7445076322183013,
+            "bộ đồ": 0.991417151002679,
+            "nhân viên": 0.9333298816927709,
+            "giá cả": 0.5,
+            "áo khoác": 0.5,
+            "áo sơ mi lụa": 0.5,
+            "váy suông": 0.5,
+            "áo liền quần": 0.5,
+            "quần đùi": 0.5,
+            "trải nghiệm may": 0.9947317774640396,
+            "lụa": 0.9955020463094115,
+            "giá": 0.8951392727904022,
+            "chợ": 0.987066583475098,
+            "họ": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "loại lụa": [],
+            "chất lượng": [
+                "tuyệt vời"
+            ],
+            "gia huy": [
+                "hợp lý",
+                "hợp lý"
+            ],
+            "trải nghiệm": [
+                "hợp lý",
+                "hợp lý",
+                "thực sự",
+                "tích cực"
+            ],
+            "nhờ họ": [
+                "hợp lý",
+                "hợp lý"
+            ],
+            "tuyệt đẹp": [
+                "hợp lý",
+                "hợp lý"
+            ],
+            "kỳ": [
+                "hợp lý",
+                "hợp lý"
+            ],
+            "cửa hàng": [
+                "chắc chắn",
+                "nhiều",
+                "hơn",
+                "lớn",
+                "nhiều"
+            ],
+            "áo vest5": [],
+            "váy": [
+                "đẹp",
+                "đẹp",
+                "độc đáo"
+            ],
+            "bộ phối": [],
+            "loại": [
+                "tốt",
+                "tuyệt vời"
+            ],
+            "vải": [
+                "tốt"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "quần áo": [
+                "tuyệt vời",
+                "cao",
+                "thú vị"
+            ],
+            "áo sơ mi": [
+                "ấn tượng",
+                "khác",
+                "hoàn toàn"
+            ],
+            "lựa chọn vải": [
+                "nhanh chóng"
+            ],
+            "găng": [],
+            "vận chuyển quốc tế": [
+                "hơn"
+            ],
+            "gia": [
+                "duy nhất"
+            ],
+            "bộ": [
+                "tuyệt vời"
+            ],
+            "váy lụa": [
+                "đúng"
+            ],
+            "đồ ngủ": [
+                "đầy đủ"
+            ],
+            "bộ đồ": [
+                "đầy đủ"
+            ],
+            "nhân viên": [
+                "tuyệt vời",
+                "tươi cười"
+            ],
+            "giá cả": [],
+            "áo khoác": [],
+            "áo sơ mi lụa": [],
+            "váy suông": [],
+            "áo liền quần": [],
+            "quần đùi": [],
+            "trải nghiệm may": [
+                "thú vị"
+            ],
+            "lụa": [
+                "tuyệt vời"
+            ],
+            "giá": [
+                "hợp lý",
+                "cố định",
+                "rẻ"
+            ],
+            "chợ": [
+                "hợp lý"
+            ],
+            "họ": [
+                "đẹp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "loại lụa": 0.5,
+            "chất lượng": 1.0,
+            "gia huy": 0.5,
+            "trải nghiệm": 0.5,
+            "nhờ họ": 0.5,
+            "tuyệt đẹp": 0.5,
+            "kỳ": 0.5,
+            "cửa hàng": 1.5,
+            "áo vest5": 0.5,
+            "váy": 1.0,
+            "bộ phối": 0.5,
+            "loại": 1.0,
+            "vải": 0.5,
+            "dịch vụ": 1.5,
+            "quần áo": 1.5,
+            "áo sơ mi": 0.5,
+            "lựa chọn vải": 0.5,
+            "găng": 0.5,
+            "vận chuyển quốc tế": 0.5,
+            "gia": 0.5,
+            "bộ": 0.5,
+            "váy lụa": 0.5,
+            "đồ ngủ": 1.0,
+            "bộ đồ": 0.5,
+            "nhân viên": 1.0,
+            "giá cả": 0.5,
+            "áo khoác": 0.5,
+            "áo sơ mi lụa": 0.5,
+            "váy suông": 0.5,
+            "áo liền quần": 0.5,
+            "quần đùi": 0.5,
+            "trải nghiệm may": 0.5,
+            "lụa": 0.5,
+            "giá": 1.0,
+            "chợ": 0.5,
+            "họ": 0.5
+        }
     },
     {
         "attraction_name": "Gia Huy Silk Tailor Shop",
@@ -354,7 +740,126 @@
             "https://www.tripadvisor.com/Attraction_Review-g60654-d12111643-Reviews-KA_WA_A_a_Luau_at_Aulani-Kapolei_Oahu_Hawaii.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or30-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or20-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or20-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.5832596426043892,
+            "nhân viên": 0.7558314978377894,
+            "quần áo": 0.6132702101410056,
+            "kỷ niệm": 0.9923269785940647,
+            "sức khỏe": 0.9369175173342228,
+            "cửa hàng": 0.8607184435240924,
+            "chất liệu": 0.8737691454589367,
+            "giá cả": 0.9529069985728711,
+            "sản phẩm": 0.995308774348814,
+            "thợ may": 0.8737691454589367,
+            "váy": 0.9933529109306012,
+            "áo": 0.4516013393003959,
+            "loại": -0.8609767272137105,
+            "size": -0.5990993129089475,
+            "giá": 0.9953240285394713,
+            "áo sơ mi": 0.9743141897488385,
+            "vải tre": 0.9814507542178035,
+            "chất lượng": 0.5,
+            "khách sạn": 0.9930814320687205,
+            "gia huy": 0.9953792240121402
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tuyệt vời",
+                "nhanh chóng",
+                "tuyệt vời",
+                "cao"
+            ],
+            "nhân viên": [
+                "thực sự",
+                "dễ chịu"
+            ],
+            "quần áo": [
+                "nhiều",
+                "đúng",
+                "nổi bật",
+                "nhiều",
+                "hơn"
+            ],
+            "kỷ niệm": [
+                "đẹp",
+                "đẹp"
+            ],
+            "sức khỏe": [],
+            "cửa hàng": [
+                "thực sự",
+                "thực sự",
+                "dễ chịu"
+            ],
+            "chất liệu": [
+                "tốt"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "sản phẩm": [
+                "hài lòng"
+            ],
+            "thợ may": [
+                "lành nghề"
+            ],
+            "váy": [
+                "hài lòng",
+                "mới",
+                "nhẹ",
+                "thực sự",
+                "vui"
+            ],
+            "áo": [
+                "đẹp",
+                "khác"
+            ],
+            "loại": [
+                "khác"
+            ],
+            "size": [
+                "khác"
+            ],
+            "giá": [
+                "tốt",
+                "tốt"
+            ],
+            "áo sơ mi": [
+                "nhẹ"
+            ],
+            "vải tre": [
+                "nhẹ"
+            ],
+            "chất lượng": [],
+            "khách sạn": [],
+            "gia huy": [
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 2.0,
+            "nhân viên": 1.0,
+            "quần áo": 1.0,
+            "kỷ niệm": 1.0,
+            "sức khỏe": 1.0,
+            "cửa hàng": 1.5,
+            "chất liệu": 0.5,
+            "giá cả": 0.5,
+            "sản phẩm": 0.5,
+            "thợ may": 0.5,
+            "váy": 1.0,
+            "áo": 0.5,
+            "loại": 0.5,
+            "size": 0.5,
+            "giá": 0.5,
+            "áo sơ mi": 0.5,
+            "vải tre": 0.5,
+            "chất lượng": 0.5,
+            "khách sạn": 0.5,
+            "gia huy": 0.5
+        }
     },
     {
         "attraction_name": "Gia Huy Silk Tailor Shop",
@@ -476,7 +981,222 @@
             "https://www.tripadvisor.com/Attraction_Review-g293974-d20147326-Reviews-IGA_Lounge-Istanbul.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or40-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or30-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or30-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tiệm may": 0.9884893298149109,
+            "bộ đồ mới": 0.6011062357574701,
+            "bộ đồ": 0.5322853969410062,
+            "chất lượng": 0.4529118691862095,
+            "thiết kế thời trang": 0.9885696684359573,
+            "kỷ niệm": 0.9923269785940647,
+            "sức khỏe": 0.9369175173342228,
+            "áo phông truyền thống": 0.5,
+            "váy": 0.8224179458144741,
+            "sắp xếp": 0.8313243867596611,
+            "trang phục": 0.8604130795283709,
+            "sản phẩm": 0.9345447296800558,
+            "giá cả": 0.9262175572803244,
+            "bộ váy": -0.3799875099211931,
+            "cà vạt": 0.5,
+            "họ": 0.9682146674022079,
+            "trà sữa": 0.9955766538041644,
+            "thợ may": 0.8843193855136633,
+            "cửa hàng": 0.8314481307461392,
+            "nhà trọ": 0.8737691454589367,
+            "trung tâm thành phố": 0.5,
+            "chất lượng vải": 0.8737691454589367,
+            "đường ray": 0.5070556458085775,
+            "áo sơ mi lót": -0.04332990851253271,
+            "nhân viên tiệm may": 0.995256494556088,
+            "tài sản": 0.9955069188727066,
+            "áo sơ mi": 0.49631935621922213,
+            "thị trấn": 0.9847429788205773,
+            "dịch vụ": 0.8701923854969209,
+            "trải nghiệm": 0.5,
+            "quần áo": 0.9955042555811815,
+            "mọi người": 0.9953974199015647,
+            "bộ vest": 0.7676035736512858,
+            "áo cánh có": 0.9953914134530351,
+            "số đo": 0.7466717972420156,
+            "giao dịch mua hàng": 0.9955869276309386,
+            "quần áo may sẵn": 0.9583058711141348,
+            "quần áo đặt may": 0.5,
+            "vải": 0.9855480858823285,
+            "món đồ áo ngủ": 0.9909939579665661
+        },
+        "dicts_adj": {
+            "tiệm may": [
+                "xuất sắc"
+            ],
+            "bộ đồ mới": [
+                "đầy"
+            ],
+            "bộ đồ": [
+                "cao"
+            ],
+            "chất lượng": [
+                "cao",
+                "tuyệt vời",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "thiết kế thời trang": [
+                "vừa vặn",
+                "hoàn hảo"
+            ],
+            "kỷ niệm": [
+                "đẹp"
+            ],
+            "sức khỏe": [],
+            "áo phông truyền thống": [],
+            "váy": [
+                "tuyệt vời",
+                "thông thường"
+            ],
+            "sắp xếp": [
+                "đầy",
+                "nhanh"
+            ],
+            "trang phục": [
+                "đầy",
+                "nhanh"
+            ],
+            "sản phẩm": [
+                "tốt",
+                "tốt"
+            ],
+            "giá cả": [
+                "tốt",
+                "hợp lý"
+            ],
+            "bộ váy": [
+                "nhiều"
+            ],
+            "cà vạt": [],
+            "họ": [],
+            "trà sữa": [],
+            "thợ may": [],
+            "cửa hàng": [
+                "nhỏ",
+                "hữu ích",
+                "nhiều"
+            ],
+            "nhà trọ": [
+                "tình cờ"
+            ],
+            "trung tâm thành phố": [],
+            "chất lượng vải": [
+                "đầu tiên"
+            ],
+            "đường ray": [
+                "đầu tiên"
+            ],
+            "áo sơ mi lót": [
+                "riêng"
+            ],
+            "nhân viên tiệm may": [
+                "thân thiện"
+            ],
+            "tài sản": [
+                "thực sự"
+            ],
+            "áo sơ mi": [
+                "nhanh",
+                "tuyệt vời",
+                "thông thường"
+            ],
+            "thị trấn": [
+                "nhanh chóng",
+                "cần thiết"
+            ],
+            "dịch vụ": [
+                "vui",
+                "tốt",
+                "hài lòng",
+                "tuyệt vời",
+                "tuyệt vời",
+                "nhanh"
+            ],
+            "trải nghiệm": [],
+            "quần áo": [
+                "tuyệt vời"
+            ],
+            "mọi người": [
+                "thân thiện"
+            ],
+            "bộ vest": [
+                "tuyệt vời",
+                "thông thường"
+            ],
+            "áo cánh có": [
+                "tuyệt vời"
+            ],
+            "số đo": [
+                "nhiều",
+                "hơn"
+            ],
+            "giao dịch mua hàng": [
+                "hài lòng",
+                "bất kỳ"
+            ],
+            "quần áo may sẵn": [
+                "đặc biệt"
+            ],
+            "quần áo đặt may": [],
+            "vải": [
+                "nhiều",
+                "tự nhiên",
+                "nhanh chóng"
+            ],
+            "món đồ áo ngủ": [
+                "nhanh chóng",
+                "chính xác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tiệm may": 0.5,
+            "bộ đồ mới": 0.5,
+            "bộ đồ": 0.5,
+            "chất lượng": 1.5,
+            "thiết kế thời trang": 0.5,
+            "kỷ niệm": 0.5,
+            "sức khỏe": 0.5,
+            "áo phông truyền thống": 0.5,
+            "váy": 1.5,
+            "sắp xếp": 0.5,
+            "trang phục": 0.5,
+            "sản phẩm": 1.0,
+            "giá cả": 1.0,
+            "bộ váy": 0.5,
+            "cà vạt": 0.5,
+            "họ": 0.5,
+            "trà sữa": 0.5,
+            "thợ may": 0.5,
+            "cửa hàng": 1.0,
+            "nhà trọ": 0.5,
+            "trung tâm thành phố": 0.5,
+            "chất lượng vải": 0.5,
+            "đường ray": 0.5,
+            "áo sơ mi lót": 0.5,
+            "nhân viên tiệm may": 0.5,
+            "tài sản": 0.5,
+            "áo sơ mi": 1.5,
+            "thị trấn": 0.5,
+            "dịch vụ": 2.0,
+            "trải nghiệm": 0.5,
+            "quần áo": 0.5,
+            "mọi người": 0.5,
+            "bộ vest": 1.0,
+            "áo cánh có": 0.5,
+            "số đo": 0.5,
+            "giao dịch mua hàng": 0.5,
+            "quần áo may sẵn": 0.5,
+            "quần áo đặt may": 0.5,
+            "vải": 0.5,
+            "món đồ áo ngủ": 0.5
+        }
     },
     {
         "attraction_name": "Gia Huy Silk Tailor Shop",
@@ -598,7 +1318,205 @@
             "https://www.tripadvisor.com/Attraction_Review-g58349-d141385-Reviews-Bellevue_Botanical_Garden-Bellevue_Washington.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or50-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or40-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or40-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.9670376045163721,
+            "chiếc váy công sở": 0.5,
+            "váy dạ": 0.9790905846748501,
+            "váy": 0.9032071901601739,
+            "chất lượng": 0.8737691454589367,
+            "giá cả": 0.9529069985728711,
+            "cửa hàng": 0.8072810804393763,
+            "áo khoác": 0.5,
+            "bộ vest": 0.48056131321936846,
+            "trang phục": 0.5,
+            "trải nghiệm": 0.9953415559139103,
+            "phiền phức": 0.9643485681153834,
+            "áo dài trang phục truyền thống": 0.8715732544660568,
+            "người bản xứ": 0.984989118995145,
+            "le": 0.6009174082428217,
+            "thợ may": 0.8023432568879798,
+            "bộ đồ": 0.47191449999809265,
+            "áo sơ mi": -0.4735740833566524,
+            "nhân viên": 0.9345248772006016,
+            "giá": 0.8737691454589367,
+            "sản phẩm": 0.5,
+            "đồ may": -0.9462528089061379,
+            "buổi họp mặt trung học": 0.5,
+            "chất liệu vải": 0.994345918802234,
+            "váy lanh": 0.9940190199995413,
+            "quần đùi vải lanh": 0.5,
+            "quần": 0.6668268842622638,
+            "áo phông thiết": 0.5581235345453024,
+            "áo chữ v": 0.8737691454589367,
+            "chất liệu tre": 0.2981328424066305,
+            "giao diện": 0.4104657508432865,
+            "chất liệu": 0.9953486415906809,
+            "quần áo": 0.5693416603608057,
+            "khoảng thời": 0.9953072104835883,
+            "bộ": 0.7960096361348405,
+            "cả": 0.9954650199506432
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tốt",
+                "tốt",
+                "tốt",
+                "hơn",
+                "tốt",
+                "hơn",
+                "đẹp",
+                "hoàn toàn",
+                "hài lòng"
+            ],
+            "chiếc váy công sở": [],
+            "váy dạ": [
+                "suốt"
+            ],
+            "váy": [
+                "nhanh chóng",
+                "cuối cùng",
+                "khác"
+            ],
+            "chất lượng": [
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "cửa hàng": [
+                "Chắc chắn"
+            ],
+            "áo khoác": [],
+            "bộ vest": [
+                "khác"
+            ],
+            "trang phục": [],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "phiền phức": [],
+            "áo dài trang phục truyền thống": [
+                "đặc biệt"
+            ],
+            "người bản xứ": [
+                "giống"
+            ],
+            "le": [],
+            "thợ may": [
+                "thực sự",
+                "tốt",
+                "thực sự"
+            ],
+            "bộ đồ": [
+                "hạnh phúc",
+                "hơn"
+            ],
+            "áo sơ mi": [
+                "hạnh phúc",
+                "hơn",
+                "khác"
+            ],
+            "nhân viên": [
+                "tốt",
+                "tốt"
+            ],
+            "giá": [
+                "tốt",
+                "hơn",
+                "nhiều",
+                "bất kỳ"
+            ],
+            "sản phẩm": [],
+            "đồ may": [
+                "khác"
+            ],
+            "buổi họp mặt trung học": [],
+            "chất liệu vải": [
+                "đẹp",
+                "hoàn toàn",
+                "hài lòng"
+            ],
+            "váy lanh": [
+                "đẹp",
+                "hoàn toàn",
+                "hài lòng"
+            ],
+            "quần đùi vải lanh": [],
+            "quần": [],
+            "áo phông thiết": [
+                "riêng"
+            ],
+            "áo chữ v": [
+                "riêng"
+            ],
+            "chất liệu tre": [
+                "khó khăn"
+            ],
+            "giao diện": [
+                "hài lòng"
+            ],
+            "chất liệu": [
+                "tuyệt vời"
+            ],
+            "quần áo": [
+                "tuyệt vời",
+                "quan trọng",
+                "phải",
+                "thực sự",
+                "cao"
+            ],
+            "khoảng thời": [
+                "tuyệt vời"
+            ],
+            "bộ": [
+                "quan trọng",
+                "phải"
+            ],
+            "cả": [
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 2.5,
+            "chiếc váy công sở": 0.5,
+            "váy dạ": 0.5,
+            "váy": 1.0,
+            "chất lượng": 0.5,
+            "giá cả": 0.5,
+            "cửa hàng": 1.5,
+            "áo khoác": 0.5,
+            "bộ vest": 1.0,
+            "trang phục": 0.5,
+            "trải nghiệm": 0.5,
+            "phiền phức": 0.5,
+            "áo dài trang phục truyền thống": 0.5,
+            "người bản xứ": 0.5,
+            "le": 0.5,
+            "thợ may": 1.0,
+            "bộ đồ": 0.5,
+            "áo sơ mi": 1.5,
+            "nhân viên": 1.0,
+            "giá": 0.5,
+            "sản phẩm": 0.5,
+            "đồ may": 0.5,
+            "buổi họp mặt trung học": 0.5,
+            "chất liệu vải": 0.5,
+            "váy lanh": 0.5,
+            "quần đùi vải lanh": 0.5,
+            "quần": 0.5,
+            "áo phông thiết": 0.5,
+            "áo chữ v": 0.5,
+            "chất liệu tre": 0.5,
+            "giao diện": 0.5,
+            "chất liệu": 0.5,
+            "quần áo": 0.5,
+            "khoảng thời": 0.5,
+            "bộ": 0.5,
+            "cả": 0.5
+        }
     },
     {
         "attraction_name": "Gia Huy Silk Tailor Shop",
@@ -720,7 +1638,182 @@
             "https://www.tripadvisor.com/Attraction_Review-g42139-d265439-Reviews-Detroit_Institute_of_Arts-Detroit_Michigan.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or60-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or50-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or50-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khách sạn": -0.02818829962052405,
+            "nhân viên": 0.8291644664714113,
+            "quần áo": 0.5,
+            "chất": 0.5,
+            "áo sơ mi": 0.5,
+            "cửa hàng": 0.5252907647809479,
+            "trang": 0.5302844624966383,
+            "bộ áo liền quần": -0.9571549544343725,
+            "chuyến đi": 0.5,
+            "áo khoác": 0.5581161882728338,
+            "bộ vest": 0.5,
+            "bộ đồ": 0.8772978633642197,
+            "họ lắng nghe": 0.9735448709689081,
+            "quần dài": 0.5,
+            "áo khoác bomber": 0.8394433329813182,
+            "tiệm may": -0.0756651921547018,
+            "giá": 0.3775032913836185,
+            "gia": 0.9327334186527878,
+            "váy quấn": 0.5,
+            "vải": 0.5,
+            "váy": 0.6016081334091723,
+            "chất lượng": 0.9946726430207491,
+            "người": 0.9653738926863298,
+            "thợ may trẻ": 0.9755926642683335,
+            "tiểu sử": 0.5116337686777115,
+            "địa điểm": 0.5,
+            "tác nước": 0.5,
+            "bia lạnh": 0.5,
+            "thợ may": 0.9755140086635947,
+            "giá cả": 0.8737691454589367,
+            "dịch vụ": 0.9927189818699844,
+            "tác phẩm": -0.9247695999220014,
+            "giá may": 0.5,
+            "quần short denim": 0.5,
+            "cả": 0.5,
+            "fan": -0.8950923150405288
+        },
+        "dicts_adj": {
+            "khách sạn": [
+                "khoảng"
+            ],
+            "nhân viên": [
+                "tốt",
+                "hài lòng"
+            ],
+            "quần áo": [],
+            "chất": [],
+            "áo sơ mi": [],
+            "cửa hàng": [
+                "xấu",
+                "nhỏ",
+                "nhiều",
+                "khác"
+            ],
+            "trang": [],
+            "bộ áo liền quần": [
+                "hỏng",
+                "tử tế",
+                "khác"
+            ],
+            "chuyến đi": [],
+            "áo khoác": [
+                "bomber"
+            ],
+            "bộ vest": [],
+            "bộ đồ": [
+                "cụ thể"
+            ],
+            "họ lắng nghe": [],
+            "quần dài": [],
+            "áo khoác bomber": [],
+            "tiệm may": [
+                "cao",
+                "hơn",
+                "nhiều",
+                "nhanh"
+            ],
+            "giá": [
+                "cao",
+                "hơn",
+                "nhiều",
+                "nhanh",
+                "hợp lý",
+                "đầy đủ"
+            ],
+            "gia": [
+                "tình cờ",
+                "cuối cùng"
+            ],
+            "váy quấn": [],
+            "vải": [],
+            "váy": [
+                "thông minh",
+                "giỏi",
+                "đúng",
+                "khác",
+                "hạnh phúc",
+                "đẹp đẽ"
+            ],
+            "chất lượng": [
+                "thực sự"
+            ],
+            "người": [
+                "thông minh",
+                "giỏi"
+            ],
+            "thợ may trẻ": [
+                "thông minh",
+                "giỏi"
+            ],
+            "tiểu sử": [],
+            "địa điểm": [],
+            "tác nước": [],
+            "bia lạnh": [],
+            "thợ may": [
+                "nhỏ",
+                "đầy",
+                "sẵn sàng"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "nhanh chóng"
+            ],
+            "tác phẩm": [],
+            "giá may": [],
+            "quần short denim": [],
+            "cả": [],
+            "fan": [
+                "phải"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khách sạn": 1.0,
+            "nhân viên": 1.5,
+            "quần áo": 1.0,
+            "chất": 0.5,
+            "áo sơ mi": 1.0,
+            "cửa hàng": 1.0,
+            "trang": 0.5,
+            "bộ áo liền quần": 0.5,
+            "chuyến đi": 0.5,
+            "áo khoác": 0.5,
+            "bộ vest": 0.5,
+            "bộ đồ": 0.5,
+            "họ lắng nghe": 0.5,
+            "quần dài": 0.5,
+            "áo khoác bomber": 0.5,
+            "tiệm may": 0.5,
+            "giá": 1.0,
+            "gia": 1.0,
+            "váy quấn": 0.5,
+            "vải": 1.0,
+            "váy": 1.5,
+            "chất lượng": 0.5,
+            "người": 0.5,
+            "thợ may trẻ": 0.5,
+            "tiểu sử": 0.5,
+            "địa điểm": 0.5,
+            "tác nước": 0.5,
+            "bia lạnh": 0.5,
+            "thợ may": 0.5,
+            "giá cả": 0.5,
+            "dịch vụ": 0.5,
+            "tác phẩm": 0.5,
+            "giá may": 0.5,
+            "quần short denim": 0.5,
+            "cả": 0.5,
+            "fan": 0.5
+        }
     },
     {
         "attraction_name": "Gia Huy Silk Tailor Shop",
@@ -847,7 +1940,82 @@
             "https://www.tripadvisor.com/Attraction_Review-g59336-d116991-Reviews-West_Virginia_Penitentiary-Moundsville_West_Virginia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or70-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or60-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or60-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "sản phẩm": 0.9955286232288927,
+            "nhân viên": 0.9744216583882614,
+            "chất lượng": 0.9538025795482099,
+            "váy": 0.5121834501624107,
+            "dịch vụ": 0.7477092765038833,
+            "giá": 0.9932169700041413,
+            "chuyến thăm": 0.8067015688866377,
+            "quần áo": 0.9764506274368614,
+            "sao": 0.9936376541736536,
+            "quạt": 0.5,
+            "nước lạnh": 0.5,
+            "đặt hàng trực tuyến": 0.9841480164323002,
+            "shop": 0.5,
+            "bộ áo dài": 0.5,
+            "bộ đồ": 0.995351139747072
+        },
+        "dicts_adj": {
+            "sản phẩm": [
+                "nhanh chóng",
+                "đẹp"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "tuyệt vời",
+                "hữu ích",
+                "tuyệt vời"
+            ],
+            "chất lượng": [
+                "tuyệt vời",
+                "hoàn hảo",
+                "tốt"
+            ],
+            "váy": [],
+            "dịch vụ": [
+                "hoàn hảo"
+            ],
+            "giá": [
+                "hợp lý",
+                "hợp lý"
+            ],
+            "chuyến thăm": [],
+            "quần áo": [
+                "tốt"
+            ],
+            "sao": [],
+            "quạt": [],
+            "nước lạnh": [],
+            "đặt hàng trực tuyến": [],
+            "shop": [],
+            "bộ áo dài": [],
+            "bộ đồ": [
+                "hữu ích",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "sản phẩm": 1.0,
+            "nhân viên": 1.0,
+            "chất lượng": 1.5,
+            "váy": 0.5,
+            "dịch vụ": 1.0,
+            "giá": 1.0,
+            "chuyến thăm": 0.5,
+            "quần áo": 0.5,
+            "sao": 0.5,
+            "quạt": 0.5,
+            "nước lạnh": 0.5,
+            "đặt hàng trực tuyến": 0.5,
+            "shop": 0.5,
+            "bộ áo dài": 0.5,
+            "bộ đồ": 0.5
+        }
     },
     {
         "attraction_name": "Gia Huy Silk Tailor Shop",
@@ -974,7 +2142,128 @@
             "https://www.tripadvisor.com/Attraction_Review-g294450-d668457-Reviews-Sarajevo_War_Tunnel-Sarajevo_Sarajevo_Canton_Federation_of_Bosnia_and_Herzegovina.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or80-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or70-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or70-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "váy": 0.8301533544630123,
+            "áo sơ mi": 0.4988640146329999,
+            "nhân viên": 0.9950905505829724,
+            "trang phục": 0.9861162779852748,
+            "chưa": 0.5,
+            "lễ đính hôn": 0.5,
+            "buổi lễ": 0.5,
+            "áo dài": 0.9954057815775741,
+            "kích cỡ": 0.5,
+            "màu xanh": 0.9955774561967701,
+            "vải": 0.9860185334691778,
+            "bộ váy": 0.9950903143035248,
+            "cửa hàng": 0.9450885789507689,
+            "thợ may": 0.3575673505353431,
+            "gia huy": 0.8737691454589367,
+            "chất lượng": 0.6868845727294683,
+            "dịch vụ": 0.5,
+            "áo lụa": 0.5,
+            "quần": 0.550767507404089,
+            "áo cánh": 0.9934966074069962,
+            "quần áo": 0.5
+        },
+        "dicts_adj": {
+            "váy": [
+                "sẵn sàng",
+                "vừa vặn",
+                "tuyệt đẹp",
+                "sẵn sàng"
+            ],
+            "áo sơ mi": [
+                "cũ",
+                "thấp",
+                "hơn"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "tuyệt vời",
+                "trung thực",
+                "kiên nhẫn",
+                "chuyên nghiệp",
+                "hào hứng"
+            ],
+            "trang phục": [
+                "riêng",
+                "thực sự"
+            ],
+            "chưa": [],
+            "lễ đính hôn": [],
+            "buổi lễ": [],
+            "áo dài": [
+                "tuyệt đẹp",
+                "tuyệt"
+            ],
+            "kích cỡ": [],
+            "màu xanh": [
+                "tuyệt đẹp"
+            ],
+            "vải": [
+                "sẵn sàng"
+            ],
+            "bộ váy": [
+                "hoàn hảo"
+            ],
+            "cửa hàng": [
+                "trung thực",
+                "kiên nhẫn",
+                "đặc biệt",
+                "thực sự",
+                "vui"
+            ],
+            "thợ may": [
+                "khác",
+                "chắc chắn",
+                "giỏi",
+                "nhất"
+            ],
+            "gia huy": [
+                "nhiều",
+                "nhiều",
+                "giỏi",
+                "nhất"
+            ],
+            "chất lượng": [
+                "tốt"
+            ],
+            "dịch vụ": [],
+            "áo lụa": [],
+            "quần": [],
+            "áo cánh": [
+                "riêng",
+                "thực sự",
+                "hài lòng"
+            ],
+            "quần áo": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "váy": 1.5,
+            "áo sơ mi": 1.0,
+            "nhân viên": 2.0,
+            "trang phục": 0.5,
+            "chưa": 0.5,
+            "lễ đính hôn": 0.5,
+            "buổi lễ": 0.5,
+            "áo dài": 1.0,
+            "kích cỡ": 0.5,
+            "màu xanh": 0.5,
+            "vải": 0.5,
+            "bộ váy": 0.5,
+            "cửa hàng": 1.5,
+            "thợ may": 1.5,
+            "gia huy": 1.0,
+            "chất lượng": 1.0,
+            "dịch vụ": 0.5,
+            "áo lụa": 0.5,
+            "quần": 0.5,
+            "áo cánh": 0.5,
+            "quần áo": 0.5
+        }
     },
     {
         "attraction_name": "Gia Huy Silk Tailor Shop",
@@ -1096,7 +2385,131 @@
             "https://www.tripadvisor.com/Attraction_Review-g188084-d6895906-Reviews-Allmendhubel-Murren_Jungfrau_Region_Bernese_Oberland_Canton_of_Bern.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or90-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or80-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or80-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "váy": 0.7792521721858066,
+            "lớp bông": 0.26468142758434016,
+            "viền": 0.6433780966326594,
+            "áo có": 0.6015659629677733,
+            "váy có viền": 0.559433976188302,
+            "có viền": 0.22246902249753475,
+            "trải nghiệm": 0.8125648790155537,
+            "quần áo": 0.5,
+            "cửa hàng": 0.790909608748431,
+            "bức tranh": 0.8737691454589367,
+            "đồ thêu": 0.9949026707618032,
+            "áo sơ mi": 0.5454543543358644,
+            "bộ": 0.5,
+            "giá cả": 0.9856710097228643,
+            "nhà tuyển dụng": 0.9661336103454232,
+            "dịch vụ": 0.6565285190008581,
+            "nhân viên": 0.9954550571274012,
+            "vải": 0.9915185255231336,
+            "quần áo sơ mi": 0.9948577389586717,
+            "con người": 0.9954798729741015
+        },
+        "dicts_adj": {
+            "váy": [
+                "duy nhất",
+                "tương tự",
+                "tuyệt vời"
+            ],
+            "lớp bông": [
+                "trắng",
+                "tốt",
+                "hơn"
+            ],
+            "viền": [
+                "trắng",
+                "tốt",
+                "hơn"
+            ],
+            "áo có": [
+                "trắng",
+                "tốt",
+                "hơn"
+            ],
+            "váy có viền": [
+                "đúng",
+                "trắng"
+            ],
+            "có viền": [
+                "trắng"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "cùng"
+            ],
+            "quần áo": [],
+            "cửa hàng": [
+                "trẻ",
+                "đủ"
+            ],
+            "bức tranh": [
+                "tuyệt vời",
+                "riêng"
+            ],
+            "đồ thêu": [
+                "tuyệt vời",
+                "riêng"
+            ],
+            "áo sơ mi": [
+                "duy nhất",
+                "nhiều",
+                "hơn",
+                "tuyệt",
+                "hài lòng"
+            ],
+            "bộ": [],
+            "giá cả": [
+                "hài lòng",
+                "cạnh tranh"
+            ],
+            "nhà tuyển dụng": [
+                "cao",
+                "tốt"
+            ],
+            "dịch vụ": [
+                "đắt"
+            ],
+            "nhân viên": [
+                "tuyệt vời"
+            ],
+            "vải": [
+                "chắc chắn",
+                "nhiều"
+            ],
+            "quần áo sơ mi": [
+                "tuyệt vời"
+            ],
+            "con người": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "váy": 2.0,
+            "lớp bông": 0.5,
+            "viền": 0.5,
+            "áo có": 0.5,
+            "váy có viền": 0.5,
+            "có viền": 0.5,
+            "trải nghiệm": 0.5,
+            "quần áo": 1.5,
+            "cửa hàng": 1.5,
+            "bức tranh": 0.5,
+            "đồ thêu": 0.5,
+            "áo sơ mi": 1.5,
+            "bộ": 0.5,
+            "giá cả": 1.0,
+            "nhà tuyển dụng": 0.5,
+            "dịch vụ": 1.0,
+            "nhân viên": 0.5,
+            "vải": 0.5,
+            "quần áo sơ mi": 0.5,
+            "con người": 0.5
+        }
     },
     {
         "attraction_name": "Gia Huy Silk Tailor Shop",
@@ -1218,6 +2631,152 @@
             "https://www.tripadvisor.com/Attraction_Review-g1233772-d12938008-Reviews-Alcudia_Markt-Alcudia_Majorca_Balearic_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or100-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or90-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d4235705-Reviews-or90-Gia_Huy_Silk_Tailor_Shop-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "vải": 0.8578349902915458,
+            "áo sơ mi": 0.008992674062028527,
+            "điều xa": -0.6315381694585085,
+            "quần áo": 0.8771183052333071,
+            "người": 0.8737691454589367,
+            "thợ may": 0.10007209905112784,
+            "trải nghiệm": 0.7546662390232086,
+            "váy": 0.5,
+            "đường cắt": 0.5,
+            "ba": 0.5383912194520235,
+            "bộ suit": 0.5027881450951099,
+            "tiệm": -0.7841510232537985,
+            "bộ vest": 0.23315351937587062,
+            "cửa hàng": 0.7789177352678962,
+            "chuyến đi": -0.17257530917413533,
+            "gia huy": 0.8737691454589367,
+            "quần": 0.5,
+            "áo": 0.5,
+            "nước": 0.5,
+            "wifi": 0.5,
+            "dịch vụ": 0.9936263567069545,
+            "tác phẩm": 0.5,
+            "chất lượng": 0.9954844518215396,
+            "quý cô": 0.9953767088591121,
+            "ngân hàng": 0.9819079054286703,
+            "giao dịch chuyển khoản": 0.5
+        },
+        "dicts_adj": {
+            "vải": [
+                "tốt",
+                "tuyệt vời",
+                "Nhiều"
+            ],
+            "áo sơ mi": [
+                "đầy"
+            ],
+            "điều xa": [
+                "xa xỉ"
+            ],
+            "quần áo": [
+                "riêng",
+                "vui",
+                "hài lòng",
+                "khác",
+                "đẹp",
+                "vui",
+                "tốt"
+            ],
+            "người": [
+                "đặc biệt",
+                "nồng nhiệt"
+            ],
+            "thợ may": [
+                "đặc biệt",
+                "nồng nhiệt",
+                "đầy",
+                "giống hệt"
+            ],
+            "trải nghiệm": [
+                "có thể",
+                "tuyệt vời"
+            ],
+            "váy": [],
+            "đường cắt": [],
+            "ba": [
+                "đầy"
+            ],
+            "bộ suit": [
+                "đầy"
+            ],
+            "tiệm": [
+                "khô",
+                "nóng"
+            ],
+            "bộ vest": [
+                "bất kỳ",
+                "khác",
+                "đẹp",
+                "khác",
+                "đẹp",
+                "giống hệt"
+            ],
+            "cửa hàng": [
+                "khác",
+                "đẹp",
+                "cuối cùng"
+            ],
+            "chuyến đi": [
+                "khác",
+                "trực tuyến"
+            ],
+            "gia huy": [
+                "chắc chắn",
+                "chắc chắn",
+                "nhiều"
+            ],
+            "quần": [],
+            "áo": [],
+            "nước": [],
+            "wifi": [],
+            "dịch vụ": [
+                "hài lòng"
+            ],
+            "tác phẩm": [],
+            "chất lượng": [
+                "tuyệt vời"
+            ],
+            "quý cô": [
+                "nhiều"
+            ],
+            "ngân hàng": [
+                "liên tục"
+            ],
+            "giao dịch chuyển khoản": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "vải": 1.5,
+            "áo sơ mi": 1.5,
+            "điều xa": 0.5,
+            "quần áo": 2.5,
+            "người": 0.5,
+            "thợ may": 1.5,
+            "trải nghiệm": 0.5,
+            "váy": 0.5,
+            "đường cắt": 0.5,
+            "ba": 0.5,
+            "bộ suit": 0.5,
+            "tiệm": 0.5,
+            "bộ vest": 0.5,
+            "cửa hàng": 1.0,
+            "chuyến đi": 0.5,
+            "gia huy": 1.0,
+            "quần": 0.5,
+            "áo": 0.5,
+            "nước": 0.5,
+            "wifi": 0.5,
+            "dịch vụ": 0.5,
+            "tác phẩm": 0.5,
+            "chất lượng": 0.5,
+            "quý cô": 0.5,
+            "ngân hàng": 0.5,
+            "giao dịch chuyển khoản": 0.5
+        }
     }
 ]

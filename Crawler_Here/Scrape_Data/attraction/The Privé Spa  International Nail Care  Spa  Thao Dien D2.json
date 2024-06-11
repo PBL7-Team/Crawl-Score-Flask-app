@@ -128,7 +128,199 @@
             "https://www.tripadvisor.com/Attraction_Review-g297884-d19176237-Reviews-MUSEUM_1-Busan.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or10-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.9264327421745596,
+            "vệ sinh": 0.5,
+            "giá cả": 0.7997694833320566,
+            "spa": 0.8632743663503788,
+            "nhân viên": 0.8908218213538122,
+            "kính thưa": 0.9955592071637511,
+            "trải nghiệm": 0.995144944247191,
+            "chuyến thăm": 0.9925424595130607,
+            "giá là": 0.9706782305147499,
+            "mát-xa": 0.9954777874518186,
+            "lưng vai cổ điều": 0.9955127835273743,
+            "điểm dừng chân": 0.7362759653478861,
+            "cho": 0.5,
+            "massage": 0.7968201430747286,
+            "màu sơn bóng": 0.9869102168595418,
+            "khung cảnh": 0.9213649248704314,
+            "đồ uống": 0.9955068076378666,
+            "mát-xa toàn thân": 0.5,
+            "trong 60": 0.5,
+            "điều": 0.5,
+            "không gian": 0.8737691454589367,
+            "giấc ngủ": 0.5,
+            "kỹ thuật viên": 0.8737691454589367,
+            "điểm sơn": 0.5,
+            "dịch vụ mát-xa nhìn chung": 0.8737691454589367,
+            "thư giãn": 0.9953971274080686,
+            "bầu không khí": -0.03214875282719731,
+            "thảo": 0.8737691454589367,
+            "màu": 0.7828157029580325,
+            "gel": 0.9865874835522845,
+            "dịch vụ cắt và": 0.5,
+            "sơn móng": 0.5,
+            "nhà hàng": 0.8530019149184227,
+            "cửa hàng": 0.7438668683171272
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "đặc biệt",
+                "đặc biệt",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "vệ sinh": [],
+            "giá cả": [
+                "hợp lý",
+                "phải",
+                "rẻ",
+                "nhất",
+                "phải",
+                "đắt",
+                "hợp lý"
+            ],
+            "spa": [
+                "đơn giản",
+                "đẹp",
+                "sạch sẽ",
+                "chuyên nghiệp",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "ít",
+                "tốt",
+                "khác",
+                "đủ",
+                "tốt",
+                "chuyên nghiệp",
+                "tỉ mỉ",
+                "chuyên nghiệp"
+            ],
+            "kính thưa": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "vui",
+                "vui",
+                "tuyệt vời",
+                "nổi bật",
+                "hoàn hảo",
+                "thoải mái"
+            ],
+            "chuyến thăm": [
+                "tốt",
+                "nhất"
+            ],
+            "giá là": [
+                "đúng"
+            ],
+            "mát-xa": [
+                "tuyệt vời"
+            ],
+            "lưng vai cổ điều": [
+                "tuyệt vời"
+            ],
+            "điểm dừng chân": [
+                "đầu tiên"
+            ],
+            "cho": [],
+            "massage": [
+                "lành nghề"
+            ],
+            "màu sơn bóng": [
+                "đẹp"
+            ],
+            "khung cảnh": [
+                "thoải mái"
+            ],
+            "đồ uống": [
+                "tuyệt vời"
+            ],
+            "mát-xa toàn thân": [],
+            "trong 60": [],
+            "điều": [],
+            "không gian": [
+                "riêng tư",
+                "dễ dàng"
+            ],
+            "giấc ngủ": [],
+            "kỹ thuật viên": [
+                "lành nghề"
+            ],
+            "điểm sơn": [],
+            "dịch vụ mát-xa nhìn chung": [
+                "tuyệt vời"
+            ],
+            "thư giãn": [
+                "tuyệt vời"
+            ],
+            "bầu không khí": [
+                "chuyên nghiệp",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "thảo": [
+                "tuyệt vời"
+            ],
+            "màu": [
+                "đẹp",
+                "hiện đại"
+            ],
+            "gel": [
+                "đẹp",
+                "hiện đại"
+            ],
+            "dịch vụ cắt và": [],
+            "sơn móng": [],
+            "nhà hàng": [],
+            "cửa hàng": [
+                "tối đa"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 7.5,
+            "vệ sinh": 1,
+            "giá cả": 2,
+            "spa": 5.0,
+            "nhân viên": 4.5,
+            "kính thưa": 2,
+            "trải nghiệm": 3.5,
+            "chuyến thăm": 1,
+            "giá là": 1,
+            "mát-xa": 1,
+            "lưng vai cổ điều": 1,
+            "điểm dừng chân": 1,
+            "cho": 1,
+            "massage": 2.5,
+            "màu sơn bóng": 1.5,
+            "khung cảnh": 1.5,
+            "đồ uống": 1.5,
+            "mát-xa toàn thân": 1.5,
+            "trong 60": 1.5,
+            "điều": 1.5,
+            "không gian": 1.5,
+            "giấc ngủ": 1.5,
+            "kỹ thuật viên": 1.5,
+            "điểm sơn": 1.5,
+            "dịch vụ mát-xa nhìn chung": 1.5,
+            "thư giãn": 1.5,
+            "bầu không khí": 3.0,
+            "thảo": 1.5,
+            "màu": 1.5,
+            "gel": 1.5,
+            "dịch vụ cắt và": 2,
+            "sơn móng": 2,
+            "nhà hàng": 2,
+            "cửa hàng": 2
+        }
     },
     {
         "attraction_name": "The Privé Spa | International Nail Care & Spa | Thao Dien (D2)",
@@ -260,7 +452,26 @@
             "https://www.tripadvisor.com/Attraction_Review-g55470-d3210283-Reviews-Summer_Fun_Waterpark-Belton_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or20-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or10-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or10-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến thăm": 0.9914491010131314,
+            "giá là": 0.9706782305147499
+        },
+        "dicts_adj": {
+            "chuyến thăm": [
+                "tốt",
+                "nhất"
+            ],
+            "giá là": [
+                "đúng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến thăm": 1,
+            "giá là": 1
+        }
     },
     {
         "attraction_name": "The Privé Spa | International Nail Care & Spa | Thao Dien (D2)",
@@ -393,7 +604,26 @@
             "https://www.tripadvisor.com/Attraction_Review-g45963-d10643381-Reviews-Topgolf-Las_Vegas_Nevada.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or30-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or20-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or20-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9952944105607457,
+            "dịch vụ": 0.9929277860559523
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "vui"
+            ],
+            "dịch vụ": [
+                "đặc biệt",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 1,
+            "dịch vụ": 2.5
+        }
     },
     {
         "attraction_name": "The Privé Spa | International Nail Care & Spa | Thao Dien (D2)",
@@ -526,7 +756,36 @@
             "https://www.tripadvisor.com/Attraction_Review-g48096-d8532498-Reviews-Mahopac_Lake-Mahopac_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or40-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or30-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or30-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9949420348566491,
+            "không gian": 0.8737691454589367,
+            "nhân viên": 0.9061379595659673,
+            "dịch vụ": 0.9954675165354274
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "hoàn hảo",
+                "thoải mái"
+            ],
+            "không gian": [
+                "thư giãn"
+            ],
+            "nhân viên": [
+                "chuyên nghiệp"
+            ],
+            "dịch vụ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 1.5,
+            "không gian": 1.5,
+            "nhân viên": 1.5,
+            "dịch vụ": 1.5
+        }
     },
     {
         "attraction_name": "The Privé Spa | International Nail Care & Spa | Thao Dien (D2)",
@@ -659,7 +918,74 @@
             "https://www.tripadvisor.com/Attraction_Review-g60713-d104675-Reviews-Golden_Gate_Bridge-San_Francisco_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or50-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or40-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or40-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "massage": 0.9951367835747078,
+            "hương": 0.5,
+            "spa": 0.9948050550592598,
+            "không gian": 0.8737691454589367,
+            "giấc ngủ": 0.5,
+            "kỹ thuật viên": 0.8737691454589367,
+            "điểm sơn": 0.5,
+            "dịch vụ": 0.9946720121661201,
+            "trải nghiệm": 0.995376085746102,
+            "không khí": -0.9370632087811828,
+            "họ": 0.8737691454589367,
+            "màu gel": 0.7428419819916598
+        },
+        "dicts_adj": {
+            "massage": [
+                "tuyệt vời"
+            ],
+            "hương": [],
+            "spa": [
+                "sang trọng",
+                "tuyệt vời"
+            ],
+            "không gian": [
+                "riêng tư",
+                "dễ dàng"
+            ],
+            "giấc ngủ": [],
+            "kỹ thuật viên": [
+                "dịu"
+            ],
+            "điểm sơn": [],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "không khí": [
+                "tuyệt vời"
+            ],
+            "họ": [
+                "đẹp",
+                "hiện đại"
+            ],
+            "màu gel": [
+                "đẹp",
+                "hiện đại"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "massage": 1.5,
+            "hương": 1.5,
+            "spa": 3.0,
+            "không gian": 1.5,
+            "giấc ngủ": 1.5,
+            "kỹ thuật viên": 1.5,
+            "điểm sơn": 1.5,
+            "dịch vụ": 3.0,
+            "trải nghiệm": 1.5,
+            "không khí": 1.5,
+            "họ": 1.5,
+            "màu gel": 1.5
+        }
     },
     {
         "attraction_name": "The Privé Spa | International Nail Care & Spa | Thao Dien (D2)",
@@ -796,7 +1122,35 @@
             "https://www.tripadvisor.com/Attraction_Review-g41848-d582610-Reviews-Davis_Farmland-Sterling_Massachusetts.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or60-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or50-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or50-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.8737691454589367,
+            "spa": 0.8737691454589367,
+            "màu sơn": 0.9809186990605667,
+            "không gian": 0.5794460363686085
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "spa": [
+                "tuyệt vời"
+            ],
+            "màu sơn": [
+                "đẹp"
+            ],
+            "không gian": [
+                "thoải mái"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 1.5,
+            "spa": 1.5,
+            "màu sơn": 1.5,
+            "không gian": 1.5
+        }
     },
     {
         "attraction_name": "The Privé Spa | International Nail Care & Spa | Thao Dien (D2)",
@@ -938,7 +1292,12 @@
             "https://www.tripadvisor.com/Attraction_Review-g31381-d103872-Reviews-O_K_Corral-Tombstone_Arizona.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or70-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or60-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or60-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     },
     {
         "attraction_name": "The Privé Spa | International Nail Care & Spa | Thao Dien (D2)",
@@ -1081,7 +1440,39 @@
             "https://www.tripadvisor.com/Attraction_Review-g297415-d2587536-Reviews-Dong_Men_Pedestrian_Street-Shenzhen_Guangdong.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or80-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or70-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or70-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.5,
+            "vệ sinh": 0.5,
+            "giá cả": 0.6047921180725098,
+            "nhân viên": 0.9632067196071148
+        },
+        "dicts_adj": {
+            "dịch vụ": [],
+            "vệ sinh": [],
+            "giá cả": [
+                "hợp lý",
+                "phải",
+                "rẻ",
+                "nhất",
+                "phải",
+                "đắt"
+            ],
+            "nhân viên": [
+                "tốt",
+                "khác",
+                "đủ",
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 1,
+            "vệ sinh": 1,
+            "giá cả": 1,
+            "nhân viên": 1
+        }
     },
     {
         "attraction_name": "The Privé Spa | International Nail Care & Spa | Thao Dien (D2)",
@@ -1224,7 +1615,12 @@
             "https://www.tripadvisor.com/Attraction_Review-g41841-d7148521-Reviews-Bass_River_Beach-South_Yarmouth_Yarmouth_Cape_Cod_Massachusetts.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or90-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or80-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or80-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     },
     {
         "attraction_name": "The Privé Spa | International Nail Care & Spa | Thao Dien (D2)",
@@ -1367,6 +1763,11 @@
             "https://www.tripadvisor.com/Attraction_Review-g293917-d1746051-Reviews-Bai_Orchid_and_Butterfly_Farm-Chiang_Mai.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or100-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or90-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d23718217-Reviews-or90-The_Prive_Spa_International_Nail_Care_Spa_Thao_Dien_D2-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     }
 ]

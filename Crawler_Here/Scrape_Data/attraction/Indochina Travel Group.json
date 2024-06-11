@@ -73,6 +73,237 @@
             "https://www.tripadvisor.com/Attraction_Review-g196579-d12998409-Reviews-Paris_La_Defense_Arena-Nanterre_La_Defense_Hauts_de_Seine_Ile_de_France.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d15685002-Reviews-Indochina_Travel_Group-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d15685002-Reviews-Indochina_Travel_Group-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9084233464673162,
+            "quang cảnh": 0.9954224441898987,
+            "đồ ăn": 0.9956082340795547,
+            "đó thì giao thông": 0.5424200193956494,
+            "hướng dẫn viên": 0.9955762905883603,
+            "chuyến tham quan": 0.9399280190446007,
+            "người địa phương": 0.9955396711011417,
+            "tay đua xe máy": 0.9831649074330926,
+            "thức ăn đường phố": 0.9955318980501033,
+            "người dân địa phương": 0.5041786218062043,
+            "chợ hoa": 0.9852055117953569,
+            "kho tàng": 0.5,
+            "kiến ​​thức": 0.5,
+            "phương tiện di chuyển": 0.9949547579744831,
+            "thuyền": 0.9652230995125137,
+            "chèo thuyền": 0.8737691454589367,
+            "kênh": 0.9953439269447699,
+            "bữa trưa": 0.9954889777582139,
+            "quan cảm thấy": 0.5,
+            "đồng bằng sông cửu long": 0.711027137003839,
+            "chuyến đi bằng xe đạp": 0.5,
+            "đồn điền dừa": 0.5,
+            "chuối": 0.5,
+            "cuộc sống": 0.5,
+            "khu chợ địa phương": 0.9559211716987193,
+            "trái cây": 0.8781915502040647,
+            "trang trại": 0.7966694314964116,
+            "quýt": 0.9937908748785654,
+            "nhà hàng địa phương": 0.9908893420360982,
+            "món ăn": 0.9954592728754506,
+            "sông cửu long": 0.8737691454589367,
+            "xe ngựa": 0.9845488541759551,
+            "hòn đảo": 0.5,
+            "sông": 0.5,
+            "đảo": 0.5110128596425056,
+            "xuồng": 0.4261875804513693,
+            "đường thủy": 0.989908292889595,
+            "cây dừa nước": 0.995230547094252,
+            "hoàng hôn": 0.6974997244775295,
+            "tour": 0.9865079997107387,
+            "chuyến du lịch": 0.891025937104132,
+            "trải nghiệm": 0.9871430322527885,
+            "xe gắn máy": 0.9818393412278965,
+            "ẩm thực đường phố": 0.9954913882538676,
+            "hoa": 0.9955208555911668
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "khác"
+            ],
+            "quang cảnh": [
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "đó thì giao thông": [
+                "đông đúc"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "tốt",
+                "năng động",
+                "ngon"
+            ],
+            "người địa phương": [
+                "thân thiện",
+                "dễ",
+                "gần",
+                "vui vẻ",
+                "nhiều",
+                "vui",
+                "cùng"
+            ],
+            "tay đua xe máy": [
+                "giỏi"
+            ],
+            "thức ăn đường phố": [
+                "đặc biệt",
+                "ngon"
+            ],
+            "người dân địa phương": [],
+            "chợ hoa": [
+                "nổi bật",
+                "khác"
+            ],
+            "kho tàng": [],
+            "kiến ​​thức": [],
+            "phương tiện di chuyển": [
+                "tuyệt vời"
+            ],
+            "thuyền": [
+                "tuyệt vời",
+                "sẵn sàng"
+            ],
+            "chèo thuyền": [
+                "đẹp"
+            ],
+            "kênh": [
+                "đẹp"
+            ],
+            "bữa trưa": [
+                "thú vị",
+                "tuyệt vời"
+            ],
+            "quan cảm thấy": [],
+            "đồng bằng sông cửu long": [],
+            "chuyến đi bằng xe đạp": [],
+            "đồn điền dừa": [],
+            "chuối": [],
+            "cuộc sống": [],
+            "khu chợ địa phương": [
+                "nhộn nhịp"
+            ],
+            "trái cây": [
+                "kỳ lạ",
+                "thơm",
+                "ngon",
+                "khó khăn"
+            ],
+            "trang trại": [
+                "thơm",
+                "ngon",
+                "khó khăn"
+            ],
+            "quýt": [
+                "thơm",
+                "ngon",
+                "khó khăn"
+            ],
+            "nhà hàng địa phương": [
+                "ngon"
+            ],
+            "món ăn": [
+                "ngon"
+            ],
+            "sông cửu long": [
+                "nhấn"
+            ],
+            "xe ngựa": [
+                "sẵn sàng"
+            ],
+            "hòn đảo": [],
+            "sông": [],
+            "đảo": [
+                "nhỏ"
+            ],
+            "xuồng": [
+                "nhỏ"
+            ],
+            "đường thủy": [
+                "đẹp"
+            ],
+            "cây dừa nước": [
+                "đẹp"
+            ],
+            "hoàng hôn": [],
+            "tour": [
+                "chắc chắn"
+            ],
+            "chuyến du lịch": [
+                "đặc biệt",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "đặc biệt",
+                "tuyệt vời"
+            ],
+            "xe gắn máy": [
+                "an toàn"
+            ],
+            "ẩm thực đường phố": [
+                "ngon"
+            ],
+            "hoa": [
+                "tuyệt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 1.5,
+            "quang cảnh": 1.5,
+            "đồ ăn": 1.5,
+            "đó thì giao thông": 1.5,
+            "hướng dẫn viên": 1.5,
+            "chuyến tham quan": 4.0,
+            "người địa phương": 1.5,
+            "tay đua xe máy": 1.5,
+            "thức ăn đường phố": 1.5,
+            "người dân địa phương": 3.0,
+            "chợ hoa": 1.5,
+            "kho tàng": 1.5,
+            "kiến ​​thức": 1.5,
+            "phương tiện di chuyển": 1.5,
+            "thuyền": 3.0,
+            "chèo thuyền": 1.5,
+            "kênh": 1.5,
+            "bữa trưa": 1.5,
+            "quan cảm thấy": 1.5,
+            "đồng bằng sông cửu long": 1.5,
+            "chuyến đi bằng xe đạp": 1.5,
+            "đồn điền dừa": 1.5,
+            "chuối": 1.5,
+            "cuộc sống": 1.5,
+            "khu chợ địa phương": 1.5,
+            "trái cây": 1.5,
+            "trang trại": 1.5,
+            "quýt": 1.5,
+            "nhà hàng địa phương": 1.5,
+            "món ăn": 1.5,
+            "sông cửu long": 1.5,
+            "xe ngựa": 1.5,
+            "hòn đảo": 1.5,
+            "sông": 1.5,
+            "đảo": 1.5,
+            "xuồng": 1.5,
+            "đường thủy": 1.5,
+            "cây dừa nước": 1.5,
+            "hoàng hôn": 2.5,
+            "tour": 1.5,
+            "chuyến du lịch": 1,
+            "trải nghiệm": 1,
+            "xe gắn máy": 1,
+            "ẩm thực đường phố": 1,
+            "hoa": 1
+        }
     }
 ]

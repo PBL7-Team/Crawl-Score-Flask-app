@@ -99,6 +99,145 @@
             "https://www.tripadvisor.com/Attraction_Review-g316071-d316178-Reviews-Angel_Falls-Canaima_National_Park_Guayana_Region.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15880070-Reviews-Rora_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15880070-Reviews-Rora_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "mát-xa": 0.7311715897085378,
+            "chân": 0.5,
+            "trải nghiệm": 0.8714697072282434,
+            "dịch vụ": 0.9361243796884082,
+            "cổ nhẹ": 0.5,
+            "mát-xa tốt nhất": 0.9955252276849933,
+            "trong 90": 0.9866737484117039,
+            "trị liệu của tôi": 0.958326534338994,
+            "massage": 0.8113090759919336,
+            "mát-xa tuyệt vời": 0.8737691454589367,
+            "thái và cô": 0.8737691454589367,
+            "mà": 0.5,
+            "tôi từng có": 0.5,
+            "liệu pháp mát-xa áp lực": 0.5105076022446156,
+            "dành cho": 0.5,
+            "không gian": 0.6561343520879745,
+            "nhân viên": 0.9919723785860697,
+            "tại spa": 0.9954585154773667,
+            "lantôi": 0.8737691454589367,
+            "lần": 0.5,
+            "không khí": 0.8737691454589367,
+            "dịch vụ massage": 0.5,
+            "mọi người": 0.9949916487676091,
+            "spa": 0.8737691454589367,
+            "chỗ massage": 0.9850996385794133,
+            "giá": 0.2317338123296698
+        },
+        "dicts_adj": {
+            "mát-xa": [
+                "kỹ lưỡng",
+                "tuyệt vời"
+            ],
+            "chân": [],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "chuyên nghiệp",
+                "tốt"
+            ],
+            "cổ nhẹ": [],
+            "mát-xa tốt nhất": [
+                "xinh đẹp"
+            ],
+            "trong 90": [
+                "kỹ lưỡng",
+                "tuyệt vời"
+            ],
+            "trị liệu của tôi": [
+                "kỹ lưỡng",
+                "tuyệt vời"
+            ],
+            "massage": [
+                "cổ",
+                "mát",
+                "cao"
+            ],
+            "mát-xa tuyệt vời": [
+                "tốt"
+            ],
+            "thái và cô": [
+                "tốt"
+            ],
+            "mà": [],
+            "tôi từng có": [],
+            "liệu pháp mát-xa áp lực": [
+                "mạnh"
+            ],
+            "dành cho": [],
+            "không gian": [
+                "hiện đại"
+            ],
+            "nhân viên": [
+                "cao",
+                "chuyên nghiệp",
+                "thoải mái",
+                "tốt",
+                "chuyên nghiệp",
+                "tuyệt vời"
+            ],
+            "tại spa": [
+                "tuyệt",
+                "căng thẳng"
+            ],
+            "lantôi": [
+                "tuyệt",
+                "căng thẳng"
+            ],
+            "lần": [],
+            "không khí": [
+                "trong lành"
+            ],
+            "dịch vụ massage": [],
+            "mọi người": [],
+            "spa": [
+                "tốt"
+            ],
+            "chỗ massage": [
+                "ngon",
+                "nhất"
+            ],
+            "giá": [
+                "cao",
+                "hơn",
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "mát-xa": 3.0,
+            "chân": 1.5,
+            "trải nghiệm": 2.0,
+            "dịch vụ": 2.0,
+            "cổ nhẹ": 1.5,
+            "mát-xa tốt nhất": 1.5,
+            "trong 90": 1.5,
+            "trị liệu của tôi": 1.5,
+            "massage": 3.0,
+            "mát-xa tuyệt vời": 1.5,
+            "thái và cô": 1.5,
+            "mà": 1.5,
+            "tôi từng có": 1.5,
+            "liệu pháp mát-xa áp lực": 1.5,
+            "dành cho": 1.5,
+            "không gian": 1,
+            "nhân viên": 2.0,
+            "tại spa": 0.5,
+            "lantôi": 0.5,
+            "lần": 0.5,
+            "không khí": 0.5,
+            "dịch vụ massage": 0.5,
+            "mọi người": 0.5,
+            "spa": 0.5,
+            "chỗ massage": 0.5,
+            "giá": 0.5
+        }
     }
 ]

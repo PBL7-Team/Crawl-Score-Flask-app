@@ -85,6 +85,54 @@
             "https://www.tripadvisor.com/Attraction_Review-g32974-d14052782-Reviews-Mistlin_Sports_Park-Ripon_California.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d26440970-Reviews-Banyan_Spa-Nha_Trang_Khanh_Hoa_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d26440970-Reviews-Banyan_Spa-Nha_Trang_Khanh_Hoa_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "spa": 0.9954890350345522,
+            "cơ sở vật chất": 0.8737691454589367,
+            "nhân viên": 0.9932922457810491,
+            "viên": 0.9936067129892763,
+            "lễ tân": 0.9931377164903097,
+            "mát-xa": 0.9646463685203344,
+            "đều hữu": 0.9922279813326895
+        },
+        "dicts_adj": {
+            "spa": [
+                "tuyệt vời"
+            ],
+            "cơ sở vật chất": [
+                "nhất"
+            ],
+            "nhân viên": [
+                "hữu ích",
+                "chuyên nghiệp"
+            ],
+            "viên": [
+                "hữu ích",
+                "chuyên nghiệp"
+            ],
+            "lễ tân": [
+                "hữu ích",
+                "chuyên nghiệp"
+            ],
+            "mát-xa": [
+                "hữu ích",
+                "chuyên nghiệp"
+            ],
+            "đều hữu": [
+                "hữu ích",
+                "chuyên nghiệp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "spa": 1.5,
+            "cơ sở vật chất": 1.5,
+            "nhân viên": 1.5,
+            "viên": 1.5,
+            "lễ tân": 1.5,
+            "mát-xa": 1.5,
+            "đều hữu": 1.5
+        }
     }
 ]
