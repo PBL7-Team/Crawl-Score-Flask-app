@@ -81,7 +81,170 @@
             "https://www.tripadvisor.com/Attraction_Review-g298427-d584823-Reviews-Coiba_Island_National_Park-Isla_de_Coiba_Veraguas_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d8602636-Reviews-or10-Athena_Travel_Vietnam-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8602636-Reviews-Athena_Travel_Vietnam-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8602636-Reviews-Athena_Travel_Vietnam-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9926906830165535,
+            "đồ ăn": 0.8737692800350487,
+            "du thuyền": 0.9954329562024213,
+            "sông": 0.9952648357138969,
+            "tour": 0.9955994089250453,
+            "hướng dẫn viên": 0.6471308993369651,
+            "khách sạn": -0.9737769031780772,
+            "bữa trưa": 0.5,
+            "địa đạo củ chi": 0.7477319887548219,
+            "chuyến tham quan": 0.8723972133545127,
+            "hướng dẫn viên du lịch": 0.8303162181012643,
+            "trải nghiệm": 0.7476464714854956,
+            "trinh nguyên": 0.5,
+            "điểm tham quan": 0.9538949173875153,
+            "hài hước": 0.9954609570559114,
+            "mekong": 0.5107220765203238,
+            "địa điểm": 0.5293373931199312,
+            "lịch sử": 0.5261154547333717,
+            "địa đạo": 0.8737692800350487,
+            "củ chi": 0.8737692800350487,
+            "giá cả": 0.5691311899572611,
+            "tour du lịch": 0.5598471015691757,
+            "kiến ​​thức chuyên môn": 0.9951781913405284,
+            "chiến tranh": 0.5,
+            "con người": 0.5,
+            "tour tham quan địa đạo": 0.5289311520755291,
+            "khoảng thời gian": 0.9953072104835883
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "nhiều",
+                "thực sự",
+                "Chắc chắn",
+                "tuyệt vời",
+                "hơn",
+                "thực sự",
+                "tuyệt vời",
+                "tuyệt vời",
+                "nổi bật"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "du thuyền": [
+                "ngon",
+                "đẹp"
+            ],
+            "sông": [
+                "đẹp"
+            ],
+            "tour": [
+                "xuất sắc",
+                "tốt"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "giỏi",
+                "nhất",
+                "tuyệt vời",
+                "hơn",
+                "tuyệt vời",
+                "đúng",
+                "chuyên nghiệp",
+                "chuyên nghiệp",
+                "tuyệt phải",
+                "nhiều",
+                "hơn"
+            ],
+            "khách sạn": [
+                "gần",
+                "đúng"
+            ],
+            "bữa trưa": [],
+            "địa đạo củ chi": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "cùng",
+                "riêng",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "nhiều",
+                "vui",
+                "thực sự",
+                "nhiều",
+                "thân thiện",
+                "nhất"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "trinh nguyên": [],
+            "điểm tham quan": [
+                "nhiều",
+                "hiện đại"
+            ],
+            "hài hước": [],
+            "mekong": [],
+            "địa điểm": [
+                "gần"
+            ],
+            "lịch sử": [
+                "gần"
+            ],
+            "địa đạo": [
+                "riêng",
+                "tuyệt vời"
+            ],
+            "củ chi": [
+                "riêng",
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "khác"
+            ],
+            "tour du lịch": [
+                "nhỏ"
+            ],
+            "kiến ​​thức chuyên môn": [
+                "tốt",
+                "tốt"
+            ],
+            "chiến tranh": [],
+            "con người": [],
+            "tour tham quan địa đạo": [],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 2.5,
+            "đồ ăn": 0.5,
+            "du thuyền": 0.5,
+            "sông": 0.5,
+            "tour": 0.5,
+            "hướng dẫn viên": 2.5,
+            "khách sạn": 0.5,
+            "bữa trưa": 0.5,
+            "địa đạo củ chi": 1.0,
+            "chuyến tham quan": 3.0,
+            "hướng dẫn viên du lịch": 1.5,
+            "trải nghiệm": 1.0,
+            "trinh nguyên": 0.5,
+            "điểm tham quan": 0.5,
+            "hài hước": 0.5,
+            "mekong": 0.5,
+            "địa điểm": 0.5,
+            "lịch sử": 0.5,
+            "địa đạo": 0.5,
+            "củ chi": 0.5,
+            "giá cả": 0.5,
+            "tour du lịch": 0.5,
+            "kiến ​​thức chuyên môn": 0.5,
+            "chiến tranh": 1.0,
+            "con người": 0.5,
+            "tour tham quan địa đạo": 0.5,
+            "khoảng thời gian": 0.5
+        }
     },
     {
         "attraction_name": "Athena Travel Vietnam",
@@ -155,6 +318,140 @@
             "https://www.tripadvisor.com/Attraction_Review-g45963-d209776-Reviews-Spa_Mandalay-Las_Vegas_Nevada.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8602636-Reviews-or10-Athena_Travel_Vietnam-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8602636-Reviews-or10-Athena_Travel_Vietnam-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "địa đạo củ chi": 0.8737692800350487,
+            "hướng dẫn viên": 0.8737692800350487,
+            "chuyến tham quan": 0.8392724729831874,
+            "chuyến đi": 0.9695763693380286,
+            "trải nghiệm": 0.9952929429709911,
+            "tour du lịch": 0.991102753469022,
+            "tour": 0.9740866061038105,
+            "kỷ niệm": 0.5489992716757115,
+            "ngôi làng": 0.4628021027892828,
+            "đồ ăn": 0.7794553767889738,
+            "lịch sử": 0.9474036460742354,
+            "đồng bằng sông cửu long": 0.8737692800350487,
+            "hướng dẫn viên du lịch": 0.5,
+            "trái tim": 0.9948877485003322,
+            "cao đài": 0.8737692800350487,
+            "địa đạo": 0.8737692800350487,
+            "chợ nổi": 0.8737692800350487,
+            "nhân viên": 0.9817921616098223,
+            "phòng": 0.9879823498001011,
+            "người hướng dẫn": 0.15030373563058674,
+            "dịch vụ": 0.5,
+            "giá cả": 0.9937783104833215,
+            "chuyến tham quan -": 0.4809335842728615
+        },
+        "dicts_adj": {
+            "địa đạo củ chi": [
+                "tuyệt vời",
+                "thân thiện"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "thân thiện"
+            ],
+            "chuyến tham quan": [
+                "thực sự",
+                "thú vị",
+                "nhiều",
+                "hơn",
+                "phong phú"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "thú vị",
+                "tuyệt vời",
+                "quan trọng",
+                "nhiều",
+                "thú vị"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "tour du lịch": [
+                "thực sự"
+            ],
+            "tour": [
+                "linh hoạt",
+                "kiên nhẫn",
+                "nhanh"
+            ],
+            "kỷ niệm": [
+                "đẹp",
+                "nhỏ"
+            ],
+            "ngôi làng": [],
+            "đồ ăn": [],
+            "lịch sử": [],
+            "đồng bằng sông cửu long": [
+                "thú vị",
+                "thú vị"
+            ],
+            "hướng dẫn viên du lịch": [],
+            "trái tim": [],
+            "cao đài": [
+                "thú vị"
+            ],
+            "địa đạo": [
+                "thú vị",
+                "chi tiết"
+            ],
+            "chợ nổi": [
+                "thú vị"
+            ],
+            "nhân viên": [
+                "hữu ích",
+                "nhanh chóng",
+                "bất kỳ"
+            ],
+            "phòng": [
+                "hữu ích",
+                "nhanh chóng",
+                "bất kỳ"
+            ],
+            "người hướng dẫn": [
+                "xuất sắc",
+                "vui vẻ",
+                "suốt"
+            ],
+            "dịch vụ": [],
+            "giá cả": [
+                "rõ ràng"
+            ],
+            "chuyến tham quan -": [
+                "chi tiết"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "địa đạo củ chi": 0.5,
+            "hướng dẫn viên": 0.5,
+            "chuyến tham quan": 2.0,
+            "chuyến đi": 2.0,
+            "trải nghiệm": 0.5,
+            "tour du lịch": 1.0,
+            "tour": 1.0,
+            "kỷ niệm": 0.5,
+            "ngôi làng": 0.5,
+            "đồ ăn": 0.5,
+            "lịch sử": 0.5,
+            "đồng bằng sông cửu long": 1.0,
+            "hướng dẫn viên du lịch": 0.5,
+            "trái tim": 0.5,
+            "cao đài": 0.5,
+            "địa đạo": 1.0,
+            "chợ nổi": 0.5,
+            "nhân viên": 0.5,
+            "phòng": 0.5,
+            "người hướng dẫn": 1.0,
+            "dịch vụ": 0.5,
+            "giá cả": 0.5,
+            "chuyến tham quan -": 0.5
+        }
     }
 ]

@@ -149,7 +149,277 @@
             "https://www.tripadvisor.com/Attraction_Review-g240329-d15150937-Reviews-Paul_s_Slide-Big_Sur_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or10-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa hàng": 0.9932700811768882,
+            "bộ vest": 0.6646760113459701,
+            "bộ váy truyền thống": 0.5,
+            "quần ống": 0.5,
+            "quần": 0.5,
+            "giá cả": 0.9955210414773319,
+            "quần tây": 0.7744121228461154,
+            "áo kiểu vest": 0.7557420563534833,
+            "váy": 0.567304314683757,
+            "nhân viên": 0.7471104962848283,
+            "quần áo": 0.33379856003060315,
+            "bộ": 0.5175797697156668,
+            "chất liệu": 0.9932557248394005,
+            "chất lượng": 0.41507756197825074,
+            "chủ nhà": 0.9954974087886512,
+            "trang phục": 0.9950644364192461,
+            "mức giá": 0.9846300294739194,
+            "mặt hàng": 0.9947123097372241,
+            "vest": 0.5,
+            "công sở": 0.5,
+            "quần lửng": 0.5,
+            "sản phẩm": 0.7215013829021094,
+            "quần đùi": 0.5,
+            "thợ may nội bộ": 0.9888344628270715,
+            "trợ lý bán hàng": 0.9947638510493562,
+            "áo váy": 0.9943020233185962,
+            "chuyến bay": 0.5,
+            "chất": 0.745312333892798,
+            "thợ may": -0.6408680359600112,
+            "giá trị": 0.9825828529428691,
+            "vải": 0.9902433149982244,
+            "tầm nhìn": 0.9952957215136848,
+            "tầm": 0.514945337548852,
+            "dịch vụ": 0.9638189558463637,
+            "chuyến thăm": 0.8737692800350487,
+            "lê": 0.8737692800350487,
+            "món đồ": 0.9955611571203917,
+            "mọi thứ": 0.8737692800350487,
+            "quần short": 0.5,
+            "áo sơ mi": 0.5,
+            "vật liệu": 0.9954570492263883,
+            "dao": 0.8737692800350487,
+            "trải nghiệm": 0.7483037440106273,
+            "nhà may lụa": 0.8737692800350487,
+            "chuyến đi": 0.8776439446955919,
+            "váy cotton": 0.5,
+            "váy lụa": 0.5,
+            "buổi sáng": 0.5,
+            "khách sạn": 0.5
+        },
+        "dicts_adj": {
+            "cửa hàng": [
+                "tốt",
+                "tuyệt vời"
+            ],
+            "bộ vest": [
+                "chuyên nghiệp"
+            ],
+            "bộ váy truyền thống": [],
+            "quần ống": [],
+            "quần": [],
+            "giá cả": [
+                "thoải mái",
+                "hợp lý",
+                "thân thiện",
+                "chuyên nghiệp",
+                "tuyệt vời"
+            ],
+            "quần tây": [
+                "riêng",
+                "tuyệt vời"
+            ],
+            "áo kiểu vest": [
+                "riêng",
+                "tuyệt vời"
+            ],
+            "váy": [
+                "riêng",
+                "tuyệt vời",
+                "nhỏ",
+                "nhiều",
+                "hơn",
+                "tuyệt vời",
+                "cao",
+                "cao",
+                "cao"
+            ],
+            "nhân viên": [
+                "hữu ích",
+                "cao",
+                "vui"
+            ],
+            "quần áo": [
+                "nhanh chóng",
+                "riêng",
+                "đầu tiên",
+                "kịp"
+            ],
+            "bộ": [
+                "riêng"
+            ],
+            "chất liệu": [
+                "tuyệt vời",
+                "cao cấp"
+            ],
+            "chất lượng": [
+                "tuyệt vời",
+                "hoàn toàn",
+                "cao",
+                "nhất",
+                "may",
+                "CÙNG",
+                "thấp",
+                "cao"
+            ],
+            "chủ nhà": [
+                "tuyệt vời",
+                "hoàn hảo"
+            ],
+            "trang phục": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "xứng đáng"
+            ],
+            "mức giá": [
+                "khả thi",
+                "hơn"
+            ],
+            "mặt hàng": [
+                "lớn",
+                "đúng",
+                "cao"
+            ],
+            "vest": [],
+            "công sở": [],
+            "quần lửng": [],
+            "sản phẩm": [
+                "nhiều",
+                "khác",
+                "cuối cùng"
+            ],
+            "quần đùi": [],
+            "thợ may nội bộ": [],
+            "trợ lý bán hàng": [
+                "tốt"
+            ],
+            "áo váy": [
+                "chuyên nghiệp"
+            ],
+            "chuyến bay": [],
+            "chất": [
+                "tốt",
+                "hơn"
+            ],
+            "thợ may": [
+                "khác",
+                "nổi tiếng",
+                "khác",
+                "tuyệt vời"
+            ],
+            "giá trị": [
+                "tốt"
+            ],
+            "vải": [
+                "đẹp"
+            ],
+            "tầm nhìn": [
+                "đẹp"
+            ],
+            "tầm": [
+                "cao"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "chuyến thăm": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "lê": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "món đồ": [
+                "đẹp mắt"
+            ],
+            "mọi thứ": [
+                "cao"
+            ],
+            "quần short": [],
+            "áo sơ mi": [],
+            "vật liệu": [
+                "hữu ích",
+                "hoàn hảo",
+                "đầy đủ"
+            ],
+            "dao": [
+                "chuyên nghiệp",
+                "suốt"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "đủ"
+            ],
+            "nhà may lụa": [
+                "Gần"
+            ],
+            "chuyến đi": [
+                "gần"
+            ],
+            "váy cotton": [],
+            "váy lụa": [],
+            "buổi sáng": [],
+            "khách sạn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa hàng": 2,
+            "bộ vest": 3,
+            "bộ váy truyền thống": 1,
+            "quần ống": 1,
+            "quần": 2,
+            "giá cả": 2,
+            "quần tây": 1,
+            "áo kiểu vest": 1,
+            "váy": 7,
+            "nhân viên": 2,
+            "quần áo": 5,
+            "bộ": 3,
+            "chất liệu": 2,
+            "chất lượng": 3,
+            "chủ nhà": 1,
+            "trang phục": 1,
+            "mức giá": 1,
+            "mặt hàng": 1,
+            "vest": 2,
+            "công sở": 1,
+            "quần lửng": 1,
+            "sản phẩm": 3,
+            "quần đùi": 1,
+            "thợ may nội bộ": 1,
+            "trợ lý bán hàng": 1,
+            "áo váy": 1,
+            "chuyến bay": 1,
+            "chất": 1,
+            "thợ may": 2,
+            "giá trị": 1,
+            "vải": 1,
+            "tầm nhìn": 1,
+            "tầm": 1,
+            "dịch vụ": 2,
+            "chuyến thăm": 1,
+            "lê": 1,
+            "món đồ": 1,
+            "mọi thứ": 1,
+            "quần short": 1,
+            "áo sơ mi": 1,
+            "vật liệu": 1,
+            "dao": 1,
+            "trải nghiệm": 1,
+            "nhà may lụa": 2,
+            "chuyến đi": 2,
+            "váy cotton": 2,
+            "váy lụa": 2,
+            "buổi sáng": 2,
+            "khách sạn": 2
+        }
     },
     {
         "attraction_name": "A Dong Silk Tailors",
@@ -306,7 +576,97 @@
             "https://www.tripadvisor.com/Attraction_Review-g150800-d209936-Reviews-La_Lagunilla_Market-Mexico_City_Central_Mexico_and_Gulf_Coast.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or20-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or10-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or10-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ vest": 0.5,
+            "quần": 0.5,
+            "quần short": 0.5,
+            "áo sơ mi": 0.594577560822169,
+            "váy": 0.5,
+            "dao": 0.8737692800350487,
+            "chất liệu": 0.9944515212264378,
+            "trải nghiệm": 0.9841346317876338,
+            "vải": 0.990464192815125,
+            "mức giá": 0.9643355436855927,
+            "bộ đồ": 0.9942580562783405,
+            "váy cashmere": 0.9954771682969294,
+            "lê": 0.8737692800350487,
+            "quần áo": 0.5,
+            "chi tiết": 0.9901147377677262,
+            "lắp đặt": 0.9510401524603367,
+            "cửa hàng": 0.5
+        },
+        "dicts_adj": {
+            "bộ vest": [],
+            "quần": [],
+            "quần short": [],
+            "áo sơ mi": [
+                "hoàn toàn"
+            ],
+            "váy": [],
+            "dao": [
+                "hữu ích",
+                "chuyên nghiệp",
+                "suốt"
+            ],
+            "chất liệu": [
+                "hoàn hảo",
+                "hoàn toàn"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tốt",
+                "tốt",
+                "hơn"
+            ],
+            "vải": [
+                "hoàn hảo",
+                "tốt",
+                "hơn"
+            ],
+            "mức giá": [
+                "tốt"
+            ],
+            "bộ đồ": [
+                "hoàn toàn"
+            ],
+            "váy cashmere": [
+                "hoàn toàn"
+            ],
+            "lê": [
+                "hữu ích",
+                "vừa vặn"
+            ],
+            "quần áo": [],
+            "chi tiết": [
+                "nhanh chóng",
+                "dễ dàng",
+                "nhỏ"
+            ],
+            "lắp đặt": [],
+            "cửa hàng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ vest": 1,
+            "quần": 1,
+            "quần short": 1,
+            "áo sơ mi": 3,
+            "váy": 1,
+            "dao": 1,
+            "chất liệu": 1,
+            "trải nghiệm": 3,
+            "vải": 2,
+            "mức giá": 2,
+            "bộ đồ": 2,
+            "váy cashmere": 2,
+            "lê": 2,
+            "quần áo": 2,
+            "chi tiết": 2,
+            "lắp đặt": 2,
+            "cửa hàng": 2
+        }
     },
     {
         "attraction_name": "A Dong Silk Tailors",
@@ -447,7 +807,71 @@
             "https://www.tripadvisor.com/Attraction_Review-g60750-d23651829-Reviews-Consulate_Of_The_Republic_Of_Slowjamastan_San_Diego-San_Diego_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or30-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or20-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or20-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "le": 0.8737692800350487,
+            "mặt hàng": 0.9821357564069331,
+            "quần áo": 0.9935809068847448,
+            "mọi thứ": 0.8737692800350487,
+            "dịch vụ": 0.995489667460788,
+            "bộ vest": 0.9947338316123933,
+            "áo khoác": 0.995050617842935,
+            "áo sơ mi": 0.9951143703656271,
+            "giá cả": 0.732544373779092,
+            "trải nghiệm": 0.5,
+            "bộ": 0.9940895405597985
+        },
+        "dicts_adj": {
+            "le": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "mặt hàng": [
+                "đẹp"
+            ],
+            "quần áo": [
+                "thực sự",
+                "đẹp đẽ"
+            ],
+            "mọi thứ": [
+                "cao"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "bộ vest": [
+                "tuyệt vời"
+            ],
+            "áo khoác": [
+                "tuyệt vời"
+            ],
+            "áo sơ mi": [
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "tuyệt vời",
+                "cao"
+            ],
+            "trải nghiệm": [],
+            "bộ": [
+                "đẹp đẽ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "le": 1,
+            "mặt hàng": 1,
+            "quần áo": 2,
+            "mọi thứ": 1,
+            "dịch vụ": 1,
+            "bộ vest": 1,
+            "áo khoác": 1,
+            "áo sơ mi": 1,
+            "giá cả": 1,
+            "trải nghiệm": 1,
+            "bộ": 1
+        }
     },
     {
         "attraction_name": "A Dong Silk Tailors",
@@ -590,7 +1014,48 @@
             "https://www.tripadvisor.com/Attraction_Review-g580322-d629857-Reviews-Acua_Water_Park-Corralejo_La_Oliva_Fuerteventura_Canary_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or40-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or30-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or30-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "sản phẩm": 0.993987535010092,
+            "quần áo": 0.5,
+            "đồ vest": 0.5,
+            "công sở": 0.5,
+            "quần tây": 0.5,
+            "thành phẩm": 0.9937166579184122,
+            "bộ": 0.5,
+            "a đông team": 0.9956020293175243
+        },
+        "dicts_adj": {
+            "sản phẩm": [
+                "lớn",
+                "đúng",
+                "cao"
+            ],
+            "quần áo": [],
+            "đồ vest": [],
+            "công sở": [],
+            "quần tây": [],
+            "thành phẩm": [
+                "nhanh"
+            ],
+            "bộ": [],
+            "a đông team": [
+                "sắc sảo",
+                "xinh đẹp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "sản phẩm": 1,
+            "quần áo": 2.5,
+            "đồ vest": 1,
+            "công sở": 1,
+            "quần tây": 1,
+            "thành phẩm": 1,
+            "bộ": 1.5,
+            "a đông team": 1.5
+        }
     },
     {
         "attraction_name": "A Dong Silk Tailors",
@@ -752,7 +1217,92 @@
             "https://www.tripadvisor.com/Attraction_Review-g295381-d553976-Reviews-City_Walls-Kotor_Kotor_Municipality.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or50-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or40-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or40-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa hàng": 0.9916342080105096,
+            "bộ vest": 0.5,
+            "váy": 0.5,
+            "quần ống rộng": 0.5,
+            "quần dài": 0.5,
+            "bộ đồ": 0.9120593179832213,
+            "giá cả": 0.9901847108679551,
+            "chủ nhà": 0.9953903038986027,
+            "trang phục": 0.9942684489069507,
+            "chất lượng": 0.9955114371841773,
+            "váy dạ": 0.99530809733551,
+            "vải": 0.9930000008316711,
+            "dịch vụ": 0.9955617246450856,
+            "chất lượng là": 0.995486760744825
+        },
+        "dicts_adj": {
+            "cửa hàng": [
+                "tốt"
+            ],
+            "bộ vest": [],
+            "váy": [],
+            "quần ống rộng": [],
+            "quần dài": [],
+            "bộ đồ": [
+                "vừa vặn",
+                "thoải mái",
+                "tỉ mỉ",
+                "đầu tiên",
+                "tuyệt vời",
+                "xứng đáng"
+            ],
+            "giá cả": [
+                "tuyệt vời",
+                "cùng",
+                "thân thiện",
+                "chuyên nghiệp",
+                "khả thi",
+                "hơn",
+                "cùng"
+            ],
+            "chủ nhà": [
+                "tuyệt vời",
+                "vừa vặn",
+                "hoàn hảo"
+            ],
+            "trang phục": [
+                "tuyệt vời"
+            ],
+            "chất lượng": [
+                "tuyệt vời",
+                "xứng đáng"
+            ],
+            "váy dạ": [
+                "hài lòng"
+            ],
+            "vải": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "chất lượng là": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa hàng": 1,
+            "bộ vest": 1,
+            "váy": 1,
+            "quần ống rộng": 1,
+            "quần dài": 1,
+            "bộ đồ": 2,
+            "giá cả": 2,
+            "chủ nhà": 1,
+            "trang phục": 1,
+            "chất lượng": 1,
+            "váy dạ": 1.5,
+            "vải": 1.5,
+            "dịch vụ": 1.5,
+            "chất lượng là": 1.5
+        }
     },
     {
         "attraction_name": "A Dong Silk Tailors",
@@ -914,7 +1464,79 @@
             "https://www.tripadvisor.com/Attraction_Review-g186338-d188724-Reviews-Earl_s_Court-London_England.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or60-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or50-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or50-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quần áo": 0.5246937826275826,
+            "váy": 0.5048797726631165,
+            "quần short": 0.5,
+            "sản phẩm": 0.7259957253932953,
+            "chất lượng": 0.9734872584696859,
+            "thợ may": 0.4666012339293957,
+            "chỗ": 0.5,
+            "sương": 0.9955300786532462,
+            "loại": 0.5,
+            "vải": 0.5,
+            "bộ vest": 0.7675772120128386,
+            "bộ": 0.5,
+            "vị trí": 0.9920598325552419,
+            "bộ đồ": 0.9948062280891463
+        },
+        "dicts_adj": {
+            "quần áo": [
+                "đầu tiên"
+            ],
+            "váy": [
+                "nhỏ",
+                "chủ yếu"
+            ],
+            "quần short": [],
+            "sản phẩm": [
+                "cuối cùng"
+            ],
+            "chất lượng": [
+                "hoàn toàn",
+                "cao",
+                "nhất",
+                "cuối cùng"
+            ],
+            "thợ may": [
+                "tại chỗ"
+            ],
+            "chỗ": [],
+            "sương": [
+                "tuyệt vời",
+                "kiên nhẫn"
+            ],
+            "loại": [],
+            "vải": [],
+            "bộ vest": [
+                "đầu tiên",
+                "tuyệt vời"
+            ],
+            "bộ": [],
+            "vị trí": [
+                "cụ thể"
+            ],
+            "bộ đồ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quần áo": 2.5,
+            "váy": 1,
+            "quần short": 1,
+            "sản phẩm": 2.5,
+            "chất lượng": 2.5,
+            "thợ may": 1,
+            "chỗ": 1,
+            "sương": 1.5,
+            "loại": 1.5,
+            "vải": 1.5,
+            "bộ vest": 1.5,
+            "bộ": 1.5,
+            "vị trí": 1.5,
+            "bộ đồ": 1.5
+        }
     },
     {
         "attraction_name": "A Dong Silk Tailors",
@@ -1057,7 +1679,111 @@
             "https://www.tripadvisor.com/Attraction_Review-g293924-d455018-Reviews-Thang_Long_Water_Puppet-Hanoi.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or70-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or60-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or60-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ": 0.9943387778475881,
+            "quần áo": 0.9947957344702445,
+            "chất lượng": 0.9947860082805468,
+            "tay nghề": 0.9921934943995439,
+            "cửa hàng": 0.6697273841127753,
+            "thợ may": -0.9679575893096626,
+            "giá": -0.040813669469207524,
+            "vải": 0.5251567689701915,
+            "nhân viên": 0.5,
+            "loại vải": 0.4551281966269016,
+            "bộ vest": 0.5,
+            "váy": 0.9954534332500771,
+            "nhà tạo mẫu": 0.5262943357229233,
+            "người mua hàng": 0.5457528103142977,
+            "hàng": -0.960661178920418,
+            "quần": 0.8924026638269424,
+            "váy lụa": 0.9949504188261926
+        },
+        "dicts_adj": {
+            "bộ": [
+                "hoàn hảo",
+                "tuyệt vời",
+                "cùng"
+            ],
+            "quần áo": [
+                "hoàn hảo",
+                "tuyệt vời",
+                "cùng"
+            ],
+            "chất lượng": [
+                "hoàn hảo",
+                "tuyệt vời",
+                "cùng"
+            ],
+            "tay nghề": [
+                "hoàn hảo",
+                "tuyệt vời",
+                "cùng"
+            ],
+            "cửa hàng": [],
+            "thợ may": [
+                "khác",
+                "khác"
+            ],
+            "giá": [
+                "cao",
+                "hơn",
+                "nhiều",
+                "cao",
+                "hơn"
+            ],
+            "vải": [
+                "cao cấp"
+            ],
+            "nhân viên": [],
+            "loại vải": [
+                "cao cấp"
+            ],
+            "bộ vest": [],
+            "váy": [
+                "hối hận"
+            ],
+            "nhà tạo mẫu": [
+                "trung thực"
+            ],
+            "người mua hàng": [
+                "trung thực"
+            ],
+            "hàng": [
+                "nhiều"
+            ],
+            "quần": [
+                "ít",
+                "nhất"
+            ],
+            "váy lụa": [
+                "phức tạp",
+                "nhiều",
+                "nhất",
+                "hài lòng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ": 1.5,
+            "quần áo": 1.5,
+            "chất lượng": 1.5,
+            "tay nghề": 1.5,
+            "cửa hàng": 1.5,
+            "thợ may": 1.5,
+            "giá": 1.5,
+            "vải": 1.5,
+            "nhân viên": 1.5,
+            "loại vải": 1.5,
+            "bộ vest": 1.5,
+            "váy": 1.5,
+            "nhà tạo mẫu": 1.5,
+            "người mua hàng": 1.5,
+            "hàng": 1.5,
+            "quần": 1.5,
+            "váy lụa": 1.5
+        }
     },
     {
         "attraction_name": "A Dong Silk Tailors",
@@ -1219,7 +1945,118 @@
             "https://www.tripadvisor.com/Attraction_Review-g36669-d7148809-Reviews-Schaumburg_Boomers_Stadium-Schaumburg_Illinois.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or80-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or70-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or70-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quần âu": 0.9952292791567743,
+            "áo kiểu vest": 0.9947452158667147,
+            "váy may đo": 0.9950815507909283,
+            "nhân viên": 0.7471222238770376,
+            "trang phục": 0.5,
+            "họ cũng": 0.8737692800350487,
+            "quần áo may": 0.9904574360698462,
+            "chất liệu": 0.9346460904635023,
+            "chất lượng": 0.9955168533488177,
+            "giá cả": 0.9955469103879295,
+            "áo váy": 0.9949103376129642,
+            "bộ đồ": 0.9950353297463153,
+            "quần áo": -0.04751905798912048,
+            "vải": 0.820390593027696,
+            "hàng": 0.9850979116454255,
+            "thợ may": -0.9679575893096626,
+            "giá trị": 0.9825828529428691,
+            "dịch vụ": 0.9955223412252963,
+            "cửa hàng": 0.8922159755602479
+        },
+        "dicts_adj": {
+            "quần âu": [
+                "tuyệt vời"
+            ],
+            "áo kiểu vest": [
+                "tuyệt vời"
+            ],
+            "váy may đo": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "hữu ích",
+                "cao",
+                "vui"
+            ],
+            "trang phục": [],
+            "họ cũng": [
+                "nhanh"
+            ],
+            "quần áo may": [
+                "tuyệt"
+            ],
+            "chất liệu": [
+                "tuyệt",
+                "tốt",
+                "hơn"
+            ],
+            "chất lượng": [
+                "tuyệt"
+            ],
+            "giá cả": [
+                "tuyệt"
+            ],
+            "áo váy": [
+                "chuyên nghiệp",
+                "cẩn thận"
+            ],
+            "bộ đồ": [
+                "chuyên nghiệp",
+                "cẩn thận"
+            ],
+            "quần áo": [
+                "kịp"
+            ],
+            "vải": [
+                "tốt",
+                "hơn"
+            ],
+            "hàng": [
+                "tốt",
+                "hơn"
+            ],
+            "thợ may": [
+                "khác"
+            ],
+            "giá trị": [
+                "tốt"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "đặc biệt",
+                "tuyệt vời"
+            ],
+            "cửa hàng": [
+                "chắc chắn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quần âu": 1,
+            "áo kiểu vest": 1,
+            "váy may đo": 1,
+            "nhân viên": 2,
+            "trang phục": 1,
+            "họ cũng": 1,
+            "quần áo may": 1,
+            "chất liệu": 2,
+            "chất lượng": 1,
+            "giá cả": 1,
+            "áo váy": 1,
+            "bộ đồ": 1,
+            "quần áo": 1,
+            "vải": 1,
+            "hàng": 1,
+            "thợ may": 1,
+            "giá trị": 1,
+            "dịch vụ": 1.5,
+            "cửa hàng": 1.5
+        }
     },
     {
         "attraction_name": "A Dong Silk Tailors",
@@ -1381,7 +2218,34 @@
             "https://www.tripadvisor.com/Attraction_Review-g6706567-d6701183-Reviews-North_Point_State_Park-Edgemere_Maryland.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or90-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or80-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or80-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chất liệu vải": 0.9535112176090479,
+            "váy": 0.5,
+            "áo cánh": 0.5,
+            "dũng": 0.7975846054032445,
+            "cửa hàng": 0.9873726803343743
+        },
+        "dicts_adj": {
+            "chất liệu vải": [
+                "vừa vặn"
+            ],
+            "váy": [],
+            "áo cánh": [],
+            "dũng": [
+                "chắc chắn"
+            ],
+            "cửa hàng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chất liệu vải": 1.5,
+            "váy": 1.5,
+            "áo cánh": 1.5,
+            "dũng": 1.5,
+            "cửa hàng": 1.5
+        }
     },
     {
         "attraction_name": "A Dong Silk Tailors",
@@ -1524,6 +2388,33 @@
             "https://www.tripadvisor.com/Attraction_Review-g60763-d105127-Reviews-Central_Park-New_York_City_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or100-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or90-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-or90-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "áo khoác": 0.6305893678218126,
+            "bộ vest": 0.3409132659435272,
+            "áo sơ mi": -0.27008670568466187,
+            "trải nghiệm": 0.9955067893024534
+        },
+        "dicts_adj": {
+            "áo khoác": [
+                "riêng",
+                "riêng"
+            ],
+            "bộ vest": [
+                "riêng"
+            ],
+            "áo sơ mi": [
+                "trắng"
+            ],
+            "trải nghiệm": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "áo khoác": 1.5,
+            "bộ vest": 1.5,
+            "áo sơ mi": 1.5,
+            "trải nghiệm": 1.5
+        }
     }
 ]

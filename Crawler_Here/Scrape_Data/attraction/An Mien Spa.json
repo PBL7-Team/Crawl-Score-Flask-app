@@ -93,6 +93,81 @@
             "https://www.tripadvisor.com/Attraction_Review-g1158886-d3781012-Reviews-Mangel_Halto_Beach-Savaneta_Aruba.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25191132-Reviews-An_Mien_Spa-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25191132-Reviews-An_Mien_Spa-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "liệu pháp mát-xa": 0.5,
+            "để xem": 0.5,
+            "chứ lẽ": 0.5116049461066723,
+            "vai": 0.36753554828464985,
+            "nhân viên": 0.6647271628510983,
+            "dịch vụ": 0.8926751667167991,
+            "mát-xa và có": 0.5,
+            "trong phòng": 0.5,
+            "cho": 0.5,
+            "không gian": 0.7472155555151403,
+            "thảo mộc": 0.8801699429750443,
+            "giá": 0.5,
+            "massage": 0.5,
+            "dịch vụ chăm sóc": 0.8737692800350487,
+            "trải nghiệm": 0.9954829263151623
+        },
+        "dicts_adj": {
+            "liệu pháp mát-xa": [],
+            "để xem": [],
+            "chứ lẽ": [
+                "sớm",
+                "hơn"
+            ],
+            "vai": [
+                "khỏe",
+                "mạnh"
+            ],
+            "nhân viên": [
+                "nhiệt tình",
+                "nhiều"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "hài lòng",
+                "đầy đủ"
+            ],
+            "mát-xa và có": [],
+            "trong phòng": [],
+            "cho": [],
+            "không gian": [
+                "thoải mái",
+                "thơm",
+                "sang trọng",
+                "đầy đủ"
+            ],
+            "thảo mộc": [
+                "thoải mái"
+            ],
+            "giá": [],
+            "massage": [],
+            "dịch vụ chăm sóc": [
+                "tốt"
+            ],
+            "trải nghiệm": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "liệu pháp mát-xa": 1,
+            "để xem": 1,
+            "chứ lẽ": 1,
+            "vai": 1,
+            "nhân viên": 3,
+            "dịch vụ": 2,
+            "mát-xa và có": 1,
+            "trong phòng": 1,
+            "cho": 1,
+            "không gian": 2,
+            "thảo mộc": 1,
+            "giá": 1,
+            "massage": 1,
+            "dịch vụ chăm sóc": 1,
+            "trải nghiệm": 1
+        }
     }
 ]

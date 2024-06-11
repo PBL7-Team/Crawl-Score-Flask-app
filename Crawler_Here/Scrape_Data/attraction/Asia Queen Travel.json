@@ -80,7 +80,172 @@
             "https://www.tripadvisor.com/Attraction_Review-g34515-d130845-Reviews-Orlando_Science_Center-Orlando_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d12404320-Reviews-or10-Asia_Queen_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12404320-Reviews-Asia_Queen_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12404320-Reviews-Asia_Queen_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tour du lịch": 0.9954079411691055,
+            "nữ hoàng du lịch": 0.7135824457343135,
+            "chuyến tham quan": 0.9344686550321057,
+            "lưu trú": 0.7830713838338852,
+            "khách sạn": 0.7027135526813153,
+            "dịch vụ": 0.8341568390670646,
+            "bình": 0.994850863062311,
+            "trải nghiệm": 0.9954395204549655,
+            "hướng dẫn viên": 0.5,
+            "chất lượng": 0.5,
+            "chuyến đi": 0.8697884282688998,
+            "quản": 0.9169417378958314,
+            "hành trình": 0.49154258146882057,
+            "thời tiết": -0.19835932925343513,
+            "đồng bằng sông cửu long": 0.5,
+            "kẹo dừa": 0.5,
+            "chợ": 0.7252971474081278,
+            "ăn chay": 0.9774386552162468,
+            "nhà hàng": 0.9683317630551755,
+            "công ty lữ hành": 0.5,
+            "giá cả": 0.9786659696837887,
+            "phòng": 0.9950424472917803,
+            "kỳ nghỉ": 0.8737692800350487,
+            "chỗ ở": 0.5,
+            "đại lý du lịch": 0.9951697919750586,
+            "tour": 0.5062576532363892,
+            "du thuyền": 0.5,
+            "vịnh": 0.5,
+            "sân bay": 0.5401752032339573,
+            "chuyến đi thuyền": 0.5,
+            "nhân viên": 0.5,
+            "đồ ăn": 0.5,
+            "thuyền": 0.5,
+            "quang cảnh": 0.5
+        },
+        "dicts_adj": {
+            "tour du lịch": [
+                "tốt",
+                "suốt"
+            ],
+            "nữ hoàng du lịch": [
+                "tốt",
+                "suốt"
+            ],
+            "chuyến tham quan": [
+                "tốt",
+                "suốt"
+            ],
+            "lưu trú": [
+                "tốt"
+            ],
+            "khách sạn": [
+                "tốt",
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "tốt",
+                "tuyệt vời",
+                "suốt"
+            ],
+            "bình": [
+                "hoàn hảo"
+            ],
+            "trải nghiệm": [
+                "độc đáo",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [],
+            "chất lượng": [],
+            "chuyến đi": [
+                "mê hoặc",
+                "tốt",
+                "bất kỳ",
+                "suôn sẻ",
+                "chuyên nghiệp",
+                "tốt"
+            ],
+            "quản": [
+                "xuất sắc",
+                "tốt"
+            ],
+            "hành trình": [],
+            "thời tiết": [
+                "chắc chắn"
+            ],
+            "đồng bằng sông cửu long": [],
+            "kẹo dừa": [],
+            "chợ": [
+                "mặc cả"
+            ],
+            "ăn chay": [],
+            "nhà hàng": [
+                "nhiều"
+            ],
+            "công ty lữ hành": [],
+            "giá cả": [
+                "tốt"
+            ],
+            "phòng": [
+                "chắc chắn"
+            ],
+            "kỳ nghỉ": [
+                "tuyệt vời"
+            ],
+            "chỗ ở": [],
+            "đại lý du lịch": [
+                "thực sự",
+                "cao",
+                "tốt"
+            ],
+            "tour": [
+                "cùng"
+            ],
+            "du thuyền": [],
+            "vịnh": [],
+            "sân bay": [
+                "bất kỳ"
+            ],
+            "chuyến đi thuyền": [],
+            "nhân viên": [],
+            "đồ ăn": [],
+            "thuyền": [],
+            "quang cảnh": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tour du lịch": 2,
+            "nữ hoàng du lịch": 3.5,
+            "chuyến tham quan": 2,
+            "lưu trú": 3.5,
+            "khách sạn": 4.5,
+            "dịch vụ": 4.5,
+            "bình": 1.5,
+            "trải nghiệm": 4.0,
+            "hướng dẫn viên": 1.5,
+            "chất lượng": 1.5,
+            "chuyến đi": 6.0,
+            "quản": 2.5,
+            "hành trình": 1.5,
+            "thời tiết": 1.5,
+            "đồng bằng sông cửu long": 1.5,
+            "kẹo dừa": 1.5,
+            "chợ": 1.5,
+            "ăn chay": 1.5,
+            "nhà hàng": 1.5,
+            "công ty lữ hành": 1.5,
+            "giá cả": 1,
+            "phòng": 1,
+            "kỳ nghỉ": 1,
+            "chỗ ở": 1,
+            "đại lý du lịch": 1,
+            "tour": 1,
+            "du thuyền": 1,
+            "vịnh": 2,
+            "sân bay": 1,
+            "chuyến đi thuyền": 1,
+            "nhân viên": 1,
+            "đồ ăn": 1,
+            "thuyền": 1,
+            "quang cảnh": 1
+        }
     },
     {
         "attraction_name": "Asia Queen Travel",
@@ -166,7 +331,147 @@
             "https://www.tripadvisor.com/Attraction_Review-g34564-d8352077-Reviews-Plant_City_Farm_Flea_Market-Plant_City_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d12404320-Reviews-or20-Asia_Queen_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12404320-Reviews-or10-Asia_Queen_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12404320-Reviews-or10-Asia_Queen_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.871601213424583,
+            "đại lý du lịch": 0.9947013812488876,
+            "chuyến du lịch": 0.9756143884733319,
+            "điểm tham quan": 0.5,
+            "chuyến đi": 0.983909514620124,
+            "đêm": 0.5,
+            "phòng": 0.5,
+            "nữ hoàng": 0.928111347486265,
+            "trái cây tươi địa": 0.5,
+            "nữ hoàng châu": 0.99410395254381,
+            "bình": 0.9736736438935623,
+            "khách sạn": 0.5674792919307947,
+            "phương tiện di chuyển": 0.7332365027396008,
+            "dịch vụ": 0.6680544622746917,
+            "cố vấn du lịch": 0.9925043422263116,
+            "đồng bằng sông cửu long": 0.6175320893526077,
+            "hành trình": 0.9463683899957687,
+            "chỗ": 0.5,
+            "văn hóa ẩm thực sự": 0.5,
+            "chuyên gia": 0.5,
+            "khoảng thời gian": 0.9945400316501036,
+            "chuyến tham quan": 0.995555478380993,
+            "con người": 0.9947863717097789,
+            "chuyến đi thuyền": 0.501044325530529,
+            "vịnh": 0.978531064465642,
+            "bái": 0.8737692800350487
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời",
+                "chuyên nghiệp",
+                "chu đáo",
+                "tuyệt vời",
+                "thú vị"
+            ],
+            "đại lý du lịch": [],
+            "chuyến du lịch": [
+                "dài"
+            ],
+            "điểm tham quan": [],
+            "chuyến đi": [
+                "chuyên nghiệp",
+                "tốt",
+                "tuyệt vời",
+                "chính xác",
+                "cùng",
+                "nhiều",
+                "thuận tiện",
+                "rẻ",
+                "tuyệt vời",
+                "khó",
+                "tuyệt vời",
+                "đầy"
+            ],
+            "đêm": [],
+            "phòng": [],
+            "nữ hoàng": [
+                "chắc chắn",
+                "hiệu quả"
+            ],
+            "trái cây tươi địa": [],
+            "nữ hoàng châu": [],
+            "bình": [
+                "ổn"
+            ],
+            "khách sạn": [
+                "tốt"
+            ],
+            "phương tiện di chuyển": [
+                "tốt"
+            ],
+            "dịch vụ": [
+                "tốt bụng",
+                "tốt",
+                "khác",
+                "vui"
+            ],
+            "cố vấn du lịch": [
+                "đầy đủ"
+            ],
+            "đồng bằng sông cửu long": [],
+            "hành trình": [
+                "tốt"
+            ],
+            "chỗ": [],
+            "văn hóa ẩm thực sự": [],
+            "chuyên gia": [],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [],
+            "con người": [
+                "vui vẻ"
+            ],
+            "chuyến đi thuyền": [
+                "nhiều",
+                "tốt"
+            ],
+            "vịnh": [
+                "nhiều",
+                "tốt",
+                "nhiều",
+                "tốt"
+            ],
+            "bái": [
+                "nhiều",
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 4,
+            "đại lý du lịch": 1,
+            "chuyến du lịch": 1,
+            "điểm tham quan": 1,
+            "chuyến đi": 5,
+            "đêm": 1,
+            "phòng": 1,
+            "nữ hoàng": 1,
+            "trái cây tươi địa": 1,
+            "nữ hoàng châu": 1,
+            "bình": 1,
+            "khách sạn": 2,
+            "phương tiện di chuyển": 2,
+            "dịch vụ": 3,
+            "cố vấn du lịch": 1,
+            "đồng bằng sông cửu long": 1,
+            "hành trình": 1,
+            "chỗ": 1,
+            "văn hóa ẩm thực sự": 1,
+            "chuyên gia": 1,
+            "khoảng thời gian": 1,
+            "chuyến tham quan": 1,
+            "con người": 1,
+            "chuyến đi thuyền": 1,
+            "vịnh": 1,
+            "bái": 1
+        }
     },
     {
         "attraction_name": "Asia Queen Travel",
@@ -247,6 +552,195 @@
             "https://www.tripadvisor.com/Attraction_Review-g34606-d3340637-Reviews-Splash_at_TradeWind_s_Water_Parks-St_Pete_Beach_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d12404320-Reviews-or30-Asia_Queen_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12404320-Reviews-or20-Asia_Queen_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12404320-Reviews-or20-Asia_Queen_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tour hoa lư-tràng": 0.9796580765396357,
+            "hành trình": 0.9954952439002227,
+            "trải nghiệm": 0.9649742481706198,
+            "người quản lý": 0.9928160852286965,
+            "hướng dẫn viên": 0.9549102914558413,
+            "khách sạn": 0.28782598567340756,
+            "lịch sử": 0.9641832262277603,
+            "nền văn hóa": 0.5108844637870789,
+            "xe limousine": 0.9934888505376875,
+            "chuyến đi bằng tre": 0.8737692800350487,
+            "cảnh quan": 0.9955055563477799,
+            "chuyến đi": 0.4888290804810822,
+            "dịch vụ du lịch": 0.9915147755527869,
+            "giá cả": 0.9529068116098642,
+            "dịch vụ": 0.8476987622212618,
+            "kiến thức": 0.8737692800350487,
+            "tour du lịch": 0.9933739633997902,
+            "đồ ăn": 0.9955595272476785,
+            "chuyến đi tham quan": 0.5,
+            "tràng an ninh bình": 0.8737692800350487,
+            "hang thuyền tre": 0.9833738096058369,
+            "nhà hàng": 0.9734386038035154,
+            "hành trình du lịch": 0.8737692800350487,
+            "chuyến tham quan": 0.5,
+            "phương tiện di chuyển": 0.9867549935006537,
+            "phương tiện": 0.9786293496144935,
+            "bữa ăn": 0.9843176680151373,
+            "thuyền": 0.0851378757506609,
+            "vịnh": 0.978531064465642,
+            "bái": 0.8737692800350487
+        },
+        "dicts_adj": {
+            "tour hoa lư-tràng": [],
+            "hành trình": [
+                "tuyệt vời",
+                "hay"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "xuất sắc",
+                "hữu ích",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "người quản lý": [
+                "cần thiết",
+                "nhanh chóng",
+                "dễ dàng"
+            ],
+            "hướng dẫn viên": [
+                "đúng",
+                "hoàn hảo",
+                "tốt"
+            ],
+            "khách sạn": [
+                "đúng",
+                "hoàn hảo",
+                "đúng",
+                "thuận tiện",
+                "tốt"
+            ],
+            "lịch sử": [
+                "thú vị"
+            ],
+            "nền văn hóa": [
+                "thú vị"
+            ],
+            "xe limousine": [
+                "sang trọng",
+                "thoải mái",
+                "quan trọng"
+            ],
+            "chuyến đi bằng tre": [
+                "khó"
+            ],
+            "cảnh quan": [
+                "đẹp"
+            ],
+            "chuyến đi": [
+                "thực sự",
+                "hữu ích",
+                "nhiều",
+                "tốt"
+            ],
+            "dịch vụ du lịch": [
+                "hợp lý"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "xuất sắc",
+                "hữu ích",
+                "xuất sắc",
+                "thân thiện",
+                "hoàn hảo",
+                "tuyệt vời",
+                "hữu ích"
+            ],
+            "kiến thức": [
+                "tốt"
+            ],
+            "tour du lịch": [
+                "nổi tiếng",
+                "đúng",
+                "thuận tiện"
+            ],
+            "đồ ăn": [
+                "hoàn hảo"
+            ],
+            "chuyến đi tham quan": [],
+            "tràng an ninh bình": [
+                "hoàn hảo"
+            ],
+            "hang thuyền tre": [
+                "yêu thích",
+                "nhất"
+            ],
+            "nhà hàng": [
+                "tốt",
+                "hơn"
+            ],
+            "hành trình du lịch": [
+                "hoàn hảo",
+                "suốt"
+            ],
+            "chuyến tham quan": [],
+            "phương tiện di chuyển": [
+                "đúng",
+                "thuận tiện"
+            ],
+            "phương tiện": [
+                "tốt"
+            ],
+            "bữa ăn": [
+                "tốt"
+            ],
+            "thuyền": [
+                "nhiều",
+                "tốt"
+            ],
+            "vịnh": [
+                "nhiều",
+                "tốt",
+                "nhiều",
+                "tốt"
+            ],
+            "bái": [
+                "nhiều",
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tour hoa lư-tràng": 1,
+            "hành trình": 2,
+            "trải nghiệm": 4,
+            "người quản lý": 1,
+            "hướng dẫn viên": 3,
+            "khách sạn": 4,
+            "lịch sử": 1,
+            "nền văn hóa": 1,
+            "xe limousine": 1,
+            "chuyến đi bằng tre": 1,
+            "cảnh quan": 1,
+            "chuyến đi": 3,
+            "dịch vụ du lịch": 1,
+            "giá cả": 1,
+            "dịch vụ": 5,
+            "kiến thức": 1,
+            "tour du lịch": 2,
+            "đồ ăn": 1,
+            "chuyến đi tham quan": 1,
+            "tràng an ninh bình": 1,
+            "hang thuyền tre": 1,
+            "nhà hàng": 1,
+            "hành trình du lịch": 1,
+            "chuyến tham quan": 1,
+            "phương tiện di chuyển": 1,
+            "phương tiện": 1,
+            "bữa ăn": 1,
+            "thuyền": 1,
+            "vịnh": 1,
+            "bái": 1
+        }
     }
 ]

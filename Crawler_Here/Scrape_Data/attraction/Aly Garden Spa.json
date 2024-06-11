@@ -91,6 +91,26 @@
             "https://www.tripadvisor.com/Attraction_Review-g293983-d8460341-Reviews-Gan_Sacher_Park-Jerusalem_Jerusalem_District.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25068551-Reviews-Aly_Garden_Spa-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25068551-Reviews-Aly_Garden_Spa-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên mát xa": 0.9955825380166061,
+            "khách sạn": 0.5,
+            "spa": 0.5
+        },
+        "dicts_adj": {
+            "nhân viên mát xa": [
+                "đẹp",
+                "tốt"
+            ],
+            "khách sạn": [],
+            "spa": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên mát xa": 1,
+            "khách sạn": 1,
+            "spa": 1
+        }
     }
 ]

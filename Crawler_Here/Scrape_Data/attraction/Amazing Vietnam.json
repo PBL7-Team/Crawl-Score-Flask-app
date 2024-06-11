@@ -85,6 +85,178 @@
             "https://www.tripadvisor.com/Attraction_Review-g60727-d4470265-Reviews-Ocean_Downs_Casino-Berlin_Maryland.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d19112060-Reviews-Amazing_Vietnam-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d19112060-Reviews-Amazing_Vietnam-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khách sạn": -0.9741793356370181,
+            "cửa hàng": -0.8947690529748797,
+            "thuyền": 0.5073075234889984,
+            "phòng": 0.3099029027701666,
+            "giường": 0.5,
+            "đồ ăn tệ": 0.8737692800350487,
+            "giá": -0.9712708375882357,
+            "đồ uống": -0.11599841626593843,
+            "nhân viên": 0.9812187949952204,
+            "thức ăn": 0.9224559917347506,
+            "dịch vụ": 0.9415309594332939,
+            "món ăn": 0.9955788854858838,
+            "phòng nhân viên": 0.5,
+            "đồ ăn": 0.5,
+            "trải nghiệm": 0.9331468034011777,
+            "chuyến du ngoạn": 0.5,
+            "chuyến tham quan": 0.5,
+            "du thuyền": 0.8737692800350487,
+            "vịnh": 0.7269503876256446,
+            "thực phẩm": 0.8737692800350487,
+            "phương tiện di": 0.9920670116553083,
+            "tàu": 0.9949192609637976,
+            "bữa trưa": 0.9951641092484351,
+            "chuyến đi": 0.9948844787431881,
+            "cánh hoa hồng": 0.5,
+            "khăn tắm": 0.5,
+            "chèo thuyền kayak": 0.5082099325954914,
+            "đảo": 0.5278748478740454,
+            "lớp học nấu ăn": 0.5,
+            "karaoke": 0.8737692800350487,
+            "giá cả": 0.9529068116098642
+        },
+        "dicts_adj": {
+            "khách sạn": [
+                "gần",
+                "gần"
+            ],
+            "cửa hàng": [
+                "gần"
+            ],
+            "thuyền": [
+                "hơn",
+                "khác"
+            ],
+            "phòng": [
+                "sạch",
+                "sạch",
+                "rộng rãi",
+                "tốt"
+            ],
+            "giường": [],
+            "đồ ăn tệ": [
+                "cao"
+            ],
+            "giá": [
+                "cao"
+            ],
+            "đồ uống": [
+                "cao",
+                "hoàn toàn",
+                "xuất sắc"
+            ],
+            "nhân viên": [
+                "tốt",
+                "thực sự",
+                "tuyệt vời",
+                "hoàn toàn",
+                "xuất sắc",
+                "dễ thương",
+                "sớm"
+            ],
+            "thức ăn": [
+                "tuyệt vời",
+                "nổi bật",
+                "đẹp mắt"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "sang trọng",
+                "tốt"
+            ],
+            "món ăn": [
+                "ngon"
+            ],
+            "phòng nhân viên": [],
+            "đồ ăn": [],
+            "trải nghiệm": [
+                "tốt",
+                "chắc chắn",
+                "tuyệt vời"
+            ],
+            "chuyến du ngoạn": [],
+            "chuyến tham quan": [],
+            "du thuyền": [
+                "tuyệt vời"
+            ],
+            "vịnh": [
+                "tuyệt vời",
+                "hơn",
+                "khác",
+                "đẹp"
+            ],
+            "thực phẩm": [
+                "tuyệt vời"
+            ],
+            "phương tiện di": [
+                "Đặc biệt",
+                "đặc biệt"
+            ],
+            "tàu": [
+                "hoàn toàn",
+                "xuất sắc"
+            ],
+            "bữa trưa": [
+                "hoàn toàn",
+                "xuất sắc"
+            ],
+            "chuyến đi": [
+                "hoàn hảo"
+            ],
+            "cánh hoa hồng": [],
+            "khăn tắm": [],
+            "chèo thuyền kayak": [
+                "dài"
+            ],
+            "đảo": [
+                "dài"
+            ],
+            "lớp học nấu ăn": [],
+            "karaoke": [
+                "dài"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khách sạn": 1.5,
+            "cửa hàng": 1.5,
+            "thuyền": 2.5,
+            "phòng": 4.5,
+            "giường": 1.5,
+            "đồ ăn tệ": 1.5,
+            "giá": 1.5,
+            "đồ uống": 2.5,
+            "nhân viên": 5.0,
+            "thức ăn": 2.5,
+            "dịch vụ": 2.0,
+            "món ăn": 1.5,
+            "phòng nhân viên": 1.5,
+            "đồ ăn": 1.5,
+            "trải nghiệm": 2.5,
+            "chuyến du ngoạn": 1.5,
+            "chuyến tham quan": 1.5,
+            "du thuyền": 1,
+            "vịnh": 1.5,
+            "thực phẩm": 1,
+            "phương tiện di": 1,
+            "tàu": 1,
+            "bữa trưa": 1,
+            "chuyến đi": 1,
+            "cánh hoa hồng": 1,
+            "khăn tắm": 1,
+            "chèo thuyền kayak": 1,
+            "đảo": 1,
+            "lớp học nấu ăn": 1,
+            "karaoke": 1,
+            "giá cả": 0.5
+        }
     }
 ]

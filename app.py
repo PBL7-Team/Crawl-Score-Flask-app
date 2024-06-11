@@ -1,3 +1,4 @@
+import json
 from flask import Flask, jsonify, request, send_file
 import threading
 from datetime import datetime
@@ -260,6 +261,37 @@ def test():
     return jsonify({
         "message": "API is working!",
     }), 200
+    
+    
+@app.route('/cleanup', methods=['GET'])
+def cleanup_files():
+    
+    current_directory = os.getcwd()
+    J_FOLDER = os.path.join(current_directory, 'Crawler_Here', 'Scrape_Data', 'attraction')
+    deleted_files_count = 0
+
+    for filename in os.listdir(J_FOLDER):
+        file_path = os.path.join(J_FOLDER, filename)
+
+        if "Undefined" in filename:
+            os.remove(file_path)
+            deleted_files_count += 1
+            continue
+        
+        if file_path.endswith('.json'):
+            with open(file_path, 'r', encoding='utf-8') as file:
+                data = json.load(file)
+                
+                for attraction in data:
+                    location = attraction.get('location', [])
+                    
+                    if not any("Việt Nam" in loc for loc in location):
+                        print(f'Xóa file {file_path} vì không chứa "Việt Nam" trong location.')
+                        os.remove(file_path)
+                        deleted_files_count += 1
+                        break 
+
+    return jsonify({"deleted_files_count": deleted_files_count})
     
 # @scheduler.task('interval', id='my_job', seconds=10)
 # def my_job():

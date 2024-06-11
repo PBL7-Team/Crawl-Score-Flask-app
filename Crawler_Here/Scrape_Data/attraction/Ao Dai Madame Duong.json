@@ -85,6 +85,29 @@
             "https://www.tripadvisor.com/Attraction_Review-g15238824-d6484910-Reviews-Cypremort_Point_State_Park-Cypremort_Point_Louisiana.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14796410-Reviews-Ao_Dai_Madame_Duong-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14796410-Reviews-Ao_Dai_Madame_Duong-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "áo dài": 0.9952779497252777,
+            "cửa hàng": 0.995418208069168,
+            "trải nghiệm": 0.9952929429709911
+        },
+        "dicts_adj": {
+            "áo dài": [
+                "tuyệt vời"
+            ],
+            "cửa hàng": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "áo dài": 0.5,
+            "cửa hàng": 0.5,
+            "trải nghiệm": 0.5
+        }
     }
 ]

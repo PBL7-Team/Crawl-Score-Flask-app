@@ -92,6 +92,105 @@
             "https://www.tripadvisor.com/Attraction_Review-g274887-d3366298-Reviews-Veli_Bej_Bath-Budapest_Central_Hungary.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d26259726-Reviews-Angelina_Spa_Saigon-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d26259726-Reviews-Angelina_Spa_Saigon-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "giường": 0.9954172274156008,
+            "massage": 0.9955054392339662,
+            "mát-xa": 0.608996694707053,
+            "ở các": 0.518294021487236,
+            "cánh tay vai lưng": -0.670985565520823,
+            "chấn thương thể thao": 0.961651795078069,
+            "toàn thân": 0.7457750815374311,
+            "- chắc": 0.9804789397167042,
+            "gạo": 0.5,
+            "dịch vụ": 0.995489667460788,
+            "spa": 0.7470835549756885,
+            "nhà hát": 0.8737692800350487,
+            "căn hộ kiểu pháp": 0.8737692800350487,
+            "chân và cơ": 0.5,
+            "mát-xa bằng đá": 0.6289876066148281,
+            "yên tĩnh": 0.995540045958478,
+            "chân và toàn": 0.5,
+            "nhân viên": 0.9934424362145364
+        },
+        "dicts_adj": {
+            "giường": [
+                "sạch sẽ",
+                "thoải mái"
+            ],
+            "massage": [
+                "sạch sẽ",
+                "thoải mái"
+            ],
+            "mát-xa": [
+                "khác",
+                "sâu",
+                "hài lòng"
+            ],
+            "ở các": [
+                "khác"
+            ],
+            "cánh tay vai lưng": [
+                "nóng"
+            ],
+            "chấn thương thể thao": [
+                "dài",
+                "xuất sắc",
+                "cứng"
+            ],
+            "toàn thân": [
+                "sâu",
+                "hài lòng"
+            ],
+            "- chắc": [
+                "chắc chắn"
+            ],
+            "gạo": [],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "spa": [
+                "quý ẩn"
+            ],
+            "nhà hát": [
+                "tuyệt vời"
+            ],
+            "căn hộ kiểu pháp": [
+                "tuyệt vời"
+            ],
+            "chân và cơ": [],
+            "mát-xa bằng đá": [
+                "quý ẩn"
+            ],
+            "yên tĩnh": [
+                "đẹp đẽ"
+            ],
+            "chân và toàn": [],
+            "nhân viên": [
+                "sạch sẽ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "giường": 1,
+            "massage": 1,
+            "mát-xa": 3,
+            "ở các": 1,
+            "cánh tay vai lưng": 1,
+            "chấn thương thể thao": 1,
+            "toàn thân": 1,
+            "- chắc": 1,
+            "gạo": 1,
+            "dịch vụ": 1,
+            "spa": 2,
+            "nhà hát": 1,
+            "căn hộ kiểu pháp": 1,
+            "chân và cơ": 1,
+            "mát-xa bằng đá": 1,
+            "yên tĩnh": 1,
+            "chân và toàn": 1,
+            "nhân viên": 1
+        }
     }
 ]

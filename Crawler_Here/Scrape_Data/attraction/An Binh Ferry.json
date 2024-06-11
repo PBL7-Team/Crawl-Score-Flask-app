@@ -74,6 +74,23 @@
             "https://www.tripadvisor.com/Attraction_Review-g143026-d146572-Reviews-Iceberg_Lake_Trail-Glacier_National_Park_Montana.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g469421-d19546705-Reviews-An_Binh_Ferry-Vinh_Long_Vinh_Long_Province_Mekong_Delta.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g469421-d19546705-Reviews-An_Binh_Ferry-Vinh_Long_Vinh_Long_Province_Mekong_Delta.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "người bảo vệ": 0.5,
+            "dân thường": 0.5,
+            "người gác phà": -0.9025334166362882
+        },
+        "dicts_adj": {
+            "người bảo vệ": [],
+            "dân thường": [],
+            "người gác phà": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "người bảo vệ": 1,
+            "dân thường": 1,
+            "người gác phà": 1.5
+        }
     }
 ]

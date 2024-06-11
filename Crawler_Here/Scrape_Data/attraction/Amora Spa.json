@@ -131,7 +131,205 @@
             "https://www.tripadvisor.com/Attraction_Review-g186605-d15271834-Reviews-Lifty_Electric_Scooter_rentals-Dublin_County_Dublin.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d26355148-Reviews-or10-Amora_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26355148-Reviews-Amora_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26355148-Reviews-Amora_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "spa": 0.646398934664224,
+            "trải nghiệm": 0.7659547199198807,
+            "bầu không khí": 0.6475559053942561,
+            "giường": 0.34638908063061535,
+            "liệu pháp thảo dược": 0.5,
+            "nhân viên": 0.912929261471921,
+            "massage": 0.7653217953629792,
+            "dầu thơm": 0.5,
+            "cảm giác": 0.5,
+            "trẻ hóa": 0.5,
+            "phước lành": 0.9793031117878854,
+            "ốc đảo": 0.643079656365444,
+            "con phố nhộn": 0.9676843846682459,
+            "cơ sở": 0.8737692800350487,
+            "giá cả": 0.9954577748430893,
+            "máy lạnh": 0.9955422793282196,
+            "massage chân": 0.9506137440912426,
+            "nhà trị liệu": 0.9953404356492683,
+            "dịch vụ khách hàng": 0.9955540327355266,
+            "viên": 0.5,
+            "ngọc ẩn": 0.5,
+            "nguồn động viên": -0.9610570492222905,
+            "mát-xa khác nhau": 0.5,
+            "với dầu dừa": 0.8737692800350487,
+            "liệu pháp": 0.7476769150234759,
+            "phương pháp trị liệu": -0.9650901639834046,
+            "tế bào chết": 0.5,
+            "chăm sóc da mặt": 0.5,
+            "cho": 0.8737692800350487,
+            "âm nhạc": 0.5,
+            "trà": 0.8737692800350487,
+            "món ăn": 0.7415948880370706,
+            "mát-xa": 0.5,
+            "gói hàng": 0.9936669600429013
+        },
+        "dicts_adj": {
+            "spa": [
+                "chuyên nghiệp",
+                "tuyệt đối",
+                "bất kỳ",
+                "tình cờ",
+                "đầu tiên",
+                "rõ ràng",
+                "hơn",
+                "thanh bình",
+                "khác",
+                "nhanh chóng",
+                "hối hả",
+                "nhộn nhịp",
+                "hoàn hảo",
+                "hối hả",
+                "nhộn nhịp"
+            ],
+            "trải nghiệm": [
+                "chuyên nghiệp",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tốt",
+                "đủ",
+                "tuyệt vời"
+            ],
+            "bầu không khí": [
+                "thoải mái",
+                "ấm áp",
+                "hiện đại",
+                "riêng tư",
+                "tinh tế",
+                "kín đáo"
+            ],
+            "giường": [
+                "thoải mái",
+                "khó"
+            ],
+            "liệu pháp thảo dược": [],
+            "nhân viên": [
+                "giàu",
+                "chuyên nghiệp",
+                "nhiều",
+                "thân thiện",
+                "chuyên nghiệp"
+            ],
+            "massage": [
+                "hân hạnh",
+                "thực sự",
+                "nhẹ nhàng",
+                "thơm"
+            ],
+            "dầu thơm": [],
+            "cảm giác": [],
+            "trẻ hóa": [],
+            "phước lành": [],
+            "ốc đảo": [
+                "xinh đẹp",
+                "xa",
+                "thanh bình"
+            ],
+            "con phố nhộn": [
+                "nhộn nhịp"
+            ],
+            "cơ sở": [
+                "hoàn hảo"
+            ],
+            "giá cả": [
+                "tuyệt vời"
+            ],
+            "máy lạnh": [
+                "sạch sẽ",
+                "đẹp"
+            ],
+            "massage chân": [
+                "thơm"
+            ],
+            "nhà trị liệu": [
+                "tuyệt vời"
+            ],
+            "dịch vụ khách hàng": [
+                "tuyệt vời"
+            ],
+            "viên": [],
+            "ngọc ẩn": [],
+            "nguồn động viên": [
+                "to lớn"
+            ],
+            "mát-xa khác nhau": [],
+            "với dầu dừa": [
+                "chuyên nghiệp",
+                "nhiều"
+            ],
+            "liệu pháp": [
+                "nhẹ nhàng",
+                "sâu sắc",
+                "sảng khoái",
+                "tràn đầy"
+            ],
+            "phương pháp trị liệu": [
+                "khác"
+            ],
+            "tế bào chết": [],
+            "chăm sóc da mặt": [],
+            "cho": [
+                "nhanh chóng",
+                "hối hả",
+                "nhộn nhịp"
+            ],
+            "âm nhạc": [],
+            "trà": [
+                "nhẹ",
+                "tốt"
+            ],
+            "món ăn": [
+                "nhẹ",
+                "tốt"
+            ],
+            "mát-xa": [],
+            "gói hàng": [
+                "tràn đầy",
+                "suốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "spa": 8,
+            "trải nghiệm": 11,
+            "bầu không khí": 3,
+            "giường": 1,
+            "liệu pháp thảo dược": 1,
+            "nhân viên": 3,
+            "massage": 3,
+            "dầu thơm": 1,
+            "cảm giác": 1,
+            "trẻ hóa": 1,
+            "phước lành": 1,
+            "ốc đảo": 2,
+            "con phố nhộn": 1,
+            "cơ sở": 1,
+            "giá cả": 1,
+            "máy lạnh": 1,
+            "massage chân": 1,
+            "nhà trị liệu": 1,
+            "dịch vụ khách hàng": 1,
+            "viên": 1,
+            "ngọc ẩn": 1,
+            "nguồn động viên": 1,
+            "mát-xa khác nhau": 1,
+            "với dầu dừa": 1,
+            "liệu pháp": 2,
+            "phương pháp trị liệu": 1,
+            "tế bào chết": 1,
+            "chăm sóc da mặt": 1,
+            "cho": 1,
+            "âm nhạc": 1,
+            "trà": 2,
+            "món ăn": 2,
+            "mát-xa": 2,
+            "gói hàng": 2
+        }
     },
     {
         "attraction_name": "Amora Spa",
@@ -266,7 +464,52 @@
             "https://www.tripadvisor.com/Attraction_Review-g55863-d196337-Reviews-Main_Street-Fredericksburg_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d26355148-Reviews-or20-Amora_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26355148-Reviews-or10-Amora_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26355148-Reviews-or10-Amora_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "spa": 0.7506452477537096,
+            "trải nghiệm": 0.9669421059079468,
+            "bầu không khí": 0.986550569999963,
+            "giường": 0.9828549125231802,
+            "phương pháp điều trị": 0.5,
+            "thảo dược": 0.5,
+            "viên đá": 0.9938328313874081
+        },
+        "dicts_adj": {
+            "spa": [
+                "chuyên nghiệp",
+                "chuyên nghiệp",
+                "cùng"
+            ],
+            "trải nghiệm": [
+                "chuyên nghiệp",
+                "cùng"
+            ],
+            "bầu không khí": [
+                "thoải mái"
+            ],
+            "giường": [
+                "thoải mái"
+            ],
+            "phương pháp điều trị": [],
+            "thảo dược": [],
+            "viên đá": [
+                "nóng",
+                "đặc biệt",
+                "thú vị",
+                "thực sự"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "spa": 2,
+            "trải nghiệm": 2,
+            "bầu không khí": 1,
+            "giường": 1,
+            "phương pháp điều trị": 1,
+            "thảo dược": 1,
+            "viên đá": 1
+        }
     },
     {
         "attraction_name": "Amora Spa",
@@ -404,7 +647,51 @@
             "https://www.tripadvisor.com/Attraction_Review-g31020-d8674211-Reviews-Glacier_Taxi_Tours-Juneau_Alaska.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d26355148-Reviews-or30-Amora_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26355148-Reviews-or20-Amora_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26355148-Reviews-or20-Amora_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9820200400426984,
+            "spa": 0.8647390986443497,
+            "bầu không khí": 0.9954354395158589,
+            "nhân viên": 0.9930191222811118,
+            "massage": 0.5,
+            "âm nhạc": 0.5,
+            "liệu pháp": 0.5,
+            "hương thơm": 0.5
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "cùng"
+            ],
+            "spa": [
+                "cùng",
+                "hối hả",
+                "nhộn nhịp"
+            ],
+            "bầu không khí": [
+                "riêng tư",
+                "tinh tế",
+                "kín đáo"
+            ],
+            "nhân viên": [
+                "chuyên nghiệp"
+            ],
+            "massage": [],
+            "âm nhạc": [],
+            "liệu pháp": [],
+            "hương thơm": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 1,
+            "spa": 2,
+            "bầu không khí": 1,
+            "nhân viên": 1,
+            "massage": 1,
+            "âm nhạc": 1,
+            "liệu pháp": 1,
+            "hương thơm": 1
+        }
     },
     {
         "attraction_name": "Amora Spa",
@@ -549,7 +836,12 @@
             "https://www.tripadvisor.com/Attraction_Review-g274707-d7767188-Reviews-Franz_Kafka_Statue-Prague_Bohemia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d26355148-Reviews-or40-Amora_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26355148-Reviews-or30-Amora_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26355148-Reviews-or30-Amora_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     },
     {
         "attraction_name": "Amora Spa",
@@ -695,7 +987,12 @@
             "https://www.tripadvisor.com/Attraction_Review-g47182-d4416913-Reviews-Alien_Zone_Area_51-Roswell_New_Mexico.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d26355148-Reviews-or50-Amora_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26355148-Reviews-or40-Amora_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26355148-Reviews-or40-Amora_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     },
     {
         "attraction_name": "Amora Spa",
@@ -841,7 +1138,22 @@
             "https://www.tripadvisor.com/Attraction_Review-g528813-d12325784-Reviews-Club_Aspire_at_Heathrow_Terminal_5-Hounslow_Greater_London_England.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d26355148-Reviews-or60-Amora_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26355148-Reviews-or50-Amora_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26355148-Reviews-or50-Amora_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9949721697485074
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tử tế",
+                "to lớn",
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 1
+        }
     },
     {
         "attraction_name": "Amora Spa",
@@ -975,6 +1287,11 @@
             "https://www.tripadvisor.com/Attraction_Review-g274958-d2705945-Reviews-Balti_Jaam_Market-Tallinn_Harju_County.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26355148-Reviews-or60-Amora_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26355148-Reviews-or60-Amora_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     }
 ]

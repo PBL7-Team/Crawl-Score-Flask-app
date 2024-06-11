@@ -106,7 +106,157 @@
             "https://www.tripadvisor.com/Attraction_Review-g186525-d188789-Reviews-Princes_Street-Edinburgh_Scotland.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d6855864-Reviews-or10-Bali_Cloth_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6855864-Reviews-Bali_Cloth_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6855864-Reviews-Bali_Cloth_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thợ may": 0.9952402476919815,
+            "người dân địa phương": 0.9933429332450032,
+            "cửa hàng": 0.7843014756882829,
+            "khách sạn": 0.13601881446084008,
+            "trang phục": 0.5,
+            "bộ đồ": 0.8720288664480904,
+            "dáng người": 0.5,
+            "váy": 0.7979857908773098,
+            "mà bạn": 0.5504019856452942,
+            "áo sơ mi": 0.6645489536070576,
+            "quần dài": 0.5,
+            "chất lượng": 0.9346726451767609,
+            "nhân viên": 0.9946226836764254,
+            "bộ váy": 0.9908094675047323,
+            "dịch vụ": 0.6868846400175244,
+            "giá cả": 0.8737692800350487,
+            "chất liệu": 0.9955719027202576,
+            "đôi giày da": 0.5,
+            "đám cưới": 0.9953385253902525,
+            "công": 0.5,
+            "ở": 0.5,
+            "người thợ may": 0.41642050072550774,
+            "đường viền": 0.5,
+            "áo": 0.5,
+            "chất liệu nút áo": 0.5,
+            "sản phẩm": 0.9955812019179575,
+            "bộ": 0.5,
+            "quần áo": 0.99557934171753,
+            "áo khoác váy": 0.5,
+            "quần áo khoác": 0.8737692800350487
+        },
+        "dicts_adj": {
+            "thợ may": [
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "người dân địa phương": [
+                "gần"
+            ],
+            "cửa hàng": [
+                "gần",
+                "hơn",
+                "nhiều",
+                "lớn",
+                "hơn",
+                "vui vẻ"
+            ],
+            "khách sạn": [],
+            "trang phục": [],
+            "bộ đồ": [
+                "nhỏ"
+            ],
+            "dáng người": [],
+            "váy": [
+                "sẵn sàng",
+                "tuyệt vời",
+                "đẹp",
+                "hơn",
+                "hạnh phúc",
+                "tuyệt vời",
+                "tuyệt vời",
+                "hoàn hảo",
+                "Cuối cùng",
+                "nhiều"
+            ],
+            "mà bạn": [],
+            "áo sơ mi": [
+                "nhỏ"
+            ],
+            "quần dài": [],
+            "chất lượng": [
+                "rực rỡ",
+                "đẹp"
+            ],
+            "nhân viên": [
+                "thân thiện"
+            ],
+            "bộ váy": [
+                "đẹp"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "chất liệu": [
+                "đẹp"
+            ],
+            "đôi giày da": [],
+            "đám cưới": [
+                "vừa vặn",
+                "hoàn hảo"
+            ],
+            "công": [],
+            "ở": [],
+            "người thợ may": [
+                "chính xác",
+                "mơ hồ"
+            ],
+            "đường viền": [],
+            "áo": [],
+            "chất liệu nút áo": [],
+            "sản phẩm": [
+                "đúng"
+            ],
+            "bộ": [],
+            "quần áo": [
+                "đẹp"
+            ],
+            "áo khoác váy": [],
+            "quần áo khoác": [
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thợ may": 1.5,
+            "người dân địa phương": 1.5,
+            "cửa hàng": 3.5,
+            "khách sạn": 2.0,
+            "trang phục": 1.5,
+            "bộ đồ": 2.0,
+            "dáng người": 1.5,
+            "váy": 4.5,
+            "mà bạn": 1.5,
+            "áo sơ mi": 1.5,
+            "quần dài": 0.5,
+            "chất lượng": 1.0,
+            "nhân viên": 0.5,
+            "bộ váy": 0.5,
+            "dịch vụ": 1.0,
+            "giá cả": 0.5,
+            "chất liệu": 0.5,
+            "đôi giày da": 0.5,
+            "đám cưới": 0.5,
+            "công": 0.5,
+            "ở": 0.5,
+            "người thợ may": 0.5,
+            "đường viền": 0.5,
+            "áo": 1.0,
+            "chất liệu nút áo": 0.5,
+            "sản phẩm": 0.5,
+            "bộ": 0.5,
+            "quần áo": 0.5,
+            "áo khoác váy": 0.5,
+            "quần áo khoác": 0.5
+        }
     },
     {
         "attraction_name": "Bali Cloth Shop",
@@ -215,7 +365,264 @@
             "https://www.tripadvisor.com/Attraction_Review-g60647-d102658-Reviews-Pupukea_Beach_Park-Haleiwa_Oahu_Hawaii.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d6855864-Reviews-or20-Bali_Cloth_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6855864-Reviews-or10-Bali_Cloth_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6855864-Reviews-or10-Bali_Cloth_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa hàng may": 0.9911173372529447,
+            "loại": -0.9152321172878146,
+            "vải": -0.11100107640959322,
+            "thợ may": 0.576160275854636,
+            "váy": 0.25593051426549207,
+            "mức": 0.769141512690112,
+            "giá": 0.5400106656597927,
+            "quần áo": 0.7446604146971367,
+            "cửa hàng vải": 0.5,
+            "người thợ may": 0.988541689934209,
+            "cửa hàng": 0.37039352872913395,
+            "chuyến đi": 0.6058135069906712,
+            "bộ váy": 0.7477176608226728,
+            "nhân viên trang": 0.8737692800350487,
+            "tiền": -0.20313416281715035,
+            "chất liệu": 0.33840394493502873,
+            "trang nghĩ": 0.8737692800350487,
+            "vật liệu": 0.6526807975023985,
+            "sản phẩm": -0.90358672500588,
+            "nhân viên": 0.9878934622295977,
+            "bali": -0.05067938903812319,
+            "ký túc xá": 0.5,
+            "trải nghiệm": 0.5,
+            "chuyến đi ngắn ngày": 0.5,
+            "phi hành đoàn": 0.4810883365571499,
+            "quần áo the bali": 0.8737692800350487,
+            "áo": 0.5,
+            "buổi thử đồ": 0.5280475169420242,
+            "giá cả": 0.9549411338230129,
+            "dịch vụ": 0.8337929567933315,
+            "váy hóa": 0.9946541093522683,
+            "áo khoác": 0.5,
+            "khách sạn": 0.5,
+            "áo váy trang phục truyền": 0.5,
+            "chủ quán": -0.9761055147973821,
+            "tiệm may": 0.995389906107448,
+            "bộ": 0.5,
+            "áo cánh": 0.5,
+            "quần": 0.5,
+            "xe buýt": 0.5,
+            "bộ vest": 0.9565882658935152,
+            "đặt hàng qua thư": 0.9880101276794448
+        },
+        "dicts_adj": {
+            "cửa hàng may": [
+                "tuyệt vời"
+            ],
+            "loại": [
+                "khác biệt"
+            ],
+            "vải": [
+                "khác biệt",
+                "đắt"
+            ],
+            "thợ may": [
+                "khác",
+                "dọc",
+                "đẹp",
+                "tốt",
+                "nhất",
+                "nhanh",
+                "chính xác",
+                "xuất sắc"
+            ],
+            "váy": [
+                "khác",
+                "có thể",
+                "dễ dàng",
+                "tốt",
+                "giống",
+                "cuối cùng",
+                "khác",
+                "khác",
+                "khác",
+                "tình cờ",
+                "hoàn hảo",
+                "hoàn hảo",
+                "đẹp",
+                "vui"
+            ],
+            "mức": [
+                "hợp lý",
+                "chắc chắn"
+            ],
+            "giá": [
+                "hợp lý",
+                "chắc chắn",
+                "cao",
+                "nhiều",
+                "hơn",
+                "cao",
+                "hơn"
+            ],
+            "quần áo": [
+                "hấp dẫn",
+                "tuyệt vời",
+                "tuyệt vời",
+                "vừa vặn",
+                "vui"
+            ],
+            "cửa hàng vải": [],
+            "người thợ may": [
+                "dễ chịu"
+            ],
+            "cửa hàng": [
+                "lớn lao",
+                "cuối cùng",
+                "hấp dẫn",
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "chuyến đi": [
+                "đầu tiên"
+            ],
+            "bộ váy": [
+                "hoàn hảo"
+            ],
+            "nhân viên trang": [
+                "có thể",
+                "dễ dàng",
+                "tốt"
+            ],
+            "tiền": [
+                "khổng lồ"
+            ],
+            "chất liệu": [
+                "khác",
+                "tốt",
+                "hơn"
+            ],
+            "trang nghĩ": [
+                "khác",
+                "tốt",
+                "hơn"
+            ],
+            "vật liệu": [
+                "kịp thời",
+                "nhiều",
+                "hơn"
+            ],
+            "sản phẩm": [
+                "phải",
+                "thực sự",
+                "bất kỳ",
+                "sẵn"
+            ],
+            "nhân viên": [
+                "lịch sự",
+                "thực sự",
+                "dễ thương",
+                "hữu ích",
+                "chuyên nghiệp"
+            ],
+            "bali": [
+                "nảy lửa",
+                "đẹp",
+                "hơn",
+                "chắc chắn"
+            ],
+            "ký túc xá": [],
+            "trải nghiệm": [],
+            "chuyến đi ngắn ngày": [],
+            "phi hành đoàn": [],
+            "quần áo the bali": [
+                "hấp dẫn"
+            ],
+            "áo": [],
+            "buổi thử đồ": [
+                "nhỏ"
+            ],
+            "giá cả": [
+                "tuyệt vời",
+                "hoàn hảo",
+                "tuyệt vời",
+                "nhanh",
+                "hợp lý",
+                "hợp lý",
+                "hơn",
+                "nhiều"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "váy hóa": [
+                "hoàn hảo"
+            ],
+            "áo khoác": [],
+            "khách sạn": [],
+            "áo váy trang phục truyền": [],
+            "chủ quán": [
+                "ép buộc"
+            ],
+            "tiệm may": [
+                "đơn giản",
+                "tuyệt vời"
+            ],
+            "bộ": [],
+            "áo cánh": [],
+            "quần": [],
+            "xe buýt": [],
+            "bộ vest": [
+                "vừa vặn",
+                "vui"
+            ],
+            "đặt hàng qua thư": [
+                "yên tâm"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa hàng may": 0.5,
+            "loại": 0.5,
+            "vải": 1.0,
+            "thợ may": 2.5,
+            "váy": 4.0,
+            "mức": 0.5,
+            "giá": 1.5,
+            "quần áo": 2.5,
+            "cửa hàng vải": 0.5,
+            "người thợ may": 0.5,
+            "cửa hàng": 1.5,
+            "chuyến đi": 0.5,
+            "bộ váy": 1.0,
+            "nhân viên trang": 0.5,
+            "tiền": 1.0,
+            "chất liệu": 0.5,
+            "trang nghĩ": 0.5,
+            "vật liệu": 0.5,
+            "sản phẩm": 0.5,
+            "nhân viên": 1.5,
+            "bali": 1.0,
+            "ký túc xá": 0.5,
+            "trải nghiệm": 0.5,
+            "chuyến đi ngắn ngày": 0.5,
+            "phi hành đoàn": 0.5,
+            "quần áo the bali": 0.5,
+            "áo": 0.5,
+            "buổi thử đồ": 0.5,
+            "giá cả": 1.5,
+            "dịch vụ": 2.0,
+            "váy hóa": 0.5,
+            "áo khoác": 0.5,
+            "khách sạn": 0.5,
+            "áo váy trang phục truyền": 0.5,
+            "chủ quán": 0.5,
+            "tiệm may": 0.5,
+            "bộ": 0.5,
+            "áo cánh": 0.5,
+            "quần": 0.5,
+            "xe buýt": 0.5,
+            "bộ vest": 0.5,
+            "đặt hàng qua thư": 0.5
+        }
     },
     {
         "attraction_name": "Bali Cloth Shop",
@@ -322,6 +729,252 @@
             "https://www.tripadvisor.com/Attraction_Review-g33186-d1016258-Reviews-Bravo_Farms-Traver_California.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6855864-Reviews-or20-Bali_Cloth_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d6855864-Reviews-or20-Bali_Cloth_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thợ may": 0.6243655168625992,
+            "trang phục": 0.5,
+            "váy": 0.706037731098366,
+            "chất lượng": 0.94246434593515,
+            "cửa hàng": 0.16408456687349826,
+            "giá trị": 0.8737692800350487,
+            "dịch vụ": 0.9346294737479184,
+            "bộ vest": 0.5,
+            "bộ váy": 0.5,
+            "áo sơ mi": -0.23246365363593213,
+            "áo khoác": 0.5,
+            "bộ đồ": 0.5,
+            "giá": 0.5351171941729262,
+            "thời trang bali": 0.8737692800350487,
+            "vừa": 0.9954675003536977,
+            "giá cả": 0.9337241015164182,
+            "dịch vụ thì": 0.9954343193676323,
+            "quần áo": 0.4923893710365519,
+            "tiệm may": -0.4566982948454097,
+            "đầm": 0.4880367510486394,
+            "áo blazer": 0.2227741964161396,
+            "bộ": 0.14424123149365187,
+            "chi tiết": 0.025475446367636323,
+            "thị trường": 0.9793377642054111,
+            "ngân sách": 0.8891075036954135,
+            "bộ đồ chất lượng": 0.8368354867367694,
+            "buổi thử đồ": 0.8571028137230314,
+            "quần": 0.5,
+            "người dân địa phương": 0.9919765358208679,
+            "áo sơ mi công sở": 0.2788787893950939,
+            "đồ trang sức": 0.5,
+            "bó hoa": 0.9951934252167121,
+            "trải nghiệm": 0.9922328242100775,
+            "nhân viên": 0.992738818313228,
+            "mức giá": 0.7777251087245531,
+            "com": -0.6843129899352789
+        },
+        "dicts_adj": {
+            "thợ may": [
+                "nổi tiếng",
+                "hơn",
+                "tốt",
+                "tốt",
+                "hơn",
+                "đầu tiên",
+                "chắc chắn",
+                "thật thà",
+                "chân chất",
+                "vui vẻ",
+                "hữu ích"
+            ],
+            "trang phục": [],
+            "váy": [
+                "trẻ",
+                "thân thiện",
+                "sẵn sàng",
+                "cuối cùng",
+                "khác",
+                "rủi ro",
+                "đẹp",
+                "đầy",
+                "vừa vặn",
+                "hoàn hảo",
+                "thực sự"
+            ],
+            "chất lượng": [
+                "hài lòng",
+                "tuyệt vời",
+                "vừa vặn"
+            ],
+            "cửa hàng": [
+                "cuối cùng",
+                "khác",
+                "cần thiết",
+                "đủ",
+                "đầu tiên"
+            ],
+            "giá trị": [
+                "tốt"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "bộ vest": [],
+            "bộ váy": [],
+            "áo sơ mi": [
+                "khác",
+                "rủi ro"
+            ],
+            "áo khoác": [],
+            "bộ đồ": [],
+            "giá": [
+                "nổi tiếng",
+                "hơn",
+                "tốt",
+                "tốt",
+                "hơn",
+                "hay",
+                "nhiều",
+                "hơn",
+                "nguyên",
+                "nhanh chóng"
+            ],
+            "thời trang bali": [
+                "cuối cùng"
+            ],
+            "vừa": [
+                "đẹp"
+            ],
+            "giá cả": [
+                "thực sự",
+                "hợp lý",
+                "suôn sẻ",
+                "thoải mái"
+            ],
+            "dịch vụ thì": [
+                "tuyệt vời"
+            ],
+            "quần áo": [
+                "trọn",
+                "khác",
+                "rủi ro",
+                "quan trọng",
+                "hài lòng",
+                "cuối cùng",
+                "nhiều",
+                "tuyệt vời",
+                "hoàn toàn",
+                "mới",
+                "nhiều",
+                "tuyệt vời",
+                "hạnh phúc"
+            ],
+            "tiệm may": [
+                "khác",
+                "rủi ro",
+                "khác",
+                "rủi ro",
+                "hạnh phúc"
+            ],
+            "đầm": [
+                "khác",
+                "rủi ro"
+            ],
+            "áo blazer": [
+                "khác",
+                "rủi ro"
+            ],
+            "bộ": [
+                "khác",
+                "rủi ro"
+            ],
+            "chi tiết": [
+                "cần thiết",
+                "đủ"
+            ],
+            "thị trường": [
+                "hay"
+            ],
+            "ngân sách": [
+                "nhiều",
+                "hơn"
+            ],
+            "bộ đồ chất lượng": [
+                "cao",
+                "đầy",
+                "hoàn hảo"
+            ],
+            "buổi thử đồ": [
+                "khoảng",
+                "tốt",
+                "hài lòng"
+            ],
+            "quần": [],
+            "người dân địa phương": [
+                "hữu ích",
+                "nát",
+                "nhiều"
+            ],
+            "áo sơ mi công sở": [
+                "mới"
+            ],
+            "đồ trang sức": [],
+            "bó hoa": [
+                "xinh đẹp",
+                "sau",
+                "xinh đẹp"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "lúng túng",
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "mức giá": [
+                "tốt",
+                "hơn"
+            ],
+            "com": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thợ may": 2.0,
+            "trang phục": 0.5,
+            "váy": 3.5,
+            "chất lượng": 1.0,
+            "cửa hàng": 2.0,
+            "giá trị": 0.5,
+            "dịch vụ": 1.0,
+            "bộ vest": 1.0,
+            "bộ váy": 0.5,
+            "áo sơ mi": 1.0,
+            "áo khoác": 1.0,
+            "bộ đồ": 0.5,
+            "giá": 2.0,
+            "thời trang bali": 0.5,
+            "vừa": 0.5,
+            "giá cả": 1.0,
+            "dịch vụ thì": 0.5,
+            "quần áo": 1.0,
+            "tiệm may": 0.5,
+            "đầm": 0.5,
+            "áo blazer": 0.5,
+            "bộ": 0.5,
+            "chi tiết": 0.5,
+            "thị trường": 0.5,
+            "ngân sách": 0.5,
+            "bộ đồ chất lượng": 0.5,
+            "buổi thử đồ": 0.5,
+            "quần": 0.5,
+            "người dân địa phương": 0.5,
+            "áo sơ mi công sở": 0.5,
+            "đồ trang sức": 0.5,
+            "bó hoa": 0.5,
+            "trải nghiệm": 0.5,
+            "nhân viên": 0.5,
+            "mức giá": 0.5,
+            "com": 0.5
+        }
     }
 ]

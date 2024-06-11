@@ -93,7 +93,183 @@
             "https://www.tripadvisor.com/Attraction_Review-g147320-d23588074-Reviews-DISTRITO_T_Mobile-San_Juan_Puerto_Rico.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or10-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên du lịch": 0.9952268484630622,
+            "lịch sử": 0.5,
+            "văn hóa": 0.5,
+            "kiến ​​thức": 0.5118333175778389,
+            "chủ": 0.5,
+            "chuyến tham quan": 0.745588093821425,
+            "nhà hàng địa phương": 0.8737692800350487,
+            "bữa trưa": 0.9433083963979568,
+            "dịch vụ": -0.2807230562902987,
+            "com": -0.6843129899352789,
+            "tours -": 0.9931271217711684,
+            "xe jeep vùng nông thôn": 0.9949537257198244,
+            "hướng dẫn viên": 0.7830822955417845,
+            "hướng dẫn viên du": 0.8737692800350487,
+            "con người": 0.5,
+            "chuyến đi": 0.9549883939492118,
+            "khu vườn bonsai": 0.8737692800350487,
+            "câu chuyện": 0.6882713485309588,
+            "chiến tranh": 0.5,
+            "tour du lịch": 0.5,
+            "xe máy bởi": 0.5,
+            "xe máy": 0.9743311547208577,
+            "vùng quê": 0.7872614111984149,
+            "ngôi làng": 0.5749894492328167,
+            "ngôi nhà": 0.5165366474539042,
+            "làng": 0.531625535339117,
+            "cánh đồng lúa": 0.7026781616732478,
+            "phở bún": 0.5,
+            "bảo tàng chiến thắng": 0.5,
+            "nhà hát": 0.5,
+            "món tráng miệng địa phương": 0.995360751170665,
+            "bánh": 0.9955612812773325,
+            "pudding xoài": 0.9955631702323444,
+            "chè sầu": 0.9954649633145891
+        },
+        "dicts_adj": {
+            "hướng dẫn viên du lịch": [
+                "am hiểu",
+                "sâu sắc",
+                "thông minh",
+                "hài hước"
+            ],
+            "lịch sử": [],
+            "văn hóa": [],
+            "kiến ​​thức": [
+                "nhiều",
+                "nhiều"
+            ],
+            "chủ": [],
+            "chuyến tham quan": [
+                "tốt bụng",
+                "vui vẻ",
+                "thú vị",
+                "hơn",
+                "tuyệt vời",
+                "lớn"
+            ],
+            "nhà hàng địa phương": [
+                "tuyệt vời",
+                "độc đáo"
+            ],
+            "bữa trưa": [
+                "tuyệt vời",
+                "độc đáo",
+                "nhiều"
+            ],
+            "dịch vụ": [
+                "cảm kích",
+                "tích cực",
+                "cao",
+                "tích cực",
+                "cao",
+                "tích cực",
+                "cao",
+                "tích cực",
+                "cao",
+                "tích cực"
+            ],
+            "com": [],
+            "tours -": [],
+            "xe jeep vùng nông thôn": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du": [
+                "nhiều"
+            ],
+            "con người": [],
+            "chuyến đi": [
+                "thú vị",
+                "tuyệt vời"
+            ],
+            "khu vườn bonsai": [
+                "thú vị"
+            ],
+            "câu chuyện": [
+                "nhiều",
+                "lịch sử"
+            ],
+            "chiến tranh": [],
+            "tour du lịch": [],
+            "xe máy bởi": [],
+            "xe máy": [
+                "tốt",
+                "to lớn"
+            ],
+            "vùng quê": [
+                "cổ"
+            ],
+            "ngôi làng": [
+                "cổ"
+            ],
+            "ngôi nhà": [
+                "cổ"
+            ],
+            "làng": [
+                "cổ"
+            ],
+            "cánh đồng lúa": [],
+            "phở bún": [],
+            "bảo tàng chiến thắng": [],
+            "nhà hát": [],
+            "món tráng miệng địa phương": [
+                "ngon"
+            ],
+            "bánh": [
+                "ngon"
+            ],
+            "pudding xoài": [
+                "ngon"
+            ],
+            "chè sầu": [
+                "ngon"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên du lịch": 4,
+            "lịch sử": 4,
+            "văn hóa": 2,
+            "kiến ​​thức": 2,
+            "chủ": 2,
+            "chuyến tham quan": 6,
+            "nhà hàng địa phương": 2,
+            "bữa trưa": 3.5,
+            "dịch vụ": 9.0,
+            "com": 9.0,
+            "tours -": 9.0,
+            "xe jeep vùng nông thôn": 2,
+            "hướng dẫn viên": 3.5,
+            "hướng dẫn viên du": 2,
+            "con người": 2,
+            "chuyến đi": 3.5,
+            "khu vườn bonsai": 2,
+            "câu chuyện": 3.5,
+            "chiến tranh": 2,
+            "tour du lịch": 1.5,
+            "xe máy bởi": 1.5,
+            "xe máy": 1.5,
+            "vùng quê": 1.5,
+            "ngôi làng": 1.5,
+            "ngôi nhà": 1.5,
+            "làng": 1.5,
+            "cánh đồng lúa": 1.5,
+            "phở bún": 1.5,
+            "bảo tàng chiến thắng": 1.5,
+            "nhà hát": 1.5,
+            "món tráng miệng địa phương": 1.5,
+            "bánh": 1.5,
+            "pudding xoài": 1.5,
+            "chè sầu": 1.5
+        }
     },
     {
         "attraction_name": "Asia Vespa Tours - Tours Jeep Hanoi",
@@ -190,7 +366,160 @@
             "https://www.tripadvisor.com/Attraction_Review-g187331-d487910-Reviews-Altonaer_Fischmarkt-Hamburg.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or20-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or10-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or10-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.8302649247537678,
+            "lịch": 0.8888233564794064,
+            "hướng dẫn viên": 0.8305428180319723,
+            "chuyến đi": 0.9813967568188673,
+            "kỳ nghỉ": 0.5,
+            "hướng dẫn viên du": 0.5,
+            "kiến ​​thức văn hóa và": 0.5,
+            "lịch sử địa phương": 0.5,
+            "chuyến tham quan": 0.8737692800350487,
+            "nông thôn": 0.9954118584282696,
+            "khoảng thời gian": 0.8766862374905031,
+            "món ăn": 0.9876461979438318,
+            "dòng xe cộ": 0.80480069341138,
+            "địa điểm ăn uống": 0.843105630716309,
+            "ẩm thực": 0.9844720135442913,
+            "tour ẩm thực": 0.9954191446304321,
+            "vùng nông thôn": 0.9919607896590605,
+            "dịch vụ": 0.17533760028891265,
+            "com": -0.6843129899352789,
+            "châu á - đội": 0.5,
+            "ngũ": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "trình điều": 0.9955988341243938,
+            "cocktail": 0.5,
+            "thức ăn": 0.5,
+            "đồ ăn": 0.8737692800350487,
+            "bún chả": 0.5,
+            "nhà hàng": 0.5,
+            "quán cà phê": 0.9828557607252151,
+            "ca sĩ hát": 0.9928469648584723
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "hoàn toàn",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "lịch": [
+                "nhiều"
+            ],
+            "hướng dẫn viên": [
+                "thân thiện",
+                "thực sự"
+            ],
+            "chuyến đi": [
+                "thú vị",
+                "hơn",
+                "thú vị",
+                "đông đúc"
+            ],
+            "kỳ nghỉ": [],
+            "hướng dẫn viên du": [],
+            "kiến ​​thức văn hóa và": [],
+            "lịch sử địa phương": [],
+            "chuyến tham quan": [
+                "riêng tư"
+            ],
+            "nông thôn": [
+                "tuyệt vời"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời",
+                "nhất",
+                "tuyệt vời"
+            ],
+            "món ăn": [
+                "ngon",
+                "ngon",
+                "thực sự",
+                "ngon"
+            ],
+            "dòng xe cộ": [
+                "tuyệt vời",
+                "nhất"
+            ],
+            "địa điểm ăn uống": [
+                "tuyệt vời",
+                "nhất"
+            ],
+            "ẩm thực": [
+                "tốt",
+                "nhất"
+            ],
+            "tour ẩm thực": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "vùng nông thôn": [
+                "thú vị"
+            ],
+            "dịch vụ": [
+                "cao",
+                "tích cực",
+                "tuyệt vời"
+            ],
+            "com": [],
+            "châu á - đội": [],
+            "ngũ": [],
+            "hướng dẫn viên du lịch": [],
+            "trình điều": [
+                "tốt",
+                "an toàn"
+            ],
+            "cocktail": [],
+            "thức ăn": [],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "bún chả": [],
+            "nhà hàng": [],
+            "quán cà phê": [
+                "gần"
+            ],
+            "ca sĩ hát": [
+                "cuối cùng",
+                "hát cực"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 4.5,
+            "lịch": 1.5,
+            "hướng dẫn viên": 3.0,
+            "chuyến đi": 3.0,
+            "kỳ nghỉ": 1.5,
+            "hướng dẫn viên du": 1.5,
+            "kiến ​​thức văn hóa và": 1.5,
+            "lịch sử địa phương": 1.5,
+            "chuyến tham quan": 1.5,
+            "nông thôn": 1.5,
+            "khoảng thời gian": 3.0,
+            "món ăn": 3.0,
+            "dòng xe cộ": 1.5,
+            "địa điểm ăn uống": 1.5,
+            "ẩm thực": 1.5,
+            "tour ẩm thực": 1.5,
+            "vùng nông thôn": 1.5,
+            "dịch vụ": 3.0,
+            "com": 1.5,
+            "châu á - đội": 1.5,
+            "ngũ": 1.5,
+            "hướng dẫn viên du lịch": 1.5,
+            "trình điều": 1.5,
+            "cocktail": 1.5,
+            "thức ăn": 1.5,
+            "đồ ăn": 1.5,
+            "bún chả": 1.5,
+            "nhà hàng": 1.5,
+            "quán cà phê": 1.5,
+            "ca sĩ hát": 1.5
+        }
     },
     {
         "attraction_name": "Asia Vespa Tours - Tours Jeep Hanoi",
@@ -288,7 +617,144 @@
             "https://www.tripadvisor.com/Attraction_Review-g189430-d3446433-Reviews-Lia_Beach-Mykonos_Cyclades_South_Aegean.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or30-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or20-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or20-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.9950961826689309,
+            "hướng dẫn viên du lịch": 0.9872205762658268,
+            "văn hóa việt nam": 0.9568447470664978,
+            "chủ cây bonsai": 0.9954522855114192,
+            "người dân": 0.5,
+            "đồ ăn": 0.9953487640013918,
+            "đường phố": 0.9950602931203321,
+            "hướng dẫn viên": 0.9894359793979675,
+            "bữa trưa": 0.42685211449861526,
+            "quán cà phê": 0.5215507317334414,
+            "điểm tham quan": 0.9944061788264662,
+            "trải nghiệm": 0.8801426844826589,
+            "phố tàu": 0.8737692800350487,
+            "người hướng dẫn": 0.2511373721063137,
+            "khách sạn": -0.9726066761650145,
+            "ăn trưa": 0.9955637561506592,
+            "món ăn địa phương": 0.9954764971043915,
+            "cảnh": 0.5051956251263618,
+            "chuyến đi": 0.995438733138144,
+            "điểm dừng": 0.9446214316121768,
+            "thực phẩm": 0.9952951869054232,
+            "trạm dừng": 0.5,
+            "xe lửa": 0.5
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "giỏi",
+                "vui",
+                "thực sự",
+                "nổi bật",
+                "thân thiện",
+                "thoải mái",
+                "đủ",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "giỏi"
+            ],
+            "văn hóa việt nam": [
+                "thực sự",
+                "nhiều"
+            ],
+            "chủ cây bonsai": [
+                "tuyệt vời"
+            ],
+            "người dân": [],
+            "đồ ăn": [
+                "tuyệt vời"
+            ],
+            "đường phố": [
+                "an toàn"
+            ],
+            "hướng dẫn viên": [
+                "xuất sắc",
+                "nhiều",
+                "trẻ",
+                "tuyệt vời"
+            ],
+            "bữa trưa": [
+                "nhiều"
+            ],
+            "quán cà phê": [
+                "nhiều"
+            ],
+            "điểm tham quan": [
+                "điên cuồng"
+            ],
+            "trải nghiệm": [
+                "điên cuồng",
+                "thú vị",
+                "tuyệt vời",
+                "tuyệt vời",
+                "cao",
+                "tuyệt vời"
+            ],
+            "phố tàu": [
+                "nhiều"
+            ],
+            "người hướng dẫn": [
+                "đúng"
+            ],
+            "khách sạn": [
+                "đúng"
+            ],
+            "ăn trưa": [
+                "ngon"
+            ],
+            "món ăn địa phương": [
+                "ngon"
+            ],
+            "cảnh": [
+                "ít"
+            ],
+            "chuyến đi": [
+                "an toàn",
+                "thoải mái",
+                "tuyệt vời"
+            ],
+            "điểm dừng": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "thực phẩm": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "trạm dừng": [],
+            "xe lửa": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 6.0,
+            "hướng dẫn viên du lịch": 1.5,
+            "văn hóa việt nam": 1.5,
+            "chủ cây bonsai": 1.5,
+            "người dân": 1.5,
+            "đồ ăn": 1.5,
+            "đường phố": 1.5,
+            "hướng dẫn viên": 3.0,
+            "bữa trưa": 1.5,
+            "quán cà phê": 1.5,
+            "điểm tham quan": 1.5,
+            "trải nghiệm": 3.0,
+            "phố tàu": 1.5,
+            "người hướng dẫn": 1.5,
+            "khách sạn": 1.5,
+            "ăn trưa": 1.5,
+            "món ăn địa phương": 1.5,
+            "cảnh": 1.5,
+            "chuyến đi": 1.5,
+            "điểm dừng": 1.5,
+            "thực phẩm": 1.5,
+            "trạm dừng": 1.5,
+            "xe lửa": 1.5
+        }
     },
     {
         "attraction_name": "Asia Vespa Tours - Tours Jeep Hanoi",
@@ -386,7 +852,105 @@
             "https://www.tripadvisor.com/Attraction_Review-g303506-d7676302-Reviews-Pedra_do_Telegrafo-Rio_de_Janeiro_State_of_Rio_de_Janeiro.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or40-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or30-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or30-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ẩm thực": 0.9906627491873223,
+            "tour du lịch": 0.9954509659437463,
+            "chuyến tham quan": 0.995415357145248,
+            "chuyến đi": 0.9945702346158214,
+            "trải nghiệm": 0.9953377252677456,
+            "hướng dẫn viên": 0.7439079153118655,
+            "phố tàu": 0.8737692800350487,
+            "đồ ăn": 0.4791789948940277,
+            "cuộc sống": 0.5,
+            "văn hóa": 0.5,
+            "tập quán": 0.9954972375999205,
+            "người dân địa phương": 0.9953247220255435,
+            "món ăn": 0.9923866384488065,
+            "thời tiết": 0.9945292912889272,
+            "bữa trưa": 0.9955801824689843,
+            "món mì": 0.9955209925537929,
+            "thịt lợn nướng": 0.9951167289400473,
+            "cà phê trứng": 0.5
+        },
+        "dicts_adj": {
+            "ẩm thực": [
+                "an toàn",
+                "bất ngờ"
+            ],
+            "tour du lịch": [
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "ngon",
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "an toàn"
+            ],
+            "trải nghiệm": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "am hiểu"
+            ],
+            "phố tàu": [
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "suốt"
+            ],
+            "cuộc sống": [],
+            "văn hóa": [],
+            "tập quán": [
+                "tuyệt vời"
+            ],
+            "người dân địa phương": [
+                "tuyệt vời"
+            ],
+            "món ăn": [
+                "tuyệt vời",
+                "ngon"
+            ],
+            "thời tiết": [
+                "tuyệt vời"
+            ],
+            "bữa trưa": [
+                "tuyệt vời"
+            ],
+            "món mì": [
+                "tuyệt vời"
+            ],
+            "thịt lợn nướng": [
+                "tuyệt vời"
+            ],
+            "cà phê trứng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ẩm thực": 3.0,
+            "tour du lịch": 1.5,
+            "chuyến tham quan": 4.5,
+            "chuyến đi": 1.5,
+            "trải nghiệm": 1.5,
+            "hướng dẫn viên": 3.0,
+            "phố tàu": 1.5,
+            "đồ ăn": 1.5,
+            "cuộc sống": 1.5,
+            "văn hóa": 1.5,
+            "tập quán": 1.5,
+            "người dân địa phương": 1.5,
+            "món ăn": 3.0,
+            "thời tiết": 1.5,
+            "bữa trưa": 1.5,
+            "món mì": 1.5,
+            "thịt lợn nướng": 1.5,
+            "cà phê trứng": 1.5
+        }
     },
     {
         "attraction_name": "Asia Vespa Tours - Tours Jeep Hanoi",
@@ -484,7 +1048,155 @@
             "https://www.tripadvisor.com/Attraction_Review-g33620-d117415-Reviews-Ridgway_State_Park-Ridgway_Colorado.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or50-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or40-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or40-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9950860023964196,
+            "viên ngọc ẩn": 0.7068086043000221,
+            "pho": 0.8737692800350487,
+            "đồ ăn": 0.9953696078737266,
+            "đất nước": 0.9938739659264684,
+            "áo khoác": 0.8650743188336492,
+            "chuyến tham quan": 0.9357967805533137,
+            "ẩm thực": 0.9950274642207659,
+            "món ăn địa phương": 0.5,
+            "nhà hàng": 0.07050986289978027,
+            "bữa tiệc": 0.9449830842204392,
+            "giác quan": 0.5340121034532785,
+            "người dân địa phương": 0.5,
+            "hải sản": 0.9005644384305924,
+            "quán cà phê": 0.9955104258842766,
+            "chuyến tàu": 0.995503373676911,
+            "con phố": 0.995382557506673,
+            "nguyên": 0.9929690866265446,
+            "món ăn": 0.9937519996892661,
+            "người hướng dẫn": 0.9953911522170529,
+            "sri": 0.8737692800350487,
+            "thức ăn": 0.9946847717510536,
+            "phố xe lửa": 0.5,
+            "cà phê": 0.5,
+            "nhân viên": 0.8737692800350487,
+            "quang cảnh": 0.9947519256384112,
+            "trải nghiệm": 0.9954151448328048,
+            "hướng dẫn viên": 0.9955376600264572
+        },
+        "dicts_adj": {
+            "chuyến đi": [],
+            "viên ngọc ẩn": [],
+            "pho": [
+                "ngon"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "đất nước": [
+                "tốt đẹp"
+            ],
+            "áo khoác": [],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "Chắc chắn"
+            ],
+            "ẩm thực": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "món ăn địa phương": [],
+            "nhà hàng": [
+                "đông đúc",
+                "đặc biệt",
+                "thú vị",
+                "khác",
+                "khác"
+            ],
+            "bữa tiệc": [
+                "đông đúc"
+            ],
+            "giác quan": [
+                "đông đúc"
+            ],
+            "người dân địa phương": [],
+            "hải sản": [
+                "đặc biệt",
+                "thú vị"
+            ],
+            "quán cà phê": [
+                "tuyệt vời"
+            ],
+            "chuyến tàu": [
+                "tuyệt vời"
+            ],
+            "con phố": [
+                "tốt"
+            ],
+            "nguyên": [
+                "tốt"
+            ],
+            "món ăn": [
+                "tốt"
+            ],
+            "người hướng dẫn": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "sri": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "thức ăn": [
+                "dễ dàng"
+            ],
+            "phố xe lửa": [],
+            "cà phê": [],
+            "nhân viên": [
+                "tuyệt vời"
+            ],
+            "quang cảnh": [
+                "dễ dàng"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "thực sự"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 1.5,
+            "viên ngọc ẩn": 1.5,
+            "pho": 1.5,
+            "đồ ăn": 1.5,
+            "đất nước": 1.5,
+            "áo khoác": 1.5,
+            "chuyến tham quan": 3.5,
+            "ẩm thực": 2.5,
+            "món ăn địa phương": 1.5,
+            "nhà hàng": 1.5,
+            "bữa tiệc": 1.5,
+            "giác quan": 1.5,
+            "người dân địa phương": 1.5,
+            "hải sản": 1.5,
+            "quán cà phê": 1.5,
+            "chuyến tàu": 1.5,
+            "con phố": 1.5,
+            "nguyên": 1.5,
+            "món ăn": 1.5,
+            "người hướng dẫn": 1,
+            "sri": 1,
+            "thức ăn": 2,
+            "phố xe lửa": 1,
+            "cà phê": 1,
+            "nhân viên": 1,
+            "quang cảnh": 1,
+            "trải nghiệm": 1,
+            "hướng dẫn viên": 1
+        }
     },
     {
         "attraction_name": "Asia Vespa Tours - Tours Jeep Hanoi",
@@ -582,7 +1294,333 @@
             "https://www.tripadvisor.com/Attraction_Review-g28954-d109060-Reviews-Lake_Norman-North_Carolina.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or60-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or50-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or50-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên": 0.869146930257557,
+            "chuyến thăm đường tàu": 0.6423935648053885,
+            "chuyến thăm": 0.4014815017580986,
+            "giao thông": -0.2380610794061795,
+            "xe": -0.22426788267330267,
+            "jeep": -0.9754530875361525,
+            "chuyến tham quan": 0.7930050235267522,
+            "trải nghiệm": 0.9547304351581261,
+            "cảnh quan nông nghiệp": 0.9355117846280336,
+            "khu vườn": 0.9783374294638634,
+            "cánh đồng nông nghiệp": 0.8492591828107834,
+            "đảo": 0.5800897628068924,
+            "phòng": 0.5310465227812529,
+            "thời tiết": 0.8114281333982944,
+            "áo mưa": 0.8924634791910648,
+            "uống nước": 0.5,
+            "cà phê": 0.6868846400175244,
+            "chuyến du ngoạn": 0.995420180785004,
+            "đồ uống": 0.5,
+            "bia nước": 0.5,
+            "nhiên": 0.5,
+            "tour du lịch": 0.6996154106454924,
+            "giá cạnh tranh": 0.5,
+            "thị trường": 0.5,
+            "văn phòng": 0.5,
+            "bảo hiểm": 0.5,
+            "nhân viên": 0.5,
+            "bữa ăn chính thống": 0.9737142118974589,
+            "hợp vệ sinh": 0.9537553496775217,
+            "nhà hàng": 0.9852032987691928,
+            "người hướng dẫn": 0.7481450677732937,
+            "món ăn": 0.7800045686599333,
+            "nông thôn": 0.5,
+            "lịch sử": 0.9845667593181133,
+            "người lái xe": 0.9951545750373043,
+            "bảo tàng": 0.8737692800350487,
+            "nhà hát": 0.8737692800350487,
+            "bữa trưa": 0.9912762100575492,
+            "cà phê trứng": 0.6868846400175244,
+            "chuyến đi về quê": 0.9948621207731776,
+            "cầu long": 0.5,
+            "cánh đồng lúa": 0.6215973980724812,
+            "làng": 0.5,
+            "ngôi làng": 0.9954071044339798,
+            "hành trình": 0.9954972013947554,
+            "người dân địa phương": 0.5,
+            "họ": 0.5,
+            "nhiếp ảnh gia": 0.9954439477878623,
+            "ngôi đền": -0.3141347747296095,
+            "ngôi chùa": 0.9952012565045152,
+            "văn hóa": 0.5,
+            "ngôi nhà": -0.9662799590732902,
+            "ông": 0.5709228925406933,
+            "con người": -0.7167094717733562,
+            "chiến tranh": 0.99501813063398,
+            "cây bonsai": 0.9951949617243372,
+            "xe đạp": 0.5,
+            "câu chuyện": 0.5,
+            "làng quê chiến tranh": 0.5,
+            "khoảng thời gian": 0.9953072104835883,
+            "bộ sưu tập cây cối": 0.5,
+            "quán cà phê": 0.5,
+            "di sản cũ": 0.5,
+            "chuyến đi": 0.6631299863802269,
+            "cầu long biên": 0.6955404486507177,
+            "con phố": 0.9945946424268186
+        },
+        "dicts_adj": {
+            "hướng dẫn viên": [
+                "giỏi",
+                "xuất sắc",
+                "tuyệt vời",
+                "đủ"
+            ],
+            "chuyến thăm đường tàu": [
+                "nhất",
+                "ngắn"
+            ],
+            "chuyến thăm": [],
+            "giao thông": [],
+            "xe": [
+                "cũ",
+                "kém"
+            ],
+            "jeep": [
+                "cũ",
+                "kém"
+            ],
+            "chuyến tham quan": [
+                "rõ",
+                "hay",
+                "toàn diện",
+                "tuyệt vời",
+                "đặc biệt",
+                "đặc biệt",
+                "hối hả",
+                "nhộn nhịp",
+                "cao"
+            ],
+            "trải nghiệm": [
+                "rõ ràng",
+                "hoàn toàn",
+                "tuyệt vời",
+                "đẹp",
+                "độc đáo",
+                "đẹp",
+                "hối hả",
+                "nhộn nhịp",
+                "tuyệt vời"
+            ],
+            "cảnh quan nông nghiệp": [
+                "rõ"
+            ],
+            "khu vườn": [
+                "kỳ lạ"
+            ],
+            "cánh đồng nông nghiệp": [
+                "kỳ lạ"
+            ],
+            "đảo": [],
+            "phòng": [
+                "hay"
+            ],
+            "thời tiết": [
+                "hay",
+                "hay"
+            ],
+            "áo mưa": [
+                "cao"
+            ],
+            "uống nước": [],
+            "cà phê": [
+                "khuyến khích"
+            ],
+            "chuyến du ngoạn": [
+                "phiêu lưu"
+            ],
+            "đồ uống": [],
+            "bia nước": [],
+            "nhiên": [],
+            "tour du lịch": [
+                "riêng",
+                "hợp pháp",
+                "nhiều",
+                "khác"
+            ],
+            "giá cạnh tranh": [],
+            "thị trường": [],
+            "văn phòng": [],
+            "bảo hiểm": [],
+            "nhân viên": [],
+            "bữa ăn chính thống": [
+                "đầy đủ",
+                "khác biệt"
+            ],
+            "hợp vệ sinh": [
+                "đầy đủ",
+                "khác biệt"
+            ],
+            "nhà hàng": [
+                "đầy đủ",
+                "khác biệt"
+            ],
+            "người hướng dẫn": [
+                "tuyệt vời",
+                "xuất sắc"
+            ],
+            "món ăn": [
+                "tuyệt vời",
+                "chắc chắn",
+                "đủ",
+                "can đảm"
+            ],
+            "nông thôn": [],
+            "lịch sử": [
+                "am hiểu"
+            ],
+            "người lái xe": [
+                "an toàn"
+            ],
+            "bảo tàng": [
+                "lớn",
+                "khác"
+            ],
+            "nhà hát": [
+                "lớn",
+                "khác"
+            ],
+            "bữa trưa": [
+                "khuyến khích"
+            ],
+            "cà phê trứng": [
+                "khuyến khích"
+            ],
+            "chuyến đi về quê": [
+                "tuyệt vời"
+            ],
+            "cầu long": [],
+            "cánh đồng lúa": [
+                "rộng lớn"
+            ],
+            "làng": [],
+            "ngôi làng": [
+                "tuyệt vời"
+            ],
+            "hành trình": [
+                "tuyệt vời"
+            ],
+            "người dân địa phương": [],
+            "họ": [],
+            "nhiếp ảnh gia": [
+                "tuyệt vời"
+            ],
+            "ngôi đền": [
+                "cổ"
+            ],
+            "ngôi chùa": [
+                "độc đáo",
+                "giàu"
+            ],
+            "văn hóa": [],
+            "ngôi nhà": [
+                "khác"
+            ],
+            "ông": [],
+            "con người": [
+                "phi thường"
+            ],
+            "chiến tranh": [
+                "đẹp",
+                "cùng"
+            ],
+            "cây bonsai": [
+                "đẹp",
+                "cùng"
+            ],
+            "xe đạp": [],
+            "câu chuyện": [],
+            "làng quê chiến tranh": [],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "bộ sưu tập cây cối": [],
+            "quán cà phê": [],
+            "di sản cũ": [],
+            "chuyến đi": [
+                "tuyệt vời",
+                "thân",
+                "hơn"
+            ],
+            "cầu long biên": [
+                "nổi bật"
+            ],
+            "con phố": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên": 4,
+            "chuyến thăm đường tàu": 1,
+            "chuyến thăm": 1,
+            "giao thông": 2,
+            "xe": 2,
+            "jeep": 1,
+            "chuyến tham quan": 3,
+            "trải nghiệm": 3,
+            "cảnh quan nông nghiệp": 1,
+            "khu vườn": 1,
+            "cánh đồng nông nghiệp": 1,
+            "đảo": 1,
+            "phòng": 1,
+            "thời tiết": 1,
+            "áo mưa": 1,
+            "uống nước": 1,
+            "cà phê": 2,
+            "chuyến du ngoạn": 1,
+            "đồ uống": 1,
+            "bia nước": 1,
+            "nhiên": 1,
+            "tour du lịch": 1,
+            "giá cạnh tranh": 1,
+            "thị trường": 1,
+            "văn phòng": 1,
+            "bảo hiểm": 1,
+            "nhân viên": 1,
+            "bữa ăn chính thống": 1,
+            "hợp vệ sinh": 1,
+            "nhà hàng": 1,
+            "người hướng dẫn": 2,
+            "món ăn": 1,
+            "nông thôn": 1,
+            "lịch sử": 1,
+            "người lái xe": 1,
+            "bảo tàng": 1,
+            "nhà hát": 1,
+            "bữa trưa": 1,
+            "cà phê trứng": 2,
+            "chuyến đi về quê": 1,
+            "cầu long": 1,
+            "cánh đồng lúa": 1,
+            "làng": 1,
+            "ngôi làng": 1,
+            "hành trình": 1,
+            "người dân địa phương": 1,
+            "họ": 1,
+            "nhiếp ảnh gia": 1,
+            "ngôi đền": 1,
+            "ngôi chùa": 1,
+            "văn hóa": 1,
+            "ngôi nhà": 1,
+            "ông": 1,
+            "con người": 1,
+            "chiến tranh": 1,
+            "cây bonsai": 1,
+            "xe đạp": 1,
+            "câu chuyện": 1,
+            "làng quê chiến tranh": 1,
+            "khoảng thời gian": 1,
+            "bộ sưu tập cây cối": 1,
+            "quán cà phê": 1,
+            "di sản cũ": 1,
+            "chuyến đi": 1,
+            "cầu long biên": 1,
+            "con phố": 1
+        }
     },
     {
         "attraction_name": "Asia Vespa Tours - Tours Jeep Hanoi",
@@ -678,7 +1716,168 @@
             "https://www.tripadvisor.com/Attraction_Review-g55213-d7161130-Reviews-Muddy_Pond_General_Store-Monterey_Tennessee.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or70-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or60-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or60-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.5516317337816065,
+            "hướng dẫn viên": 0.9954606243700255,
+            "vùng ngoại": 0.5,
+            "khi": 0.5,
+            "vùng nông thôn hơn": 0.5,
+            "lịch sử": 0.7067693544377107,
+            "món ăn": 0.9955083426903002,
+            "chuyến lưu diễn": 0.8737692800350487,
+            "thomas": 0.8737692800350487,
+            "tổng quan": 0.9953822379466146,
+            "trung tâm thành phố": 0.5,
+            "trải nghiệm": 0.978993100579828,
+            "xe tay ga khổng lồ": 0.5,
+            "trực quan": 0.8221206804737449,
+            "đồ ăn": 0.9955240787821822,
+            "đồ uống": 0.9954967935336754,
+            "giờ": 0.9955788582446985,
+            "buổi sáng": 0.9916528827743605,
+            "đồ lưu niệm": 0.9932860865374096,
+            "cà phê": 0.7476906005758792,
+            "túi thêu": 0.5,
+            "thức ăn": 0.9930669809691608,
+            "loại phở": 0.9574771421030164,
+            "lối": 0.9444939577952027,
+            "tay đua xe đạp": -0.9057694794610143,
+            "điểm giao": 0.5,
+            "bữa trưa": 0.5,
+            "quán cà phê": 0.5526855252683163,
+            "cà phê trứng": 0.5,
+            "hướng dẫn viên du lịch": 0.9938418111996725,
+            "chuyến đi": 0.9955438388278708,
+            "khu du lịch": 0.5,
+            "vùng nông thôn": 0.5
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "suốt",
+                "khác",
+                "tuyệt vời",
+                "ngon",
+                "hoàn hảo",
+                "thân thiện",
+                "sẵn",
+                "cụ thể"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "vùng ngoại": [],
+            "khi": [],
+            "vùng nông thôn hơn": [],
+            "lịch sử": [
+                "tốt bụng",
+                "nhiều",
+                "kiên nhẫn"
+            ],
+            "món ăn": [
+                "ngon",
+                "hoàn hảo"
+            ],
+            "chuyến lưu diễn": [
+                "tuyệt vời"
+            ],
+            "thomas": [
+                "tuyệt vời"
+            ],
+            "tổng quan": [
+                "tuyệt vời"
+            ],
+            "trung tâm thành phố": [],
+            "trải nghiệm": [
+                "đặc biệt"
+            ],
+            "xe tay ga khổng lồ": [],
+            "trực quan": [
+                "tôn trọng"
+            ],
+            "đồ ăn": [
+                "tuyệt vời"
+            ],
+            "đồ uống": [
+                "tuyệt vời"
+            ],
+            "giờ": [
+                "tuyệt vời"
+            ],
+            "buổi sáng": [
+                "thân thiện"
+            ],
+            "đồ lưu niệm": [
+                "tốt"
+            ],
+            "cà phê": [
+                "đặc biệt"
+            ],
+            "túi thêu": [],
+            "thức ăn": [
+                "tuyệt vời"
+            ],
+            "loại phở": [
+                "đặc biệt"
+            ],
+            "lối": [
+                "pescetarian"
+            ],
+            "tay đua xe đạp": [
+                "tài năng"
+            ],
+            "điểm giao": [],
+            "bữa trưa": [],
+            "quán cà phê": [],
+            "cà phê trứng": [],
+            "hướng dẫn viên du lịch": [
+                "thú vị",
+                "giàu"
+            ],
+            "chuyến đi": [
+                "tuyệt vời"
+            ],
+            "khu du lịch": [],
+            "vùng nông thôn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 3,
+            "hướng dẫn viên": 2,
+            "vùng ngoại": 1,
+            "khi": 1,
+            "vùng nông thôn hơn": 1,
+            "lịch sử": 4,
+            "món ăn": 1,
+            "chuyến lưu diễn": 1,
+            "thomas": 1,
+            "tổng quan": 1,
+            "trung tâm thành phố": 1,
+            "trải nghiệm": 1,
+            "xe tay ga khổng lồ": 1,
+            "trực quan": 1,
+            "đồ ăn": 1,
+            "đồ uống": 1,
+            "giờ": 1,
+            "buổi sáng": 1,
+            "đồ lưu niệm": 1,
+            "cà phê": 2,
+            "túi thêu": 1,
+            "thức ăn": 1,
+            "loại phở": 1,
+            "lối": 1,
+            "tay đua xe đạp": 1,
+            "điểm giao": 1,
+            "bữa trưa": 1,
+            "quán cà phê": 1,
+            "cà phê trứng": 1,
+            "hướng dẫn viên du lịch": 1,
+            "chuyến đi": 1,
+            "khu du lịch": 1,
+            "vùng nông thôn": 1
+        }
     },
     {
         "attraction_name": "Asia Vespa Tours - Tours Jeep Hanoi",
@@ -776,7 +1975,96 @@
             "https://www.tripadvisor.com/Attraction_Review-g424963-d10463733-Reviews-Sri_Lanka_Navy_Museum-Trincomalee_Eastern_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or80-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or70-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or70-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9816682312715177,
+            "tour riêng": 0.9692014381289482,
+            "hướng dẫn viên du lịch": 0.9952712436206639,
+            "chuyến đi việt nam": 0.9798226382117718,
+            "đường tàu": 0.9954829844064079,
+            "tàu": 0.9954776298836805,
+            "chuyến tham quan": 0.9595761169184698,
+            "nông thôn": 0.5,
+            "người dân địa phương": 0.5,
+            "bữa trưa": 0.7230572117259726,
+            "cà phê": 0.5,
+            "trải nghiệm": 0.9955787756480277,
+            "vùng ngoại ô": 0.5,
+            "ngôi làng": 0.5,
+            "vùng nông thôn": 0.992591422284022,
+            "hướng dẫn viên": 0.9900872234720737,
+            "buổi sáng": 0.9943491260055453
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "tuyệt vời",
+                "đủ",
+                "tích cực",
+                "vui",
+                "bổ ích",
+                "ngon",
+                "nổi bật",
+                "nhất"
+            ],
+            "tour riêng": [],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời"
+            ],
+            "chuyến đi việt nam": [],
+            "đường tàu": [
+                "hoàn hảo"
+            ],
+            "tàu": [
+                "hoàn hảo"
+            ],
+            "chuyến tham quan": [
+                "già",
+                "trẻ",
+                "khác",
+                "tuyệt vời",
+                "tuyệt vời",
+                "khuyến khích"
+            ],
+            "nông thôn": [],
+            "người dân địa phương": [],
+            "bữa trưa": [],
+            "cà phê": [],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "vùng ngoại ô": [],
+            "ngôi làng": [],
+            "vùng nông thôn": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "thực sự"
+            ],
+            "buổi sáng": [
+                "khuyến khích"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 2,
+            "tour riêng": 1,
+            "hướng dẫn viên du lịch": 1,
+            "chuyến đi việt nam": 1,
+            "đường tàu": 1,
+            "tàu": 1,
+            "chuyến tham quan": 4,
+            "nông thôn": 2,
+            "người dân địa phương": 2,
+            "bữa trưa": 2,
+            "cà phê": 1,
+            "trải nghiệm": 1,
+            "vùng ngoại ô": 1,
+            "ngôi làng": 1,
+            "vùng nông thôn": 1,
+            "hướng dẫn viên": 1,
+            "buổi sáng": 1
+        }
     },
     {
         "attraction_name": "Asia Vespa Tours - Tours Jeep Hanoi",
@@ -872,7 +2160,210 @@
             "https://www.tripadvisor.com/Attraction_Review-g57030-d21234270-Reviews-Peek_A_Boo_Slot_Canyon-Kanab_Utah.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or90-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or80-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or80-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tour can be": 0.9946961647365242,
+            "chuyến đi xe đạp": 0.2755021736181031,
+            "khách sạn": 0.5,
+            "chuyến đi": 0.700716719419385,
+            "thái độ": -0.5055048073991202,
+            "hướng dẫn viên nhân viên": 0.5,
+            "nhà địa phương": 0.5,
+            "hướng dẫn viên": 0.8457754146850979,
+            "đồ vật": 0.5,
+            "xe đạp": 0.5,
+            "sức khỏe": 0.5,
+            "chuyến tham quan": 0.3543721578316763,
+            "bữa trưa": 0.8141892882995307,
+            "đồ uống": 0.6512940563261509,
+            "trải nghiệm": 0.9284658064425457,
+            "ẩm thực": 0.5,
+            "áo": 0.5,
+            "bún chả": 0.5,
+            "mì obama": 0.8737692800350487,
+            "giá cả": 0.9954994117142633,
+            "người hướng dẫn": 0.9954222528031096,
+            "giao thông": 0.9578286446630955,
+            "đại sứ": 0.9953617930877954,
+            "văn hóa việt nam": 0.8737692800350487,
+            "nhiếp ảnh gia": 0.9955536880297586,
+            "khu phố cổ": 0.45577818527817726,
+            "combo": 0.5,
+            "đồng quê": 0.5,
+            "không gian sống": 0.6403945200145245,
+            "người dân": 0.5,
+            "phố tàu": 0.853956738486886,
+            "hồ": 0.5,
+            "tưởng niệm": 0.5,
+            "bi": 0.5,
+            "con người": 0.5,
+            "người lái xe": 0.9437985091547793,
+            "kiến ​​thức": 0.9890188548015431,
+            "câu chuyện": 0.9954204599489458,
+            "thợ may": 0.9953561447327957
+        },
+        "dicts_adj": {
+            "tour can be": [],
+            "chuyến đi xe đạp": [
+                "gần",
+                "toàn diện",
+                "hơn",
+                "liên tục",
+                "bất thường",
+                "sớm",
+                "hơn",
+                "khoảng"
+            ],
+            "khách sạn": [],
+            "chuyến đi": [
+                "nghiêm túc",
+                "hiếm",
+                "bất kỳ",
+                "tích cực",
+                "khác",
+                "thú vị",
+                "tuyệt vời",
+                "tốt bụng",
+                "giỏi"
+            ],
+            "thái độ": [
+                "nghiêm túc",
+                "hiếm",
+                "bất kỳ",
+                "tích cực"
+            ],
+            "hướng dẫn viên nhân viên": [],
+            "nhà địa phương": [],
+            "hướng dẫn viên": [
+                "sâu sắc",
+                "nhanh chóng",
+                "hợp lý",
+                "cao",
+                "tuyệt vời",
+                "cao",
+                "vui",
+                "cùng"
+            ],
+            "đồ vật": [],
+            "xe đạp": [],
+            "sức khỏe": [],
+            "chuyến tham quan": [
+                "riêng",
+                "đắt đỏ",
+                "duy nhất",
+                "khác",
+                "no"
+            ],
+            "bữa trưa": [
+                "hợp lý",
+                "cao"
+            ],
+            "đồ uống": [
+                "hợp lý",
+                "cao"
+            ],
+            "trải nghiệm": [
+                "tốt",
+                "tốt"
+            ],
+            "ẩm thực": [],
+            "áo": [],
+            "bún chả": [],
+            "mì obama": [
+                "khác"
+            ],
+            "giá cả": [
+                "thực sự"
+            ],
+            "người hướng dẫn": [
+                "tuyệt vời"
+            ],
+            "giao thông": [
+                "thực sự",
+                "an toàn"
+            ],
+            "đại sứ": [
+                "tuyệt vời"
+            ],
+            "văn hóa việt nam": [
+                "tuyệt vời"
+            ],
+            "nhiếp ảnh gia": [
+                "tuyệt vời"
+            ],
+            "khu phố cổ": [],
+            "combo": [],
+            "đồng quê": [],
+            "không gian sống": [
+                "khác"
+            ],
+            "người dân": [],
+            "phố tàu": [
+                "nổi bật"
+            ],
+            "hồ": [],
+            "tưởng niệm": [],
+            "bi": [],
+            "con người": [],
+            "người lái xe": [
+                "cao",
+                "vui",
+                "cùng"
+            ],
+            "kiến ​​thức": [
+                "tốt"
+            ],
+            "câu chuyện": [
+                "thú vị"
+            ],
+            "thợ may": [
+                "tuyệt vời",
+                "xuất sắc"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tour can be": 1,
+            "chuyến đi xe đạp": 1,
+            "khách sạn": 1,
+            "chuyến đi": 3,
+            "thái độ": 1,
+            "hướng dẫn viên nhân viên": 1,
+            "nhà địa phương": 1,
+            "hướng dẫn viên": 3,
+            "đồ vật": 1,
+            "xe đạp": 1,
+            "sức khỏe": 1,
+            "chuyến tham quan": 2,
+            "bữa trưa": 1,
+            "đồ uống": 1,
+            "trải nghiệm": 2,
+            "ẩm thực": 1,
+            "áo": 1,
+            "bún chả": 1,
+            "mì obama": 1,
+            "giá cả": 1,
+            "người hướng dẫn": 1,
+            "giao thông": 1,
+            "đại sứ": 1,
+            "văn hóa việt nam": 1,
+            "nhiếp ảnh gia": 1,
+            "khu phố cổ": 1,
+            "combo": 1,
+            "đồng quê": 1,
+            "không gian sống": 1,
+            "người dân": 1,
+            "phố tàu": 1,
+            "hồ": 1,
+            "tưởng niệm": 1,
+            "bi": 1,
+            "con người": 1,
+            "người lái xe": 1,
+            "kiến ​​thức": 1,
+            "câu chuyện": 1,
+            "thợ may": 1
+        }
     },
     {
         "attraction_name": "Asia Vespa Tours - Tours Jeep Hanoi",
@@ -968,6 +2459,128 @@
             "https://www.tripadvisor.com/Attraction_Review-g469404-d7181552-Reviews-The_Flea_Market_Seminyak-Seminyak_Kuta_District_Bali.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or100-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or90-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14199330-Reviews-or90-Asia_Vespa_Tours_Tours_Jeep_Hanoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9951952476112638,
+            "chuyến tham quan": 0.8295813344981676,
+            "ẩm thực": 0.5,
+            "thức ăn": 0.9955821659532376,
+            "chuyến đi": 0.9934791762789246,
+            "kiến thức": 0.8737692800350487,
+            "hướng dẫn viên du lịch": 0.9953410740708932,
+            "đồ ăn": 0.5,
+            "bữa trưa": 0.5,
+            "khoảng thời gian": 0.758065264497418,
+            "chuyến lưu diễn": 0.5,
+            "người lái xe": 0.8737692800350487,
+            "giao thông": 0.5055888332426548,
+            "kiến ​​thức": 0.9954728843295015,
+            "xe đạp": 0.3415203895419836,
+            "nền": 0.992187803669367,
+            "văn hóa": 0.2549152713327203,
+            "lịch sử": 0.9837316563643981,
+            "món ăn": 0.9934672191448044,
+            "con người": 0.5,
+            "thành phố": 0.8708669083813826,
+            "văn hóa ẩm thực": 0.40074118653622764
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời",
+                "thực sự",
+                "đặc biệt",
+                "an toàn",
+                "đầy"
+            ],
+            "chuyến tham quan": [
+                "tốt",
+                "khuyến khích",
+                "tuyệt vời"
+            ],
+            "ẩm thực": [],
+            "thức ăn": [
+                "ngon"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "kiến thức": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời"
+            ],
+            "đồ ăn": [],
+            "bữa trưa": [],
+            "khoảng thời gian": [
+                "tuyệt vời",
+                "nhất"
+            ],
+            "chuyến lưu diễn": [],
+            "người lái xe": [
+                "xuất sắc"
+            ],
+            "giao thông": [
+                "đông đúc"
+            ],
+            "kiến ​​thức": [
+                "hữu ích"
+            ],
+            "xe đạp": [],
+            "nền": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "văn hóa": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "lịch sử": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "món ăn": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "con người": [],
+            "thành phố": [
+                "tuyệt vời",
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "văn hóa ẩm thực": [
+                "tuyệt vời",
+                "thực sự",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 2,
+            "chuyến tham quan": 3,
+            "ẩm thực": 1,
+            "thức ăn": 1,
+            "chuyến đi": 2,
+            "kiến thức": 1,
+            "hướng dẫn viên du lịch": 1,
+            "đồ ăn": 1,
+            "bữa trưa": 1,
+            "khoảng thời gian": 1,
+            "chuyến lưu diễn": 1,
+            "người lái xe": 1,
+            "giao thông": 1,
+            "kiến ​​thức": 1,
+            "xe đạp": 1,
+            "nền": 1,
+            "văn hóa": 2,
+            "lịch sử": 1,
+            "món ăn": 1,
+            "con người": 1,
+            "thành phố": 1,
+            "văn hóa ẩm thực": 1
+        }
     }
 ]
