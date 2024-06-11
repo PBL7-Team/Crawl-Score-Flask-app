@@ -32,6 +32,8 @@ def tokenizer():
     do_lower_case=True
 )
 
+BERT_TOKENIZER = tokenizer()
+
 def vie_stopwords_path():
   current_directory = os.path.dirname(os.path.abspath(__file__))  # Lấy thư mục chứa chương trình đang chạy
   return os.path.join(current_directory, "vietnamese-stopwords.txt")
@@ -109,7 +111,7 @@ class EntityDataset:
         target_tag =[]
 
         for i, s in enumerate(text):
-            inputs = tokenizer().encode(
+            inputs = BERT_TOKENIZER.encode(
                 str(s),
                 add_special_tokens=False
             )
@@ -173,7 +175,7 @@ def reverse_tokenize(ids, tags):
     tokens = []
     tags_list = []
     for token_id, tag in zip(ids, tags):
-        token = tokenizer().decode(token_id)
+        token = BERT_TOKENIZER.decode(token_id)
         token = token.replace(' ', '')
         token_array = np.array(list(token))
         token_string = ''.join(token_array)
@@ -222,7 +224,7 @@ def entitesExtraction(text):
     # text = preprocess.remove_stopwords(text)
     # text = remove_stopwords(text)
     text = remove_punctuation(text)
-    tokenized_sentence = tokenizer().encode(text)
+    tokenized_sentence = BERT_TOKENIZER.encode(text)
     tags = predict_sentence(model_bert_keyphrase, text, enc_tag)
     reversed_tokens, reversed_tags = reverse_tokenize(tokenized_sentence, tags)
     return text, reversed_tokens, reversed_tags
