@@ -86,6 +86,50 @@
             "https://www.tripadvisor.com/Attraction_Review-g42217-d1065706-Reviews-Crystal_Lake-Frankfort_Benzie_County_Michigan.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d25106960-Reviews-Ho_Tien_Quang-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d25106960-Reviews-Ho_Tien_Quang-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cà phê": 0.5171768944710493,
+            "đồ ăn nhẹ": 0.7613135119900107,
+            "bữa trưa": 0.6623537885025144,
+            "bữa tối trà": 0.9663735940121114,
+            "mặt nước lặng": 0.9896569938864559,
+            "hồ": 0.4226906492064397,
+            "khu phố": 0.5
+        },
+        "dicts_adj": {
+            "cà phê": [
+                "nhiều"
+            ],
+            "đồ ăn nhẹ": [
+                "nhanh"
+            ],
+            "bữa trưa": [
+                "nhanh"
+            ],
+            "bữa tối trà": [
+                "nhanh"
+            ],
+            "mặt nước lặng": [
+                "Tuyệt vời",
+                "nóng"
+            ],
+            "hồ": [
+                "nhỏ",
+                "nổi tiếng",
+                "hơn"
+            ],
+            "khu phố": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cà phê": 1,
+            "đồ ăn nhẹ": 1,
+            "bữa trưa": 1,
+            "bữa tối trà": 1,
+            "mặt nước lặng": 1,
+            "hồ": 1,
+            "khu phố": 1
+        }
     }
 ]

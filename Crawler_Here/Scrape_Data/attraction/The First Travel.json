@@ -81,7 +81,148 @@
             "https://www.tripadvisor.com/Attraction_Review-g54258-d2491924-Reviews-Haywood_Mall-Greenville_South_Carolina.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or10-The_First_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-The_First_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-The_First_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên": 0.8302441090539409,
+            "quang": 0.5,
+            "tour": 0.9933018779847771,
+            "dòng sông": 0.8737691454589367,
+            "núi": 0.7477754007268231,
+            "tầm nhìn": 0.995513335452415,
+            "hướng dẫn viên du lịch": 0.9955576553475112,
+            "chuyến tham quan": 0.994874046271434,
+            "chuyến đi": 0.8937345949059818,
+            "người hướng dẫn": 0.9933197582140565,
+            "người hướng dẫn du lịch": 0.9934168330801185,
+            "cảnh đẹp": 0.990830700728111,
+            "thức ăn": 0.9955236169626005,
+            "người dân địa phương": 0.9954559150501154,
+            "phong cảnh": 0.9955314134713262,
+            "lịch sử": 0.5,
+            "kiến ​​thức": 0.9885199062991887,
+            "tam cốc": 0.8737691454589367,
+            "ninh bình": 0.8737691454589367,
+            "thời tiết": 0.9955836872686632,
+            "chuyến du lịch": 0.718126829713583,
+            "người nông dân": 0.9918526415713131,
+            "di tích cổ": 0.9897370910039172,
+            "trải nghiệm": 0.5,
+            "bầu không khí": 0.9952833281131461
+        },
+        "dicts_adj": {
+            "hướng dẫn viên": [
+                "đặc biệt",
+                "vui vẻ",
+                "hiểu biết"
+            ],
+            "quang": [],
+            "tour": [
+                "rảnh rỗi",
+                "thẳng"
+            ],
+            "dòng sông": [
+                "đẹp"
+            ],
+            "núi": [
+                "đẹp"
+            ],
+            "tầm nhìn": [
+                "đẹp"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "chuyến tham quan": [
+                "vui vẻ",
+                "nhiều",
+                "tốt"
+            ],
+            "chuyến đi": [
+                "bất kỳ",
+                "vui",
+                "thực sự",
+                "bất kỳ",
+                "tuyệt vời",
+                "nhiều",
+                "tốt đẹp",
+                "đẹp",
+                "đầu tiên",
+                "nhiều",
+                "tốt đẹp"
+            ],
+            "người hướng dẫn": [
+                "tuyệt vời"
+            ],
+            "người hướng dẫn du lịch": [
+                "xuất sắc",
+                "giỏi",
+                "đầu tiên"
+            ],
+            "cảnh đẹp": [],
+            "thức ăn": [
+                "tuyệt vời"
+            ],
+            "người dân địa phương": [],
+            "phong cảnh": [
+                "đẹp",
+                "đẹp"
+            ],
+            "lịch sử": [],
+            "kiến ​​thức": [
+                "chuyên nghiệp"
+            ],
+            "tam cốc": [
+                "tuyệt vời"
+            ],
+            "ninh bình": [
+                "tuyệt vời"
+            ],
+            "thời tiết": [
+                "tuyệt vời",
+                "đúng"
+            ],
+            "chuyến du lịch": [
+                "đầu tiên"
+            ],
+            "người nông dân": [],
+            "di tích cổ": [],
+            "trải nghiệm": [],
+            "bầu không khí": [
+                "đẹp",
+                "thoải mái",
+                "trong lành"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên": 1.5,
+            "quang": 0.5,
+            "tour": 0.5,
+            "dòng sông": 0.5,
+            "núi": 1.0,
+            "tầm nhìn": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "chuyến tham quan": 1.0,
+            "chuyến đi": 2.5,
+            "người hướng dẫn": 0.5,
+            "người hướng dẫn du lịch": 1.0,
+            "cảnh đẹp": 0.5,
+            "thức ăn": 0.5,
+            "người dân địa phương": 0.5,
+            "phong cảnh": 0.5,
+            "lịch sử": 0.5,
+            "kiến ​​thức": 0.5,
+            "tam cốc": 0.5,
+            "ninh bình": 0.5,
+            "thời tiết": 0.5,
+            "chuyến du lịch": 1.0,
+            "người nông dân": 0.5,
+            "di tích cổ": 0.5,
+            "trải nghiệm": 0.5,
+            "bầu không khí": 0.5
+        }
     },
     {
         "attraction_name": "The First Travel",
@@ -166,7 +307,211 @@
             "https://www.tripadvisor.com/Attraction_Review-g46850-d106477-Reviews-Seven_Mile_Beach-Stone_Harbor_Cape_May_County_New_Jersey.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or20-The_First_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or10-The_First_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or10-The_First_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhà trọ": 0.5080714104697108,
+            "chuyến đi": 0.9068934955575969,
+            "hướng dẫn viên du lịch": 0.9951790309278294,
+            "ngọn": 0.08553621806204319,
+            "núi": 0.003218427300453186,
+            "thuyền": 0.18177742266561836,
+            "sông": -0.16644716076552868,
+            "giá": 0.017892641539219767,
+            "hướng": -0.9442358002997935,
+            "tiền": -0.9022643086500466,
+            "ngôi sao": 0.9603577728848904,
+            "người hướng dẫn": 0.8294305121526122,
+            "người": 0.995410350500606,
+            "hướng dẫn viên": 0.5,
+            "đồ ăn": 0.6868845727294683,
+            "trải nghiệm": 0.8737691454589367,
+            "chuyến du lịch": 0.8737691454589367,
+            "mọi": 0.9905067549552768,
+            "tour": 0.9945126681705005,
+            "đạp xe": 0.9954097789013758,
+            "ăn trưa": 0.9953785286052153,
+            "chuyến tham quan": 0.009921756631229073,
+            "chuyến đi thuyền": 0.9781343487557024,
+            "thực phẩm": 0.995544045465067,
+            "nhà dân": 0.5140601377934217,
+            "lẩu": 0.9955595530336723,
+            "bò": 0.9956016220385209,
+            "chao âu": 0.8737691454589367,
+            "tàu": 0.8737691454589367,
+            "địa điểm": 0.9920147304655984,
+            "cột cờ lũng": 0.8737691454589367,
+            "hoa": 0.5,
+            "tam giác mạch": 0.8737691454589367,
+            "vách đá thần": 0.4750470407307148,
+            "thời tiết": 0.8737691454589367,
+            "sương mù": 0.5,
+            "bùn lầy": 0.5
+        },
+        "dicts_adj": {
+            "nhà trọ": [],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tốt",
+                "chu đáo",
+                "cùng",
+                "tốt",
+                "ổn",
+                "đầu tiên"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "ngọn": [
+                "vội vã",
+                "nóng",
+                "gần",
+                "điên",
+                "vắng vẻ"
+            ],
+            "núi": [
+                "vội vã",
+                "nóng",
+                "gần",
+                "điên",
+                "vắng vẻ"
+            ],
+            "thuyền": [
+                "gần",
+                "gần",
+                "ngon"
+            ],
+            "sông": [
+                "gần"
+            ],
+            "giá": [
+                "gần",
+                "tốt"
+            ],
+            "hướng": [
+                "gần"
+            ],
+            "tiền": [
+                "gần"
+            ],
+            "ngôi sao": [
+                "tốt bụng"
+            ],
+            "người hướng dẫn": [
+                "tốt bụng"
+            ],
+            "người": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [],
+            "đồ ăn": [
+                "ngon",
+                "rẻ"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "thực sự",
+                "đầu tiên"
+            ],
+            "chuyến du lịch": [
+                "tuyệt vời",
+                "thực sự",
+                "đầu tiên"
+            ],
+            "mọi": [],
+            "tour": [
+                "tốt",
+                "chuyên nghiệp"
+            ],
+            "đạp xe": [
+                "ngon"
+            ],
+            "ăn trưa": [
+                "ngon"
+            ],
+            "chuyến tham quan": [
+                "tốt"
+            ],
+            "chuyến đi thuyền": [],
+            "thực phẩm": [
+                "hoàn hảo"
+            ],
+            "nhà dân": [],
+            "lẩu": [
+                "ngon"
+            ],
+            "bò": [
+                "ngon"
+            ],
+            "chao âu": [
+                "ngon",
+                "rẻ"
+            ],
+            "tàu": [
+                "ngon",
+                "rẻ"
+            ],
+            "địa điểm": [
+                "đẹp"
+            ],
+            "cột cờ lũng": [
+                "nhiều"
+            ],
+            "hoa": [],
+            "tam giác mạch": [
+                "nhiều"
+            ],
+            "vách đá thần": [
+                "gần"
+            ],
+            "thời tiết": [
+                "đẹp",
+                "nhiều"
+            ],
+            "sương mù": [],
+            "bùn lầy": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhà trọ": 1.0,
+            "chuyến đi": 3.0,
+            "hướng dẫn viên du lịch": 1.0,
+            "ngọn": 0.5,
+            "núi": 0.5,
+            "thuyền": 1.5,
+            "sông": 1.0,
+            "giá": 1.0,
+            "hướng": 0.5,
+            "tiền": 0.5,
+            "ngôi sao": 0.5,
+            "người hướng dẫn": 0.5,
+            "người": 0.5,
+            "hướng dẫn viên": 0.5,
+            "đồ ăn": 1.0,
+            "trải nghiệm": 0.5,
+            "chuyến du lịch": 0.5,
+            "mọi": 0.5,
+            "tour": 0.5,
+            "đạp xe": 0.5,
+            "ăn trưa": 0.5,
+            "chuyến tham quan": 1.0,
+            "chuyến đi thuyền": 0.5,
+            "thực phẩm": 0.5,
+            "nhà dân": 0.5,
+            "lẩu": 0.5,
+            "bò": 0.5,
+            "chao âu": 0.5,
+            "tàu": 0.5,
+            "địa điểm": 0.5,
+            "cột cờ lũng": 0.5,
+            "hoa": 0.5,
+            "tam giác mạch": 0.5,
+            "vách đá thần": 0.5,
+            "thời tiết": 0.5,
+            "sương mù": 0.5,
+            "bùn lầy": 0.5
+        }
     },
     {
         "attraction_name": "The First Travel",
@@ -252,7 +597,184 @@
             "https://www.tripadvisor.com/Attraction_Review-g1188672-d6998903-Reviews-Keri_Beach-Limni_Keri_Zakynthos_Ionian_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or30-The_First_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or20-The_First_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or20-The_First_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9614420011421316,
+            "phong cảnh": 0.829390384496138,
+            "hướng dẫn viên": 0.9456306272380365,
+            "hang": 0.5,
+            "múa động": 0.5,
+            "tiên": 0.5,
+            "tràng an bằng": 0.5,
+            "thuyền": 0.983709277206799,
+            "tràng an": 0.8737691454589367,
+            "tam cốc": 0.8737691454589367,
+            "câu chuyện": 0.995479246485047,
+            "người hướng dẫn": 0.9853184309322387,
+            "cao nguyên đồng": 0.9951101451879367,
+            "trình bày": 0.9946068352437578,
+            "kỳ nghỉ": 0.9953676887671463,
+            "ẩm thực địa phương": 0.8330297665282463,
+            "điểm tham quan": 0.7917372741891692,
+            "tour": 0.8894225899130106,
+            "nhân viên": 0.5,
+            "chỗ": 0.5,
+            "chuyến phiêu lưu": 0.5,
+            "dịch vụ": 0.7388453577295877,
+            "đồ ăn": 0.5502594001591206,
+            "chuyến du lịch": 0.9946045081596822,
+            "lịch sử": 0.9613615430425853,
+            "chuyến tham quan": 0.6868845727294683,
+            "vịnh": 0.8737691454589367,
+            "hướng dẫn viên du lịch": 0.5,
+            "tam": 0.9954548802925274,
+            "cốc": 0.9955512534361333,
+            "quang cảnh": 0.9955730469082482,
+            "trải nghiệm": 0.9953076486708596
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "đẹp",
+                "thực sự",
+                "tuyệt vời",
+                "thú vị",
+                "nhiều",
+                "thú vị",
+                "nhiều",
+                "tốt bụng",
+                "ý nghĩa",
+                "hơn"
+            ],
+            "phong cảnh": [
+                "đẹp",
+                "đẹp",
+                "đông đúc",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "tốt bụng",
+                "nhiều",
+                "thú vị",
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "hang": [],
+            "múa động": [],
+            "tiên": [],
+            "tràng an bằng": [],
+            "thuyền": [
+                "đẹp",
+                "đông đúc",
+                "đẹp"
+            ],
+            "tràng an": [
+                "thực sự"
+            ],
+            "tam cốc": [
+                "thực sự"
+            ],
+            "câu chuyện": [
+                "thú vị",
+                "xuất sắc"
+            ],
+            "người hướng dẫn": [
+                "thực sự"
+            ],
+            "cao nguyên đồng": [
+                "đẹp"
+            ],
+            "trình bày": [],
+            "kỳ nghỉ": [
+                "dễ dàng",
+                "thú vị"
+            ],
+            "ẩm thực địa phương": [
+                "khác",
+                "chu đáo",
+                "tuyệt vời"
+            ],
+            "điểm tham quan": [
+                "khác",
+                "chu đáo",
+                "tuyệt vời"
+            ],
+            "tour": [
+                "bất kỳ",
+                "may mắn"
+            ],
+            "nhân viên": [],
+            "chỗ": [],
+            "chuyến phiêu lưu": [],
+            "dịch vụ": [
+                "tốt"
+            ],
+            "đồ ăn": [],
+            "chuyến du lịch": [
+                "đầu tiên"
+            ],
+            "lịch sử": [
+                "thực sự",
+                "kỹ lưỡng",
+                "tỉ mỉ",
+                "hay",
+                "xuất sắc"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời"
+            ],
+            "vịnh": [
+                "chuyên nghiệp"
+            ],
+            "hướng dẫn viên du lịch": [],
+            "tam": [
+                "đẹp"
+            ],
+            "cốc": [
+                "đẹp"
+            ],
+            "quang cảnh": [
+                "đẹp"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 2.0,
+            "phong cảnh": 1.5,
+            "hướng dẫn viên": 1.5,
+            "hang": 0.5,
+            "múa động": 0.5,
+            "tiên": 0.5,
+            "tràng an bằng": 0.5,
+            "thuyền": 1.0,
+            "tràng an": 0.5,
+            "tam cốc": 0.5,
+            "câu chuyện": 0.5,
+            "người hướng dẫn": 0.5,
+            "cao nguyên đồng": 0.5,
+            "trình bày": 0.5,
+            "kỳ nghỉ": 0.5,
+            "ẩm thực địa phương": 0.5,
+            "điểm tham quan": 0.5,
+            "tour": 0.5,
+            "nhân viên": 0.5,
+            "chỗ": 0.5,
+            "chuyến phiêu lưu": 0.5,
+            "dịch vụ": 1.0,
+            "đồ ăn": 0.5,
+            "chuyến du lịch": 0.5,
+            "lịch sử": 1.5,
+            "chuyến tham quan": 1.0,
+            "vịnh": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "tam": 0.5,
+            "cốc": 0.5,
+            "quang cảnh": 0.5,
+            "trải nghiệm": 0.5
+        }
     },
     {
         "attraction_name": "The First Travel",
@@ -338,7 +860,158 @@
             "https://www.tripadvisor.com/Attraction_Review-g295424-d11747357-Reviews-LEGOLAND_Dubai-Dubai_Emirate_of_Dubai.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or40-The_First_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or30-The_First_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or30-The_First_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "vịnh": 0.592285712249577,
+            "và3": 0.9955625245929696,
+            "tour": 0.9112794013538709,
+            "giá": 0.5,
+            "thuyền": 0.4456999170361087,
+            "xe buýt": 0.9955550090526231,
+            "thức ăn": 0.9143535457163429,
+            "bữa trưa": 0.9949978733784519,
+            "trải nghiệm": 0.7886147555157853,
+            "lịch trình": 0.9822287572314963,
+            "thời tiết": 0.9953206670470536,
+            "người lái xe": 0.5150965098291636,
+            "dịch vụ": 0.9941569048678502,
+            "coc": 0.993820752366446,
+            "người dân": 0.9063724055886269,
+            "chuyến du lịch": 0.9954779827967286,
+            "ngựa": 0.9903774237027392,
+            "thực phẩm": 0.9954869192442857,
+            "người dân tộc": 0.938567339675501,
+            "lái xe máy": 0.5,
+            "chuyến tham quan": 0.8019435238093138,
+            "khoảng thời gian": 0.994769949815236,
+            "hướng dẫn viên": 0.7897152828518301,
+            "thuyền tre": 0.5337861776351929,
+            "ninh bình": 0.9924831305397674,
+            "lịch sử": 0.952348155900836,
+            "chuyến đi": 0.8737691454589367,
+            "hang động": -0.0717868385836482,
+            "văn hóa": 0.9702069251798093
+        },
+        "dicts_adj": {
+            "vịnh": [],
+            "và3": [
+                "đẹp và3",
+                "đẹp"
+            ],
+            "tour": [
+                "tốt",
+                "tốt"
+            ],
+            "giá": [],
+            "thuyền": [
+                "dài",
+                "hơn"
+            ],
+            "xe buýt": [
+                "thoải mái",
+                "thân thiện"
+            ],
+            "thức ăn": [
+                "tươi",
+                "phong phú",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "bữa trưa": [
+                "tươi",
+                "phong phú"
+            ],
+            "trải nghiệm": [
+                "độc đáo",
+                "tuyệt vời"
+            ],
+            "lịch trình": [
+                "thông minh"
+            ],
+            "thời tiết": [
+                "hoàn hảo"
+            ],
+            "người lái xe": [],
+            "dịch vụ": [
+                "tốt"
+            ],
+            "coc": [],
+            "người dân": [
+                "nổi tiếng"
+            ],
+            "chuyến du lịch": [
+                "đầu tiên",
+                "vui vẻ"
+            ],
+            "ngựa": [
+                "giỏi"
+            ],
+            "thực phẩm": [],
+            "người dân tộc": [
+                "thân thiện",
+                "nhiều"
+            ],
+            "lái xe máy": [],
+            "chuyến tham quan": [],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "xuất sắc",
+                "thực sự",
+                "tốt bụng",
+                "xuất sắc"
+            ],
+            "thuyền tre": [],
+            "ninh bình": [
+                "nhiều"
+            ],
+            "lịch sử": [],
+            "chuyến đi": [
+                "dài",
+                "hơn"
+            ],
+            "hang động": [
+                "dài",
+                "hơn"
+            ],
+            "văn hóa": [
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "vịnh": 0.5,
+            "và3": 0.5,
+            "tour": 1.5,
+            "giá": 0.5,
+            "thuyền": 1.0,
+            "xe buýt": 0.5,
+            "thức ăn": 1.5,
+            "bữa trưa": 0.5,
+            "trải nghiệm": 1.5,
+            "lịch trình": 0.5,
+            "thời tiết": 0.5,
+            "người lái xe": 0.5,
+            "dịch vụ": 0.5,
+            "coc": 0.5,
+            "người dân": 0.5,
+            "chuyến du lịch": 0.5,
+            "ngựa": 0.5,
+            "thực phẩm": 0.5,
+            "người dân tộc": 1.0,
+            "lái xe máy": 0.5,
+            "chuyến tham quan": 0.5,
+            "khoảng thời gian": 0.5,
+            "hướng dẫn viên": 1.5,
+            "thuyền tre": 0.5,
+            "ninh bình": 0.5,
+            "lịch sử": 0.5,
+            "chuyến đi": 0.5,
+            "hang động": 0.5,
+            "văn hóa": 0.5
+        }
     },
     {
         "attraction_name": "The First Travel",
@@ -424,7 +1097,190 @@
             "https://www.tripadvisor.com/Attraction_Review-g60763-d7343450-Reviews-Mood_Fabrics-New_York_City_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or50-The_First_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or40-The_First_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or40-The_First_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9949081869136233,
+            "phong cảnh": 0.6463985631320005,
+            "bức ảnh": 0.995539412193466,
+            "chuyến du lịch": 0.994946377875749,
+            "đồ ăn": 0.8737691454589367,
+            "nhà hàng địa phương": 0.9954905941849574,
+            "thức ăn": 0.8525905185379088,
+            "lịch sử": 0.5706738699227571,
+            "chuyến tham quan": 0.8004069587273989,
+            "hướng dẫn viên du lịch": 0.9953048159756387,
+            "khu vực": 0.5,
+            "trang an": 0.9948920585447922,
+            "tour": 0.7460281100065913,
+            "xe buýt": 0.9926548281218857,
+            "thực đơn": 0.7547202283749357,
+            "hướng dẫn viên": 0.9545407760888338,
+            "xe đạp": 0.9954288127482869,
+            "cánh đồng lúa": 0.5,
+            "núi": 0.5,
+            "thuyền": 0.5,
+            "hang": 0.8737691454589367,
+            "ký túc xá": 0.5,
+            "văn hóa việt nam": 0.9955275773536414,
+            "con người người": 0.5,
+            "cốc": 0.5,
+            "tam": 0.8737691454589367,
+            "phong thủy": 0.5,
+            "đô hoa lư": 0.8737691454589367,
+            "tour du lịch": 0.5297305081039667,
+            "chuyến đi thuyền": 0.5638244859874249,
+            "sông": 0.5
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "tuyệt vời",
+                "vui vẻ",
+                "tuyệt vời",
+                "vui vẻ",
+                "thú vị",
+                "đặc biệt",
+                "tốt"
+            ],
+            "phong cảnh": [
+                "tuyệt vời",
+                "nhiều",
+                "khác",
+                "tuyệt vời"
+            ],
+            "bức ảnh": [
+                "đẹp",
+                "đẹp"
+            ],
+            "chuyến du lịch": [
+                "đầu tiên",
+                "đầu tiên",
+                "tốt"
+            ],
+            "đồ ăn": [
+                "ngon",
+                "ngon"
+            ],
+            "nhà hàng địa phương": [
+                "ngon",
+                "ngon"
+            ],
+            "thức ăn": [
+                "tốt",
+                "nhiều",
+                "nhiều",
+                "sẵn",
+                "hoàn hảo"
+            ],
+            "lịch sử": [
+                "nhiều",
+                "khác"
+            ],
+            "chuyến tham quan": [
+                "nhiều",
+                "ngẫu nhiên",
+                "tuyệt vời",
+                "vui vẻ",
+                "nhiều",
+                "cuối cùng",
+                "chặt chẽ",
+                "đúng",
+                "suôn sẻ"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "vui vẻ",
+                "nhiều"
+            ],
+            "khu vực": [],
+            "trang an": [
+                "tuyệt vời"
+            ],
+            "tour": [
+                "tốt"
+            ],
+            "xe buýt": [
+                "thoải mái"
+            ],
+            "thực đơn": [
+                "sẵn",
+                "hoàn hảo"
+            ],
+            "hướng dẫn viên": [
+                "hoàn hảo",
+                "xinh đẹp",
+                "vui tính",
+                "lịch sự",
+                "tuyệt vời"
+            ],
+            "xe đạp": [
+                "thú vị"
+            ],
+            "cánh đồng lúa": [],
+            "núi": [],
+            "thuyền": [],
+            "hang": [
+                "nhiều"
+            ],
+            "ký túc xá": [],
+            "văn hóa việt nam": [
+                "tuyệt vời",
+                "thân thiện"
+            ],
+            "con người người": [],
+            "cốc": [],
+            "tam": [
+                "vui vẻ"
+            ],
+            "phong thủy": [],
+            "đô hoa lư": [
+                "nhiều",
+                "thú vị"
+            ],
+            "tour du lịch": [
+                "nhỏ",
+                "nhiều"
+            ],
+            "chuyến đi thuyền": [
+                "thú vị",
+                "đặc biệt"
+            ],
+            "sông": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 2.5,
+            "phong cảnh": 1.5,
+            "bức ảnh": 1.0,
+            "chuyến du lịch": 1.0,
+            "đồ ăn": 0.5,
+            "nhà hàng địa phương": 0.5,
+            "thức ăn": 1.0,
+            "lịch sử": 0.5,
+            "chuyến tham quan": 1.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "khu vực": 0.5,
+            "trang an": 0.5,
+            "tour": 1.0,
+            "xe buýt": 0.5,
+            "thực đơn": 0.5,
+            "hướng dẫn viên": 1.5,
+            "xe đạp": 0.5,
+            "cánh đồng lúa": 0.5,
+            "núi": 0.5,
+            "thuyền": 1.0,
+            "hang": 0.5,
+            "ký túc xá": 0.5,
+            "văn hóa việt nam": 0.5,
+            "con người người": 0.5,
+            "cốc": 0.5,
+            "tam": 0.5,
+            "phong thủy": 0.5,
+            "đô hoa lư": 0.5,
+            "tour du lịch": 0.5,
+            "chuyến đi thuyền": 0.5,
+            "sông": 0.5
+        }
     },
     {
         "attraction_name": "The First Travel",
@@ -510,7 +1366,150 @@
             "https://www.tripadvisor.com/Attraction_Review-g295370-d12589033-Reviews-SNAV-Split_Split_Dalmatia_County_Dalmatia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or60-The_First_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or50-The_First_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or50-The_First_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tour du lịch": 0.9575929978008692,
+            "tượng": 0.5,
+            "cảnh quan": 0.5,
+            "thuyền": 0.5,
+            "sông": 0.5,
+            "lắng": 0.5,
+            "núi": 0.5,
+            "tiếng": 0.5,
+            "chim": 0.5,
+            "tam": 0.5,
+            "cốc": 0.5,
+            "thắng cảnh": 0.994898080767598,
+            "người miền": 0.5,
+            "núi sương mù": 0.5,
+            "dân tộc": 0.5,
+            "kiến ​​thức": 0.9955409487592988,
+            "nhà trọ": 0.5,
+            "đồ ăn": 0.5,
+            "xe": 0.5,
+            "giường": 0.5,
+            "hang": 0.5190396029502153,
+            "hướng dẫn viên du lịch": 0.7477582834253553,
+            "chuyến du lịch": 0.995233214343898,
+            "hoa lư cố đô": 0.9545362992212176,
+            "cảnh": 0.5,
+            "tràng an": 0.5,
+            "chuyến đi bộ": 0.994764759670943,
+            "vịnh": 0.9797042224090546,
+            "chuyến tham quan": 0.9746292706113309,
+            "nhân viên": 0.6262645814567804,
+            "hướng dẫn viên": 0.46125735715031624,
+            "chuyến lưu diễn": 0.9944766387343407
+        },
+        "dicts_adj": {
+            "tour du lịch": [
+                "đầu tiên",
+                "hiện đại",
+                "nhỏ",
+                "dễ",
+                "hơn",
+                "tốt"
+            ],
+            "tượng": [],
+            "cảnh quan": [],
+            "thuyền": [],
+            "sông": [],
+            "lắng": [],
+            "núi": [],
+            "tiếng": [],
+            "chim": [],
+            "tam": [],
+            "cốc": [],
+            "thắng cảnh": [
+                "đẹp",
+                "đẹp"
+            ],
+            "người miền": [],
+            "núi sương mù": [],
+            "dân tộc": [],
+            "kiến ​​thức": [
+                "thân thiện",
+                "phong phú"
+            ],
+            "nhà trọ": [],
+            "đồ ăn": [],
+            "xe": [],
+            "giường": [],
+            "hang": [
+                "cùng"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "chuyến du lịch": [
+                "đầu tiên"
+            ],
+            "hoa lư cố đô": [
+                "đầy đủ"
+            ],
+            "cảnh": [],
+            "tràng an": [],
+            "chuyến đi bộ": [
+                "thực sự",
+                "nóng",
+                "hoàn toàn",
+                "xứng đáng"
+            ],
+            "vịnh": [
+                "nhanh"
+            ],
+            "chuyến tham quan": [
+                "nhanh",
+                "nhiều",
+                "ngẫu nhiên"
+            ],
+            "nhân viên": [
+                "chuyên nghiệp"
+            ],
+            "hướng dẫn viên": [
+                "chuyên nghiệp"
+            ],
+            "chuyến lưu diễn": [
+                "vui mừng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tour du lịch": 1.5,
+            "tượng": 0.5,
+            "cảnh quan": 0.5,
+            "thuyền": 0.5,
+            "sông": 0.5,
+            "lắng": 0.5,
+            "núi": 0.5,
+            "tiếng": 0.5,
+            "chim": 0.5,
+            "tam": 0.5,
+            "cốc": 0.5,
+            "thắng cảnh": 1.0,
+            "người miền": 0.5,
+            "núi sương mù": 0.5,
+            "dân tộc": 0.5,
+            "kiến ​​thức": 0.5,
+            "nhà trọ": 0.5,
+            "đồ ăn": 0.5,
+            "xe": 0.5,
+            "giường": 0.5,
+            "hang": 1.0,
+            "hướng dẫn viên du lịch": 1.0,
+            "chuyến du lịch": 0.5,
+            "hoa lư cố đô": 0.5,
+            "cảnh": 0.5,
+            "tràng an": 1.0,
+            "chuyến đi bộ": 0.5,
+            "vịnh": 0.5,
+            "chuyến tham quan": 1.0,
+            "nhân viên": 0.5,
+            "hướng dẫn viên": 0.5,
+            "chuyến lưu diễn": 0.5
+        }
     },
     {
         "attraction_name": "The First Travel",
@@ -596,7 +1595,143 @@
             "https://www.tripadvisor.com/Attraction_Review-g60634-d8661074-Reviews-Baby_Beach-Lahaina_Maui_Hawaii.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or70-The_First_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or60-The_First_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or60-The_First_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "coc": 0.5537820989266038,
+            "hang động": 0.3795476360246539,
+            "nhân viên": 0.9549136039956162,
+            "tam": 0.6868845727294683,
+            "thuyền": 0.6272942988434806,
+            "dịch vụ": 0.7844599948439281,
+            "hướng dẫn viên": 0.6215549288026523,
+            "chuyến du lịch": 0.9354366635088809,
+            "ngọn": 0.990251932060346,
+            "núi": 0.841920220060274,
+            "dòng sông": 0.9918800991727039,
+            "chuyến tham quan": -0.49221761152148247,
+            "hoa lu": 0.5,
+            "cốc": 0.5,
+            "hang mua": 0.5,
+            "cảnh quan": 0.994933997222688,
+            "mọi người": 0.9952084818505682,
+            "hoa lư": 0.5,
+            "tràng an hang mia": 0.8737691454589367,
+            "chất lượng": 0.5,
+            "chuyến đi": 0.9783315975219011,
+            "phòng": 0.9583029218483716,
+            "đồ ăn": 0.5,
+            "lịch trình du lịch": 0.994096516398713,
+            "bữa trưa": 0.7477288173977286,
+            "tam cốc": 0.994660957949236,
+            "đồ uống": 0.5
+        },
+        "dicts_adj": {
+            "coc": [],
+            "hang động": [],
+            "nhân viên": [
+                "hài hước",
+                "nhất",
+                "hài lòng",
+                "hữu ích",
+                "tốt"
+            ],
+            "tam": [
+                "nhiều"
+            ],
+            "thuyền": [
+                "nhiều"
+            ],
+            "dịch vụ": [
+                "hoàn hảo",
+                "chuyên nghiệp",
+                "tốt",
+                "tốt"
+            ],
+            "hướng dẫn viên": [
+                "hoàn hảo",
+                "chuyên nghiệp"
+            ],
+            "chuyến du lịch": [
+                "tuyệt vời",
+                "đầu tiên",
+                "nhiều",
+                "đầu tiên",
+                "đầu tiên"
+            ],
+            "ngọn": [
+                "giống"
+            ],
+            "núi": [
+                "giống"
+            ],
+            "dòng sông": [
+                "giống"
+            ],
+            "chuyến tham quan": [],
+            "hoa lu": [],
+            "cốc": [],
+            "hang mua": [],
+            "cảnh quan": [
+                "đẹp",
+                "nhất",
+                "đẹp"
+            ],
+            "mọi người": [
+                "hữu ích",
+                "tử tế"
+            ],
+            "hoa lư": [],
+            "tràng an hang mia": [
+                "đẹp"
+            ],
+            "chất lượng": [],
+            "chuyến đi": [
+                "khắp"
+            ],
+            "phòng": [],
+            "đồ ăn": [],
+            "lịch trình du lịch": [
+                "tốt"
+            ],
+            "bữa trưa": [
+                "tuyệt vời"
+            ],
+            "tam cốc": [
+                "lớn"
+            ],
+            "đồ uống": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "coc": 0.5,
+            "hang động": 1.5,
+            "nhân viên": 1.5,
+            "tam": 1.0,
+            "thuyền": 2.0,
+            "dịch vụ": 3.0,
+            "hướng dẫn viên": 2.0,
+            "chuyến du lịch": 2.0,
+            "ngọn": 0.5,
+            "núi": 1.0,
+            "dòng sông": 0.5,
+            "chuyến tham quan": 0.5,
+            "hoa lu": 0.5,
+            "cốc": 0.5,
+            "hang mua": 0.5,
+            "cảnh quan": 0.5,
+            "mọi người": 0.5,
+            "hoa lư": 0.5,
+            "tràng an hang mia": 0.5,
+            "chất lượng": 0.5,
+            "chuyến đi": 0.5,
+            "phòng": 0.5,
+            "đồ ăn": 0.5,
+            "lịch trình du lịch": 0.5,
+            "bữa trưa": 1.0,
+            "tam cốc": 0.5,
+            "đồ uống": 0.5
+        }
     },
     {
         "attraction_name": "The First Travel",
@@ -681,7 +1816,153 @@
             "https://www.tripadvisor.com/Attraction_Review-g187147-d188757-Reviews-Louvre_Museum-Paris_Ile_de_France.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or80-The_First_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or70-The_First_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or70-The_First_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên trình bày": 0.9506438784301281,
+            "dịch vụ": 0.9710249640629627,
+            "hướng dẫn viên du lịch": 0.830329906855089,
+            "chuyến tham quan": 0.9787315529829357,
+            "tràng an": 0.9955030684359372,
+            "thuyền nan": -0.22361198591534048,
+            "hang động": 0.5,
+            "hang": 0.9943155710352585,
+            "cốc": 0.5069252578541636,
+            "chuyến du lịch": 0.42009755061008036,
+            "tam ninh": 0.9895286832470447,
+            "thuyền tre": 0.9876860808581114,
+            "kiến ​​thức": 0.5,
+            "dịch vụ tham quan": 0.8737691454589367,
+            "bữa trưa": 0.5,
+            "tour cho chuyến du lịch": 0.9414259325712919,
+            "chuyến đi 1 ngày": 0.990079281735234,
+            "người hướng dẫn": 0.978896337095648,
+            "niềm đam mê": 0.995545256708283,
+            "vùng đất": 0.9954573044669814,
+            "bậc": 0.9466464619617909,
+            "nhà": 0.9056293731555343,
+            "bán hàng": 0.7705775760114193,
+            "bích động": 0.5,
+            "trang an": 0.5,
+            "vậy": 0.5,
+            "tam": 0.5,
+            "cốc là": 0.5,
+            "chất lượng": 0.8737691454589367,
+            "chuyến đi": 0.991204340592958
+        },
+        "dicts_adj": {
+            "hướng dẫn viên trình bày": [
+                "dễ"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "tốt"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tốt đẹp",
+                "xuất sắc"
+            ],
+            "chuyến tham quan": [
+                "nhiều",
+                "khuyến khích"
+            ],
+            "tràng an": [
+                "yên bình"
+            ],
+            "thuyền nan": [
+                "thú vị"
+            ],
+            "hang động": [],
+            "hang": [
+                "tuyệt vời"
+            ],
+            "cốc": [
+                "tam cốc"
+            ],
+            "chuyến du lịch": [
+                "đầu tiên",
+                "nhiều",
+                "cao",
+                "đầu tiên"
+            ],
+            "tam ninh": [],
+            "thuyền tre": [
+                "thú vị"
+            ],
+            "kiến ​​thức": [],
+            "dịch vụ tham quan": [
+                "hoàn hảo"
+            ],
+            "bữa trưa": [],
+            "tour cho chuyến du lịch": [
+                "đầu tiên"
+            ],
+            "chuyến đi 1 ngày": [
+                "tốt"
+            ],
+            "người hướng dẫn": [
+                "tốt",
+                "xinh đẹp"
+            ],
+            "niềm đam mê": [
+                "hơn",
+                "nhiều"
+            ],
+            "vùng đất": [
+                "xinh đẹp"
+            ],
+            "bậc": [],
+            "nhà": [
+                "rõ ràng"
+            ],
+            "bán hàng": [
+                "kiên trì"
+            ],
+            "bích động": [],
+            "trang an": [],
+            "vậy": [],
+            "tam": [],
+            "cốc là": [],
+            "chất lượng": [
+                "tốt"
+            ],
+            "chuyến đi": [
+                "đầu tiên"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên trình bày": 0.5,
+            "dịch vụ": 1.0,
+            "hướng dẫn viên du lịch": 1.5,
+            "chuyến tham quan": 1.0,
+            "tràng an": 0.5,
+            "thuyền nan": 1.0,
+            "hang động": 0.5,
+            "hang": 0.5,
+            "cốc": 1.0,
+            "chuyến du lịch": 1.0,
+            "tam ninh": 0.5,
+            "thuyền tre": 0.5,
+            "kiến ​​thức": 0.5,
+            "dịch vụ tham quan": 0.5,
+            "bữa trưa": 0.5,
+            "tour cho chuyến du lịch": 0.5,
+            "chuyến đi 1 ngày": 0.5,
+            "người hướng dẫn": 1.0,
+            "niềm đam mê": 0.5,
+            "vùng đất": 0.5,
+            "bậc": 0.5,
+            "nhà": 0.5,
+            "bán hàng": 0.5,
+            "bích động": 0.5,
+            "trang an": 0.5,
+            "vậy": 0.5,
+            "tam": 0.5,
+            "cốc là": 0.5,
+            "chất lượng": 0.5,
+            "chuyến đi": 0.5
+        }
     },
     {
         "attraction_name": "The First Travel",
@@ -767,7 +2048,195 @@
             "https://www.tripadvisor.com/Attraction_Review-g54946-d104475-Reviews-Creative_Discovery_Museum-Chattanooga_Tennessee.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or90-The_First_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or80-The_First_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or80-The_First_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan hang mua hang": 0.9938444757135585,
+            "chuyến đi": 0.7568877787416568,
+            "thuyền": 0.5,
+            "sông": 0.5,
+            "người hướng dẫn": 0.9857584669953212,
+            "hướng dẫn viên": 0.5882934667170048,
+            "chuyến tham quan": 0.7414745625574142,
+            "giá": 0.9865846346365288,
+            "tour": 0.9903995149652474,
+            "vị trí": 0.9952260907157324,
+            "nhà trọ": 0.5,
+            "tam": 0.5,
+            "cốc": 0.5,
+            "hướng dẫn viên du lịch": 0.9872205728897825,
+            "khoảng thời gian": 0.9953072104835883,
+            "chuyến du lịch": 0.9078725253542265,
+            "nhân viên": 0.9948479269514792,
+            "dịch vụ": 0.9871185280110998,
+            "tour là": 0.8737691454589367,
+            "kiến ​​thức": 0.5,
+            "kỳ nghỉ": 0.9946102718822658,
+            "phố cổ": 0.5,
+            "giá cả": 0.983341402024962,
+            "lưu trú": 0.521804440766573,
+            "tour du lịch": 0.9952175779617392,
+            "ký túc xá": 0.9891118195082527,
+            "cảnh đẹp": 0.5,
+            "nhà nghỉ": 0.8737691454589367,
+            "ấm cúng": 0.9947027683083434,
+            "giường": 0.7689805731060915,
+            "không khí": -0.9611035317648202,
+            "hang động": 0.993844673386775,
+            "nhân viên thì": 0.9954440724104643,
+            "linh": 0.9914259023498744,
+            "hang": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "chuyến tham quan hang mua hang": [
+                "bất tận"
+            ],
+            "chuyến đi": [
+                "đầu tiên",
+                "đầu tiên",
+                "thú vị",
+                "khó khăn"
+            ],
+            "thuyền": [],
+            "sông": [],
+            "người hướng dẫn": [
+                "tốt"
+            ],
+            "hướng dẫn viên": [
+                "hiểu biết",
+                "khác"
+            ],
+            "chuyến tham quan": [
+                "tốt"
+            ],
+            "giá": [
+                "tốt"
+            ],
+            "tour": [
+                "trôi chảy",
+                "rẻ",
+                "tốt"
+            ],
+            "vị trí": [
+                "tốt"
+            ],
+            "nhà trọ": [],
+            "tam": [],
+            "cốc": [],
+            "hướng dẫn viên du lịch": [
+                "giỏi"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "chuyến du lịch": [
+                "đầu tiên",
+                "thú vị",
+                "nhiều",
+                "đầu tiên"
+            ],
+            "nhân viên": [
+                "tốt bụng",
+                "hữu ích",
+                "tử tế",
+                "thân thiện",
+                "thuận tiện"
+            ],
+            "dịch vụ": [
+                "rẻ",
+                "tốt",
+                "tốt"
+            ],
+            "tour là": [
+                "tốt"
+            ],
+            "kiến ​​thức": [],
+            "kỳ nghỉ": [
+                "tuyệt vời"
+            ],
+            "phố cổ": [],
+            "giá cả": [
+                "tốt"
+            ],
+            "lưu trú": [],
+            "tour du lịch": [
+                "nhiều",
+                "nhiều",
+                "khác"
+            ],
+            "ký túc xá": [
+                "hữu ích",
+                "ấm cúng"
+            ],
+            "cảnh đẹp": [],
+            "nhà nghỉ": [
+                "thực sự",
+                "thoải mái"
+            ],
+            "ấm cúng": [
+                "thực sự",
+                "thoải mái"
+            ],
+            "giường": [
+                "riêng tư",
+                "yên tĩnh"
+            ],
+            "không khí": [
+                "trong lành"
+            ],
+            "hang động": [
+                "đầu tiên"
+            ],
+            "nhân viên thì": [
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "linh": [
+                "thân thiện",
+                "nhiều"
+            ],
+            "hang": [
+                "thực sự"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan hang mua hang": 0.5,
+            "chuyến đi": 2.0,
+            "thuyền": 0.5,
+            "sông": 0.5,
+            "người hướng dẫn": 0.5,
+            "hướng dẫn viên": 1.0,
+            "chuyến tham quan": 1.0,
+            "giá": 0.5,
+            "tour": 1.5,
+            "vị trí": 0.5,
+            "nhà trọ": 0.5,
+            "tam": 0.5,
+            "cốc": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "khoảng thời gian": 0.5,
+            "chuyến du lịch": 1.5,
+            "nhân viên": 1.0,
+            "dịch vụ": 1.5,
+            "tour là": 0.5,
+            "kiến ​​thức": 0.5,
+            "kỳ nghỉ": 0.5,
+            "phố cổ": 0.5,
+            "giá cả": 0.5,
+            "lưu trú": 0.5,
+            "tour du lịch": 0.5,
+            "ký túc xá": 1.0,
+            "cảnh đẹp": 0.5,
+            "nhà nghỉ": 0.5,
+            "ấm cúng": 0.5,
+            "giường": 0.5,
+            "không khí": 0.5,
+            "hang động": 0.5,
+            "nhân viên thì": 0.5,
+            "linh": 0.5,
+            "hang": 0.5
+        }
     },
     {
         "attraction_name": "The First Travel",
@@ -853,6 +2322,185 @@
             "https://www.tripadvisor.com/Attraction_Review-g580312-d6158783-Reviews-Banana_Club-Port_d_Alcudia_Alcudia_Majorca_Balearic_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or100-The_First_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or90-The_First_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d13484982-Reviews-or90-The_First_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chất lượng": 0.5,
+            "dịch vụ": 0.23076972947455943,
+            "nhân viên": 0.99556930270046,
+            "ký túc xá": 0.9906780077144504,
+            "tour du lịch": 0.9466208138037473,
+            "chuyến đi": 0.9950113188824616,
+            "cốc": 0.5075026974081993,
+            "cảnh quan": 0.99551454995526,
+            "hướng dẫn viên du lịch": 0.9954671822488308,
+            "kiến ​​thức": 0.7035393267869949,
+            "núi": 0.564890124835074,
+            "chuyến du lịch": 0.9834032515063882,
+            "ký túc xá ấm": 0.7153383437544107,
+            "kota": 0.6090297931805253,
+            "chuyến tham quan": 0.017467439058236778,
+            "phong cảnh": 0.8737691454589367,
+            "con người": 0.9893630713922903,
+            "người hướng dẫn": 0.9955485550453886,
+            "trải nghiệm": 0.9955512540764175,
+            "phòng": 0.5720043443143368,
+            "tour": 0.8217081017792225,
+            "khách sạn": -0.35967679244155687,
+            "hám": 0.5,
+            "đài phun nước": 0.5,
+            "ruộng bậc thang": 0.326833709453543,
+            "thửa": -0.5302305486984551,
+            "bữa ăn": -0.9695509597659111,
+            "bữa trưa": 0.5,
+            "nhà trọ": 0.5,
+            "hướng dẫn viên": 0.5122335590422153,
+            "gà nướng": 0.6355193313211203,
+            "món ăn": 0.7548789260908961,
+            "tiền": -0.18138793110847473,
+            "bữa tối ngày": 0.8737691454589367,
+            "tiền ăn": -0.9685131970327348,
+            "người nước ngoài": 0.5,
+            "lịch sử": 0.5
+        },
+        "dicts_adj": {
+            "chất lượng": [],
+            "dịch vụ": [
+                "bất kỳ",
+                "đặc biệt",
+                "tốt"
+            ],
+            "nhân viên": [
+                "đẹp"
+            ],
+            "ký túc xá": [
+                "tốt"
+            ],
+            "tour du lịch": [],
+            "chuyến đi": [
+                "tuyệt vời",
+                "đầu tiên",
+                "đẹp"
+            ],
+            "cốc": [],
+            "cảnh quan": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [],
+            "kiến ​​thức": [],
+            "núi": [],
+            "chuyến du lịch": [
+                "Chắc chắn",
+                "đầu tiên",
+                "tuyệt vời",
+                "bất kỳ",
+                "tốt",
+                "đầu tiên"
+            ],
+            "ký túc xá ấm": [],
+            "kota": [],
+            "chuyến tham quan": [
+                "đẹp",
+                "tuyệt vời",
+                "dễ dàng"
+            ],
+            "phong cảnh": [
+                "đẹp"
+            ],
+            "con người": [
+                "sớm",
+                "cùng"
+            ],
+            "người hướng dẫn": [
+                "Gần",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "chi tiết",
+                "tuyệt vời"
+            ],
+            "phòng": [],
+            "tour": [],
+            "khách sạn": [
+                "đặc trưng",
+                "đặc trưng",
+                "tốt"
+            ],
+            "hám": [],
+            "đài phun nước": [],
+            "ruộng bậc thang": [
+                "gập ghềnh",
+                "nguy hiểm",
+                "hoàn toàn"
+            ],
+            "thửa": [
+                "gập ghềnh",
+                "nguy hiểm",
+                "hoàn toàn"
+            ],
+            "bữa ăn": [
+                "tốt"
+            ],
+            "bữa trưa": [],
+            "nhà trọ": [],
+            "hướng dẫn viên": [
+                "đặc biệt"
+            ],
+            "gà nướng": [
+                "đặc biệt"
+            ],
+            "món ăn": [
+                "đặc biệt",
+                "đặc trưng"
+            ],
+            "tiền": [],
+            "bữa tối ngày": [
+                "nhất"
+            ],
+            "tiền ăn": [],
+            "người nước ngoài": [],
+            "lịch sử": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chất lượng": 0.5,
+            "dịch vụ": 1.0,
+            "nhân viên": 0.5,
+            "ký túc xá": 0.5,
+            "tour du lịch": 0.5,
+            "chuyến đi": 1.0,
+            "cốc": 0.5,
+            "cảnh quan": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "kiến ​​thức": 0.5,
+            "núi": 0.5,
+            "chuyến du lịch": 1.0,
+            "ký túc xá ấm": 0.5,
+            "kota": 0.5,
+            "chuyến tham quan": 1.0,
+            "phong cảnh": 0.5,
+            "con người": 0.5,
+            "người hướng dẫn": 0.5,
+            "trải nghiệm": 0.5,
+            "phòng": 0.5,
+            "tour": 0.5,
+            "khách sạn": 0.5,
+            "hám": 0.5,
+            "đài phun nước": 0.5,
+            "ruộng bậc thang": 0.5,
+            "thửa": 0.5,
+            "bữa ăn": 0.5,
+            "bữa trưa": 0.5,
+            "nhà trọ": 0.5,
+            "hướng dẫn viên": 0.5,
+            "gà nướng": 0.5,
+            "món ăn": 0.5,
+            "tiền": 0.5,
+            "bữa tối ngày": 0.5,
+            "tiền ăn": 0.5,
+            "người nước ngoài": 0.5,
+            "lịch sử": 0.5
+        }
     }
 ]

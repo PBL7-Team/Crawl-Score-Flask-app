@@ -90,6 +90,55 @@
             "https://www.tripadvisor.com/Attraction_Review-g41857-d589984-Reviews-Purgatory_Chasm_State_Reservation-Sutton_Massachusetts.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d17376195-Reviews-Mai_Linh_Taxi-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d17376195-Reviews-Mai_Linh_Taxi-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "giá taxi": 0.48852385580539703,
+            "tiền": -0.46953118056990206,
+            "chuyến đi": 0.5411050352267921,
+            "giá": 0.8737691454589367,
+            "taxi": -0.9613163587637246,
+            "nhân viên": 0.5,
+            "áo xanh": 0.5,
+            "giá cả": -0.8796586692333221,
+            "quận": 0.5607005394995213,
+            "đồng hồ": 0.10047272965312004
+        },
+        "dicts_adj": {
+            "giá taxi": [],
+            "tiền": [],
+            "chuyến đi": [
+                "đầu tiên",
+                "ngắn",
+                "đủ",
+                "chính xác",
+                "rẻ"
+            ],
+            "giá": [
+                "ít"
+            ],
+            "taxi": [
+                "Trái ngược",
+                "đúng"
+            ],
+            "nhân viên": [],
+            "áo xanh": [],
+            "giá cả": [],
+            "quận": [],
+            "đồng hồ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "giá taxi": 1,
+            "tiền": 1.5,
+            "chuyến đi": 0.5,
+            "giá": 0.5,
+            "taxi": 0.5,
+            "nhân viên": 0.5,
+            "áo xanh": 0.5,
+            "giá cả": 0.5,
+            "quận": 0.5,
+            "đồng hồ": 0.5
+        }
     }
 ]

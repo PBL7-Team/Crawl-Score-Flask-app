@@ -87,6 +87,62 @@
             "https://www.tripadvisor.com/Attraction_Review-g147406-d149849-Reviews-Magens_Bay-Magens_Bay_St_Thomas_U_S_Virgin_Islands.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d4757835-Reviews-Catinat_The_Lounge-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d4757835-Reviews-Catinat_The_Lounge-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên pr": 0.9955090779694729,
+            "giá cả": 0.8737691454589367,
+            "quán bar": -0.9742911111097783,
+            "phòng": 0.8737691454589367,
+            "câu lạc bộ": 0.9931810850976035,
+            "trung tâm mua sắm": 0.9949446938117035,
+            "nhạc": 0.9932527778437361,
+            "sống nhân viên": 0.991095577890519
+        },
+        "dicts_adj": {
+            "nhân viên pr": [
+                "nhiều",
+                "xinh đẹp",
+                "cùng",
+                "suốt"
+            ],
+            "giá cả": [
+                "ổn"
+            ],
+            "quán bar": [
+                "khác"
+            ],
+            "phòng": [
+                "xinh đẹp",
+                "chuyên nghiệp"
+            ],
+            "câu lạc bộ": [
+                "xinh đẹp",
+                "chuyên nghiệp"
+            ],
+            "trung tâm mua sắm": [
+                "xinh đẹp",
+                "chuyên nghiệp"
+            ],
+            "nhạc": [
+                "xinh đẹp",
+                "chuyên nghiệp"
+            ],
+            "sống nhân viên": [
+                "xinh đẹp",
+                "chuyên nghiệp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên pr": 0.5,
+            "giá cả": 0.5,
+            "quán bar": 0.5,
+            "phòng": 0.5,
+            "câu lạc bộ": 0.5,
+            "trung tâm mua sắm": 0.5,
+            "nhạc": 0.5,
+            "sống nhân viên": 0.5
+        }
     }
 ]
