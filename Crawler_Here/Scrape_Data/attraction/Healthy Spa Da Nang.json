@@ -117,7 +117,175 @@
             "https://www.tripadvisor.com/Attraction_Review-g37136-d20346328-Reviews-Lake_Street_Beach-Gary_Indiana.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or10-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "mát-xa": 0.770343058713479,
+            "mặt và": 0.5,
+            "dịch vụ chăm sóc da": -0.9616842782124877,
+            "nhân viên": 0.767103850073181,
+            "chăm sóc da mặt": 0.8737691454589367,
+            "rất tốt": 0.9633602538669948,
+            "dịch vụ": 0.9720433660660914,
+            "chuyến đi": 0.990013065689709,
+            "phòng tắm": 0.9936896204017103,
+            "không khí": 0.8737691454589367,
+            "mùi thơm": 0.9956064423895441,
+            "trải nghiệm": 0.995179628720507,
+            "cửa hàng": 0.9952400193433277,
+            "tiền": 0.9351374730467796,
+            "bấm huyệt": 0.9499436346814036,
+            "chỗ": 0.9911676633928437,
+            "không gian": 0.8737691454589367,
+            "giá cả": 0.81413392664399,
+            "spa": 0.9936979159053104,
+            "sức khỏe": 0.9708167407661676,
+            "massage": 0.9943053932220209,
+            "phòng": 0.5140578346326947,
+            "hương thơm": 0.5,
+            "facebook": 0.9787440734216943,
+            "đá": -0.975492712459527,
+            "kỹ thuật": 0.8737691454589367,
+            "massage là": 0.9954368472099304,
+            "cơ sở vật chất": 0.9936751476489007
+        },
+        "dicts_adj": {
+            "mát-xa": [
+                "vui",
+                "muộn"
+            ],
+            "mặt và": [],
+            "dịch vụ chăm sóc da": [
+                "khác"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "thường xuyên",
+                "mát",
+                "xa"
+            ],
+            "chăm sóc da mặt": [
+                "vui",
+                "muộn"
+            ],
+            "rất tốt": [
+                "vui",
+                "muộn"
+            ],
+            "dịch vụ": [
+                "vui",
+                "hài lòng",
+                "vui",
+                "hài lòng",
+                "chu đáo",
+                "vui",
+                "hài lòng",
+                "mát",
+                "xa",
+                "tốt"
+            ],
+            "chuyến đi": [
+                "vui vẻ",
+                "vui vẻ",
+                "vui vẻ"
+            ],
+            "phòng tắm": [
+                "ngắn",
+                "hài lòng"
+            ],
+            "không khí": [
+                "đẹp"
+            ],
+            "mùi thơm": [
+                "sạch sẽ",
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "đầy đủ"
+            ],
+            "cửa hàng": [
+                "thoải mái"
+            ],
+            "tiền": [],
+            "bấm huyệt": [],
+            "chỗ": [
+                "chu đáo"
+            ],
+            "không gian": [
+                "đẹp"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "mệt mỏi"
+            ],
+            "spa": [
+                "tốt",
+                "tuyệt vời",
+                "đầu tiên",
+                "mệt mỏi"
+            ],
+            "sức khỏe": [
+                "nhiều",
+                "vui"
+            ],
+            "massage": [
+                "tuyệt vời",
+                "tốt",
+                "lành mạnh"
+            ],
+            "phòng": [
+                "cơ bản",
+                "sang trọng"
+            ],
+            "hương thơm": [],
+            "facebook": [
+                "Tốt",
+                "nhanh"
+            ],
+            "đá": [
+                "nóng"
+            ],
+            "kỹ thuật": [
+                "tuyệt vời"
+            ],
+            "massage là": [
+                "tuyệt vời"
+            ],
+            "cơ sở vật chất": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "mát-xa": 1,
+            "mặt và": 1,
+            "dịch vụ chăm sóc da": 1,
+            "nhân viên": 2.5,
+            "chăm sóc da mặt": 1,
+            "rất tốt": 1,
+            "dịch vụ": 3.5,
+            "chuyến đi": 2.0,
+            "phòng tắm": 1,
+            "không khí": 1,
+            "mùi thơm": 1,
+            "trải nghiệm": 1,
+            "cửa hàng": 1,
+            "tiền": 1,
+            "bấm huyệt": 1,
+            "chỗ": 1,
+            "không gian": 1,
+            "giá cả": 1,
+            "spa": 1.5,
+            "sức khỏe": 1,
+            "massage": 1.0,
+            "phòng": 1.0,
+            "hương thơm": 0.5,
+            "facebook": 0.5,
+            "đá": 0.5,
+            "kỹ thuật": 0.5,
+            "massage là": 0.5,
+            "cơ sở vật chất": 0.5
+        }
     },
     {
         "attraction_name": "Healthy Spa Da Nang",
@@ -239,7 +407,97 @@
             "https://www.tripadvisor.com/Attraction_Review-g42513-d2180436-Reviews-Lewis_Adventure_Farm_Zoo-New_Era_Oceana_County_Michigan.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or20-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or10-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or10-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "massage": 0.9936717576056253,
+            "dịch vụ": 0.7725296926995119,
+            "vị trí": 0.8737691454589367,
+            "sức khỏe": 0.9847072216216475,
+            "mát-xa": -0.9743776172399521,
+            "bằng đá": -0.9523612738121301,
+            "rất thân": 0.994539889972657,
+            "nhân viên": 0.9942475781135727,
+            "buổi massage": 0.9954417091212235,
+            "massage đá nóng": -0.9635239557828754,
+            "trung tâm": 0.8737691454589367,
+            "spa hợp": 0.8737691454589367,
+            "môi trường": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "massage": [
+                "tốt",
+                "tuyệt vời",
+                "Chắc chắn",
+                "thực sự",
+                "tuyệt vời",
+                "thư giãn"
+            ],
+            "dịch vụ": [
+                "tốt"
+            ],
+            "vị trí": [
+                "tốt"
+            ],
+            "sức khỏe": [
+                "nhiều",
+                "vui",
+                "tốt",
+                "nhiều",
+                "vui",
+                "tốt"
+            ],
+            "mát-xa": [
+                "nóng"
+            ],
+            "bằng đá": [
+                "nóng"
+            ],
+            "rất thân": [
+                "thân thiện"
+            ],
+            "nhân viên": [
+                "đẹp",
+                "thân thiện"
+            ],
+            "buổi massage": [
+                "lành mạnh"
+            ],
+            "massage đá nóng": [
+                "mạnh"
+            ],
+            "trung tâm": [
+                "hợp pháp",
+                "chuyên nghiệp",
+                "tuyệt vời"
+            ],
+            "spa hợp": [
+                "hợp pháp",
+                "chuyên nghiệp",
+                "tuyệt vời"
+            ],
+            "môi trường": [
+                "hợp pháp",
+                "chuyên nghiệp",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "massage": 2,
+            "dịch vụ": 3,
+            "vị trí": 1,
+            "sức khỏe": 2,
+            "mát-xa": 1,
+            "bằng đá": 1,
+            "rất thân": 1,
+            "nhân viên": 2,
+            "buổi massage": 1,
+            "massage đá nóng": 1,
+            "trung tâm": 1,
+            "spa hợp": 1,
+            "môi trường": 1
+        }
     },
     {
         "attraction_name": "Healthy Spa Da Nang",
@@ -362,7 +620,96 @@
             "https://www.tripadvisor.com/Attraction_Review-g226865-d189258-Reviews-Disneyland_Paris-Marne_la_Vallee_Seine_et_Marne_Ile_de_France.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or30-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or20-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or20-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "spa": 0.7869647186404715,
+            "khách sạn": 0.526854326017201,
+            "massage": 0.810018598587097,
+            "đá nóng": 0.5,
+            "cơ sở vật chất": 0.9955052842269652,
+            "nhân viên": 0.4832077988248784,
+            "dịch vụ nhân viên": 0.9955223794677295,
+            "massage dầu": 0.9929187705274671,
+            "dịch vụ": 0.925729930459056,
+            "giá cả": 0.9758615375030786,
+            "sức khỏe": 0.5,
+            "massage toàn thân": 0.9755108212120831,
+            "thái độ": 0.8737691454589367,
+            "trải nghiệm": 0.9951001326553524,
+            "mát-xa": 0.5,
+            "lành mạnh": 0.5
+        },
+        "dicts_adj": {
+            "spa": [
+                "lành mạnh",
+                "tốt"
+            ],
+            "khách sạn": [
+                "lành mạnh"
+            ],
+            "massage": [
+                "lành mạnh",
+                "tuyệt vời",
+                "tốt",
+                "thoải mái"
+            ],
+            "đá nóng": [],
+            "cơ sở vật chất": [
+                "thân thiện"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "tốt",
+                "tử tế"
+            ],
+            "dịch vụ nhân viên": [
+                "hài lòng"
+            ],
+            "massage dầu": [
+                "nóng",
+                "mát"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "tốt",
+                "thực sự"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "sức khỏe": [],
+            "massage toàn thân": [
+                "xuất sắc"
+            ],
+            "thái độ": [
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "thú vị"
+            ],
+            "mát-xa": [],
+            "lành mạnh": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "spa": 3,
+            "khách sạn": 1,
+            "massage": 3,
+            "đá nóng": 1,
+            "cơ sở vật chất": 1,
+            "nhân viên": 2,
+            "dịch vụ nhân viên": 1,
+            "massage dầu": 1,
+            "dịch vụ": 2,
+            "giá cả": 1,
+            "sức khỏe": 1,
+            "massage toàn thân": 1,
+            "thái độ": 1,
+            "trải nghiệm": 1,
+            "mát-xa": 1,
+            "lành mạnh": 1
+        }
     },
     {
         "attraction_name": "Healthy Spa Da Nang",
@@ -485,7 +832,75 @@
             "https://www.tripadvisor.com/Attraction_Review-g55229-d106495-Reviews-RCA_Studio_B-Nashville_Davidson_County_Tennessee.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or40-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or30-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or30-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "massage": 0.9950295423041098,
+            "ưu đãi": 0.7402466302737594,
+            "mát-xa": 0.9929450008785352,
+            "và gội": 0.9935799868544564,
+            "dịch vụ": 0.6984591353684664,
+            "nhân viên": 0.5,
+            "ca đêm": 0.5,
+            "thời gian": 0.985693657072261,
+            "vùng đất": 0.9954941965988837,
+            "địa điểm du lịch": 0.5,
+            "chỗ": 0.995521737204399,
+            "không gian": 0.8737691454589367,
+            "giá cả": 0.7774428114062175
+        },
+        "dicts_adj": {
+            "massage": [
+                "tốt",
+                "tuyệt vời"
+            ],
+            "ưu đãi": [],
+            "mát-xa": [
+                "lành mạnh"
+            ],
+            "và gội": [
+                "lành mạnh"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "thực sự"
+            ],
+            "nhân viên": [],
+            "ca đêm": [],
+            "thời gian": [
+                "tuyệt vời"
+            ],
+            "vùng đất": [
+                "xinh đẹp"
+            ],
+            "địa điểm du lịch": [],
+            "chỗ": [
+                "chu đáo"
+            ],
+            "không gian": [
+                "đẹp"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "mệt mỏi"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "massage": 2,
+            "ưu đãi": 1,
+            "mát-xa": 1,
+            "và gội": 1,
+            "dịch vụ": 2,
+            "nhân viên": 1,
+            "ca đêm": 1,
+            "thời gian": 1,
+            "vùng đất": 1,
+            "địa điểm du lịch": 1,
+            "chỗ": 1,
+            "không gian": 1,
+            "giá cả": 1
+        }
     },
     {
         "attraction_name": "Healthy Spa Da Nang",
@@ -608,7 +1023,72 @@
             "https://www.tripadvisor.com/Attraction_Review-g482942-d4954704-Reviews-Enigma_Club-Fira_Santorini_Cyclades_South_Aegean.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or50-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or40-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or40-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "massage": 0.7167843372444622,
+            "đi bộ": 0.8737691454589367,
+            "chuyến bay": -0.9544827062636614,
+            "trị liệu": 0.49259917065501213,
+            "chuyến thăm": 0.9953763776284177,
+            "dịch vụ mát-xa của chúng": 0.5,
+            "dịch vụ mát-xa thực sự": 0.9788045438472182,
+            "nhân viên": 0.9951000545697752,
+            "cát ấm": 0.9936775786336511,
+            "giá cả": 0.975521512562409,
+            "mát-xa": 0.9938756389310583
+        },
+        "dicts_adj": {
+            "massage": [
+                "lành mạnh",
+                "tuyệt vời",
+                "đủ",
+                "ngon",
+                "đẹp"
+            ],
+            "đi bộ": [
+                "dài"
+            ],
+            "chuyến bay": [
+                "thoải mái"
+            ],
+            "trị liệu": [],
+            "chuyến thăm": [
+                "thú vị",
+                "hài lòng",
+                "thú vị",
+                "hài lòng"
+            ],
+            "dịch vụ mát-xa của chúng": [],
+            "dịch vụ mát-xa thực sự": [
+                "tốt"
+            ],
+            "nhân viên": [
+                "mạnh mẽ",
+                "đẹp"
+            ],
+            "cát ấm": [
+                "đặc biệt"
+            ],
+            "giá cả": [
+                "đẹp"
+            ],
+            "mát-xa": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "massage": 2.0,
+            "đi bộ": 1,
+            "chuyến bay": 1,
+            "trị liệu": 1,
+            "chuyến thăm": 1.5,
+            "dịch vụ mát-xa của chúng": 1.5,
+            "dịch vụ mát-xa thực sự": 0.5,
+            "nhân viên": 1.0,
+            "cát ấm": 0.5,
+            "giá cả": 0.5,
+            "mát-xa": 0.5
+        }
     },
     {
         "attraction_name": "Healthy Spa Da Nang",
@@ -731,7 +1211,112 @@
             "https://www.tripadvisor.com/Attraction_Review-g56003-d535443-Reviews-NRG_Stadium-Houston_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or60-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or50-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or50-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.9924510818091221,
+            "nhà trị liệu": 0.5174179691821337,
+            "mát-xa": 0.7453031671757344,
+            "tốt nhất": 0.9946261985460296,
+            "giá cả": 0.8737691454589367,
+            "giá": 0.99555912084179,
+            "môi trường": 0.8344993860616038,
+            "món": 0.5,
+            "súp nóng": 0.5,
+            "đồ ăn nhẹ": 0.5,
+            "thái": 0.9955583781120367,
+            "spa": 0.7416877057868987,
+            "thật xuất": 0.9954997124150395,
+            "dịch vụ mát-xa lành mạnh": 0.995161218510475,
+            "mát-xa tốt nhất mà chúng": 0.5,
+            "nhân viên": 0.9042238368274411,
+            "massage": 0.9555775297776563,
+            "dịch vụ mát-xa tốt nhất": 0.9928722935728729,
+            "lễ tân": 0.9952394707361236
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "nhà trị liệu": [
+                "xuất sắc"
+            ],
+            "mát-xa": [
+                "xuất sắc"
+            ],
+            "tốt nhất": [
+                "Thực sự"
+            ],
+            "giá cả": [
+                "công bằng",
+                "đặc biệt"
+            ],
+            "giá": [
+                "tuyệt vời"
+            ],
+            "môi trường": [
+                "sạch sẽ",
+                "thoải mái",
+                "thư giãn"
+            ],
+            "món": [],
+            "súp nóng": [],
+            "đồ ăn nhẹ": [],
+            "thái": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "hoàn toàn",
+                "tuyệt vời",
+                "tuyệt vời",
+                "hoàn toàn"
+            ],
+            "spa": [
+                "tình cờ"
+            ],
+            "thật xuất": [
+                "xuất sắc"
+            ],
+            "dịch vụ mát-xa lành mạnh": [
+                "thực sự"
+            ],
+            "mát-xa tốt nhất mà chúng": [],
+            "nhân viên": [
+                "niềm nở",
+                "niềm nở"
+            ],
+            "massage": [
+                "chuyên nghiệp",
+                "tốt",
+                "chuyên nghiệp"
+            ],
+            "dịch vụ mát-xa tốt nhất": [],
+            "lễ tân": [
+                "niềm nở"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 1.0,
+            "nhà trị liệu": 1.0,
+            "mát-xa": 1.0,
+            "tốt nhất": 0.5,
+            "giá cả": 0.5,
+            "giá": 0.5,
+            "môi trường": 0.5,
+            "món": 0.5,
+            "súp nóng": 0.5,
+            "đồ ăn nhẹ": 0.5,
+            "thái": 1.0,
+            "spa": 2.5,
+            "thật xuất": 0.5,
+            "dịch vụ mát-xa lành mạnh": 0.5,
+            "mát-xa tốt nhất mà chúng": 0.5,
+            "nhân viên": 2.0,
+            "massage": 2.0,
+            "dịch vụ mát-xa tốt nhất": 1.5,
+            "lễ tân": 1.5
+        }
     },
     {
         "attraction_name": "Healthy Spa Da Nang",
@@ -854,7 +1439,91 @@
             "https://www.tripadvisor.com/Attraction_Review-g55512-d6890468-Reviews-Adobe_Walls-Borger_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or70-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or60-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or60-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "massage": 0.5100133835928448,
+            "sức khỏe": 0.7840894152410328,
+            "trải nghiệm": 0.9953517156619844,
+            "kỹ thuật viên": 0.9641797723743366,
+            "họ": 0.8943478828296065,
+            "dịch vụ massage đá nóng": -0.9356340356171131,
+            "lễ tân": 0.9885170033667237,
+            "dịch vụ đá nóng": 0.9821337442845106,
+            "massage chân": 0.8922363893943839,
+            "đá nóng": 0.9918327622581273,
+            "spa": 0.995348087279126,
+            "dịch vụ": 0.8595981867576483,
+            "massage cho bé": 0.5,
+            "nhân viên": 0.9955313954269513
+        },
+        "dicts_adj": {
+            "massage": [
+                "nóng",
+                "tốt",
+                "nóng",
+                "tốt",
+                "đầu tiên"
+            ],
+            "sức khỏe": [
+                "tốt",
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "kỹ thuật viên": [
+                "lành nghề",
+                "giỏi"
+            ],
+            "họ": [
+                "đúng"
+            ],
+            "dịch vụ massage đá nóng": [],
+            "lễ tân": [],
+            "dịch vụ đá nóng": [
+                "hài lòng"
+            ],
+            "massage chân": [
+                "tốt"
+            ],
+            "đá nóng": [
+                "tuyệt vời"
+            ],
+            "spa": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "nóng",
+                "tốt",
+                "tốt",
+                "thật sự"
+            ],
+            "massage cho bé": [],
+            "nhân viên": [
+                "tốt",
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "massage": 3.5,
+            "sức khỏe": 2.5,
+            "trải nghiệm": 3.5,
+            "kỹ thuật viên": 4.0,
+            "họ": 1,
+            "dịch vụ massage đá nóng": 3.0,
+            "lễ tân": 3.0,
+            "dịch vụ đá nóng": 1,
+            "massage chân": 4.0,
+            "đá nóng": 1,
+            "spa": 1.5,
+            "dịch vụ": 5.0,
+            "massage cho bé": 1,
+            "nhân viên": 1.5
+        }
     },
     {
         "attraction_name": "Healthy Spa Da Nang",
@@ -977,7 +1646,99 @@
             "https://www.tripadvisor.com/Attraction_Review-g60909-d7785740-Reviews-Dipsea_Trail-Mill_Valley_Marin_County_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or80-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or70-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or70-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.7889625699269042,
+            "dịch vụ massage đá nóng": 0.5,
+            "dịch vụ": 0.8750525442643694,
+            "dầu": 0.8737691454589367,
+            "gội dưỡng": 0.013357052695937455,
+            "massage đá": 0.5030923113517929,
+            "massage": 0.959095933424708,
+            "sức khỏe": 0.5,
+            "massage chân": 0.6238823952735402,
+            "spa": 0.7476315645035356,
+            "kỹ thuật viên": 0.5,
+            "nhân viên": 0.8085243862005882,
+            "lễ tân": 0.5,
+            "đá nóng": 0.5,
+            "thông kinh": 0.5,
+            "dịch vụ đá nóng": 0.5,
+            "giá": 0.9865846346365288
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tốt",
+                "tốt"
+            ],
+            "dịch vụ massage đá nóng": [],
+            "dịch vụ": [
+                "tốt",
+                "tốt",
+                "tốt",
+                "tốt",
+                "tốt",
+                "nhất"
+            ],
+            "dầu": [
+                "nóng",
+                "tốt"
+            ],
+            "gội dưỡng": [
+                "nóng",
+                "tốt"
+            ],
+            "massage đá": [
+                "nóng",
+                "tốt"
+            ],
+            "massage": [
+                "tốt",
+                "tốt",
+                "lành mạnh",
+                "tốt"
+            ],
+            "sức khỏe": [],
+            "massage chân": [
+                "tốt khuyên"
+            ],
+            "spa": [
+                "lành mạnh"
+            ],
+            "kỹ thuật viên": [],
+            "nhân viên": [
+                "tốt"
+            ],
+            "lễ tân": [],
+            "đá nóng": [],
+            "thông kinh": [],
+            "dịch vụ đá nóng": [],
+            "giá": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 6.0,
+            "dịch vụ massage đá nóng": 1,
+            "dịch vụ": 8.5,
+            "dầu": 1.5,
+            "gội dưỡng": 1.5,
+            "massage đá": 1.5,
+            "massage": 3.5,
+            "sức khỏe": 1,
+            "massage chân": 4.0,
+            "spa": 3.0,
+            "kỹ thuật viên": 1.5,
+            "nhân viên": 4.0,
+            "lễ tân": 2.5,
+            "đá nóng": 1.5,
+            "thông kinh": 1.5,
+            "dịch vụ đá nóng": 1.5,
+            "giá": 1.5
+        }
     },
     {
         "attraction_name": "Healthy Spa Da Nang",
@@ -1100,7 +1861,74 @@
             "https://www.tripadvisor.com/Attraction_Review-g262055-d6826137-Reviews-Ayia_Napa_Sculpture_Park-Ayia_Napa_Famagusta_District.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or90-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or80-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or80-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.8926922008589221,
+            "kỳ nghỉ": 0.9819735700730234,
+            "nhân viên": 0.7368458600055116,
+            "lễ tân": 0.9955232202191837,
+            "trải nghiệm": 0.5,
+            "massage": 0.6383746490561558,
+            "tuần trăng mật": 0.6868845727294683,
+            "đá": -0.975492712459527,
+            "spa": -0.9349448517896235,
+            "đám cưới": 0.5,
+            "ktv": 0.9955858548055403,
+            "mọi người": 0.990729593206197
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "mát",
+                "đông",
+                "tuyệt vời",
+                "tốt"
+            ],
+            "kỳ nghỉ": [],
+            "nhân viên": [
+                "tốt",
+                "tốt",
+                "mát mẻ"
+            ],
+            "lễ tân": [
+                "tốt"
+            ],
+            "trải nghiệm": [],
+            "massage": [
+                "tốt",
+                "nóng",
+                "đầu tiên"
+            ],
+            "tuần trăng mật": [
+                "tuyệt vời"
+            ],
+            "đá": [
+                "nóng"
+            ],
+            "spa": [
+                "nhiều"
+            ],
+            "đám cưới": [],
+            "ktv": [
+                "tuyệt vời"
+            ],
+            "mọi người": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 6,
+            "kỳ nghỉ": 1,
+            "nhân viên": 3,
+            "lễ tân": 1,
+            "trải nghiệm": 2,
+            "massage": 3,
+            "tuần trăng mật": 2,
+            "đá": 1,
+            "spa": 1,
+            "đám cưới": 1,
+            "ktv": 1,
+            "mọi người": 1
+        }
     },
     {
         "attraction_name": "Healthy Spa Da Nang",
@@ -1223,6 +2051,62 @@
             "https://www.tripadvisor.com/Attraction_Review-g295424-d7032491-Reviews-Fun_City-Dubai_Emirate_of_Dubai.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or100-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or90-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g17786366-d19274076-Reviews-or90-Healthy_Spa_Da_Nang-Son_Tra_Peninsula_Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dự án": 0.5341001264750957,
+            "massage": 0.992969947255915,
+            "nhân viên": 0.9937299571174663,
+            "massage chân": 0.597658603452146,
+            "trải nghiệm": 0.9950129923139078,
+            "chất lượng": 0.9915671676862985,
+            "dịch vụ massage chân": 0.9742197280284017,
+            "dịch vụ": 0.8298199334531091,
+            "spa": 0.8080512230226304,
+            "kỹ năng": 0.980162859079428
+        },
+        "dicts_adj": {
+            "dự án": [],
+            "massage": [
+                "tốt"
+            ],
+            "nhân viên": [
+                "nhiệt tình"
+            ],
+            "massage chân": [],
+            "trải nghiệm": [
+                "đúng",
+                "tuyệt vời",
+                "đúng",
+                "tuyệt vời"
+            ],
+            "chất lượng": [
+                "tốt"
+            ],
+            "dịch vụ massage chân": [],
+            "dịch vụ": [
+                "tốt",
+                "tốt"
+            ],
+            "spa": [
+                "tốt"
+            ],
+            "kỹ năng": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dự án": 1,
+            "massage": 2,
+            "nhân viên": 2,
+            "massage chân": 3,
+            "trải nghiệm": 3,
+            "chất lượng": 1,
+            "dịch vụ massage chân": 1,
+            "dịch vụ": 3,
+            "spa": 4,
+            "kỹ năng": 1
+        }
     }
 ]

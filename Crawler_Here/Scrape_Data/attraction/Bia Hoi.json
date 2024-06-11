@@ -106,7 +106,263 @@
             "https://www.tripadvisor.com/Attraction_Review-g55270-d17585538-Reviews-Rowdy_Bear_s_Smoky_Mountain_Snowpark-Pigeon_Forge_Tennessee.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or10-Bia_Hoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-Bia_Hoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-Bia_Hoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.8737691454589367,
+            "phòng": 0.7478528821957298,
+            "tour du lịch": 0.9929623516509309,
+            "giá cả": 0.9529069985728711,
+            "cửa hàng": 0.5,
+            "bia hội": 0.5,
+            "địa điểm uống": 0.5,
+            "rượu": 0.5,
+            "bia": 0.6960745120554098,
+            "đồ ăn": 0.5281465624342673,
+            "người dân địa phương": 0.7940999968443065,
+            "thô ráp": 0.32297277450561523,
+            "giá": 0.8345594185714921,
+            "bia heineken": 0.8737691454589367,
+            "bia địa phương": 0.6868845727294683,
+            "truyền thống": 0.9846688434481621,
+            "bánh rán": -0.9698485794942826,
+            "phố cổ": 0.8737691454589367,
+            "bia tạ": 0.8737691454589367,
+            "bia chai": 0.5,
+            "bát đàn": 0.5,
+            "thùng": 0.995537219918333,
+            "đồ ăn địa phương": 0.9951736786169931,
+            "ghế nhựa": -0.29001193679869175,
+            "trải nghiệm": 0.5,
+            "quán bar": 0.37987565798539435,
+            "nhà hàng": -0.9735988636966795,
+            "đồ uống": 0.16557657885520408,
+            "phố": 0.522492416203022,
+            "cuối phố": 0.9954920376185328,
+            "bia tươi": 0.8737691454589367,
+            "cho": 0.8430441655218601,
+            "cảnh": 0.9951459033181891,
+            "xe tay ga": 0.9951409914065152,
+            "xe đạp xe đạp": 0.9944029119797051,
+            "món ăn địa phương": 0.5,
+            "quán bia": 0.5,
+            "sườn heo": 0.4659622646868229,
+            "muối": 0.9944140817970037,
+            "ớt": 0.9941369014559314,
+            "khai vị": 0.9719072822190356,
+            "dịch vụ đường phố": 0.9953140398720279,
+            "bia tự làm": 0.6652544625103474,
+            "quán cà phê": 0.6203439179807901,
+            "phố bia": 0.5179512612521648,
+            "khách sạn": 0.5,
+            "chợ đêm": 0.7460062117315829
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "tuyệt vời",
+                "nhiệt tình"
+            ],
+            "phòng": [
+                "tốt",
+                "có thể"
+            ],
+            "tour du lịch": [
+                "tốt"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "cửa hàng": [],
+            "bia hội": [],
+            "địa điểm uống": [],
+            "rượu": [],
+            "bia": [
+                "sẵn sàng",
+                "ngon",
+                "khác",
+                "tươi",
+                "nổi tiếng",
+                "nhiều",
+                "ngon",
+                "ngon"
+            ],
+            "đồ ăn": [
+                "riêng",
+                "rẻ",
+                "hơn",
+                "rộng rãi",
+                "nhiều",
+                "nhiệt tình"
+            ],
+            "người dân địa phương": [
+                "đông",
+                "đông",
+                "thực sự",
+                "tuyệt vời",
+                "bất kỳ",
+                "tươi",
+                "tuyệt vời"
+            ],
+            "thô ráp": [
+                "sẵn sàng"
+            ],
+            "giá": [
+                "rẻ",
+                "tương đương"
+            ],
+            "bia heineken": [
+                "lạ lùng",
+                "trái ngược"
+            ],
+            "bia địa phương": [
+                "ngon",
+                "trực tiếp"
+            ],
+            "truyền thống": [
+                "đặc biệt",
+                "tuyệt"
+            ],
+            "bánh rán": [
+                "thông minh",
+                "nhiều",
+                "khó chịu",
+                "liên tục",
+                "dứt khoát"
+            ],
+            "phố cổ": [
+                "sành điệu"
+            ],
+            "bia tạ": [
+                "sành điệu"
+            ],
+            "bia chai": [],
+            "bát đàn": [],
+            "thùng": [
+                "ngon"
+            ],
+            "đồ ăn địa phương": [
+                "ngon"
+            ],
+            "ghế nhựa": [
+                "nhỏ"
+            ],
+            "trải nghiệm": [],
+            "quán bar": [
+                "khét tiếng",
+                "nhiều",
+                "ngon",
+                "ngon"
+            ],
+            "nhà hàng": [
+                "khét tiếng"
+            ],
+            "đồ uống": [
+                "khét tiếng",
+                "rẻ",
+                "hơn"
+            ],
+            "phố": [
+                "trái"
+            ],
+            "cuối phố": [
+                "rẻ",
+                "hơn"
+            ],
+            "bia tươi": [
+                "rẻ"
+            ],
+            "cho": [
+                "hơn"
+            ],
+            "cảnh": [
+                "tuyệt vời"
+            ],
+            "xe tay ga": [
+                "tuyệt vời"
+            ],
+            "xe đạp xe đạp": [
+                "tuyệt vời"
+            ],
+            "món ăn địa phương": [],
+            "quán bia": [],
+            "sườn heo": [
+                "khô"
+            ],
+            "muối": [
+                "nhiều",
+                "ngon"
+            ],
+            "ớt": [
+                "nhiều",
+                "ngon"
+            ],
+            "khai vị": [
+                "nhiều",
+                "ngon"
+            ],
+            "dịch vụ đường phố": [
+                "ngon"
+            ],
+            "bia tự làm": [],
+            "quán cà phê": [
+                "nhiệt tình"
+            ],
+            "phố bia": [],
+            "khách sạn": [],
+            "chợ đêm": [
+                "gần"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 1.5,
+            "phòng": 1,
+            "tour du lịch": 1,
+            "giá cả": 1,
+            "cửa hàng": 1,
+            "bia hội": 1,
+            "địa điểm uống": 1,
+            "rượu": 1,
+            "bia": 3.5,
+            "đồ ăn": 2.5,
+            "người dân địa phương": 2.5,
+            "thô ráp": 1,
+            "giá": 1.5,
+            "bia heineken": 0.5,
+            "bia địa phương": 1.0,
+            "truyền thống": 0.5,
+            "bánh rán": 0.5,
+            "phố cổ": 0.5,
+            "bia tạ": 0.5,
+            "bia chai": 0.5,
+            "bát đàn": 0.5,
+            "thùng": 0.5,
+            "đồ ăn địa phương": 0.5,
+            "ghế nhựa": 0.5,
+            "trải nghiệm": 0.5,
+            "quán bar": 2.0,
+            "nhà hàng": 0.5,
+            "đồ uống": 0.5,
+            "phố": 0.5,
+            "cuối phố": 0.5,
+            "bia tươi": 0.5,
+            "cho": 0.5,
+            "cảnh": 0.5,
+            "xe tay ga": 0.5,
+            "xe đạp xe đạp": 0.5,
+            "món ăn địa phương": 0.5,
+            "quán bia": 0.5,
+            "sườn heo": 0.5,
+            "muối": 0.5,
+            "ớt": 0.5,
+            "khai vị": 0.5,
+            "dịch vụ đường phố": 0.5,
+            "bia tự làm": 0.5,
+            "quán cà phê": 0.5,
+            "phố bia": 0.5,
+            "khách sạn": 0.5,
+            "chợ đêm": 0.5
+        }
     },
     {
         "attraction_name": "Bia Hoi",
@@ -216,7 +472,166 @@
             "https://www.tripadvisor.com/Attraction_Review-g297968-d17723764-Reviews-Karma_Restaurant_Night_Club-Side_Manavgat_Turkish_Mediterranean_Coast.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or20-Bia_Hoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or10-Bia_Hoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or10-Bia_Hoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bia": 0.7326093007702313,
+            "thực phẩm": 0.9922831015428528,
+            "nhà vệ sinh": -0.9753481040243059,
+            "giấy vệ sinh": 0.5,
+            "dịch vụ": 0.9955987585708499,
+            "bia hơi": 0.8737691454589367,
+            "bia nhẹ": 0.5476799793541431,
+            "khu phố cổ": 0.5,
+            "bia địa phương": 0.8274222575128078,
+            "cơ quan": -0.5813333718106151,
+            "giá": 0.8413291210308671,
+            "bầu không khí": 0.5,
+            "bia đó": 0.535541714169085,
+            "thức ăn": 0.8737691454589367,
+            "thịt lợn nướng vừng": 0.5,
+            "thức ăn đường phố": 0.9892908910987899,
+            "đồ ăn": 0.9219703630078584,
+            "người dân địa phương": 0.5209551379084587,
+            "quán bar": 0.5,
+            "đồ ăn địa phương": 0.5,
+            "bia lạnh": 0.9954999838373624,
+            "chim cút": 0.9291413137689233,
+            "trải nghiệm": 0.9952929429709911,
+            "bữa tiệc": 0.5,
+            "nhân viên": -0.8317727074027061,
+            "thực đơn": 0.5,
+            "đồ uống": 0.5,
+            "nhà hàng": 0.5
+        },
+        "dicts_adj": {
+            "bia": [
+                "khác",
+                "gần",
+                "khác",
+                "gần",
+                "nhẹ",
+                "rẻ",
+                "thấp",
+                "nổi tiếng",
+                "cũ",
+                "cũ",
+                "bất kỳ",
+                "cũ",
+                "rẻ",
+                "rẻ",
+                "rẻ",
+                "rẻ",
+                "tuyệt khi",
+                "nhỏ",
+                "bia tươi"
+            ],
+            "thực phẩm": [
+                "trung bình",
+                "đắt"
+            ],
+            "nhà vệ sinh": [
+                "tồi tệ"
+            ],
+            "giấy vệ sinh": [],
+            "dịch vụ": [
+                "nhanh chóng",
+                "tuyệt vời"
+            ],
+            "bia hơi": [
+                "thấp",
+                "nhẹ",
+                "rẻ",
+                "thấp",
+                "nổi tiếng"
+            ],
+            "bia nhẹ": [
+                "thấp"
+            ],
+            "khu phố cổ": [],
+            "bia địa phương": [
+                "cũ"
+            ],
+            "cơ quan": [
+                "tối đa"
+            ],
+            "giá": [
+                "rẻ",
+                "rẻ",
+                "rẻ"
+            ],
+            "bầu không khí": [],
+            "bia đó": [
+                "rẻ"
+            ],
+            "thức ăn": [
+                "tuyệt vời"
+            ],
+            "thịt lợn nướng vừng": [],
+            "thức ăn đường phố": [
+                "cổ",
+                "nhiều"
+            ],
+            "đồ ăn": [
+                "rẻ",
+                "rẻ"
+            ],
+            "người dân địa phương": [
+                "nhiều",
+                "ít"
+            ],
+            "quán bar": [],
+            "đồ ăn địa phương": [],
+            "bia lạnh": [
+                "tuyệt vời",
+                "ngon"
+            ],
+            "chim cút": [],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "bữa tiệc": [],
+            "nhân viên": [
+                "khó khăn",
+                "thiếu",
+                "lớn tuổi",
+                "khác"
+            ],
+            "thực đơn": [],
+            "đồ uống": [],
+            "nhà hàng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bia": 3.5,
+            "thực phẩm": 0.5,
+            "nhà vệ sinh": 0.5,
+            "giấy vệ sinh": 0.5,
+            "dịch vụ": 0.5,
+            "bia hơi": 0.5,
+            "bia nhẹ": 0.5,
+            "khu phố cổ": 0.5,
+            "bia địa phương": 0.5,
+            "cơ quan": 0.5,
+            "giá": 1.0,
+            "bầu không khí": 0.5,
+            "bia đó": 0.5,
+            "thức ăn": 0.5,
+            "thịt lợn nướng vừng": 0.5,
+            "thức ăn đường phố": 0.5,
+            "đồ ăn": 1.0,
+            "người dân địa phương": 0.5,
+            "quán bar": 0.5,
+            "đồ ăn địa phương": 0.5,
+            "bia lạnh": 0.5,
+            "chim cút": 0.5,
+            "trải nghiệm": 0.5,
+            "bữa tiệc": 0.5,
+            "nhân viên": 0.5,
+            "thực đơn": 0.5,
+            "đồ uống": 0.5,
+            "nhà hàng": 0.5
+        }
     },
     {
         "attraction_name": "Bia Hoi",
@@ -327,7 +742,162 @@
             "https://www.tripadvisor.com/Attraction_Review-g45235-d286665-Reviews-Wild_Horse_Island_State_Park-Kalispell_Montana.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or30-Bia_Hoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or20-Bia_Hoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or20-Bia_Hoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bia": 0.5117026151056052,
+            "bia ấm": 0.8737691454589367,
+            "nhân viên": -0.9458125160890631,
+            "quán rượu": 0.5267005246132612,
+            "ba quán": 0.5,
+            "người dân địa phương": 0.6731474849705895,
+            "bia hội": 0.8737691454589367,
+            "phố": 0.5066945739090443,
+            "quán": -0.9348664027638733,
+            "đường phố": 0.6132852926384658,
+            "khu phố cổ": 0.7080942839384079,
+            "thức ăn": 0.9944538450799882,
+            "quán bar": 0.5,
+            "nhà hàng": 0.40634042955935,
+            "bia cạnh tranh": 0.5,
+            "đồ ăn": 0.5740530136972666,
+            "người": 0.5649476135149598,
+            "giá": 0.9955459639313631,
+            "đồ uống": 0.9950523312436417,
+            "bữa tối": 0.5,
+            "khách sạn": 0.5,
+            "phố cổ": 0.5,
+            "con phố": 0.5,
+            "bữa tiệc": 0.5,
+            "vỉa hè": -0.2185311559587717,
+            "cốc": -0.07101764529943466,
+            "hàng tấn": 0.5,
+            "chỗ ngồi": 0.5,
+            "bầu không khí": 0.9885348977986723
+        },
+        "dicts_adj": {
+            "bia": [
+                "is",
+                "no",
+                "khổng lồ",
+                "Thật sự",
+                "thú vị",
+                "khác",
+                "ngon",
+                "nhất",
+                "rẻ",
+                "nhất"
+            ],
+            "bia ấm": [
+                "nhiều",
+                "nhỏ"
+            ],
+            "nhân viên": [
+                "thô lỗ",
+                "thô lỗ",
+                "tốt"
+            ],
+            "quán rượu": [
+                "bình thường"
+            ],
+            "ba quán": [],
+            "người dân địa phương": [
+                "nhỏ",
+                "ngon",
+                "ngon"
+            ],
+            "bia hội": [
+                "nhỏ"
+            ],
+            "phố": [
+                "nhỏ"
+            ],
+            "quán": [
+                "khổng lồ"
+            ],
+            "đường phố": [
+                "thú vị",
+                "đông đúc",
+                "khó",
+                "ngon",
+                "ngon"
+            ],
+            "khu phố cổ": [],
+            "thức ăn": [
+                "nhiều",
+                "khác",
+                "ngon"
+            ],
+            "quán bar": [],
+            "nhà hàng": [
+                "nhỏ"
+            ],
+            "bia cạnh tranh": [],
+            "đồ ăn": [
+                "nhiều"
+            ],
+            "người": [
+                "trẻ"
+            ],
+            "giá": [
+                "ngon",
+                "nhất",
+                "tốt"
+            ],
+            "đồ uống": [
+                "nhỏ",
+                "tuyệt vời",
+                "lạnh"
+            ],
+            "bữa tối": [],
+            "khách sạn": [],
+            "phố cổ": [],
+            "con phố": [],
+            "bữa tiệc": [],
+            "vỉa hè": [
+                "nhỏ"
+            ],
+            "cốc": [
+                "cũ"
+            ],
+            "hàng tấn": [],
+            "chỗ ngồi": [],
+            "bầu không khí": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bia": 4.0,
+            "bia ấm": 0.5,
+            "nhân viên": 1.0,
+            "quán rượu": 0.5,
+            "ba quán": 0.5,
+            "người dân địa phương": 1.5,
+            "bia hội": 0.5,
+            "phố": 0.5,
+            "quán": 0.5,
+            "đường phố": 1.5,
+            "khu phố cổ": 0.5,
+            "thức ăn": 1.0,
+            "quán bar": 0.5,
+            "nhà hàng": 1.0,
+            "bia cạnh tranh": 0.5,
+            "đồ ăn": 0.5,
+            "người": 0.5,
+            "giá": 0.5,
+            "đồ uống": 0.5,
+            "bữa tối": 0.5,
+            "khách sạn": 0.5,
+            "phố cổ": 0.5,
+            "con phố": 0.5,
+            "bữa tiệc": 0.5,
+            "vỉa hè": 0.5,
+            "cốc": 0.5,
+            "hàng tấn": 0.5,
+            "chỗ ngồi": 0.5,
+            "bầu không khí": 0.5
+        }
     },
     {
         "attraction_name": "Bia Hoi",
@@ -438,7 +1008,264 @@
             "https://www.tripadvisor.com/Attraction_Review-g32847-d181820-Reviews-Oasis_Water_Resort-Palm_Springs_Greater_Palm_Springs_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or40-Bia_Hoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or30-Bia_Hoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or30-Bia_Hoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quán": 0.8737691454589367,
+            "ghế nhựa": -0.29001193679869175,
+            "ly bia": 0.9857177648227662,
+            "tránh nhà vệ sinh": -0.9437176450155675,
+            "bia": 0.5107541680280563,
+            "bia hội": 0.7491794303059578,
+            "bia tươi": 0.6868845727294683,
+            "5k": 0.9478478296659887,
+            "quán bar": 0.8038573438146461,
+            "nhà hàng": 0.9853555426234379,
+            "ly": -0.43267951894085854,
+            "phố bia": 0.5898566003888845,
+            "phố cổ": 0.5,
+            "người việt nam": 0.6132499789819121,
+            "đồ ăn nhẹ": 0.737116338898583,
+            "bữa tối": 0.9737019462045282,
+            "họ": 0.8737691454589367,
+            "bia địa phương": -0.9003267388325185,
+            "phố": 0.5430392287671566,
+            "cửa hàng": 0.022127890959382057,
+            "ghế": -0.309330471791327,
+            "đám đông": 0.8450434673577547,
+            "chợ đêm": 0.8737691454589367,
+            "nhân viên": 0.527529202401638,
+            "người xem": 0.9928990089683793,
+            "cơ sở": 0.5,
+            "người dân địa phương": 0.36577291702269576,
+            "lễ hội": 0.9890224224363919,
+            "giá": 0.8413291210308671,
+            "không khí": -0.895875827409327,
+            "quán rượu": 0.541660325601697,
+            "câu lạc bộ": 0.8472033170983195,
+            "âm nhạc": 0.96135039255023,
+            "đồ uống": 0.5462930828798562,
+            "đồ ăn": 0.17526336759328842,
+            "bia rẻ tiền": 0.9928474515327252,
+            "buổi biểu diễn": 0.5,
+            "sống động": 0.9780607968568802,
+            "đồ ăn địa phương": 0.4202575637027621,
+            "trẻ em": 0.2427080367342569
+        },
+        "dicts_adj": {
+            "quán": [
+                "nhỏ",
+                "ngon"
+            ],
+            "ghế nhựa": [
+                "nhỏ"
+            ],
+            "ly bia": [
+                "cực",
+                "rẻ"
+            ],
+            "tránh nhà vệ sinh": [],
+            "bia": [
+                "tuyệt vời",
+                "tươi",
+                "rẻ",
+                "Chắc chắn",
+                "ngon",
+                "gần",
+                "đầy",
+                "vui",
+                "rẻ",
+                "rẻ",
+                "đầy",
+                "vui",
+                "rẻ",
+                "rẻ",
+                "thẳng",
+                "tươi",
+                "rẻ",
+                "nhỏ",
+                "ngon",
+                "giống"
+            ],
+            "bia hội": [
+                "nổi tiếng",
+                "tươi"
+            ],
+            "bia tươi": [
+                "rẻ"
+            ],
+            "5k": [
+                "đắt",
+                "hơn",
+                "xứng đáng"
+            ],
+            "quán bar": [
+                "tươi",
+                "cẩn thận",
+                "hơn",
+                "khác"
+            ],
+            "nhà hàng": [
+                "tươi"
+            ],
+            "ly": [
+                "sạch",
+                "nhỏ"
+            ],
+            "phố bia": [
+                "nổi tiếng"
+            ],
+            "phố cổ": [],
+            "người việt nam": [
+                "sớm",
+                "đông đúc"
+            ],
+            "đồ ăn nhẹ": [
+                "đầy đủ",
+                "ngon",
+                "thực sự",
+                "thấp"
+            ],
+            "bữa tối": [
+                "đầy đủ"
+            ],
+            "họ": [
+                "khác"
+            ],
+            "bia địa phương": [
+                "khác"
+            ],
+            "phố": [
+                "nhỏ"
+            ],
+            "cửa hàng": [
+                "nhỏ"
+            ],
+            "ghế": [
+                "nhỏ",
+                "nhiều",
+                "nhỏ",
+                "vàng",
+                "tệ",
+                "lâu",
+                "hơn"
+            ],
+            "đám đông": [
+                "sạch sẽ",
+                "khác"
+            ],
+            "chợ đêm": [
+                "gần"
+            ],
+            "nhân viên": [
+                "xuất sắc"
+            ],
+            "người xem": [
+                "xuất sắc"
+            ],
+            "cơ sở": [],
+            "người dân địa phương": [
+                "đầy",
+                "vui",
+                "rẻ",
+                "rẻ",
+                "khác"
+            ],
+            "lễ hội": [
+                "đầy",
+                "vui",
+                "rẻ",
+                "rẻ"
+            ],
+            "giá": [
+                "rẻ"
+            ],
+            "không khí": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "quán rượu": [
+                "cẩn thận"
+            ],
+            "câu lạc bộ": [
+                "hơn",
+                "khác"
+            ],
+            "âm nhạc": [
+                "hơn",
+                "khác"
+            ],
+            "đồ uống": [
+                "hơn",
+                "khác",
+                "thực sự",
+                "thấp"
+            ],
+            "đồ ăn": [
+                "nhẹ",
+                "tuyệt"
+            ],
+            "bia rẻ tiền": [
+                "nhỏ",
+                "ngon",
+                "giống"
+            ],
+            "buổi biểu diễn": [],
+            "sống động": [
+                "trẻ trung"
+            ],
+            "đồ ăn địa phương": [
+                "thực sự",
+                "thấp"
+            ],
+            "trẻ em": [
+                "nhỏ",
+                "vui vẻ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quán": 0.5,
+            "ghế nhựa": 0.5,
+            "ly bia": 0.5,
+            "tránh nhà vệ sinh": 0.5,
+            "bia": 3.5,
+            "bia hội": 1.5,
+            "bia tươi": 1.0,
+            "5k": 0.5,
+            "quán bar": 1.0,
+            "nhà hàng": 0.5,
+            "ly": 0.5,
+            "phố bia": 0.5,
+            "phố cổ": 0.5,
+            "người việt nam": 0.5,
+            "đồ ăn nhẹ": 1.5,
+            "bữa tối": 0.5,
+            "họ": 0.5,
+            "bia địa phương": 0.5,
+            "phố": 0.5,
+            "cửa hàng": 0.5,
+            "ghế": 1.0,
+            "đám đông": 0.5,
+            "chợ đêm": 0.5,
+            "nhân viên": 0.5,
+            "người xem": 0.5,
+            "cơ sở": 0.5,
+            "người dân địa phương": 1.0,
+            "lễ hội": 0.5,
+            "giá": 0.5,
+            "không khí": 0.5,
+            "quán rượu": 0.5,
+            "câu lạc bộ": 0.5,
+            "âm nhạc": 0.5,
+            "đồ uống": 1.0,
+            "đồ ăn": 0.5,
+            "bia rẻ tiền": 0.5,
+            "buổi biểu diễn": 0.5,
+            "sống động": 0.5,
+            "đồ ăn địa phương": 0.5,
+            "trẻ em": 0.5
+        }
     },
     {
         "attraction_name": "Bia Hoi",
@@ -549,7 +1376,180 @@
             "https://www.tripadvisor.com/Attraction_Review-g293797-d12873860-Reviews-Osu_Castle-Accra_Greater_Accra.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or50-Bia_Hoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or40-Bia_Hoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or40-Bia_Hoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bia": 0.1561906256756629,
+            "rượu khuya": 0.5,
+            "người dân địa phương": 0.5,
+            "sân khấu": 0.5,
+            "âm nhạc": -0.1735885723028332,
+            "chỗ ngồi": -0.34874976612627506,
+            "sản phẩm": 0.5,
+            "mức độ": 0.5,
+            "đồ ăn": 0.802342425621464,
+            "cho": 0.5,
+            "bia địa phương": 0.5,
+            "trải nghiệm": 0.995203890663106,
+            "vị trí": 0.9955062947119586,
+            "không khí": -0.9704278255812824,
+            "quán bar": 0.7472503375611268,
+            "quán rượu": 0.509109481528867,
+            "đồ uống": 0.9937364583893213,
+            "ghế đẩu": 0.4491422828286886,
+            "giờ khuyến mãi": 0.9529769793152809,
+            "giá": 0.8737691454589367,
+            "chả giò": 0.5,
+            "cá ăn": 0.5,
+            "vỏ trái cây": -0.9725785059854388,
+            "nhà cung": -0.9670698060654104,
+            "tấm biển": 0.49999518878757954,
+            "quán bar địa phương": 0.5002544857561588,
+            "người dân": 0.5139557574875653,
+            "hoạt động địa phương": -0.15350692672654986,
+            "bia mềm": 0.8737691454589367,
+            "thời tiết": 0.5,
+            "ghế nhựa": 0.5,
+            "bầu không khí": 0.5,
+            "cảnh": 0.9482712070457637
+        },
+        "dicts_adj": {
+            "bia": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tươi",
+                "Hoàn toàn",
+                "tuyệt",
+                "thực sự",
+                "rẻ",
+                "khác",
+                "nhiều"
+            ],
+            "rượu khuya": [],
+            "người dân địa phương": [],
+            "sân khấu": [],
+            "âm nhạc": [
+                "ồn ào"
+            ],
+            "chỗ ngồi": [
+                "thoải mái"
+            ],
+            "sản phẩm": [],
+            "mức độ": [],
+            "đồ ăn": [
+                "tốt",
+                "khác",
+                "nhiều",
+                "nhẹ",
+                "hơn",
+                "khác",
+                "tệ",
+                "ngon"
+            ],
+            "cho": [],
+            "bia địa phương": [],
+            "trải nghiệm": [
+                "thú vị",
+                "tuyệt vời"
+            ],
+            "vị trí": [
+                "đẹp"
+            ],
+            "không khí": [
+                "đẹp"
+            ],
+            "quán bar": [
+                "rõ ràng",
+                "hoàn toàn",
+                "xa",
+                "sang trọng"
+            ],
+            "quán rượu": [
+                "vui vẻ",
+                "sang trọng"
+            ],
+            "đồ uống": [
+                "vui vẻ"
+            ],
+            "ghế đẩu": [
+                "nhỏ"
+            ],
+            "giờ khuyến mãi": [
+                "thông thường"
+            ],
+            "giá": [
+                "rẻ",
+                "nhiều"
+            ],
+            "chả giò": [],
+            "cá ăn": [],
+            "vỏ trái cây": [
+                "đầy"
+            ],
+            "nhà cung": [
+                "khác"
+            ],
+            "tấm biển": [
+                "khác"
+            ],
+            "quán bar địa phương": [
+                "thực sự",
+                "nhiều"
+            ],
+            "người dân": [
+                "bình thường",
+                "thực sự"
+            ],
+            "hoạt động địa phương": [
+                "bình thường",
+                "thực sự"
+            ],
+            "bia mềm": [
+                "rẻ"
+            ],
+            "thời tiết": [],
+            "ghế nhựa": [],
+            "bầu không khí": [],
+            "cảnh": [
+                "thường xuyên"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bia": 4.0,
+            "rượu khuya": 0.5,
+            "người dân địa phương": 0.5,
+            "sân khấu": 0.5,
+            "âm nhạc": 1.0,
+            "chỗ ngồi": 0.5,
+            "sản phẩm": 0.5,
+            "mức độ": 0.5,
+            "đồ ăn": 2.0,
+            "cho": 0.5,
+            "bia địa phương": 0.5,
+            "trải nghiệm": 1.0,
+            "vị trí": 0.5,
+            "không khí": 0.5,
+            "quán bar": 1.0,
+            "quán rượu": 1.0,
+            "đồ uống": 1.0,
+            "ghế đẩu": 0.5,
+            "giờ khuyến mãi": 0.5,
+            "giá": 0.5,
+            "chả giò": 0.5,
+            "cá ăn": 0.5,
+            "vỏ trái cây": 0.5,
+            "nhà cung": 0.5,
+            "tấm biển": 0.5,
+            "quán bar địa phương": 0.5,
+            "người dân": 0.5,
+            "hoạt động địa phương": 0.5,
+            "bia mềm": 0.5,
+            "thời tiết": 0.5,
+            "ghế nhựa": 0.5,
+            "bầu không khí": 0.5,
+            "cảnh": 0.5
+        }
     },
     {
         "attraction_name": "Bia Hoi",
@@ -660,7 +1660,222 @@
             "https://www.tripadvisor.com/Attraction_Review-g51424-d8685751-Reviews-The_Endangered_Ark_Foundation-Hugo_Oklahoma.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or60-Bia_Hoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or50-Bia_Hoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or50-Bia_Hoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "con phố": 0.8737691454589367,
+            "giá cả": 0.5749033375177532,
+            "không khí": 0.8737691454589367,
+            "sống động": 0.5,
+            "bia hội": 0.9954186126124114,
+            "bia": 0.7412113312387927,
+            "bia tươi": 0.8737691454589367,
+            "đồng": 0.995377307466697,
+            "đồ ăn": 0.8839812949784875,
+            "trải nghiệm": 0.9932701628422365,
+            "chất bảo": 0.5,
+            "bia đóng chai": -0.4260424929088913,
+            "món ăn": 0.01592678652377799,
+            "chủ quán": 0.9872327889315784,
+            "ghế nhựa": 0.5398533344268799,
+            "bánh mì nướng gà": 0.9940387837123126,
+            "bầu không khí": -0.11347560817375779,
+            "người dân địa phương": 0.6245897151529789,
+            "phố cổ": 0.9014504877850413,
+            "rượu": 0.5,
+            "đồ ăn đường phố": 0.5,
+            "giá": 0.9448351279133931,
+            "trang phục": 0.9941464259463828,
+            "đồ uống": 0.551866814494133,
+            "chợ đêm": 0.24663479253649712,
+            "cửa hàng": 0.4371196173597127,
+            "lưu trú": 0.991804807272274,
+            "chiếc ghế nhựa": 0.5,
+            "bia tươi địa": 0.9952263707527891,
+            "bia hơi": 0.5,
+            "thức ăn": 0.9822967217769474,
+            "chả giò": 0.5,
+            "cơm chiên": 0.5,
+            "hải sản": 0.5,
+            "mì bò": 0.5,
+            "thịt bbq": 0.8737691454589367,
+            "thịt nướng": 0.33637307832638424,
+            "rau củ": 0.5
+        },
+        "dicts_adj": {
+            "con phố": [
+                "đông đúc"
+            ],
+            "giá cả": [
+                "cao",
+                "hơn",
+                "nhiều",
+                "khác"
+            ],
+            "không khí": [
+                "tuyệt vời"
+            ],
+            "sống động": [],
+            "bia hội": [
+                "mát",
+                "rẻ"
+            ],
+            "bia": [
+                "nhiều",
+                "khác",
+                "khoảng",
+                "đắt",
+                "hơn",
+                "nhiều",
+                "nhẹ",
+                "nhẹ",
+                "ngon",
+                "rẻ",
+                "tuyệt vời",
+                "ít",
+                "rẻ",
+                "tuyệt vời"
+            ],
+            "bia tươi": [
+                "rẻ",
+                "ngon"
+            ],
+            "đồng": [
+                "rẻ",
+                "ngon"
+            ],
+            "đồ ăn": [
+                "rẻ",
+                "ngon",
+                "rẻ",
+                "tuyệt vời",
+                "thường xuyên"
+            ],
+            "trải nghiệm": [],
+            "chất bảo": [],
+            "bia đóng chai": [
+                "đắt",
+                "hơn",
+                "gấp",
+                "hơn"
+            ],
+            "món ăn": [
+                "tuyệt vời"
+            ],
+            "chủ quán": [
+                "gần",
+                "bối rối",
+                "cuối cùng",
+                "ổn"
+            ],
+            "ghế nhựa": [
+                "nhỏ"
+            ],
+            "bánh mì nướng gà": [],
+            "bầu không khí": [
+                "tuyệt vời"
+            ],
+            "người dân địa phương": [
+                "đẹp",
+                "nhiều"
+            ],
+            "phố cổ": [
+                "già",
+                "trẻ"
+            ],
+            "rượu": [],
+            "đồ ăn đường phố": [],
+            "giá": [
+                "rẻ",
+                "tuyệt vời",
+                "rẻ",
+                "rẻ"
+            ],
+            "trang phục": [
+                "đẹp",
+                "nhiều"
+            ],
+            "đồ uống": [
+                "thường xuyên"
+            ],
+            "chợ đêm": [
+                "gần",
+                "nổi tiếng"
+            ],
+            "cửa hàng": [
+                "đắt",
+                "hơn",
+                "rõ ràng",
+                "ngắn"
+            ],
+            "lưu trú": [
+                "rẻ"
+            ],
+            "chiếc ghế nhựa": [],
+            "bia tươi địa": [
+                "muộn"
+            ],
+            "bia hơi": [],
+            "thức ăn": [
+                "rẻ"
+            ],
+            "chả giò": [],
+            "cơm chiên": [],
+            "hải sản": [],
+            "mì bò": [],
+            "thịt bbq": [
+                "nhỏ",
+                "nhiều",
+                "khác"
+            ],
+            "thịt nướng": [
+                "nhỏ",
+                "nhiều",
+                "khác"
+            ],
+            "rau củ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "con phố": 0.5,
+            "giá cả": 0.5,
+            "không khí": 0.5,
+            "sống động": 0.5,
+            "bia hội": 0.5,
+            "bia": 3.5,
+            "bia tươi": 0.5,
+            "đồng": 0.5,
+            "đồ ăn": 1.0,
+            "trải nghiệm": 0.5,
+            "chất bảo": 0.5,
+            "bia đóng chai": 1.0,
+            "món ăn": 1.0,
+            "chủ quán": 0.5,
+            "ghế nhựa": 0.5,
+            "bánh mì nướng gà": 0.5,
+            "bầu không khí": 1.0,
+            "người dân địa phương": 1.5,
+            "phố cổ": 0.5,
+            "rượu": 0.5,
+            "đồ ăn đường phố": 0.5,
+            "giá": 0.5,
+            "trang phục": 0.5,
+            "đồ uống": 0.5,
+            "chợ đêm": 0.5,
+            "cửa hàng": 0.5,
+            "lưu trú": 0.5,
+            "chiếc ghế nhựa": 0.5,
+            "bia tươi địa": 0.5,
+            "bia hơi": 0.5,
+            "thức ăn": 0.5,
+            "chả giò": 0.5,
+            "cơm chiên": 0.5,
+            "hải sản": 0.5,
+            "mì bò": 0.5,
+            "thịt bbq": 0.5,
+            "thịt nướng": 0.5,
+            "rau củ": 0.5
+        }
     },
     {
         "attraction_name": "Bia Hoi",
@@ -771,7 +1986,265 @@
             "https://www.tripadvisor.com/Attraction_Review-g503839-d215576-Reviews-Paultons_Park-Romsey_Hampshire_England.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or70-Bia_Hoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or60-Bia_Hoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or60-Bia_Hoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bia": 0.5751909343880557,
+            "trải nghiệm": 0.7474505174614023,
+            "tiếc nuối": -0.13265658154462776,
+            "bia địa phương": 0.9918718780390918,
+            "bia đóng chai": -0.9545226753689349,
+            "câu lạc bộ": 0.8737691454589367,
+            "âm nhạc": -0.6492136754095554,
+            "khu phố cổ": -0.012336758081801236,
+            "điều tầm": 0.5,
+            "chất lượng": 0.5,
+            "vệ sinh": 0.5,
+            "hệ thống tiêu hóa": -0.9733372002374381,
+            "dịch vụ": -0.9706851332448423,
+            "bầu không khí": 0.5,
+            "chiếc": 0.4234945308417082,
+            "ghế nhựa": 0.03954768879339099,
+            "ba đông đúc": -0.9736326695419848,
+            "món ăn": 0.6465769197287349,
+            "mẹo": -0.9581297792028636,
+            "văn hóa": -0.9760951523203403,
+            "cơ sở": 0.9923715068725869,
+            "quán bar": -0.9612974558258429,
+            "mắt": -0.9610996684059501,
+            "giá": 0.4532846245195039,
+            "bia lạnh": 0.6868845727294683,
+            "người dân địa phương": 0.5,
+            "bia tầm": 0.5,
+            "khung cảnh": 0.5,
+            "đường phố": 0.5,
+            "đồ ăn": -0.17410205968189985,
+            "bãi đỗ xe máy": -0.2840875070542097,
+            "luật giao thông": 0.5981418527662754,
+            "vụ": -0.9563659438863397,
+            "món ăn đường phố": 0.9927075153682381,
+            "bia hội": 0.8737691454589367,
+            "nhà hàng đường phố": 0.5047779213637114,
+            "thùng": 0.6170190069824457,
+            "ly": 0.5,
+            "bức tranh": 0.5,
+            "lịch trình du lịch": 0.6557875648140907,
+            "cuộc sống địa phương": 0.5,
+            "bia hơi trong": 0.3746146634221077,
+            "hạt hướng dương": 0.5,
+            "cơ sở địa phương": 0.4496531989425421
+        },
+        "dicts_adj": {
+            "bia": [
+                "thực sự",
+                "ngon",
+                "thực sự",
+                "rẻ",
+                "thực sự",
+                "duy nhất",
+                "lâu",
+                "hơn",
+                "nhiều",
+                "chủ yếu",
+                "trẻ",
+                "châu Âu",
+                "nhiều",
+                "tương đương",
+                "nhỏ",
+                "giống",
+                "nhiều",
+                "bất kỳ",
+                "khác",
+                "nhỏ",
+                "rẻ",
+                "thú vị",
+                "rẻ",
+                "thú vị",
+                "rẻ",
+                "ngon",
+                "đơn giản",
+                "trực tiếp",
+                "tươi"
+            ],
+            "trải nghiệm": [
+                "chắc chắn"
+            ],
+            "tiếc nuối": [
+                "duy nhất",
+                "lâu",
+                "hơn"
+            ],
+            "bia địa phương": [],
+            "bia đóng chai": [
+                "đắt"
+            ],
+            "câu lạc bộ": [
+                "thực sự",
+                "sẵn sàng",
+                "cao"
+            ],
+            "âm nhạc": [
+                "khó chịu"
+            ],
+            "khu phố cổ": [
+                "Đắt",
+                "hơn",
+                "khác",
+                "khắp",
+                "khác"
+            ],
+            "điều tầm": [],
+            "chất lượng": [],
+            "vệ sinh": [],
+            "hệ thống tiêu hóa": [
+                "thứ tệ"
+            ],
+            "dịch vụ": [
+                "thực sự"
+            ],
+            "bầu không khí": [],
+            "chiếc": [
+                "nhỏ xíu"
+            ],
+            "ghế nhựa": [
+                "nhỏ xíu"
+            ],
+            "ba đông đúc": [
+                "chủ yếu",
+                "trẻ",
+                "châu Âu"
+            ],
+            "món ăn": [
+                "chủ yếu",
+                "trẻ",
+                "châu Âu",
+                "đơn giản"
+            ],
+            "mẹo": [
+                "đầy"
+            ],
+            "văn hóa": [
+                "đầy"
+            ],
+            "cơ sở": [
+                "khủng khiếp",
+                "khác",
+                "dọc"
+            ],
+            "quán bar": [
+                "khác"
+            ],
+            "mắt": [
+                "lạ mắt",
+                "rẻ"
+            ],
+            "giá": [
+                "bất kỳ",
+                "khó",
+                "nhiều",
+                "bất kỳ",
+                "khó",
+                "nhiều",
+                "bất kỳ",
+                "khó",
+                "nhiều",
+                "rẻ",
+                "thú vị",
+                "thấp"
+            ],
+            "bia lạnh": [
+                "giống",
+                "nhiều",
+                "bất kỳ"
+            ],
+            "người dân địa phương": [],
+            "bia tầm": [],
+            "khung cảnh": [],
+            "đường phố": [],
+            "đồ ăn": [
+                "khác",
+                "đơn giản"
+            ],
+            "bãi đỗ xe máy": [
+                "dọc"
+            ],
+            "luật giao thông": [
+                "đặc biệt"
+            ],
+            "vụ": [
+                "lớn"
+            ],
+            "món ăn đường phố": [
+                "nhiều"
+            ],
+            "bia hội": [
+                "chuyên"
+            ],
+            "nhà hàng đường phố": [
+                "chuyên"
+            ],
+            "thùng": [
+                "trực tiếp"
+            ],
+            "ly": [],
+            "bức tranh": [],
+            "lịch trình du lịch": [
+                "bận rộn"
+            ],
+            "cuộc sống địa phương": [],
+            "bia hơi trong": [
+                "nhiều"
+            ],
+            "hạt hướng dương": [],
+            "cơ sở địa phương": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bia": 3.5,
+            "trải nghiệm": 1.0,
+            "tiếc nuối": 0.5,
+            "bia địa phương": 0.5,
+            "bia đóng chai": 0.5,
+            "câu lạc bộ": 0.5,
+            "âm nhạc": 0.5,
+            "khu phố cổ": 1.0,
+            "điều tầm": 0.5,
+            "chất lượng": 0.5,
+            "vệ sinh": 0.5,
+            "hệ thống tiêu hóa": 0.5,
+            "dịch vụ": 0.5,
+            "bầu không khí": 0.5,
+            "chiếc": 0.5,
+            "ghế nhựa": 1.0,
+            "ba đông đúc": 0.5,
+            "món ăn": 1.0,
+            "mẹo": 0.5,
+            "văn hóa": 0.5,
+            "cơ sở": 0.5,
+            "quán bar": 1.0,
+            "mắt": 0.5,
+            "giá": 1.0,
+            "bia lạnh": 1.0,
+            "người dân địa phương": 0.5,
+            "bia tầm": 0.5,
+            "khung cảnh": 0.5,
+            "đường phố": 0.5,
+            "đồ ăn": 1.0,
+            "bãi đỗ xe máy": 0.5,
+            "luật giao thông": 0.5,
+            "vụ": 0.5,
+            "món ăn đường phố": 0.5,
+            "bia hội": 0.5,
+            "nhà hàng đường phố": 0.5,
+            "thùng": 0.5,
+            "ly": 0.5,
+            "bức tranh": 0.5,
+            "lịch trình du lịch": 0.5,
+            "cuộc sống địa phương": 0.5,
+            "bia hơi trong": 0.5,
+            "hạt hướng dương": 0.5,
+            "cơ sở địa phương": 0.5
+        }
     },
     {
         "attraction_name": "Bia Hoi",
@@ -882,7 +2355,234 @@
             "https://www.tripadvisor.com/Attraction_Review-g295424-d11854482-Reviews-Deira_Old_Souk_Abra_Station-Dubai_Emirate_of_Dubai.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or80-Bia_Hoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or70-Bia_Hoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or70-Bia_Hoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ghế nhựa": -0.29001193679869175,
+            "bia": 0.8017347706384802,
+            "giá": 0.8581033320515417,
+            "món ăn đường phố": 0.9938276107228982,
+            "cuộc sống": 0.8821701011038385,
+            "khoai tây chiên": 0.9747593565843999,
+            "bầu không khí": -0.975868190638721,
+            "chuyến đi": 0.9690430681221187,
+            "bữa tiệc": 0.8737691454589367,
+            "môi trường": 0.9838079751934856,
+            "sân thượng": 0.9953218724112958,
+            "uống nước": 0.8646682649850845,
+            "vị trí": 0.99539563304279,
+            "quán bar": 0.7789745650176579,
+            "người dân địa phương": 0.5,
+            "con phố": 0.6312636788934469,
+            "đồ ăn": 0.9344922056770884,
+            "bia đối": 0.8737691454589367,
+            "chú chim": 0.9916226591449231,
+            "chả giò": 0.8737691454589367,
+            "lẩu bbq": 0.8737691454589367,
+            "bia lạnh": 0.7384964260272682,
+            "phố phường": 0.5,
+            "bia ăn": 0.5,
+            "thức ăn đường phố": 0.5,
+            "phố có": 0.5214284732937813,
+            "cửa hàng": -0.6406502048484981,
+            "bản nhạc": -0.954818984027952,
+            "món ăn": 0.9940072817844339,
+            "bữa ăn": 0.9955110866576433,
+            "nhân viên": 0.8737691454589367,
+            "không khí": -0.11133573949337006,
+            "ghế": 0.18798071844503284,
+            "rượu": 0.9927645763382316,
+            "tương ớt": 0.9867999702692032,
+            "phố đi bộ": 0.5251083876937628,
+            "-": 0.5,
+            "nhà hàng": 0.5363681726157665,
+            "chỗ ngồi": 0.5596419740468264
+        },
+        "dicts_adj": {
+            "ghế nhựa": [
+                "nhỏ"
+            ],
+            "bia": [
+                "tươi",
+                "tốt bụng",
+                "sẵn sàng",
+                "tử tế",
+                "nhỏ",
+                "rẻ",
+                "nhất",
+                "dễ",
+                "tuyệt vời"
+            ],
+            "giá": [
+                "rẻ",
+                "nhất",
+                "tuyệt vời"
+            ],
+            "món ăn đường phố": [
+                "ngon",
+                "nhất",
+                "rẻ",
+                "ngon",
+                "nhất",
+                "ngon"
+            ],
+            "cuộc sống": [
+                "ngon",
+                "nhất",
+                "rẻ"
+            ],
+            "khoai tây chiên": [
+                "thực sự"
+            ],
+            "bầu không khí": [
+                "thực sự"
+            ],
+            "chuyến đi": [
+                "nhiều"
+            ],
+            "bữa tiệc": [
+                "tốt"
+            ],
+            "môi trường": [
+                "tốt"
+            ],
+            "sân thượng": [
+                "quan trọng",
+                "nhiều",
+                "vui vẻ"
+            ],
+            "uống nước": [],
+            "vị trí": [
+                "tuyệt vời"
+            ],
+            "quán bar": [
+                "nhỏ",
+                "ngon",
+                "tuyệt vời",
+                "rẻ"
+            ],
+            "người dân địa phương": [],
+            "con phố": [
+                "gần"
+            ],
+            "đồ ăn": [
+                "ngon",
+                "tuyệt vời",
+                "ngon"
+            ],
+            "bia đối": [
+                "ngon",
+                "tuyệt vời"
+            ],
+            "chú chim": [
+                "ngon",
+                "tuyệt vời"
+            ],
+            "chả giò": [
+                "ngon",
+                "tuyệt vời"
+            ],
+            "lẩu bbq": [
+                "ngon",
+                "tuyệt vời"
+            ],
+            "bia lạnh": [
+                "rẻ"
+            ],
+            "phố phường": [],
+            "bia ăn": [],
+            "thức ăn đường phố": [],
+            "phố có": [
+                "nhỏ"
+            ],
+            "cửa hàng": [
+                "nhỏ",
+                "khác",
+                "khác"
+            ],
+            "bản nhạc": [
+                "khác",
+                "khác"
+            ],
+            "món ăn": [
+                "ngon"
+            ],
+            "bữa ăn": [
+                "lớn",
+                "đầy"
+            ],
+            "nhân viên": [
+                "nhanh chóng"
+            ],
+            "không khí": [
+                "tuyệt vời"
+            ],
+            "ghế": [
+                "nhỏ",
+                "dọc",
+                "nhỏ",
+                "nhiều",
+                "nhỏ"
+            ],
+            "rượu": [
+                "vui vẻ"
+            ],
+            "tương ớt": [
+                "cay"
+            ],
+            "phố đi bộ": [
+                "nhỏ"
+            ],
+            "-": [],
+            "nhà hàng": [
+                "hơn"
+            ],
+            "chỗ ngồi": [
+                "gần"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ghế nhựa": 0.5,
+            "bia": 2.0,
+            "giá": 1.0,
+            "món ăn đường phố": 1.5,
+            "cuộc sống": 0.5,
+            "khoai tây chiên": 0.5,
+            "bầu không khí": 0.5,
+            "chuyến đi": 0.5,
+            "bữa tiệc": 0.5,
+            "môi trường": 0.5,
+            "sân thượng": 0.5,
+            "uống nước": 0.5,
+            "vị trí": 0.5,
+            "quán bar": 1.5,
+            "người dân địa phương": 0.5,
+            "con phố": 0.5,
+            "đồ ăn": 1.0,
+            "bia đối": 0.5,
+            "chú chim": 0.5,
+            "chả giò": 0.5,
+            "lẩu bbq": 0.5,
+            "bia lạnh": 1.0,
+            "phố phường": 0.5,
+            "bia ăn": 0.5,
+            "thức ăn đường phố": 0.5,
+            "phố có": 0.5,
+            "cửa hàng": 0.5,
+            "bản nhạc": 0.5,
+            "món ăn": 0.5,
+            "bữa ăn": 0.5,
+            "nhân viên": 0.5,
+            "không khí": 0.5,
+            "ghế": 1.0,
+            "rượu": 0.5,
+            "tương ớt": 0.5,
+            "phố đi bộ": 0.5,
+            "-": 0.5,
+            "nhà hàng": 0.5,
+            "chỗ ngồi": 0.5
+        }
     },
     {
         "attraction_name": "Bia Hoi",
@@ -993,7 +2693,286 @@
             "https://www.tripadvisor.com/Attraction_Review-g187463-d4468348-Reviews-Playa_de_Palma_El_Arenal-Palma_de_Mallorca_Majorca_Balearic_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or90-Bia_Hoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or80-Bia_Hoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or80-Bia_Hoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bia": 0.4794405158620239,
+            "đồ ăn nhẹ": 0.5343820843845606,
+            "bia đóng chai": -0.8888338559772819,
+            "ghế nhựa": -0.29001193679869175,
+            "cốc": 0.5,
+            "bia lạnh": 0.5,
+            "không khí": 0.5,
+            "ly bia tươi": 0.9743096022866666,
+            "cửa hàng": 0.5,
+            "phố": 0.5,
+            "bia lúa mạch": 0.966360560618341,
+            "bia hội": 0.8737691454589367,
+            "đến": 0.8597353734076023,
+            "đồng": 0.5,
+            "đồ uống": 0.46317379575339146,
+            "xe tay ga": 0.5,
+            "xe đạp xe máy": 0.5,
+            "giao thông": 0.968982785474509,
+            "ngã tư": -0.48114524595439434,
+            "bia rẻ tiền": 0.9951539569301531,
+            "người dân": 0.5,
+            "bia tươi": 0.8737691454589367,
+            "con người": -0.9729942742269486,
+            "trải nghiệm": 0.9741141625692965,
+            "phiên chợ đêm": 0.4266188181936741,
+            "xe cộ": -0.9582225396297872,
+            "người dân địa phương": 0.2537027112557553,
+            "âm": 0.9511126312427223,
+            "nhân viên": -0.9615276179974899,
+            "quán bar": -0.24283310526516289,
+            "trải nghiệm du lịch": -0.8673594249412417,
+            "giá": 0.5090953065082431,
+            "bia nội": 0.6708204541355371,
+            "tiger": 0.8737691454589367,
+            "trả tiền": 0.5,
+            "chỗ ngồi": 0.8737691454589367,
+            "nhà vệ sinh": -0.34082528785802424,
+            "văn hóa": -0.9739361605606973,
+            "món ăn truyền": 0.9533260399475694,
+            "ly rượu": 0.5,
+            "món ăn": 0.98769670445472,
+            "rượu": 0.5573012456297874,
+            "trời": 0.8737691454589367,
+            "vn uống": 0.8737691454589367,
+            "bia hơi": 0.16768921261453734,
+            "trong": -0.5101445263717324,
+            "quán bia hơi": -0.9379283532034606,
+            "chuyến thăm": 0.5
+        },
+        "dicts_adj": {
+            "bia": [
+                "tươi",
+                "tươi",
+                "tươi",
+                "rẻ",
+                "ngon",
+                "tươi",
+                "rẻ",
+                "ngon",
+                "nhiều",
+                "khác",
+                "khác",
+                "ít",
+                "hơn",
+                "lạnh"
+            ],
+            "đồ ăn nhẹ": [
+                "khác"
+            ],
+            "bia đóng chai": [
+                "đắt",
+                "hơn"
+            ],
+            "ghế nhựa": [
+                "nhỏ"
+            ],
+            "cốc": [],
+            "bia lạnh": [],
+            "không khí": [],
+            "ly bia tươi": [],
+            "cửa hàng": [],
+            "phố": [],
+            "bia lúa mạch": [],
+            "bia hội": [
+                "nhiều"
+            ],
+            "đến": [
+                "hơn"
+            ],
+            "đồng": [],
+            "đồ uống": [
+                "khác",
+                "cao",
+                "nổi tiếng",
+                "hơn"
+            ],
+            "xe tay ga": [],
+            "xe đạp xe máy": [],
+            "giao thông": [
+                "hiếm",
+                "trống"
+            ],
+            "ngã tư": [
+                "khác thường"
+            ],
+            "bia rẻ tiền": [
+                "đơn giản"
+            ],
+            "người dân": [],
+            "bia tươi": [
+                "rẻ",
+                "loãng"
+            ],
+            "con người": [
+                "hối hả"
+            ],
+            "trải nghiệm": [
+                "khó",
+                "tuyệt vời",
+                "thực sự",
+                "thú vị",
+                "lạnh",
+                "chân thực",
+                "nhất"
+            ],
+            "phiên chợ đêm": [
+                "nhiều"
+            ],
+            "xe cộ": [
+                "nhiều"
+            ],
+            "người dân địa phương": [
+                "chủ yếu",
+                "đông",
+                "nhiều",
+                "hơn",
+                "hiếm",
+                "bất kỳ",
+                "vui vẻ"
+            ],
+            "âm": [],
+            "nhân viên": [
+                "thô lỗ",
+                "nhiều",
+                "hơn"
+            ],
+            "quán bar": [
+                "thô lỗ",
+                "nhiều",
+                "hơn",
+                "rẻ",
+                "nhất"
+            ],
+            "trải nghiệm du lịch": [
+                "xa"
+            ],
+            "giá": [
+                "khác",
+                "ít",
+                "hơn"
+            ],
+            "bia nội": [
+                "khác",
+                "ít",
+                "hơn"
+            ],
+            "tiger": [
+                "khác",
+                "ít",
+                "hơn"
+            ],
+            "trả tiền": [],
+            "chỗ ngồi": [
+                "khó"
+            ],
+            "nhà vệ sinh": [
+                "thực sự",
+                "thú vị",
+                "phổ biến",
+                "chắc chắn",
+                "phải"
+            ],
+            "văn hóa": [
+                "thực sự",
+                "chân thực",
+                "nhất"
+            ],
+            "món ăn truyền": [
+                "thực sự"
+            ],
+            "ly rượu": [],
+            "món ăn": [
+                "ngon",
+                "rẻ"
+            ],
+            "rượu": [
+                "nhiều",
+                "sang trọng"
+            ],
+            "trời": [
+                "nóng",
+                "tuyệt vời"
+            ],
+            "vn uống": [
+                "nóng",
+                "tuyệt vời"
+            ],
+            "bia hơi": [
+                "ngon",
+                "nhất",
+                "thực sự",
+                "quan trọng",
+                "nhiều",
+                "khác biệt",
+                "cao"
+            ],
+            "trong": [
+                "nhiều",
+                "khác biệt",
+                "cao"
+            ],
+            "quán bia hơi": [
+                "khác"
+            ],
+            "chuyến thăm": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bia": 2.5,
+            "đồ ăn nhẹ": 1.0,
+            "bia đóng chai": 0.5,
+            "ghế nhựa": 0.5,
+            "cốc": 0.5,
+            "bia lạnh": 0.5,
+            "không khí": 0.5,
+            "ly bia tươi": 0.5,
+            "cửa hàng": 0.5,
+            "phố": 0.5,
+            "bia lúa mạch": 0.5,
+            "bia hội": 0.5,
+            "đến": 0.5,
+            "đồng": 0.5,
+            "đồ uống": 0.5,
+            "xe tay ga": 0.5,
+            "xe đạp xe máy": 0.5,
+            "giao thông": 0.5,
+            "ngã tư": 0.5,
+            "bia rẻ tiền": 0.5,
+            "người dân": 0.5,
+            "bia tươi": 1.0,
+            "con người": 0.5,
+            "trải nghiệm": 1.5,
+            "phiên chợ đêm": 0.5,
+            "xe cộ": 0.5,
+            "người dân địa phương": 1.0,
+            "âm": 0.5,
+            "nhân viên": 0.5,
+            "quán bar": 0.5,
+            "trải nghiệm du lịch": 0.5,
+            "giá": 0.5,
+            "bia nội": 0.5,
+            "tiger": 0.5,
+            "trả tiền": 0.5,
+            "chỗ ngồi": 0.5,
+            "nhà vệ sinh": 1.0,
+            "văn hóa": 0.5,
+            "món ăn truyền": 0.5,
+            "ly rượu": 0.5,
+            "món ăn": 0.5,
+            "rượu": 0.5,
+            "trời": 0.5,
+            "vn uống": 0.5,
+            "bia hơi": 0.5,
+            "trong": 0.5,
+            "quán bia hơi": 0.5,
+            "chuyến thăm": 0.5
+        }
     },
     {
         "attraction_name": "Bia Hoi",
@@ -1104,6 +3083,246 @@
             "https://www.tripadvisor.com/Attraction_Review-g53942-d145753-Reviews-Tioga_Central_Railroad-Wellsboro_Pennsylvania.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or100-Bia_Hoi-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or90-Bia_Hoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d5453577-Reviews-or90-Bia_Hoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quảng trường": 0.20234850980341434,
+            "quán bar": 0.4421148078050464,
+            "giá": 0.9663274853955954,
+            "đồ ăn": 0.6913284994661808,
+            "món ăn đặc sản": 0.910652351565659,
+            "gà chả giò": -0.6536759380251169,
+            "bia": 0.7065450599868199,
+            "quầy": 0.5040066167712212,
+            "chả giò": -0.5024878596886992,
+            "bánh bao tôm": 0.11028340645134449,
+            "giao thông": 0.9928923222469166,
+            "giờ giải trí": 0.5,
+            "bia mát lạnh": 0.5,
+            "đồ ăn địa phương": 0.5,
+            "diện": -0.21758662723004818,
+            "trải nghiệm": 0.5,
+            "cuộc sống đường phố địa phương": 0.9941774973412976,
+            "phô mai que": 0.8737691454589367,
+            "bia địa phương": 0.5,
+            "quán": 0.9559256425127387,
+            "ly": 0.9220956624485552,
+            "chỗ": 0.5,
+            "phộng": 0.5,
+            "bữa": 0.5,
+            "ghế": 0.15034606494009495,
+            "phộng luộc": 0.5,
+            "sườn non": 0.5,
+            "cua hàng": 0.8032897710800171,
+            "bia tươi": 0.6761630369583145,
+            "cho": 0.5463231466710567,
+            "bia đóng chai": -0.9196872084867209,
+            "ghế đẩu": -0.04465982876718044,
+            "cách xa giao thông": 0.9037335375323892,
+            "xe máy": 0.5,
+            "nhân viên": 0.5,
+            "khách sạn": 0.5,
+            "bùi viện": 0.4105590805411339,
+            "khung cảnh": 0.5,
+            "bia chai": 0.2704138606786728,
+            "nhà vệ sinh": -0.9758793469518423,
+            "phố": 0.8753930069506168,
+            "chất lượng": 0.9954051575623453,
+            "bia giá": 0.9663006432820112,
+            "người": 0.5,
+            "người dân địa phương": 0.5053641460835934,
+            "đó": 0.5166321210563183,
+            "phố cổ": 0.8737691454589367,
+            "chuyến đi": 0.985204377444461,
+            "khu phố cổ": 0.5
+        },
+        "dicts_adj": {
+            "quảng trường": [],
+            "quán bar": [
+                "thực sự",
+                "quan trọng",
+                "cụ thể",
+                "có thể",
+                "khác",
+                "thú vị",
+                "nhỏ"
+            ],
+            "giá": [
+                "giống"
+            ],
+            "đồ ăn": [
+                "giống",
+                "rẻ"
+            ],
+            "món ăn đặc sản": [
+                "cụ thể"
+            ],
+            "gà chả giò": [
+                "có thể"
+            ],
+            "bia": [
+                "có thể",
+                "rẻ",
+                "tươi",
+                "rẻ",
+                "tươi",
+                "rẻ",
+                "nhẹ",
+                "tươi",
+                "ngon",
+                "nhiều",
+                "nhẹ nhàng",
+                "êm dịu",
+                "thực sự",
+                "phải",
+                "phải",
+                "thông thường",
+                "chung",
+                "sớm"
+            ],
+            "quầy": [
+                "trái"
+            ],
+            "chả giò": [
+                "có thể"
+            ],
+            "bánh bao tôm": [
+                "khác"
+            ],
+            "giao thông": [],
+            "giờ giải trí": [],
+            "bia mát lạnh": [],
+            "đồ ăn địa phương": [],
+            "diện": [
+                "nhỏ"
+            ],
+            "trải nghiệm": [],
+            "cuộc sống đường phố địa phương": [],
+            "phô mai que": [
+                "cay"
+            ],
+            "bia địa phương": [],
+            "quán": [
+                "nhiều",
+                "khác",
+                "khó",
+                "nhiều"
+            ],
+            "ly": [
+                "nhẹ"
+            ],
+            "chỗ": [],
+            "phộng": [],
+            "bữa": [],
+            "ghế": [
+                "nhỏ"
+            ],
+            "phộng luộc": [],
+            "sườn non": [],
+            "cua hàng": [
+                "đúng"
+            ],
+            "bia tươi": [
+                "sẵn",
+                "thực sự",
+                "khoảng"
+            ],
+            "cho": [
+                "tương tự"
+            ],
+            "bia đóng chai": [
+                "tương tự"
+            ],
+            "ghế đẩu": [
+                "nhỏ"
+            ],
+            "cách xa giao thông": [
+                "tấp nập"
+            ],
+            "xe máy": [],
+            "nhân viên": [],
+            "khách sạn": [],
+            "bùi viện": [
+                "giống"
+            ],
+            "khung cảnh": [],
+            "bia chai": [],
+            "nhà vệ sinh": [],
+            "phố": [
+                "May mắn"
+            ],
+            "chất lượng": [
+                "tuyệt vời"
+            ],
+            "bia giá": [
+                "rẻ"
+            ],
+            "người": [],
+            "người dân địa phương": [
+                "Dễ dàng"
+            ],
+            "đó": [
+                "nhỏ"
+            ],
+            "phố cổ": [
+                "nhỏ"
+            ],
+            "chuyến đi": [
+                "đặc biệt"
+            ],
+            "khu phố cổ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quảng trường": 0.5,
+            "quán bar": 2.0,
+            "giá": 0.5,
+            "đồ ăn": 1.0,
+            "món ăn đặc sản": 0.5,
+            "gà chả giò": 0.5,
+            "bia": 4.0,
+            "quầy": 0.5,
+            "chả giò": 0.5,
+            "bánh bao tôm": 0.5,
+            "giao thông": 0.5,
+            "giờ giải trí": 0.5,
+            "bia mát lạnh": 0.5,
+            "đồ ăn địa phương": 0.5,
+            "diện": 0.5,
+            "trải nghiệm": 1.0,
+            "cuộc sống đường phố địa phương": 0.5,
+            "phô mai que": 0.5,
+            "bia địa phương": 0.5,
+            "quán": 0.5,
+            "ly": 0.5,
+            "chỗ": 0.5,
+            "phộng": 0.5,
+            "bữa": 0.5,
+            "ghế": 0.5,
+            "phộng luộc": 0.5,
+            "sườn non": 0.5,
+            "cua hàng": 0.5,
+            "bia tươi": 1.5,
+            "cho": 0.5,
+            "bia đóng chai": 0.5,
+            "ghế đẩu": 0.5,
+            "cách xa giao thông": 0.5,
+            "xe máy": 0.5,
+            "nhân viên": 0.5,
+            "khách sạn": 0.5,
+            "bùi viện": 0.5,
+            "khung cảnh": 0.5,
+            "bia chai": 0.5,
+            "nhà vệ sinh": 0.5,
+            "phố": 0.5,
+            "chất lượng": 0.5,
+            "bia giá": 0.5,
+            "người": 0.5,
+            "người dân địa phương": 0.5,
+            "đó": 0.5,
+            "phố cổ": 0.5,
+            "chuyến đi": 0.5,
+            "khu phố cổ": 0.5
+        }
     }
 ]

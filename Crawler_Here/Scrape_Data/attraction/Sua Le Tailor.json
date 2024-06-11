@@ -103,6 +103,110 @@
             "https://www.tripadvisor.com/Attraction_Review-g304001-d8666603-Reviews-Kapas_Island-Pulau_Kapas_Terengganu.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25299993-Reviews-Sua_Le_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25299993-Reviews-Sua_Le_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ bikini": 0.5,
+            "quần áo": 0.7544449213226991,
+            "nhân viên": 0.9955049813725054,
+            "sản phẩm": 0.9955851919949055,
+            "chất lượng": 0.9921769790817052,
+            "giá cả": 0.9741909454751294,
+            "thợ may": 0.0030305425461847335,
+            "dịch vụ": 0.8737691454589367,
+            "vải": 0.9743396807461977,
+            "trải nghiệm": 0.3358112908899784,
+            "sưa lê": 0.8737691454589367,
+            "mặt hàng": 0.9907359930220991,
+            "váy": 0.9240485613700002,
+            "váy maxi": 0.5,
+            "hở lưng": 0.5,
+            "cửa hàng": -0.05572138726711273,
+            "chuyến đi": 0.5,
+            "lớp vải": -0.8174098366871476
+        },
+        "dicts_adj": {
+            "bộ bikini": [],
+            "quần áo": [
+                "đẹp",
+                "đúng"
+            ],
+            "nhân viên": [
+                "hữu ích"
+            ],
+            "sản phẩm": [
+                "tốt",
+                "hiệu quả"
+            ],
+            "chất lượng": [
+                "tốt",
+                "tốt"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "tuyệt vời"
+            ],
+            "thợ may": [
+                "giỏi",
+                "nhất",
+                "khác",
+                "khác",
+                "hoàn toàn",
+                "tuyệt vời",
+                "chắc chắn"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "vải": [
+                "nhanh chóng"
+            ],
+            "trải nghiệm": [
+                "bằng"
+            ],
+            "sưa lê": [
+                "khác"
+            ],
+            "mặt hàng": [
+                "nhiều",
+                "hoàn hảo"
+            ],
+            "váy": [
+                "nhiều",
+                "tốt"
+            ],
+            "váy maxi": [],
+            "hở lưng": [],
+            "cửa hàng": [
+                "chuyên nghiệp",
+                "chặt chẽ"
+            ],
+            "chuyến đi": [],
+            "lớp vải": [
+                "mờ",
+                "đục"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ bikini": 1.5,
+            "quần áo": 3.5,
+            "nhân viên": 1.5,
+            "sản phẩm": 1,
+            "chất lượng": 2,
+            "giá cả": 2,
+            "thợ may": 4,
+            "dịch vụ": 1,
+            "vải": 1,
+            "trải nghiệm": 1,
+            "sưa lê": 1,
+            "mặt hàng": 1,
+            "váy": 2,
+            "váy maxi": 1,
+            "hở lưng": 1,
+            "cửa hàng": 1,
+            "chuyến đi": 1,
+            "lớp vải": 1
+        }
     }
 ]

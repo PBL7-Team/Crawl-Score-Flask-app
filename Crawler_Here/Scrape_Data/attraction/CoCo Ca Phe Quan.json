@@ -88,6 +88,40 @@
             "https://www.tripadvisor.com/Attraction_Review-g2513552-d8508677-Reviews-Trincity_Mall-Trincity_Trinidad_Trinidad_and_Tobago.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d18192815-Reviews-CoCo_Ca_Phe_Quan-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d18192815-Reviews-CoCo_Ca_Phe_Quan-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hồng kông": -0.9208292909897864,
+            "phòng": 0.9954332250053994,
+            "trà": 0.995529536914546,
+            "thảo mộc": 0.9955006653326564,
+            "nhân viên": 0.9931463235989213
+        },
+        "dicts_adj": {
+            "hồng kông": [
+                "thực sự",
+                "nhỏ"
+            ],
+            "phòng": [
+                "tuyệt trà"
+            ],
+            "trà": [
+                "tuyệt vời"
+            ],
+            "thảo mộc": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "thân thiện"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hồng kông": 0.5,
+            "phòng": 0.5,
+            "trà": 0.5,
+            "thảo mộc": 0.5,
+            "nhân viên": 0.5
+        }
     }
 ]

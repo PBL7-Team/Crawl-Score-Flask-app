@@ -106,7 +106,252 @@
             "https://www.tripadvisor.com/Attraction_Review-g58277-d4737553-Reviews-Naval_Air_Station_Oceana-Virginia_Beach_Virginia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d6963823-Reviews-or10-Phuong_Ha_Grocery_Store-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6963823-Reviews-Phuong_Ha_Grocery_Store-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6963823-Reviews-Phuong_Ha_Grocery_Store-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "sản phẩm": 0.2857446832349524,
+            "cửa hàng": 0.2875976613528716,
+            "côn trùng": 0.828675081487745,
+            "nhân viên": 0.8717303063822328,
+            "không gian": 0.6152002075687051,
+            "món ngon": 0.9928833014564589,
+            "giá cả": 0.8207239431794733,
+            "cửa hàng tạp hóa": -0.47920587100088596,
+            "dịch vụ": 0.7699127722298726,
+            "họ": 0.6868845727294683,
+            "dụng cụ": 0.031115676276385784,
+            "bánh": 0.7910014231456444,
+            "giá": 0.6184527405227224,
+            "mặt hàng": 0.934251428116113,
+            "điểm dừng chân": 0.9374504727311432,
+            "trải nghiệm": 0.9036628007888794,
+            "cửa hàng đó thì": 0.5,
+            "trại": 0.5,
+            "quân": 0.5,
+            "thứ nước ngoài": 0.4638495873659849,
+            "môi trường": 0.3796219117939472,
+            "câu lạc bộ": 0.9726685945643112,
+            "xe buýt": 0.7674205057322979,
+            "bến xe phạm": 0.5,
+            "sông": 0.5150249749422073,
+            "kênh": -0.364649448543787,
+            "điểm dừng": 0.5182016640901566,
+            "trạm xe buýt": 0.4860158395022154,
+            "bến xe": 0.5,
+            "bạn quyền": 0.6963080577552319,
+            "xe buýt ben thahn": 0.8737691454589367,
+            "túi": 0.5533199887722731,
+            "ba lô": 0.5261539481580257,
+            "thực phẩm": 0.5,
+            "rượu": 0.5,
+            "nước ngoài": 0.5,
+            "rượu vang": 0.5,
+            "rượu mạnh": 0.5,
+            "chai": 0.8737691454589367,
+            "trà": 0.5040763281285763,
+            "cà ri ấn độ": 0.8737691454589367,
+            "gia vị": 0.9741671110969037,
+            "nguyên liệu": 0.9439321961253881,
+            "hàng": 0.26410794258117676,
+            "vị trí": 0.9953793685417622,
+            "khu chợ mở": 0.5
+        },
+        "dicts_adj": {
+            "sản phẩm": [
+                "lớn",
+                "khó"
+            ],
+            "cửa hàng": [
+                "đầy",
+                "tuyệt vời",
+                "tử tế",
+                "lớn",
+                "hơn",
+                "rộng",
+                "hơn",
+                "đông đúc",
+                "nhiều",
+                "lớn"
+            ],
+            "côn trùng": [
+                "đầy"
+            ],
+            "nhân viên": [
+                "hữu ích",
+                "tốt",
+                "thân thiện"
+            ],
+            "không gian": [
+                "nhỏ",
+                "đầy"
+            ],
+            "món ngon": [
+                "bất kỳ",
+                "khác"
+            ],
+            "giá cả": [
+                "ổn",
+                "hợp lý"
+            ],
+            "cửa hàng tạp hóa": [
+                "nhiều",
+                "lớn"
+            ],
+            "dịch vụ": [
+                "chuyên nghiệp",
+                "nhiều"
+            ],
+            "họ": [
+                "đủ"
+            ],
+            "dụng cụ": [
+                "tốt",
+                "hẹp"
+            ],
+            "bánh": [
+                "tốt",
+                "hẹp"
+            ],
+            "giá": [
+                "tốt",
+                "hẹp",
+                "đắt",
+                "cao",
+                "hơn"
+            ],
+            "mặt hàng": [
+                "hợp lý"
+            ],
+            "điểm dừng chân": [],
+            "trải nghiệm": [
+                "phải",
+                "thú vị",
+                "hẹp",
+                "tiêu cực"
+            ],
+            "cửa hàng đó thì": [],
+            "trại": [],
+            "quân": [],
+            "thứ nước ngoài": [
+                "rẻ",
+                "hơn"
+            ],
+            "môi trường": [
+                "giống"
+            ],
+            "câu lạc bộ": [
+                "rẻ",
+                "hơn"
+            ],
+            "xe buýt": [
+                "tương tự",
+                "lớn",
+                "lớn",
+                "tương tự",
+                "bất kỳ"
+            ],
+            "bến xe phạm": [],
+            "sông": [
+                "lớn",
+                "lớn",
+                "lớn"
+            ],
+            "kênh": [
+                "lớn"
+            ],
+            "điểm dừng": [
+                "lớn"
+            ],
+            "trạm xe buýt": [],
+            "bến xe": [],
+            "bạn quyền": [
+                "tạm thời"
+            ],
+            "xe buýt ben thahn": [
+                "tương tự",
+                "bất kỳ"
+            ],
+            "túi": [
+                "riêng"
+            ],
+            "ba lô": [
+                "riêng"
+            ],
+            "thực phẩm": [],
+            "rượu": [],
+            "nước ngoài": [],
+            "rượu vang": [],
+            "rượu mạnh": [],
+            "chai": [
+                "tuyệt vời"
+            ],
+            "trà": [
+                "khó"
+            ],
+            "cà ri ấn độ": [
+                "khó"
+            ],
+            "gia vị": [
+                "khó"
+            ],
+            "nguyên liệu": [
+                "lớn"
+            ],
+            "hàng": [],
+            "vị trí": [
+                "tuyệt vời"
+            ],
+            "khu chợ mở": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "sản phẩm": 1.0,
+            "cửa hàng": 3.0,
+            "côn trùng": 0.5,
+            "nhân viên": 2.0,
+            "không gian": 0.5,
+            "món ngon": 0.5,
+            "giá cả": 1.5,
+            "cửa hàng tạp hóa": 1.5,
+            "dịch vụ": 0.5,
+            "họ": 1.0,
+            "dụng cụ": 0.5,
+            "bánh": 0.5,
+            "giá": 1.5,
+            "mặt hàng": 0.5,
+            "điểm dừng chân": 0.5,
+            "trải nghiệm": 0.5,
+            "cửa hàng đó thì": 0.5,
+            "trại": 0.5,
+            "quân": 0.5,
+            "thứ nước ngoài": 0.5,
+            "môi trường": 0.5,
+            "câu lạc bộ": 0.5,
+            "xe buýt": 0.5,
+            "bến xe phạm": 0.5,
+            "sông": 0.5,
+            "kênh": 0.5,
+            "điểm dừng": 0.5,
+            "trạm xe buýt": 1.0,
+            "bến xe": 0.5,
+            "bạn quyền": 0.5,
+            "xe buýt ben thahn": 0.5,
+            "túi": 0.5,
+            "ba lô": 0.5,
+            "thực phẩm": 0.5,
+            "rượu": 0.5,
+            "nước ngoài": 0.5,
+            "rượu vang": 0.5,
+            "rượu mạnh": 0.5,
+            "chai": 0.5,
+            "trà": 0.5,
+            "cà ri ấn độ": 0.5,
+            "gia vị": 0.5,
+            "nguyên liệu": 0.5,
+            "hàng": 0.5,
+            "vị trí": 0.5,
+            "khu chợ mở": 0.5
+        }
     },
     {
         "attraction_name": "Phuong Ha Grocery Store",
@@ -190,6 +435,31 @@
             "https://www.tripadvisor.com/Attraction_Review-g635753-d8627060-Reviews-Bohey_Dulang_Island-Semporna_Semporna_District_Sabah.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6963823-Reviews-or10-Phuong_Ha_Grocery_Store-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d6963823-Reviews-or10-Phuong_Ha_Grocery_Store-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "món ăn quốc tế": 0.5,
+            "đồ ăn nhẹ": 0.5,
+            "rượu": 0.5,
+            "món ăn ấn độ": 0.8737691454589367,
+            "nghỉ lễ": 0.5
+        },
+        "dicts_adj": {
+            "món ăn quốc tế": [],
+            "đồ ăn nhẹ": [],
+            "rượu": [],
+            "món ăn ấn độ": [
+                "đặc biệt"
+            ],
+            "nghỉ lễ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "món ăn quốc tế": 0.5,
+            "đồ ăn nhẹ": 0.5,
+            "rượu": 0.5,
+            "món ăn ấn độ": 0.5,
+            "nghỉ lễ": 0.5
+        }
     }
 ]

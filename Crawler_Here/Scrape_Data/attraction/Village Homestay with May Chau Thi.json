@@ -60,6 +60,50 @@
             "https://www.tripadvisor.com/Attraction_Review-g32172-d11644640-Reviews-Fairy_Tale_Cottages_of_Hugh_Comstock-Carmel_Monterey_County_California.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d26305174-Reviews-Village_Homestay_with_May_Chau_Thi-Sapa_Lao_Cai_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g311304-d26305174-Reviews-Village_Homestay_with_May_Chau_Thi-Sapa_Lao_Cai_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.995431479648687,
+            "chủ nhà": 0.9955978785292245,
+            "chuyến đi bộ đường": 0.7674989834195003,
+            "vùng núi": 0.9950569298234768,
+            "buổi": 0.9955844277283177,
+            "hát karaoke": 0.9952502238447778,
+            "món ăn": 0.995578886300791
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "tuyệt vời"
+            ],
+            "chủ nhà": [
+                "tuyệt vời"
+            ],
+            "chuyến đi bộ đường": [
+                "dài",
+                "tuyệt vời"
+            ],
+            "vùng núi": [
+                "tuyệt vời"
+            ],
+            "buổi": [
+                "tuyệt vời"
+            ],
+            "hát karaoke": [
+                "ngon"
+            ],
+            "món ăn": [
+                "ngon"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 1,
+            "chủ nhà": 1,
+            "chuyến đi bộ đường": 1,
+            "vùng núi": 1,
+            "buổi": 1,
+            "hát karaoke": 1,
+            "món ăn": 1
+        }
     }
 ]

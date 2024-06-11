@@ -1605,6 +1605,107 @@
             "https://www.tripadvisor.com/Attraction_Review-g187211-d4546232-Reviews-Van_Gogh_Cafe_Cafe_La_Nuit-Arles_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d4722314-Reviews-or70-Kim_Only_Tailor_Fashion-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4722314-Reviews-or60-Kim_Only_Tailor_Fashion-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d4722314-Reviews-or60-Kim_Only_Tailor_Fashion-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thợ may": 0.8113083268981427,
+            "sản phẩm": 0.6260439760517329,
+            "quần áo": 0.5448423469788395,
+            "khách sạn": 0.35705470480024815,
+            "dịch vụ": 0.9434310617943993,
+            "hoang dieu": 0.9522191975265741,
+            "be": 0.982637332752347,
+            "giá cả": 0.9950668166275136,
+            "quần short": -0.9516878790454939,
+            "người hâm mộ": 0.676279854029417,
+            "chợ": 0.5,
+            "vải": 0.7477509771415498,
+            "bộ": 0.5509008690714836,
+            "váy": 0.7267632181368148,
+            "chất lượng": -0.3482055413769558,
+            "áo sơ mi": 0.5
+        },
+        "dicts_adj": {
+            "thợ may": [
+                "nguyên bản",
+                "hơn",
+                "khác"
+            ],
+            "sản phẩm": [
+                "đầy",
+                "hài lòng",
+                "cao",
+                "cuối cùng"
+            ],
+            "quần áo": [
+                "sớm",
+                "ít",
+                "hơn"
+            ],
+            "khách sạn": [
+                "sớm"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "xuất sắc",
+                "tuyệt vời",
+                "khác"
+            ],
+            "hoang dieu": [],
+            "be": [
+                "to"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "sẵn sàng"
+            ],
+            "quần short": [
+                "khác",
+                "chính xác"
+            ],
+            "người hâm mộ": [
+                "lớn"
+            ],
+            "chợ": [],
+            "vải": [
+                "tuyệt vời",
+                "hài lòng"
+            ],
+            "bộ": [
+                "ít",
+                "hơn"
+            ],
+            "váy": [
+                "ít",
+                "hơn",
+                "xinh đẹp",
+                "cuối cùng",
+                "tuyệt vời"
+            ],
+            "chất lượng": [
+                "ít",
+                "hơn"
+            ],
+            "áo sơ mi": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thợ may": 2.0,
+            "sản phẩm": 2.0,
+            "quần áo": 3.0,
+            "khách sạn": 2.0,
+            "dịch vụ": 2.0,
+            "hoang dieu": 1.5,
+            "be": 1.5,
+            "giá cả": 0.5,
+            "quần short": 0.5,
+            "người hâm mộ": 0.5,
+            "chợ": 0.5,
+            "vải": 1.0,
+            "bộ": 0.5,
+            "váy": 1.0,
+            "chất lượng": 0.5,
+            "áo sơ mi": 0.5
+        }
     }
 ]

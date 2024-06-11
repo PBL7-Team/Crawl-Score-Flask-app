@@ -93,7 +93,318 @@
             "https://www.tripadvisor.com/Attraction_Review-g187462-d7189807-Reviews-Cala_Romantica-Majorca_Balearic_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d2424536-Reviews-or10-Mango_Cruises-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2424536-Reviews-Mango_Cruises-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2424536-Reviews-Mango_Cruises-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tour": 0.9848907177220099,
+            "golf": 0.9920916535193101,
+            "ho": 0.5295705404132605,
+            "hướng dẫn viên du lịch": 0.995556698879227,
+            "chuyến du ngoạn": 0.9954030901426449,
+            "nhân viên": 0.5295883521418242,
+            "nhà xoài": 0.9949482827796601,
+            "bữa trưa": 0.9954030951776076,
+            "đồ uống": 0.009947486221790314,
+            "đồng bằng sông cửu long": 0.9345617002691142,
+            "chuyến tham quan sông xoài": 0.5,
+            "trải nghiệm": 0.3827198473089892,
+            "chuyến đi cho": 0.5,
+            "hướng dẫn viên": 0.9312418724148301,
+            "cộng đồng địa phương": 0.9930564179085195,
+            "bối cảnh": 0.6717990047764033,
+            "chuyến đi": 0.9838466656437959,
+            "người dân địa phương": 0.9950212955009192,
+            "chuyến tham quan": 0.9329575899755582,
+            "nhà máy": 0.58713821740821,
+            "gạch trang trại dừa": -0.2254039121326059,
+            "nhà sản xuất": 0.7705460058059543,
+            "bánh tráng": 0.5491420253335187,
+            "nhà máy chưng cất": 0.7331100469455123,
+            "rượu gạo": 0.3046078890717278,
+            "thuyền": 0.6730863462318666,
+            "sông mê kông": 0.8737691454589367,
+            "tour du lịch": 0.9950433933408931,
+            "công trình gạch chợ": 0.5,
+            "vườn": 0.5,
+            "kẹo dừa": 0.5,
+            "xe máy": 0.5308647584170103,
+            "kỳ nghỉ": 0.9955939495703205,
+            "hoạt động truyền thống của địa phương": 0.5,
+            "khu vườn": 0.8819181717990432,
+            "đồ ăn": 0.934642842534231,
+            "địa điểm địa phương": 0.5,
+            "cho": -0.9740399061702192,
+            "du thuyền": 0.5,
+            "bọn trẻ": 0.7069318313151598,
+            "chả giò": 0.8005574418639299,
+            "làng quê": 0.5780432196334004,
+            "hành trình": 0.9945972776622511,
+            "thức ăn": 0.9346941270341631,
+            "trái cây": 0.9686415127944201,
+            "phòng": 0.9956181912566535,
+            "gia": 0.9897175014484674,
+            "xe buýt": 0.5110212806612253,
+            "làng": 0.5,
+            "đầu bếp": 0.8737691454589367,
+            "món ăn": -0.9730276024201885,
+            "nhà": 0.5,
+            "người dân": 0.5,
+            "văn hóa": 0.5,
+            "đền chùa": 0.5,
+            "chợ": 0.5,
+            "bến": 0.954541053622961
+        },
+        "dicts_adj": {
+            "tour": [],
+            "golf": [
+                "to"
+            ],
+            "ho": [],
+            "hướng dẫn viên du lịch": [
+                "đặc biệt",
+                "hữu ích"
+            ],
+            "chuyến du ngoạn": [
+                "thực sự",
+                "thú vị",
+                "đặc biệt"
+            ],
+            "nhân viên": [
+                "lạnh",
+                "xứng đáng",
+                "tốt bụng",
+                "hữu ích",
+                "tốt",
+                "tử tế",
+                "hơn"
+            ],
+            "nhà xoài": [
+                "lạnh",
+                "xứng đáng"
+            ],
+            "bữa trưa": [
+                "lạnh",
+                "xứng đáng"
+            ],
+            "đồ uống": [
+                "lạnh",
+                "xứng đáng"
+            ],
+            "đồng bằng sông cửu long": [
+                "thực sự",
+                "tuyệt vời",
+                "phải"
+            ],
+            "chuyến tham quan sông xoài": [],
+            "trải nghiệm": [
+                "khó",
+                "đặc biệt",
+                "độc đáo",
+                "thực sự"
+            ],
+            "chuyến đi cho": [],
+            "hướng dẫn viên": [
+                "tốt bụng",
+                "cao",
+                "am hiểu",
+                "chuyên nghiệp",
+                "ấm áp",
+                "xuất sắc",
+                "nhiều",
+                "thú vị"
+            ],
+            "cộng đồng địa phương": [
+                "chi tiết"
+            ],
+            "bối cảnh": [
+                "rộng",
+                "hơn",
+                "chắc chắn"
+            ],
+            "chuyến đi": [
+                "ngắn",
+                "vui",
+                "nhiều",
+                "đủ",
+                "tuyệt vời",
+                "chắc chắn",
+                "hơn"
+            ],
+            "người dân địa phương": [
+                "tuyệt",
+                "thực sự",
+                "độc đáo"
+            ],
+            "chuyến tham quan": [
+                "nhiều",
+                "hơn"
+            ],
+            "nhà máy": [
+                "nhiều",
+                "hơn"
+            ],
+            "gạch trang trại dừa": [
+                "nhiều",
+                "hơn"
+            ],
+            "nhà sản xuất": [
+                "nhiều",
+                "hơn"
+            ],
+            "bánh tráng": [
+                "nhiều",
+                "hơn"
+            ],
+            "nhà máy chưng cất": [
+                "nhiều",
+                "hơn"
+            ],
+            "rượu gạo": [
+                "nhiều",
+                "hơn"
+            ],
+            "thuyền": [
+                "tốt",
+                "thoải mái",
+                "thư giãn",
+                "lớn",
+                "ngon bọn",
+                "nhiều"
+            ],
+            "sông mê kông": [
+                "tốt",
+                "thoải mái",
+                "thư giãn"
+            ],
+            "tour du lịch": [
+                "tuyệt vời"
+            ],
+            "công trình gạch chợ": [],
+            "vườn": [],
+            "kẹo dừa": [],
+            "xe máy": [
+                "cuối cùng"
+            ],
+            "kỳ nghỉ": [
+                "khuyến khích",
+                "tuyệt vời"
+            ],
+            "hoạt động truyền thống của địa phương": [],
+            "khu vườn": [
+                "xinh đẹp",
+                "đẹp"
+            ],
+            "đồ ăn": [
+                "tuyệt vời",
+                "ngon bọn"
+            ],
+            "địa điểm địa phương": [],
+            "cho": [],
+            "du thuyền": [],
+            "bọn trẻ": [
+                "ngon",
+                "nhất"
+            ],
+            "chả giò": [
+                "ngon",
+                "nhất"
+            ],
+            "làng quê": [
+                "nổi bật"
+            ],
+            "hành trình": [],
+            "thức ăn": [
+                "tuyệt vời",
+                "đặc biệt",
+                "tươi",
+                "ngon"
+            ],
+            "trái cây": [
+                "tươi"
+            ],
+            "phòng": [
+                "sạch sẽ"
+            ],
+            "gia": [
+                "thực sự"
+            ],
+            "xe buýt": [],
+            "làng": [],
+            "đầu bếp": [
+                "nhiều"
+            ],
+            "món ăn": [
+                "khác"
+            ],
+            "nhà": [],
+            "người dân": [],
+            "văn hóa": [],
+            "đền chùa": [],
+            "chợ": [],
+            "bến": [
+                "trực tiếp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tour": 1.5,
+            "golf": 1.5,
+            "ho": 1.5,
+            "hướng dẫn viên du lịch": 1.5,
+            "chuyến du ngoạn": 1.5,
+            "nhân viên": 4.5,
+            "nhà xoài": 1.5,
+            "bữa trưa": 1.5,
+            "đồ uống": 1.5,
+            "đồng bằng sông cửu long": 3.0,
+            "chuyến tham quan sông xoài": 1.5,
+            "trải nghiệm": 4.5,
+            "chuyến đi cho": 1.5,
+            "hướng dẫn viên": 6.0,
+            "cộng đồng địa phương": 1.5,
+            "bối cảnh": 1.5,
+            "chuyến đi": 6.0,
+            "người dân địa phương": 3.0,
+            "chuyến tham quan": 3.0,
+            "nhà máy": 3.0,
+            "gạch trang trại dừa": 1.5,
+            "nhà sản xuất": 1.5,
+            "bánh tráng": 4.5,
+            "nhà máy chưng cất": 1.5,
+            "rượu gạo": 4.5,
+            "thuyền": 7.5,
+            "sông mê kông": 1.5,
+            "tour du lịch": 1.5,
+            "công trình gạch chợ": 1.5,
+            "vườn": 1.5,
+            "kẹo dừa": 1.5,
+            "xe máy": 1.5,
+            "kỳ nghỉ": 1.5,
+            "hoạt động truyền thống của địa phương": 1.5,
+            "khu vườn": 1.5,
+            "đồ ăn": 3.0,
+            "địa điểm địa phương": 1.5,
+            "cho": 1.5,
+            "du thuyền": 1.5,
+            "bọn trẻ": 1.5,
+            "chả giò": 1.5,
+            "làng quê": 1.5,
+            "hành trình": 1.5,
+            "thức ăn": 3.0,
+            "trái cây": 1.5,
+            "phòng": 1.5,
+            "gia": 1.5,
+            "xe buýt": 1.5,
+            "làng": 1.5,
+            "đầu bếp": 1.5,
+            "món ăn": 1.5,
+            "nhà": 1.5,
+            "người dân": 1.5,
+            "văn hóa": 1.5,
+            "đền chùa": 1.5,
+            "chợ": 1.5,
+            "bến": 1.5
+        }
     },
     {
         "attraction_name": "Mango Cruises",
@@ -168,6 +479,340 @@
             "https://www.tripadvisor.com/Attraction_Review-g188590-d13630594-Reviews-Tony_s_Chocolonely_Superstore-Amsterdam_North_Holland_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d2424536-Reviews-or20-Mango_Cruises-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2424536-Reviews-or10-Mango_Cruises-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2424536-Reviews-or10-Mango_Cruises-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9027713905306882,
+            "nhân viên": 0.9946563992028435,
+            "hướng dẫn viên du lịch": 0.9653905723243952,
+            "sông mê kông": 0.8737691454589367,
+            "trải nghiệm": 0.5946083949529566,
+            "thức ăn": 0.8737691454589367,
+            "thuyền": 0.7999144633100109,
+            "nước nóng": 0.5,
+            "chuyến du lịch": 0.9330303786943356,
+            "chuyến tham quan": 0.9898144454928115,
+            "người hướng dẫn": 0.9955791900283657,
+            "đạp xe": 0.5278125088661909,
+            "làng": 0.5582391358911991,
+            "nhà máy dừa": -0.6028824066743255,
+            "bánh tráng": 0.6117572479561204,
+            "trái cây": 0.9212053291266784,
+            "xe buýt": 0.9242116627283394,
+            "vuy hướng": 0.9951532989507541,
+            "khách sạn": 0.7550594648346305,
+            "nông thôn": 0.992999079474248,
+            "thuyền sông": 0.9938606061041355,
+            "nhà máy": 0.9907564255408943,
+            "cơ sở": 0.9952510630246252,
+            "ngôi nhà": 0.9952491129515693,
+            "bữa trưa": 0.830278537760023,
+            "khung cảnh": 0.9955325783230364,
+            "phong cảnh": 0.9954362657736056,
+            "vùng xa": 0.5,
+            "đồ uống": 0.5,
+            "tour du lịch": 0.9938945912872441,
+            "chuyến đi xích lô": 0.5,
+            "vạn đò thăm": 0.5,
+            "cơ sở kinh doanh dừa": 0.5,
+            "rượu gạo": 0.5,
+            "nước cốt": 0.9951827136101201,
+            "khuôn viên": 0.9954263375839218,
+            "đồ ăn thì": 0.9954986051889136,
+            "bữa ăn": 0.9338322724506725,
+            "bữa tối": 0.9912528279819526,
+            "món ăn": 0.7477894431503955,
+            "hướng dẫn viên": 0.8141897053355933,
+            "lịch sử": 0.5,
+            "bối cảnh": 0.5,
+            "công": 0.9954423930030316,
+            "đồng bằng sông cửu long": 0.8737691454589367,
+            "kỷ niệm": 0.9953774869791232,
+            "lẽ": 0.5874475383510193,
+            "đường phố": 0.636950851418078,
+            "sông": 0.9956050500040874,
+            "chủ nhà": 0.9955526507110335,
+            "đồng bằng": -0.9465487347915769,
+            "khu công nghiệp": -0.9753869356354699,
+            "tuyến đường thủy": 0.906452849303605,
+            "vùng đồng bằng": -0.41222282871603966,
+            "chuyến đi thuyền": 0.7329106694087386,
+            "đầu bếp": 0.8737691454589367,
+            "ngôi làng": 0.5036053545773029,
+            "chợ": 0.7065362874418497
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "thực sự",
+                "kỳ diệu",
+                "tuyệt vời",
+                "nhộn nhịp",
+                "quan trọng",
+                "hơn",
+                "riêng",
+                "khó khăn",
+                "tuyệt vời",
+                "đặc biệt",
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "hướng dẫn viên du lịch": [],
+            "sông mê kông": [
+                "thực sự"
+            ],
+            "trải nghiệm": [
+                "khác biệt",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "trung bình",
+                "chắc chắn",
+                "nhiều"
+            ],
+            "thức ăn": [
+                "tuyệt thuyền"
+            ],
+            "thuyền": [
+                "thần thánh",
+                "tươi",
+                "ngon",
+                "đẹp",
+                "tuyệt vời",
+                "đơn giản",
+                "đẹp",
+                "dọc"
+            ],
+            "nước nóng": [],
+            "chuyến du lịch": [
+                "cùng",
+                "tốt",
+                "nhiều",
+                "khác",
+                "lớn"
+            ],
+            "chuyến tham quan": [
+                "am hiểu",
+                "tốt",
+                "đủ",
+                "ổn",
+                "tuyệt vời"
+            ],
+            "người hướng dẫn": [
+                "am hiểu"
+            ],
+            "đạp xe": [
+                "khác"
+            ],
+            "làng": [
+                "khác"
+            ],
+            "nhà máy dừa": [
+                "khác"
+            ],
+            "bánh tráng": [
+                "khác",
+                "ngon lành"
+            ],
+            "trái cây": [
+                "thần thánh",
+                "tươi",
+                "ngon",
+                "tươi",
+                "tươi"
+            ],
+            "xe buýt": [],
+            "vuy hướng": [
+                "tuyệt vời"
+            ],
+            "khách sạn": [
+                "dễ dàng",
+                "nhiều"
+            ],
+            "nông thôn": [
+                "tốt",
+                "nhiều",
+                "khác",
+                "lớn",
+                "tuyệt vời"
+            ],
+            "thuyền sông": [
+                "ngon lành"
+            ],
+            "nhà máy": [
+                "ngon lành"
+            ],
+            "cơ sở": [
+                "ngon lành"
+            ],
+            "ngôi nhà": [
+                "ngon lành"
+            ],
+            "bữa trưa": [
+                "ngon lành",
+                "tuyệt vời"
+            ],
+            "khung cảnh": [
+                "đẹp"
+            ],
+            "phong cảnh": [
+                "ngoạn mục"
+            ],
+            "vùng xa": [],
+            "đồ uống": [],
+            "tour du lịch": [
+                "tuyệt vời",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "chuyến đi xích lô": [],
+            "vạn đò thăm": [],
+            "cơ sở kinh doanh dừa": [],
+            "rượu gạo": [],
+            "nước cốt": [
+                "tuyệt vời"
+            ],
+            "khuôn viên": [
+                "đẹp"
+            ],
+            "đồ ăn thì": [
+                "tuyệt vời"
+            ],
+            "bữa ăn": [
+                "thực sự",
+                "nhiều",
+                "niềm nở"
+            ],
+            "bữa tối": [
+                "thực sự",
+                "nhiều"
+            ],
+            "món ăn": [
+                "ngon"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "thực sự",
+                "nhiều",
+                "hữu ích",
+                "vui"
+            ],
+            "lịch sử": [],
+            "bối cảnh": [],
+            "công": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "đồng bằng sông cửu long": [
+                "khoảng"
+            ],
+            "kỷ niệm": [
+                "đẹp",
+                "đặc biệt"
+            ],
+            "lẽ": [
+                "đông đúc",
+                "hơn",
+                "bình thường"
+            ],
+            "đường phố": [
+                "đông đúc",
+                "hơn",
+                "bình thường"
+            ],
+            "sông": [
+                "niềm nở"
+            ],
+            "chủ nhà": [
+                "niềm nở"
+            ],
+            "đồng bằng": [
+                "phải"
+            ],
+            "khu công nghiệp": [
+                "phải"
+            ],
+            "tuyến đường thủy": [
+                "đẹp đẽ",
+                "yên tĩnh"
+            ],
+            "vùng đồng bằng": [
+                "khó khăn"
+            ],
+            "chuyến đi thuyền": [],
+            "đầu bếp": [
+                "tuyệt vời"
+            ],
+            "ngôi làng": [
+                "khác"
+            ],
+            "chợ": [
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 4.0,
+            "nhân viên": 1.5,
+            "hướng dẫn viên du lịch": 1,
+            "sông mê kông": 1,
+            "trải nghiệm": 4.0,
+            "thức ăn": 1,
+            "thuyền": 3.0,
+            "nước nóng": 1,
+            "chuyến du lịch": 1.5,
+            "chuyến tham quan": 2.5,
+            "người hướng dẫn": 1,
+            "đạp xe": 1,
+            "làng": 1,
+            "nhà máy dừa": 1,
+            "bánh tráng": 2.0,
+            "trái cây": 2.0,
+            "xe buýt": 1,
+            "vuy hướng": 1,
+            "khách sạn": 1,
+            "nông thôn": 0.5,
+            "thuyền sông": 0.5,
+            "nhà máy": 0.5,
+            "cơ sở": 0.5,
+            "ngôi nhà": 0.5,
+            "bữa trưa": 1.5,
+            "khung cảnh": 0.5,
+            "phong cảnh": 0.5,
+            "vùng xa": 0.5,
+            "đồ uống": 0.5,
+            "tour du lịch": 1.0,
+            "chuyến đi xích lô": 0.5,
+            "vạn đò thăm": 0.5,
+            "cơ sở kinh doanh dừa": 0.5,
+            "rượu gạo": 0.5,
+            "nước cốt": 0.5,
+            "khuôn viên": 0.5,
+            "đồ ăn thì": 0.5,
+            "bữa ăn": 1.0,
+            "bữa tối": 0.5,
+            "món ăn": 1.0,
+            "hướng dẫn viên": 1.0,
+            "lịch sử": 0.5,
+            "bối cảnh": 0.5,
+            "công": 0.5,
+            "đồng bằng sông cửu long": 0.5,
+            "kỷ niệm": 0.5,
+            "lẽ": 0.5,
+            "đường phố": 0.5,
+            "sông": 0.5,
+            "chủ nhà": 0.5,
+            "đồng bằng": 0.5,
+            "khu công nghiệp": 0.5,
+            "tuyến đường thủy": 0.5,
+            "vùng đồng bằng": 0.5,
+            "chuyến đi thuyền": 0.5,
+            "đầu bếp": 0.5,
+            "ngôi làng": 0.5,
+            "chợ": 0.5
+        }
     }
 ]

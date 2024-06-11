@@ -140,7 +140,179 @@
             "https://www.tripadvisor.com/Attraction_Review-g42519-d619119-Reviews-Oswald_s_Bear_Ranch-Newberry_Upper_Peninsula_Michigan.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or10-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "không gian": 0.5,
+            "bài trí": 0.5,
+            "âm nhạc": 0.7973079704679549,
+            "nhân viên": 0.9019572590150347,
+            "thắng cảnh": 0.8737691454589367,
+            "trải nghiệm": 0.9954175655080829,
+            "khách sạn": 0.7285703913881801,
+            "trung tâm": 0.7025103616313293,
+            "cơ sở lưu trú": 0.9953151936642826,
+            "dịch vụ": 0.795578508550534,
+            "trái tim": 0.9294689139351249,
+            "bầu không khí": -0.04706042294856161,
+            "quán bar": 0.7957975582685322,
+            "quán rượu": 0.5260933935642242,
+            "chương trình giải trí âm nhạc": 0.9544874262064695,
+            "sàn": 0.9741370603442192,
+            "đồ uống": 0.9124405614566058,
+            "ban nhạc": 0.9954571590060368,
+            "vũ công": 0.740706242620945,
+            "chuyến thăm": 0.9853596413740888,
+            "tầm nhìn": 0.9953619478037581,
+            "chuyến đi": 0.6806608494371176,
+            "đồ uống ngon": 0.9955119224614464,
+            "sân": 0.51091243699193,
+            "bầu": 0.8737691454589367,
+            "không khí": -0.43635641783475876
+        },
+        "dicts_adj": {
+            "không gian": [],
+            "bài trí": [],
+            "âm nhạc": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "Đặc biệt",
+                "thơm",
+                "ngon",
+                "tận tình",
+                "chu đáo",
+                "vui vẻ",
+                "thân thiện",
+                "chu đáo",
+                "nhiều",
+                "tận tình",
+                "chu đáo",
+                "tuyệt vời",
+                "tận tình",
+                "chu đáo"
+            ],
+            "thắng cảnh": [
+                "vui"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "vui",
+                "tuyệt vời",
+                "vui",
+                "tuyệt vời",
+                "Quan trọng",
+                "hơn",
+                "chân thành",
+                "vui",
+                "tuyệt vời",
+                "Quan trọng",
+                "hơn",
+                "chân thành"
+            ],
+            "khách sạn": [
+                "sang trọng",
+                "sang trọng"
+            ],
+            "trung tâm": [],
+            "cơ sở lưu trú": [
+                "sang trọng",
+                "đầy",
+                "sang trọng",
+                "đầy",
+                "sang trọng",
+                "đầy"
+            ],
+            "dịch vụ": [
+                "hân hạnh",
+                "cao",
+                "tuyệt vời",
+                "hân hạnh",
+                "cao",
+                "tuyệt vời",
+                "tốt",
+                "hân hạnh",
+                "cao",
+                "tuyệt vời",
+                "rạng rỡ"
+            ],
+            "trái tim": [],
+            "bầu không khí": [
+                "trái ngược",
+                "cuồng nhiệt"
+            ],
+            "quán bar": [
+                "hiện đại",
+                "sang trọng"
+            ],
+            "quán rượu": [
+                "hiện đại"
+            ],
+            "chương trình giải trí âm nhạc": [
+                "đặc biệt"
+            ],
+            "sàn": [
+                "cuồng nhiệt"
+            ],
+            "đồ uống": [
+                "cao",
+                "hơn",
+                "tuyệt vời"
+            ],
+            "ban nhạc": [
+                "tuyệt vời"
+            ],
+            "vũ công": [
+                "phải"
+            ],
+            "chuyến thăm": [],
+            "tầm nhìn": [
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "chuyến đi": [],
+            "đồ uống ngon": [
+                "tuyệt vời"
+            ],
+            "sân": [
+                "sang trọng"
+            ],
+            "bầu": [
+                "đầy"
+            ],
+            "không khí": [
+                "đầy"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "không gian": 1,
+            "bài trí": 1,
+            "âm nhạc": 2.5,
+            "nhân viên": 8.0,
+            "thắng cảnh": 1,
+            "trải nghiệm": 6.5,
+            "khách sạn": 6.5,
+            "trung tâm": 6.5,
+            "cơ sở lưu trú": 3.5,
+            "dịch vụ": 10.0,
+            "trái tim": 3.5,
+            "bầu không khí": 1,
+            "quán bar": 2.5,
+            "quán rượu": 1,
+            "chương trình giải trí âm nhạc": 1,
+            "sàn": 1,
+            "đồ uống": 3,
+            "ban nhạc": 1,
+            "vũ công": 1,
+            "chuyến thăm": 1,
+            "tầm nhìn": 3.0,
+            "chuyến đi": 1.5,
+            "đồ uống ngon": 1.5,
+            "sân": 1.5,
+            "bầu": 1.5,
+            "không khí": 1.5
+        }
     },
     {
         "attraction_name": "Saigon Saigon Rooftop Bar",
@@ -287,7 +459,43 @@
             "https://www.tripadvisor.com/Attraction_Review-g31376-d1554867-Reviews-Teec_Nos_Pos_Trading_Post-Teec_Nos_Pos_Apache_County_Arizona.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or20-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or10-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or10-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9954712056205608,
+            "khách sạn": 0.5,
+            "trung tâm": 0.5,
+            "cơ sở lưu trú": 0.9953151936642826,
+            "dịch vụ": 0.9955477443290874,
+            "trái tim": 0.9294689139351249
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "vui",
+                "tuyệt vời"
+            ],
+            "khách sạn": [],
+            "trung tâm": [],
+            "cơ sở lưu trú": [
+                "sang trọng",
+                "đầy"
+            ],
+            "dịch vụ": [
+                "hân hạnh",
+                "cao",
+                "tuyệt vời"
+            ],
+            "trái tim": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 1.5,
+            "khách sạn": 1.5,
+            "trung tâm": 1.5,
+            "cơ sở lưu trú": 1.5,
+            "dịch vụ": 1.5,
+            "trái tim": 1.5
+        }
     },
     {
         "attraction_name": "Saigon Saigon Rooftop Bar",
@@ -435,7 +643,43 @@
             "https://www.tripadvisor.com/Attraction_Review-g34515-d102814-Reviews-Disney_s_Animal_Kingdom_Theme_Park-Orlando_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or30-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or20-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or20-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9955275834654458,
+            "khách sạn": 0.5,
+            "trung tâm": 0.5,
+            "cơ sở lưu trú": 0.9953151936642826,
+            "dịch vụ": 0.9955690907081589,
+            "trái tim": 0.9294689139351249
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "vui",
+                "tuyệt vời"
+            ],
+            "khách sạn": [],
+            "trung tâm": [],
+            "cơ sở lưu trú": [
+                "sang trọng",
+                "đầy"
+            ],
+            "dịch vụ": [
+                "hân hạnh",
+                "cao",
+                "tuyệt vời"
+            ],
+            "trái tim": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 1.5,
+            "khách sạn": 1.5,
+            "trung tâm": 1.5,
+            "cơ sở lưu trú": 1.5,
+            "dịch vụ": 1.5,
+            "trái tim": 1.5
+        }
     },
     {
         "attraction_name": "Saigon Saigon Rooftop Bar",
@@ -583,7 +827,58 @@
             "https://www.tripadvisor.com/Attraction_Review-g33191-d15187293-Reviews-Donner_Lake-Truckee_Lake_Tahoe_California_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or40-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or30-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or30-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ban công": 0.9726009068544954,
+            "chuyến đi": 0.6744746025651693,
+            "dịch vụ": 0.8737691454589367,
+            "nhân viên": 0.747734815464355,
+            "đồ uống ngon": 0.5,
+            "quầy bar": 0.9602855031262152,
+            "tầng": 0.7670374849694781,
+            "tầm nhìn": 0.995513335452415,
+            "không gian": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "ban công": [
+                "đẹp"
+            ],
+            "chuyến đi": [],
+            "dịch vụ": [
+                "tốt"
+            ],
+            "nhân viên": [
+                "tuyệt vời"
+            ],
+            "đồ uống ngon": [],
+            "quầy bar": [
+                "thượng mang",
+                "sang trọng"
+            ],
+            "tầng": [
+                "thượng mang",
+                "sang trọng"
+            ],
+            "tầm nhìn": [
+                "đẹp"
+            ],
+            "không gian": [
+                "đầy"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ban công": 1.5,
+            "chuyến đi": 1.5,
+            "dịch vụ": 1.5,
+            "nhân viên": 3.0,
+            "đồ uống ngon": 1.5,
+            "quầy bar": 1.5,
+            "tầng": 1.5,
+            "tầm nhìn": 1.5,
+            "không gian": 1.5
+        }
     },
     {
         "attraction_name": "Saigon Saigon Rooftop Bar",
@@ -749,7 +1044,60 @@
             "https://www.tripadvisor.com/Attraction_Review-g297415-d491514-Reviews-China_Folk_Culture_Village-Shenzhen_Guangdong.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or50-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or40-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or40-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quán bar": 0.9948005717014894,
+            "quán rượu": 0.5260933935642242,
+            "chương trình giải trí âm nhạc": 0.9434351646341383,
+            "không khí": 0.9853673803154379,
+            "sàn": 0.5,
+            "đồ uống": 0.5207478944212198,
+            "nhân viên": 0.9954459008877166,
+            "ban nhạc": 0.9955096297198907,
+            "vũ công": 0.740706242620945,
+            "chuyến thăm": 0.9853596413740888
+        },
+        "dicts_adj": {
+            "quán bar": [
+                "hiện đại"
+            ],
+            "quán rượu": [
+                "hiện đại"
+            ],
+            "chương trình giải trí âm nhạc": [
+                "đặc biệt"
+            ],
+            "không khí": [
+                "hào hứng"
+            ],
+            "sàn": [],
+            "đồ uống": [
+                "cao"
+            ],
+            "nhân viên": [
+                "chu đáo",
+                "chu đáo"
+            ],
+            "ban nhạc": [],
+            "vũ công": [
+                "phải"
+            ],
+            "chuyến thăm": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quán bar": 1,
+            "quán rượu": 1,
+            "chương trình giải trí âm nhạc": 1,
+            "không khí": 1,
+            "sàn": 1,
+            "đồ uống": 1,
+            "nhân viên": 1,
+            "ban nhạc": 1,
+            "vũ công": 1,
+            "chuyến thăm": 1
+        }
     },
     {
         "attraction_name": "Saigon Saigon Rooftop Bar",
@@ -915,7 +1263,12 @@
             "https://www.tripadvisor.com/Attraction_Review-g41662-d13340008-Reviews-Apex_Entertainment_Marlborough-Marlborough_Massachusetts.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or60-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or50-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or50-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     },
     {
         "attraction_name": "Saigon Saigon Rooftop Bar",
@@ -1063,7 +1416,12 @@
             "https://www.tripadvisor.com/Attraction_Review-g294009-d3177537-Reviews-Wholesale_Market-Doha.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or70-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or60-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or60-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     },
     {
         "attraction_name": "Saigon Saigon Rooftop Bar",
@@ -1229,7 +1587,12 @@
             "https://www.tripadvisor.com/Attraction_Review-g3721794-d1053873-Reviews-The_Lost_Paradise_of_Dilmun_Water_Park-Zallaq.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or80-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or70-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or70-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     },
     {
         "attraction_name": "Saigon Saigon Rooftop Bar",
@@ -1377,7 +1740,12 @@
             "https://www.tripadvisor.com/Attraction_Review-g28924-d116579-Reviews-Salt_River-Arizona.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or90-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or80-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or80-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     },
     {
         "attraction_name": "Saigon Saigon Rooftop Bar",
@@ -1543,6 +1911,11 @@
             "https://www.tripadvisor.com/Attraction_Review-g1021451-d1388901-Reviews-Hottarakashi_Onsen-Yamanashi_Yamanashi_Prefecture_Koshinetsu_Chubu.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or100-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or90-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d1752815-Reviews-or90-Saigon_Saigon_Rooftop_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     }
 ]

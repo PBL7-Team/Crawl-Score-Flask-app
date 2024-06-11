@@ -88,6 +88,40 @@
             "https://www.tripadvisor.com/Attraction_Review-g44926-d258059-Reviews-Fantastic_Caverns-Springfield_Missouri.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25336113-Reviews-Ccomaya_Kids_Cafe_Restaurant-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25336113-Reviews-Ccomaya_Kids_Cafe_Restaurant-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trẻ em": 0.9954923149198294,
+            "đồ ăn": 0.8737691454589367,
+            "nhân viên": 0.9346510380273685,
+            "thức ăn": 0.9955726584885269,
+            "môi trường": 0.9931761774932966
+        },
+        "dicts_adj": {
+            "trẻ em": [
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "ngon Nhân viên"
+            ],
+            "nhân viên": [
+                "ngon Nhân viên",
+                "tốt"
+            ],
+            "thức ăn": [
+                "ngon"
+            ],
+            "môi trường": [
+                "sạch sẽ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trẻ em": 1,
+            "đồ ăn": 1,
+            "nhân viên": 2,
+            "thức ăn": 1,
+            "môi trường": 1
+        }
     }
 ]

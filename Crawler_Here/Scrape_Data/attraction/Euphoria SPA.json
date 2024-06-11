@@ -95,6 +95,121 @@
             "https://www.tripadvisor.com/Attraction_Review-g34172-d1405618-Reviews-Daytona_Lagoon-Daytona_Beach_Florida.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d8773710-Reviews-Euphoria_SPA-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d8773710-Reviews-Euphoria_SPA-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "mát-xa này chúng": 0.9947200311580673,
+            "chủ quán": 0.7323039993643761,
+            "bác sĩ": 0.8281899588182569,
+            "người quản lý": 0.9945049329544418,
+            "spa": 0.033932315185666084,
+            "chuyên gia": 0.5,
+            "massage": 0.5,
+            "phương pháp xoa bóp": 0.5131713934242725,
+            "thuốc": 0.8950799517333508,
+            "con bướm": 0.5853868313133717,
+            "không khí": 0.8737691454589367,
+            "nhân viên": 0.010059075080789626,
+            "ngôn ngữ": -0.933625714853406,
+            "thú y": 0.9955147345899604,
+            "bãi biển": -0.9742984250187874,
+            "nhà hàng thẩm mỹ": 0.5288526751101017,
+            "chuyến đi": -0.9229369547683746,
+            "trật tự": 0.5,
+            "trải nghiệm": 0.9952318838331848,
+            "mát-xa toàn thân": 0.9797901012934744,
+            "phương pháp điều trị": 0.9710511867888272
+        },
+        "dicts_adj": {
+            "mát-xa này chúng": [
+                "thực sự",
+                "tốt"
+            ],
+            "chủ quán": [
+                "tình cờ"
+            ],
+            "bác sĩ": [
+                "y học",
+                "khó",
+                "duy nhất",
+                "duy nhất"
+            ],
+            "người quản lý": [
+                "xinh đẹp"
+            ],
+            "spa": [
+                "xinh đẹp",
+                "lâu"
+            ],
+            "chuyên gia": [],
+            "massage": [],
+            "phương pháp xoa bóp": [
+                "giống"
+            ],
+            "thuốc": [
+                "giống"
+            ],
+            "con bướm": [
+                "bất kỳ"
+            ],
+            "không khí": [
+                "sạch đẹp"
+            ],
+            "nhân viên": [
+                "hữu ích",
+                "bất kỳ"
+            ],
+            "ngôn ngữ": [
+                "giống"
+            ],
+            "thú y": [
+                "duy nhất"
+            ],
+            "bãi biển": [
+                "nhiều"
+            ],
+            "nhà hàng thẩm mỹ": [
+                "lâu"
+            ],
+            "chuyến đi": [
+                "lâu"
+            ],
+            "trật tự": [],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "mát-xa toàn thân": [
+                "nóng",
+                "chắc chắn"
+            ],
+            "phương pháp điều trị": [
+                "cuối cùng",
+                "thực sự"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "mát-xa này chúng": 0.5,
+            "chủ quán": 0.5,
+            "bác sĩ": 0.5,
+            "người quản lý": 0.5,
+            "spa": 1.0,
+            "chuyên gia": 0.5,
+            "massage": 0.5,
+            "phương pháp xoa bóp": 0.5,
+            "thuốc": 0.5,
+            "con bướm": 0.5,
+            "không khí": 0.5,
+            "nhân viên": 0.5,
+            "ngôn ngữ": 0.5,
+            "thú y": 0.5,
+            "bãi biển": 0.5,
+            "nhà hàng thẩm mỹ": 0.5,
+            "chuyến đi": 0.5,
+            "trật tự": 0.5,
+            "trải nghiệm": 0.5,
+            "mát-xa toàn thân": 0.5,
+            "phương pháp điều trị": 0.5
+        }
     }
 ]

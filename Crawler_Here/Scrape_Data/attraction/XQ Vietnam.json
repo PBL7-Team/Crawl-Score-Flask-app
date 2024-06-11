@@ -107,7 +107,186 @@
             "https://www.tripadvisor.com/Attraction_Review-g295424-d12500860-Reviews-Fish_Roundabout-Dubai_Emirate_of_Dubai.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d12963053-Reviews-or10-XQ_Vietnam-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d12963053-Reviews-XQ_Vietnam-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d12963053-Reviews-XQ_Vietnam-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nghệ thuật": 0.7148732559040322,
+            "bức tranh": 0.6560871095086137,
+            "tác phẩm": 0.7630154640413821,
+            "phòng trưng bày": 0.8737691454589367,
+            "phức hợp nhà": 0.9915757747367024,
+            "bảo tàng": 0.5,
+            "viên ngọc": 0.5,
+            "tấm ván": 0.994699158705771,
+            "chuyến tham": 0.9826272061327472,
+            "sản phẩm": 0.7913167662918568,
+            "khuôn viên": -0.48686685878783464,
+            "ngôi làng": 0.5,
+            "hàng": 0.5,
+            "dãy": 0.5,
+            "nhân viên": 0.5,
+            "vực ăn uống": 0.5,
+            "quán cà phê": 0.7488238904625177,
+            "mũi khâu": 0.21535478718578815,
+            "sợi tơ": 0.5,
+            "tác phẩm nghệ thuật": 0.9886212217388675,
+            "kiệt tác": -0.965156075078994,
+            "động vật": 0.5,
+            "chuyến thăm": 0.8999357800930738,
+            "bức ảnh": -0.18583259172737598,
+            "tác phẩm nghệ thuật thêu tranh vẽ": 0.9954597624018788,
+            "khu vườn zen": 0.8737691454589367,
+            "thêu thùa": 0.9496542070992291,
+            "người dân": 0.8607978411018848,
+            "thế giới": -0.9749477675650269,
+            "kiến trúc": 0.8737691454589367,
+            "nghệ thuật kiến ​​trúc": 0.5,
+            "phòng trưng bày nghệ thuật": 0.9851436051540077,
+            "hổ": 0.5,
+            "vì sân": 0.5,
+            "khu phức hợp": 0.9938545380719006
+        },
+        "dicts_adj": {
+            "nghệ thuật": [
+                "thú vị",
+                "phải",
+                "thực sự",
+                "choáng váng",
+                "tuyệt vời",
+                "thực sự",
+                "cao"
+            ],
+            "bức tranh": [
+                "hoàn toàn",
+                "cần thiết",
+                "nhiều",
+                "nhiều",
+                "kỹ"
+            ],
+            "tác phẩm": [
+                "hoàn toàn",
+                "cần thiết",
+                "nhiều",
+                "nhiều",
+                "tỉ mỉ",
+                "nhiều",
+                "lớn",
+                "nhiều",
+                "đẹp"
+            ],
+            "phòng trưng bày": [
+                "cổ"
+            ],
+            "phức hợp nhà": [
+                "cổ"
+            ],
+            "bảo tàng": [],
+            "viên ngọc": [],
+            "tấm ván": [
+                "lớn",
+                "đẹp"
+            ],
+            "chuyến tham": [
+                "thú vị",
+                "cao"
+            ],
+            "sản phẩm": [
+                "rộng lớn"
+            ],
+            "khuôn viên": [
+                "rộng lớn"
+            ],
+            "ngôi làng": [],
+            "hàng": [],
+            "dãy": [],
+            "nhân viên": [],
+            "vực ăn uống": [],
+            "quán cà phê": [
+                "mệt mỏi",
+                "gần"
+            ],
+            "mũi khâu": [
+                "nhỏ"
+            ],
+            "sợi tơ": [],
+            "tác phẩm nghệ thuật": [
+                "thực sự"
+            ],
+            "kiệt tác": [
+                "thực sự"
+            ],
+            "động vật": [],
+            "chuyến thăm": [
+                "đơn giản",
+                "đủ"
+            ],
+            "bức ảnh": [
+                "bất kỳ",
+                "thực sự"
+            ],
+            "tác phẩm nghệ thuật thêu tranh vẽ": [
+                "xinh đẹp"
+            ],
+            "khu vườn zen": [
+                "nhiều"
+            ],
+            "thêu thùa": [],
+            "người dân": [
+                "tự hào"
+            ],
+            "thế giới": [],
+            "kiến trúc": [
+                "đẹp"
+            ],
+            "nghệ thuật kiến ​​trúc": [],
+            "phòng trưng bày nghệ thuật": [
+                "giống",
+                "tốt"
+            ],
+            "hổ": [],
+            "vì sân": [],
+            "khu phức hợp": [
+                "Đẹp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nghệ thuật": 3.5,
+            "bức tranh": 1.5,
+            "tác phẩm": 2.5,
+            "phòng trưng bày": 1,
+            "phức hợp nhà": 1,
+            "bảo tàng": 0.5,
+            "viên ngọc": 0.5,
+            "tấm ván": 0.5,
+            "chuyến tham": 0.5,
+            "sản phẩm": 0.5,
+            "khuôn viên": 0.5,
+            "ngôi làng": 0.5,
+            "hàng": 0.5,
+            "dãy": 0.5,
+            "nhân viên": 0.5,
+            "vực ăn uống": 0.5,
+            "quán cà phê": 0.5,
+            "mũi khâu": 0.5,
+            "sợi tơ": 0.5,
+            "tác phẩm nghệ thuật": 0.5,
+            "kiệt tác": 0.5,
+            "động vật": 0.5,
+            "chuyến thăm": 0.5,
+            "bức ảnh": 0.5,
+            "tác phẩm nghệ thuật thêu tranh vẽ": 0.5,
+            "khu vườn zen": 0.5,
+            "thêu thùa": 0.5,
+            "người dân": 0.5,
+            "thế giới": 0.5,
+            "kiến trúc": 0.5,
+            "nghệ thuật kiến ​​trúc": 0.5,
+            "phòng trưng bày nghệ thuật": 0.5,
+            "hổ": 0.5,
+            "vì sân": 0.5,
+            "khu phức hợp": 0.5
+        }
     },
     {
         "attraction_name": "XQ Vietnam",
@@ -218,7 +397,171 @@
             "https://www.tripadvisor.com/Attraction_Review-g51815-d564002-Reviews-Rooster_Rock_State_Park-Corbett_Oregon.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d12963053-Reviews-or20-XQ_Vietnam-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d12963053-Reviews-or10-XQ_Vietnam-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d12963053-Reviews-or10-XQ_Vietnam-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi nhà nghệ thuật": 0.983803533250466,
+            "ngôi nhà": -0.10025365313049406,
+            "cửa hàng": 0.5,
+            "quán cà phê": 0.9915903527289629,
+            "nhà hàng": 0.6162899564951658,
+            "nghệ thuật": 0.9743538531474769,
+            "thung lũng tình": 0.9955591876641847,
+            "phòng trưng bày": -0.967398019740358,
+            "biển hiệu": -0.9759870544075966,
+            "trang trí nội thất": -0.20513731939718127,
+            "nhà điên": -0.949725772254169,
+            "điểm du lịch": 0.9954344087745994,
+            "cửa hàng nhỏ": 0.8737691454589367,
+            "món đồ": 0.00480631657410413,
+            "túi xách": 0.9946032700827345,
+            "váy lụa": 0.25367586500942707,
+            "nhân viên cửa hàng": 0.9428676082752645,
+            "cặp kính râm": 0.9918380104936659,
+            "độ nghệ thuật": 0.5004781410098076,
+            "nghề dệt": 0.5,
+            "nghề": 0.511079166084528,
+            "chuyến đi bộ": 0.7597800185903907,
+            "biển báo": 0.5,
+            "trải nghiệm": 0.9952929429709911,
+            "bức tranh lụa": 0.9954180766362697,
+            "mái": -0.9494714555330575,
+            "kính lúp": -0.9731133698951453,
+            "đồ thêu lụa": 0.5548325777053833,
+            "phòng": 0.9955744304461405,
+            "phòng thêu": 0.9952237594407052,
+            "áo dài lụa": -0.8267893309239298
+        },
+        "dicts_adj": {
+            "ngôi nhà nghệ thuật": [],
+            "ngôi nhà": [
+                "khác",
+                "đủ"
+            ],
+            "cửa hàng": [],
+            "quán cà phê": [
+                "lớn"
+            ],
+            "nhà hàng": [
+                "lớn"
+            ],
+            "nghệ thuật": [
+                "lớn"
+            ],
+            "thung lũng tình": [
+                "xa",
+                "thú vị",
+                "hơn",
+                "nhiều"
+            ],
+            "phòng trưng bày": [
+                "nhiều",
+                "đơn thuần"
+            ],
+            "biển hiệu": [
+                "lúng túng"
+            ],
+            "trang trí nội thất": [
+                "gần",
+                "lập dị"
+            ],
+            "nhà điên": [
+                "nhất"
+            ],
+            "điểm du lịch": [
+                "nhất"
+            ],
+            "cửa hàng nhỏ": [
+                "tuyệt vời"
+            ],
+            "món đồ": [
+                "thực sự",
+                "độc đáo"
+            ],
+            "túi xách": [
+                "nhiều",
+                "tuyệt vời",
+                "nhiều",
+                "khác"
+            ],
+            "váy lụa": [],
+            "nhân viên cửa hàng": [
+                "ngọt ngào"
+            ],
+            "cặp kính râm": [
+                "thú vị"
+            ],
+            "độ nghệ thuật": [
+                "phức tạp"
+            ],
+            "nghề dệt": [],
+            "nghề": [],
+            "chuyến đi bộ": [
+                "sâu",
+                "rộng",
+                "dễ chịu"
+            ],
+            "biển báo": [],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "bức tranh lụa": [
+                "tuyệt vời"
+            ],
+            "mái": [
+                "giống"
+            ],
+            "kính lúp": [
+                "hoàn hảo"
+            ],
+            "đồ thêu lụa": [
+                "khó"
+            ],
+            "phòng": [
+                "đẹp"
+            ],
+            "phòng thêu": [
+                "dễ chịu"
+            ],
+            "áo dài lụa": [
+                "nhiều",
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngôi nhà nghệ thuật": 0.5,
+            "ngôi nhà": 0.5,
+            "cửa hàng": 0.5,
+            "quán cà phê": 0.5,
+            "nhà hàng": 1.0,
+            "nghệ thuật": 0.5,
+            "thung lũng tình": 0.5,
+            "phòng trưng bày": 0.5,
+            "biển hiệu": 0.5,
+            "trang trí nội thất": 0.5,
+            "nhà điên": 0.5,
+            "điểm du lịch": 0.5,
+            "cửa hàng nhỏ": 0.5,
+            "món đồ": 0.5,
+            "túi xách": 0.5,
+            "váy lụa": 0.5,
+            "nhân viên cửa hàng": 0.5,
+            "cặp kính râm": 0.5,
+            "độ nghệ thuật": 0.5,
+            "nghề dệt": 0.5,
+            "nghề": 0.5,
+            "chuyến đi bộ": 1.0,
+            "biển báo": 0.5,
+            "trải nghiệm": 0.5,
+            "bức tranh lụa": 0.5,
+            "mái": 0.5,
+            "kính lúp": 0.5,
+            "đồ thêu lụa": 0.5,
+            "phòng": 0.5,
+            "phòng thêu": 0.5,
+            "áo dài lụa": 0.5
+        }
     },
     {
         "attraction_name": "XQ Vietnam",
@@ -330,7 +673,159 @@
             "https://www.tripadvisor.com/Attraction_Review-g735760-d188512-Reviews-St_Michael_s_Mount-Marazion_Cornwall_England.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d12963053-Reviews-or30-XQ_Vietnam-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d12963053-Reviews-or20-XQ_Vietnam-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d12963053-Reviews-or20-XQ_Vietnam-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thung lũng": 0.6868845727294683,
+            "núi non": 0.5,
+            "thương hiệu": 0.5,
+            "thủ công mỹ nghệ": 0.5,
+            "bức tranh": 0.7329552955925465,
+            "đường": 0.9473890140652657,
+            "kim mũi chỉ": -0.07641852460801601,
+            "lịch sử": 0.9936214020708576,
+            "tác phẩm nghệ thuật": 0.500747178462916,
+            "nghi thức thờ": 0.5,
+            "nhân viên": 0.5,
+            "trang phục truyền": 0.5,
+            "tác phẩm": 0.5433806851506233,
+            "đường khâu": 0.5,
+            "phòng trưng bày": 0.7475841778796166,
+            "cửa": 0.5,
+            "hàng": 0.5,
+            "bán khăn lụa": 0.5,
+            "tác phẩm thêu": 0.9954217952908948,
+            "không gian": 0.9861719107138924,
+            "nghệ thuật": 0.9916169390198775,
+            "trà việt": 0.8737691454589367,
+            "vài": 0.9953529498307034,
+            "lát gừng khô": 0.9940613587386906,
+            "khoai lang nướng": 0.5,
+            "hình thêu": 0.9328645928762853,
+            "ngôi làng": 0.5088436556980014,
+            "phòng": 0.5,
+            "trưng bày nghệ thuật": 0.5,
+            "tòa nhà": 0.5,
+            "bảo tàng văn hóa": 0.5,
+            "điểm tham quan": 0.5,
+            "chuyến đi": 0.5
+        },
+        "dicts_adj": {
+            "thung lũng": [
+                "ngắn"
+            ],
+            "núi non": [],
+            "thương hiệu": [],
+            "thủ công mỹ nghệ": [],
+            "bức tranh": [
+                "duy nhất",
+                "kỹ"
+            ],
+            "đường": [
+                "duy nhất"
+            ],
+            "kim mũi chỉ": [
+                "duy nhất"
+            ],
+            "lịch sử": [
+                "thú vị"
+            ],
+            "tác phẩm nghệ thuật": [
+                "cao",
+                "đẹp",
+                "nhiều"
+            ],
+            "nghi thức thờ": [],
+            "nhân viên": [],
+            "trang phục truyền": [],
+            "tác phẩm": [
+                "giống"
+            ],
+            "đường khâu": [],
+            "phòng trưng bày": [
+                "đẹp"
+            ],
+            "cửa": [],
+            "hàng": [],
+            "bán khăn lụa": [],
+            "tác phẩm thêu": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "không gian": [
+                "thuận tiện",
+                "hơn"
+            ],
+            "nghệ thuật": [
+                "thuận tiện",
+                "hơn",
+                "đẹp"
+            ],
+            "trà việt": [
+                "Tuyệt vời",
+                "nhất",
+                "có thể"
+            ],
+            "vài": [
+                "có thể"
+            ],
+            "lát gừng khô": [
+                "có thể"
+            ],
+            "khoai lang nướng": [],
+            "hình thêu": [
+                "nhiều",
+                "rộng lớn",
+                "đặc biệt",
+                "đầu tiên"
+            ],
+            "ngôi làng": [
+                "đủ",
+                "khác"
+            ],
+            "phòng": [],
+            "trưng bày nghệ thuật": [],
+            "tòa nhà": [],
+            "bảo tàng văn hóa": [],
+            "điểm tham quan": [],
+            "chuyến đi": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thung lũng": 1.0,
+            "núi non": 0.5,
+            "thương hiệu": 0.5,
+            "thủ công mỹ nghệ": 0.5,
+            "bức tranh": 1.0,
+            "đường": 0.5,
+            "kim mũi chỉ": 0.5,
+            "lịch sử": 0.5,
+            "tác phẩm nghệ thuật": 2.0,
+            "nghi thức thờ": 0.5,
+            "nhân viên": 0.5,
+            "trang phục truyền": 0.5,
+            "tác phẩm": 0.5,
+            "đường khâu": 0.5,
+            "phòng trưng bày": 1.0,
+            "cửa": 0.5,
+            "hàng": 0.5,
+            "bán khăn lụa": 0.5,
+            "tác phẩm thêu": 0.5,
+            "không gian": 0.5,
+            "nghệ thuật": 1.0,
+            "trà việt": 0.5,
+            "vài": 0.5,
+            "lát gừng khô": 0.5,
+            "khoai lang nướng": 0.5,
+            "hình thêu": 0.5,
+            "ngôi làng": 1.0,
+            "phòng": 0.5,
+            "trưng bày nghệ thuật": 0.5,
+            "tòa nhà": 0.5,
+            "bảo tàng văn hóa": 0.5,
+            "điểm tham quan": 0.5,
+            "chuyến đi": 0.5
+        }
     },
     {
         "attraction_name": "XQ Vietnam",
@@ -437,6 +932,199 @@
             "https://www.tripadvisor.com/Attraction_Review-g52819-d116605-Reviews-Hershey_Gardens-Hershey_Pennsylvania.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293922-d12963053-Reviews-or40-XQ_Vietnam-Da_Lat_Lam_Dong_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d12963053-Reviews-or30-XQ_Vietnam-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d12963053-Reviews-or30-XQ_Vietnam-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tác phẩm nghệ thuật": 0.6026945897465339,
+            "phòng trưng bày": 0.9943123502307571,
+            "nhân viên": 0.3358110338449478,
+            "sản phẩm": 0.5,
+            "cửa hàng": 0.5,
+            "dịch vụ": 0.3565889175515622,
+            "cửa": 0.5,
+            "hàng lưu niệm": 0.5,
+            "bộ sưu tập": 0.984993212390691,
+            "hình thêu thật": 0.995473942370154,
+            "hình thêu": 0.8944280073046684,
+            "hiệu ứng": 0.8737691454589367,
+            "tác phẩm thủ công": 0.9952930922154337,
+            "chuyến tham quan": 0.8186960769817233,
+            "kỹ năng thêu lụa": 0.9953629003139213,
+            "tác phẩm": 0.6804414053913206,
+            "bảo tàng": 0.9038719329982996,
+            "bảo tàng dệt may": 0.9952181334374472,
+            "kỹ năng thêu thùa": 0.995252136955969,
+            "sợi chỉ lụa": 0.9870594120584428,
+            "lễ tân": 0.506697179749608,
+            "tấm áp": -0.9473537767771631,
+            "buổi khiêu vũ": 0.12223311699926853,
+            "chỉ dẫn": -0.21538096328731626,
+            "chuyến tham": 0.38067751191556454,
+            "nhà hàng": 0.5,
+            "âm nhạc": 0.5,
+            "buổi diễn chính": 0.9533960490953177,
+            "phòng trưng bày lụa": 0.4020714573562145,
+            "biển": 0.5,
+            "nhà vệ sinh": 0.5226726476103067,
+            "biển báo": -0.8615369219332933,
+            "hàng": 0.5,
+            "bán khăn lụa": 0.5,
+            "tác phẩm thêu": 0.9954615177121013,
+            "người thợ làm": 0.5076656192541122,
+            "tơ lụa": -0.37343393452465534,
+            "ca nhạc": 0.9868249536957592
+        },
+        "dicts_adj": {
+            "tác phẩm nghệ thuật": [
+                "đẹp",
+                "tuyệt vời",
+                "nhiều",
+                "tuyệt vời",
+                "chắc chắn",
+                "đẹp"
+            ],
+            "phòng trưng bày": [
+                "đẹp",
+                "đẹp"
+            ],
+            "nhân viên": [
+                "ấn tượng"
+            ],
+            "sản phẩm": [],
+            "cửa hàng": [],
+            "dịch vụ": [
+                "tốt",
+                "hơn"
+            ],
+            "cửa": [],
+            "hàng lưu niệm": [],
+            "bộ sưu tập": [],
+            "hình thêu thật": [],
+            "hình thêu": [],
+            "hiệu ứng": [
+                "tuyệt vời"
+            ],
+            "tác phẩm thủ công": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [],
+            "kỹ năng thêu lụa": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "tác phẩm": [
+                "cao",
+                "giống",
+                "chăm chỉ",
+                "nhiều",
+                "Nhiều",
+                "nhỏ",
+                "hơn",
+                "phải chăng"
+            ],
+            "bảo tàng": [
+                "lớn",
+                "giống",
+                "trực tiếp",
+                "thêu thùa",
+                "cơ bản"
+            ],
+            "bảo tàng dệt may": [
+                "tuyệt vời"
+            ],
+            "kỹ năng thêu thùa": [
+                "nhiều"
+            ],
+            "sợi chỉ lụa": [
+                "nhiều"
+            ],
+            "lễ tân": [],
+            "tấm áp": [
+                "Cuối cùng",
+                "chính xác"
+            ],
+            "buổi khiêu vũ": [
+                "trong"
+            ],
+            "chỉ dẫn": [
+                "liên tục",
+                "ngược"
+            ],
+            "chuyến tham": [
+                "vòng vòng"
+            ],
+            "nhà hàng": [],
+            "âm nhạc": [],
+            "buổi diễn chính": [
+                "cuối cùng"
+            ],
+            "phòng trưng bày lụa": [
+                "đẹp Điểm",
+                "yếu",
+                "rộng lớn",
+                "phức tạp"
+            ],
+            "biển": [],
+            "nhà vệ sinh": [
+                "khó"
+            ],
+            "biển báo": [
+                "khó"
+            ],
+            "hàng": [],
+            "bán khăn lụa": [],
+            "tác phẩm thêu": [
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "người thợ làm": [
+                "nhiều"
+            ],
+            "tơ lụa": [
+                "nhiều"
+            ],
+            "ca nhạc": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tác phẩm nghệ thuật": 2.0,
+            "phòng trưng bày": 1.0,
+            "nhân viên": 1.0,
+            "sản phẩm": 0.5,
+            "cửa hàng": 0.5,
+            "dịch vụ": 1.0,
+            "cửa": 1.0,
+            "hàng lưu niệm": 0.5,
+            "bộ sưu tập": 0.5,
+            "hình thêu thật": 0.5,
+            "hình thêu": 0.5,
+            "hiệu ứng": 0.5,
+            "tác phẩm thủ công": 0.5,
+            "chuyến tham quan": 0.5,
+            "kỹ năng thêu lụa": 0.5,
+            "tác phẩm": 1.0,
+            "bảo tàng": 0.5,
+            "bảo tàng dệt may": 0.5,
+            "kỹ năng thêu thùa": 0.5,
+            "sợi chỉ lụa": 0.5,
+            "lễ tân": 0.5,
+            "tấm áp": 0.5,
+            "buổi khiêu vũ": 0.5,
+            "chỉ dẫn": 1.0,
+            "chuyến tham": 0.5,
+            "nhà hàng": 0.5,
+            "âm nhạc": 0.5,
+            "buổi diễn chính": 0.5,
+            "phòng trưng bày lụa": 0.5,
+            "biển": 0.5,
+            "nhà vệ sinh": 0.5,
+            "biển báo": 0.5,
+            "hàng": 0.5,
+            "bán khăn lụa": 0.5,
+            "tác phẩm thêu": 0.5,
+            "người thợ làm": 0.5,
+            "tơ lụa": 0.5,
+            "ca nhạc": 0.5
+        }
     }
 ]

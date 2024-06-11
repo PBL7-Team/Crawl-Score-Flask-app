@@ -86,7 +86,109 @@
             "https://www.tripadvisor.com/Attraction_Review-g701653-d1123515-Reviews-Camiguin_Island-Camiguin_Mindanao.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d26364016-Reviews-or10-Cobra_Bike_Tours_Cooking_Class-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26364016-Reviews-Cobra_Bike_Tours_Cooking_Class-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26364016-Reviews-Cobra_Bike_Tours_Cooking_Class-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khung cảnh": 0.9953689613612369,
+            "chuyến tham quan": 0.6650939949322492,
+            "lớp học nấu ăn": 0.6236220793216489,
+            "trải nghiệm": 0.9951686278684064,
+            "xe đạp": 0.7105190165457316,
+            "dịch vụ": 0.498476168513298,
+            "không khí": -0.9631693750852719,
+            "món phở": 0.5,
+            "đất nước": 0.9946930651203729,
+            "kỳ nghỉ": 0.9953480509575456,
+            "chuyến đi đạp xe": 0.994858653168194,
+            "đồ ăn bữa trưa": 0.9955594406928867,
+            "phở bò": 0.9933081645285711,
+            "con người": 0.5
+        },
+        "dicts_adj": {
+            "khung cảnh": [
+                "đầu tiên",
+                "thực sự",
+                "thân thiện"
+            ],
+            "chuyến tham quan": [
+                "hào hứng"
+            ],
+            "lớp học nấu ăn": [
+                "hào hứng"
+            ],
+            "trải nghiệm": [
+                "thú vị",
+                "thú vị",
+                "tuyệt vời",
+                "tuyệt vời",
+                "thực sự",
+                "ấm áp",
+                "thực sự"
+            ],
+            "xe đạp": [
+                "lâu",
+                "tốt",
+                "tốt",
+                "đẹp",
+                "tốt",
+                "thường xuyên",
+                "nhiều"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "hơn",
+                "tốt",
+                "hơn",
+                "tốt",
+                "hơn",
+                "tốt",
+                "hơn",
+                "tốt",
+                "hơn"
+            ],
+            "không khí": [
+                "trong lành",
+                "đặc biệt"
+            ],
+            "món phở": [],
+            "đất nước": [],
+            "kỳ nghỉ": [
+                "nổi bật"
+            ],
+            "chuyến đi đạp xe": [
+                "tuyệt vời",
+                "nhỏ",
+                "khác",
+                "hối hả",
+                "nhộn nhịp"
+            ],
+            "đồ ăn bữa trưa": [
+                "ngon",
+                "thực sự",
+                "ngon"
+            ],
+            "phở bò": [
+                "ngon"
+            ],
+            "con người": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khung cảnh": 1,
+            "chuyến tham quan": 3,
+            "lớp học nấu ăn": 4,
+            "trải nghiệm": 5,
+            "xe đạp": 4,
+            "dịch vụ": 5,
+            "không khí": 1,
+            "món phở": 1,
+            "đất nước": 1,
+            "kỳ nghỉ": 1,
+            "chuyến đi đạp xe": 1,
+            "đồ ăn bữa trưa": 1,
+            "phở bò": 1,
+            "con người": 1
+        }
     },
     {
         "attraction_name": "Cobra Bike Tours & Cooking Class",
@@ -143,6 +245,39 @@
             "https://www.tripadvisor.com/Attraction_Review-g43022-d7052015-Reviews-Twin_Cities_Premium_Outlets-Eagan_Minnesota.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26364016-Reviews-or10-Cobra_Bike_Tours_Cooking_Class-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d26364016-Reviews-or10-Cobra_Bike_Tours_Cooking_Class-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9952929429709911,
+            "chuyến tham quan": 0.5,
+            "trải nghiệm vùng": 0.5,
+            "trang trại rau sạch": 0.5,
+            "lớp học nấu ăn": 0.5,
+            "món ăn": 0.5,
+            "kỳ nghỉ": 0.995413477125112
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [],
+            "trải nghiệm vùng": [],
+            "trang trại rau sạch": [],
+            "lớp học nấu ăn": [],
+            "món ăn": [],
+            "kỳ nghỉ": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 1,
+            "chuyến tham quan": 1,
+            "trải nghiệm vùng": 1,
+            "trang trại rau sạch": 1,
+            "lớp học nấu ăn": 1,
+            "món ăn": 1,
+            "kỳ nghỉ": 1
+        }
     }
 ]

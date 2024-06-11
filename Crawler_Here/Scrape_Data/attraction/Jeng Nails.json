@@ -90,6 +90,63 @@
             "https://www.tripadvisor.com/Attraction_Review-g33020-d12924296-Reviews-Mount_Umunhum-San_Jose_California.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25075179-Reviews-Jeng_Nails-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25075179-Reviews-Jeng_Nails-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyên gia": 0.9955440787598491,
+            "mức giá": 0.8976279455237091,
+            "móng gel": 0.5,
+            "chà chân": 0.5,
+            "mát-xa": 0.5,
+            "lưng": 0.5,
+            "trải nghiệm": 0.9954978927271441,
+            "combo gel": 0.9948142799548805,
+            "trên ghế": 0.5069712921977043,
+            "chợ": 0.3284722529351711,
+            "bộ móng": 0.5101407021284103,
+            "lịch sử": 0.5,
+            "văn hóa": 0.5
+        },
+        "dicts_adj": {
+            "chuyên gia": [
+                "hợp lý"
+            ],
+            "mức giá": [
+                "hợp lý"
+            ],
+            "móng gel": [],
+            "chà chân": [],
+            "mát-xa": [],
+            "lưng": [],
+            "trải nghiệm": [],
+            "combo gel": [
+                "xinh xắn"
+            ],
+            "trên ghế": [],
+            "chợ": [
+                "tình cờ"
+            ],
+            "bộ móng": [
+                "đơn giản"
+            ],
+            "lịch sử": [],
+            "văn hóa": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyên gia": 1.5,
+            "mức giá": 1.5,
+            "móng gel": 1.5,
+            "chà chân": 1.5,
+            "mát-xa": 1.5,
+            "lưng": 1.5,
+            "trải nghiệm": 1.5,
+            "combo gel": 1.5,
+            "trên ghế": 1.5,
+            "chợ": 1.5,
+            "bộ móng": 1.5,
+            "lịch sử": 1.5,
+            "văn hóa": 1.5
+        }
     }
 ]

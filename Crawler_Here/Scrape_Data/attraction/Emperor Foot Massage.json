@@ -90,6 +90,83 @@
             "https://www.tripadvisor.com/Attraction_Review-g29563-d8489430-Reviews-Critchlow_Alligator_Sanctuary-Athens_Calhoun_County_Michigan.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d2407007-Reviews-Emperor_Foot_Massage-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d2407007-Reviews-Emperor_Foot_Massage-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trong 30": -0.9732998595573008,
+            "môi trường": -0.9764937292784452,
+            "dịch vụ mát-xa cơ thể": 0.5195094384253025,
+            "buổi mát xa": 0.991908761439845,
+            "trải nghiệm": -0.9314057258889079,
+            "khu phố cổ": 0.982315314526204,
+            "trong 90": 0.5,
+            "nhà trị liệu": -0.29202353209257126,
+            "liệu pháp mát-xa lưng": 0.9898541818838567,
+            "khăn tắm": 0.959224377758801,
+            "quần áo": 0.4795248154550791,
+            "tấm biển": 0.5068694446235895,
+            "nhân viên": 0.5
+        },
+        "dicts_adj": {
+            "trong 30": [
+                "thực sự",
+                "nhiều",
+                "tồi tệ"
+            ],
+            "môi trường": [
+                "thực sự",
+                "tốt"
+            ],
+            "dịch vụ mát-xa cơ thể": [],
+            "buổi mát xa": [
+                "thực sự",
+                "khủng khiếp"
+            ],
+            "trải nghiệm": [
+                "tồi tệ"
+            ],
+            "khu phố cổ": [
+                "đủ",
+                "hợp pháp"
+            ],
+            "trong 90": [],
+            "nhà trị liệu": [
+                "khác",
+                "thực sự",
+                "khác"
+            ],
+            "liệu pháp mát-xa lưng": [
+                "thoải mái",
+                "hài lòng",
+                "cuối cùng",
+                "cuối cùng"
+            ],
+            "khăn tắm": [
+                "lảo đảo"
+            ],
+            "quần áo": [
+                "cuối cùng"
+            ],
+            "tấm biển": [
+                "lớn"
+            ],
+            "nhân viên": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trong 30": 0.5,
+            "môi trường": 0.5,
+            "dịch vụ mát-xa cơ thể": 0.5,
+            "buổi mát xa": 0.5,
+            "trải nghiệm": 0.5,
+            "khu phố cổ": 0.5,
+            "trong 90": 0.5,
+            "nhà trị liệu": 0.5,
+            "liệu pháp mát-xa lưng": 0.5,
+            "khăn tắm": 0.5,
+            "quần áo": 0.5,
+            "tấm biển": 0.5,
+            "nhân viên": 0.5
+        }
     }
 ]

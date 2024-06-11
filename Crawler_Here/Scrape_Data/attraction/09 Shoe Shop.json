@@ -113,7 +113,187 @@
             "https://www.tripadvisor.com/Attraction_Review-g187497-d244892-Reviews-Jamboree_Jazz-Barcelona_Catalonia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or10-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chất lượng": 0.1842896736062054,
+            "dịch vụ": 0.890179987193551,
+            "giày": 0.7353084180271253,
+            "đôi": 0.7119646797305904,
+            "giày công sở": 0.48286491446197033,
+            "chuyến đi": 0.9256447893567383,
+            "giá": 0.9940570641483646,
+            "túi": 0.9342991128796712,
+            "giá cả": 0.9955773896654136,
+            "công": 0.9944648141972721,
+            "bộ vest": 0.6220419071614742,
+            "cửa hàng": 0.7345975276315585,
+            "da": 0.9951466989004984,
+            "bộ đồ mới may": 0.9932336891070008,
+            "áo khoác da": 0.9946203551080544,
+            "da mềm": 0.9953440167591907,
+            "dép": 0.8140151672996581,
+            "giá phải trả": -0.9728707130998373,
+            "hàng hóa": 0.5080691408365965,
+            "nhân viên": 0.9955879109329544,
+            "áo khoác": 0.5378438141196966,
+            "họ": -0.6188081372529268,
+            "nhãn dán": -0.9569627221208066,
+            "thợ may hoà bình": 0.47933528386056423,
+            "trải nghiệm": -0.970540921902284,
+            "thắt lưng": 0.9544257905799896,
+            "mức giá": 0.9828623479697853,
+            "vị trí": 0.5023588985204697,
+            "liên trang": 0.9854138784576207
+        },
+        "dicts_adj": {
+            "chất lượng": [
+                "tốt",
+                "tuyệt vời",
+                "kém",
+                "lỏng lẻo",
+                "đầu tiên",
+                "kém",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "giày": [
+                "đầy",
+                "đầu tiên",
+                "bền bỉ",
+                "đẹp",
+                "ổn",
+                "trượt",
+                "dài",
+                "thực sự",
+                "thoải mái",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "đôi": [
+                "đầu tiên",
+                "bền bỉ",
+                "dài",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "giày công sở": [
+                "đầu tiên",
+                "bền bỉ"
+            ],
+            "chuyến đi": [
+                "khác",
+                "gần"
+            ],
+            "giá": [
+                "tuyệt vời",
+                "hợp lý",
+                "nhanh chóng",
+                "đúng"
+            ],
+            "túi": [
+                "tuyệt vời",
+                "kém"
+            ],
+            "giá cả": [
+                "tuyệt vời"
+            ],
+            "công": [
+                "hoàn hảo",
+                "hợp"
+            ],
+            "bộ vest": [
+                "mới"
+            ],
+            "cửa hàng": [
+                "tuyệt vời"
+            ],
+            "da": [
+                "sẵn"
+            ],
+            "bộ đồ mới may": [
+                "sẵn"
+            ],
+            "áo khoác da": [
+                "đẹp"
+            ],
+            "da mềm": [
+                "đẹp"
+            ],
+            "dép": [
+                "ổn"
+            ],
+            "giá phải trả": [
+                "kém"
+            ],
+            "hàng hóa": [
+                "đúng",
+                "ổn"
+            ],
+            "nhân viên": [
+                "niềm nở"
+            ],
+            "áo khoác": [
+                "đầy"
+            ],
+            "họ": [],
+            "nhãn dán": [
+                "rách"
+            ],
+            "thợ may hoà bình": [],
+            "trải nghiệm": [],
+            "thắt lưng": [
+                "cùng"
+            ],
+            "mức giá": [
+                "hoàn toàn",
+                "đúng",
+                "hợp lý"
+            ],
+            "vị trí": [
+                "chính xác"
+            ],
+            "liên trang": [
+                "ngọt ngào"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chất lượng": 5.0,
+            "dịch vụ": 2.5,
+            "giày": 5.0,
+            "đôi": 2.5,
+            "giày công sở": 1,
+            "chuyến đi": 1,
+            "giá": 2,
+            "túi": 2,
+            "giá cả": 1,
+            "công": 1,
+            "bộ vest": 1,
+            "cửa hàng": 2.5,
+            "da": 1,
+            "bộ đồ mới may": 1,
+            "áo khoác da": 2,
+            "da mềm": 1,
+            "dép": 1,
+            "giá phải trả": 1,
+            "hàng hóa": 1,
+            "nhân viên": 1,
+            "áo khoác": 1,
+            "họ": 1,
+            "nhãn dán": 1,
+            "thợ may hoà bình": 1,
+            "trải nghiệm": 1,
+            "thắt lưng": 1,
+            "mức giá": 1,
+            "vị trí": 1,
+            "liên trang": 0.5
+        }
     },
     {
         "attraction_name": "09 Shoe Shop",
@@ -229,7 +409,118 @@
             "https://www.tripadvisor.com/Attraction_Review-g42182-d143265-Reviews-Sleeping_Bear_Dunes_National_Lakeshore-Empire_Leelanau_County_Michigan.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or20-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or10-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or10-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "giày da lộn": 0.9944868030725047,
+            "dịch vụ": 0.7944679997017374,
+            "sản phẩm": 0.7380757281789556,
+            "cửa hàng": 0.43806201666302513,
+            "da bò vì": 0.5,
+            "độ mềm": 0.5,
+            "nhân viên": 0.9599607799900696,
+            "nhà sản xuất": -0.9293009391985834,
+            "chất lượng": 0.5,
+            "trải nghiệm": 0.9954767258604988,
+            "mặt hàng": 0.5,
+            "kinh tế địa": 0.5,
+            "giày": 0.2705068263070037,
+            "shop": 0.9955686091561802,
+            "giá cả": 0.5144995711743832,
+            "chất liệu": 0.5,
+            "giá": 0.9306494623888284,
+            "túi giày": 0.8737691454589367,
+            "thắt lưng da": 0.9948327268939465,
+            "đôi": 0.5,
+            "phiên bản": 0.5
+        },
+        "dicts_adj": {
+            "giày da lộn": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "vui",
+                "hài lòng",
+                "hài lòng",
+                "hài lòng"
+            ],
+            "sản phẩm": [
+                "cao",
+                "cao"
+            ],
+            "cửa hàng": [
+                "cao",
+                "nhiều",
+                "khác"
+            ],
+            "da bò vì": [],
+            "độ mềm": [],
+            "nhân viên": [
+                "nhiệt tình",
+                "nhiều",
+                "khác",
+                "kỹ lưỡng"
+            ],
+            "nhà sản xuất": [
+                "nổi tiếng"
+            ],
+            "chất lượng": [],
+            "trải nghiệm": [
+                "thú vị"
+            ],
+            "mặt hàng": [],
+            "kinh tế địa": [],
+            "giày": [
+                "tối",
+                "đắt",
+                "hơn"
+            ],
+            "shop": [],
+            "giá cả": [
+                "khác"
+            ],
+            "chất liệu": [],
+            "giá": [
+                "hợp lý",
+                "nhiều",
+                "xuất sắc"
+            ],
+            "túi giày": [
+                "tuyệt vời"
+            ],
+            "thắt lưng da": [
+                "tuyệt vời"
+            ],
+            "đôi": [],
+            "phiên bản": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "giày da lộn": 0.5,
+            "dịch vụ": 4.0,
+            "sản phẩm": 2.0,
+            "cửa hàng": 4.0,
+            "da bò vì": 0.5,
+            "độ mềm": 0.5,
+            "nhân viên": 1.0,
+            "nhà sản xuất": 0.5,
+            "chất lượng": 1.0,
+            "trải nghiệm": 0.5,
+            "mặt hàng": 0.5,
+            "kinh tế địa": 0.5,
+            "giày": 1.0,
+            "shop": 0.5,
+            "giá cả": 0.5,
+            "chất liệu": 0.5,
+            "giá": 0.5,
+            "túi giày": 0.5,
+            "thắt lưng da": 0.5,
+            "đôi": 0.5,
+            "phiên bản": 0.5
+        }
     },
     {
         "attraction_name": "09 Shoe Shop",
@@ -338,7 +629,169 @@
             "https://www.tripadvisor.com/Attraction_Review-g33388-d251918-Reviews-16th_Street_Mall-Denver_Colorado.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or30-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or20-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or20-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.9493979723338271,
+            "túi da": 0.5,
+            "túi xách": 0.4109101272188127,
+            "lịch trình": 0.8935232344083488,
+            "ba lô": 0.9931652990635484,
+            "hùng người": 0.4466284941881895,
+            "sản phẩm": 0.09631313849240541,
+            "cửa hàng": 0.752020453196019,
+            "chất lượng": -0.5713756429031491,
+            "giày": 0.038458684633951634,
+            "resort": 0.9952497290214524,
+            "phòng": 0.5,
+            "khách sạn": -0.03118509492681672,
+            "nhân viên": 0.9345845674106386,
+            "giày công sở": 0.9951619181665592,
+            "thiết": 0.5499150641262531,
+            "giày làm sẵn": 0.6509620575234294,
+            "giá cả": 0.9326210329309106,
+            "dịch vụ may đo": 0.476816488429904,
+            "giày cao gót": 0.5,
+            "chỗ": 0.9702097206609324,
+            "tiệm may tường": 0.8737691454589367,
+            "cửa hàng đồ da": 0.5,
+            "giả da": 0.5,
+            "giày bốt": 0.5041175931692123,
+            "đôi bốt nữ": 0.5597974415868521,
+            "ví da": 0.552532515488565,
+            "phạm vi": 0.8737691454589367,
+            "phong cách": 0.9953633120749146,
+            "thắt lưng da": 0.9942439027363434,
+            "mặt hàng da": 0.9955160481040366
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "đặc biệt"
+            ],
+            "túi da": [],
+            "túi xách": [
+                "cao"
+            ],
+            "lịch trình": [
+                "chặt chẽ"
+            ],
+            "ba lô": [
+                "hài lòng"
+            ],
+            "hùng người": [
+                "kiên nhẫn"
+            ],
+            "sản phẩm": [
+                "suốt",
+                "tốt"
+            ],
+            "cửa hàng": [
+                "hữu ích",
+                "cao",
+                "hơn",
+                "cuối cùng",
+                "muộn",
+                "xuất sắc",
+                "rộng rãi",
+                "nhiều"
+            ],
+            "chất lượng": [
+                "cao"
+            ],
+            "giày": [
+                "đúng",
+                "chính xác",
+                "nhiều",
+                "nhiều"
+            ],
+            "resort": [
+                "cao",
+                "hơn"
+            ],
+            "phòng": [],
+            "khách sạn": [
+                "cao"
+            ],
+            "nhân viên": [
+                "cao",
+                "đặc biệt"
+            ],
+            "giày công sở": [
+                "đẹp"
+            ],
+            "thiết": [
+                "kiên nhẫn"
+            ],
+            "giày làm sẵn": [],
+            "giá cả": [
+                "phải chăng"
+            ],
+            "dịch vụ may đo": [
+                "muộn"
+            ],
+            "giày cao gót": [],
+            "chỗ": [
+                "nhiều",
+                "hơn"
+            ],
+            "tiệm may tường": [
+                "xuất sắc"
+            ],
+            "cửa hàng đồ da": [],
+            "giả da": [],
+            "giày bốt": [],
+            "đôi bốt nữ": [],
+            "ví da": [],
+            "phạm vi": [
+                "tuyệt vời"
+            ],
+            "phong cách": [
+                "tuyệt vời"
+            ],
+            "thắt lưng da": [],
+            "mặt hàng da": [
+                "nhiều",
+                "khác",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 2.0,
+            "túi da": 0.5,
+            "túi xách": 2.0,
+            "lịch trình": 0.5,
+            "ba lô": 0.5,
+            "hùng người": 0.5,
+            "sản phẩm": 1.0,
+            "cửa hàng": 2.5,
+            "chất lượng": 0.5,
+            "giày": 1.0,
+            "resort": 0.5,
+            "phòng": 0.5,
+            "khách sạn": 1.5,
+            "nhân viên": 1.0,
+            "giày công sở": 0.5,
+            "thiết": 0.5,
+            "giày làm sẵn": 0.5,
+            "giá cả": 0.5,
+            "dịch vụ may đo": 0.5,
+            "giày cao gót": 0.5,
+            "chỗ": 0.5,
+            "tiệm may tường": 0.5,
+            "cửa hàng đồ da": 0.5,
+            "giả da": 0.5,
+            "giày bốt": 0.5,
+            "đôi bốt nữ": 0.5,
+            "ví da": 0.5,
+            "phạm vi": 0.5,
+            "phong cách": 0.5,
+            "thắt lưng da": 0.5,
+            "mặt hàng da": 0.5
+        }
     },
     {
         "attraction_name": "09 Shoe Shop",
@@ -447,7 +900,173 @@
             "https://www.tripadvisor.com/Attraction_Review-g187497-d13970378-Reviews-El_Beso_De_Joan_Fontcuberta-Barcelona_Catalonia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or40-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or30-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or30-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thợ may": 0.7476996030891314,
+            "giày": 0.34559110237751156,
+            "thái độ": 0.986339422641322,
+            "trải nghiệm giày": 0.9806892606429756,
+            "sản phẩm": 0.8696076758787967,
+            "bốt da": 0.9952001728815958,
+            "giá": 0.6765941575480005,
+            "đôi bốt": 0.3304073822606976,
+            "mức giá": 0.5600464455783367,
+            "chất lượng": 0.710285075721913,
+            "trải nghiệm": 0.9954379320843145,
+            "khách sạn": 0.5,
+            "buổi sáng": 0.5,
+            "độ": 0.5,
+            "vừa vặn": 0.5,
+            "da": 0.9648836311098421,
+            "máy tính": 0.9953447462758049,
+            "dịch vụ": 0.9955384155036882,
+            "bộ đồ": 0.9951681302627549,
+            "giày bệt": 0.3983516041189432,
+            "họ nhìn": 0.995369793032296,
+            "bộ": 0.5,
+            "thắt lưng": 0.5,
+            "giày da": 0.9945947763044387,
+            "đôi bốt da": 0.7692067576572299,
+            "cửa hàng": 0.6025863364338875,
+            "chuyến đi": 0.9955656368401833,
+            "giày lười": 0.22892074659466743,
+            "nhân viên": 0.9954431424266659,
+            "loại da": -0.935675507877022
+        },
+        "dicts_adj": {
+            "thợ may": [
+                "tuyệt"
+            ],
+            "giày": [
+                "đen",
+                "chật",
+                "cuối cùng",
+                "đặc biệt",
+                "hữu ích"
+            ],
+            "thái độ": [],
+            "trải nghiệm giày": [
+                "đầu tiên",
+                "thú vị"
+            ],
+            "sản phẩm": [
+                "khác",
+                "khác",
+                "cuối cùng",
+                "tuyệt vời"
+            ],
+            "bốt da": [
+                "đẹp"
+            ],
+            "giá": [
+                "khoảng",
+                "nhỏ",
+                "rẻ",
+                "nhất",
+                "chuyên nghiệp"
+            ],
+            "đôi bốt": [
+                "cao bồi",
+                "cùng"
+            ],
+            "mức giá": [
+                "thông thường"
+            ],
+            "chất lượng": [
+                "cao",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "khách sạn": [],
+            "buổi sáng": [],
+            "độ": [],
+            "vừa vặn": [],
+            "da": [
+                "nhiều",
+                "hữu ích",
+                "khó chịu",
+                "mềm mại",
+                "tuyệt vời"
+            ],
+            "máy tính": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "bộ đồ": [
+                "cùng"
+            ],
+            "giày bệt": [
+                "đen"
+            ],
+            "họ nhìn": [
+                "tuyệt vời"
+            ],
+            "bộ": [],
+            "thắt lưng": [],
+            "giày da": [
+                "hài lòng",
+                "riêng"
+            ],
+            "đôi bốt da": [
+                "dài",
+                "khó tính"
+            ],
+            "cửa hàng": [
+                "nổi bật",
+                "nổi bật"
+            ],
+            "chuyến đi": [
+                "vui vẻ"
+            ],
+            "giày lười": [
+                "chắc chắn"
+            ],
+            "nhân viên": [
+                "hữu ích"
+            ],
+            "loại da": [
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thợ may": 1.0,
+            "giày": 1.0,
+            "thái độ": 0.5,
+            "trải nghiệm giày": 0.5,
+            "sản phẩm": 1.0,
+            "bốt da": 0.5,
+            "giá": 1.5,
+            "đôi bốt": 1.5,
+            "mức giá": 0.5,
+            "chất lượng": 2.0,
+            "trải nghiệm": 0.5,
+            "khách sạn": 0.5,
+            "buổi sáng": 0.5,
+            "độ": 0.5,
+            "vừa vặn": 0.5,
+            "da": 1.0,
+            "máy tính": 0.5,
+            "dịch vụ": 1.0,
+            "bộ đồ": 0.5,
+            "giày bệt": 0.5,
+            "họ nhìn": 0.5,
+            "bộ": 0.5,
+            "thắt lưng": 1.0,
+            "giày da": 0.5,
+            "đôi bốt da": 0.5,
+            "cửa hàng": 0.5,
+            "chuyến đi": 0.5,
+            "giày lười": 0.5,
+            "nhân viên": 0.5,
+            "loại da": 0.5
+        }
     },
     {
         "attraction_name": "09 Shoe Shop",
@@ -556,7 +1175,144 @@
             "https://www.tripadvisor.com/Attraction_Review-g57235-d105715-Reviews-Lake_Willoughby-East_Burke_Northeast_Kingdom_Vermont.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or50-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or40-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or40-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đôi dép": 0.46800983224238735,
+            "đôi": 0.665165795275243,
+            "giá": 0.6714445867368745,
+            "nhân viên": 0.9953042314737104,
+            "túi qua đêm": 0.8681198265403509,
+            "giày": 0.8288460879120976,
+            "dép da": 0.5,
+            "dịch vụ": 0.7476166101987474,
+            "người bán hàng": 0.9921638466184959,
+            "giày da": 0.5,
+            "túi ngủ qua đêm": 0.5,
+            "da mềm": 0.5,
+            "hành lý": 0.9954313201014884,
+            "cửa hàng đồ da": -0.9682129324646667,
+            "cửa hàng": 0.5188826974481344,
+            "túi": 0.8513129596831277,
+            "túi đựng máy tính xách": 0.9818309964612126,
+            "da giả": 0.5144640207290649,
+            "túi xách": 0.9940559689421207,
+            "khách sạn": 0.15121833351440728,
+            "găng tay": 0.5,
+            "giày thuyền": 0.5,
+            "sản phẩm da": -0.8432149365544319,
+            "thắt lưng": 0.9794721924990881,
+            "thợ may": 0.9923226441023871,
+            "vẻ ngoài": 0.9950708860415034
+        },
+        "dicts_adj": {
+            "đôi dép": [
+                "khó khăn",
+                "đẹp"
+            ],
+            "đôi": [
+                "khó khăn",
+                "đẹp",
+                "nhiệt tình",
+                "hợp lý"
+            ],
+            "giá": [
+                "chắc chắn",
+                "hợp lý",
+                "nhiều",
+                "tốt",
+                "hơn"
+            ],
+            "nhân viên": [],
+            "túi qua đêm": [],
+            "giày": [
+                "đẹp",
+                "nhiệt tình"
+            ],
+            "dép da": [],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "khó khăn"
+            ],
+            "người bán hàng": [
+                "giỏi"
+            ],
+            "giày da": [],
+            "túi ngủ qua đêm": [],
+            "da mềm": [],
+            "hành lý": [
+                "đầu tiên"
+            ],
+            "cửa hàng đồ da": [
+                "khác"
+            ],
+            "cửa hàng": [
+                "chắc chắn"
+            ],
+            "túi": [
+                "lớn",
+                "hơn",
+                "tương tự"
+            ],
+            "túi đựng máy tính xách": [
+                "sẵn sàng",
+                "đúng",
+                "cuối cùng"
+            ],
+            "da giả": [
+                "phải"
+            ],
+            "túi xách": [
+                "đẹp"
+            ],
+            "khách sạn": [],
+            "găng tay": [],
+            "giày thuyền": [],
+            "sản phẩm da": [
+                "Chắc chắn"
+            ],
+            "thắt lưng": [
+                "nhiệt tình",
+                "hợp lý"
+            ],
+            "thợ may": [
+                "hài lòng"
+            ],
+            "vẻ ngoài": [
+                "vừa vặn",
+                "hài lòng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đôi dép": 1.0,
+            "đôi": 2.0,
+            "giá": 1.5,
+            "nhân viên": 0.5,
+            "túi qua đêm": 0.5,
+            "giày": 1.5,
+            "dép da": 0.5,
+            "dịch vụ": 2.0,
+            "người bán hàng": 0.5,
+            "giày da": 0.5,
+            "túi ngủ qua đêm": 0.5,
+            "da mềm": 0.5,
+            "hành lý": 0.5,
+            "cửa hàng đồ da": 0.5,
+            "cửa hàng": 1.0,
+            "túi": 1.0,
+            "túi đựng máy tính xách": 0.5,
+            "da giả": 0.5,
+            "túi xách": 0.5,
+            "khách sạn": 1.0,
+            "găng tay": 0.5,
+            "giày thuyền": 0.5,
+            "sản phẩm da": 0.5,
+            "thắt lưng": 1.0,
+            "thợ may": 0.5,
+            "vẻ ngoài": 0.5
+        }
     },
     {
         "attraction_name": "09 Shoe Shop",
@@ -673,7 +1429,224 @@
             "https://www.tripadvisor.com/Attraction_Review-g60750-d104122-Reviews-San_Diego_Zoo-San_Diego_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or60-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or50-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or50-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa hàng": 0.6497292721178383,
+            "dịch vụ": 0.9951739548705518,
+            "túi da": 0.9553942061029375,
+            "túi du lịch": 0.9904330652207136,
+            "túi ví da": 0.5,
+            "thợ may": 0.9867505799047649,
+            "món đồ": 0.01654853214859031,
+            "túi đeo vai": 0.9955981251550838,
+            "đôi": 0.8686486297180332,
+            "giày": 0.8422552784322761,
+            "dự án": 0.3289988711476326,
+            "bức": 0.5,
+            "tranh": 0.5,
+            "da": 0.9827321362681687,
+            "bà hong": 0.8737691454589367,
+            "thợ làm": 0.9950698225293308,
+            "thắt lưng": 0.7372299542184919,
+            "sản phẩm": 0.7724992635776289,
+            "giá": 0.0036656265147030354,
+            "chất lượng thủ": 0.9918560476507992,
+            "giày da": 0.5,
+            "tường": 0.5,
+            "lưu trú": 0.9952747516799718,
+            "khách sạn": 0.9944443597923964,
+            "dép kiểu": 0.9751082577276975,
+            "đôi dép": 0.14190924051217735,
+            "giống nhau": 0.7342901295050979,
+            "chỗ": 0.35236463230103254,
+            "nhân viên": 0.9919129787012935,
+            "chất lượng": 0.043546940316446126,
+            "thợ may tường": 0.8737691454589367,
+            "áo khoác": 0.5,
+            "thợ may trưởng": 0.9816253876779228,
+            "mặt hàng da": 0.9913422354729846,
+            "giá cả": 0.593285147100687,
+            "sản phẩm chất lượng": 0.5,
+            "chuyến đi": 0.8970490875653923,
+            "trải nghiệm": 0.8737691454589367,
+            "áo khoác da": 0.8869715575128794
+        },
+        "dicts_adj": {
+            "cửa hàng": [
+                "dễ thương",
+                "đẹp",
+                "hỏng",
+                "dễ thương",
+                "đẹp",
+                "hỏng",
+                "kỹ lưỡng",
+                "nhiều",
+                "thực sự"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "túi da": [],
+            "túi du lịch": [
+                "da nam",
+                "đẹp"
+            ],
+            "túi ví da": [],
+            "thợ may": [
+                "tốt"
+            ],
+            "món đồ": [
+                "suốt"
+            ],
+            "túi đeo vai": [
+                "đẹp"
+            ],
+            "đôi": [
+                "đẹp",
+                "đầy",
+                "tuyệt",
+                "tuyệt",
+                "vừa vặn"
+            ],
+            "giày": [
+                "đẹp",
+                "đầy",
+                "tuyệt",
+                "tuyệt",
+                "khó",
+                "cần thiết",
+                "hoàn hảo"
+            ],
+            "dự án": [],
+            "bức": [],
+            "tranh": [],
+            "da": [
+                "cụ thể",
+                "sẵn",
+                "đẹp",
+                "hơn"
+            ],
+            "bà hong": [
+                "tuyệt vời"
+            ],
+            "thợ làm": [
+                "tuyệt vời"
+            ],
+            "thắt lưng": [
+                "đầy",
+                "tuyệt",
+                "tuyệt"
+            ],
+            "sản phẩm": [
+                "tốt",
+                "cuối cùng"
+            ],
+            "giá": [
+                "tốt"
+            ],
+            "chất lượng thủ": [
+                "nhanh chóng"
+            ],
+            "giày da": [],
+            "tường": [],
+            "lưu trú": [
+                "nhiệt tình"
+            ],
+            "khách sạn": [
+                "nhiệt tình"
+            ],
+            "dép kiểu": [
+                "sandal",
+                "vui mừng"
+            ],
+            "đôi dép": [
+                "kiểu dáng",
+                "rách",
+                "nhỏ",
+                "nhiều"
+            ],
+            "giống nhau": [
+                "kiểu dáng"
+            ],
+            "chỗ": [
+                "nhỏ",
+                "nhiều"
+            ],
+            "nhân viên": [],
+            "chất lượng": [
+                "tuyệt vời",
+                "hài lòng",
+                "suốt"
+            ],
+            "thợ may tường": [
+                "hài lòng"
+            ],
+            "áo khoác": [],
+            "thợ may trưởng": [
+                "hài lòng"
+            ],
+            "mặt hàng da": [
+                "rực rỡ"
+            ],
+            "giá cả": [
+                "chắc chắn"
+            ],
+            "sản phẩm chất lượng": [],
+            "chuyến đi": [
+                "khác"
+            ],
+            "trải nghiệm": [
+                "tích cực"
+            ],
+            "áo khoác da": [
+                "tích cực"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa hàng": 2.0,
+            "dịch vụ": 1.5,
+            "túi da": 0.5,
+            "túi du lịch": 1.0,
+            "túi ví da": 0.5,
+            "thợ may": 0.5,
+            "món đồ": 1.0,
+            "túi đeo vai": 0.5,
+            "đôi": 2.0,
+            "giày": 2.5,
+            "dự án": 0.5,
+            "bức": 0.5,
+            "tranh": 0.5,
+            "da": 0.5,
+            "bà hong": 0.5,
+            "thợ làm": 0.5,
+            "thắt lưng": 1.0,
+            "sản phẩm": 1.0,
+            "giá": 1.0,
+            "chất lượng thủ": 0.5,
+            "giày da": 0.5,
+            "tường": 0.5,
+            "lưu trú": 0.5,
+            "khách sạn": 0.5,
+            "dép kiểu": 0.5,
+            "đôi dép": 0.5,
+            "giống nhau": 0.5,
+            "chỗ": 0.5,
+            "nhân viên": 0.5,
+            "chất lượng": 1.0,
+            "thợ may tường": 0.5,
+            "áo khoác": 0.5,
+            "thợ may trưởng": 0.5,
+            "mặt hàng da": 0.5,
+            "giá cả": 0.5,
+            "sản phẩm chất lượng": 0.5,
+            "chuyến đi": 0.5,
+            "trải nghiệm": 0.5,
+            "áo khoác da": 0.5
+        }
     },
     {
         "attraction_name": "09 Shoe Shop",
@@ -790,7 +1763,211 @@
             "https://www.tripadvisor.com/Attraction_Review-g33188-d1091844-Reviews-College_Cove-Trinidad_Humboldt_County_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or70-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or60-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or60-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9952929429709911,
+            "cửa hàng": 0.5934422863647342,
+            "giày": 0.6998625080838489,
+            "đôi": 0.6615917498323446,
+            "túi từ": 0.5,
+            "đôi sản xuất": 0.8384980037808418,
+            "giày cao": 0.5687597393989563,
+            "họ": 0.9955324210459366,
+            "thợ may địa phương": 0.5,
+            "giày dép": 0.6868845727294683,
+            "quần áo thắt lưng": 0.9620341362897307,
+            "dịch vụ": 0.7453476872178726,
+            "nhân viên": 0.5,
+            "sản phẩm": 0.5,
+            "giao hàng": 0.9776232282165438,
+            "giày da nam": 0.9348294408991933,
+            "giày da": 0.5497325616888702,
+            "phồng": 0.6141849076375365,
+            "giá cả": 0.9954892750829458,
+            "áo khoác da": 0.6648379268590361,
+            "phố cổ": 0.516829639673233,
+            "áo khoác bằng da": 0.5,
+            "áo khoác": 0.595682285958901,
+            "món đồ": 0.9940108832961414,
+            "quần áo": 0.5,
+            "kích da": 0.9953863194677979,
+            "giá": 0.969992996348689,
+            "viên": 0.9845562134869397,
+            "giày ủng": 0.9843438482300068,
+            "thắt lưng": 0.9584970727640514,
+            "chất lượng": 0.5,
+            "nhà sản xuất": 0.9934726818464696,
+            "sản phẩm đồ da": 0.9860609967727214,
+            "túi xách": 0.5,
+            "hướng dẫn viên": 0.9873184070456773,
+            "tác phẩm": 0.8737691454589367,
+            "tay nghề": 0.9953638893784955,
+            "cho hàng da": 0.5
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "cửa hàng": [
+                "đa dạng"
+            ],
+            "giày": [
+                "hoàn hảo",
+                "đầu tiên",
+                "Đúng"
+            ],
+            "đôi": [
+                "thông thường",
+                "đầu tiên",
+                "xinh xắn",
+                "thực sự",
+                "hài lòng",
+                "Đúng"
+            ],
+            "túi từ": [],
+            "đôi sản xuất": [
+                "nhiều"
+            ],
+            "giày cao": [
+                "đắt"
+            ],
+            "họ": [
+                "tuyệt vời"
+            ],
+            "thợ may địa phương": [],
+            "giày dép": [
+                "sẵn"
+            ],
+            "quần áo thắt lưng": [
+                "sẵn"
+            ],
+            "dịch vụ": [],
+            "nhân viên": [],
+            "sản phẩm": [],
+            "giao hàng": [],
+            "giày da nam": [
+                "thông thường"
+            ],
+            "giày da": [
+                "thông thường"
+            ],
+            "phồng": [
+                "thực sự",
+                "thoải mái"
+            ],
+            "giá cả": [
+                "tuyệt vời"
+            ],
+            "áo khoác da": [
+                "đầu tiên"
+            ],
+            "phố cổ": [
+                "phải",
+                "rẻ"
+            ],
+            "áo khoác bằng da": [],
+            "áo khoác": [
+                "ấn tượng",
+                "Đúng",
+                "rẻ",
+                "khoảng"
+            ],
+            "món đồ": [
+                "yêu thích",
+                "nhất"
+            ],
+            "quần áo": [],
+            "kích da": [
+                "tuyệt vời"
+            ],
+            "giá": [
+                "tốt",
+                "tuyệt vời",
+                "hợp lý"
+            ],
+            "viên": [
+                "hữu ích",
+                "hống"
+            ],
+            "giày ủng": [
+                "xinh xắn",
+                "thực sự",
+                "hài lòng"
+            ],
+            "thắt lưng": [
+                "xinh xắn",
+                "thực sự",
+                "hài lòng",
+                "Đúng"
+            ],
+            "chất lượng": [],
+            "nhà sản xuất": [
+                "khuyến khích",
+                "nhiều",
+                "khác"
+            ],
+            "sản phẩm đồ da": [
+                "đa dạng"
+            ],
+            "túi xách": [],
+            "hướng dẫn viên": [
+                "dũng cảm",
+                "phải",
+                "rẻ",
+                "nhất",
+                "nhất"
+            ],
+            "tác phẩm": [
+                "vững"
+            ],
+            "tay nghề": [
+                "tuyệt vời",
+                "nhanh"
+            ],
+            "cho hàng da": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 0.5,
+            "cửa hàng": 2.0,
+            "giày": 1.5,
+            "đôi": 2.0,
+            "túi từ": 0.5,
+            "đôi sản xuất": 0.5,
+            "giày cao": 0.5,
+            "họ": 0.5,
+            "thợ may địa phương": 0.5,
+            "giày dép": 1.0,
+            "quần áo thắt lưng": 0.5,
+            "dịch vụ": 1.0,
+            "nhân viên": 0.5,
+            "sản phẩm": 0.5,
+            "giao hàng": 0.5,
+            "giày da nam": 0.5,
+            "giày da": 1.0,
+            "phồng": 0.5,
+            "giá cả": 0.5,
+            "áo khoác da": 1.5,
+            "phố cổ": 0.5,
+            "áo khoác bằng da": 0.5,
+            "áo khoác": 1.0,
+            "món đồ": 0.5,
+            "quần áo": 1.0,
+            "kích da": 0.5,
+            "giá": 1.5,
+            "viên": 0.5,
+            "giày ủng": 0.5,
+            "thắt lưng": 1.0,
+            "chất lượng": 0.5,
+            "nhà sản xuất": 0.5,
+            "sản phẩm đồ da": 0.5,
+            "túi xách": 0.5,
+            "hướng dẫn viên": 0.5,
+            "tác phẩm": 0.5,
+            "tay nghề": 0.5,
+            "cho hàng da": 0.5
+        }
     },
     {
         "attraction_name": "09 Shoe Shop",
@@ -899,7 +2076,198 @@
             "https://www.tripadvisor.com/Attraction_Review-g45963-d8564844-Reviews-Blu_Pool_At_Horseshoe_Las_Vegas-Las_Vegas_Nevada.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or80-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or70-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or70-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thợ may": 0.9879970159381628,
+            "áo khoác da": 0.9723360653733835,
+            "áo khoác": 0.6093905109592015,
+            "áo khoác cân đối": 0.995376553706592,
+            "vật liệu": 0.9814411487895995,
+            "da": 0.9955155029892921,
+            "vừa vặn": 0.5,
+            "bao bì": 0.5,
+            "túi da ví": 0.5,
+            "thắt lưng": 0.5,
+            "cửa hàng": 0.6154192760586739,
+            "khách sạn": 0.5,
+            "sản phẩm chất lượng": 0.9945356236421503,
+            "dịch vụ": 0.9346336141170468,
+            "cặp ví": 0.9951876484556124,
+            "giày": 0.7476936291786842,
+            "túi xách": 0.9954256417695433,
+            "cả": 0.9908488391665742,
+            "nhân viên": 0.9944914979375122,
+            "đôi bốt": 0.9216609060272781,
+            "giá": 0.9954423737945035,
+            "sản phẩm": 0.8937078532471787,
+            "giá cả": 0.9950123507296667,
+            "bộ phận": 0.4425317049026489,
+            "hải quan": 0.9910519910044968,
+            "đôi": 0.995420289109461,
+            "đồ da": 0.8623897160287015,
+            "giày cao": 0.4238958843052387,
+            "chuyến đi": 0.5,
+            "khoảng thời gian": 0.9885005045798607,
+            "quán": 0.5662121074274182,
+            "túi": 0.5,
+            "tiệm": 0.9797236751765013,
+            "giao dịch mua hàng": 0.5,
+            "giày bốt": 0.5,
+            "thợ": 0.5
+        },
+        "dicts_adj": {
+            "thợ may": [],
+            "áo khoác da": [
+                "thực sự",
+                "đẹp",
+                "thận trọng"
+            ],
+            "áo khoác": [
+                "thực sự",
+                "đẹp",
+                "lớn",
+                "riêng"
+            ],
+            "áo khoác cân đối": [
+                "đẹp",
+                "nhất"
+            ],
+            "vật liệu": [
+                "nhanh"
+            ],
+            "da": [
+                "vừa vặn",
+                "tốt"
+            ],
+            "vừa vặn": [],
+            "bao bì": [],
+            "túi da ví": [],
+            "thắt lưng": [],
+            "cửa hàng": [],
+            "khách sạn": [],
+            "sản phẩm chất lượng": [
+                "đẹp",
+                "hơn"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "cặp ví": [
+                "đặc biệt",
+                "chuyên nghiệp"
+            ],
+            "giày": [
+                "tuyệt vời"
+            ],
+            "túi xách": [
+                "tuyệt vời"
+            ],
+            "cả": [
+                "hơn"
+            ],
+            "nhân viên": [
+                "tuyệt vời",
+                "tài năng",
+                "thực sự",
+                "hữu ích",
+                "lịch sự",
+                "hài lòng",
+                "hữu ích",
+                "lịch sự",
+                "hài lòng"
+            ],
+            "đôi bốt": [
+                "phong cách",
+                "đẹp",
+                "ấn tượng",
+                "đẹp",
+                "vui",
+                "Cuối cùng"
+            ],
+            "giá": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "sản phẩm": [
+                "tuyệt vời",
+                "thú vị",
+                "vui vẻ",
+                "đẹp",
+                "đúng",
+                "riêng"
+            ],
+            "giá cả": [
+                "ồn ào",
+                "dễ dàng",
+                "hợp lý",
+                "tuyệt vời"
+            ],
+            "bộ phận": [
+                "nhỏ"
+            ],
+            "hải quan": [
+                "hữu ích"
+            ],
+            "đôi": [
+                "tuyệt vời"
+            ],
+            "đồ da": [
+                "tuyệt vời"
+            ],
+            "giày cao": [],
+            "chuyến đi": [],
+            "khoảng thời gian": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "quán": [],
+            "túi": [],
+            "tiệm": [],
+            "giao dịch mua hàng": [],
+            "giày bốt": [],
+            "thợ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thợ may": 0.5,
+            "áo khoác da": 1.0,
+            "áo khoác": 1.0,
+            "áo khoác cân đối": 0.5,
+            "vật liệu": 0.5,
+            "da": 0.5,
+            "vừa vặn": 0.5,
+            "bao bì": 0.5,
+            "túi da ví": 0.5,
+            "thắt lưng": 0.5,
+            "cửa hàng": 2.0,
+            "khách sạn": 0.5,
+            "sản phẩm chất lượng": 0.5,
+            "dịch vụ": 1.0,
+            "cặp ví": 0.5,
+            "giày": 1.0,
+            "túi xách": 0.5,
+            "cả": 0.5,
+            "nhân viên": 1.0,
+            "đôi bốt": 1.5,
+            "giá": 0.5,
+            "sản phẩm": 1.0,
+            "giá cả": 0.5,
+            "bộ phận": 0.5,
+            "hải quan": 0.5,
+            "đôi": 0.5,
+            "đồ da": 1.0,
+            "giày cao": 0.5,
+            "chuyến đi": 0.5,
+            "khoảng thời gian": 0.5,
+            "quán": 0.5,
+            "túi": 0.5,
+            "tiệm": 0.5,
+            "giao dịch mua hàng": 0.5,
+            "giày bốt": 0.5,
+            "thợ": 0.5
+        }
     },
     {
         "attraction_name": "09 Shoe Shop",
@@ -1008,7 +2376,210 @@
             "https://www.tripadvisor.com/Attraction_Review-g293983-d1059048-Reviews-City_of_David_National_Park-Jerusalem_Jerusalem_District.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or90-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or80-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or80-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "sản phẩm da": 0.9950887717423029,
+            "lắng nghe": 0.9955018617911264,
+            "sản phẩm": 0.9952665844466537,
+            "đôi ủng": 0.5,
+            "bộ đồ mới": 0.5,
+            "dịch vụ": 0.9955296455300413,
+            "cửa hàng": 0.7847931377311599,
+            "túi da": -0.9396044202148914,
+            "nhân viên bán hàng": 0.9844437020365149,
+            "áo khoác da": 0.829494970520803,
+            "cửa hàng bán đồ da": 0.989220617339015,
+            "sản phẩm bền": 0.9952880085911602,
+            "chất liệu": 0.7422041732352227,
+            "bệnh nhân": 0.142340749502182,
+            "kiên nhẫn": 0.9953725065570325,
+            "đôi bốt dài": -0.14285703748464584,
+            "giày đen": 0.5,
+            "chất lượng": 0.8194050995322565,
+            "bãi biển": 0.9880142342299223,
+            "nhân viên": 0.9955398614401929,
+            "giày đã": 0.5,
+            "giày": 0.07342427029895286,
+            "nhân viên phương": 0.9885621417779475,
+            "leather": 0.5345637388527393,
+            "be": 0.5,
+            "an": 0.5,
+            "hàng": 0.994619304779917,
+            "bức tường": 0.8938112426549196,
+            "đồ": 0.5,
+            "áo khoác": 0.9934894413454458,
+            "túi xách ba lô": 0.5,
+            "hàng hóa": 0.9622279433533549,
+            "da": 0.9935777170176152,
+            "thợ may may": 0.9554696609266102,
+            "giá": 0.5,
+            "áo lộng": 0.9635047246702015,
+            "phong cách": 0.9952328695217147
+        },
+        "dicts_adj": {
+            "sản phẩm da": [
+                "tốt"
+            ],
+            "lắng nghe": [
+                "giỏi",
+                "sẵn sàng",
+                "riêng"
+            ],
+            "sản phẩm": [
+                "hài lòng",
+                "nhiều",
+                "giỏi"
+            ],
+            "đôi ủng": [],
+            "bộ đồ mới": [],
+            "dịch vụ": [
+                "tốt",
+                "tuyệt vời",
+                "nóng lòng",
+                "tuyệt vời"
+            ],
+            "cửa hàng": [
+                "nhỏ",
+                "nhiều",
+                "hơn",
+                "sạch sẽ",
+                "tốt",
+                "gọn gàng",
+                "đầy",
+                "đẹp"
+            ],
+            "túi da": [
+                "riêng",
+                "rõ ràng"
+            ],
+            "nhân viên bán hàng": [
+                "cụ thể",
+                "đúng"
+            ],
+            "áo khoác da": [
+                "riêng",
+                "hoàn hảo",
+                "đen"
+            ],
+            "cửa hàng bán đồ da": [
+                "tốt"
+            ],
+            "sản phẩm bền": [
+                "tốt"
+            ],
+            "chất liệu": [
+                "tốt"
+            ],
+            "bệnh nhân": [],
+            "kiên nhẫn": [
+                "đầy"
+            ],
+            "đôi bốt dài": [
+                "nâu",
+                "mới"
+            ],
+            "giày đen": [],
+            "chất lượng": [
+                "đắt",
+                "hơn",
+                "khác",
+                "thực sự",
+                "cao",
+                "đẹp"
+            ],
+            "bãi biển": [],
+            "nhân viên": [
+                "tuyệt vời"
+            ],
+            "giày đã": [],
+            "giày": [
+                "hoàn toàn",
+                "nhiều",
+                "hơn"
+            ],
+            "nhân viên phương": [
+                "thực sự"
+            ],
+            "leather": [],
+            "be": [],
+            "an": [],
+            "hàng": [
+                "sạch sẽ",
+                "tốt",
+                "gọn gàng",
+                "đầy",
+                "hữu ích"
+            ],
+            "bức tường": [
+                "đủ"
+            ],
+            "đồ": [],
+            "áo khoác": [
+                "kiên nhẫn",
+                "xuất sắc"
+            ],
+            "túi xách ba lô": [],
+            "hàng hóa": [
+                "vui"
+            ],
+            "da": [
+                "độc đáo",
+                "xanh",
+                "ô liu",
+                "đẹp"
+            ],
+            "thợ may may": [
+                "hoàn hảo"
+            ],
+            "giá": [],
+            "áo lộng": [
+                "lộng lẫy"
+            ],
+            "phong cách": [
+                "đẹp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "sản phẩm da": 0.5,
+            "lắng nghe": 0.5,
+            "sản phẩm": 0.5,
+            "đôi ủng": 0.5,
+            "bộ đồ mới": 0.5,
+            "dịch vụ": 1.0,
+            "cửa hàng": 1.5,
+            "túi da": 0.5,
+            "nhân viên bán hàng": 0.5,
+            "áo khoác da": 1.0,
+            "cửa hàng bán đồ da": 0.5,
+            "sản phẩm bền": 0.5,
+            "chất liệu": 1.0,
+            "bệnh nhân": 0.5,
+            "kiên nhẫn": 0.5,
+            "đôi bốt dài": 0.5,
+            "giày đen": 0.5,
+            "chất lượng": 1.5,
+            "bãi biển": 0.5,
+            "nhân viên": 0.5,
+            "giày đã": 0.5,
+            "giày": 1.5,
+            "nhân viên phương": 0.5,
+            "leather": 0.5,
+            "be": 0.5,
+            "an": 0.5,
+            "hàng": 0.5,
+            "bức tường": 0.5,
+            "đồ": 0.5,
+            "áo khoác": 0.5,
+            "túi xách ba lô": 0.5,
+            "hàng hóa": 0.5,
+            "da": 0.5,
+            "thợ may may": 0.5,
+            "giá": 0.5,
+            "áo lộng": 0.5,
+            "phong cách": 0.5
+        }
     },
     {
         "attraction_name": "09 Shoe Shop",
@@ -1117,6 +2688,181 @@
             "https://www.tripadvisor.com/Attraction_Review-g55711-d2279533-Reviews-Texas_Museum_of_Automotive_History-Dallas_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or100-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or90-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d3588809-Reviews-or90-09_Shoe_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ đồ": 0.8737691454589367,
+            "giày": 0.7933037086841068,
+            "đội ngũ": 0.9948224178515375,
+            "lớp": 0.8737691454589367,
+            "đường khâu": 0.9948755265795626,
+            "da": 0.9955267012119293,
+            "chất liệu": 0.5673567466437817,
+            "rolls": 0.8737691454589367,
+            "đôi": 0.9904499392432626,
+            "ba lô": 0.8880629187915474,
+            "giày da": 0.9806040583644062,
+            "chất lượng": 0.8227264800031359,
+            "chọn da": 0.5,
+            "đôi bốt da dài": 0.5405320860445499,
+            "dịch vụ": 0.9945699563249946,
+            "da thuộc loại": 0.4755605161190033,
+            "cửa hàng giày": 0.9949253385420889,
+            "đôi sandal": 0.994551254902035,
+            "túi vải thô": 0.9890763808507472,
+            "thụy điển": 0.8737691454589367,
+            "giày sandal": 0.5,
+            "đôi bốt da": 0.9795913823181763,
+            "chủ sở hữu": 0.8603956289589405,
+            "đôi ủng vô dụng": 0.5,
+            "tiền bạc": -0.9337721250485629,
+            "trải nghiệm": 0.9614372616633773,
+            "doanh nhân": 0.7763116303831339,
+            "thời trang": 0.8453813372179866,
+            "khách sạn": 0.9667615024372935,
+            "áo khoác da": 0.5,
+            "nhân viên": 0.9938690760172904,
+            "quần áo": 0.5,
+            "giày dép": 0.5,
+            "khu nghỉ dưỡng": 0.5,
+            "áo khoác": 0.5,
+            "cửa hàng": 0.9885279897134751
+        },
+        "dicts_adj": {
+            "bộ đồ": [
+                "xứng đáng"
+            ],
+            "giày": [
+                "trang trọng",
+                "tuyệt vời",
+                "cuối cùng",
+                "tốt",
+                "đẹp",
+                "hài lòng",
+                "dễ dàng",
+                "thoải mái",
+                "hiện đại"
+            ],
+            "đội ngũ": [
+                "hữu ích"
+            ],
+            "lớp": [
+                "hoàn thiện",
+                "đẹp"
+            ],
+            "đường khâu": [
+                "hoàn hảo"
+            ],
+            "da": [
+                "thú vị"
+            ],
+            "chất liệu": [],
+            "rolls": [
+                "trang trọng"
+            ],
+            "đôi": [
+                "tuyệt vời",
+                "cuối cùng",
+                "hài lòng"
+            ],
+            "ba lô": [
+                "tuyệt vời",
+                "cuối cùng"
+            ],
+            "giày da": [],
+            "chất lượng": [
+                "tốt",
+                "đẹp",
+                "kịp"
+            ],
+            "chọn da": [],
+            "đôi bốt da dài": [
+                "Gần"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "da thuộc loại": [
+                "cao cấp"
+            ],
+            "cửa hàng giày": [
+                "Chắc chắn"
+            ],
+            "đôi sandal": [
+                "chuyên nghiệp"
+            ],
+            "túi vải thô": [
+                "xinh đẹp"
+            ],
+            "thụy điển": [
+                "xinh đẹp"
+            ],
+            "giày sandal": [],
+            "đôi bốt da": [],
+            "chủ sở hữu": [
+                "tự hào"
+            ],
+            "đôi ủng vô dụng": [],
+            "tiền bạc": [],
+            "trải nghiệm": [],
+            "doanh nhân": [
+                "hiệu quả"
+            ],
+            "thời trang": [
+                "hiện đại"
+            ],
+            "khách sạn": [],
+            "áo khoác da": [],
+            "nhân viên": [
+                "chu đáo"
+            ],
+            "quần áo": [],
+            "giày dép": [],
+            "khu nghỉ dưỡng": [],
+            "áo khoác": [],
+            "cửa hàng": [
+                "thực sự"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ đồ": 0.5,
+            "giày": 4.0,
+            "đội ngũ": 0.5,
+            "lớp": 0.5,
+            "đường khâu": 0.5,
+            "da": 0.5,
+            "chất liệu": 0.5,
+            "rolls": 0.5,
+            "đôi": 1.0,
+            "ba lô": 0.5,
+            "giày da": 0.5,
+            "chất lượng": 1.5,
+            "chọn da": 0.5,
+            "đôi bốt da dài": 0.5,
+            "dịch vụ": 1.0,
+            "da thuộc loại": 0.5,
+            "cửa hàng giày": 0.5,
+            "đôi sandal": 0.5,
+            "túi vải thô": 0.5,
+            "thụy điển": 0.5,
+            "giày sandal": 0.5,
+            "đôi bốt da": 0.5,
+            "chủ sở hữu": 0.5,
+            "đôi ủng vô dụng": 0.5,
+            "tiền bạc": 0.5,
+            "trải nghiệm": 0.5,
+            "doanh nhân": 0.5,
+            "thời trang": 0.5,
+            "khách sạn": 0.5,
+            "áo khoác da": 0.5,
+            "nhân viên": 0.5,
+            "quần áo": 0.5,
+            "giày dép": 0.5,
+            "khu nghỉ dưỡng": 0.5,
+            "áo khoác": 0.5,
+            "cửa hàng": 0.5
+        }
     }
 ]

@@ -81,7 +81,294 @@
             "https://www.tripadvisor.com/Attraction_Review-g35805-d103788-Reviews-Shedd_Aquarium-Chicago_Illinois.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or10-Halong_Dragon_Cruise-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-Halong_Dragon_Cruise-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-Halong_Dragon_Cruise-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "người quản lý thô lỗ": -0.9682003711350262,
+            "người quản lý": 0.41617051884531975,
+            "hành trình": 0.7584621100104414,
+            "phòng": 0.9948552676069085,
+            "thức ăn": 0.9299949363533717,
+            "lễ đính hôn": 0.3789614737033844,
+            "bánh sinh": 0.9415535060688853,
+            "cocktail": -0.11778842264902778,
+            "thuyền": 0.09459984791465104,
+            "chuyến du lịch": 0.9263548697344959,
+            "hướng dẫn viên": 0.9645549460765324,
+            "xe buýt": 0.9689121850533411,
+            "món ăn": -0.2970225941389799,
+            "không vị": -0.9760757042095065,
+            "cá hấp": 0.52148655988276,
+            "bữa ăn": 0.5,
+            "tiệc": 0.5,
+            "hoàng hôn": 0.5,
+            "cầu cảng": 0.5,
+            "bánh quy cắt": 0.5,
+            "trái cây": 0.5,
+            "đồ ăn": 0.7240695971995592,
+            "cabin": 0.9293658933602273,
+            "nhân viên": 0.7537894706183579,
+            "chuyến đi": 0.7475126505596563,
+            "tiền": 0.7469531728711445,
+            "con": 0.6547160567715764,
+            "chuyến tham quan": 0.994460906018503,
+            "vịnh": 0.2590080958325416,
+            "đồ uống": 0.984461130166892,
+            "chèo thuyền kayak": 0.7732930541969836,
+            "trải nghiệm": 0.9954323880374432,
+            "hang động ẩn giấu": 0.9947400726377964,
+            "tầm nhìn": 0.995513335452415,
+            "chuyến tàu": 0.5,
+            "đất": 0.5,
+            "dịch vụ": 0.9900494415778667,
+            "com người": -0.9708697705063969,
+            "com": 0.519396411255002,
+            "phi đạo": 0.5,
+            "kỳ nghỉ": 0.5,
+            "du ngoạn": 0.5,
+            "tàu": 0.5,
+            "bái tử": 0.8737691454589367,
+            "phòng tắm": 0.9944038821267895,
+            "giám đốc": 0.9942759865662083,
+            "giá": 0.9405446436721832,
+            "tour du lịch": 0.7841938850760926,
+            "bờ biển": 0.9761505413334817,
+            "xe buýt 6": 0.9948910108068958,
+            "khách sạn": 0.8696962213143706,
+            "bữa trưa": 0.9935058655682951,
+            "đảo": -0.9036247697658837,
+            "hang động": -0.9750335472635925,
+            "tour": 0.9949799332534894,
+            "nhân viên lễ tân": 0.9928137973183766
+        },
+        "dicts_adj": {
+            "người quản lý thô lỗ": [],
+            "người quản lý": [
+                "hổ thẹn"
+            ],
+            "hành trình": [
+                "tuyệt vời",
+                "cụ thể",
+                "sẵn"
+            ],
+            "phòng": [
+                "sạch sẽ",
+                "đẹp đẽ"
+            ],
+            "thức ăn": [
+                "tuyệt vời",
+                "phong phú",
+                "hợp lý",
+                "sẵn",
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "lễ đính hôn": [],
+            "bánh sinh": [],
+            "cocktail": [
+                "tuyệt vời",
+                "đắt",
+                "thực sự",
+                "khác"
+            ],
+            "thuyền": [
+                "đẹp",
+                "nhiều",
+                "thấp",
+                "hơn",
+                "thấp",
+                "hơn",
+                "đầy"
+            ],
+            "chuyến du lịch": [],
+            "hướng dẫn viên": [
+                "thân thiện",
+                "tuyệt vời",
+                "hữu ích",
+                "vui tính",
+                "hữu ích",
+                "tốt bụng",
+                "vui"
+            ],
+            "xe buýt": [
+                "đầy đủ"
+            ],
+            "món ăn": [
+                "thấp"
+            ],
+            "không vị": [
+                "ít"
+            ],
+            "cá hấp": [
+                "muộn"
+            ],
+            "bữa ăn": [],
+            "tiệc": [],
+            "hoàng hôn": [],
+            "cầu cảng": [],
+            "bánh quy cắt": [],
+            "trái cây": [],
+            "đồ ăn": [
+                "nhẹ",
+                "chắc chắn"
+            ],
+            "cabin": [
+                "đẹp",
+                "đẹp"
+            ],
+            "nhân viên": [
+                "tuyệt vời",
+                "đặc biệt"
+            ],
+            "chuyến đi": [],
+            "tiền": [
+                "xứng đáng"
+            ],
+            "con": [
+                "bận rộn"
+            ],
+            "chuyến tham quan": [
+                "thú vị",
+                "đặc biệt"
+            ],
+            "vịnh": [
+                "thực sự",
+                "Đơn giản",
+                "đơn giản",
+                "nhiều"
+            ],
+            "đồ uống": [
+                "đúng",
+                "dễ chịu",
+                "hợp lý"
+            ],
+            "chèo thuyền kayak": [
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "hang động ẩn giấu": [
+                "đẹp"
+            ],
+            "tầm nhìn": [
+                "đẹp"
+            ],
+            "chuyến tàu": [],
+            "đất": [],
+            "dịch vụ": [
+                "Chắc chắn"
+            ],
+            "com người": [
+                "lâu"
+            ],
+            "com": [
+                "nhiều"
+            ],
+            "phi đạo": [],
+            "kỳ nghỉ": [],
+            "du ngoạn": [],
+            "tàu": [],
+            "bái tử": [
+                "Đơn giản"
+            ],
+            "phòng tắm": [
+                "sang trọng"
+            ],
+            "giám đốc": [
+                "xuất sắc"
+            ],
+            "giá": [
+                "hợp lý"
+            ],
+            "tour du lịch": [
+                "tốt"
+            ],
+            "bờ biển": [
+                "tốt"
+            ],
+            "xe buýt 6": [
+                "sạch sẽ"
+            ],
+            "khách sạn": [
+                "sạch sẽ",
+                "đặc biệt"
+            ],
+            "bữa trưa": [],
+            "đảo": [
+                "thực sự",
+                "thú vị"
+            ],
+            "hang động": [
+                "thực sự",
+                "thú vị"
+            ],
+            "tour": [
+                "đặc biệt"
+            ],
+            "nhân viên lễ tân": [
+                "đặc biệt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "người quản lý thô lỗ": 1,
+            "người quản lý": 1,
+            "hành trình": 2.0,
+            "phòng": 1,
+            "thức ăn": 2.0,
+            "lễ đính hôn": 1,
+            "bánh sinh": 1,
+            "cocktail": 1,
+            "thuyền": 3.0,
+            "chuyến du lịch": 0.5,
+            "hướng dẫn viên": 2.0,
+            "xe buýt": 0.5,
+            "món ăn": 0.5,
+            "không vị": 0.5,
+            "cá hấp": 0.5,
+            "bữa ăn": 1.0,
+            "tiệc": 0.5,
+            "hoàng hôn": 0.5,
+            "cầu cảng": 0.5,
+            "bánh quy cắt": 0.5,
+            "trái cây": 0.5,
+            "đồ ăn": 1.0,
+            "cabin": 1.0,
+            "nhân viên": 0.5,
+            "chuyến đi": 1.0,
+            "tiền": 1.0,
+            "con": 0.5,
+            "chuyến tham quan": 1.0,
+            "vịnh": 1.5,
+            "đồ uống": 1.0,
+            "chèo thuyền kayak": 1.0,
+            "trải nghiệm": 0.5,
+            "hang động ẩn giấu": 0.5,
+            "tầm nhìn": 0.5,
+            "chuyến tàu": 0.5,
+            "đất": 0.5,
+            "dịch vụ": 0.5,
+            "com người": 0.5,
+            "com": 0.5,
+            "phi đạo": 0.5,
+            "kỳ nghỉ": 0.5,
+            "du ngoạn": 0.5,
+            "tàu": 0.5,
+            "bái tử": 0.5,
+            "phòng tắm": 0.5,
+            "giám đốc": 0.5,
+            "giá": 0.5,
+            "tour du lịch": 1.0,
+            "bờ biển": 0.5,
+            "xe buýt 6": 0.5,
+            "khách sạn": 1.0,
+            "bữa trưa": 0.5,
+            "đảo": 0.5,
+            "hang động": 0.5,
+            "tour": 0.5,
+            "nhân viên lễ tân": 0.5
+        }
     },
     {
         "attraction_name": "Halong Dragon Cruise",
@@ -162,7 +449,476 @@
             "https://www.tripadvisor.com/Attraction_Review-g293916-d447439-Reviews-Patpong_Night_Market-Bangkok.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or20-Halong_Dragon_Cruise-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or10-Halong_Dragon_Cruise-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or10-Halong_Dragon_Cruise-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên": 0.9124999714113073,
+            "chuyến tham quan": 0.8818223655689508,
+            "phòng": 0.5021801662126867,
+            "com": 0.3413688465952873,
+            "căn lều": 0.5995502714067698,
+            "đảo": 0.863943989117009,
+            "khách sạn": 0.954703908918115,
+            "tầm nhìn": 0.9954608453554101,
+            "lớp học": 0.9837900103302673,
+            "chả giò": 0.1412873908993788,
+            "đồ ăn": 0.8329408871941268,
+            "thuyền": 0.5256311339981039,
+            "karaoke": 0.1944352313876152,
+            "chuyến đi": 0.7821248578897212,
+            "trải nghiệm": 0.9953423519618809,
+            "booking": 0.5006745252758265,
+            "com điều": 0.993467390537262,
+            "ngân hàng": 0.5,
+            "chuyến du ngoạn": -0.035092646488919854,
+            "chuyến đi thuyền": 0.9873966533923522,
+            "cabin": -0.33910077580367215,
+            "vệ sinh": 0.4338893089443445,
+            "điều hòa": -0.9241740082507022,
+            "thức ăn": 0.01377576042432338,
+            "mực": 0.5,
+            "lớp học nấu ăn": 0.5,
+            "câu cá": -0.9453961420804262,
+            "nhân viên": -0.562577759847045,
+            "hang động": 0.789697251166217,
+            "ngọc trai đều ổn": 0.5,
+            "khung cảnh": 0.8737691454589367,
+            "vịnh": 0.799864561719005,
+            "chuyến du lịch": 0.5,
+            "biển": 0.7477354166621808,
+            "du thuyền rồng": 0.9094163551926613,
+            "dịch vụ": 0.5,
+            "chỗ ở": 0.5,
+            "hành trình": 0.7244773206766695,
+            "du ngoạn": 0.7465938124223612,
+            "bãi biển": 0.5145345693454146,
+            "chèo thuyền kayak": 0.5065554359171074,
+            "trang trại": 0.5,
+            "chuyến bay": -0.9756184134166688,
+            "tour": 0.6868845727294683,
+            "tàu du lịch": 0.7434508867251377,
+            "lưu trú": 0.5,
+            "tour đặt": 0.5874428553506732,
+            "du thuyền": 0.5,
+            "quần đảo": 0.8737691454589367,
+            "bữa ăn": 0.8892433762084693,
+            "tàu": -0.21239735768176615,
+            "đồ uống": -0.20971183653455228,
+            "phương tiện di chuyển": 0.5310745504684746,
+            "xe đạp": 0.2682652771472931,
+            "làng": 0.4710295610129833,
+            "động cơ": 0.5264174360781908,
+            "hướng dẫn người": 0.9949188529280946,
+            "phí vận chuyển": 0.5,
+            "ăn chay": 0.11048055440187454,
+            "khoai tây chiên": 0.5,
+            "phòng tắm": 0.22227727249264717,
+            "giá": -0.9737945392262191,
+            "người dân": -0.9737340131541714,
+            "nguồn nước": 0.9812945523299277,
+            "thời tiết": -0.7495410861447453,
+            "áo khoác": 0.5,
+            "sưởi": 0.5,
+            "nước nóng": 0.8737691454589367,
+            "phòng vệ sinh": -0.9757709731347859,
+            "giường": -0.10283105517737567,
+            "giường cỡ": 0.5121470205485821,
+            "vòi sen": 0.8737691454589367,
+            "hang động đảo": 0.5228357724845409,
+            "trang trại ngọc trai": 0.8737691454589367,
+            "nghỉ đêm": 0.5,
+            "giá đặt": 0.5,
+            "phòng du thuyền": 0.5,
+            "xe tay ga": 0.5740386117249727,
+            "lịch trình": 0.9797921755816787,
+            "độ ăn": 0.61535369977355,
+            "hải sản": -0.8826289852149785,
+            "thủy thủ đoàn": -0.6262902794405818,
+            "chuyến thăm đảo": 0.9955282077426091,
+            "đêm giao": 0.9305159542709589,
+            "âm nhạc": 0.9840713609009981,
+            "lễ": 0.5211265217512846
+        },
+        "dicts_adj": {
+            "hướng dẫn viên": [
+                "tuyệt",
+                "tốt",
+                "thân thiện",
+                "tốt",
+                "tuyệt",
+                "tốt",
+                "xuất sắc",
+                "tốt",
+                "thân thiện"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "thú vị",
+                "riêng",
+                "trung bình",
+                "tốt"
+            ],
+            "phòng": [
+                "cẩn thận",
+                "ồn ào",
+                "hoàn toàn",
+                "khác",
+                "hoành tráng",
+                "tốt",
+                "chính xác",
+                "hơn",
+                "tốt",
+                "cơ bản",
+                "đặc biệt"
+            ],
+            "com": [
+                "xa lạ"
+            ],
+            "căn lều": [
+                "xa lạ"
+            ],
+            "đảo": [
+                "xa lạ",
+                "ti-top",
+                "tuyệt"
+            ],
+            "khách sạn": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "tầm nhìn": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "lớp học": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "chả giò": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "đồ ăn": [
+                "tuyệt vời",
+                "nhiều",
+                "nhiều",
+                "hơn",
+                "ngon"
+            ],
+            "thuyền": [
+                "gần",
+                "khác",
+                "ngon",
+                "lạnh",
+                "lạnh",
+                "tốt",
+                "yên tĩnh"
+            ],
+            "karaoke": [
+                "vui"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "ti-top",
+                "đầu tiên",
+                "tốt",
+                "đặc biệt",
+                "đủ",
+                "tệ"
+            ],
+            "trải nghiệm": [
+                "Hơn",
+                "tuyệt vời"
+            ],
+            "booking": [],
+            "com điều": [
+                "tương tự"
+            ],
+            "ngân hàng": [],
+            "chuyến du ngoạn": [
+                "cẩn thận",
+                "lớn",
+                "khác"
+            ],
+            "chuyến đi thuyền": [
+                "nhanh",
+                "may mắn"
+            ],
+            "cabin": [
+                "cũ",
+                "nhỏ",
+                "cũ",
+                "nhỏ",
+                "riêng tư",
+                "khác"
+            ],
+            "vệ sinh": [],
+            "điều hòa": [],
+            "thức ăn": [
+                "tệ",
+                "ngon",
+                "đủ"
+            ],
+            "mực": [],
+            "lớp học nấu ăn": [],
+            "câu cá": [
+                "lạnh"
+            ],
+            "nhân viên": [
+                "khó",
+                "gần"
+            ],
+            "hang động": [
+                "ti-top",
+                "tuyệt"
+            ],
+            "ngọc trai đều ổn": [],
+            "khung cảnh": [
+                "đẹp",
+                "nhiều"
+            ],
+            "vịnh": [
+                "đẹp",
+                "nhiều",
+                "Dọc",
+                "nhiều",
+                "đầu tiên",
+                "tuyệt vời",
+                "tuyệt vời",
+                "đặc biệt"
+            ],
+            "chuyến du lịch": [],
+            "biển": [
+                "tuyệt vời"
+            ],
+            "du thuyền rồng": [],
+            "dịch vụ": [],
+            "chỗ ở": [],
+            "hành trình": [],
+            "du ngoạn": [
+                "hơn"
+            ],
+            "bãi biển": [
+                "riêng"
+            ],
+            "chèo thuyền kayak": [
+                "ngắn",
+                "tuyệt"
+            ],
+            "trang trại": [],
+            "chuyến bay": [
+                "khác"
+            ],
+            "tour": [
+                "tốt"
+            ],
+            "tàu du lịch": [
+                "trung",
+                "nhỏ",
+                "hơn",
+                "phải"
+            ],
+            "lưu trú": [],
+            "tour đặt": [
+                "trực tuyến"
+            ],
+            "du thuyền": [],
+            "quần đảo": [
+                "tuyệt vời"
+            ],
+            "bữa ăn": [
+                "cuối cùng",
+                "ổn"
+            ],
+            "tàu": [
+                "cuối cùng",
+                "cũ"
+            ],
+            "đồ uống": [
+                "đắt"
+            ],
+            "phương tiện di chuyển": [
+                "riêng",
+                "suốt"
+            ],
+            "xe đạp": [
+                "riêng"
+            ],
+            "làng": [
+                "riêng"
+            ],
+            "động cơ": [
+                "riêng"
+            ],
+            "hướng dẫn người": [
+                "trẻ",
+                "tuyệt vời",
+                "chu đáo"
+            ],
+            "phí vận chuyển": [],
+            "ăn chay": [
+                "nhiều",
+                "hơn"
+            ],
+            "khoai tây chiên": [],
+            "phòng tắm": [
+                "tối"
+            ],
+            "giá": [
+                "đắt"
+            ],
+            "người dân": [
+                "đặc biệt"
+            ],
+            "nguồn nước": [
+                "đặc biệt"
+            ],
+            "thời tiết": [
+                "lạnh",
+                "lạnh"
+            ],
+            "áo khoác": [],
+            "sưởi": [],
+            "nước nóng": [
+                "suốt"
+            ],
+            "phòng vệ sinh": [
+                "tệ"
+            ],
+            "giường": [
+                "cứng",
+                "ổn",
+                "thoải mái"
+            ],
+            "giường cỡ": [],
+            "vòi sen": [
+                "tốt"
+            ],
+            "hang động đảo": [
+                "riêng"
+            ],
+            "trang trại ngọc trai": [
+                "riêng"
+            ],
+            "nghỉ đêm": [],
+            "giá đặt": [],
+            "phòng du thuyền": [],
+            "xe tay ga": [],
+            "lịch trình": [
+                "ổn"
+            ],
+            "độ ăn": [
+                "nghiêm ngặt"
+            ],
+            "hải sản": [
+                "nghiêm ngặt"
+            ],
+            "thủy thủ đoàn": [
+                "ít"
+            ],
+            "chuyến thăm đảo": [
+                "tuyệt"
+            ],
+            "đêm giao": [
+                "yên tĩnh"
+            ],
+            "âm nhạc": [
+                "lớn"
+            ],
+            "lễ": [
+                "nhỏ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên": 4.0,
+            "chuyến tham quan": 2.0,
+            "phòng": 3.0,
+            "com": 1.0,
+            "căn lều": 0.5,
+            "đảo": 1.5,
+            "khách sạn": 1.5,
+            "tầm nhìn": 1.0,
+            "lớp học": 0.5,
+            "chả giò": 0.5,
+            "đồ ăn": 1.5,
+            "thuyền": 2.0,
+            "karaoke": 1.5,
+            "chuyến đi": 2.5,
+            "trải nghiệm": 0.5,
+            "booking": 0.5,
+            "com điều": 0.5,
+            "ngân hàng": 0.5,
+            "chuyến du ngoạn": 1.0,
+            "chuyến đi thuyền": 0.5,
+            "cabin": 1.0,
+            "vệ sinh": 0.5,
+            "điều hòa": 1.0,
+            "thức ăn": 1.0,
+            "mực": 0.5,
+            "lớp học nấu ăn": 1.0,
+            "câu cá": 0.5,
+            "nhân viên": 0.5,
+            "hang động": 1.5,
+            "ngọc trai đều ổn": 0.5,
+            "khung cảnh": 0.5,
+            "vịnh": 2.0,
+            "chuyến du lịch": 0.5,
+            "biển": 1.0,
+            "du thuyền rồng": 0.5,
+            "dịch vụ": 0.5,
+            "chỗ ở": 1.0,
+            "hành trình": 1.0,
+            "du ngoạn": 1.0,
+            "bãi biển": 1.0,
+            "chèo thuyền kayak": 2.0,
+            "trang trại": 0.5,
+            "chuyến bay": 0.5,
+            "tour": 1.0,
+            "tàu du lịch": 1.0,
+            "lưu trú": 0.5,
+            "tour đặt": 0.5,
+            "du thuyền": 0.5,
+            "quần đảo": 0.5,
+            "bữa ăn": 1.0,
+            "tàu": 1.0,
+            "đồ uống": 1.0,
+            "phương tiện di chuyển": 0.5,
+            "xe đạp": 0.5,
+            "làng": 0.5,
+            "động cơ": 0.5,
+            "hướng dẫn người": 0.5,
+            "phí vận chuyển": 0.5,
+            "ăn chay": 0.5,
+            "khoai tây chiên": 0.5,
+            "phòng tắm": 0.5,
+            "giá": 0.5,
+            "người dân": 0.5,
+            "nguồn nước": 0.5,
+            "thời tiết": 0.5,
+            "áo khoác": 0.5,
+            "sưởi": 0.5,
+            "nước nóng": 0.5,
+            "phòng vệ sinh": 0.5,
+            "giường": 1.0,
+            "giường cỡ": 0.5,
+            "vòi sen": 0.5,
+            "hang động đảo": 0.5,
+            "trang trại ngọc trai": 0.5,
+            "nghỉ đêm": 0.5,
+            "giá đặt": 0.5,
+            "phòng du thuyền": 0.5,
+            "xe tay ga": 0.5,
+            "lịch trình": 0.5,
+            "độ ăn": 0.5,
+            "hải sản": 0.5,
+            "thủy thủ đoàn": 0.5,
+            "chuyến thăm đảo": 0.5,
+            "đêm giao": 0.5,
+            "âm nhạc": 0.5,
+            "lễ": 0.5
+        }
     },
     {
         "attraction_name": "Halong Dragon Cruise",
@@ -244,7 +1000,315 @@
             "https://www.tripadvisor.com/Attraction_Review-g297889-d5252556-Reviews-Songdo_Central_Park-Incheon.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or30-Halong_Dragon_Cruise-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or20-Halong_Dragon_Cruise-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or20-Halong_Dragon_Cruise-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tour du lịch": 0.8115375164547004,
+            "vịnh": 0.8737691454589367,
+            "chuyến tham quan": 0.678108235547552,
+            "phòng": 0.6651008879998699,
+            "đồ ăn": 0.995593288942473,
+            "bia": 0.3402778858047289,
+            "thuyền": 0.7553579939587507,
+            "khách sạn": -0.0509626567363739,
+            "bữa ăn": 0.9955471430439502,
+            "phần ăn": 0.5124488994479179,
+            "thiết kế kiểu pháp": 0.5,
+            "giường": 0.9955546254641376,
+            "hướng dẫn viên": 0.7511415273766033,
+            "nhà trọ": 0.5,
+            "trải nghiệm": 0.6868845727294683,
+            "giá": 0.8737691454589367,
+            "hải sản": 0.9758264650590718,
+            "đồ ăn địa phương": 0.9947215765714645,
+            "nhân viên": 0.9933535323943943,
+            "hướng dẫn viên du": 0.9920569797395729,
+            "xe buýt": 0.25914168171584606,
+            "chèo thuyền kayak": 0.47029365733033046,
+            "động": -0.9761047303909436,
+            "dịch vụ": 0.9813620093045756,
+            "karaoke": 0.9141873922199011,
+            "tour": 0.9943809926044196,
+            "harbor": 0.9424354676157236,
+            "the": 0.5,
+            "island": 0.5,
+            "con tàu": 0.9955458481563255,
+            "phi hành đoàn": 0.9549539751412036,
+            "tàu": 0.5,
+            "tàu du lịch": 0.9678407763130963,
+            "khung cảnh": 0.9955039905034937,
+            "thái": 0.6500026267021894,
+            "hang động": -0.43690510725718923,
+            "giày": 0.8737691454589367,
+            "thể thao": -0.8597626406699419,
+            "huấn luyện viên": -0.9214263828471303,
+            "mặt đất": -0.9290293292142451,
+            "người hướng dẫn": 0.7719266523199622,
+            "thức ăn": 0.9955916541221086,
+            "nước trà": 0.4241249058395624,
+            "cà phê": 0.5341925211250782,
+            "đồ uống": -0.9737042979104444,
+            "wifi": 0.5,
+            "khăn tắm xà": 0.5,
+            "chải": 0.5,
+            "đảo": 0.7786014519321423,
+            "lịch": 0.47575374133884907,
+            "khu nghỉ dưỡng": 0.9540032052900642,
+            "thời tiết": 0.09461974166333675,
+            "thuyền thủy thủ đoàn": 0.9883981264429167,
+            "chuyến đi": 0.995548545208294,
+            "dẫn viên du lịch giỏi": 0.5
+        },
+        "dicts_adj": {
+            "tour du lịch": [
+                "tuyệt vời",
+                "tội nghiệp",
+                "đầu tiên",
+                "mệt mỏi",
+                "nặng"
+            ],
+            "vịnh": [
+                "tuyệt vời",
+                "tội nghiệp",
+                "đầu tiên",
+                "mệt mỏi",
+                "nặng"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "tội nghiệp",
+                "đầu tiên",
+                "mệt mỏi",
+                "nặng",
+                "khoảng",
+                "vui vẻ",
+                "tuyệt vời"
+            ],
+            "phòng": [
+                "tuyệt bia"
+            ],
+            "đồ ăn": [
+                "tuyệt bia",
+                "ngon"
+            ],
+            "bia": [
+                "lạnh lùng",
+                "vui",
+                "tốt"
+            ],
+            "thuyền": [
+                "nhiều",
+                "thân thiện",
+                "chắc chắn"
+            ],
+            "khách sạn": [
+                "nhiều",
+                "đẹp",
+                "gần",
+                "đẹp"
+            ],
+            "bữa ăn": [
+                "ngon",
+                "phong phú"
+            ],
+            "phần ăn": [
+                "nhỏ"
+            ],
+            "thiết kế kiểu pháp": [],
+            "giường": [
+                "cực",
+                "mát"
+            ],
+            "hướng dẫn viên": [
+                "nhiệt tình",
+                "Đặc biệt",
+                "hữu ích",
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "nhà trọ": [],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "giá": [
+                "thực sự",
+                "rẻ",
+                "bình thường"
+            ],
+            "hải sản": [
+                "thân thiện"
+            ],
+            "đồ ăn địa phương": [
+                "thực sự",
+                "rẻ",
+                "bình thường"
+            ],
+            "nhân viên": [
+                "thân thiện"
+            ],
+            "hướng dẫn viên du": [
+                "tốt bụng",
+                "giống"
+            ],
+            "xe buýt": [
+                "nhiều"
+            ],
+            "chèo thuyền kayak": [
+                "ngắn",
+                "gần",
+                "lớn",
+                "kỳ diệu"
+            ],
+            "động": [
+                "ồn"
+            ],
+            "dịch vụ": [
+                "tốt"
+            ],
+            "karaoke": [
+                "to",
+                "to"
+            ],
+            "tour": [],
+            "harbor": [],
+            "the": [],
+            "island": [],
+            "con tàu": [
+                "tuyệt vời"
+            ],
+            "phi hành đoàn": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "thực sự",
+                "tốt bụng",
+                "tuyệt vời",
+                "hữu ích",
+                "thực sự",
+                "vui tính"
+            ],
+            "tàu": [],
+            "tàu du lịch": [],
+            "khung cảnh": [],
+            "thái": [
+                "sớm"
+            ],
+            "hang động": [
+                "lớn",
+                "kỳ diệu"
+            ],
+            "giày": [
+                "nguy hiểm"
+            ],
+            "thể thao": [
+                "nguy hiểm"
+            ],
+            "huấn luyện viên": [
+                "nguy hiểm"
+            ],
+            "mặt đất": [
+                "nguy hiểm"
+            ],
+            "người hướng dẫn": [
+                "khoảng",
+                "vui vẻ"
+            ],
+            "thức ăn": [
+                "ngon",
+                "đủ",
+                "ngon"
+            ],
+            "nước trà": [
+                "khác"
+            ],
+            "cà phê": [
+                "khác"
+            ],
+            "đồ uống": [
+                "khác"
+            ],
+            "wifi": [],
+            "khăn tắm xà": [],
+            "chải": [],
+            "đảo": [
+                "đẹp",
+                "gần",
+                "đẹp",
+                "chắc chắn"
+            ],
+            "lịch": [
+                "vội vàng",
+                "dày đặc"
+            ],
+            "khu nghỉ dưỡng": [
+                "chắc chắn"
+            ],
+            "thời tiết": [],
+            "thuyền thủy thủ đoàn": [
+                "đặc biệt"
+            ],
+            "chuyến đi": [
+                "tuyệt vời"
+            ],
+            "dẫn viên du lịch giỏi": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tour du lịch": 0.5,
+            "vịnh": 0.5,
+            "chuyến tham quan": 1.5,
+            "phòng": 1.5,
+            "đồ ăn": 1.0,
+            "bia": 0.5,
+            "thuyền": 2.5,
+            "khách sạn": 1.0,
+            "bữa ăn": 0.5,
+            "phần ăn": 0.5,
+            "thiết kế kiểu pháp": 0.5,
+            "giường": 0.5,
+            "hướng dẫn viên": 2.0,
+            "nhà trọ": 0.5,
+            "trải nghiệm": 1.0,
+            "giá": 0.5,
+            "hải sản": 0.5,
+            "đồ ăn địa phương": 0.5,
+            "nhân viên": 0.5,
+            "hướng dẫn viên du": 0.5,
+            "xe buýt": 0.5,
+            "chèo thuyền kayak": 1.0,
+            "động": 0.5,
+            "dịch vụ": 0.5,
+            "karaoke": 0.5,
+            "tour": 0.5,
+            "harbor": 0.5,
+            "the": 0.5,
+            "island": 0.5,
+            "con tàu": 0.5,
+            "phi hành đoàn": 1.5,
+            "tàu": 0.5,
+            "tàu du lịch": 0.5,
+            "khung cảnh": 0.5,
+            "thái": 0.5,
+            "hang động": 1.0,
+            "giày": 0.5,
+            "thể thao": 0.5,
+            "huấn luyện viên": 0.5,
+            "mặt đất": 0.5,
+            "người hướng dẫn": 0.5,
+            "thức ăn": 1.0,
+            "nước trà": 0.5,
+            "cà phê": 0.5,
+            "đồ uống": 0.5,
+            "wifi": 0.5,
+            "khăn tắm xà": 0.5,
+            "chải": 0.5,
+            "đảo": 1.0,
+            "lịch": 0.5,
+            "khu nghỉ dưỡng": 0.5,
+            "thời tiết": 0.5,
+            "thuyền thủy thủ đoàn": 0.5,
+            "chuyến đi": 0.5,
+            "dẫn viên du lịch giỏi": 0.5
+        }
     },
     {
         "attraction_name": "Halong Dragon Cruise",
@@ -326,7 +1390,220 @@
             "https://www.tripadvisor.com/Attraction_Review-g60878-d674919-Reviews-University_Village-Seattle_Washington.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or40-Halong_Dragon_Cruise-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or30-Halong_Dragon_Cruise-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or30-Halong_Dragon_Cruise-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "it": 0.9637171886861324,
+            "tour": 0.9754776313590506,
+            "karaoke": 0.9905033544637263,
+            "-": 0.5,
+            "kayaking": 0.5,
+            "chuyến du lịch": 0.7477123819990084,
+            "tàu du thuyền rồng": 0.8737691454589367,
+            "chuyến đi": 0.9222140310856048,
+            "hướng dẫn viên": 0.7491467922591255,
+            "phòng": -0.7175934738867605,
+            "khoảng thời gian": 0.9953072104835883,
+            "thức ăn": 0.9955730728397612,
+            "chuyến tham quan": 0.10753868520259857,
+            "hang động": 0.02099074629950337,
+            "hòn đảo": 0.3925217166543007,
+            "khóa học nấu ăn": 0.5,
+            "chả giò": 0.5,
+            "chèo thuyền kayak": 0.7417531589162536,
+            "nhân viên": 0.21571807990161082,
+            "cho": 0.9063636194914579,
+            "thỉu": 0.5,
+            "chuyến đi 3 ngày": 0.9952416595770046,
+            "đạp xe": 0.9954588316613808,
+            "lớp học nấu ăn vô số": 0.9950632972177118,
+            "món ăn": 0.995578886300791,
+            "không khí": 0.8737691454589367,
+            "thuyền": 0.9813668942369986,
+            "tommy": 0.995537820039317,
+            "đồ ăn": 0.9955971196177416,
+            "người hướng dẫn": 0.9924725129967555,
+            "thời tiết xấu": 0.5892583876848221,
+            "hướng dẫn viên du lịch": 0.9932307932758704,
+            "phòng ngủ": 0.5074725244194269,
+            "quần áo": -0.1235481584444642,
+            "chuyến phiêu lưu": 0.9951278152875602,
+            "trải nghiệm": 0.9946294495020993,
+            "​​thức chuyên môn về": 0.9942493550479412,
+            "hóa việt": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "it": [
+                "to"
+            ],
+            "tour": [],
+            "karaoke": [],
+            "-": [],
+            "kayaking": [],
+            "chuyến du lịch": [
+                "tuyệt vời"
+            ],
+            "tàu du thuyền rồng": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "vui",
+                "tốt",
+                "tốt",
+                "vui vẻ",
+                "tuyệt vời",
+                "linh hoạt",
+                "vui"
+            ],
+            "hướng dẫn viên": [
+                "tốt",
+                "vui vẻ",
+                "xuất sắc",
+                "thực sự",
+                "nhiều",
+                "giống"
+            ],
+            "phòng": [
+                "rẻ",
+                "hơn",
+                "nhiều",
+                "tương tự",
+                "khó chịu",
+                "nhỏ",
+                "đẹp"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "thức ăn": [
+                "tuyệt vời",
+                "nhiều",
+                "nhiều",
+                "ngon"
+            ],
+            "chuyến tham quan": [
+                "ngắn",
+                "tuyệt vời"
+            ],
+            "hang động": [
+                "ngắn",
+                "ngon"
+            ],
+            "hòn đảo": [
+                "ngắn"
+            ],
+            "khóa học nấu ăn": [],
+            "chả giò": [],
+            "chèo thuyền kayak": [
+                "ngon"
+            ],
+            "nhân viên": [
+                "tốt",
+                "nhẹ"
+            ],
+            "cho": [],
+            "thỉu": [],
+            "chuyến đi 3 ngày": [
+                "thực sự",
+                "vui vẻ"
+            ],
+            "đạp xe": [
+                "ngon"
+            ],
+            "lớp học nấu ăn vô số": [
+                "ngon"
+            ],
+            "món ăn": [
+                "ngon"
+            ],
+            "không khí": [
+                "đẹp"
+            ],
+            "thuyền": [
+                "vui",
+                "thực sự",
+                "tuyệt"
+            ],
+            "tommy": [
+                "tuyệt vời",
+                "nhiều",
+                "hữu ích",
+                "vui"
+            ],
+            "đồ ăn": [
+                "tuyệt"
+            ],
+            "người hướng dẫn": [
+                "tốt"
+            ],
+            "thời tiết xấu": [
+                "vui vẻ"
+            ],
+            "hướng dẫn viên du lịch": [
+                "năng động"
+            ],
+            "phòng ngủ": [
+                "ướt"
+            ],
+            "quần áo": [
+                "ướt"
+            ],
+            "chuyến phiêu lưu": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "hơn"
+            ],
+            "​​thức chuyên môn về": [
+                "thú vị"
+            ],
+            "hóa việt": [
+                "tuyệt vời",
+                "hơn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "it": 0.5,
+            "tour": 0.5,
+            "karaoke": 0.5,
+            "-": 0.5,
+            "kayaking": 0.5,
+            "chuyến du lịch": 1.0,
+            "tàu du thuyền rồng": 0.5,
+            "chuyến đi": 2.5,
+            "hướng dẫn viên": 2.0,
+            "phòng": 1.0,
+            "khoảng thời gian": 0.5,
+            "thức ăn": 1.0,
+            "chuyến tham quan": 1.0,
+            "hang động": 1.0,
+            "hòn đảo": 0.5,
+            "khóa học nấu ăn": 0.5,
+            "chả giò": 0.5,
+            "chèo thuyền kayak": 1.0,
+            "nhân viên": 0.5,
+            "cho": 0.5,
+            "thỉu": 0.5,
+            "chuyến đi 3 ngày": 0.5,
+            "đạp xe": 0.5,
+            "lớp học nấu ăn vô số": 0.5,
+            "món ăn": 0.5,
+            "không khí": 0.5,
+            "thuyền": 1.0,
+            "tommy": 0.5,
+            "đồ ăn": 0.5,
+            "người hướng dẫn": 1.0,
+            "thời tiết xấu": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "phòng ngủ": 0.5,
+            "quần áo": 0.5,
+            "chuyến phiêu lưu": 0.5,
+            "trải nghiệm": 0.5,
+            "​​thức chuyên môn về": 0.5,
+            "hóa việt": 0.5
+        }
     },
     {
         "attraction_name": "Halong Dragon Cruise",
@@ -412,7 +1689,351 @@
             "https://www.tripadvisor.com/Attraction_Review-g1191579-d4885453-Reviews-Voulisma_Beach-Istron_Agios_Nikolaos_Lasithi_Prefecture_Crete.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or50-Halong_Dragon_Cruise-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or40-Halong_Dragon_Cruise-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or40-Halong_Dragon_Cruise-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.8700381811504485,
+            "vịnh": 0.9598574863371646,
+            "tour": 0.7460968614323065,
+            "hướng dẫn viên du lịch": 0.9953194837629175,
+            "thuyền": 0.668176840317236,
+            "chuyến du ngoạn": 0.9014575481414795,
+            "giá tầm trung": 0.9785843477584422,
+            "nhân viên thuyền": 0.6403848193585873,
+            "chuyến đi": 0.9862059278982795,
+            "chuyến du lịch": 0.7476395877893083,
+            "khách sạn": 0.39959647581498653,
+            "chuyến xe buýt": 0.979580664774403,
+            "phòng ngủ": 0.9346638255810831,
+            "nhân viên": 0.9947446041187504,
+            "thức ăn": 0.8275400818965863,
+            "bữa trưa": 0.9911053542746231,
+            "hải sản": 0.5,
+            "đồ uống": 0.9211958828382194,
+            "mức giá": 0.8976279455237091,
+            "karaoke": 0.7474364226218313,
+            "điểm": 0.9955878127948381,
+            "ngắm cảnh": 0.9955876099411398,
+            "hang động": 0.7456088431645185,
+            "chèo thuyền kayak": 0.7430825600167736,
+            "địa điểm": 0.9920147304655984,
+            "đảo": 0.7380306104605552,
+            "tiếng nhạc": 0.9940312249818817,
+            "tour du lịch": 0.7465908390295226,
+            "đạp xe": -0.3960387147963047,
+            "ngôi làng": 0.4457159508019686,
+            "núi": 0.25603989139199257,
+            "hướng dẫn viên": 0.7491794303059578,
+            "ngân sách": 0.9943240305874497,
+            "phong cảnh": 0.9910694935824722,
+            "bãi biển": 0.5,
+            "chợ địa phương": 0.5,
+            "top hang động": 0.9946857690811157,
+            "khu phố cổ": 0.5,
+            "xe buýt": 0.7476947388495319,
+            "xe có wifi": 0.5,
+            "đồ ăn": 0.8106331375747686,
+            "nước uống": 0.5,
+            "hòn đảo": 0.5,
+            "tảng đá": 0.5,
+            "ngôi sao": 0.5,
+            "nhạc rock": 0.5,
+            "phòng": 0.8880547598237172,
+            "quán bar": 0.9954462902387604,
+            "nhà hàng": 0.9952405263320543,
+            "giường": 0.7298905179195572,
+            "phòng tắm": 0.7999507393687963,
+            "bể sục": 0.5,
+            "dịch vụ": 0.9951621115324087,
+            "hành trình": 0.8737691454589367,
+            "vịnh hạ long": 0.8737691454589367,
+            "tầm nhìn": 0.9954608453554101,
+            "hoàng hôn": 0.8737691454589367,
+            "cảng": 0.5,
+            "wifi": 0.5,
+            "quầy bar": 0.5,
+            "cà phê": 0.9955566495773382,
+            "cảnh quan": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "thú vị",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "vịnh": [
+                "nhiều",
+                "mới",
+                "tuyệt",
+                "đúng",
+                "tốt",
+                "tuyệt vời",
+                "tuyệt vời",
+                "cùng",
+                "tuyệt vời"
+            ],
+            "tour": [],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "nhiều",
+                "ít",
+                "vui vẻ",
+                "thoải mái",
+                "hiểu biết",
+                "tuyệt",
+                "thân thiện"
+            ],
+            "thuyền": [
+                "nhiều",
+                "mới",
+                "tuyệt",
+                "thoải mái",
+                "gần",
+                "đẹp",
+                "khác",
+                "thoải mái",
+                "ngoạn mục",
+                "tuyệt vời",
+                "thoải mái"
+            ],
+            "chuyến du ngoạn": [],
+            "giá tầm trung": [
+                "ít"
+            ],
+            "nhân viên thuyền": [
+                "tối thiểu",
+                "hữu ích"
+            ],
+            "chuyến đi": [
+                "thực sự",
+                "thú vị",
+                "tuyệt vời",
+                "nhất",
+                "am hiểu",
+                "thực sự",
+                "tốt",
+                "đáng giá"
+            ],
+            "chuyến du lịch": [
+                "hoàn toàn"
+            ],
+            "khách sạn": [
+                "thoải mái",
+                "đẹp",
+                "ồn ào"
+            ],
+            "chuyến xe buýt": [
+                "thoải mái"
+            ],
+            "phòng ngủ": [
+                "hoàn hảo",
+                "lớn"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "chắc chắn",
+                "tốt"
+            ],
+            "thức ăn": [
+                "khổng lồ",
+                "đẹp",
+                "tuyệt"
+            ],
+            "bữa trưa": [
+                "nhiều"
+            ],
+            "hải sản": [],
+            "đồ uống": [
+                "hợp lý",
+                "hợp lý"
+            ],
+            "mức giá": [
+                "hợp lý"
+            ],
+            "karaoke": [
+                "tuyệt vời"
+            ],
+            "điểm": [
+                "thú vị"
+            ],
+            "ngắm cảnh": [
+                "thú vị"
+            ],
+            "hang động": [
+                "đẹp"
+            ],
+            "chèo thuyền kayak": [
+                "đẹp"
+            ],
+            "địa điểm": [
+                "đẹp"
+            ],
+            "đảo": [
+                "đẹp",
+                "ồn ào"
+            ],
+            "tiếng nhạc": [
+                "ầm ĩ"
+            ],
+            "tour du lịch": [
+                "may mắn"
+            ],
+            "đạp xe": [
+                "yếu"
+            ],
+            "ngôi làng": [
+                "yếu"
+            ],
+            "núi": [
+                "yếu"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "hiểu biết",
+                "thực sự",
+                "am hiểu"
+            ],
+            "ngân sách": [
+                "chắc chắn",
+                "xứng đáng"
+            ],
+            "phong cảnh": [
+                "đẹp"
+            ],
+            "bãi biển": [],
+            "chợ địa phương": [],
+            "top hang động": [
+                "bất kỳ",
+                "tốt"
+            ],
+            "khu phố cổ": [],
+            "xe buýt": [
+                "thoải mái"
+            ],
+            "xe có wifi": [],
+            "đồ ăn": [
+                "tốt",
+                "tốt",
+                "ngon nhân viên",
+                "thoải mái"
+            ],
+            "nước uống": [],
+            "hòn đảo": [],
+            "tảng đá": [],
+            "ngôi sao": [],
+            "nhạc rock": [],
+            "phòng": [
+                "tuyệt vời",
+                "riêng",
+                "rẻ"
+            ],
+            "quán bar": [
+                "tuyệt vời"
+            ],
+            "nhà hàng": [
+                "tuyệt vời",
+                "tốt",
+                "tốt"
+            ],
+            "giường": [
+                "lớn",
+                "thoải mái"
+            ],
+            "phòng tắm": [
+                "lớn"
+            ],
+            "bể sục": [],
+            "dịch vụ": [
+                "tốt",
+                "tốt"
+            ],
+            "hành trình": [
+                "ngoạn mục"
+            ],
+            "vịnh hạ long": [
+                "ngoạn mục"
+            ],
+            "tầm nhìn": [
+                "tuyệt vời"
+            ],
+            "hoàng hôn": [
+                "ngoạn mục"
+            ],
+            "cảng": [],
+            "wifi": [],
+            "quầy bar": [],
+            "cà phê": [
+                "tuyệt vời"
+            ],
+            "cảnh quan": [
+                "đẹp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 2.0,
+            "vịnh": 4.5,
+            "tour": 1.0,
+            "hướng dẫn viên du lịch": 1.5,
+            "thuyền": 3.5,
+            "chuyến du ngoạn": 0.5,
+            "giá tầm trung": 0.5,
+            "nhân viên thuyền": 0.5,
+            "chuyến đi": 4.5,
+            "chuyến du lịch": 1.0,
+            "khách sạn": 1.5,
+            "chuyến xe buýt": 0.5,
+            "phòng ngủ": 1.0,
+            "nhân viên": 1.0,
+            "thức ăn": 1.0,
+            "bữa trưa": 0.5,
+            "hải sản": 0.5,
+            "đồ uống": 1.0,
+            "mức giá": 0.5,
+            "karaoke": 1.0,
+            "điểm": 0.5,
+            "ngắm cảnh": 0.5,
+            "hang động": 1.0,
+            "chèo thuyền kayak": 1.0,
+            "địa điểm": 0.5,
+            "đảo": 1.0,
+            "tiếng nhạc": 0.5,
+            "tour du lịch": 1.0,
+            "đạp xe": 0.5,
+            "ngôi làng": 0.5,
+            "núi": 0.5,
+            "hướng dẫn viên": 1.5,
+            "ngân sách": 0.5,
+            "phong cảnh": 0.5,
+            "bãi biển": 0.5,
+            "chợ địa phương": 0.5,
+            "top hang động": 0.5,
+            "khu phố cổ": 0.5,
+            "xe buýt": 1.0,
+            "xe có wifi": 0.5,
+            "đồ ăn": 2.0,
+            "nước uống": 0.5,
+            "hòn đảo": 0.5,
+            "tảng đá": 0.5,
+            "ngôi sao": 0.5,
+            "nhạc rock": 0.5,
+            "phòng": 1.0,
+            "quán bar": 0.5,
+            "nhà hàng": 0.5,
+            "giường": 1.0,
+            "phòng tắm": 0.5,
+            "bể sục": 0.5,
+            "dịch vụ": 0.5,
+            "hành trình": 0.5,
+            "vịnh hạ long": 0.5,
+            "tầm nhìn": 0.5,
+            "hoàng hôn": 0.5,
+            "cảng": 0.5,
+            "wifi": 0.5,
+            "quầy bar": 0.5,
+            "cà phê": 0.5,
+            "cảnh quan": 0.5
+        }
     },
     {
         "attraction_name": "Halong Dragon Cruise",
@@ -498,7 +2119,176 @@
             "https://www.tripadvisor.com/Attraction_Review-g664857-d10076220-Reviews-Mercadillo_de_Mogan-Puerto_de_Mogan_Mogan_Gran_Canaria_Canary_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or60-Halong_Dragon_Cruise-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or50-Halong_Dragon_Cruise-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or50-Halong_Dragon_Cruise-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "vịnh": 0.7673663919675164,
+            "chuyến đi": 0.7650634482519568,
+            "hướng dẫn viên": 0.8922231732984074,
+            "khách sạn": 0.7682250711368397,
+            "chèo thuyền kayak": 0.7472576316213235,
+            "đồ ăn": 0.9956092640641145,
+            "chỗ ở": 0.9853337047388777,
+            "nhân viên": 0.9954449073993601,
+            "thức ăn": 0.8737691454589367,
+            "phòng": 0.9850062414770946,
+            "quang cảnh": 0.9900330214295536,
+            "khung cảnh": 0.9903947543352842,
+            "núi": 0.9955873297294602,
+            "người dân địa phương": 0.9950173395336606,
+            "người": 0.9953890339238569,
+            "tour": 0.9934382613282651,
+            "trải nghiệm": 0.9953426318825223,
+            "chuyến lưu diễn": 0.9942028889781795,
+            "chuyến": 0.9471840495243669,
+            "sương mù": 0.9919553739018738,
+            "ngôi nhà gỗ": 0.7225549668073654,
+            "hồng hoài": 0.8737691454589367,
+            "cabin": 0.5,
+            "bathroom": 0.5,
+            "halong": 0.9952999018132687,
+            "thuyền": 0.5,
+            "hang động": 0.5,
+            "xe máy": 0.9954456381965429,
+            "ven biển": 0.9954208927229047
+        },
+        "dicts_adj": {
+            "vịnh": [
+                "tuyệt vời",
+                "nhiều",
+                "thú vị",
+                "đơn giản",
+                "đẹp",
+                "trẻ",
+                "khác"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "vui vẻ",
+                "thực sự",
+                "sắc sảo",
+                "chu đáo",
+                "bất kỳ"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tương tự",
+                "tuyệt vời",
+                "xuất sắc",
+                "thân thiện",
+                "tuyệt vời",
+                "hữu ích"
+            ],
+            "khách sạn": [
+                "tuyệt vời",
+                "ổn"
+            ],
+            "chèo thuyền kayak": [
+                "nhiều",
+                "vui"
+            ],
+            "đồ ăn": [
+                "ngon",
+                "ngon"
+            ],
+            "chỗ ở": [
+                "tốt"
+            ],
+            "nhân viên": [
+                "hữu ích",
+                "thân thiện",
+                "tuyệt vời"
+            ],
+            "thức ăn": [
+                "đẹp"
+            ],
+            "phòng": [
+                "đẹp"
+            ],
+            "quang cảnh": [
+                "đắt",
+                "đông",
+                "đáng giá"
+            ],
+            "khung cảnh": [
+                "đẹp"
+            ],
+            "núi": [
+                "ngon"
+            ],
+            "người dân địa phương": [
+                "tuyệt vời"
+            ],
+            "người": [
+                "tuyệt vời"
+            ],
+            "tour": [
+                "tương tự"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "chuyến lưu diễn": [
+                "vui"
+            ],
+            "chuyến": [],
+            "sương mù": [
+                "tuyệt vời"
+            ],
+            "ngôi nhà gỗ": [
+                "ổn"
+            ],
+            "hồng hoài": [
+                "đặc biệt",
+                "cao"
+            ],
+            "cabin": [],
+            "bathroom": [],
+            "halong": [],
+            "thuyền": [],
+            "hang động": [],
+            "xe máy": [
+                "thú vị"
+            ],
+            "ven biển": [
+                "thú vị"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "vịnh": 2.5,
+            "chuyến đi": 3.5,
+            "hướng dẫn viên": 2.5,
+            "khách sạn": 1.0,
+            "chèo thuyền kayak": 1.0,
+            "đồ ăn": 1.0,
+            "chỗ ở": 0.5,
+            "nhân viên": 1.5,
+            "thức ăn": 0.5,
+            "phòng": 0.5,
+            "quang cảnh": 0.5,
+            "khung cảnh": 0.5,
+            "núi": 0.5,
+            "người dân địa phương": 0.5,
+            "người": 0.5,
+            "tour": 0.5,
+            "trải nghiệm": 1.0,
+            "chuyến lưu diễn": 0.5,
+            "chuyến": 0.5,
+            "sương mù": 0.5,
+            "ngôi nhà gỗ": 0.5,
+            "hồng hoài": 0.5,
+            "cabin": 0.5,
+            "bathroom": 0.5,
+            "halong": 0.5,
+            "thuyền": 0.5,
+            "hang động": 0.5,
+            "xe máy": 0.5,
+            "ven biển": 0.5
+        }
     },
     {
         "attraction_name": "Halong Dragon Cruise",
@@ -580,7 +2370,293 @@
             "https://www.tripadvisor.com/Attraction_Review-g60806-d2437871-Reviews-Astoria_Megler_Bridge-Astoria_Oregon.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or70-Halong_Dragon_Cruise-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or60-Halong_Dragon_Cruise-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or60-Halong_Dragon_Cruise-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "người hướng dẫn": 0.9661785685457289,
+            "trải nghiệm": 0.9944917593966238,
+            "vịnh": 0.6079626023808183,
+            "khoảng thời gian": 0.9953485960140824,
+            "dịch vụ": 0.8154117567464709,
+            "du thuyền": 0.842554582816471,
+            "đồ ăn": 0.010106269801326562,
+            "hướng dẫn viên": 0.8942281512136105,
+            "hướng dẫn viên du lịch": 0.9913628365320619,
+            "thuyền": 0.7344170905749446,
+            "vịnh hạ long": 0.9806538918055594,
+            "chuyến đi": 0.9817486776883015,
+            "khách sạn": 0.5186883378773928,
+            "bữa ăn": 0.9955389994429424,
+            "thức ăn": 0.9954510474344715,
+            "ăn chay": 0.5900115948170424,
+            "phong cảnh": 0.8737691454589367,
+            "địa điểm": 0.9941860321268905,
+            "hang động": 0.5529614465000728,
+            "bãi biển": 0.5,
+            "chèo thuyền kayak": 0.4788643829524517,
+            "lúc": 0.5,
+            "hoàng hôn": 0.5,
+            "giá": 0.01207162591163069,
+            "nhân viên": 0.7468405670369975,
+            "trò chơi": 0.5,
+            "nhà thờ": 0.989863473456353,
+            "saigon": 0.978802939876914,
+            "opera": 0.6173288226127625,
+            "sân": 0.8642041552811861,
+            "món ăn địa phương": 0.7737455423921347,
+            "chợ đêm": 0.9741297657601535,
+            "phòng": 0.8737691454589367,
+            "đồ uống": -0.037108276854269207,
+            "đảo khỉ": 0.9954648549319245,
+            "đảo": 0.981984483951237,
+            "tàu": 0.9955343953915872,
+            "núi": 0.3766835294663906,
+            "tầm nhìn": 0.9949428335239645,
+            "chuyến du ngoạn": 0.5,
+            "khung cảnh": 0.8737691454589367,
+            "chuyến thăm": 0.8737691454589367,
+            "trang trại hàu": 0.9953654229175299,
+            "bungalow": 0.995527851395309,
+            "mèo ba": 0.9944917598040774,
+            "chuyến đi 3 ngày": 0.5,
+            "hành trình": 0.5,
+            "hoài": 0.5,
+            "bia": 0.6283121267333627,
+            "rượu": 0.5188547447323799,
+            "chủ thuyền": 0.5
+        },
+        "dicts_adj": {
+            "người hướng dẫn": [
+                "tốt",
+                "tốt",
+                "tốt",
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "tốt",
+                "tốt bụng",
+                "tuyệt vời"
+            ],
+            "vịnh": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "thú vị",
+                "nhiều",
+                "tuyệt vời",
+                "xa",
+                "tuyệt",
+                "nhiều"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "thực sự"
+            ],
+            "du thuyền": [
+                "thực sự",
+                "giỏi",
+                "tốt"
+            ],
+            "đồ ăn": [
+                "thực sự",
+                "giỏi",
+                "ổn",
+                "ngon",
+                "đắt"
+            ],
+            "hướng dẫn viên": [
+                "thực sự",
+                "giỏi",
+                "tuyệt vời",
+                "thực sự",
+                "nhiều",
+                "nhiều",
+                "tốt bụng",
+                "suốt"
+            ],
+            "hướng dẫn viên du lịch": [
+                "giỏi",
+                "tốt bụng"
+            ],
+            "thuyền": [
+                "đẹp",
+                "đẹp",
+                "kayat",
+                "đủ",
+                "thoải mái",
+                "có giá"
+            ],
+            "vịnh hạ long": [],
+            "chuyến đi": [
+                "cùng",
+                "hoàn toàn",
+                "chắc chắn",
+                "tuyệt vời"
+            ],
+            "khách sạn": [
+                "cùng"
+            ],
+            "bữa ăn": [
+                "tuyệt vời"
+            ],
+            "thức ăn": [
+                "lớn",
+                "thực sự",
+                "ngon"
+            ],
+            "ăn chay": [],
+            "phong cảnh": [
+                "ngoạn mục"
+            ],
+            "địa điểm": [
+                "thực sự",
+                "thú vị"
+            ],
+            "hang động": [
+                "tuyệt vời",
+                "xa",
+                "cao"
+            ],
+            "bãi biển": [],
+            "chèo thuyền kayak": [
+                "cao"
+            ],
+            "lúc": [],
+            "hoàng hôn": [],
+            "giá": [
+                "tuyệt vời",
+                "cao"
+            ],
+            "nhân viên": [
+                "thân thiện"
+            ],
+            "trò chơi": [],
+            "nhà thờ": [
+                "đầu tiên"
+            ],
+            "saigon": [
+                "đầu tiên"
+            ],
+            "opera": [
+                "đầu tiên"
+            ],
+            "sân": [
+                "đầu tiên"
+            ],
+            "món ăn địa phương": [
+                "đầu tiên"
+            ],
+            "chợ đêm": [
+                "nhiều",
+                "đặc biệt"
+            ],
+            "phòng": [
+                "tốt"
+            ],
+            "đồ uống": [
+                "ổn",
+                "đắt"
+            ],
+            "đảo khỉ": [
+                "tuyệt khi"
+            ],
+            "đảo": [
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "tàu": [
+                "tuyệt vời"
+            ],
+            "núi": [
+                "cao"
+            ],
+            "tầm nhìn": [
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "chuyến du ngoạn": [],
+            "khung cảnh": [
+                "tuyệt",
+                "nhiều"
+            ],
+            "chuyến thăm": [
+                "thú vị"
+            ],
+            "trang trại hàu": [
+                "thú vị"
+            ],
+            "bungalow": [
+                "đẹp"
+            ],
+            "mèo ba": [
+                "đẹp"
+            ],
+            "chuyến đi 3 ngày": [],
+            "hành trình": [],
+            "hoài": [],
+            "bia": [
+                "có giá"
+            ],
+            "rượu": [
+                "thực sự"
+            ],
+            "chủ thuyền": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "người hướng dẫn": 0.5,
+            "trải nghiệm": 1.5,
+            "vịnh": 2.0,
+            "khoảng thời gian": 0.5,
+            "dịch vụ": 0.5,
+            "du thuyền": 1.5,
+            "đồ ăn": 2.0,
+            "hướng dẫn viên": 2.5,
+            "hướng dẫn viên du lịch": 1.0,
+            "thuyền": 3.5,
+            "vịnh hạ long": 0.5,
+            "chuyến đi": 1.0,
+            "khách sạn": 0.5,
+            "bữa ăn": 0.5,
+            "thức ăn": 0.5,
+            "ăn chay": 0.5,
+            "phong cảnh": 0.5,
+            "địa điểm": 0.5,
+            "hang động": 1.5,
+            "bãi biển": 0.5,
+            "chèo thuyền kayak": 1.0,
+            "lúc": 0.5,
+            "hoàng hôn": 0.5,
+            "giá": 1.0,
+            "nhân viên": 1.0,
+            "trò chơi": 0.5,
+            "nhà thờ": 0.5,
+            "saigon": 0.5,
+            "opera": 0.5,
+            "sân": 0.5,
+            "món ăn địa phương": 0.5,
+            "chợ đêm": 0.5,
+            "phòng": 0.5,
+            "đồ uống": 1.0,
+            "đảo khỉ": 0.5,
+            "đảo": 0.5,
+            "tàu": 0.5,
+            "núi": 0.5,
+            "tầm nhìn": 1.0,
+            "chuyến du ngoạn": 0.5,
+            "khung cảnh": 0.5,
+            "chuyến thăm": 0.5,
+            "trang trại hàu": 0.5,
+            "bungalow": 0.5,
+            "mèo ba": 0.5,
+            "chuyến đi 3 ngày": 0.5,
+            "hành trình": 0.5,
+            "hoài": 0.5,
+            "bia": 0.5,
+            "rượu": 0.5,
+            "chủ thuyền": 0.5
+        }
     },
     {
         "attraction_name": "Halong Dragon Cruise",
@@ -666,7 +2742,269 @@
             "https://www.tripadvisor.com/Attraction_Review-g60864-d106440-Reviews-The_National_WWII_Museum-New_Orleans_Louisiana.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or80-Halong_Dragon_Cruise-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or70-Halong_Dragon_Cruise-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or70-Halong_Dragon_Cruise-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi 3 ngày": 0.9954209040733986,
+            "nhân viên": 0.9647065930184908,
+            "hướng dẫn viên": 0.7675309416255913,
+            "đảo": 0.5060353800654411,
+            "thuyền": 0.17421373759862036,
+            "chất lượng": 0.5,
+            "dịch vụ": 0.5,
+            "đồ ăn": 0.39520923467741037,
+            "phi hành đoàn": 0.9797060845885426,
+            "chuyến tham quan": 0.9325135889230296,
+            "giá cả": 0.9352727965451777,
+            "trải nghiệm": 0.7162701255292632,
+            "phòng": 0.9953610196243972,
+            "du thuyền": 0.5,
+            "khách sạn": -0.23671162233222276,
+            "thời gian": 0.9953282881178893,
+            "chuyến đi": 0.7756866325532125,
+            "hoạt động từ tham quan": 0.5,
+            "bãi biển": 0.5,
+            "chèo thuyền kayak": 0.5,
+            "lớp học chả giò": 0.5,
+            "hang động": 0.5,
+            "tàu": 0.995550561347045,
+            "người": 0.9954525196226314,
+            "khoảng thời gian": 0.9953072104835883,
+            "vịnh": 0.8191822539762749,
+            "chuyến du ngoạn": 0.5,
+            "món ăn": 0.995462633552961,
+            "biểu diễn ảo thuật": 0.5,
+            "giá": 0.9937337310984731,
+            "mức giá": -0.9518182228785008,
+            "bãi biển thuyền kayak": 0.5,
+            "trang trại": 0.5,
+            "đông dân cư": 0.9780143548268825,
+            "khuôn mặt": -0.3912686100229621,
+            "không khí": -0.9541034223511815,
+            "nhân": 0.9955005630035885,
+            "nhà vệ sinh": 0.5,
+            "cảng biển": -0.44008052814751863,
+            "điểm dừng": 0.5,
+            "the view": 0.9954383687581867,
+            "to an": 0.9593125525861979,
+            "tour": 0.9878653343766928,
+            "monkey": 0.9955165811697952,
+            "kỳ nghỉ": 0.7360848931130022,
+            "thiên nhiên": 0.5
+        },
+        "dicts_adj": {
+            "chuyến đi 3 ngày": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "chu đáo",
+                "thân thiện",
+                "hữu ích",
+                "tuyệt chủ",
+                "thực sự",
+                "vui vẻ",
+                "xứng đáng"
+            ],
+            "hướng dẫn viên": [
+                "quan trọng",
+                "tốt",
+                "suốt",
+                "chu đáo"
+            ],
+            "đảo": [
+                "ít"
+            ],
+            "thuyền": [
+                "hơn",
+                "ít",
+                "hơn",
+                "hỏng",
+                "khác",
+                "thoải mái",
+                "biết ơn",
+                "cơ bản",
+                "đầy đủ",
+                "nhiều",
+                "hơn",
+                "khác",
+                "khác",
+                "khác",
+                "khác",
+                "tiệc tùng",
+                "đầy đủ",
+                "rộng rãi"
+            ],
+            "chất lượng": [],
+            "dịch vụ": [],
+            "đồ ăn": [
+                "tuyệt vời",
+                "nhiều",
+                "thấp",
+                "thấp",
+                "tệ",
+                "duy nhất",
+                "ngon",
+                "nhiều",
+                "nhiều",
+                "quốc tế",
+                "phải",
+                "chính hiệu"
+            ],
+            "phi hành đoàn": [
+                "quan trọng"
+            ],
+            "chuyến tham quan": [
+                "thú vị",
+                "tốt",
+                "đúng",
+                "đẹp",
+                "nhất"
+            ],
+            "giá cả": [
+                "hiếm"
+            ],
+            "trải nghiệm": [
+                "đặc biệt",
+                "thực sự",
+                "tuyệt vời",
+                "nhiều",
+                "khác",
+                "suốt"
+            ],
+            "phòng": [
+                "đẹp",
+                "sạch sẽ",
+                "thoải mái"
+            ],
+            "du thuyền": [],
+            "khách sạn": [
+                "tệ"
+            ],
+            "thời gian": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "thú vị",
+                "nhiều",
+                "tuyệt vời",
+                "gần",
+                "nhiều",
+                "dài",
+                "bận rộn"
+            ],
+            "hoạt động từ tham quan": [],
+            "bãi biển": [],
+            "chèo thuyền kayak": [],
+            "lớp học chả giò": [],
+            "hang động": [],
+            "tàu": [
+                "xứng đáng"
+            ],
+            "người": [
+                "tuyệt vời"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "vịnh": [
+                "hiếm",
+                "đẹp",
+                "sâu",
+                "hơn",
+                "dài",
+                "bận rộn"
+            ],
+            "chuyến du ngoạn": [],
+            "món ăn": [
+                "thực sự",
+                "ngon"
+            ],
+            "biểu diễn ảo thuật": [],
+            "giá": [
+                "biết ơn"
+            ],
+            "mức giá": [
+                "cao"
+            ],
+            "bãi biển thuyền kayak": [],
+            "trang trại": [],
+            "đông dân cư": [
+                "thú vị"
+            ],
+            "khuôn mặt": [
+                "khác",
+                "khác"
+            ],
+            "không khí": [
+                "tiệc tùng"
+            ],
+            "nhân": [
+                "thú vị"
+            ],
+            "nhà vệ sinh": [],
+            "cảng biển": [
+                "nhỏ bé"
+            ],
+            "điểm dừng": [],
+            "the view": [],
+            "to an": [],
+            "tour": [],
+            "monkey": [],
+            "kỳ nghỉ": [
+                "dài",
+                "bận rộn"
+            ],
+            "thiên nhiên": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi 3 ngày": 0.5,
+            "nhân viên": 2.0,
+            "hướng dẫn viên": 2.5,
+            "đảo": 1.0,
+            "thuyền": 2.0,
+            "chất lượng": 0.5,
+            "dịch vụ": 0.5,
+            "đồ ăn": 2.5,
+            "phi hành đoàn": 0.5,
+            "chuyến tham quan": 1.0,
+            "giá cả": 0.5,
+            "trải nghiệm": 1.0,
+            "phòng": 1.0,
+            "du thuyền": 0.5,
+            "khách sạn": 1.0,
+            "thời gian": 0.5,
+            "chuyến đi": 2.0,
+            "hoạt động từ tham quan": 0.5,
+            "bãi biển": 0.5,
+            "chèo thuyền kayak": 1.5,
+            "lớp học chả giò": 0.5,
+            "hang động": 1.5,
+            "tàu": 0.5,
+            "người": 0.5,
+            "khoảng thời gian": 0.5,
+            "vịnh": 2.0,
+            "chuyến du ngoạn": 0.5,
+            "món ăn": 0.5,
+            "biểu diễn ảo thuật": 0.5,
+            "giá": 0.5,
+            "mức giá": 0.5,
+            "bãi biển thuyền kayak": 0.5,
+            "trang trại": 0.5,
+            "đông dân cư": 0.5,
+            "khuôn mặt": 0.5,
+            "không khí": 0.5,
+            "nhân": 0.5,
+            "nhà vệ sinh": 0.5,
+            "cảng biển": 0.5,
+            "điểm dừng": 0.5,
+            "the view": 0.5,
+            "to an": 0.5,
+            "tour": 0.5,
+            "monkey": 0.5,
+            "kỳ nghỉ": 0.5,
+            "thiên nhiên": 0.5
+        }
     },
     {
         "attraction_name": "Halong Dragon Cruise",
@@ -752,7 +3090,475 @@
             "https://www.tripadvisor.com/Attraction_Review-g32766-d282679-Reviews-Skyline_Wilderness_Park-Napa_Napa_Valley_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or90-Halong_Dragon_Cruise-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or80-Halong_Dragon_Cruise-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or80-Halong_Dragon_Cruise-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên du lịch": 0.9895860746037215,
+            "tour": 0.7422991588828154,
+            "điểm tham quan": 0.9954153852304444,
+            "phòng": 0.7112190586883419,
+            "nhân viên": 0.8668949186685495,
+            "đồ ăn": 0.05623883267080167,
+            "giá": 0.5734553971754698,
+            "căn phòng": 0.5,
+            "trải nghiệm": -0.23070715623907745,
+            "vịnh": 0.5351132398247028,
+            "chuyến đi ba ngày": 0.9909652010537684,
+            "chuyến du ngoạn": 0.994017307413742,
+            "thức ăn": 0.9346802479121834,
+            "an": 0.9940520013915375,
+            "but": 0.8763785362243652,
+            "white": 0.9924171577440575,
+            "beach": 0.9747387524694204,
+            "chuyến đi": 0.7920944617969022,
+            "người hướng dẫn": 0.8139927979937056,
+            "đảo": 0.5,
+            "bia": 0.03967404752620496,
+            "thuyền": 0.0004721937182780816,
+            "đồ uống": -0.31559739793495584,
+            "trang trại": -0.95942840911448,
+            "nhà nghỉ": 0.5,
+            "xe buýt": 0.7497400478459895,
+            "hướng dẫn viên": 0.5450056534027681,
+            "lịch sử": 0.5,
+            "câu chuyện": 0.7456717259483412,
+            "hang động": 0.9953664464119356,
+            "bãi biển": 0.685420632478781,
+            "bữa tối": 0.4755394048988819,
+            "chèo thuyền kayak": 0.5461261933669448,
+            "đồ ăn việt nam": 0.8737691454589367,
+            "tàu": 0.9940917460480705,
+            "hành trình": 0.23879124465747736,
+            "ngân sách": 0.739036669023335,
+            "dịch vụ": 0.8737691454589367,
+            "chuyến xe buýt": 0.5,
+            "phòng tắm": 0.5776153225451708,
+            "lớp học nấu ăn": 0.5,
+            "trò chơi": 0.5,
+            "du thuyền": 0.7533701905049384,
+            "thả neo": 0.7481982272583991,
+            "thuyền kayak": -0.7469339398667216,
+            "chuyến thăm": 0.8737691454589367,
+            "biển": 0.5,
+            "trang trại ngọc trai": 0.5,
+            "chuyến tham quan": -0.909990974701941,
+            "bữa sáng": -0.9731294128578156,
+            "tiền": 0.7584702481981367,
+            "thuyền du lịch": -0.9723140506539494,
+            "chuyến đi 2 ngày 1 đêm": 0.7303866390138865,
+            "rượu": -0.05004224440199323,
+            "giá cạnh tranh": 0.5,
+            "núi đá": 0.5,
+            "bia nước": 0.5,
+            "trái cây": 0.5,
+            "rừng": 0.5,
+            "tàu du lịch": -0.9739777802024037,
+            "vòi": 0.9754554064711556,
+            "sen": 0.9822761908872053,
+            "thủy thủ đoàn": 0.9899298277450725,
+            "du ngoạn": 0.5,
+            "văn phòng": -0.9699422214180231,
+            "bữa tiệc": 0.8737691454589367,
+            "trò giải trí": -0.9751728838309646,
+            "phi hành đoàn": 0.5,
+            "chuyến": 0.5752425249665976,
+            "ngôi nhà gỗ": 0.7425257901195437,
+            "tầm trung": 0.5,
+            "cabin": 0.24911194352898747,
+            "tầm nhìn": 0.7597002302354667,
+            "ngôi làng": 0.5,
+            "cánh đồng lúa": 0.5
+        },
+        "dicts_adj": {
+            "hướng dẫn viên du lịch": [],
+            "tour": [
+                "tốt",
+                "khác"
+            ],
+            "điểm tham quan": [
+                "hay",
+                "tốt đẹp"
+            ],
+            "phòng": [
+                "đẹp",
+                "thoải mái",
+                "rẻ",
+                "hơn",
+                "tệ",
+                "hơn",
+                "nhiều",
+                "khó chịu",
+                "nhanh chóng",
+                "chính xác",
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "nhân viên": [
+                "tốt",
+                "thân thiện",
+                "thân thiện"
+            ],
+            "đồ ăn": [
+                "ngon",
+                "kỳ lạ",
+                "đắt đỏ",
+                "no",
+                "no",
+                "tệ",
+                "tuyệt vời",
+                "ngon",
+                "đầy",
+                "độc thân",
+                "tệ",
+                "may",
+                "nhạt nhẽo",
+                "tuyệt vời"
+            ],
+            "giá": [
+                "rẻ",
+                "hơn",
+                "tệ",
+                "hơn",
+                "tốt"
+            ],
+            "căn phòng": [],
+            "trải nghiệm": [],
+            "vịnh": [
+                "thực sự",
+                "ít",
+                "tốt",
+                "hơn",
+                "vui vẻ",
+                "chủ yếu",
+                "tuyệt vời",
+                "tốt",
+                "nhiều",
+                "cùng",
+                "chắc chắn"
+            ],
+            "chuyến đi ba ngày": [
+                "thực sự"
+            ],
+            "chuyến du ngoạn": [
+                "thực sự"
+            ],
+            "thức ăn": [
+                "ngon",
+                "tốt",
+                "tuyệt"
+            ],
+            "an": [
+                "to",
+                "to"
+            ],
+            "but": [],
+            "white": [],
+            "beach": [
+                "to"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "ổn",
+                "hài lòng",
+                "khác",
+                "dài",
+                "tuyệt vời",
+                "chắc chắn",
+                "nhạt nhẽo",
+                "ổn",
+                "yên tĩnh",
+                "thú vị"
+            ],
+            "người hướng dẫn": [
+                "tuyệt vời",
+                "tuyệt cả"
+            ],
+            "đảo": [],
+            "bia": [
+                "rẻ",
+                "nhỏ"
+            ],
+            "thuyền": [
+                "đắt đỏ",
+                "đẹp",
+                "khác",
+                "khác",
+                "tuyệt vời",
+                "hơn",
+                "khác",
+                "tương tự",
+                "khác",
+                "tương tự",
+                "nhỏ",
+                "đầy",
+                "ổn",
+                "tuyệt vời",
+                "lãng mạn",
+                "khác",
+                "khác",
+                "khác",
+                "đúng",
+                "thực sự",
+                "bất kỳ",
+                "đầy",
+                "trống",
+                "cao cấp",
+                "may",
+                "nhạt nhẽo",
+                "nhỏ",
+                "hơn",
+                "nhiều",
+                "khác",
+                "hơn",
+                "khổng lồ",
+                "nhiều"
+            ],
+            "đồ uống": [
+                "đắt đỏ",
+                "tuyệt",
+                "khác"
+            ],
+            "trang trại": [
+                "nhàm"
+            ],
+            "nhà nghỉ": [],
+            "xe buýt": [
+                "dài",
+                "thoải mái"
+            ],
+            "hướng dẫn viên": [
+                "hiểu biết",
+                "rõ ràng",
+                "thẳng thắn",
+                "tốt",
+                "liên tục",
+                "đột ngột",
+                "tốt"
+            ],
+            "lịch sử": [],
+            "câu chuyện": [
+                "liên tục"
+            ],
+            "hang động": [
+                "tuyệt vời",
+                "lớn",
+                "đẹp",
+                "nhiều",
+                "thú vị",
+                "tốt"
+            ],
+            "bãi biển": [
+                "nhỏ",
+                "đông đúc",
+                "tuyệt vời"
+            ],
+            "bữa tối": [
+                "khác"
+            ],
+            "chèo thuyền kayak": [],
+            "đồ ăn việt nam": [
+                "ngon"
+            ],
+            "tàu": [
+                "khác",
+                "tuyệt vời",
+                "hơn",
+                "cuối cùng",
+                "thoải mái",
+                "hơn",
+                "ít",
+                "hơn",
+                "cuối cùng",
+                "thân mật",
+                "hơn"
+            ],
+            "hành trình": [
+                "rẻ",
+                "hơn",
+                "tuyệt vời",
+                "chủ yếu"
+            ],
+            "ngân sách": [
+                "eo hẹp"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "chuyến xe buýt": [],
+            "phòng tắm": [
+                "tuyệt vời"
+            ],
+            "lớp học nấu ăn": [],
+            "trò chơi": [],
+            "du thuyền": [
+                "cùng",
+                "cao cấp"
+            ],
+            "thả neo": [
+                "khác",
+                "tương tự"
+            ],
+            "thuyền kayak": [
+                "nhỏ"
+            ],
+            "chuyến thăm": [
+                "tốt"
+            ],
+            "biển": [],
+            "trang trại ngọc trai": [],
+            "chuyến tham quan": [
+                "ít"
+            ],
+            "bữa sáng": [
+                "giống",
+                "tồi tệ",
+                "nhất"
+            ],
+            "tiền": [
+                "lớn"
+            ],
+            "thuyền du lịch": [
+                "tương tự",
+                "chắc",
+                "tốt",
+                "hơn",
+                "bất kỳ",
+                "khác",
+                "lớn"
+            ],
+            "chuyến đi 2 ngày 1 đêm": [],
+            "rượu": [
+                "tuyệt vời",
+                "ồn ào",
+                "suốt"
+            ],
+            "giá cạnh tranh": [],
+            "núi đá": [],
+            "bia nước": [],
+            "trái cây": [],
+            "rừng": [],
+            "tàu du lịch": [
+                "thô lỗ"
+            ],
+            "vòi": [
+                "tốt"
+            ],
+            "sen": [
+                "tốt"
+            ],
+            "thủy thủ đoàn": [
+                "tốt"
+            ],
+            "du ngoạn": [],
+            "văn phòng": [
+                "khác"
+            ],
+            "bữa tiệc": [
+                "khác"
+            ],
+            "trò giải trí": [
+                "khác",
+                "nhiều",
+                "khác"
+            ],
+            "phi hành đoàn": [],
+            "chuyến": [
+                "cao cấp"
+            ],
+            "ngôi nhà gỗ": [
+                "đơn giản",
+                "đẹp"
+            ],
+            "tầm trung": [],
+            "cabin": [
+                "nhỏ",
+                "ấm cúng"
+            ],
+            "tầm nhìn": [
+                "tuyệt vời",
+                "cùng"
+            ],
+            "ngôi làng": [],
+            "cánh đồng lúa": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên du lịch": 0.5,
+            "tour": 1.0,
+            "điểm tham quan": 0.5,
+            "phòng": 2.5,
+            "nhân viên": 2.0,
+            "đồ ăn": 3.5,
+            "giá": 1.5,
+            "căn phòng": 0.5,
+            "trải nghiệm": 1.0,
+            "vịnh": 4.5,
+            "chuyến đi ba ngày": 0.5,
+            "chuyến du ngoạn": 0.5,
+            "thức ăn": 1.0,
+            "an": 0.5,
+            "but": 0.5,
+            "white": 0.5,
+            "beach": 0.5,
+            "chuyến đi": 3.0,
+            "người hướng dẫn": 1.0,
+            "đảo": 0.5,
+            "bia": 1.0,
+            "thuyền": 3.5,
+            "đồ uống": 1.5,
+            "trang trại": 0.5,
+            "nhà nghỉ": 0.5,
+            "xe buýt": 0.5,
+            "hướng dẫn viên": 2.5,
+            "lịch sử": 0.5,
+            "câu chuyện": 1.0,
+            "hang động": 1.0,
+            "bãi biển": 0.5,
+            "bữa tối": 0.5,
+            "chèo thuyền kayak": 0.5,
+            "đồ ăn việt nam": 0.5,
+            "tàu": 0.5,
+            "hành trình": 1.5,
+            "ngân sách": 0.5,
+            "dịch vụ": 0.5,
+            "chuyến xe buýt": 0.5,
+            "phòng tắm": 0.5,
+            "lớp học nấu ăn": 0.5,
+            "trò chơi": 0.5,
+            "du thuyền": 1.0,
+            "thả neo": 0.5,
+            "thuyền kayak": 0.5,
+            "chuyến thăm": 0.5,
+            "biển": 0.5,
+            "trang trại ngọc trai": 0.5,
+            "chuyến tham quan": 0.5,
+            "bữa sáng": 0.5,
+            "tiền": 1.0,
+            "thuyền du lịch": 0.5,
+            "chuyến đi 2 ngày 1 đêm": 0.5,
+            "rượu": 1.0,
+            "giá cạnh tranh": 0.5,
+            "núi đá": 0.5,
+            "bia nước": 0.5,
+            "trái cây": 0.5,
+            "rừng": 0.5,
+            "tàu du lịch": 0.5,
+            "vòi": 0.5,
+            "sen": 0.5,
+            "thủy thủ đoàn": 0.5,
+            "du ngoạn": 0.5,
+            "văn phòng": 0.5,
+            "bữa tiệc": 0.5,
+            "trò giải trí": 0.5,
+            "phi hành đoàn": 0.5,
+            "chuyến": 0.5,
+            "ngôi nhà gỗ": 0.5,
+            "tầm trung": 0.5,
+            "cabin": 0.5,
+            "tầm nhìn": 0.5,
+            "ngôi làng": 0.5,
+            "cánh đồng lúa": 0.5
+        }
     },
     {
         "attraction_name": "Halong Dragon Cruise",
@@ -830,6 +3636,251 @@
             "https://www.tripadvisor.com/Attraction_Review-g45963-d7610665-Reviews-SAHARA_Las_Vegas-Las_Vegas_Nevada.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or90-Halong_Dragon_Cruise-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6132049-Reviews-or90-Halong_Dragon_Cruise-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "vịnh": 0.5934422863647342,
+            "đảo": 0.9955409590038471,
+            "thuyền": 0.6979498675791547,
+            "nhân viên": 0.013030390138737857,
+            "hướng dẫn viên": 0.5517365283144283,
+            "đồ ăn": 0.3001758356501038,
+            "khách sạn": 0.579225848428905,
+            "chuyến tham quan": 0.3296600356698036,
+            "tour": 0.7503669137367979,
+            "tour du lịch": 0.9946416647871956,
+            "xe buýt": 0.9454189334064722,
+            "vũ": 0.8737691454589367,
+            "cảnh sát đường thủy": 0.5,
+            "tầm": 0.26459307596087456,
+            "thức ăn": 0.7451371704228222,
+            "giải pháp": 0.5,
+            "núi": 0.5,
+            "bài thơ": 0.5,
+            "khu phức hợp": 0.9833262138999999,
+            "nghề": 0.9903204513248056,
+            "dịch vụ": 0.7587162228301167,
+            "chuyến đi": 0.9904598865832668,
+            "du thuyền": 0.6535694156773388,
+            "hướng dẫn viên du lịch": 0.9952525085536763,
+            "phi hành đoàn": 0.8737691454589367,
+            "đồ uống": -0.9760873089544475,
+            "phòng": 0.9651335899252445,
+            "chuyến đi 1": 0.966445763129741,
+            "chèo thuyền kayak": 0.8834757166914642,
+            "hang động": 0.5062690117338207,
+            "chuyến du lịch": 0.9778018535580486,
+            "cảnh quan": 0.9954544542124495,
+            "bữa ăn": 0.995320942136459,
+            "hướng dẫn viên du": 0.9497436319749492,
+            "hành": 0.5,
+            "con người": 0.5,
+            "khoảng thời gian": 0.9953072104835883,
+            "sương mù": 0.5,
+            "cabin": -0.8722015148960054,
+            "lớp học nấu ăn": -0.9192917956970632,
+            "cà chua": 0.9910117411054671,
+            "chả giò": 0.9670151604805142,
+            "chuyến đi thuyền": 0.9629106805659831,
+            "con nai": 0.07039808668196201,
+            "trải nghiệm": 0.9954941302421503
+        },
+        "dicts_adj": {
+            "vịnh": [
+                "thực sự"
+            ],
+            "đảo": [
+                "tuyệt"
+            ],
+            "thuyền": [
+                "đẹp",
+                "thân thiện"
+            ],
+            "nhân viên": [
+                "giống",
+                "hữu ích",
+                "thực sự",
+                "tử tế"
+            ],
+            "hướng dẫn viên": [
+                "giống",
+                "nhiều",
+                "Chắc chắn",
+                "tuyệt vời",
+                "vui",
+                "chi tiết",
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "giống",
+                "tốt",
+                "thực sự",
+                "ngon"
+            ],
+            "khách sạn": [
+                "tuyệt",
+                "phải",
+                "nhiều",
+                "khoảng",
+                "xinh xắn"
+            ],
+            "chuyến tham quan": [],
+            "tour": [
+                "nhỏ"
+            ],
+            "tour du lịch": [
+                "đặc biệt",
+                "đúng",
+                "nhiều",
+                "rẻ",
+                "hơn"
+            ],
+            "xe buýt": [],
+            "vũ": [
+                "đầu tiên",
+                "quan trọng",
+                "ấn tượng"
+            ],
+            "cảnh sát đường thủy": [],
+            "tầm": [],
+            "thức ăn": [
+                "đặc biệt",
+                "ngon"
+            ],
+            "giải pháp": [],
+            "núi": [],
+            "bài thơ": [],
+            "khu phức hợp": [
+                "khác",
+                "cần thiết"
+            ],
+            "nghề": [
+                "thực sự"
+            ],
+            "dịch vụ": [
+                "nhất",
+                "tốt"
+            ],
+            "chuyến đi": [
+                "đặc biệt",
+                "thú vị",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "du thuyền": [],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời"
+            ],
+            "phi hành đoàn": [
+                "thân thiện"
+            ],
+            "đồ uống": [
+                "ép buộc"
+            ],
+            "phòng": [
+                "tốt"
+            ],
+            "chuyến đi 1": [
+                "tiêu cực"
+            ],
+            "chèo thuyền kayak": [
+                "vui",
+                "lớn",
+                "kỳ diệu"
+            ],
+            "hang động": [
+                "vui vẻ",
+                "lớn",
+                "kỳ diệu"
+            ],
+            "chuyến du lịch": [],
+            "cảnh quan": [
+                "tuyệt vời"
+            ],
+            "bữa ăn": [
+                "ngon",
+                "thú vị",
+                "ngon",
+                "đẹp mắt"
+            ],
+            "hướng dẫn viên du": [
+                "tuyệt vời",
+                "vui",
+                "chi tiết"
+            ],
+            "hành": [],
+            "con người": [],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "sương mù": [],
+            "cabin": [],
+            "lớp học nấu ăn": [
+                "ngắn"
+            ],
+            "cà chua": [
+                "tươi"
+            ],
+            "chả giò": [
+                "tươi"
+            ],
+            "chuyến đi thuyền": [
+                "suốt",
+                "suốt"
+            ],
+            "con nai": [],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "vịnh": 2.0,
+            "đảo": 0.5,
+            "thuyền": 2.5,
+            "nhân viên": 1.0,
+            "hướng dẫn viên": 3.5,
+            "đồ ăn": 1.5,
+            "khách sạn": 1.0,
+            "chuyến tham quan": 0.5,
+            "tour": 1.0,
+            "tour du lịch": 0.5,
+            "xe buýt": 0.5,
+            "vũ": 0.5,
+            "cảnh sát đường thủy": 0.5,
+            "tầm": 0.5,
+            "thức ăn": 1.0,
+            "giải pháp": 0.5,
+            "núi": 0.5,
+            "bài thơ": 0.5,
+            "khu phức hợp": 0.5,
+            "nghề": 0.5,
+            "dịch vụ": 1.0,
+            "chuyến đi": 2.0,
+            "du thuyền": 1.0,
+            "hướng dẫn viên du lịch": 0.5,
+            "phi hành đoàn": 0.5,
+            "đồ uống": 0.5,
+            "phòng": 0.5,
+            "chuyến đi 1": 0.5,
+            "chèo thuyền kayak": 1.0,
+            "hang động": 1.0,
+            "chuyến du lịch": 0.5,
+            "cảnh quan": 0.5,
+            "bữa ăn": 1.0,
+            "hướng dẫn viên du": 0.5,
+            "hành": 0.5,
+            "con người": 0.5,
+            "khoảng thời gian": 0.5,
+            "sương mù": 0.5,
+            "cabin": 0.5,
+            "lớp học nấu ăn": 0.5,
+            "cà chua": 0.5,
+            "chả giò": 0.5,
+            "chuyến đi thuyền": 0.5,
+            "con nai": 0.5,
+            "trải nghiệm": 0.5
+        }
     }
 ]

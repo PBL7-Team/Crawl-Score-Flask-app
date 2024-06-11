@@ -104,6 +104,107 @@
             "https://www.tripadvisor.com/Attraction_Review-g641753-d11664539-Reviews-Panda_Parken-Fischamend_Lower_Austria.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d17423640-Reviews-CleverGent-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d17423640-Reviews-CleverGent-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa hàng": 0.9404563838616014,
+            "bộ vest": 0.5076691322028637,
+            "tay nghề": 0.9953522176365368,
+            "trả vest": 0.9678805316798389,
+            "dịch vụ": 0.6245897151529789,
+            "bộ đồ": 0.29909271374344826,
+            "bộ đồ tôn": 0.9936820301227272,
+            "thợ may": 0.995053231541533,
+            "trải nghiệm": 0.9952664384618402,
+            "chuyến thăm": 0.7725397894973867,
+            "giá": 0.9906355212442577,
+            "nhân viên": 0.823609238587475,
+            "áo sơ mi": -0.8425492192618549,
+            "bộ vest họ may": 0.7981409188359976,
+            "thương hiệu vest": 0.9938464864389971,
+            "mặt hàng": 0.9731852547265589
+        },
+        "dicts_adj": {
+            "cửa hàng": [
+                "đẹp",
+                "sạch sẽ",
+                "trung thực",
+                "riêng",
+                "có thể",
+                "hợp lý"
+            ],
+            "bộ vest": [],
+            "tay nghề": [
+                "tuyệt vời",
+                "xuất sắc",
+                "nhỏ"
+            ],
+            "trả vest": [
+                "hài lòng",
+                "đúng"
+            ],
+            "dịch vụ": [
+                "xuất sắc",
+                "đặc biệt",
+                "thoải mái"
+            ],
+            "bộ đồ": [
+                "hơn"
+            ],
+            "bộ đồ tôn": [
+                "to lớn",
+                "hơn",
+                "tốt",
+                "vừa vặn",
+                "hoàn hảo"
+            ],
+            "thợ may": [
+                "tuyệt vời",
+                "chắc chắn"
+            ],
+            "trải nghiệm": [
+                "tốt"
+            ],
+            "chuyến thăm": [
+                "đầu tiên",
+                "thực sự",
+                "rõ"
+            ],
+            "giá": [
+                "đắt",
+                "thuận tiện"
+            ],
+            "nhân viên": [
+                "giỏi",
+                "tốt",
+                "tốt"
+            ],
+            "áo sơ mi": [],
+            "bộ vest họ may": [],
+            "thương hiệu vest": [],
+            "mặt hàng": [
+                "nhiều",
+                "đa dạng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa hàng": 1,
+            "bộ vest": 1,
+            "tay nghề": 2,
+            "trả vest": 1,
+            "dịch vụ": 1.5,
+            "bộ đồ": 1.5,
+            "bộ đồ tôn": 1,
+            "thợ may": 1,
+            "trải nghiệm": 0.5,
+            "chuyến thăm": 0.5,
+            "giá": 0.5,
+            "nhân viên": 1.5,
+            "áo sơ mi": 0.5,
+            "bộ vest họ may": 0.5,
+            "thương hiệu vest": 0.5,
+            "mặt hàng": 0.5
+        }
     }
 ]

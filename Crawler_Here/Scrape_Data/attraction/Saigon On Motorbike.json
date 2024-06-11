@@ -87,7 +87,94 @@
             "https://www.tripadvisor.com/Attraction_Review-g60654-d12111643-Reviews-KA_WA_A_a_Luau_at_Aulani-Kapolei_Oahu_Hawaii.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or10-Saigon_On_Motorbike-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-Saigon_On_Motorbike-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-Saigon_On_Motorbike-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.8506586748149453,
+            "hướng dẫn viên": 0.934406821266748,
+            "địa điểm": 0.9954135369043797,
+            "hướng dẫn viên du lịch": 0.9954641258421665,
+            "chuyến đi": 0.9333734513493255,
+            "đồ ăn": 0.7578951353207231,
+            "bảo tàng tưởng niệm chiến tranh": 0.5137390531599522,
+            "bưu điện trung tâm": 0.9929659558692947,
+            "bông hoa sen": 0.9955043792724609,
+            "ẩm thực": 0.5,
+            "văn hóa việt nam": 0.5,
+            "tour": 0.5,
+            "trải nghiệm": 0.5909231528639793,
+            "xe tay ga": 0.5
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "nhiều",
+                "ngắn",
+                "thực sự",
+                "đặc biệt",
+                "tuyệt vời",
+                "vui",
+                "nhiều"
+            ],
+            "hướng dẫn viên": [
+                "nhiều",
+                "nhiều",
+                "tuyệt"
+            ],
+            "địa điểm": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "thoải mái",
+                "nhiều",
+                "hiểu biết",
+                "thân thiện"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "khác"
+            ],
+            "đồ ăn": [
+                "no",
+                "đặc biệt"
+            ],
+            "bảo tàng tưởng niệm chiến tranh": [],
+            "bưu điện trung tâm": [
+                "nhiều",
+                "vui"
+            ],
+            "bông hoa sen": [
+                "lịch sự",
+                "đẹp"
+            ],
+            "ẩm thực": [],
+            "văn hóa việt nam": [],
+            "tour": [],
+            "trải nghiệm": [
+                "hơn"
+            ],
+            "xe tay ga": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 18,
+            "hướng dẫn viên": 4,
+            "địa điểm": 2,
+            "hướng dẫn viên du lịch": 6,
+            "chuyến đi": 4,
+            "đồ ăn": 6,
+            "bảo tàng tưởng niệm chiến tranh": 2,
+            "bưu điện trung tâm": 2,
+            "bông hoa sen": 2,
+            "ẩm thực": 4,
+            "văn hóa việt nam": 2,
+            "tour": 2,
+            "trải nghiệm": 2,
+            "xe tay ga": 2
+        }
     },
     {
         "attraction_name": "Saigon On Motorbike",
@@ -178,7 +265,149 @@
             "https://www.tripadvisor.com/Attraction_Review-g147312-d148606-Reviews-Shaw_Park_Gardens_Waterfalls-Ocho_Rios_Saint_Ann_Parish_Jamaica.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or20-Saigon_On_Motorbike-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or10-Saigon_On_Motorbike-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or10-Saigon_On_Motorbike-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "lịch sử": 0.9302968514384702,
+            "thực phẩm": 0.9954968641977757,
+            "khoảng thời gian": 0.978975942794932,
+            "chuyến đi": 0.9936238253256306,
+            "hướng dẫn viên": 0.9953181070741266,
+            "đồ ăn": 0.9955828112433665,
+            "đồ ăn địa phương": 0.3681999146938324,
+            "chuyến tham quan": 0.9077108569423823,
+            "chuyến tham quan bằng xe": 0.7023606244474649,
+            "người lái xe": 0.9955443567014299,
+            "buổi": 0.9955688421614468,
+            "dịch vụ": 0.994855877419468,
+            "chờ lần": 0.9877430634805933,
+            "chuyến đi đêm": 0.8737691454589367,
+            "trải nghiệm": 0.5,
+            "hướng dẫn viên du": 0.9824753303546458,
+            "địa điểm ăn uống": 0.8431559275195468,
+            "khung cảnh": 0.9954537755693309,
+            "tháp": 0.5,
+            "câu chuyện": 0.5,
+            "con phố": 0.968299004714936,
+            "món ăn": 0.9954749430180527,
+            "pháo hoa": 0.5,
+            "lễ hội": 0.5,
+            "đường phố": 0.9953770759748295
+        },
+        "dicts_adj": {
+            "lịch sử": [
+                "thực sự",
+                "thú vị",
+                "am hiểu"
+            ],
+            "thực phẩm": [
+                "thực sự",
+                "thú vị"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "vui",
+                "thú vị",
+                "đầy đủ",
+                "khắp",
+                "tuyệt vời",
+                "chi tiết",
+                "nổi bật",
+                "thoải mái"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "đồ ăn": [
+                "tuyệt vời"
+            ],
+            "đồ ăn địa phương": [
+                "chắc chắn",
+                "bất kỳ"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "vui vẻ",
+                "nhiều",
+                "to",
+                "vui",
+                "Thực sự",
+                "tuyệt vời",
+                "thú vị"
+            ],
+            "chuyến tham quan bằng xe": [],
+            "người lái xe": [
+                "tuyệt vời"
+            ],
+            "buổi": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [],
+            "chờ lần": [],
+            "chuyến đi đêm": [
+                "thú vị",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [],
+            "hướng dẫn viên du": [
+                "xuất sắc"
+            ],
+            "địa điểm ăn uống": [
+                "ngon",
+                "nhất"
+            ],
+            "khung cảnh": [
+                "tuyệt vời"
+            ],
+            "tháp": [],
+            "câu chuyện": [],
+            "con phố": [
+                "an toàn",
+                "ồn ào"
+            ],
+            "món ăn": [
+                "tuyệt vời"
+            ],
+            "pháo hoa": [],
+            "lễ hội": [],
+            "đường phố": [
+                "đông đúc",
+                "mát",
+                "tuyệt vời",
+                "hơn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "lịch sử": 4,
+            "thực phẩm": 2,
+            "khoảng thời gian": 4,
+            "chuyến đi": 10,
+            "hướng dẫn viên": 4,
+            "đồ ăn": 2,
+            "đồ ăn địa phương": 2,
+            "chuyến tham quan": 12,
+            "chuyến tham quan bằng xe": 2,
+            "người lái xe": 2,
+            "buổi": 2,
+            "dịch vụ": 2,
+            "chờ lần": 2,
+            "chuyến đi đêm": 2,
+            "trải nghiệm": 2,
+            "hướng dẫn viên du": 2,
+            "địa điểm ăn uống": 2,
+            "khung cảnh": 2,
+            "tháp": 2,
+            "câu chuyện": 2,
+            "con phố": 2,
+            "món ăn": 2,
+            "pháo hoa": 2,
+            "lễ hội": 2,
+            "đường phố": 2
+        }
     },
     {
         "attraction_name": "Saigon On Motorbike",
@@ -270,7 +499,144 @@
             "https://www.tripadvisor.com/Attraction_Review-g54296-d265663-Reviews-Night_Heron_Park-Kiawah_Island_South_Carolina.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or30-Saigon_On_Motorbike-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or20-Saigon_On_Motorbike-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or20-Saigon_On_Motorbike-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên": 0.5422104664612561,
+            "thời tiết": 0.8284255638718605,
+            "chuyến tham quan": 0.8806677668374808,
+            "xe tay ga": 0.9942247732542455,
+            "tour du lịch": -0.9594096434302628,
+            "người hướng dẫn": 0.9954774949777251,
+            "tour xe máy": 0.5,
+            "đội": 0.5,
+            "hướng dẫn viên du lịch": 0.9938292073202319,
+            "viên ngọc quý": 0.9939364360179752,
+            "trải nghiệm": 0.8649946640944108,
+            "ẩm thực": 0.7477375107991975,
+            "hướng dẫn viên du": 0.9955524803954177,
+            "địa điểm": 0.9954712859471329,
+            "món ăn đích thực": 0.9955363697954454,
+            "đồ ăn": 0.9956082340795547,
+            "văn hóa ẩm thực": 0.5,
+            "lịch sử": 0.6616551502762983,
+            "đặc sản": 0.9954397213296033,
+            "món ăn": -0.9730276024201885,
+            "tour": 0.984396131709218,
+            "văn hóa": 0.5,
+            "lối sống địa phương": 0.5
+        },
+        "dicts_adj": {
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "nhiều",
+                "hơn"
+            ],
+            "thời tiết": [
+                "hoàn hảo"
+            ],
+            "chuyến tham quan": [
+                "cụ thể",
+                "khắp",
+                "khác",
+                "tuyệt vời",
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "xe tay ga": [
+                "tuyệt khi"
+            ],
+            "tour du lịch": [
+                "khác"
+            ],
+            "người hướng dẫn": [
+                "cùng",
+                "tuyệt vời",
+                "tuyệt vời",
+                "hiểu biết",
+                "sâu sắc",
+                "yêu thích",
+                "thú vị"
+            ],
+            "tour xe máy": [],
+            "đội": [],
+            "hướng dẫn viên du lịch": [
+                "nhiều",
+                "thực sự",
+                "chuyên nghiệp",
+                "tuyệt",
+                "nhất"
+            ],
+            "viên ngọc quý": [
+                "thực sự",
+                "giỏi"
+            ],
+            "trải nghiệm": [
+                "đáng giá",
+                "vô giá",
+                "tuyệt vời",
+                "chắc chắn",
+                "khó"
+            ],
+            "ẩm thực": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du": [
+                "tuyệt vời"
+            ],
+            "địa điểm": [
+                "ngon"
+            ],
+            "món ăn đích thực": [
+                "ngon"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "văn hóa ẩm thực": [],
+            "lịch sử": [
+                "khác",
+                "hạnh phúc"
+            ],
+            "đặc sản": [
+                "tuyệt vời",
+                "khác"
+            ],
+            "món ăn": [
+                "khác"
+            ],
+            "tour": [
+                "nhiều"
+            ],
+            "văn hóa": [],
+            "lối sống địa phương": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên": 4,
+            "thời tiết": 4,
+            "chuyến tham quan": 8,
+            "xe tay ga": 2,
+            "tour du lịch": 2,
+            "người hướng dẫn": 6,
+            "tour xe máy": 2,
+            "đội": 2,
+            "hướng dẫn viên du lịch": 4,
+            "viên ngọc quý": 2,
+            "trải nghiệm": 8,
+            "ẩm thực": 4,
+            "hướng dẫn viên du": 2,
+            "địa điểm": 2,
+            "món ăn đích thực": 2,
+            "đồ ăn": 2,
+            "văn hóa ẩm thực": 2,
+            "lịch sử": 6,
+            "đặc sản": 2,
+            "món ăn": 2,
+            "tour": 2,
+            "văn hóa": 2,
+            "lối sống địa phương": 2
+        }
     },
     {
         "attraction_name": "Saigon On Motorbike",
@@ -362,7 +728,160 @@
             "https://www.tripadvisor.com/Attraction_Review-g60320-d637656-Reviews-Pattison_State_Park-Superior_Wisconsin.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or40-Saigon_On_Motorbike-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or30-Saigon_On_Motorbike-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or30-Saigon_On_Motorbike-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.9898299336782657,
+            "dừa": 0.9955672770738602,
+            "chuyến đi": 0.9852417758957017,
+            "điểm du lịch": 0.5395286045968533,
+            "hướng dẫn viên": 0.6245897151529789,
+            "ly cà phê": 0.9955295126419514,
+            "điểm tham quan": 0.5007960004732013,
+            "con người": 0.9925618744455278,
+            "cho đêm": 0.9954048353247344,
+            "tour ẩm thực đường phố": 0.5,
+            "thắng cảnh": 0.7862901603803039,
+            "hòa đồng": 0.9956118279369548,
+            "địa điểm": 0.5,
+            "món ăn": 0.7088912837207317,
+            "độ ăn uống": 0.9950302303768694,
+            "chuyến du lịch": 0.9954463521717116,
+            "bun cha -": 0.8737691454589367,
+            "bánh mì": 0.5,
+            "quận": 0.9549759810324758,
+            "trải nghiệm": 0.930044578621164,
+            "hướng dẫn viên du lịch": 0.9922435373300686,
+            "bia": 0.9955939543433487,
+            "đồ ăn": 0.9955946922418661,
+            "hầm": 0.5,
+            "vũ khí": 0.5,
+            "chiến tranh": 0.5,
+            "nhà ga": 0.637561121955514,
+            "người hướng dẫn": 0.988155041821301,
+            "văn hóa việt nam": 0.9952228731126525
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "hoàn toàn",
+                "tuyệt vời",
+                "vui vẻ",
+                "an toàn",
+                "rõ",
+                "thực sự"
+            ],
+            "dừa": [
+                "ngon"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "đáng giá",
+                "Thực sự",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "điểm du lịch": [
+                "khác"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời"
+            ],
+            "ly cà phê": [
+                "tuyệt vời"
+            ],
+            "điểm tham quan": [],
+            "con người": [],
+            "cho đêm": [
+                "thực sự",
+                "tuyệt vời",
+                "thực tế"
+            ],
+            "tour ẩm thực đường phố": [],
+            "thắng cảnh": [
+                "tuyệt vời"
+            ],
+            "hòa đồng": [
+                "thân thiện",
+                "vui vẻ"
+            ],
+            "địa điểm": [],
+            "món ăn": [
+                "nhiều",
+                "khác"
+            ],
+            "độ ăn uống": [
+                "tuyệt vời"
+            ],
+            "chuyến du lịch": [
+                "tuyệt vời",
+                "cùng"
+            ],
+            "bun cha -": [
+                "khác"
+            ],
+            "bánh mì": [],
+            "quận": [
+                "nhiều"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "cùng"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "nhất"
+            ],
+            "bia": [
+                "ngon"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "hầm": [],
+            "vũ khí": [],
+            "chiến tranh": [],
+            "nhà ga": [
+                "khắp"
+            ],
+            "người hướng dẫn": [
+                "thực sự"
+            ],
+            "văn hóa việt nam": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 4,
+            "dừa": 2,
+            "chuyến đi": 8,
+            "điểm du lịch": 2,
+            "hướng dẫn viên": 6,
+            "ly cà phê": 2,
+            "điểm tham quan": 4,
+            "con người": 2,
+            "cho đêm": 2,
+            "tour ẩm thực đường phố": 2,
+            "thắng cảnh": 4,
+            "hòa đồng": 2,
+            "địa điểm": 2,
+            "món ăn": 4,
+            "độ ăn uống": 2,
+            "chuyến du lịch": 2,
+            "bun cha -": 2,
+            "bánh mì": 2,
+            "quận": 2,
+            "trải nghiệm": 4,
+            "hướng dẫn viên du lịch": 2,
+            "bia": 2,
+            "đồ ăn": 2,
+            "hầm": 2,
+            "vũ khí": 2,
+            "chiến tranh": 2,
+            "nhà ga": 2,
+            "người hướng dẫn": 2,
+            "văn hóa việt nam": 2
+        }
     },
     {
         "attraction_name": "Saigon On Motorbike",
@@ -454,7 +973,139 @@
             "https://www.tripadvisor.com/Attraction_Review-g47958-d2078860-Reviews-Ithaca_Farmers_Market-Ithaca_Finger_Lakes_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or50-Saigon_On_Motorbike-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or40-Saigon_On_Motorbike-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or40-Saigon_On_Motorbike-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.7997612404287793,
+            "hướng dẫn viên du lịch": 0.9954812079668045,
+            "đồ ăn thì": 0.9954700215021148,
+            "người hướng dẫn": 0.9939335483359173,
+            "xe tay ga": -0.06444254517555237,
+            "tour xe máy": 0.9264925289899111,
+            "trung tâm": 0.5,
+            "chuyến tham quan": 0.8019774779313593,
+            "xe máy": 0.5,
+            "trung tâm thành phố": 0.9597185640595853,
+            "kiến ​​thức": 0.564415724016726,
+            "hướng dẫn viên": 0.8057043592367942,
+            "ăn chay": 0.9822465231409296,
+            "đồ ăn": 0.7478041170397773,
+            "món ăn đường phố": 0.9947747095720842,
+            "thức ăn": 0.9346145129529759,
+            "bia thì": 0.995426676585339,
+            "bia": 0.5,
+            "trình điều": 0.9953620647429489,
+            "bông hoa": 0.5,
+            "nhà sư": 0.5,
+            "món ăn": 0.9952571807370987,
+            "tour": 0.5,
+            "tour ẩm thực": 0.5343817658722401
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời",
+                "nhất",
+                "tuyệt vời",
+                "hơn",
+                "tuyệt vời",
+                "lái xe",
+                "hơn"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tốt bụng",
+                "chu đáo",
+                "hoàn hảo"
+            ],
+            "đồ ăn thì": [
+                "tuyệt vời"
+            ],
+            "người hướng dẫn": [
+                "tuyệt vời"
+            ],
+            "xe tay ga": [
+                "sợ hãi"
+            ],
+            "tour xe máy": [],
+            "trung tâm": [],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "thực sự",
+                "thực sự",
+                "vui",
+                "hơn"
+            ],
+            "xe máy": [],
+            "trung tâm thành phố": [],
+            "kiến ​​thức": [
+                "ngắn"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt",
+                "an toàn",
+                "cùng",
+                "thân thiện",
+                "chắc chắn"
+            ],
+            "ăn chay": [
+                "ngon",
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "món ăn đường phố": [
+                "thân thiện",
+                "chắc chắn"
+            ],
+            "thức ăn": [
+                "ngon",
+                "tuyệt vời"
+            ],
+            "bia thì": [
+                "tuyệt vời"
+            ],
+            "bia": [],
+            "trình điều": [
+                "an toàn"
+            ],
+            "bông hoa": [],
+            "nhà sư": [],
+            "món ăn": [
+                "thực sự",
+                "ngon"
+            ],
+            "tour": [],
+            "tour ẩm thực": [
+                "riêng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 10,
+            "hướng dẫn viên du lịch": 4,
+            "đồ ăn thì": 2,
+            "người hướng dẫn": 2,
+            "xe tay ga": 2,
+            "tour xe máy": 2,
+            "trung tâm": 2,
+            "chuyến tham quan": 8,
+            "xe máy": 2,
+            "trung tâm thành phố": 2,
+            "kiến ​​thức": 2,
+            "hướng dẫn viên": 6,
+            "ăn chay": 4,
+            "đồ ăn": 4,
+            "món ăn đường phố": 2,
+            "thức ăn": 4,
+            "bia thì": 2,
+            "bia": 2,
+            "trình điều": 2,
+            "bông hoa": 2,
+            "nhà sư": 2,
+            "món ăn": 2,
+            "tour": 2,
+            "tour ẩm thực": 2
+        }
     },
     {
         "attraction_name": "Saigon On Motorbike",
@@ -546,7 +1197,119 @@
             "https://www.tripadvisor.com/Attraction_Review-g188636-d15648671-Reviews-Chocolate_Nation-Antwerp_Antwerp_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or60-Saigon_On_Motorbike-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or50-Saigon_On_Motorbike-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or50-Saigon_On_Motorbike-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến lưu diễn": 0.8737691454589367,
+            "chuyến đi": 0.9447625258180778,
+            "chuyến tham quan": 0.7937033528918013,
+            "thức ăn": 0.9953955510864034,
+            "đồ ăn": 0.9894570918986574,
+            "người dân địa phương": 0.9886278258636594,
+            "văn hóa": 0.9929620913462713,
+            "bằng xe tay ga": 0.5,
+            "trang web": 0.9934539524838328,
+            "thành phố": 0.9936194309266284,
+            "hướng dẫn viên du lịch": 0.9911855846003164,
+            "món ăn": 0.9946533832990099,
+            "trải nghiệm": 0.9910677638254128,
+            "hướng dẫn viên": 0.5,
+            "thú": 0.9916668244695757,
+            "cảnh quan": 0.5,
+            "mùi vị": 0.5,
+            "chà": 0.9955326173803769
+        },
+        "dicts_adj": {
+            "chuyến lưu diễn": [
+                "chắc chắn"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "thú vị",
+                "an toàn",
+                "suốt",
+                "tuyệt vời",
+                "tuyệt vời",
+                "hoàn hảo",
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "thực sự",
+                "thú vị",
+                "chắc chắn",
+                "an toàn",
+                "suốt",
+                "nhiều",
+                "đúng",
+                "cùng",
+                "tuyệt vời",
+                "khác"
+            ],
+            "thức ăn": [
+                "ngon"
+            ],
+            "đồ ăn": [
+                "tốt"
+            ],
+            "người dân địa phương": [
+                "tốt"
+            ],
+            "văn hóa": [
+                "thực sự",
+                "hơn"
+            ],
+            "bằng xe tay ga": [],
+            "trang web": [
+                "nhiều",
+                "thú vị"
+            ],
+            "thành phố": [],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "giỏi",
+                "nhất"
+            ],
+            "món ăn": [
+                "tuyệt vời",
+                "khoảng"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "khoảng"
+            ],
+            "hướng dẫn viên": [],
+            "thú": [
+                "tuyệt vời",
+                "khác"
+            ],
+            "cảnh quan": [],
+            "mùi vị": [],
+            "chà": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến lưu diễn": 2,
+            "chuyến đi": 6,
+            "chuyến tham quan": 12,
+            "thức ăn": 2,
+            "đồ ăn": 2,
+            "người dân địa phương": 2,
+            "văn hóa": 4,
+            "bằng xe tay ga": 2,
+            "trang web": 2,
+            "thành phố": 2,
+            "hướng dẫn viên du lịch": 4,
+            "món ăn": 2,
+            "trải nghiệm": 2,
+            "hướng dẫn viên": 2,
+            "thú": 2,
+            "cảnh quan": 2,
+            "mùi vị": 2,
+            "chà": 2
+        }
     },
     {
         "attraction_name": "Saigon On Motorbike",
@@ -638,7 +1401,148 @@
             "https://www.tripadvisor.com/Attraction_Review-g28970-d23800518-Reviews-Van_Gogh_The_Immersive_Experience-Washington_DC_District_of_Columbia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or70-Saigon_On_Motorbike-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or60-Saigon_On_Motorbike-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or60-Saigon_On_Motorbike-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên du lịch": 0.9952644277364016,
+            "địa điểm": 0.5,
+            "lịch sử": 0.5,
+            "họ": 0.9930757750601819,
+            "trải nghiệm": 0.9912689378880895,
+            "tour": 0.9940417459777867,
+            "đối tác du lịch": 0.9954374725930393,
+            "chuyến tham quan": 0.8311381735935962,
+            "kiến ​​thức": 0.9954991587437689,
+            "xe máy": 0.993794435984455,
+            "câu chuyện": 0.9921026129741222,
+            "chuyến đi": 0.9600075681195853,
+            "hướng dẫn viên": 0.9346147334144916,
+            "lịch": 0.9447327004745603,
+            "đồ ăn": 0.9955588448210619,
+            "văn hóa": 0.5,
+            "nhóm leo": 0.9955037017934956,
+            "nhóm nhi": 0.9955818868766073,
+            "thức ăn": 0.8737691454589367,
+            "phong cảnh": 0.9953801346709952,
+            "thành phố": 0.9716592412441969,
+            "món ăn địa phương": 0.884907990694046
+        },
+        "dicts_adj": {
+            "hướng dẫn viên du lịch": [
+                "hữu ích",
+                "đầy đủ"
+            ],
+            "địa điểm": [],
+            "lịch sử": [],
+            "họ": [
+                "thân thiện",
+                "chu đáo"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "suốt",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tốt",
+                "đúng",
+                "tốt",
+                "đúng",
+                "tuyệt vời"
+            ],
+            "tour": [
+                "rõ",
+                "rõ"
+            ],
+            "đối tác du lịch": [
+                "nhiệt tình"
+            ],
+            "chuyến tham quan": [
+                "vui vẻ",
+                "hơn",
+                "nhiều"
+            ],
+            "kiến ​​thức": [
+                "tuyệt vời"
+            ],
+            "xe máy": [
+                "đầu tiên",
+                "an toàn"
+            ],
+            "câu chuyện": [
+                "bổ ích",
+                "bất kỳ"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "suốt",
+                "tuyệt vời",
+                "tốt",
+                "đúng",
+                "tốt",
+                "đúng",
+                "bất kỳ",
+                "vui vẻ"
+            ],
+            "hướng dẫn viên": [
+                "xuất sắc",
+                "vui",
+                "cùng",
+                "chuyên nghiệp"
+            ],
+            "lịch": [],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "văn hóa": [],
+            "nhóm leo": [
+                "tuyệt vời"
+            ],
+            "nhóm nhi": [
+                "tuyệt vời",
+                "hoàn toàn",
+                "an toàn",
+                "thoải mái",
+                "suốt"
+            ],
+            "thức ăn": [
+                "ngon"
+            ],
+            "phong cảnh": [
+                "tuyệt vời"
+            ],
+            "thành phố": [
+                "căng thẳng"
+            ],
+            "món ăn địa phương": [
+                "căng thẳng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên du lịch": 2,
+            "địa điểm": 2,
+            "lịch sử": 2,
+            "họ": 6,
+            "trải nghiệm": 10,
+            "tour": 2,
+            "đối tác du lịch": 2,
+            "chuyến tham quan": 8,
+            "kiến ​​thức": 2,
+            "xe máy": 2,
+            "câu chuyện": 2,
+            "chuyến đi": 6,
+            "hướng dẫn viên": 4,
+            "lịch": 2,
+            "đồ ăn": 2,
+            "văn hóa": 2,
+            "nhóm leo": 2,
+            "nhóm nhi": 4,
+            "thức ăn": 2,
+            "phong cảnh": 2,
+            "thành phố": 2,
+            "món ăn địa phương": 2
+        }
     },
     {
         "attraction_name": "Saigon On Motorbike",
@@ -724,7 +1628,131 @@
             "https://www.tripadvisor.com/Attraction_Review-g60864-d7800331-Reviews-Riverwalk_Amusement-New_Orleans_Louisiana.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or80-Saigon_On_Motorbike-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or70-Saigon_On_Motorbike-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or70-Saigon_On_Motorbike-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9953616053098813,
+            "chuyến tham quan bằng xe đạp": 0.5,
+            "xe đạp": 0.9947574795223773,
+            "hướng dẫn viên du lịch": 0.9953232638654299,
+            "chuyến đi": 0.987504299118882,
+            "người hướng dẫn": 0.7246234523481689,
+            "người lái xe": 0.011650216853013262,
+            "chuyến tham quan": 0.38672914404499653,
+            "lịch sử": 0.8172179044922814,
+            "văn hóa": 0.7558091953396797,
+            "chuyến lưu diễn": 0.9948715606587939,
+            "xe máy": 0.9951260589295998,
+            "đồ ăn": 0.8737691454589367,
+            "đậm chất địa phương": 0.9857864405494183,
+            "chuyến tham quan bằng xe máy": 0.9954958403250203,
+            "trung tâm đường phố": 0.5,
+            "lái xe": 0.9738499978557229,
+            "tòa nhà": -0.968013059347868,
+            "viên du lịch": 0.5,
+            "quận": 0.8737691454589367,
+            "khung cảnh": 0.5
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "thú vị"
+            ],
+            "chuyến tham quan bằng xe đạp": [],
+            "xe đạp": [
+                "nhiều"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "vui",
+                "nhiều",
+                "cuối cùng",
+                "thực sự",
+                "trọn vẹn",
+                "hay",
+                "nhất",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "người hướng dẫn": [
+                "khác",
+                "tuyệt vời"
+            ],
+            "người lái xe": [
+                "khác",
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "cùng",
+                "thực sự",
+                "hào hứng"
+            ],
+            "lịch sử": [
+                "thú vị",
+                "am hiểu"
+            ],
+            "văn hóa": [
+                "thú vị"
+            ],
+            "chuyến lưu diễn": [
+                "thực sự"
+            ],
+            "xe máy": [
+                "thân thiện",
+                "an toàn"
+            ],
+            "đồ ăn": [
+                "độc đáo"
+            ],
+            "đậm chất địa phương": [
+                "chắc chắn"
+            ],
+            "chuyến tham quan bằng xe máy": [
+                "vui",
+                "hoàn toàn"
+            ],
+            "trung tâm đường phố": [],
+            "lái xe": [
+                "tử tế",
+                "tốt"
+            ],
+            "tòa nhà": [
+                "gần",
+                "nổi tiếng"
+            ],
+            "viên du lịch": [],
+            "quận": [
+                "cẩn thận",
+                "tuyệt vời"
+            ],
+            "khung cảnh": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 2,
+            "chuyến tham quan bằng xe đạp": 2,
+            "xe đạp": 2,
+            "hướng dẫn viên du lịch": 4,
+            "chuyến đi": 8,
+            "người hướng dẫn": 2,
+            "người lái xe": 2,
+            "chuyến tham quan": 6,
+            "lịch sử": 6,
+            "văn hóa": 2,
+            "chuyến lưu diễn": 2,
+            "xe máy": 2,
+            "đồ ăn": 2,
+            "đậm chất địa phương": 2,
+            "chuyến tham quan bằng xe máy": 2,
+            "trung tâm đường phố": 2,
+            "lái xe": 2,
+            "tòa nhà": 2,
+            "viên du lịch": 2,
+            "quận": 2,
+            "khung cảnh": 2
+        }
     },
     {
         "attraction_name": "Saigon On Motorbike",
@@ -810,7 +1838,134 @@
             "https://www.tripadvisor.com/Attraction_Review-g39187-d2356534-Reviews-Berea_Pinnacles-Berea_Kentucky.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or90-Saigon_On_Motorbike-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or80-Saigon_On_Motorbike-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or80-Saigon_On_Motorbike-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khách sạn": 0.9948046784265898,
+            "đồ ăn": 0.9952959920628928,
+            "quán cà phê việt nam": 0.8737691454589367,
+            "hướng dẫn viên du lịch": 0.995400964631699,
+            "tour du lịch": 0.7477173951338045,
+            "hướng dẫn viên": 0.6459434467057387,
+            "nhận hàng": 0.5,
+            "người hầu": 0.5215573776513338,
+            "chuyến lưu diễn": 0.5,
+            "chuyến tham quan": 0.9629856375977397,
+            "thành phố": 0.9346508494927548,
+            "chuyến đi": 0.9346066607104149,
+            "văn hóa": 0.9946765700588003,
+            "trải nghiệm": 0.8502148284072367,
+            "ẩm thực địa phương": 0.995310730417259,
+            "ẩm thực đường phố": 0.5,
+            "tour": 0.8300610072910786,
+            "dịch vụ": 0.995489668333903,
+            "lịch sử": 0.9792992067523301,
+            "văn hóa địa phương": 0.5,
+            "món ăn đường phố": 0.5,
+            "vị trí": 0.9956124767195433,
+            "chiến tranh": 0.9946883711963892,
+            "bảo tàng chiến tranh": 0.9915946997934952,
+            "kiến ​​thức": 0.9872521671932191
+        },
+        "dicts_adj": {
+            "khách sạn": [
+                "tuyệt vì"
+            ],
+            "đồ ăn": [
+                "tuyệt vời"
+            ],
+            "quán cà phê việt nam": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "nhiều",
+                "an toàn"
+            ],
+            "tour du lịch": [],
+            "hướng dẫn viên": [
+                "kỹ",
+                "kỹ",
+                "nhiều"
+            ],
+            "nhận hàng": [],
+            "người hầu": [
+                "may mắn",
+                "duy nhất"
+            ],
+            "chuyến lưu diễn": [],
+            "chuyến tham quan": [
+                "bất kỳ"
+            ],
+            "thành phố": [
+                "bất kỳ",
+                "thú vị"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "thú vị"
+            ],
+            "văn hóa": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "khó",
+                "thú vị",
+                "tuyệt vời"
+            ],
+            "ẩm thực địa phương": [
+                "tuyệt vời"
+            ],
+            "ẩm thực đường phố": [],
+            "tour": [
+                "Thực sự"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "lịch sử": [
+                "thú vị"
+            ],
+            "văn hóa địa phương": [],
+            "món ăn đường phố": [],
+            "vị trí": [
+                "tốt bụng"
+            ],
+            "chiến tranh": [],
+            "bảo tàng chiến tranh": [
+                "tốt"
+            ],
+            "kiến ​​thức": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khách sạn": 2,
+            "đồ ăn": 2,
+            "quán cà phê việt nam": 2,
+            "hướng dẫn viên du lịch": 2,
+            "tour du lịch": 4,
+            "hướng dẫn viên": 6,
+            "nhận hàng": 2,
+            "người hầu": 2,
+            "chuyến lưu diễn": 2,
+            "chuyến tham quan": 2,
+            "thành phố": 4,
+            "chuyến đi": 4,
+            "văn hóa": 2,
+            "trải nghiệm": 6,
+            "ẩm thực địa phương": 2,
+            "ẩm thực đường phố": 2,
+            "tour": 2,
+            "dịch vụ": 2,
+            "lịch sử": 2,
+            "văn hóa địa phương": 2,
+            "món ăn đường phố": 2,
+            "vị trí": 2,
+            "chiến tranh": 2,
+            "bảo tàng chiến tranh": 2,
+            "kiến ​​thức": 2
+        }
     },
     {
         "attraction_name": "Saigon On Motorbike",
@@ -902,6 +2057,166 @@
             "https://www.tripadvisor.com/Attraction_Review-g60877-d4937045-Reviews-Lower_Reid_Falls-Skagway_Alaska.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or100-Saigon_On_Motorbike-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or90-Saigon_On_Motorbike-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8775058-Reviews-or90-Saigon_On_Motorbike-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hit lớn": 0.9948043414042331,
+            "chuyến đi": 0.9943025473621674,
+            "lịch sử": 0.737366272835061,
+            "hướng dẫn viên du lịch": 0.99539200036088,
+            "chuyến tham quan": 0.9735597838007379,
+            "hướng dẫn viên": 0.7803268590942025,
+            "kẹt xe": -0.9544678640086204,
+            "xe đạp": 0.8645635256543756,
+            "bảo tàng chiến tranh": 0.8737691454589367,
+            "vũ khí": 0.5,
+            "áo mưa": 0.7265851181000471,
+            "tour": 0.9932465211022645,
+            "quận": 0.9955548414145596,
+            "món ăn": 0.9954749430180527,
+            "khoảng thời gian": 0.9953072104835883,
+            "ẩm thực đường phố": 0.5,
+            "không khí": 0.5,
+            "kiến ​​thức": 0.7561935983248986,
+            "tour ẩm thực": 0.9950721840723418,
+            "văn hóa": 0.9912046915560495,
+            "đồ ăn": 0.9548148522347523,
+            "tour du lịch": 0.9930321905994788,
+            "đồ uống": 0.995586252596695,
+            "trải nghiệm": 0.9953377263154835,
+            "khách sạn": -0.9488144645001739,
+            "trải nghiệm ăn uống": 0.9954386643366888,
+            "điểm tham quan": 0.9936418202705681,
+            "âm thanh": 0.9949029351118952,
+            "hương": 0.9953490531770512
+        },
+        "dicts_adj": {
+            "hit lớn": [],
+            "chuyến đi": [
+                "an toàn"
+            ],
+            "lịch sử": [
+                "cuối cùng"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "an toàn",
+                "Cuối cùng",
+                "thực sự",
+                "DÀI"
+            ],
+            "hướng dẫn viên": [
+                "thân thiện",
+                "nhiệt tình",
+                "năng động",
+                "đông đúc"
+            ],
+            "kẹt xe": [
+                "đầu tiên",
+                "nhiều"
+            ],
+            "xe đạp": [],
+            "bảo tàng chiến tranh": [
+                "tuyệt vời"
+            ],
+            "vũ khí": [],
+            "áo mưa": [],
+            "tour": [
+                "bất kỳ"
+            ],
+            "quận": [
+                "tuyệt vời"
+            ],
+            "món ăn": [
+                "tuyệt vời"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "ẩm thực đường phố": [],
+            "không khí": [],
+            "kiến ​​thức": [
+                "tuyệt",
+                "tuyệt vời",
+                "dọc",
+                "nổi tiếng"
+            ],
+            "tour ẩm thực": [
+                "ngon",
+                "đa dạng"
+            ],
+            "văn hóa": [
+                "ngon",
+                "đa dạng"
+            ],
+            "đồ ăn": [
+                "ngon",
+                "đa dạng",
+                "ngon",
+                "truyền thống",
+                "đa dạng",
+                "thực sự",
+                "ngon"
+            ],
+            "tour du lịch": [
+                "khuyến khích"
+            ],
+            "đồ uống": [
+                "ngon"
+            ],
+            "trải nghiệm": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "khách sạn": [
+                "đông đúc"
+            ],
+            "trải nghiệm ăn uống": [
+                "tuyệt vời"
+            ],
+            "điểm tham quan": [
+                "rực rỡ"
+            ],
+            "âm thanh": [
+                "rực rỡ"
+            ],
+            "hương": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hit lớn": 2,
+            "chuyến đi": 2,
+            "lịch sử": 4,
+            "hướng dẫn viên du lịch": 2,
+            "chuyến tham quan": 4,
+            "hướng dẫn viên": 8,
+            "kẹt xe": 2,
+            "xe đạp": 2,
+            "bảo tàng chiến tranh": 2,
+            "vũ khí": 2,
+            "áo mưa": 2,
+            "tour": 2,
+            "quận": 2,
+            "món ăn": 2,
+            "khoảng thời gian": 2,
+            "ẩm thực đường phố": 2,
+            "không khí": 2,
+            "kiến ​​thức": 4,
+            "tour ẩm thực": 2,
+            "văn hóa": 2,
+            "đồ ăn": 6,
+            "tour du lịch": 2,
+            "đồ uống": 2,
+            "trải nghiệm": 2,
+            "khách sạn": 2,
+            "trải nghiệm ăn uống": 2,
+            "điểm tham quan": 2,
+            "âm thanh": 2,
+            "hương": 2
+        }
     }
 ]

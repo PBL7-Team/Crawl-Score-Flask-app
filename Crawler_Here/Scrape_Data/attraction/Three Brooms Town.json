@@ -89,6 +89,74 @@
             "https://www.tripadvisor.com/Attraction_Review-g181717-d185025-Reviews-Lynn_Canyon_Park-North_Vancouver_British_Columbia.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8295596-Reviews-Three_Brooms_Town-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8295596-Reviews-Three_Brooms_Town-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.667507009988185,
+            "quán trang trí": 0.9942839236464351,
+            "quán": 0.6701608747292388,
+            "chổi": 0.8737691454589367,
+            "cây": 0.8843463105149567,
+            "cơ sở vật chất": 0.618726909160614,
+            "thái độ": 0.5,
+            "bầu không khí": 0.9890210409648716,
+            "món đồ": 0.9955901969224215,
+            "thức ăn": 0.9955594224156812,
+            "giá cả": -0.8647981137037277
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "tận tình",
+                "tốt",
+                "tốt",
+                "cùng"
+            ],
+            "quán trang trí": [
+                "ngon quán",
+                "giống"
+            ],
+            "quán": [
+                "đẹp",
+                "gọn gàng",
+                "hơn",
+                "đẹp",
+                "độc đáo"
+            ],
+            "chổi": [
+                "đẹp",
+                "gọn gàng",
+                "hơn"
+            ],
+            "cây": [],
+            "cơ sở vật chất": [
+                "nhiều"
+            ],
+            "thái độ": [],
+            "bầu không khí": [
+                "đẹp",
+                "độc đáo"
+            ],
+            "món đồ": [
+                "tốt"
+            ],
+            "thức ăn": [
+                "tốt"
+            ],
+            "giá cả": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 1.5,
+            "quán trang trí": 0.5,
+            "quán": 1.0,
+            "chổi": 0.5,
+            "cây": 0.5,
+            "cơ sở vật chất": 0.5,
+            "thái độ": 1.0,
+            "bầu không khí": 0.5,
+            "món đồ": 0.5,
+            "thức ăn": 0.5,
+            "giá cả": 0.5
+        }
     }
 ]

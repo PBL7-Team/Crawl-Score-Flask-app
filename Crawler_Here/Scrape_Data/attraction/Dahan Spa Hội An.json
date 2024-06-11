@@ -114,7 +114,168 @@
             "https://www.tripadvisor.com/Attraction_Review-g293974-d622595-Reviews-Reina-Istanbul.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or10-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "massage": 0.9894560677930713,
+            "trà chào": 0.9950184454792179,
+            "nước trái cây": 0.9701519785448909,
+            "âm nhạc": 0.9924180636880919,
+            "phòng": 0.9892059899866581,
+            "dịch vụ đưa": 0.7762297966692131,
+            "chuyến tham quan": 0.8817654882247249,
+            "bãi biển": 0.9612901831666628,
+            "cửa": 0.6683936828630976,
+            "hàng spa": 0.728187162138056,
+            "trà chào mừng trái cây": 0.5,
+            "thạch nước trái cây": 0.5,
+            "spa": 0.5,
+            "túi đeo chéo": 0.5,
+            "snack dừa": 0.5,
+            "nhân viên mát xa": 0.9955798122682609,
+            "tử tế": 0.9950627660145983,
+            "dịch vụ mát-xa và đưa": -0.7365658218041062,
+            "dịch vụ": 0.9442588541860459,
+            "dịch vụ mát-xa thật": 0.31359964422881603,
+            "cơ sở vật chất": 0.9955561773385853,
+            "chủ sở": 0.8737691454589367,
+            "nhân viên": 0.9645711949810253,
+            "giá cả": 0.6950238279998302,
+            "bằng cách": 0.990064239827916,
+            "trong hơn": 0.9923959458246827,
+            "đưa đón để": 0.9805782218463719,
+            "buổi mát xa": 0.3952130828984082,
+            "chuyến bay gian": 0.2932738539335939
+        },
+        "dicts_adj": {
+            "massage": [
+                "tốt"
+            ],
+            "trà chào": [
+                "tốt"
+            ],
+            "nước trái cây": [
+                "tốt"
+            ],
+            "âm nhạc": [
+                "tốt"
+            ],
+            "phòng": [
+                "chuyên nghiệp",
+                "tốt"
+            ],
+            "dịch vụ đưa": [
+                "tuyệt vời",
+                "hơn"
+            ],
+            "chuyến tham quan": [
+                "tốt",
+                "gần",
+                "mệt mỏi"
+            ],
+            "bãi biển": [
+                "tốt",
+                "gần",
+                "mệt mỏi"
+            ],
+            "cửa": [
+                "tốt",
+                "gần",
+                "mệt mỏi"
+            ],
+            "hàng spa": [
+                "tốt",
+                "gần",
+                "mệt mỏi"
+            ],
+            "trà chào mừng trái cây": [],
+            "thạch nước trái cây": [],
+            "spa": [],
+            "túi đeo chéo": [],
+            "snack dừa": [],
+            "nhân viên mát xa": [
+                "biết ơn"
+            ],
+            "tử tế": [],
+            "dịch vụ mát-xa và đưa": [],
+            "dịch vụ": [
+                "đầy đủ",
+                "tốt",
+                "tốt"
+            ],
+            "dịch vụ mát-xa thật": [
+                "đầy đủ"
+            ],
+            "cơ sở vật chất": [
+                "sạch sẽ"
+            ],
+            "chủ sở": [
+                "lành nghề",
+                "nhẹ nhàng",
+                "thuận tiện"
+            ],
+            "nhân viên": [
+                "lành nghề",
+                "nhẹ nhàng",
+                "thuận tiện",
+                "thân thiện"
+            ],
+            "giá cả": [
+                "hài lòng"
+            ],
+            "bằng cách": [
+                "sảng khoái",
+                "dễ chịu"
+            ],
+            "trong hơn": [
+                "thoải mái"
+            ],
+            "đưa đón để": [
+                "thoải mái"
+            ],
+            "buổi mát xa": [
+                "gian khổ",
+                "sảng khoái",
+                "dễ chịu"
+            ],
+            "chuyến bay gian": [
+                "gian khổ",
+                "sảng khoái",
+                "dễ chịu"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "massage": 1,
+            "trà chào": 1,
+            "nước trái cây": 1,
+            "âm nhạc": 1,
+            "phòng": 1,
+            "dịch vụ đưa": 2,
+            "chuyến tham quan": 1,
+            "bãi biển": 1,
+            "cửa": 1,
+            "hàng spa": 1,
+            "trà chào mừng trái cây": 1,
+            "thạch nước trái cây": 1,
+            "spa": 1,
+            "túi đeo chéo": 1,
+            "snack dừa": 1,
+            "nhân viên mát xa": 1,
+            "tử tế": 1,
+            "dịch vụ mát-xa và đưa": 1.5,
+            "dịch vụ": 4.0,
+            "dịch vụ mát-xa thật": 1.5,
+            "cơ sở vật chất": 1.5,
+            "chủ sở": 1,
+            "nhân viên": 3.5,
+            "giá cả": 2.5,
+            "bằng cách": 1.5,
+            "trong hơn": 1.5,
+            "đưa đón để": 1.5,
+            "buổi mát xa": 1,
+            "chuyến bay gian": 1
+        }
     },
     {
         "attraction_name": "Dahan Spa Hội An",
@@ -235,7 +396,126 @@
             "https://www.tripadvisor.com/Attraction_Review-g42881-d109974-Reviews-Lego_Imagination_Center-Bloomington_Minnesota.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or20-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or10-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or10-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "mát-xa tuyệt vời": 0.9952514075557701,
+            "dịch vụ": 0.984037014345328,
+            "không khí": 0.99372672685422,
+            "món tráng miệng": 0.5,
+            "trái cây": 0.5,
+            "xe đưa": 0.5,
+            "bãi biển an bàng": 0.8737691454589367,
+            "nhẹ như": 0.985274181002751,
+            "nhân viên massage": 0.9942278135567904,
+            "loại massage": 0.6438946826383471,
+            "quà tặng -": 0.9953447161242366,
+            "quà tặng": 0.5,
+            "đồ uống": 0.5,
+            "cơ sở vật chất": 0.9468595507671125,
+            "ㆍnhân viên": 0.8737691454589367,
+            "chuyến du lịch nước": 0.8325266480678692,
+            "mát-xa được thực": 0.9952568612061441,
+            "mát-xa chúng tôi": 0.6483574882149696,
+            "và đồ": 0.8240118250250816,
+            "mát-xa rất tuyệt": 0.9955241962452419,
+            "hội an": 0.9758617072366178,
+            "mát-xa": 0.5,
+            "thơm rất ngon": 0.5,
+            "cũng tốt": 0.5
+        },
+        "dicts_adj": {
+            "mát-xa tuyệt vời": [],
+            "dịch vụ": [
+                "tốt",
+                "tuyệt vời",
+                "tốt"
+            ],
+            "không khí": [
+                "thân thiện",
+                "tuyệt vời"
+            ],
+            "món tráng miệng": [],
+            "trái cây": [],
+            "xe đưa": [],
+            "bãi biển an bàng": [
+                "Thuận tiện",
+                "gần",
+                "Thuận tiện",
+                "gần"
+            ],
+            "nhẹ như": [],
+            "nhân viên massage": [
+                "cẩn thận"
+            ],
+            "loại massage": [
+                "nhiều",
+                "khác",
+                "trung bình"
+            ],
+            "quà tặng -": [
+                "nhiều"
+            ],
+            "quà tặng": [],
+            "đồ uống": [],
+            "cơ sở vật chất": [
+                "sạch sẽ",
+                "đẹp",
+                "tốt"
+            ],
+            "ㆍnhân viên": [
+                "sạch sẽ"
+            ],
+            "chuyến du lịch nước": [
+                "đầu tiên",
+                "tốt",
+                "nhiều"
+            ],
+            "mát-xa được thực": [
+                "hài lòng",
+                "hài lòng"
+            ],
+            "mát-xa chúng tôi": [
+                "nhẹ"
+            ],
+            "và đồ": [
+                "nhẹ"
+            ],
+            "mát-xa rất tuyệt": [
+                "thân thiện"
+            ],
+            "hội an": [],
+            "mát-xa": [],
+            "thơm rất ngon": [],
+            "cũng tốt": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "mát-xa tuyệt vời": 1.5,
+            "dịch vụ": 4.5,
+            "không khí": 1,
+            "món tráng miệng": 1,
+            "trái cây": 1,
+            "xe đưa": 1,
+            "bãi biển an bàng": 1.5,
+            "nhẹ như": 1.5,
+            "nhân viên massage": 1,
+            "loại massage": 1,
+            "quà tặng -": 1,
+            "quà tặng": 1.5,
+            "đồ uống": 1.5,
+            "cơ sở vật chất": 2.5,
+            "ㆍnhân viên": 1,
+            "chuyến du lịch nước": 1,
+            "mát-xa được thực": 1.5,
+            "mát-xa chúng tôi": 1.5,
+            "và đồ": 1.5,
+            "mát-xa rất tuyệt": 1,
+            "hội an": 1,
+            "mát-xa": 1,
+            "thơm rất ngon": 1,
+            "cũng tốt": 1
+        }
     },
     {
         "attraction_name": "Dahan Spa Hội An",
@@ -357,7 +637,160 @@
             "https://www.tripadvisor.com/Attraction_Review-g32273-d13331376-Reviews-Apple_Park_Visitor_Center-Cupertino_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or30-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or20-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or20-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cơ sở vật chất": 0.9954766876762733,
+            "chuyến đi": 0.9947034317883663,
+            "nhân viên": 0.9922646705526859,
+            "không khí": 0.9899260496895295,
+            "bằng đá": -0.6646288642659783,
+            "bấm huyệt": 0.5307157263159752,
+            "massage": 0.9259338966221549,
+            "bằng đá nóng": 0.6066018305718899,
+            "nhân viên mát-xa thỉnh": 0.5232021557167172,
+            "dịch vụ": 0.9792989669367671,
+            "dịch vụ mát-xa cao do": -0.7534473561681807,
+            "vật chất và dịch": 0.5,
+            "bãi biển an": 0.9944230966502801,
+            "dịch vụ mát-xa tôi": 0.5318030379712582,
+            "cùng gia": 0.5,
+            "tâm trạng": 0.9918855250580236,
+            "món thạch": 0.8737691454589367,
+            "cũng rất": 0.9955942585947923,
+            "bầu không khí": -0.13889294490218163,
+            "chi nhánh": 0.5,
+            "đá nóng": 0.5,
+            "nhiệt độ": 0.5,
+            "mát mẻ": 0.5,
+            "mát-xa": -0.9492868043016642,
+            "rất tốt": 0.989889663993381,
+            "dịch vụ đưa đón": 0.9901718769688159,
+            "điểm du lịch": 0.5,
+            "đưa đón cũng được": 0.9954614221933298,
+            "nhân viên mát-xa rất chu": 0.9955672810901888
+        },
+        "dicts_adj": {
+            "cơ sở vật chất": [
+                "hiện đại",
+                "tốt",
+                "thoải mái"
+            ],
+            "chuyến đi": [
+                "hài lòng",
+                "suốt"
+            ],
+            "nhân viên": [
+                "thực sự",
+                "tốt bụng",
+                "chăm chỉ",
+                "Đặc biệt"
+            ],
+            "không khí": [
+                "tuyệt",
+                "thoải mái",
+                "mát"
+            ],
+            "bằng đá": [
+                "đầu tiên",
+                "nóng"
+            ],
+            "bấm huyệt": [
+                "mạnh"
+            ],
+            "massage": [
+                "nhẹ nhàng",
+                "hơn",
+                "sảng khoái"
+            ],
+            "bằng đá nóng": [
+                "tốt"
+            ],
+            "nhân viên mát-xa thỉnh": [
+                "dễ"
+            ],
+            "dịch vụ": [
+                "hài lòng",
+                "tốt"
+            ],
+            "dịch vụ mát-xa cao do": [
+                "hài lòng"
+            ],
+            "vật chất và dịch": [],
+            "bãi biển an": [
+                "tốt"
+            ],
+            "dịch vụ mát-xa tôi": [
+                "cuối cùng"
+            ],
+            "cùng gia": [],
+            "tâm trạng": [
+                "mệt mỏi"
+            ],
+            "món thạch": [
+                "ngon"
+            ],
+            "cũng rất": [
+                "ngon"
+            ],
+            "bầu không khí": [
+                "khác"
+            ],
+            "chi nhánh": [],
+            "đá nóng": [],
+            "nhiệt độ": [],
+            "mát mẻ": [],
+            "mát-xa": [
+                "khó chịu"
+            ],
+            "rất tốt": [
+                "khó chịu"
+            ],
+            "dịch vụ đưa đón": [
+                "dễ"
+            ],
+            "điểm du lịch": [],
+            "đưa đón cũng được": [
+                "thuận tiện"
+            ],
+            "nhân viên mát-xa rất chu": [
+                "sẵn sàng",
+                "chu đáo",
+                "thực sự"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cơ sở vật chất": 1,
+            "chuyến đi": 1,
+            "nhân viên": 2,
+            "không khí": 2,
+            "bằng đá": 1,
+            "bấm huyệt": 1,
+            "massage": 2,
+            "bằng đá nóng": 1,
+            "nhân viên mát-xa thỉnh": 1,
+            "dịch vụ": 2,
+            "dịch vụ mát-xa cao do": 1,
+            "vật chất và dịch": 1,
+            "bãi biển an": 1,
+            "dịch vụ mát-xa tôi": 1,
+            "cùng gia": 1,
+            "tâm trạng": 1,
+            "món thạch": 1,
+            "cũng rất": 1,
+            "bầu không khí": 1,
+            "chi nhánh": 1,
+            "đá nóng": 1,
+            "nhiệt độ": 1,
+            "mát mẻ": 1,
+            "mát-xa": 1,
+            "rất tốt": 1,
+            "dịch vụ đưa đón": 1,
+            "điểm du lịch": 1,
+            "đưa đón cũng được": 1,
+            "nhân viên mát-xa rất chu": 1
+        }
     },
     {
         "attraction_name": "Dahan Spa Hội An",
@@ -479,7 +912,77 @@
             "https://www.tripadvisor.com/Attraction_Review-g4353418-d10126791-Reviews-Chaplin_s_World-Corsier_sur_Vevey_Canton_of_Vaud.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or40-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or30-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or30-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.9955395648333555,
+            "mát-xa tuyệt vời": 0.9954599452903494,
+            "đồ ăn": 0.9819239389616996,
+            "cơ sở vật chất": 0.9955684173328336,
+            "dịch vụ mát-xa tốt": 0.5,
+            "xe": 0.3860532231628895,
+            "cửa hàng": -0.3829624932259321,
+            "bầu không khí": 0.9932685157982633,
+            "chuyến thăm": 0.8604080183431506,
+            "túi": 0.9884926498052664,
+            "trái cây": 0.5,
+            "da nang": 0.9946220681304112,
+            "dịch vụ đưa đón": 0.5777679104357958
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "sạch sẽ",
+                "tuyệt vời",
+                "hài lòng",
+                "tuyệt vời",
+                "sảng khoái",
+                "tốt"
+            ],
+            "mát-xa tuyệt vời": [
+                "sạch sẽ"
+            ],
+            "đồ ăn": [
+                "nhẹ"
+            ],
+            "cơ sở vật chất": [
+                "sạch sẽ",
+                "sạch sẽ"
+            ],
+            "dịch vụ mát-xa tốt": [],
+            "xe": [
+                "khó"
+            ],
+            "cửa hàng": [],
+            "bầu không khí": [
+                "thoải mái"
+            ],
+            "chuyến thăm": [],
+            "túi": [
+                "dễ thương",
+                "thực sự"
+            ],
+            "trái cây": [],
+            "da nang": [
+                "đầu tiên"
+            ],
+            "dịch vụ đưa đón": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 3,
+            "mát-xa tuyệt vời": 1,
+            "đồ ăn": 1,
+            "cơ sở vật chất": 2,
+            "dịch vụ mát-xa tốt": 1,
+            "xe": 1,
+            "cửa hàng": 1,
+            "bầu không khí": 1,
+            "chuyến thăm": 1,
+            "túi": 1,
+            "trái cây": 1,
+            "da nang": 1,
+            "dịch vụ đưa đón": 1
+        }
     },
     {
         "attraction_name": "Dahan Spa Hội An",
@@ -601,7 +1104,116 @@
             "https://www.tripadvisor.com/Attraction_Review-g46291-d14155830-Reviews-Tices_Shoal-Bayville_New_Jersey.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or50-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or40-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or40-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khô và": 0.9954032675595954,
+            "nhân viên": 0.8301586734790666,
+            "nhân viên mát-xa chu đáo": 0.9939619601937011,
+            "bữa trà": 0.26578410586807877,
+            "trái cây": -0.5677892568637617,
+            "chuyến đi": 0.02827283274382353,
+            "chỗ ở": 0.9943302402971312,
+            "nhân viên massage": 0.9946776261785999,
+            "cơ sở vật chất": 0.9954142177593894,
+            "- haha": 0.9955467230756767,
+            "không khí": 0.6404378563165665,
+            "dịch vụ": 0.9805229941848665,
+            "hưởng tuần trăng": 0.9138410650193691,
+            "mát-xa tốt nhất": 0.9955217147944495,
+            "lịch trình": 0.9514074770268053,
+            "dịch vụ massage": 0.9955343927140348,
+            "con dâu": 0.566224368289113,
+            "liệu pháp mát-xa tốt nhất": 0.9921053076395765
+        },
+        "dicts_adj": {
+            "khô và": [
+                "sảng khoái"
+            ],
+            "nhân viên": [
+                "tốt",
+                "dễ",
+                "tuyệt vời"
+            ],
+            "nhân viên mát-xa chu đáo": [
+                "tuyệt vời",
+                "thoải mái",
+                "sảng khoái"
+            ],
+            "bữa trà": [
+                "giống",
+                "khác",
+                "tuyệt khi",
+                "giống"
+            ],
+            "trái cây": [
+                "giống",
+                "khác",
+                "tuyệt khi",
+                "giống"
+            ],
+            "chuyến đi": [
+                "tốt",
+                "đầu tiên",
+                "nổi tiếng"
+            ],
+            "chỗ ở": [
+                "tuyệt khi",
+                "tại chỗ"
+            ],
+            "nhân viên massage": [
+                "thân thiện"
+            ],
+            "cơ sở vật chất": [
+                "sạch sẽ"
+            ],
+            "- haha": [
+                "tuyệt khi",
+                "tốt"
+            ],
+            "không khí": [
+                "tuyệt"
+            ],
+            "dịch vụ": [
+                "trang web",
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "hưởng tuần trăng": [
+                "nổi tiếng"
+            ],
+            "mát-xa tốt nhất": [
+                "ấn tượng"
+            ],
+            "lịch trình": [],
+            "dịch vụ massage": [
+                "thân thiện",
+                "tốt"
+            ],
+            "con dâu": [],
+            "liệu pháp mát-xa tốt nhất": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khô và": 1,
+            "nhân viên": 3,
+            "nhân viên mát-xa chu đáo": 1,
+            "bữa trà": 1,
+            "trái cây": 1,
+            "chuyến đi": 2,
+            "chỗ ở": 1,
+            "nhân viên massage": 1,
+            "cơ sở vật chất": 1,
+            "- haha": 1,
+            "không khí": 1,
+            "dịch vụ": 3,
+            "hưởng tuần trăng": 1,
+            "mát-xa tốt nhất": 1,
+            "lịch trình": 1,
+            "dịch vụ massage": 1,
+            "con dâu": 1,
+            "liệu pháp mát-xa tốt nhất": 1
+        }
     },
     {
         "attraction_name": "Dahan Spa Hội An",
@@ -723,7 +1335,141 @@
             "https://www.tripadvisor.com/Attraction_Review-g28982-d3459034-Reviews-Jules_J_Berta_Vineyards_Pizza-Albertville_Alabama.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or60-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or50-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or50-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.9190641790628433,
+            "sảng khoái": 0.5,
+            "trung tâm": 0.6270114667713642,
+            "dịch vụ massage": 0.9952230064664036,
+            "dịch vụ mát-xa địa phương": 0.9443732500076294,
+            "xe đưa": 0.9916542125865817,
+            "spa": -0.9744663857854903,
+            "dịch vụ mát-xa tốt nhất": 0.9938287778059021,
+            "nhân viên": 0.994840792263858,
+            "chuyến đi": 0.9928789148107171,
+            "dịch vụ đưa đón": 0.5,
+            "mát-xa": 0.5,
+            "không khí": 0.6162781920284033,
+            "đồ uống": 0.9646155805094168,
+            "đồ giải khát": 0.9816102799959481,
+            "đá nóng": 0.9938807816943154,
+            "dịch vụ đón": 0.9930256903171539,
+            "mát-xa không": 0.9820553292520344,
+            "kỹ năng": 0.9867863452527672,
+            "mùi hương": 0.5501825250685215,
+            "uống trà": 0.5,
+            "trái cây": 0.5,
+            "bằng dầu": 0.9954948622034863,
+            "cơ": 0.9760064012371004,
+            "đồ uống trái cây": 0.9854590515606105
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tốt",
+                "tốt",
+                "sảng khoái"
+            ],
+            "sảng khoái": [],
+            "trung tâm": [],
+            "dịch vụ massage": [
+                "tuyệt vời"
+            ],
+            "dịch vụ mát-xa địa phương": [
+                "Đắt",
+                "hơn",
+                "hài lòng",
+                "hơn"
+            ],
+            "xe đưa": [
+                "Đặc biệt"
+            ],
+            "spa": [
+                "hài lòng",
+                "khác"
+            ],
+            "dịch vụ mát-xa tốt nhất": [],
+            "nhân viên": [
+                "tốt",
+                "sảng khoái",
+                "thân thiện",
+                "thân thiện"
+            ],
+            "chuyến đi": [
+                "nóng",
+                "mệt mỏi"
+            ],
+            "dịch vụ đưa đón": [],
+            "mát-xa": [],
+            "không khí": [
+                "kỳ lạ",
+                "thoải mái"
+            ],
+            "đồ uống": [
+                "thực sự",
+                "thực sự"
+            ],
+            "đồ giải khát": [
+                "thực sự"
+            ],
+            "đá nóng": [
+                "đầu tiên",
+                "sảng khoái"
+            ],
+            "dịch vụ đón": [
+                "tốt"
+            ],
+            "mát-xa không": [
+                "liên tục",
+                "ổn"
+            ],
+            "kỹ năng": [
+                "đầu tiên"
+            ],
+            "mùi hương": [
+                "đầu tiên"
+            ],
+            "uống trà": [],
+            "trái cây": [],
+            "bằng dầu": [
+                "thực sự",
+                "sảng khoái"
+            ],
+            "cơ": [
+                "căng thẳng"
+            ],
+            "đồ uống trái cây": [
+                "thực sự"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 2,
+            "sảng khoái": 1,
+            "trung tâm": 1,
+            "dịch vụ massage": 1,
+            "dịch vụ mát-xa địa phương": 1,
+            "xe đưa": 1,
+            "spa": 1,
+            "dịch vụ mát-xa tốt nhất": 1,
+            "nhân viên": 3,
+            "chuyến đi": 1,
+            "dịch vụ đưa đón": 1,
+            "mát-xa": 1,
+            "không khí": 1,
+            "đồ uống": 2,
+            "đồ giải khát": 1,
+            "đá nóng": 1,
+            "dịch vụ đón": 1,
+            "mát-xa không": 1,
+            "kỹ năng": 1,
+            "mùi hương": 1,
+            "uống trà": 1,
+            "trái cây": 1,
+            "bằng dầu": 1,
+            "cơ": 1,
+            "đồ uống trái cây": 1
+        }
     },
     {
         "attraction_name": "Dahan Spa Hội An",
@@ -845,7 +1591,139 @@
             "https://www.tripadvisor.com/Attraction_Review-g154998-d664960-Reviews-Niagara_SkyWheel-Niagara_Falls_Ontario.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or70-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or60-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or60-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên mát xa": 0.9946440525818616,
+            "đồ ăn": 0.9823102451045997,
+            "mát-xa rất tuyệt": 0.9955769123043865,
+            "cơ sở vật chất": 0.9955489674466662,
+            "họ chu đáo": 0.8737691454589367,
+            "mát-xa vì": 0.9758643072564155,
+            "chuyến du lịch": 0.9852235582657158,
+            "xe đưa": 0.7569163832813501,
+            "năng massage": 0.994859502534382,
+            "chuyến đi": 0.8222445600355665,
+            "bầu không khí": 0.8737691454589367,
+            "cấp": 0.5,
+            "buổi massage": 0.9954955887515098,
+            "mát-xa": 0.7557181408046745,
+            "đầu đặc": 0.9845856237516273,
+            "dịch vụ đón": 0.8547072950750589,
+            "dịch vụ": -0.7651247568428516,
+            "dịch vụ massage": 0.9955988240544684,
+            "dịch vụ cá nhân": -0.09121306869201362,
+            "nhân viên massage": 0.9954042702447623
+        },
+        "dicts_adj": {
+            "nhân viên mát xa": [
+                "cẩn thận",
+                "tốt"
+            ],
+            "đồ ăn": [
+                "ổn",
+                "nhiều",
+                "nhẹ",
+                "ngon",
+                "tốt",
+                "hơn",
+                "nhẹ"
+            ],
+            "mát-xa rất tuyệt": [
+                "thân thiện"
+            ],
+            "cơ sở vật chất": [
+                "thoải mái",
+                "sạch sẽ",
+                "hài lòng"
+            ],
+            "họ chu đáo": [
+                "tốt bụng"
+            ],
+            "mát-xa vì": [
+                "nhẹ nhàng"
+            ],
+            "chuyến du lịch": [
+                "thực sự",
+                "thực sự"
+            ],
+            "xe đưa": [
+                "thoải mái"
+            ],
+            "năng massage": [
+                "đỉnh",
+                "ngon",
+                "đầu tiên"
+            ],
+            "chuyến đi": [
+                "thực sự",
+                "mệt mỏi",
+                "mệt mỏi",
+                "suốt",
+                "mệt mỏi"
+            ],
+            "bầu không khí": [
+                "thực sự",
+                "thích hợp",
+                "riêng tư",
+                "cao cấp",
+                "sang trọng"
+            ],
+            "cấp": [],
+            "buổi massage": [
+                "đặc biệt",
+                "nhanh"
+            ],
+            "mát-xa": [
+                "đặc biệt",
+                "nhanh"
+            ],
+            "đầu đặc": [
+                "đặc biệt",
+                "nhanh"
+            ],
+            "dịch vụ đón": [
+                "duy nhất"
+            ],
+            "dịch vụ": [
+                "thực sự"
+            ],
+            "dịch vụ massage": [
+                "tốt",
+                "thân thiện"
+            ],
+            "dịch vụ cá nhân": [
+                "thoải mái",
+                "dễ chịu"
+            ],
+            "nhân viên massage": [
+                "chăm chỉ",
+                "mát mẻ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên mát xa": 1,
+            "đồ ăn": 2,
+            "mát-xa rất tuyệt": 1,
+            "cơ sở vật chất": 1,
+            "họ chu đáo": 1,
+            "mát-xa vì": 1,
+            "chuyến du lịch": 1,
+            "xe đưa": 1,
+            "năng massage": 1,
+            "chuyến đi": 3,
+            "bầu không khí": 2,
+            "cấp": 1,
+            "buổi massage": 1,
+            "mát-xa": 1,
+            "đầu đặc": 1,
+            "dịch vụ đón": 1,
+            "dịch vụ": 1,
+            "dịch vụ massage": 1,
+            "dịch vụ cá nhân": 1,
+            "nhân viên massage": 1
+        }
     },
     {
         "attraction_name": "Dahan Spa Hội An",
@@ -967,7 +1845,120 @@
             "https://www.tripadvisor.com/Attraction_Review-g187147-d190683-Reviews-Conciergerie-Paris_Ile_de_France.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or80-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or70-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or70-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ đưa": 0.7459742798819207,
+            "túi cú": 0.5,
+            "bãi biển": 0.9778535382356495,
+            "dịch vụ": 0.7475883587030694,
+            "hành lý": 0.9953909385949373,
+            "chủ sở": 0.98511198873166,
+            "dịch vụ dọn dẹp": 0.5,
+            "chuyến đi": 0.9941300959908403,
+            "bầu không khí": 0.8737691454589367,
+            "nhân viên": 0.6868845727294683,
+            "trà chào": 0.9956051936023869,
+            "quà tặng": 0.9955803388729692,
+            "bãi biển anbang": 0.9938748625572771,
+            "và nó": 0.9955231008934788,
+            "mát-xa nhưng tôi": 0.9909663231810555,
+            "các bộ phận": 0.40262847021222115,
+            "họ chăm": 0.9912555110058747,
+            "nhân viên mát xa": 0.9945296020014212,
+            "mát-xa": 0.5,
+            "họ sẽ cho": 0.5,
+            "nhẹ từ": 0.5,
+            "rất ngon": 0.5,
+            "nhân viên mát-xa rất": 0.9764490132220089
+        },
+        "dicts_adj": {
+            "dịch vụ đưa": [
+                "thoải mái"
+            ],
+            "túi cú": [],
+            "bãi biển": [],
+            "dịch vụ": [
+                "tuyệt khi"
+            ],
+            "hành lý": [],
+            "chủ sở": [
+                "dễ dàng"
+            ],
+            "dịch vụ dọn dẹp": [],
+            "chuyến đi": [
+                "tốt"
+            ],
+            "bầu không khí": [
+                "đẹp"
+            ],
+            "nhân viên": [
+                "thân thiện"
+            ],
+            "trà chào": [
+                "tuyệt"
+            ],
+            "quà tặng": [
+                "tuyệt"
+            ],
+            "bãi biển anbang": [
+                "tuyệt",
+                "hơn",
+                "gần"
+            ],
+            "và nó": [
+                "tinh tế",
+                "khác",
+                "vui",
+                "rõ ràng"
+            ],
+            "mát-xa nhưng tôi": [
+                "thoải mái"
+            ],
+            "các bộ phận": [
+                "khác"
+            ],
+            "họ chăm": [
+                "chu đáo"
+            ],
+            "nhân viên mát xa": [
+                "tuyệt khi"
+            ],
+            "mát-xa": [],
+            "họ sẽ cho": [],
+            "nhẹ từ": [],
+            "rất ngon": [],
+            "nhân viên mát-xa rất": [
+                "cặn kẽ",
+                "giỏi"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ đưa": 2,
+            "túi cú": 1,
+            "bãi biển": 1,
+            "dịch vụ": 2,
+            "hành lý": 1,
+            "chủ sở": 1,
+            "dịch vụ dọn dẹp": 1,
+            "chuyến đi": 1,
+            "bầu không khí": 1,
+            "nhân viên": 2,
+            "trà chào": 1,
+            "quà tặng": 1,
+            "bãi biển anbang": 1,
+            "và nó": 1,
+            "mát-xa nhưng tôi": 1,
+            "các bộ phận": 1,
+            "họ chăm": 1,
+            "nhân viên mát xa": 1,
+            "mát-xa": 1,
+            "họ sẽ cho": 1,
+            "nhẹ từ": 1,
+            "rất ngon": 1,
+            "nhân viên mát-xa rất": 1
+        }
     },
     {
         "attraction_name": "Dahan Spa Hội An",
@@ -1079,6 +2070,97 @@
             "https://www.tripadvisor.com/Attraction_Review-g32737-d144837-Reviews-Old_Fisherman_s_Wharf-Monterey_Monterey_County_California.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or80-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25298314-Reviews-or80-Dahan_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hội an": 0.8737691454589367,
+            "nhân viên mát-xa rất tốt": 0.5,
+            "nhân viên": 0.641726933962976,
+            "tầm vóc": 0.5081482473760843,
+            "sức tay": 0.9929913191008382,
+            "trải nghiệm": 0.9954908500076272,
+            "tòa nhà": 0.995572262792848,
+            "dịch vụ": 0.976090663461946,
+            "dịch vụ mát-xa": 0.4230950493365526,
+            "dịch vụ ô": 0.9841922167688608,
+            "cơ sở vật chất": 0.9940164088620804,
+            "nội thất": 0.9873198472196236,
+            "kỹ năng": 0.9953691437258385,
+            "massage": 0.9951579090557061,
+            "mùi hương": 0.9951518810121343,
+            "vệ sinh": 0.9699390899622813
+        },
+        "dicts_adj": {
+            "hội an": [
+                "vui"
+            ],
+            "nhân viên mát-xa rất tốt": [],
+            "nhân viên": [
+                "nhỏ",
+                "tốt",
+                "tốt"
+            ],
+            "tầm vóc": [
+                "nhỏ"
+            ],
+            "sức tay": [
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "tốt"
+            ],
+            "tòa nhà": [
+                "mát mẻ",
+                "đẹp",
+                "sạch sẽ"
+            ],
+            "dịch vụ": [
+                "tốt"
+            ],
+            "dịch vụ mát-xa": [
+                "tốt",
+                "hài lòng"
+            ],
+            "dịch vụ ô": [
+                "thoải mái"
+            ],
+            "cơ sở vật chất": [
+                "tốt"
+            ],
+            "nội thất": [
+                "tốt"
+            ],
+            "kỹ năng": [
+                "tốt"
+            ],
+            "massage": [
+                "tốt"
+            ],
+            "mùi hương": [
+                "tốt"
+            ],
+            "vệ sinh": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hội an": 1,
+            "nhân viên mát-xa rất tốt": 1,
+            "nhân viên": 3,
+            "tầm vóc": 1,
+            "sức tay": 1,
+            "trải nghiệm": 1,
+            "tòa nhà": 1,
+            "dịch vụ": 1,
+            "dịch vụ mát-xa": 1,
+            "dịch vụ ô": 1,
+            "cơ sở vật chất": 1,
+            "nội thất": 1,
+            "kỹ năng": 1,
+            "massage": 1,
+            "mùi hương": 1,
+            "vệ sinh": 1
+        }
     }
 ]

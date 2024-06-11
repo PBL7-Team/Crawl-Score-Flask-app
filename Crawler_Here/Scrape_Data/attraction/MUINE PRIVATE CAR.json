@@ -82,7 +82,179 @@
             "https://www.tripadvisor.com/Attraction_Review-g32544-d13955290-Reviews-Joshua_Tree_National_Park-Joshua_Tree_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g1009804-d19857510-Reviews-or10-MUINE_PRIVATE_CAR-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d19857510-Reviews-MUINE_PRIVATE_CAR-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d19857510-Reviews-MUINE_PRIVATE_CAR-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chỗ": 0.5902087241411209,
+            "dịch vụ": 0.9031891318848536,
+            "nha trang": 0.5,
+            "chuyến đi": 0.34763166061990586,
+            "giá cả": 0.9956017620570492,
+            "xe": -0.9683551290072501,
+            "trải nghiệm": 0.4047406485343042,
+            "người lái xe": 0.04934663426441451,
+            "an ninh": 0.43158601224422455,
+            "dịch vụ xe riêng": -0.15459741628728807,
+            "ăn trưa": 0.5,
+            "vài": 0.5,
+            "trái xoài": 0.5,
+            "khách sạn": 0.5,
+            "chuyến vận chuyển": 0.5657994756475091,
+            "chuyển tiền": 0.9953247600933537,
+            "trình": 0.9946425449452363,
+            "lái xe": 0.8698774665826932,
+            "hành trình": 0.9952113548060879,
+            "trẻ em": 0.8773074753989931,
+            "dịch vụ vận chuyển": 0.5077701231639367,
+            "báo giá": 0.8737691454589367,
+            "dịch vụ xe thuê": -0.9682578769279644,
+            "dịch vụ xe mũi": 0.5119457617402077,
+            "núi": -0.8372754682786763,
+            "khách hàng": 0.995534707501065
+        },
+        "dicts_adj": {
+            "chỗ": [
+                "lân cận"
+            ],
+            "dịch vụ": [
+                "cao",
+                "tuyệt vời",
+                "nhiều",
+                "chắc chắn",
+                "tốt",
+                "hơn",
+                "khác",
+                "tuyệt vời"
+            ],
+            "nha trang": [],
+            "chuyến đi": [
+                "tuyệt vời",
+                "thực sự",
+                "an toàn",
+                "suốt",
+                "thư giãn",
+                "thú vị"
+            ],
+            "giá cả": [
+                "tuyệt anh",
+                "hợp lý",
+                "hợp lý",
+                "vui"
+            ],
+            "xe": [
+                "tồi tệ"
+            ],
+            "trải nghiệm": [
+                "tồi tệ",
+                "hạnh phúc",
+                "tuyệt vời",
+                "vui vẻ",
+                "hài lòng",
+                "tốt"
+            ],
+            "người lái xe": [
+                "đầu tiên",
+                "to",
+                "quen thuộc",
+                "nhất",
+                "nhiều",
+                "thú vị",
+                "suốt",
+                "xuất sắc",
+                "an toàn",
+                "thoải mái",
+                "sạch sẽ",
+                "cần thiết",
+                "nóng",
+                "đủ",
+                "cao"
+            ],
+            "an ninh": [
+                "đầu tiên"
+            ],
+            "dịch vụ xe riêng": [
+                "cao"
+            ],
+            "ăn trưa": [],
+            "vài": [],
+            "trái xoài": [],
+            "khách sạn": [],
+            "chuyến vận chuyển": [
+                "khác"
+            ],
+            "chuyển tiền": [
+                "nhanh"
+            ],
+            "trình": [
+                "hoàn hảo"
+            ],
+            "lái xe": [
+                "thận trọng",
+                "hơn",
+                "đúng",
+                "sạch sẽ",
+                "tốt",
+                "cẩn thận"
+            ],
+            "hành trình": [
+                "cuối cùng",
+                "sớm",
+                "tốt",
+                "cùng"
+            ],
+            "trẻ em": [
+                "khác",
+                "đúng",
+                "tốt",
+                "tốt"
+            ],
+            "dịch vụ vận chuyển": [
+                "khác",
+                "đúng",
+                "tốt",
+                "tốt"
+            ],
+            "báo giá": [
+                "tốt"
+            ],
+            "dịch vụ xe thuê": [
+                "khác"
+            ],
+            "dịch vụ xe mũi": [],
+            "núi": [],
+            "khách hàng": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chỗ": 1.5,
+            "dịch vụ": 6.5,
+            "nha trang": 1.5,
+            "chuyến đi": 4.5,
+            "giá cả": 3.0,
+            "xe": 1.5,
+            "trải nghiệm": 5.0,
+            "người lái xe": 4.5,
+            "an ninh": 1.5,
+            "dịch vụ xe riêng": 1.5,
+            "ăn trưa": 1.5,
+            "vài": 1.5,
+            "trái xoài": 1.5,
+            "khách sạn": 1.5,
+            "chuyến vận chuyển": 1.5,
+            "chuyển tiền": 1.5,
+            "trình": 1.5,
+            "lái xe": 1.5,
+            "hành trình": 1.5,
+            "trẻ em": 1.5,
+            "dịch vụ vận chuyển": 1.5,
+            "báo giá": 1,
+            "dịch vụ xe thuê": 1,
+            "dịch vụ xe mũi": 1,
+            "núi": 1,
+            "khách hàng": 1
+        }
     },
     {
         "attraction_name": "MUINE PRIVATE CAR",
@@ -169,7 +341,208 @@
             "https://www.tripadvisor.com/Attraction_Review-g297884-d1372972-Reviews-Jagalchi_Market-Busan.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g1009804-d19857510-Reviews-or20-MUINE_PRIVATE_CAR-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d19857510-Reviews-or10-MUINE_PRIVATE_CAR-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d19857510-Reviews-or10-MUINE_PRIVATE_CAR-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cảng rạch": -0.9603700719308108,
+            "giá": 0.441446287848521,
+            "chuyến đi": 0.8704765868678805,
+            "lái xe": 0.965237033640733,
+            "con": 0.5,
+            "tàu du lịch": 0.5,
+            "tour du lịch": 0.7468183934688568,
+            "trình điều": 0.9250256472732872,
+            "cảng du lịch": 0.9170610413420945,
+            "chuyến tham quan thành phố": 0.9955286433687434,
+            "đồ ăn": 0.9954343998688273,
+            "tâm -": 0.8737691454589367,
+            "chuyến tham quan": 0.5,
+            "dịch vụ": 0.951788454859828,
+            "xe": 0.8811288704018807,
+            "chất lượng": 0.9954844518215396,
+            "người lái xe": 0.9939121354545932,
+            "hồ tràm": 0.8737691454589367,
+            "trải nghiệm": 0.6868845727294683,
+            "visa": 0.5,
+            "biên": 0.6559432679787278,
+            "phí ẩn": 0.5,
+            "dịch vụ xe tư": -0.9649324452038854,
+            "chai nước": 0.9870439511723816,
+            "dịch vụ xe hơi": 0.5,
+            "giá cả": 0.5,
+            "trẻ em": 0.9947573596728034,
+            "xe tư nhân": 0.9952770703239366,
+            "dịch vụ vận chuyển": 0.5,
+            "mũi": 0.8737691454589367,
+            "giao thông": 0.9943572821794078,
+            "chuyển giao": 0.8737691454589367,
+            "điểm dừng": 0.6002785032615066,
+            "phòng": 0.9944467225577682,
+            "sân bay": 0.5318704638630152,
+            "xe riêng": 0.5,
+            "phí": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "cảng rạch": [
+                "khoảng"
+            ],
+            "giá": [
+                "lớn",
+                "tốt",
+                "cố định",
+                "tốt"
+            ],
+            "chuyến đi": [
+                "đúng",
+                "sạch đẹp",
+                "thực sự",
+                "suôn sẻ",
+                "an toàn"
+            ],
+            "lái xe": [
+                "đúng",
+                "sạch đẹp"
+            ],
+            "con": [],
+            "tàu du lịch": [],
+            "tour du lịch": [
+                "riêng"
+            ],
+            "trình điều": [
+                "khác",
+                "xuất sắc"
+            ],
+            "cảng du lịch": [
+                "đúng",
+                "đúng"
+            ],
+            "chuyến tham quan thành phố": [
+                "Đặc biệt",
+                "tuyệt vời",
+                "hữu ích",
+                "nhiệt tình"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "tâm -": [
+                "dễ dàng"
+            ],
+            "chuyến tham quan": [],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "chắc chắn"
+            ],
+            "xe": [
+                "tuyệt vời",
+                "dễ dàng",
+                "chính xác",
+                "an toàn",
+                "đẹp",
+                "sạch sẽ",
+                "thoải mái",
+                "chuyên nghiệp"
+            ],
+            "chất lượng": [
+                "tuyệt vời"
+            ],
+            "người lái xe": [
+                "chuyên nghiệp",
+                "xuất sắc",
+                "tốt",
+                "chuyên nghiệp",
+                "an toàn"
+            ],
+            "hồ tràm": [
+                "riêng"
+            ],
+            "trải nghiệm": [
+                "tốt",
+                "thực sự"
+            ],
+            "visa": [],
+            "biên": [
+                "thực sự"
+            ],
+            "phí ẩn": [],
+            "dịch vụ xe tư": [
+                "cao"
+            ],
+            "chai nước": [],
+            "dịch vụ xe hơi": [],
+            "giá cả": [],
+            "trẻ em": [
+                "tuyệt nếu",
+                "sẵn"
+            ],
+            "xe tư nhân": [
+                "liên tục"
+            ],
+            "dịch vụ vận chuyển": [],
+            "mũi": [
+                "nhiều"
+            ],
+            "giao thông": [
+                "đầu tiên",
+                "đúng",
+                "thành thạo",
+                "đông đúc",
+                "tuyệt vời"
+            ],
+            "chuyển giao": [
+                "tốt"
+            ],
+            "điểm dừng": [],
+            "phòng": [
+                "hiệu quả"
+            ],
+            "sân bay": [],
+            "xe riêng": [],
+            "phí": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cảng rạch": 1,
+            "giá": 4,
+            "chuyến đi": 4,
+            "lái xe": 1,
+            "con": 1,
+            "tàu du lịch": 1,
+            "tour du lịch": 1,
+            "trình điều": 1,
+            "cảng du lịch": 1,
+            "chuyến tham quan thành phố": 1,
+            "đồ ăn": 1,
+            "tâm -": 1,
+            "chuyến tham quan": 1,
+            "dịch vụ": 3,
+            "xe": 4,
+            "chất lượng": 1,
+            "người lái xe": 2,
+            "hồ tràm": 1,
+            "trải nghiệm": 2,
+            "visa": 1,
+            "biên": 1,
+            "phí ẩn": 1,
+            "dịch vụ xe tư": 1,
+            "chai nước": 1,
+            "dịch vụ xe hơi": 1,
+            "giá cả": 1,
+            "trẻ em": 1,
+            "xe tư nhân": 1,
+            "dịch vụ vận chuyển": 1,
+            "mũi": 1,
+            "giao thông": 1,
+            "chuyển giao": 1,
+            "điểm dừng": 1,
+            "phòng": 1,
+            "sân bay": 1,
+            "xe riêng": 1,
+            "phí": 1
+        }
     },
     {
         "attraction_name": "MUINE PRIVATE CAR",
@@ -257,7 +630,154 @@
             "https://www.tripadvisor.com/Attraction_Review-g60864-d7719882-Reviews-Mahogany_Jazz_Hall-New_Orleans_Louisiana.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g1009804-d19857510-Reviews-or30-MUINE_PRIVATE_CAR-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d19857510-Reviews-or20-MUINE_PRIVATE_CAR-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d19857510-Reviews-or20-MUINE_PRIVATE_CAR-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tâm": 0.9929526800988242,
+            "chuyến đi": 0.8399803833744954,
+            "hành trình": 0.369650254258886,
+            "lái xe": 0.5466939061880112,
+            "giá": 0.9622583934105933,
+            "dịch vụ": 0.9013853378017389,
+            "đặt xe": 0.5,
+            "khách sạn": 0.5,
+            "suv": 0.9346793933364097,
+            "giá cả": 0.9285589280965117,
+            "sân bay quốc tế": 0.5,
+            "trà": 0.8737691454589367,
+            "vinh": 0.8737691454589367,
+            "điểm dừng tham": 0.9954277701908723,
+            "rạch giá": 0.8737691454589367,
+            "xe": 0.9955901060020551,
+            "hãng lữ hành": 0.44588958472013474,
+            "dịch vụ xe riêng": -0.9266791553236544,
+            "chuyến đi xe jeep": 0.9940365933580324,
+            "chuyến tham quan": 0.5,
+            "cồn cát trắng": 0.5,
+            "cồn cát đỏ làng chài": 0.5,
+            "suối tiên": 0.8737691454589367,
+            "trình điều khiển": 0.9887792919180356
+        },
+        "dicts_adj": {
+            "tâm": [
+                "nhanh chóng",
+                "kịp thời"
+            ],
+            "chuyến đi": [
+                "thú vị",
+                "suôn sẻ",
+                "thoải mái"
+            ],
+            "hành trình": [
+                "phức tạp",
+                "đúng",
+                "nhanh chóng",
+                "Thực sự",
+                "rõ ràng",
+                "cũ",
+                "dài",
+                "hơn",
+                "dài",
+                "hơn"
+            ],
+            "lái xe": [
+                "an toàn",
+                "khó chịu"
+            ],
+            "giá": [
+                "thoải mái",
+                "sang trọng"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "cẩn thận",
+                "đúng",
+                "cao",
+                "tuyệt vời",
+                "tốt",
+                "ấn tượng",
+                "đủ",
+                "vui",
+                "chuyên nghiệp",
+                "tốt"
+            ],
+            "đặt xe": [],
+            "khách sạn": [],
+            "suv": [
+                "an toàn",
+                "đẹp",
+                "thoải mái",
+                "minh bạch"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "minh bạch"
+            ],
+            "sân bay quốc tế": [],
+            "trà": [
+                "đầu tiên"
+            ],
+            "vinh": [
+                "đầu tiên",
+                "tuyệt vời"
+            ],
+            "điểm dừng tham": [
+                "tuyệt vời"
+            ],
+            "rạch giá": [
+                "tuyệt vời"
+            ],
+            "xe": [
+                "sạch sẽ",
+                "tốt bụng"
+            ],
+            "hãng lữ hành": [
+                "Nhiều"
+            ],
+            "dịch vụ xe riêng": [],
+            "chuyến đi xe jeep": [
+                "thú vị",
+                "cùng"
+            ],
+            "chuyến tham quan": [],
+            "cồn cát trắng": [],
+            "cồn cát đỏ làng chài": [],
+            "suối tiên": [
+                "thú vị",
+                "cùng"
+            ],
+            "trình điều khiển": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tâm": 1,
+            "chuyến đi": 2,
+            "hành trình": 2,
+            "lái xe": 1,
+            "giá": 1,
+            "dịch vụ": 7,
+            "đặt xe": 1,
+            "khách sạn": 1,
+            "suv": 2,
+            "giá cả": 3,
+            "sân bay quốc tế": 1,
+            "trà": 1,
+            "vinh": 1,
+            "điểm dừng tham": 1,
+            "rạch giá": 1,
+            "xe": 1,
+            "hãng lữ hành": 1,
+            "dịch vụ xe riêng": 1,
+            "chuyến đi xe jeep": 1,
+            "chuyến tham quan": 1,
+            "cồn cát trắng": 1,
+            "cồn cát đỏ làng chài": 1,
+            "suối tiên": 1,
+            "trình điều khiển": 1
+        }
     },
     {
         "attraction_name": "MUINE PRIVATE CAR",
@@ -345,7 +865,150 @@
             "https://www.tripadvisor.com/Attraction_Review-g293916-d1949569-Reviews-Siam_AMAZING_Park-Bangkok.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g1009804-d19857510-Reviews-or40-MUINE_PRIVATE_CAR-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d19857510-Reviews-or30-MUINE_PRIVATE_CAR-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d19857510-Reviews-or30-MUINE_PRIVATE_CAR-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ thuê xe tư": 0.9828387693269178,
+            "chuyến đi": 0.8545635759015567,
+            "địa điểm": 0.7510055294842459,
+            "kỹ năng lái xe": 0.9953310004202649,
+            "xe": 0.6456047975807451,
+            "dịch vụ": 0.9723508761630261,
+            "người": 0.9953890339238569,
+            "đối phó": 0.5,
+            "lái xe": 0.9913039135280997,
+            "thú": 0.5,
+            "điểm dừng": 0.4998456444591284,
+            "chú chó cưng": 0.5,
+            "giá cả": 0.9955069270799868,
+            "phương tiện đi lại": 0.9570970134809613,
+            "truy": 0.995442355691921,
+            "chuyến thăm": 0.9675825028680265,
+            "chuyến tham quan": 0.5621875356882811,
+            "hành trình": 0.5,
+            "thắc": 0.98135681822896,
+            "trải nghiệm": 0.9955929322168231,
+            "giá": 0.9840492127696052,
+            "chính hãng": 0.9926333596231416,
+            "người lái xe": 0.8737691454589367,
+            "áo khoác": 0.5
+        },
+        "dicts_adj": {
+            "dịch vụ thuê xe tư": [
+                "tốt"
+            ],
+            "chuyến đi": [
+                "thông thường",
+                "đẹp",
+                "an toàn",
+                "đúng",
+                "khác",
+                "khác",
+                "tuyệt vời",
+                "riêng biệt",
+                "hữu ích"
+            ],
+            "địa điểm": [
+                "đẹp",
+                "suốt"
+            ],
+            "kỹ năng lái xe": [
+                "an toàn",
+                "cao",
+                "dài"
+            ],
+            "xe": [
+                "tốt",
+                "sạch sẽ",
+                "giỏi",
+                "thoải mái"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "nhanh",
+                "an toàn",
+                "đầu tiên",
+                "tuyệt vời",
+                "tốt",
+                "thực sự",
+                "rực rỡ"
+            ],
+            "người": [
+                "tuyệt vời"
+            ],
+            "đối phó": [],
+            "lái xe": [
+                "an toàn"
+            ],
+            "thú": [],
+            "điểm dừng": [
+                "thường xuyên"
+            ],
+            "chú chó cưng": [],
+            "giá cả": [
+                "tuyệt vời"
+            ],
+            "phương tiện đi lại": [
+                "Chắc chắn",
+                "riêng"
+            ],
+            "truy": [
+                "Thực sự",
+                "nhanh chóng",
+                "nhanh chóng"
+            ],
+            "chuyến thăm": [],
+            "chuyến tham quan": [
+                "cơ bản"
+            ],
+            "hành trình": [],
+            "thắc": [
+                "nhiều",
+                "ân cần",
+                "dễ"
+            ],
+            "trải nghiệm": [
+                "thoải mái",
+                "an toàn",
+                "thú vị"
+            ],
+            "giá": [
+                "tốt"
+            ],
+            "chính hãng": [],
+            "người lái xe": [
+                "an toàn",
+                "tuyệt vời"
+            ],
+            "áo khoác": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ thuê xe tư": 1,
+            "chuyến đi": 5,
+            "địa điểm": 1,
+            "kỹ năng lái xe": 1,
+            "xe": 3,
+            "dịch vụ": 7,
+            "người": 1,
+            "đối phó": 1,
+            "lái xe": 1,
+            "thú": 1,
+            "điểm dừng": 1,
+            "chú chó cưng": 1,
+            "giá cả": 1,
+            "phương tiện đi lại": 1,
+            "truy": 1,
+            "chuyến thăm": 1,
+            "chuyến tham quan": 1,
+            "hành trình": 1,
+            "thắc": 1,
+            "trải nghiệm": 1,
+            "giá": 1,
+            "chính hãng": 1,
+            "người lái xe": 1,
+            "áo khoác": 1
+        }
     },
     {
         "attraction_name": "MUINE PRIVATE CAR",
@@ -440,7 +1103,102 @@
             "https://www.tripadvisor.com/Attraction_Review-g46217-d2641297-Reviews-Jenness_State_Beach-Rye_Beach_New_Hampshire.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g1009804-d19857510-Reviews-or50-MUINE_PRIVATE_CAR-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d19857510-Reviews-or40-MUINE_PRIVATE_CAR-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d19857510-Reviews-or40-MUINE_PRIVATE_CAR-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.5698717861087061,
+            "giá": 0.9866329921642318,
+            "chuyến đi": 0.8023048888426274,
+            "xe": 0.6964268641895615,
+            "dịch vụ xe": 0.8890006333240308,
+            "khách hàng": 0.9956067998427898,
+            "hành trình": 0.5637114830315113,
+            "chuyện": 0.9872317214030772,
+            "lái xe": 0.9100277416873723,
+            "phí ẩn": 0.4830361679196358,
+            "dịch vụ xe riêng": 0.9889497816329822,
+            "giá cả": 0.8737691454589367,
+            "đường sá": 0.5,
+            "chủ sở": -0.9338406107854098,
+            "com": 0.6150951571762562
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "gần",
+                "vui",
+                "riêng"
+            ],
+            "giá": [
+                "cạnh tranh",
+                "thoải mái"
+            ],
+            "chuyến đi": [
+                "riêng",
+                "rắc rối",
+                "gần"
+            ],
+            "xe": [
+                "đúng",
+                "sạch sẽ",
+                "thoải mái",
+                "dài",
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "dịch vụ xe": [
+                "riêng",
+                "riêng",
+                "vui",
+                "vui",
+                "hài lòng"
+            ],
+            "khách hàng": [
+                "vui",
+                "tuyệt vời"
+            ],
+            "hành trình": [
+                "dài"
+            ],
+            "chuyện": [
+                "hữu ích"
+            ],
+            "lái xe": [
+                "đúng"
+            ],
+            "phí ẩn": [],
+            "dịch vụ xe riêng": [
+                "nhiều"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "đường sá": [],
+            "chủ sở": [
+                "thường xuyên",
+                "chi tiết"
+            ],
+            "com": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 5.0,
+            "giá": 2,
+            "chuyến đi": 4,
+            "xe": 2.5,
+            "dịch vụ xe": 2.5,
+            "khách hàng": 1,
+            "hành trình": 1,
+            "chuyện": 1,
+            "lái xe": 1,
+            "phí ẩn": 1,
+            "dịch vụ xe riêng": 1,
+            "giá cả": 1,
+            "đường sá": 1,
+            "chủ sở": 1,
+            "com": 1.0
+        }
     },
     {
         "attraction_name": "MUINE PRIVATE CAR",
@@ -538,7 +1296,114 @@
             "https://www.tripadvisor.com/Attraction_Review-g155987-d156923-Reviews-Heavenly_Mountain_Resort-Lake_Tahoe_California_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g1009804-d19857510-Reviews-or60-MUINE_PRIVATE_CAR-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d19857510-Reviews-or50-MUINE_PRIVATE_CAR-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d19857510-Reviews-or50-MUINE_PRIVATE_CAR-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến thăm": 0.9955131412716582,
+            "ứng dụng": 0.5,
+            "khách sạn": 0.5,
+            "nha trang": 0.5,
+            "nhận hàng": 0.9932295797625557,
+            "xe": 0.7477057378855534,
+            "người lái xe": 0.9879076509387232,
+            "giá": 0.9881376380217262,
+            "com": 0.4924375172704458,
+            "dịch vụ": 0.9938430440306547,
+            "dịch vụ xe riêng": 0.9947126567712985,
+            "trải nghiệm": 0.995170631678775,
+            "chỗ": 0.5052557848393917,
+            "khoa": 0.6124946977943182,
+            "chuyến đi": 0.9911545258655678,
+            "thái độ lái xe": 0.5,
+            "sân bay": 0.9953456909279339,
+            "chuyến khứ hồi": 0.9940558628877625,
+            "vũng tàu": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "chuyến thăm": [
+                "tuyệt vời"
+            ],
+            "ứng dụng": [],
+            "khách sạn": [],
+            "nha trang": [],
+            "nhận hàng": [
+                "tuyệt vời",
+                "linh hoạt"
+            ],
+            "xe": [
+                "tốt",
+                "tốt",
+                "nhanh"
+            ],
+            "người lái xe": [
+                "an toàn"
+            ],
+            "giá": [
+                "tốt",
+                "tuyệt vời"
+            ],
+            "com": [],
+            "dịch vụ": [
+                "chuyên nghiệp",
+                "vui",
+                "riêng",
+                "tích cực",
+                "vui",
+                "hài lòng",
+                "đặc biệt",
+                "tuyệt vời",
+                "yên tâm"
+            ],
+            "dịch vụ xe riêng": [
+                "nhiều"
+            ],
+            "trải nghiệm": [
+                "vui",
+                "thú vị"
+            ],
+            "chỗ": [
+                "nhiều",
+                "hơn"
+            ],
+            "khoa": [],
+            "chuyến đi": [
+                "hân hạnh",
+                "Dễ dàng"
+            ],
+            "thái độ lái xe": [],
+            "sân bay": [
+                "vui",
+                "cùng"
+            ],
+            "chuyến khứ hồi": [
+                "tuyệt vời"
+            ],
+            "vũng tàu": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến thăm": 0.5,
+            "ứng dụng": 0.5,
+            "khách sạn": 0.5,
+            "nha trang": 0.5,
+            "nhận hàng": 0.5,
+            "xe": 1.0,
+            "người lái xe": 0.5,
+            "giá": 0.5,
+            "com": 2.0,
+            "dịch vụ": 2.0,
+            "dịch vụ xe riêng": 0.5,
+            "trải nghiệm": 0.5,
+            "chỗ": 0.5,
+            "khoa": 0.5,
+            "chuyến đi": 1.0,
+            "thái độ lái xe": 0.5,
+            "sân bay": 0.5,
+            "chuyến khứ hồi": 0.5,
+            "vũng tàu": 0.5
+        }
     },
     {
         "attraction_name": "MUINE PRIVATE CAR",
@@ -628,7 +1493,119 @@
             "https://www.tripadvisor.com/Attraction_Review-g33667-d8624202-Reviews-Alta_Lakes-Telluride_Colorado.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g1009804-d19857510-Reviews-or70-MUINE_PRIVATE_CAR-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d19857510-Reviews-or60-MUINE_PRIVATE_CAR-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d19857510-Reviews-or60-MUINE_PRIVATE_CAR-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9609599138222013,
+            "vali": 0.5502667082473636,
+            "vật dụng": -0.9702266923850402,
+            "người lái xe": 0.9827461682725698,
+            "dịch vụ": 0.6909116817082072,
+            "lái xe": 0.9346614296082407,
+            "giá cả": 0.9952142796246335,
+            "thác voi": 0.9916619433788583,
+            "người trung": 0.836958193879885,
+            "khách sạn": 0.8654848802834749,
+            "xe": 0.9937921945238486,
+            "lướt sóng": 0.9947432009503245,
+            "giá": 0.9944873433560133,
+            "chiếc sedan": 0.9955767754581757
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "vui vẻ",
+                "suôn sẻ",
+                "thân thiện",
+                "an toàn",
+                "dễ chịu",
+                "thoải mái",
+                "an toàn",
+                "an toàn"
+            ],
+            "vali": [
+                "khác"
+            ],
+            "vật dụng": [
+                "khác"
+            ],
+            "người lái xe": [
+                "lịch sự",
+                "hữu ích"
+            ],
+            "dịch vụ": [
+                "Chắc chắn",
+                "tốt",
+                "tương tự",
+                "tương tự",
+                "nhiều",
+                "tuyệt vời",
+                "nhanh",
+                "tốt",
+                "kín đáo",
+                "cẩn thận",
+                "đúng",
+                "nhanh",
+                "khác",
+                "nghiêm túc"
+            ],
+            "lái xe": [
+                "đúng",
+                "đúng",
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "tốt"
+            ],
+            "thác voi": [],
+            "người trung": [
+                "trung thực",
+                "cẩn thận",
+                "đặc biệt"
+            ],
+            "khách sạn": [
+                "riêng",
+                "đúng"
+            ],
+            "xe": [
+                "to",
+                "sạch sẽ",
+                "to",
+                "sạch sẽ"
+            ],
+            "lướt sóng": [
+                "thoải mái",
+                "tốt",
+                "dễ dàng",
+                "thoải mái",
+                "tốt",
+                "dễ dàng"
+            ],
+            "giá": [
+                "tốt",
+                "tốt"
+            ],
+            "chiếc sedan": [
+                "hoàn hảo",
+                "thân thiện"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 2.5,
+            "vali": 0.5,
+            "vật dụng": 0.5,
+            "người lái xe": 0.5,
+            "dịch vụ": 4.5,
+            "lái xe": 1.0,
+            "giá cả": 0.5,
+            "thác voi": 0.5,
+            "người trung": 0.5,
+            "khách sạn": 0.5,
+            "xe": 1.0,
+            "lướt sóng": 1.0,
+            "giá": 1.0,
+            "chiếc sedan": 0.5
+        }
     },
     {
         "attraction_name": "MUINE PRIVATE CAR",
@@ -701,6 +1678,47 @@
             "https://www.tripadvisor.com/Attraction_Review-g298298-d8650778-Reviews-Gerbang_Malam-Ipoh_Kinta_District_Perak.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d19857510-Reviews-or70-MUINE_PRIVATE_CAR-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d19857510-Reviews-or70-MUINE_PRIVATE_CAR-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hành trình": 0.5637114830315113,
+            "nha trang": 0.8737691454589367,
+            "xe": 0.5236443765461445,
+            "bức thư": -0.2319951675599441,
+            "cho tan": 0.8737691454589367,
+            "chuyến đi": 0.9922088327002712,
+            "giờ nghỉ": 0.5,
+            "nhà ga sân bay": 0.5
+        },
+        "dicts_adj": {
+            "hành trình": [
+                "dài"
+            ],
+            "nha trang": [
+                "dài"
+            ],
+            "xe": [],
+            "bức thư": [
+                "thân mật",
+                "hài lòng"
+            ],
+            "cho tan": [
+                "khó khăn"
+            ],
+            "chuyến đi": [],
+            "giờ nghỉ": [],
+            "nhà ga sân bay": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hành trình": 1,
+            "nha trang": 1,
+            "xe": 1,
+            "bức thư": 1,
+            "cho tan": 1,
+            "chuyến đi": 1.5,
+            "giờ nghỉ": 1.5,
+            "nhà ga sân bay": 1.5
+        }
     }
 ]

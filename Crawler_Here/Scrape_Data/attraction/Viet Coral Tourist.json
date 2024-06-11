@@ -81,7 +81,166 @@
             "https://www.tripadvisor.com/Attraction_Review-g298307-d457122-Reviews-Tunku_Abdul_Rahman_Marine_Park-Kota_Kinabalu_Kota_Kinabalu_District_West_Coast_Div.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293928-d6537480-Reviews-or10-Viet_Coral_Tourist-Nha_Trang_Khanh_Hoa_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d6537480-Reviews-Viet_Coral_Tourist-Nha_Trang_Khanh_Hoa_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d6537480-Reviews-Viet_Coral_Tourist-Nha_Trang_Khanh_Hoa_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cho thuê xe tay ga": 0.9953516679815948,
+            "xe tay ga": 0.9465787384348612,
+            "khách sạn": 0.6050252466113306,
+            "dịch vụ": 0.9452487253729487,
+            "khách hàng": 0.9954740611719899,
+            "chuyến đi": 0.9944934960221872,
+            "trải nghiệm": 0.9946281315642409,
+            "hệ thống phanh": 0.9424611097201705,
+            "xe đạp": 0.9938542970048729,
+            "xe": 0.64489287417382,
+            "cửa hàng": 0.559734764508903,
+            "trả xe": 0.5,
+            "chủ sở hữu": 0.9857014928711578,
+            "giá cả": 0.7576949170907028,
+            "họ rửa xe bơm lốp": 0.5081421509385109,
+            "xe máy": 0.9948602316144388,
+            "lễ thiêng": 0.9310201331973076,
+            "mô": 0.5345372669398785,
+            "túi": 0.5389169324189425,
+            "chuyến xe buýt": 0.5,
+            "chuyến bay": 0.5,
+            "văn phòng": 0.6092578917741776,
+            "hành lý": 0.995509457308799,
+            "du lịch san": 0.9955928439158015,
+            "bến xe buýt": -0.9336394590791315,
+            "xe buýt": -0.9678030947688967
+        },
+        "dicts_adj": {
+            "cho thuê xe tay ga": [
+                "tuyệt vời"
+            ],
+            "xe tay ga": [
+                "tuyệt vời",
+                "dễ dàng",
+                "tuyệt vời",
+                "thực sự",
+                "chắc chắn",
+                "bất kỳ"
+            ],
+            "khách sạn": [
+                "tuyệt vời",
+                "hoàn hảo",
+                "gần"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tốt",
+                "tốt",
+                "khắp",
+                "tốt",
+                "khắp"
+            ],
+            "khách hàng": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "nhỏ",
+                "hữu ích",
+                "vui"
+            ],
+            "trải nghiệm": [
+                "thú vị",
+                "tốt"
+            ],
+            "hệ thống phanh": [
+                "cùng",
+                "tốt",
+                "đặc biệt"
+            ],
+            "xe đạp": [
+                "tốt",
+                "đơn giản",
+                "dễ dàng",
+                "tốt",
+                "hữu ích"
+            ],
+            "xe": [
+                "trung bình"
+            ],
+            "cửa hàng": [
+                "đầy",
+                "khó",
+                "nhỏ",
+                "hữu ích"
+            ],
+            "trả xe": [],
+            "chủ sở hữu": [
+                "thân thiện"
+            ],
+            "giá cả": [
+                "chuyên nghiệp",
+                "hợp lý"
+            ],
+            "họ rửa xe bơm lốp": [],
+            "xe máy": [
+                "tốt",
+                "hoàn toàn",
+                "hài lòng",
+                "sạch sẽ",
+                "an toàn"
+            ],
+            "lễ thiêng": [
+                "thiêng liêng"
+            ],
+            "mô": [
+                "gần"
+            ],
+            "túi": [
+                "suốt"
+            ],
+            "chuyến xe buýt": [],
+            "chuyến bay": [],
+            "văn phòng": [],
+            "hành lý": [
+                "hoàn hảo",
+                "cùng"
+            ],
+            "du lịch san": [
+                "nhiều"
+            ],
+            "bến xe buýt": [
+                "muộn"
+            ],
+            "xe buýt": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cho thuê xe tay ga": 2,
+            "xe tay ga": 3.5,
+            "khách sạn": 2.5,
+            "dịch vụ": 4.0,
+            "khách hàng": 2,
+            "chuyến đi": 2.0,
+            "trải nghiệm": 0.5,
+            "hệ thống phanh": 0.5,
+            "xe đạp": 1.0,
+            "xe": 0.5,
+            "cửa hàng": 1.0,
+            "trả xe": 0.5,
+            "chủ sở hữu": 0.5,
+            "giá cả": 1.0,
+            "họ rửa xe bơm lốp": 0.5,
+            "xe máy": 1.0,
+            "lễ thiêng": 0.5,
+            "mô": 0.5,
+            "túi": 0.5,
+            "chuyến xe buýt": 0.5,
+            "chuyến bay": 0.5,
+            "văn phòng": 0.5,
+            "hành lý": 0.5,
+            "du lịch san": 0.5,
+            "bến xe buýt": 0.5,
+            "xe buýt": 0.5
+        }
     },
     {
         "attraction_name": "Viet Coral Tourist",
@@ -166,7 +325,190 @@
             "https://www.tripadvisor.com/Attraction_Review-g51303-d117495-Reviews-Arbuckle_Wilderness-Davis_Oklahoma.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293928-d6537480-Reviews-or20-Viet_Coral_Tourist-Nha_Trang_Khanh_Hoa_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d6537480-Reviews-or10-Viet_Coral_Tourist-Nha_Trang_Khanh_Hoa_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d6537480-Reviews-or10-Viet_Coral_Tourist-Nha_Trang_Khanh_Hoa_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "xe máy": 0.6086001428271023,
+            "túi": 0.5237182341516018,
+            "khách sạn": 0.5,
+            "dịch vụ": 0.6102306872360511,
+            "nha trang": 0.561171617358923,
+            "xe đạp": 0.9336895237793215,
+            "mũ bảo hiểm": 0.5,
+            "người chủ": 0.5,
+            "vị trí": 0.8737691454589367,
+            "hoàng hoa": 0.8737691454589367,
+            "cửa hàng": 0.5007431358098984,
+            "câu cá": 0.5,
+            "hướng dẫn viên": 0.5,
+            "kỳ nghỉ": 0.745743450766895,
+            "đồ dùng": 0.943948682397604,
+            "phương tiện đi lại": 0.6119371652603149,
+            "bữa trưa": 0.9955757360439748,
+            "thuyền": 0.5,
+            "chuyến đi": 0.5,
+            "bánh": 0.8286400575113172,
+            "giá": 0.29130771826021373,
+            "doanh nghiệp": 0.9954879041470122,
+            "trung tâm": 0.5,
+            "xe tay ga": 0.9917707751737908,
+            "nhận hàng": 0.9955488769337535,
+            "tuần trăng mật": 0.9954432987724431,
+            "phòng vé": 0.7544986163266003,
+            "hướng": 0.9947093738010153,
+            "nhà hàng": 0.5,
+            "chợ địa phương": 0.5,
+            "cho": 0.5,
+            "chủ sở": 0.8737691454589367,
+            "hướng dẫn viên du lịch": 0.995075426530093,
+            "giá cả cạnh tranh": 0.9955723871826194,
+            "tour du lịch": -0.29466597735881805,
+            "chuyến du lịch": 0.9817236543167382
+        },
+        "dicts_adj": {
+            "xe máy": [
+                "tốt",
+                "suôn sẻ",
+                "tiện lợi",
+                "chuyên nghiệp",
+                "giống"
+            ],
+            "túi": [
+                "lớn"
+            ],
+            "khách sạn": [],
+            "dịch vụ": [
+                "thực sự",
+                "sẵn sàng",
+                "bình thường",
+                "giống",
+                "suôn sẻ",
+                "tiện lợi",
+                "chuyên nghiệp",
+                "tốt",
+                "nhanh",
+                "tuyệt vời",
+                "giống"
+            ],
+            "nha trang": [
+                "Cuối cùng"
+            ],
+            "xe đạp": [
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "mũ bảo hiểm": [],
+            "người chủ": [],
+            "vị trí": [
+                "khó",
+                "nhỏ"
+            ],
+            "hoàng hoa": [
+                "khó",
+                "nhỏ"
+            ],
+            "cửa hàng": [],
+            "câu cá": [],
+            "hướng dẫn viên": [],
+            "kỳ nghỉ": [
+                "chắc chắn",
+                "nổi bật"
+            ],
+            "đồ dùng": [
+                "cần thiết"
+            ],
+            "phương tiện đi lại": [
+                "cần thiết"
+            ],
+            "bữa trưa": [
+                "tuyệt vời"
+            ],
+            "thuyền": [],
+            "chuyến đi": [],
+            "bánh": [
+                "hơn"
+            ],
+            "giá": [
+                "cũ",
+                "cũ",
+                "thấp",
+                "hơn",
+                "hời"
+            ],
+            "doanh nghiệp": [
+                "tuyệt vời"
+            ],
+            "trung tâm": [],
+            "xe tay ga": [
+                "xinh xắn"
+            ],
+            "nhận hàng": [
+                "hơn"
+            ],
+            "tuần trăng mật": [
+                "hơn"
+            ],
+            "phòng vé": [],
+            "hướng": [
+                "hữu ích"
+            ],
+            "nhà hàng": [],
+            "chợ địa phương": [],
+            "cho": [],
+            "chủ sở": [
+                "tốt"
+            ],
+            "hướng dẫn viên du lịch": [
+                "cẩn thận"
+            ],
+            "giá cả cạnh tranh": [
+                "tốt",
+                "hợp lý"
+            ],
+            "tour du lịch": [],
+            "chuyến du lịch": [
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "xe máy": 2.5,
+            "túi": 0.5,
+            "khách sạn": 2.5,
+            "dịch vụ": 3.0,
+            "nha trang": 1.5,
+            "xe đạp": 1.0,
+            "mũ bảo hiểm": 0.5,
+            "người chủ": 0.5,
+            "vị trí": 0.5,
+            "hoàng hoa": 0.5,
+            "cửa hàng": 0.5,
+            "câu cá": 0.5,
+            "hướng dẫn viên": 0.5,
+            "kỳ nghỉ": 1.0,
+            "đồ dùng": 0.5,
+            "phương tiện đi lại": 0.5,
+            "bữa trưa": 0.5,
+            "thuyền": 0.5,
+            "chuyến đi": 0.5,
+            "bánh": 1.5,
+            "giá": 1.5,
+            "doanh nghiệp": 0.5,
+            "trung tâm": 0.5,
+            "xe tay ga": 0.5,
+            "nhận hàng": 0.5,
+            "tuần trăng mật": 0.5,
+            "phòng vé": 0.5,
+            "hướng": 0.5,
+            "nhà hàng": 0.5,
+            "chợ địa phương": 0.5,
+            "cho": 0.5,
+            "chủ sở": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "giá cả cạnh tranh": 0.5,
+            "tour du lịch": 0.5,
+            "chuyến du lịch": 0.5
+        }
     },
     {
         "attraction_name": "Viet Coral Tourist",
@@ -252,7 +594,206 @@
             "https://www.tripadvisor.com/Attraction_Review-g295371-d3502333-Reviews-Cave_Bar_More-Dubrovnik_Dubrovnik_Neretva_County_Dalmatia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293928-d6537480-Reviews-or30-Viet_Coral_Tourist-Nha_Trang_Khanh_Hoa_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d6537480-Reviews-or20-Viet_Coral_Tourist-Nha_Trang_Khanh_Hoa_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d6537480-Reviews-or20-Viet_Coral_Tourist-Nha_Trang_Khanh_Hoa_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tour du lịch": 0.9108671611174941,
+            "văn hóa": 0.5,
+            "phong cảnh địa phương": 0.5,
+            "hướng dẫn viên": 0.9828935654780556,
+            "tour đi": 0.775192947126925,
+            "đất nước": 0.8737691454589367,
+            "thác nước": 0.8737691454589367,
+            "tour": 0.6780754158971831,
+            "kiến ​​thức": 0.9947877140948549,
+            "ngày": 0.8737691454589367,
+            "kiến ​​thức địa phương": 0.9941206134390086,
+            "chuyến tham quan": 0.8737691454589367,
+            "bãi biển du lịch": 0.5,
+            "lịch sử": 0.7137722037732601,
+            "địa điểm": 0.9345565138792153,
+            "nền văn hóa": 0.5,
+            "bùn đó": -0.8615897935815156,
+            "trải nghiệm": 0.6764714817982167,
+            "người mẹ": 0.9744821521453559,
+            "đảo": -0.9277705748099834,
+            "tour tham quan": 0.8737691454589367,
+            "dịch vụ": 0.7477942720870487,
+            "spa": 0.5,
+            "bánh từ": 0.5,
+            "khách sạn": 0.9951167057733983,
+            "nha": 0.3543803971260786,
+            "giá": 0.8154756091535091,
+            "xe tay ga": 0.5,
+            "dịch vụ hợp": 0.8794820317998528,
+            "cho": 0.5,
+            "người dân địa phương": 0.9898014174541458,
+            "không gian": 0.995478703523986,
+            "chuyến đi câu cá": 0.7621826532413252,
+            "lặn biển": 0.7558021559962071,
+            "thuyền": 0.7605171340110246,
+            "cảnh": 0.8737691454589367,
+            "hải sản": 0.9955670783529058,
+            "người hướng dẫn": 0.995387599337846,
+            "bữa hải sản": 0.995504183229059
+        },
+        "dicts_adj": {
+            "tour du lịch": [
+                "tuyệt vời",
+                "nhiều",
+                "khác"
+            ],
+            "văn hóa": [],
+            "phong cảnh địa phương": [],
+            "hướng dẫn viên": [
+                "tốt",
+                "sẵn sàng",
+                "giỏi",
+                "giỏi",
+                "chuyên nghiệp",
+                "tốt"
+            ],
+            "tour đi": [],
+            "đất nước": [
+                "đẹp",
+                "hữu ích",
+                "nhiều"
+            ],
+            "thác nước": [
+                "đẹp",
+                "hữu ích",
+                "nhiều"
+            ],
+            "tour": [
+                "thực sự"
+            ],
+            "kiến ​​thức": [
+                "Kiên nhẫn",
+                "tuyệt vời"
+            ],
+            "ngày": [
+                "tuyệt vời"
+            ],
+            "kiến ​​thức địa phương": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [
+                "phải"
+            ],
+            "bãi biển du lịch": [],
+            "lịch sử": [
+                "nhiều"
+            ],
+            "địa điểm": [
+                "thú vị",
+                "nhiều"
+            ],
+            "nền văn hóa": [],
+            "bùn đó": [
+                "thực sự"
+            ],
+            "trải nghiệm": [
+                "thực sự",
+                "nhiều",
+                "hơn"
+            ],
+            "người mẹ": [],
+            "đảo": [
+                "khác",
+                "khác"
+            ],
+            "tour tham quan": [
+                "khác"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "spa": [],
+            "bánh từ": [],
+            "khách sạn": [
+                "sâu sắc"
+            ],
+            "nha": [],
+            "giá": [],
+            "xe tay ga": [],
+            "dịch vụ hợp": [
+                "hợp pháp"
+            ],
+            "cho": [],
+            "người dân địa phương": [
+                "kiên nhẫn"
+            ],
+            "không gian": [
+                "kiên nhẫn"
+            ],
+            "chuyến đi câu cá": [
+                "riêng",
+                "tuyệt"
+            ],
+            "lặn biển": [
+                "riêng",
+                "tuyệt"
+            ],
+            "thuyền": [
+                "riêng",
+                "tuyệt"
+            ],
+            "cảnh": [
+                "đẹp"
+            ],
+            "hải sản": [
+                "ngon",
+                "ngon"
+            ],
+            "người hướng dẫn": [
+                "bất ngờ"
+            ],
+            "bữa hải sản": [
+                "ngon"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tour du lịch": 1.0,
+            "văn hóa": 0.5,
+            "phong cảnh địa phương": 0.5,
+            "hướng dẫn viên": 2.0,
+            "tour đi": 0.5,
+            "đất nước": 0.5,
+            "thác nước": 0.5,
+            "tour": 2.0,
+            "kiến ​​thức": 0.5,
+            "ngày": 0.5,
+            "kiến ​​thức địa phương": 0.5,
+            "chuyến tham quan": 0.5,
+            "bãi biển du lịch": 0.5,
+            "lịch sử": 0.5,
+            "địa điểm": 0.5,
+            "nền văn hóa": 0.5,
+            "bùn đó": 0.5,
+            "trải nghiệm": 1.5,
+            "người mẹ": 0.5,
+            "đảo": 0.5,
+            "tour tham quan": 0.5,
+            "dịch vụ": 1.0,
+            "spa": 0.5,
+            "bánh từ": 0.5,
+            "khách sạn": 0.5,
+            "nha": 0.5,
+            "giá": 0.5,
+            "xe tay ga": 0.5,
+            "dịch vụ hợp": 0.5,
+            "cho": 0.5,
+            "người dân địa phương": 0.5,
+            "không gian": 0.5,
+            "chuyến đi câu cá": 0.5,
+            "lặn biển": 0.5,
+            "thuyền": 0.5,
+            "cảnh": 0.5,
+            "hải sản": 0.5,
+            "người hướng dẫn": 0.5,
+            "bữa hải sản": 0.5
+        }
     },
     {
         "attraction_name": "Viet Coral Tourist",
@@ -339,6 +880,188 @@
             "https://www.tripadvisor.com/Attraction_Review-g1064376-d12676013-Reviews-Inca_Street_Market-Inca_Majorca_Balearic_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293928-d6537480-Reviews-or40-Viet_Coral_Tourist-Nha_Trang_Khanh_Hoa_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d6537480-Reviews-or30-Viet_Coral_Tourist-Nha_Trang_Khanh_Hoa_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d6537480-Reviews-or30-Viet_Coral_Tourist-Nha_Trang_Khanh_Hoa_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.665197919375108,
+            "hướng dẫn viên": 0.7897269572907438,
+            "giá cả": 0.9364518525544554,
+            "nhà hàng": 0.8737691454589367,
+            "hải sản": 0.5323879085481167,
+            "bữa trưa": 0.6651919120146582,
+            "đảo": 0.6240211740757028,
+            "bãi biển": 0.38105322793126106,
+            "chuyến đi": 0.9702605723403395,
+            "câu cá": 0.7768872532760724,
+            "khu nghỉ dưỡng": 0.9317158022895455,
+            "thác nước": 0.9950019448442617,
+            "bờ biển": 0.9941943459125469,
+            "người dân địa phương": 0.5,
+            "tour": 0.5,
+            "xe máy": 0.7477585412561893,
+            "dịch vụ": 0.9295310479210457,
+            "chuyến tham quan bằng xe máy": 0.9953845759155229,
+            "chuyến tham quan": -0.20826115435920656,
+            "thuyền": 0.5047307722270489,
+            "đồ ăn": 0.9954680808004923,
+            "trà nóng": 0.5,
+            "bánh quy": 0.5,
+            "trải nghiệm": 0.8163432013243437,
+            "hòn đảo": 0.9877609055256471,
+            "mọi thứ": 0.5,
+            "công ty du lịch": 0.5,
+            "cửa hàng": 0.5980360871180892,
+            "xe đạp": 0.5,
+            "giấy phép lái xe": -0.5760782677680254,
+            "xe đạp nơi": 0.504304900765419,
+            "trạm xăng": 0.5,
+            "buổi sáng": 0.5,
+            "khách sạn": 0.5
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "tốt đẹp"
+            ],
+            "hướng dẫn viên": [
+                "hoàn hảo",
+                "hữu ích"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "ổn"
+            ],
+            "nhà hàng": [
+                "thực sự"
+            ],
+            "hải sản": [
+                "thực sự"
+            ],
+            "bữa trưa": [
+                "tuyệt vời"
+            ],
+            "đảo": [
+                "nhỏ",
+                "hơn"
+            ],
+            "bãi biển": [
+                "nhỏ"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tốt",
+                "hơn",
+                "hơn",
+                "nhiều",
+                "tuyệt",
+                "tuyệt vời",
+                "tuyệt vời",
+                "lớn",
+                "sớm",
+                "tốt"
+            ],
+            "câu cá": [
+                "hơn",
+                "tuyệt vời"
+            ],
+            "khu nghỉ dưỡng": [
+                "hơn"
+            ],
+            "thác nước": [
+                "nhiều",
+                "tuyệt",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "bờ biển": [
+                "nhiều",
+                "tuyệt",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "người dân địa phương": [],
+            "tour": [],
+            "xe máy": [
+                "sang trọng"
+            ],
+            "dịch vụ": [
+                "dễ dàng",
+                "hơn",
+                "nhiều",
+                "nghiêm túc",
+                "tuyệt vời"
+            ],
+            "chuyến tham quan bằng xe máy": [
+                "an toàn"
+            ],
+            "chuyến tham quan": [
+                "thực sự"
+            ],
+            "thuyền": [
+                "lớn",
+                "sớm"
+            ],
+            "đồ ăn": [
+                "tuyệt vời"
+            ],
+            "trà nóng": [],
+            "bánh quy": [],
+            "trải nghiệm": [],
+            "hòn đảo": [
+                "đúng"
+            ],
+            "mọi thứ": [],
+            "công ty du lịch": [],
+            "cửa hàng": [
+                "duy nhất",
+                "sớm",
+                "hơn",
+                "gần"
+            ],
+            "xe đạp": [],
+            "giấy phép lái xe": [],
+            "xe đạp nơi": [
+                "đầu tiên"
+            ],
+            "trạm xăng": [],
+            "buổi sáng": [],
+            "khách sạn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 1.5,
+            "hướng dẫn viên": 1.5,
+            "giá cả": 1.0,
+            "nhà hàng": 0.5,
+            "hải sản": 0.5,
+            "bữa trưa": 1.5,
+            "đảo": 1.5,
+            "bãi biển": 0.5,
+            "chuyến đi": 2.0,
+            "câu cá": 0.5,
+            "khu nghỉ dưỡng": 0.5,
+            "thác nước": 0.5,
+            "bờ biển": 0.5,
+            "người dân địa phương": 0.5,
+            "tour": 0.5,
+            "xe máy": 1.0,
+            "dịch vụ": 1.0,
+            "chuyến tham quan bằng xe máy": 0.5,
+            "chuyến tham quan": 1.0,
+            "thuyền": 0.5,
+            "đồ ăn": 0.5,
+            "trà nóng": 0.5,
+            "bánh quy": 0.5,
+            "trải nghiệm": 0.5,
+            "hòn đảo": 0.5,
+            "mọi thứ": 0.5,
+            "công ty du lịch": 0.5,
+            "cửa hàng": 0.5,
+            "xe đạp": 0.5,
+            "giấy phép lái xe": 0.5,
+            "xe đạp nơi": 0.5,
+            "trạm xăng": 0.5,
+            "buổi sáng": 0.5,
+            "khách sạn": 0.5
+        }
     }
 ]

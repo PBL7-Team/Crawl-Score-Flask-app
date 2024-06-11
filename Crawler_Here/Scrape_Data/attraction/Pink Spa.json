@@ -112,7 +112,175 @@
             "https://www.tripadvisor.com/Attraction_Review-g44055-d1071369-Reviews-Tishomingo_State_Park-Tishomingo_Mississippi.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d17713616-Reviews-or10-Pink_Spa-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d17713616-Reviews-Pink_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d17713616-Reviews-Pink_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.4932118277065456,
+            "massage": 0.7244868287626146,
+            "view": 0.9950537893746514,
+            "nhà thờ hồng": 0.8737691454589367,
+            "nhân viên": 0.6127610374746534,
+            "trải nghiệm": 0.8714545492839534,
+            "salon": 0.5,
+            "giá": 0.5,
+            "pink": 0.7710619182960893,
+            "spa": 0.8457753551298414,
+            "mát-xa toàn thân bằng liệu": 0.9532980723306537,
+            "cực quang": 0.9950540944701061,
+            "rất thư": 0.9942649229196832,
+            "nhà trị liệu": 0.5,
+            "biểu mẫu": 0.19834411889314651,
+            "dầu": 0.9886860345723107,
+            "giá cả": 0.9529069985728711,
+            "sân": 0.5,
+            "khăn trải": 0.5,
+            "mát-xa": 0.7455218542017974,
+            "my": 0.5,
+            "trip": 0.5,
+            "kỹ thuật viên": 0.5,
+            "cơ": 0.9953780293581076,
+            "không gian": 0.9934704955521738,
+            "buổi": 0.9951811282662675,
+            "tại pink": 0.8737691454589367,
+            "sự": 0.992078497656621,
+            "lễ tân": 0.9952831970877014
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tuyệt vời",
+                "nhiều",
+                "dễ dàng",
+                "chắc chắn",
+                "chuyên nghiệp",
+                "tuyệt vời"
+            ],
+            "massage": [
+                "tuyệt vời",
+                "sạch sẽ",
+                "sảng khoái",
+                "to",
+                "nóng"
+            ],
+            "view": [
+                "Hồng siêu",
+                "đẹp"
+            ],
+            "nhà thờ hồng": [
+                "nhiều",
+                "tuyệt vời",
+                "cùng"
+            ],
+            "nhân viên": [
+                "dễ thương",
+                "dễ thương",
+                "xinh đẹp",
+                "thân thiện",
+                "cao",
+                "vui vẻ",
+                "chu đáo",
+                "giỏi"
+            ],
+            "trải nghiệm": [
+                "thú vị",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "salon": [],
+            "giá": [],
+            "pink": [
+                "trực tuyến",
+                "thực sự"
+            ],
+            "spa": [
+                "trực tuyến",
+                "hài lòng",
+                "to",
+                "to",
+                "to",
+                "Thực sự",
+                "thực sự"
+            ],
+            "mát-xa toàn thân bằng liệu": [
+                "thư giãn"
+            ],
+            "cực quang": [
+                "thư giãn"
+            ],
+            "rất thư": [
+                "thư giãn"
+            ],
+            "nhà trị liệu": [],
+            "biểu mẫu": [
+                "khác",
+                "có thể"
+            ],
+            "dầu": [
+                "hợp lý"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "sân": [],
+            "khăn trải": [],
+            "mát-xa": [
+                "thực sự"
+            ],
+            "my": [],
+            "trip": [],
+            "kỹ thuật viên": [],
+            "cơ": [
+                "thoải mái"
+            ],
+            "không gian": [
+                "tuyệt vời",
+                "vui vẻ",
+                "chu đáo"
+            ],
+            "buổi": [
+                "thực sự"
+            ],
+            "tại pink": [
+                "thực sự"
+            ],
+            "sự": [
+                "thoải mái"
+            ],
+            "lễ tân": [
+                "xinh đẹp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 5,
+            "massage": 5.5,
+            "view": 1,
+            "nhà thờ hồng": 2,
+            "nhân viên": 5,
+            "trải nghiệm": 4,
+            "salon": 1,
+            "giá": 1,
+            "pink": 5.5,
+            "spa": 5.5,
+            "mát-xa toàn thân bằng liệu": 1,
+            "cực quang": 1,
+            "rất thư": 1,
+            "nhà trị liệu": 1.5,
+            "biểu mẫu": 0.5,
+            "dầu": 0.5,
+            "giá cả": 0.5,
+            "sân": 1,
+            "khăn trải": 1,
+            "mát-xa": 2,
+            "my": 1.5,
+            "trip": 1.5,
+            "kỹ thuật viên": 1,
+            "cơ": 1,
+            "không gian": 2,
+            "buổi": 1,
+            "tại pink": 1,
+            "sự": 1,
+            "lễ tân": 1
+        }
     },
     {
         "attraction_name": "Pink Spa",
@@ -230,6 +398,182 @@
             "https://www.tripadvisor.com/Attraction_Review-g297401-d10088695-Reviews-Isla_Magdalena-Punta_Arenas_Magallanes_Region.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d17713616-Reviews-or10-Pink_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d17713616-Reviews-or10-Pink_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.6653504134737886,
+            "lễ tân": 0.9930207763100043,
+            "không gian": 0.9955664998851717,
+            "spa": 0.837292497929108,
+            "massage": 0.855896292559919,
+            "chuyến đi": 0.72751881449949,
+            "phòng": 0.7632178805069998,
+            "pink": 0.8737691454589367,
+            "giá": 0.9329993855790235,
+            "mát mẻ": 0.9952341879834421,
+            "dịch vụ": -0.18749174667755142,
+            "hành lý": 0.5,
+            "buổi": 0.5,
+            "mát-xa": 0.5,
+            "và đến": 0.5,
+            "quốc": 0.5,
+            "chuyến thăm": 0.9926277602498885,
+            "combo": 0.5,
+            "massage cổ": 0.5,
+            "gội đầu": 0.5,
+            "giá cả": 0.5,
+            "mà mềm": 0.9955799103481695,
+            "xịt dưỡng tóc": 0.9871569809038192,
+            "họ": 0.6708633340895176,
+            "massage đá nóng": 0.8737691454589367,
+            "gối": 0.5,
+            "sưởi": 0.5,
+            "thảo dược": 0.5,
+            "lưu thông không khí": 0.5,
+            "mùi thơm": 0.5892164083197713,
+            "nhân viên mát-xa đã làm": 0.9797679788898677,
+            "vị trí": 0.9932530932128429,
+            "tiệm cắt tóc": 0.9710229553747922,
+            "nhà thờ": 0.9738152003847063
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "cao",
+                "thân thiện",
+                "thân thiện",
+                "thân thiện",
+                "tuyệt vời"
+            ],
+            "lễ tân": [
+                "thân thiện"
+            ],
+            "không gian": [
+                "đẹp",
+                "sang trọng"
+            ],
+            "spa": [
+                "tuyệt vời",
+                "chắc chắn",
+                "ổn định",
+                "đầu tiên",
+                "tuyệt vời",
+                "khác",
+                "cuối cùng",
+                "khác",
+                "cuối cùng",
+                "đặc biệt",
+                "cùng"
+            ],
+            "massage": [
+                "chắc chắn",
+                "nhiều",
+                "đặc biệt",
+                "tốt"
+            ],
+            "chuyến đi": [
+                "thường xuyên"
+            ],
+            "phòng": [
+                "tuyệt khi",
+                "dễ chịu"
+            ],
+            "pink": [
+                "chắc chắn",
+                "đầu tiên",
+                "tuyệt vời"
+            ],
+            "giá": [
+                "rẻ",
+                "tốt"
+            ],
+            "mát mẻ": [
+                "dễ"
+            ],
+            "dịch vụ": [
+                "nhiều",
+                "duy nhất"
+            ],
+            "hành lý": [],
+            "buổi": [],
+            "mát-xa": [],
+            "và đến": [],
+            "quốc": [],
+            "chuyến thăm": [
+                "thân thiện",
+                "tuyệt vời"
+            ],
+            "combo": [],
+            "massage cổ": [],
+            "gội đầu": [],
+            "giá cả": [],
+            "mà mềm": [
+                "thơm"
+            ],
+            "xịt dưỡng tóc": [
+                "nhẹ nhàng"
+            ],
+            "họ": [
+                "nhiều"
+            ],
+            "massage đá nóng": [
+                "đặc biệt"
+            ],
+            "gối": [],
+            "sưởi": [],
+            "thảo dược": [],
+            "lưu thông không khí": [],
+            "mùi thơm": [
+                "dễ chịu"
+            ],
+            "nhân viên mát-xa đã làm": [
+                "tốt",
+                "liên tục",
+                "ổn"
+            ],
+            "vị trí": [
+                "tốt"
+            ],
+            "tiệm cắt tóc": [
+                "cùng"
+            ],
+            "nhà thờ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 3,
+            "lễ tân": 1,
+            "không gian": 1,
+            "spa": 6,
+            "massage": 4,
+            "chuyến đi": 2,
+            "phòng": 2,
+            "pink": 2,
+            "giá": 2,
+            "mát mẻ": 1,
+            "dịch vụ": 2,
+            "hành lý": 1,
+            "buổi": 1,
+            "mát-xa": 1,
+            "và đến": 1,
+            "quốc": 1,
+            "chuyến thăm": 1,
+            "combo": 1,
+            "massage cổ": 1,
+            "gội đầu": 1,
+            "giá cả": 1,
+            "mà mềm": 1,
+            "xịt dưỡng tóc": 1,
+            "họ": 1,
+            "massage đá nóng": 1,
+            "gối": 1,
+            "sưởi": 1,
+            "thảo dược": 1,
+            "lưu thông không khí": 1,
+            "mùi thơm": 1,
+            "nhân viên mát-xa đã làm": 1,
+            "vị trí": 1,
+            "tiệm cắt tóc": 1,
+            "nhà thờ": 1
+        }
     }
 ]

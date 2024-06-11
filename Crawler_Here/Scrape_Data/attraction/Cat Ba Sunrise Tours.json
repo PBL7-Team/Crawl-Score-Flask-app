@@ -81,6 +81,172 @@
             "https://www.tripadvisor.com/Attraction_Review-g60742-d6482279-Reviews-Goodwill_Outlet-Asheville_North_Carolina.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d19677727-Reviews-Cat_Ba_Sunrise_Tours-Cat_Ba_Hai_Phong.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d19677727-Reviews-Cat_Ba_Sunrise_Tours-Cat_Ba_Hai_Phong.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "xe buýt": -0.47473014627272886,
+            "tour du lịch": 0.5,
+            "thuyền kayak": 0.6505025190611681,
+            "chuyến tham quan": 0.9279830623185262,
+            "thuyền cho": 0.5046992264688015,
+            "lịch trình dày": -0.904610802885145,
+            "nhân viên": -0.9688234392087907,
+            "dịch vụ": 0.5,
+            "chuyến tham quan ăn": 0.9952977502252907,
+            "quan mặt": 0.5,
+            "đảo cát bà": 0.9345662147388794,
+            "chuyến đi": 0.8854874702762269,
+            "chuyến du lịch": 0.9935834053903818,
+            "chuyến đi đảo cát bà": 0.9955825035576709,
+            "hang": 0.8737691454589367,
+            "đường hầm": 0.5,
+            "núi đá vôi": 0.5,
+            "trái đào": 0.8737691454589367,
+            "thức ăn": 0.8737691454589367,
+            "thuyền": 0.9947587895439938,
+            "giá cả": 0.9297757777385414,
+            "đảo cát": 0.8737691454589367,
+            "đồ ăn": 0.9950495330267586,
+            "súp": 0.9955423106148373,
+            "hải sản": 0.9954920664895326,
+            "phòng": 0.9950722040666733,
+            "quan du lịch": 0.9953641322208568,
+            "tour bơi lội": 0.5,
+            "chèo thuyền kayak": 0.5
+        },
+        "dicts_adj": {
+            "xe buýt": [
+                "bất kỳ"
+            ],
+            "tour du lịch": [],
+            "thuyền kayak": [
+                "thú vị",
+                "nhiều"
+            ],
+            "chuyến tham quan": [
+                "nhiều",
+                "nhiều",
+                "hài lòng",
+                "thực sự",
+                "nhiều"
+            ],
+            "thuyền cho": [],
+            "lịch trình dày": [
+                "phải",
+                "tốt",
+                "dày đặc",
+                "khác"
+            ],
+            "nhân viên": [
+                "kỹ"
+            ],
+            "dịch vụ": [],
+            "chuyến tham quan ăn": [
+                "tuyệt vời"
+            ],
+            "quan mặt": [],
+            "đảo cát bà": [
+                "tuyệt vời",
+                "tốt bụng",
+                "nhiều",
+                "thân thiện"
+            ],
+            "chuyến đi": [
+                "nhiều",
+                "hợp lý",
+                "cùng",
+                "cùng",
+                "khó",
+                "suốt",
+                "vui vẻ",
+                "vui vẻ",
+                "tuyệt vời",
+                "nhiều",
+                "cùng"
+            ],
+            "chuyến du lịch": [
+                "thú vị"
+            ],
+            "chuyến đi đảo cát bà": [
+                "tuyệt vời"
+            ],
+            "hang": [
+                "thú vị",
+                "nhiều"
+            ],
+            "đường hầm": [],
+            "núi đá vôi": [],
+            "trái đào": [
+                "thú vị",
+                "nhiều"
+            ],
+            "thức ăn": [
+                "ngon"
+            ],
+            "thuyền": [
+                "ngon",
+                "đặc biệt",
+                "tuyệt tất cả"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "đảo cát": [
+                "cùng",
+                "khó",
+                "suốt"
+            ],
+            "đồ ăn": [
+                "ngon",
+                "đặc biệt"
+            ],
+            "súp": [
+                "đặc biệt",
+                "tuyệt tất cả"
+            ],
+            "hải sản": [
+                "đặc biệt",
+                "tuyệt tất cả"
+            ],
+            "phòng": [
+                "đặc biệt",
+                "tuyệt tất cả"
+            ],
+            "quan du lịch": [],
+            "tour bơi lội": [],
+            "chèo thuyền kayak": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "xe buýt": 1.5,
+            "tour du lịch": 1,
+            "thuyền kayak": 1.5,
+            "chuyến tham quan": 2.5,
+            "thuyền cho": 0.5,
+            "lịch trình dày": 0.5,
+            "nhân viên": 0.5,
+            "dịch vụ": 1.0,
+            "chuyến tham quan ăn": 0.5,
+            "quan mặt": 0.5,
+            "đảo cát bà": 1.0,
+            "chuyến đi": 2.0,
+            "chuyến du lịch": 0.5,
+            "chuyến đi đảo cát bà": 0.5,
+            "hang": 0.5,
+            "đường hầm": 0.5,
+            "núi đá vôi": 0.5,
+            "trái đào": 0.5,
+            "thức ăn": 0.5,
+            "thuyền": 1.0,
+            "giá cả": 0.5,
+            "đảo cát": 1.0,
+            "đồ ăn": 0.5,
+            "súp": 0.5,
+            "hải sản": 0.5,
+            "phòng": 0.5,
+            "quan du lịch": 0.5,
+            "tour bơi lội": 0.5,
+            "chèo thuyền kayak": 0.5
+        }
     }
 ]

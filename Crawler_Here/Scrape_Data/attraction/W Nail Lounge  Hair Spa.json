@@ -90,6 +90,47 @@
             "https://www.tripadvisor.com/Attraction_Review-g190378-d1372779-Reviews-Kyrenia_Harbour-Kyrenia_Kyrenia_District.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25804904-Reviews-W_Nail_Lounge_Hair_Spa-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d25804904-Reviews-W_Nail_Lounge_Hair_Spa-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.9346837702614721,
+            "nghệ thuật làm móng": 0.9914569130633026,
+            "giá cả": 0.9738321471959352,
+            "bộ": 0.5650511756539345,
+            "móng tay": 0.38766982965171337,
+            "trải nghiệm": 0.9953076486708596
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "chuyên nghiệp",
+                "cẩn thận",
+                "thực sự",
+                "giỏi"
+            ],
+            "nghệ thuật làm móng": [
+                "tốt"
+            ],
+            "giá cả": [
+                "tốt"
+            ],
+            "bộ": [
+                "chuyên nghiệp"
+            ],
+            "móng tay": [
+                "chuyên nghiệp"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 2,
+            "nghệ thuật làm móng": 1,
+            "giá cả": 1,
+            "bộ": 1,
+            "móng tay": 1,
+            "trải nghiệm": 1
+        }
     }
 ]

@@ -85,7 +85,293 @@
             "https://www.tripadvisor.com/Attraction_Review-g1629812-d4745960-Reviews-Bukit_Merah_Orang_Utan_Island_Foundation-Semanggol_Kerian_District_Perak.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or10-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan ẩm thực": 0.9127007152128499,
+            "vì thom": 0.8737691454589367,
+            "ẩm thực văn hóa và lịch sử": 0.935792425647378,
+            "phong tục": 0.9462375296279788,
+            "chợ với": 0.8406821055104956,
+            "trải nghiệm": 0.9889999528434904,
+            "thuê xích lô": -0.22607037506531924,
+            "xe máy": -0.2141152488766238,
+            "xe tải": -0.21375999425072223,
+            "thực phẩm": 0.9955172224435955,
+            "quá cảnh": 0.7746888613328338,
+            "nhà hàng": 0.3126808591187,
+            "món ăn": 0.8716200572889647,
+            "chuyến tham quan": 0.9672243393833924,
+            "đầm lăng": 0.8737691454589367,
+            "ngũ hành sơn": 0.8737691454589367,
+            "đồ ăn uống bia": 0.5337274633347988,
+            "đồ ăn": 0.6533634588122368,
+            "cả": 0.5,
+            "an toàn thực phẩm": 0.5,
+            "an toàn đường bộ": 0.5,
+            "nhà sản xuất": 0.9949841071502306,
+            "ẩm thực": 0.748773525443135,
+            "hành trình": 0.9955160299432464,
+            "xe tay ga": 0.42277768813073635,
+            "sản": 0.5,
+            "phẩm cá": 0.5,
+            "thức ăn": 0.7944221533252858,
+            "quán cà phê": 0.9954165308445226,
+            "quán": 0.46733618061989546,
+            "cà phê": 0.994702439813409,
+            "hướng dẫn viên": 0.9649081125971861,
+            "phương tiện di chuyển": 0.5740544887259602,
+            "nông sản cá": 0.8721966743469238,
+            "chuyến đi": 0.6978591439779848,
+            "thành phố": 0.7466172084677964,
+            "phòng ngừa": 0.5,
+            "điểm ăn uống": 0.5938741844147444,
+            "trải nghiệm ẩm thực": 0.9950056403176859,
+            "địa điểm ăn uống": 0.9652543244883418,
+            "khu chợ": 0.6184013918973505,
+            "cuộc sống": 0.8697836936917156,
+            "khăn lau": 0.9683175645768642,
+            "chất": 0.9954029640648514,
+            "khử trùng": 0.9864675819408149
+        },
+        "dicts_adj": {
+            "chuyến tham quan ẩm thực": [
+                "tuyệt vời",
+                "tương tác",
+                "tuyệt vời",
+                "nhiều",
+                "Nhiều",
+                "hơn"
+            ],
+            "vì thom": [
+                "tuyệt vời",
+                "tương tác"
+            ],
+            "ẩm thực văn hóa và lịch sử": [
+                "thông minh"
+            ],
+            "phong tục": [
+                "dễ dàng",
+                "lạ lùng"
+            ],
+            "chợ với": [
+                "hoàn toàn",
+                "tuyệt vời",
+                "hơn"
+            ],
+            "trải nghiệm": [
+                "hoàn toàn",
+                "tuyệt vời",
+                "hơn",
+                "tuyệt vời"
+            ],
+            "thuê xích lô": [
+                "yên tĩnh",
+                "chậm rãi"
+            ],
+            "xe máy": [
+                "yên tĩnh",
+                "chậm rãi"
+            ],
+            "xe tải": [
+                "yên tĩnh",
+                "chậm rãi"
+            ],
+            "thực phẩm": [
+                "độc đáo",
+                "thoải mái"
+            ],
+            "quá cảnh": [
+                "độc đáo",
+                "thoải mái"
+            ],
+            "nhà hàng": [
+                "nhỏ"
+            ],
+            "món ăn": [
+                "nhiều",
+                "ngon",
+                "khác",
+                "xuất sắc",
+                "nhiệt tình",
+                "nhiều",
+                "ngon"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "tốt",
+                "cuối cùng",
+                "ngột ngạt",
+                "tốt",
+                "nhiều",
+                "cùng",
+                "tuyệt vời",
+                "tốt",
+                "no",
+                "tốt",
+                "nhiều",
+                "cùng",
+                "ngắn"
+            ],
+            "đầm lăng": [
+                "hữu ích",
+                "hợp lý"
+            ],
+            "ngũ hành sơn": [
+                "hữu ích",
+                "hợp lý"
+            ],
+            "đồ ăn uống bia": [
+                "nhẹ"
+            ],
+            "đồ ăn": [
+                "nhẹ"
+            ],
+            "cả": [],
+            "an toàn thực phẩm": [],
+            "an toàn đường bộ": [],
+            "nhà sản xuất": [
+                "nhiều",
+                "chuyên nghiệp"
+            ],
+            "ẩm thực": [
+                "vui",
+                "vui",
+                "tuyệt vời",
+                "nhất"
+            ],
+            "hành trình": [
+                "đẹp",
+                "nhất"
+            ],
+            "xe tay ga": [
+                "hoàn toàn",
+                "nhẹ",
+                "trực tiếp",
+                "hơn",
+                "nhiều"
+            ],
+            "sản": [],
+            "phẩm cá": [],
+            "thức ăn": [
+                "đủ",
+                "nhiều",
+                "đủ",
+                "nhiều",
+                "ngon"
+            ],
+            "quán cà phê": [
+                "sang trọng",
+                "sành điệu"
+            ],
+            "quán": [
+                "nhiều",
+                "khác",
+                "khác",
+                "nhỏ"
+            ],
+            "cà phê": [
+                "sang trọng"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "phương tiện di chuyển": [
+                "hoàn toàn",
+                "nhẹ",
+                "trực tiếp",
+                "hơn",
+                "nhiều"
+            ],
+            "nông sản cá": [],
+            "chuyến đi": [
+                "Hoàn toàn",
+                "nổi bật"
+            ],
+            "thành phố": [
+                "tuyệt vời",
+                "nhất"
+            ],
+            "phòng ngừa": [],
+            "điểm ăn uống": [
+                "khác"
+            ],
+            "trải nghiệm ẩm thực": [
+                "vui"
+            ],
+            "địa điểm ăn uống": [
+                "rộng lớn",
+                "đủ"
+            ],
+            "khu chợ": [
+                "rộng lớn",
+                "đủ"
+            ],
+            "cuộc sống": [
+                "tuyệt vời",
+                "nhất"
+            ],
+            "khăn lau": [
+                "đầy đủ"
+            ],
+            "chất": [
+                "đầy đủ"
+            ],
+            "khử trùng": [
+                "đầy đủ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan ẩm thực": 4.0,
+            "vì thom": 1.5,
+            "ẩm thực văn hóa và lịch sử": 1.5,
+            "phong tục": 1.5,
+            "chợ với": 1.5,
+            "trải nghiệm": 3.0,
+            "thuê xích lô": 1.5,
+            "xe máy": 1.5,
+            "xe tải": 1.5,
+            "thực phẩm": 1.5,
+            "quá cảnh": 1.5,
+            "nhà hàng": 1.5,
+            "món ăn": 4.0,
+            "chuyến tham quan": 8.0,
+            "đầm lăng": 1.5,
+            "ngũ hành sơn": 1.5,
+            "đồ ăn uống bia": 1.5,
+            "đồ ăn": 1.5,
+            "cả": 1.5,
+            "an toàn thực phẩm": 1.5,
+            "an toàn đường bộ": 1.5,
+            "nhà sản xuất": 1.5,
+            "ẩm thực": 9.0,
+            "hành trình": 1.5,
+            "xe tay ga": 3.0,
+            "sản": 1.5,
+            "phẩm cá": 1.5,
+            "thức ăn": 4.0,
+            "quán cà phê": 3.0,
+            "quán": 3.0,
+            "cà phê": 1.5,
+            "hướng dẫn viên": 4.0,
+            "phương tiện di chuyển": 1.5,
+            "nông sản cá": 1.5,
+            "chuyến đi": 2.5,
+            "thành phố": 2,
+            "phòng ngừa": 1,
+            "điểm ăn uống": 1,
+            "trải nghiệm ẩm thực": 1,
+            "địa điểm ăn uống": 1,
+            "khu chợ": 1,
+            "cuộc sống": 1,
+            "khăn lau": 1,
+            "chất": 1,
+            "khử trùng": 1
+        }
     },
     {
         "attraction_name": "Hue Flavor - Street Food Tour",
@@ -177,7 +463,202 @@
             "https://www.tripadvisor.com/Attraction_Review-g45990-d275800-Reviews-Fashion_Outlets_of_Las_Vegas-Primm_Nevada.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or20-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or10-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or10-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thức ăn": 0.9484718986786902,
+            "kiến ​​thức chi tiết": 0.9145084943156689,
+            "phòng": 0.9955351615790278,
+            "giá trị": 0.9950917593669146,
+            "chuyến du lịch": 0.7568668116000481,
+            "văn hóa ẩm thực": 0.9914760704850778,
+            "địa điểm": 0.9954135369043797,
+            "-": 0.9955189024331048,
+            "đồ ăn": 0.9954858245328069,
+            "lịch sử": 0.5,
+            "văn hóa": 0.5,
+            "món ăn": 0.7449131436781803,
+            "chuyến tham quan chợ đông": 0.8737691454589367,
+            "trái cây": -0.9682034200523049,
+            "bóng râm": 0.5333927730098367,
+            "chiếc": 0.5,
+            "chuyến tham quan": -0.17391212563961744,
+            "chuyến đi": 0.7477663239988033,
+            "ẩm thực và truyền thống": 0.9948269334854558,
+            "nhà hàng": 0.778615541436011,
+            "bữa ăn": 0.8634150428697467,
+            "bún bò huế": 0.8737691454589367,
+            "chợ huế": 0.9955302606686018,
+            "ẩm thực": 0.8867247932066675,
+            "ẩm thực việt": 0.9948566461680457,
+            "món ăn ngon": 0.9954335383954458,
+            "chuyến tham": 0.9954497533617541,
+            "đặc sản": 0.22368307548458688,
+            "chuyến tham quan ẩm thực": 0.9941765506519005,
+            "lái xe": 0.5,
+            "khách sạn": 0.5,
+            "món đặc sản": -0.007351687178015709,
+            "cà phê muối": 0.9889367367140949,
+            "loại bối cảnh": 0.5,
+            "thực phẩm an": 0.9947829660377465,
+            "chuyến du lịch ẩm thực": 0.9927087184041739
+        },
+        "dicts_adj": {
+            "thức ăn": [
+                "tuyệt vời",
+                "vui",
+                "nhiều",
+                "hữu ích",
+                "hoàn toàn"
+            ],
+            "kiến ​​thức chi tiết": [
+                "tuyệt vời",
+                "dễ"
+            ],
+            "phòng": [
+                "tốt"
+            ],
+            "giá trị": [
+                "tốt"
+            ],
+            "chuyến du lịch": [
+                "vui",
+                "cùng",
+                "tuyệt vời",
+                "tuyệt vời",
+                "may mắn",
+                "riêng",
+                "duy nhất"
+            ],
+            "văn hóa ẩm thực": [
+                "nhiều"
+            ],
+            "địa điểm": [
+                "tuyệt vời"
+            ],
+            "-": [
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "tuyệt vời"
+            ],
+            "lịch sử": [],
+            "văn hóa": [],
+            "món ăn": [
+                "May mắn",
+                "ngắn ngủi",
+                "vui",
+                "ngon",
+                "chuyên"
+            ],
+            "chuyến tham quan chợ đông": [
+                "đủ"
+            ],
+            "trái cây": [
+                "khác"
+            ],
+            "bóng râm": [
+                "gần"
+            ],
+            "chiếc": [],
+            "chuyến tham quan": [
+                "cao"
+            ],
+            "chuyến đi": [
+                "tuyệt vời"
+            ],
+            "ẩm thực và truyền thống": [
+                "tuyệt vời"
+            ],
+            "nhà hàng": [
+                "tuyệt vời",
+                "chuyên"
+            ],
+            "bữa ăn": [
+                "nổi bật",
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "bún bò huế": [
+                "tuyệt vời"
+            ],
+            "chợ huế": [],
+            "ẩm thực": [
+                "thực sự",
+                "tuyệt vời",
+                "vui",
+                "giỏi"
+            ],
+            "ẩm thực việt": [
+                "thú vị"
+            ],
+            "món ăn ngon": [
+                "khác",
+                "khác"
+            ],
+            "chuyến tham": [
+                "ngon"
+            ],
+            "đặc sản": [
+                "thực sự",
+                "ngắn",
+                "khó",
+                "độc đáo"
+            ],
+            "chuyến tham quan ẩm thực": [],
+            "lái xe": [],
+            "khách sạn": [],
+            "món đặc sản": [
+                "khác"
+            ],
+            "cà phê muối": [],
+            "loại bối cảnh": [],
+            "thực phẩm an": [
+                "cao",
+                "cẩn thận",
+                "an toàn"
+            ],
+            "chuyến du lịch ẩm thực": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thức ăn": 3,
+            "kiến ​​thức chi tiết": 1,
+            "phòng": 1,
+            "giá trị": 1,
+            "chuyến du lịch": 3,
+            "văn hóa ẩm thực": 1,
+            "địa điểm": 1,
+            "-": 1,
+            "đồ ăn": 1,
+            "lịch sử": 1,
+            "văn hóa": 1,
+            "món ăn": 6,
+            "chuyến tham quan chợ đông": 1,
+            "trái cây": 1,
+            "bóng râm": 1,
+            "chiếc": 1,
+            "chuyến tham quan": 2,
+            "chuyến đi": 2,
+            "ẩm thực và truyền thống": 1,
+            "nhà hàng": 2,
+            "bữa ăn": 1,
+            "bún bò huế": 1,
+            "chợ huế": 1,
+            "ẩm thực": 4,
+            "ẩm thực việt": 1,
+            "món ăn ngon": 1,
+            "chuyến tham": 1,
+            "đặc sản": 1,
+            "chuyến tham quan ẩm thực": 1,
+            "lái xe": 1,
+            "khách sạn": 1,
+            "món đặc sản": 1,
+            "cà phê muối": 1,
+            "loại bối cảnh": 1,
+            "thực phẩm an": 1,
+            "chuyến du lịch ẩm thực": 1
+        }
     },
     {
         "attraction_name": "Hue Flavor - Street Food Tour",
@@ -271,7 +752,220 @@
             "https://www.tripadvisor.com/Attraction_Review-g60878-d141421-Reviews-Washington_Park_Arboretum-Seattle_Washington.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or30-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or20-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or20-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ẩm thực": 0.994262050720863,
+            "chuyến tham quan": 0.969354664105534,
+            "kỹ thuật chế biến": -0.946084626019001,
+            "nguyên liệu": 0.5185473305173218,
+            "món ăn": 0.38767572710276,
+            "chuyến": 0.5897777555510402,
+            "tham quan ẩm thực đường phố": 0.9035581089556217,
+            "chuyến du lịch": 0.9885698736907216,
+            "trải nghiệm": 0.9953192950924858,
+            "hướng dẫn viên": 0.9893845349433832,
+            "món ăn địa phương": 0.5,
+            "khu chợ": 0.5,
+            "thị trấn": 0.7389660227345303,
+            "nhà hàng địa phương": -0.0059011869598180056,
+            "loại": -0.9639580915682018,
+            "đồ ăn": 0.3365558728886147,
+            "ẩm thực địa phương": 0.7495050411089323,
+            "trải nghiệm ẩm thực địa phương": 0.9951070118695498,
+            "chuyến tham quan ẩm thực buổi": 0.9870402140077204,
+            "chuyến tham quan ẩm thực": -0.48996517062187195,
+            "chuyến đi": 0.7136660655960441,
+            "loại thức ăn độc đáo": 0.9926937911659479,
+            "hương vị huế": 0.995218455849681,
+            "thom ho": 0.5334175350144506,
+            "bữa ăn": 0.9953831260791048,
+            "nhân viên": 0.995311779435724,
+            "loại thảo mộc": 0.5759455300867558,
+            "trái cây": 0.7733956857118756,
+            "giao thông": 0.5,
+            "lưu trú": 0.5,
+            "hương vị địa phương": 0.992936362628825,
+            "chuyến tham quan ẩm thực đường phố": 0.9953518741531298,
+            "cánh cửa": 0.5,
+            "bí mật ẩm thực": 0.5,
+            "thực phẩm": 0.9746772320941091,
+            "đồ uống an toàn": 0.5,
+            "đồ uống": 0.5,
+            "nếm": 0.5
+        },
+        "dicts_adj": {
+            "ẩm thực": [
+                "kỹ lưỡng",
+                "chu đáo",
+                "cùng"
+            ],
+            "chuyến tham quan": [
+                "kỹ lưỡng",
+                "chu đáo",
+                "cùng",
+                "thực sự",
+                "tốt",
+                "nhiều",
+                "tốt đẹp",
+                "vui",
+                "cùng",
+                "nhiều",
+                "nhiều"
+            ],
+            "kỹ thuật chế biến": [
+                "khác"
+            ],
+            "nguyên liệu": [
+                "dài"
+            ],
+            "món ăn": [
+                "tuyệt vời",
+                "đủ",
+                "khác",
+                "sẵn sàng",
+                "ngon",
+                "khác biệt"
+            ],
+            "chuyến": [
+                "cùng"
+            ],
+            "tham quan ẩm thực đường phố": [
+                "cùng"
+            ],
+            "chuyến du lịch": [
+                "thường ngày",
+                "đẹp",
+                "tuyệt vời",
+                "riêng"
+            ],
+            "trải nghiệm": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời"
+            ],
+            "món ăn địa phương": [],
+            "khu chợ": [],
+            "thị trấn": [
+                "thực sự"
+            ],
+            "nhà hàng địa phương": [
+                "khác",
+                "nhiều"
+            ],
+            "loại": [
+                "khác"
+            ],
+            "đồ ăn": [
+                "khác",
+                "vui",
+                "thú vị"
+            ],
+            "ẩm thực địa phương": [
+                "nhiều",
+                "nhiều",
+                "cùng"
+            ],
+            "trải nghiệm ẩm thực địa phương": [
+                "vui"
+            ],
+            "chuyến tham quan ẩm thực buổi": [
+                "hạnh phúc",
+                "hơn"
+            ],
+            "chuyến tham quan ẩm thực": [
+                "khác"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tình cờ",
+                "duy nhất"
+            ],
+            "loại thức ăn độc đáo": [
+                "nhiều",
+                "mạo hiểm",
+                "ngon",
+                "nhiều"
+            ],
+            "hương vị huế": [],
+            "thom ho": [],
+            "bữa ăn": [
+                "hơn",
+                "giống",
+                "ngon"
+            ],
+            "nhân viên": [
+                "nhanh chóng"
+            ],
+            "loại thảo mộc": [
+                "kỳ lạ",
+                "hơn"
+            ],
+            "trái cây": [
+                "kỳ lạ",
+                "hơn",
+                "lạ"
+            ],
+            "giao thông": [],
+            "lưu trú": [],
+            "hương vị địa phương": [
+                "vui"
+            ],
+            "chuyến tham quan ẩm thực đường phố": [
+                "tuyệt vời"
+            ],
+            "cánh cửa": [],
+            "bí mật ẩm thực": [],
+            "thực phẩm": [
+                "Nhiều"
+            ],
+            "đồ uống an toàn": [],
+            "đồ uống": [],
+            "nếm": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ẩm thực": 1,
+            "chuyến tham quan": 5,
+            "kỹ thuật chế biến": 1,
+            "nguyên liệu": 2,
+            "món ăn": 4,
+            "chuyến": 1,
+            "tham quan ẩm thực đường phố": 1,
+            "chuyến du lịch": 2,
+            "trải nghiệm": 1,
+            "hướng dẫn viên": 2,
+            "món ăn địa phương": 1,
+            "khu chợ": 1,
+            "thị trấn": 2,
+            "nhà hàng địa phương": 1,
+            "loại": 1,
+            "đồ ăn": 3,
+            "ẩm thực địa phương": 2,
+            "trải nghiệm ẩm thực địa phương": 1,
+            "chuyến tham quan ẩm thực buổi": 1,
+            "chuyến tham quan ẩm thực": 1,
+            "chuyến đi": 2,
+            "loại thức ăn độc đáo": 1,
+            "hương vị huế": 1,
+            "thom ho": 1,
+            "bữa ăn": 1,
+            "nhân viên": 1,
+            "loại thảo mộc": 1,
+            "trái cây": 2,
+            "giao thông": 1,
+            "lưu trú": 1,
+            "hương vị địa phương": 1,
+            "chuyến tham quan ẩm thực đường phố": 1,
+            "cánh cửa": 1,
+            "bí mật ẩm thực": 1,
+            "thực phẩm": 1,
+            "đồ uống an toàn": 1,
+            "đồ uống": 1,
+            "nếm": 1
+        }
     },
     {
         "attraction_name": "Hue Flavor - Street Food Tour",
@@ -360,7 +1054,199 @@
             "https://www.tripadvisor.com/Attraction_Review-g297896-d11592370-Reviews-Sea_Turtle_Farm_Galle_Mahamodara-Galle_Galle_District_Southern_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or40-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or30-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or30-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "phòng": 0.9936787971528247,
+            "chuyến tham quan": 0.8606902159070294,
+            "ẩm thực": 0.9953223862685263,
+            "món ăn": 0.9889226866750201,
+            "kiến ​​thức": 0.9939111385610886,
+            "trình điều khiển": 0.9950828361907043,
+            "chuyến tham quan ẩm thực": 0.9951507399673574,
+            "bộ": 0.9954881360172294,
+            "món ăn địa": 0.5,
+            "tom biến": 0.987447512568906,
+            "trải nghiệm ẩm thực": 0.992998999892734,
+            "điểm ăn uống": 0.9493813165463507,
+            "đường phố": 0.9945232082391158,
+            "nhà hàng": 0.010096331854583696,
+            "chợ ngon": 0.995588576188311,
+            "chuyến đi xích": 0.992918484727852,
+            "chào tim": 0.8737691454589367,
+            "chuyến tham quan ẩm thực đường phố": 0.9954464423353784,
+            "chuyến du lịch": 0.7476478773460258,
+            "kỳ nghỉ": 0.9895370492013171,
+            "thức ăn": 0.8737691454589367,
+            "phong cảnh": 0.9542684483070237,
+            "đại dịch": 0.5,
+            "địa điểm": 0.9715375988744199,
+            "đồ ăn địa": 0.5,
+            "cảm": 0.9955410033580847,
+            "chuyến đi": 0.5,
+            "đặc sản ẩm thực địa phương": 0.9812709572724998,
+            "ngành du lịch": -0.9689112117048353,
+            "trải nghiệm": 0.994149619480595,
+            "món ngon": 0.9954941936885007,
+            "bạn nếm": 0.9676991519518197,
+            "hương vị địa phương": 0.8737691454589367,
+            "thủ đô ẩm thực": 0.5,
+            "hành trình": 0.33310619730036706
+        },
+        "dicts_adj": {
+            "phòng": [],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "nhiều",
+                "chu đáo",
+                "nhiều",
+                "cùng",
+                "tuyệt vời",
+                "cùng",
+                "tốt",
+                "nhiều",
+                "tuyệt vời",
+                "khác",
+                "no",
+                "bất kỳ"
+            ],
+            "ẩm thực": [
+                "tuyệt vời"
+            ],
+            "món ăn": [
+                "sâu sắc",
+                "thú vị",
+                "tuyệt vời",
+                "ngon",
+                "ngon",
+                "hơn"
+            ],
+            "kiến ​​thức": [
+                "sâu sắc",
+                "thú vị"
+            ],
+            "trình điều khiển": [
+                "tốt bụng"
+            ],
+            "chuyến tham quan ẩm thực": [
+                "vui"
+            ],
+            "bộ": [
+                "tuyệt vời"
+            ],
+            "món ăn địa": [],
+            "tom biến": [
+                "thú vị"
+            ],
+            "trải nghiệm ẩm thực": [
+                "vui"
+            ],
+            "điểm ăn uống": [
+                "nhất"
+            ],
+            "đường phố": [
+                "nhất"
+            ],
+            "nhà hàng": [
+                "nhất",
+                "khác"
+            ],
+            "chợ ngon": [
+                "nhất"
+            ],
+            "chuyến đi xích": [
+                "thân thiện"
+            ],
+            "chào tim": [
+                "nhiều"
+            ],
+            "chuyến tham quan ẩm thực đường phố": [
+                "vui"
+            ],
+            "chuyến du lịch": [
+                "đẹp"
+            ],
+            "kỳ nghỉ": [
+                "thân yêu"
+            ],
+            "thức ăn": [
+                "tuyệt vời"
+            ],
+            "phong cảnh": [
+                "tuyệt vời",
+                "thực sự",
+                "thú vị"
+            ],
+            "đại dịch": [],
+            "địa điểm": [
+                "tốt"
+            ],
+            "đồ ăn địa": [],
+            "cảm": [
+                "tốt đẹp"
+            ],
+            "chuyến đi": [],
+            "đặc sản ẩm thực địa phương": [
+                "thoải mái"
+            ],
+            "ngành du lịch": [
+                "khó khăn"
+            ],
+            "trải nghiệm": [
+                "lạc quan"
+            ],
+            "món ngon": [
+                "thích hợp"
+            ],
+            "bạn nếm": [],
+            "hương vị địa phương": [
+                "tuyệt vời",
+                "chính đáng"
+            ],
+            "thủ đô ẩm thực": [],
+            "hành trình": [
+                "tối đa",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "phòng": 1,
+            "chuyến tham quan": 4.5,
+            "ẩm thực": 1,
+            "món ăn": 3.0,
+            "kiến ​​thức": 1,
+            "trình điều khiển": 1,
+            "chuyến tham quan ẩm thực": 1,
+            "bộ": 1,
+            "món ăn địa": 1,
+            "tom biến": 1,
+            "trải nghiệm ẩm thực": 1,
+            "điểm ăn uống": 0.5,
+            "đường phố": 0.5,
+            "nhà hàng": 1.0,
+            "chợ ngon": 0.5,
+            "chuyến đi xích": 0.5,
+            "chào tim": 0.5,
+            "chuyến tham quan ẩm thực đường phố": 0.5,
+            "chuyến du lịch": 1.0,
+            "kỳ nghỉ": 0.5,
+            "thức ăn": 0.5,
+            "phong cảnh": 0.5,
+            "đại dịch": 0.5,
+            "địa điểm": 0.5,
+            "đồ ăn địa": 0.5,
+            "cảm": 0.5,
+            "chuyến đi": 0.5,
+            "đặc sản ẩm thực địa phương": 0.5,
+            "ngành du lịch": 0.5,
+            "trải nghiệm": 0.5,
+            "món ngon": 0.5,
+            "bạn nếm": 0.5,
+            "hương vị địa phương": 0.5,
+            "thủ đô ẩm thực": 0.5,
+            "hành trình": 0.5
+        }
     },
     {
         "attraction_name": "Hue Flavor - Street Food Tour",
@@ -445,7 +1331,364 @@
             "https://www.tripadvisor.com/Attraction_Review-g32526-d124505-Reviews-Point_Reyes_Lighthouse-Inverness_Point_Reyes_National_Seashore_Marin_County_Califor.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or50-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or40-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or40-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ẩm thực": 0.6501104553850988,
+            "lịch sử": 0.7431180016428698,
+            "văn hóa": 0.5,
+            "chuyến tham quan": 0.557616648925302,
+            "khăn": -0.22207042016088963,
+            "đồ dùng": 0.5675515670445748,
+            "trải nghiệm": 0.6468348453442255,
+            "hương vị": 0.7916470729687717,
+            "chuyến tham quan buổi chiều": 0.6154500851407647,
+            "món ăn": 0.8242602319757376,
+            "điểm dừng": 0.9590746555477381,
+            "con phố": 0.5760565712116659,
+            "bùng binh": -0.9704126096330583,
+            "xích lô": 0.7071988482493907,
+            "nhà hàng": 0.7477667591592763,
+            "thực phẩm": 0.7750104029352466,
+            "buổi sáng": 0.9955712042283267,
+            "xích lô xích lô": -0.9540403143037111,
+            "trái cây": 0.013670003972947598,
+            "hướng dẫn viên": 0.8407182892624405,
+            "ẩm thực việt nam": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "tour ẩm thực đường phố": 0.9947392128330345,
+            "bánh bao": 0.5,
+            "phố cổ": 0.6981507623568177,
+            "nhà hàng vỉa": 0.5,
+            "vệ sinh": 0.7920518507016823,
+            "trang web": 0.5,
+            "khách sạn": -0.14988595042895111,
+            "chuyến tham quan ẩm thực": 0.7318960951524787,
+            "chuyến đi": 0.9905293074407382,
+            "thom": 0.8737691454589367,
+            "chuyến tham quan phố đi bộ": 0.995372521225363,
+            "chủ": 0.9955579222296365,
+            "chuyến tham quan ẩm thực đường phố buổi chiều": 0.9953969203634188,
+            "hương vị huế": 0.8737691454589367,
+            "địa điểm ăn uống": 0.5323647568002343,
+            "đầu bếp": 0.5307361828163266,
+            "loại thảo mộc": -0.7853759657591581,
+            "chuyên môn": 0.5,
+            "văn hóa ẩm thực": 0.9950930461054668,
+            "chuyến du lịch": 0.8777411166956881,
+            "đồ ăn": 0.7471867153508356,
+            "xe đạp": -0.8975713956169784,
+            "tầm nhìn": 0.9948930090176873,
+            "tour du lịch": 0.8737691454589367,
+            "tiết đông": 0.5125090824440122,
+            "chai nước": 0.9255976011045277,
+            "bàn ăn": 0.9064963553100824,
+            "thực phẩm mất vệ sinh": 0.5,
+            "cà phê": 0.9950801724335179,
+            "sông hương": 0.5184266222640872,
+            "chiếc": 0.9010403695865534,
+            "nghi thức xã giao": 0.5,
+            "đầu": 0.9940844387165271,
+            "rau quả": 0.995567052392289,
+            "chợ": 0.9955065607791767,
+            "chuyến tham quan ẩm thực buổi": 0.5,
+            "chuyến tham quan ẩm thực hương vị huế": 0.5,
+            "địa điểm": 0.5,
+            "trung tâm": 0.5
+        },
+        "dicts_adj": {
+            "ẩm thực": [
+                "nhiều",
+                "thú vị"
+            ],
+            "lịch sử": [
+                "nhiều",
+                "thú vị"
+            ],
+            "văn hóa": [],
+            "chuyến tham quan": [
+                "chuyên nghiệp",
+                "thực sự",
+                "vui vẻ",
+                "mạnh",
+                "thoải mái",
+                "tốt",
+                "phải",
+                "trực tiếp",
+                "nhiều",
+                "thú vị",
+                "thực sự",
+                "thực sự",
+                "kỹ"
+            ],
+            "khăn": [
+                "ướt"
+            ],
+            "đồ dùng": [
+                "sạch sẽ",
+                "nhiều"
+            ],
+            "trải nghiệm": [
+                "nhiều",
+                "rộng lớn"
+            ],
+            "hương vị": [
+                "độc đáo",
+                "khác"
+            ],
+            "chuyến tham quan buổi chiều": [
+                "Cuối cùng",
+                "duy nhất"
+            ],
+            "món ăn": [
+                "thực sự",
+                "cao",
+                "sạch sẽ",
+                "nhiều",
+                "tuyệt vời",
+                "hỏng",
+                "no",
+                "nhiều",
+                "thực sự",
+                "cao",
+                "thật",
+                "tuyệt vời",
+                "trọn vẹn",
+                "khó"
+            ],
+            "điểm dừng": [
+                "bất kỳ"
+            ],
+            "con phố": [
+                "lớn",
+                "nhỏ",
+                "đông đúc"
+            ],
+            "bùng binh": [
+                "lớn"
+            ],
+            "xích lô": [
+                "thú vị",
+                "khác",
+                "thoải mái",
+                "nhiều"
+            ],
+            "nhà hàng": [
+                "niềm nở"
+            ],
+            "thực phẩm": [
+                "nhiều",
+                "hơn",
+                "khác"
+            ],
+            "buổi sáng": [
+                "tuyệt vời"
+            ],
+            "xích lô xích lô": [
+                "nhiều"
+            ],
+            "trái cây": [
+                "khác",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "tốt bụng",
+                "tuyệt vời",
+                "niềm nở",
+                "hiểu biết"
+            ],
+            "ẩm thực việt nam": [],
+            "hướng dẫn viên du lịch": [],
+            "tour ẩm thực đường phố": [
+                "điển hình",
+                "nhất",
+                "nhiều",
+                "no"
+            ],
+            "bánh bao": [],
+            "phố cổ": [
+                "khác"
+            ],
+            "nhà hàng vỉa": [],
+            "vệ sinh": [
+                "đặc biệt",
+                "sạch sẽ",
+                "sạch"
+            ],
+            "trang web": [],
+            "khách sạn": [
+                "đúng",
+                "thoải mái",
+                "nhiều",
+                "dài",
+                "khoảng",
+                "thường xuyên"
+            ],
+            "chuyến tham quan ẩm thực": [
+                "chắc chắn",
+                "ngon",
+                "nhất"
+            ],
+            "chuyến đi": [
+                "hoàn hảo",
+                "nhiều",
+                "đặc biệt",
+                "hơn",
+                "nhiệt tình",
+                "bất kỳ"
+            ],
+            "thom": [
+                "tốt bụng",
+                "tuyệt vời"
+            ],
+            "chuyến tham quan phố đi bộ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "chủ": [
+                "niềm nở"
+            ],
+            "chuyến tham quan ẩm thực đường phố buổi chiều": [
+                "tuyệt vời"
+            ],
+            "hương vị huế": [
+                "tuyệt vời"
+            ],
+            "địa điểm ăn uống": [
+                "thực sự",
+                "thực sự"
+            ],
+            "đầu bếp": [
+                "khác"
+            ],
+            "loại thảo mộc": [
+                "khác"
+            ],
+            "chuyên môn": [],
+            "văn hóa ẩm thực": [
+                "tuyệt vời",
+                "sâu sắc",
+                "thực sự"
+            ],
+            "chuyến du lịch": [
+                "tuyệt vời",
+                "dài",
+                "khoảng",
+                "thường xuyên"
+            ],
+            "đồ ăn": [
+                "đẹp",
+                "đa dạng",
+                "tuyệt vời",
+                "ngắn"
+            ],
+            "xe đạp": [
+                "toàn cảnh"
+            ],
+            "tầm nhìn": [
+                "tuyệt vời"
+            ],
+            "tour du lịch": [
+                "bất kỳ"
+            ],
+            "tiết đông": [
+                "thực sự",
+                "cao"
+            ],
+            "chai nước": [],
+            "bàn ăn": [
+                "nhiều"
+            ],
+            "thực phẩm mất vệ sinh": [],
+            "cà phê": [
+                "tuyệt vời"
+            ],
+            "sông hương": [
+                "chậm"
+            ],
+            "chiếc": [
+                "thoải mái",
+                "nhiều"
+            ],
+            "nghi thức xã giao": [],
+            "đầu": [
+                "nhiều"
+            ],
+            "rau quả": [
+                "tuyệt vời"
+            ],
+            "chợ": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan ẩm thực buổi": [],
+            "chuyến tham quan ẩm thực hương vị huế": [],
+            "địa điểm": [],
+            "trung tâm": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ẩm thực": 1.5,
+            "lịch sử": 1.0,
+            "văn hóa": 0.5,
+            "chuyến tham quan": 3.5,
+            "khăn": 0.5,
+            "đồ dùng": 1.0,
+            "trải nghiệm": 1.5,
+            "hương vị": 1.0,
+            "chuyến tham quan buổi chiều": 0.5,
+            "món ăn": 4.0,
+            "điểm dừng": 0.5,
+            "con phố": 1.0,
+            "bùng binh": 0.5,
+            "xích lô": 1.0,
+            "nhà hàng": 1.0,
+            "thực phẩm": 1.5,
+            "buổi sáng": 0.5,
+            "xích lô xích lô": 0.5,
+            "trái cây": 1.0,
+            "hướng dẫn viên": 2.0,
+            "ẩm thực việt nam": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "tour ẩm thực đường phố": 0.5,
+            "bánh bao": 0.5,
+            "phố cổ": 0.5,
+            "nhà hàng vỉa": 0.5,
+            "vệ sinh": 1.0,
+            "trang web": 0.5,
+            "khách sạn": 1.5,
+            "chuyến tham quan ẩm thực": 0.5,
+            "chuyến đi": 1.0,
+            "thom": 0.5,
+            "chuyến tham quan phố đi bộ": 0.5,
+            "chủ": 0.5,
+            "chuyến tham quan ẩm thực đường phố buổi chiều": 0.5,
+            "hương vị huế": 0.5,
+            "địa điểm ăn uống": 1.0,
+            "đầu bếp": 0.5,
+            "loại thảo mộc": 0.5,
+            "chuyên môn": 0.5,
+            "văn hóa ẩm thực": 0.5,
+            "chuyến du lịch": 0.5,
+            "đồ ăn": 1.0,
+            "xe đạp": 0.5,
+            "tầm nhìn": 0.5,
+            "tour du lịch": 0.5,
+            "tiết đông": 0.5,
+            "chai nước": 0.5,
+            "bàn ăn": 0.5,
+            "thực phẩm mất vệ sinh": 0.5,
+            "cà phê": 0.5,
+            "sông hương": 0.5,
+            "chiếc": 0.5,
+            "nghi thức xã giao": 0.5,
+            "đầu": 0.5,
+            "rau quả": 0.5,
+            "chợ": 0.5,
+            "chuyến tham quan ẩm thực buổi": 0.5,
+            "chuyến tham quan ẩm thực hương vị huế": 0.5,
+            "địa điểm": 0.5,
+            "trung tâm": 0.5
+        }
     },
     {
         "attraction_name": "Hue Flavor - Street Food Tour",
@@ -530,7 +1773,240 @@
             "https://www.tripadvisor.com/Attraction_Review-g306997-d6739521-Reviews-Portuguese_Settlement-Melaka_Central_Melaka_District_Melaka_State.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or60-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or50-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or50-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan ẩm thực": 0.995034146530088,
+            "hướng dẫn viên du lịch": 0.9954078112787101,
+            "quán ăn": 0.358941720391158,
+            "văn hóa ẩm thực": 0.987263206159696,
+            "món ăn": 0.8830060690080345,
+            "lịch sử": 0.5,
+            "thức ăn": 0.9952622780304713,
+            "chuyến tham quan": 0.9267751813151076,
+            "đồ ăn": 0.5185318025032757,
+            "hướng dẫn viên": 0.9951747767627239,
+            "chuyến đi": 0.7683846697909757,
+            "nếm thử ẩm thực địa": 0.9949411596171558,
+            "văn hóa": 0.5,
+            "nét văn hóa": 0.5,
+            "động cơ": -0.45327844377607107,
+            "thị trấn": 0.9947673033457249,
+            "đồng hồ": 0.5,
+            "món bún bò huế": 0.8737691454589367,
+            "trung tâm": 0.9952208925387822,
+            "sản phẩm": 0.9679471575655043,
+            "chợ trung tâm": 0.8737691454589367,
+            "khu chợ": 0.9954039981821552,
+            "buổi chiều": 0.9576528323814273,
+            "quà": 0.9930739080300555,
+            "cà phê": 0.995214797090739,
+            "hương vị ẩm thực huế": 0.9944703102810308,
+            "món đặc sản": 0.5,
+            "nhà hàng": 0.5,
+            "trải nghiệm": 0.964182916097343,
+            "chuyến tham quan ẩm thực đường phố": 0.9894517802167684,
+            "ẩm thực việt": 0.8737691454589367,
+            "tour du lịch": 0.5,
+            "bờ sông": 0.6173092871904373,
+            "con": 0.49087540432810783,
+            "hẻm": 0.0624718964099884,
+            "hướng dẫn viên tom": 0.5,
+            "ẩm thực": 0.5,
+            "loại thực phẩm": 0.5073179006576538,
+            "điểm dừng": 0.04816899579600431,
+            "chiều tuyệt": 0.9955914848833345,
+            "giáng sinh": 0.8476488403975964
+        },
+        "dicts_adj": {
+            "chuyến tham quan ẩm thực": [
+                "tuyệt vời",
+                "nhất",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "khắp"
+            ],
+            "quán ăn": [
+                "ngon",
+                "phải",
+                "rẻ"
+            ],
+            "văn hóa ẩm thực": [
+                "tốt"
+            ],
+            "món ăn": [
+                "thực sự",
+                "ngon",
+                "đầy",
+                "tuyệt vời",
+                "nhất",
+                "thực sự",
+                "ngon",
+                "đặc biệt",
+                "ngon",
+                "khác",
+                "tuyệt vời",
+                "giống",
+                "ngon",
+                "nhiều",
+                "ngon"
+            ],
+            "lịch sử": [],
+            "thức ăn": [
+                "thực sự",
+                "tuyệt vời",
+                "tuyệt vời",
+                "ngon",
+                "chu đáo"
+            ],
+            "chuyến tham quan": [
+                "bất kỳ",
+                "thực sự",
+                "tuyệt vời",
+                "nhiều",
+                "hơn",
+                "tuyệt vời",
+                "hơn",
+                "nhiều",
+                "thực sự",
+                "cao",
+                "Chắc chắn",
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "khác",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "thú vị"
+            ],
+            "chuyến đi": [
+                "đặc biệt",
+                "gần"
+            ],
+            "nếm thử ẩm thực địa": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "văn hóa": [],
+            "nét văn hóa": [],
+            "động cơ": [],
+            "thị trấn": [
+                "đầu tiên",
+                "tuyệt vời"
+            ],
+            "đồng hồ": [],
+            "món bún bò huế": [
+                "ngon",
+                "đặc biệt",
+                "ngon"
+            ],
+            "trung tâm": [
+                "thực sự"
+            ],
+            "sản phẩm": [
+                "khác"
+            ],
+            "chợ trung tâm": [
+                "tuyệt vời"
+            ],
+            "khu chợ": [
+                "tuyệt vời"
+            ],
+            "buổi chiều": [
+                "tuyệt vời",
+                "hợp lý"
+            ],
+            "quà": [
+                "thú vị"
+            ],
+            "cà phê": [
+                "thú vị"
+            ],
+            "hương vị ẩm thực huế": [
+                "tuyệt vời"
+            ],
+            "món đặc sản": [],
+            "nhà hàng": [],
+            "trải nghiệm": [
+                "nhiều"
+            ],
+            "chuyến tham quan ẩm thực đường phố": [],
+            "ẩm thực việt": [
+                "khác",
+                "tuyệt vời",
+                "giống"
+            ],
+            "tour du lịch": [],
+            "bờ sông": [
+                "nhỏ"
+            ],
+            "con": [
+                "nhỏ"
+            ],
+            "hẻm": [
+                "nhỏ"
+            ],
+            "hướng dẫn viên tom": [],
+            "ẩm thực": [],
+            "loại thực phẩm": [
+                "tốt"
+            ],
+            "điểm dừng": [
+                "khác",
+                "tuyệt vời"
+            ],
+            "chiều tuyệt": [],
+            "giáng sinh": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan ẩm thực": 1.0,
+            "hướng dẫn viên du lịch": 0.5,
+            "quán ăn": 0.5,
+            "văn hóa ẩm thực": 0.5,
+            "món ăn": 3.0,
+            "lịch sử": 1.0,
+            "thức ăn": 1.5,
+            "chuyến tham quan": 3.5,
+            "đồ ăn": 1.0,
+            "hướng dẫn viên": 1.0,
+            "chuyến đi": 1.0,
+            "nếm thử ẩm thực địa": 0.5,
+            "văn hóa": 0.5,
+            "nét văn hóa": 0.5,
+            "động cơ": 0.5,
+            "thị trấn": 0.5,
+            "đồng hồ": 0.5,
+            "món bún bò huế": 0.5,
+            "trung tâm": 0.5,
+            "sản phẩm": 0.5,
+            "chợ trung tâm": 0.5,
+            "khu chợ": 0.5,
+            "buổi chiều": 0.5,
+            "quà": 0.5,
+            "cà phê": 0.5,
+            "hương vị ẩm thực huế": 0.5,
+            "món đặc sản": 0.5,
+            "nhà hàng": 1.0,
+            "trải nghiệm": 0.5,
+            "chuyến tham quan ẩm thực đường phố": 0.5,
+            "ẩm thực việt": 0.5,
+            "tour du lịch": 0.5,
+            "bờ sông": 0.5,
+            "con": 0.5,
+            "hẻm": 0.5,
+            "hướng dẫn viên tom": 0.5,
+            "ẩm thực": 0.5,
+            "loại thực phẩm": 0.5,
+            "điểm dừng": 0.5,
+            "chiều tuyệt": 0.5,
+            "giáng sinh": 0.5
+        }
     },
     {
         "attraction_name": "Hue Flavor - Street Food Tour",
@@ -613,7 +2089,265 @@
             "https://www.tripadvisor.com/Attraction_Review-g294195-d3574806-Reviews-Aerial_Tramway_in_Tbilisi-Tbilisi.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or70-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or60-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or60-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "du lịch ẩm thực": 0.5,
+            "trải nghiệm": 0.7476464714854956,
+            "món ăn": 0.5131772690656362,
+            "văn hóa ẩm thực": 0.5,
+            "cà phê": 0.5,
+            "chuyến tham quan": 0.8496242018552342,
+            "chuyến tham quan ẩm thực": 0.9931442106026225,
+            "chuyến đi": 0.8859400469635148,
+            "vệ sinh thực phẩm": 0.9955827892990783,
+            "thức ăn -": 0.5,
+            "phong tục thờ": 0.5,
+            "ẩm thực": 0.7476081934291869,
+            "nhà hàng": 0.5,
+            "hướng dẫn viên": 0.9953360338113271,
+            "tour ẩm thực đường phố": 0.9879408162087202,
+            "thị trấn": 0.256026227856637,
+            "món": 0.992267774612022,
+            "bún bò huế": 0.8737691454589367,
+            "lịch sử": 0.5,
+            "khu": 0.994121786847245,
+            "chợ lớn": 0.9943806938827038,
+            "quà lưu niệm": 0.9955619818647392,
+            "bộ": 0.5,
+            "máy pha cà phê": 0.5,
+            "đồ ăn thì": 0.9881907704984769,
+            "buổi sáng": 0.9955712042283267,
+            "bữa chính": 0.9955283778253943,
+            "hướng dẫn viên du lịch": 0.8609038891154341,
+            "tour ẩm thực huế": 0.8737691454589367,
+            "hành trình du lịch": 0.6968743158504367,
+            "thức ăn": 0.9955415793810971,
+            "hội an": 0.9948911050450988,
+            "điểm": 0.5,
+            "dừng thực phẩm": 0.5,
+            "nếm": 0.6908038286492229,
+            "đồ ăn": 0.5198108647018671,
+            "phong cảnh": 0.995542622578796,
+            "món ăn việt": 0.9909369895467535,
+            "món bún bò": 0.9945913782576099,
+            "tôm": 0.9860349097289145,
+            "vỏ": 0.9654341726563871,
+            "hấp cơm sền": 0.9955218606046401,
+            "vùng đất": 0.5,
+            "hướng dẫn cá nhân": 0.9949516468914226
+        },
+        "dicts_adj": {
+            "du lịch ẩm thực": [],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "món ăn": [
+                "khác",
+                "đủ",
+                "nhiều",
+                "thú vị",
+                "thú vị",
+                "khác",
+                "nhẹ",
+                "ngon",
+                "thú vị",
+                "nhiều",
+                "ngon",
+                "suốt",
+                "tuyệt vời",
+                "nhiều",
+                "tuyệt vời",
+                "tổng quan"
+            ],
+            "văn hóa ẩm thực": [],
+            "cà phê": [],
+            "chuyến tham quan": [
+                "tốt",
+                "thú vị",
+                "thoải mái",
+                "liên tục",
+                "bất kỳ",
+                "sâu",
+                "hơn",
+                "tuyệt vời",
+                "đầy",
+                "cổ",
+                "khắp"
+            ],
+            "chuyến tham quan ẩm thực": [
+                "khắp",
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tuyệt khi",
+                "tuyệt vời",
+                "dễ thương",
+                "nhiều",
+                "lịch sự"
+            ],
+            "vệ sinh thực phẩm": [
+                "coi trọng",
+                "sạch sẽ",
+                "hoàn toàn"
+            ],
+            "thức ăn -": [],
+            "phong tục thờ": [],
+            "ẩm thực": [
+                "tour"
+            ],
+            "nhà hàng": [],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "tour ẩm thực đường phố": [
+                "nhiều",
+                "gần",
+                "chắc chắn",
+                "nhất"
+            ],
+            "thị trấn": [
+                "đầu tiên",
+                "thú vị",
+                "tệ",
+                "no",
+                "khắp",
+                "vui"
+            ],
+            "món": [
+                "ngon",
+                "nhất",
+                "yêu thích"
+            ],
+            "bún bò huế": [
+                "nhiều"
+            ],
+            "lịch sử": [],
+            "khu": [
+                "vui"
+            ],
+            "chợ lớn": [
+                "vui"
+            ],
+            "quà lưu niệm": [
+                "yêu thích"
+            ],
+            "bộ": [],
+            "máy pha cà phê": [],
+            "đồ ăn thì": [
+                "tuyệt vời",
+                "đa dạng",
+                "nhiều"
+            ],
+            "buổi sáng": [
+                "tuyệt vời"
+            ],
+            "bữa chính": [
+                "ngon"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tổng hợp",
+                "đầu tiên",
+                "am hiểu"
+            ],
+            "tour ẩm thực huế": [
+                "tổng hợp",
+                "đầu tiên"
+            ],
+            "hành trình du lịch": [
+                "tốt bụng"
+            ],
+            "thức ăn": [
+                "ngon",
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "hội an": [
+                "tuyệt vời"
+            ],
+            "điểm": [],
+            "dừng thực phẩm": [],
+            "nếm": [
+                "khác"
+            ],
+            "đồ ăn": [
+                "khác"
+            ],
+            "phong cảnh": [
+                "tuyệt vời"
+            ],
+            "món ăn việt": [
+                "nhiều",
+                "khác",
+                "nhiều"
+            ],
+            "món bún bò": [
+                "tuyệt vời"
+            ],
+            "tôm": [
+                "tuyệt vời"
+            ],
+            "vỏ": [
+                "tuyệt vời"
+            ],
+            "hấp cơm sền": [
+                "tuyệt vời"
+            ],
+            "vùng đất": [],
+            "hướng dẫn cá nhân": [
+                "nhiều",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "du lịch ẩm thực": 0.5,
+            "trải nghiệm": 1.0,
+            "món ăn": 3.0,
+            "văn hóa ẩm thực": 0.5,
+            "cà phê": 0.5,
+            "chuyến tham quan": 3.0,
+            "chuyến tham quan ẩm thực": 1.5,
+            "chuyến đi": 1.0,
+            "vệ sinh thực phẩm": 0.5,
+            "thức ăn -": 0.5,
+            "phong tục thờ": 0.5,
+            "ẩm thực": 1.0,
+            "nhà hàng": 0.5,
+            "hướng dẫn viên": 0.5,
+            "tour ẩm thực đường phố": 0.5,
+            "thị trấn": 1.0,
+            "món": 0.5,
+            "bún bò huế": 0.5,
+            "lịch sử": 0.5,
+            "khu": 0.5,
+            "chợ lớn": 0.5,
+            "quà lưu niệm": 0.5,
+            "bộ": 0.5,
+            "máy pha cà phê": 0.5,
+            "đồ ăn thì": 0.5,
+            "buổi sáng": 0.5,
+            "bữa chính": 0.5,
+            "hướng dẫn viên du lịch": 1.0,
+            "tour ẩm thực huế": 0.5,
+            "hành trình du lịch": 0.5,
+            "thức ăn": 0.5,
+            "hội an": 0.5,
+            "điểm": 0.5,
+            "dừng thực phẩm": 0.5,
+            "nếm": 0.5,
+            "đồ ăn": 0.5,
+            "phong cảnh": 0.5,
+            "món ăn việt": 0.5,
+            "món bún bò": 0.5,
+            "tôm": 0.5,
+            "vỏ": 0.5,
+            "hấp cơm sền": 0.5,
+            "vùng đất": 0.5,
+            "hướng dẫn cá nhân": 0.5
+        }
     },
     {
         "attraction_name": "Hue Flavor - Street Food Tour",
@@ -698,7 +2432,312 @@
             "https://www.tripadvisor.com/Attraction_Review-g298063-d10547340-Reviews-Wadi_Shawka-Ras_Al_Khaimah_Emirate_of_Ras_Al_Khaimah.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or80-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or70-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or70-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "lịch sử ẩm thực": 0.363232284784317,
+            "địa điểm ẩm thực": -0.8569994680583477,
+            "món ăn": 0.7185170972661581,
+            "lịch sử": 0.5,
+            "chuyến tham": 0.8675555519099968,
+            "thực phẩm mùi vị": 0.5,
+            "chuyến tham quan": 0.8087101694739735,
+            "tour du lịch": 0.9954675725894049,
+            "tour ẩm thực": 0.9758918005973101,
+            "xích lô": 0.5,
+            "khách sạn": 0.5,
+            "trút nước": 0.5,
+            "đồ ăn thì": 0.06890015356475487,
+            "phố cổ": 0.9940897616324946,
+            "tour có": 0.9934174493537284,
+            "văn hóa": 0.5,
+            "cà phê": 0.23279474582523108,
+            "hướng dẫn viên": 0.5338543187826872,
+            "bộ lọc": -0.37750592455267906,
+            "trải nghiệm": 0.9952929429709911,
+            "chuyến lưu diễn": 0.5,
+            "khu phố dừng": 0.8737691454589367,
+            "chân ăn đặc sản": 0.5084583256393671,
+            "đồ ăn": 0.557161010750052,
+            "chứng": 0.5,
+            "dị ứng": 0.5,
+            "thực phẩm": 0.5,
+            "ẩm thực đường phố": 0.9922500322572887,
+            "con phố": 0.5348001308739185,
+            "sông hương": 0.8737691454589367,
+            "thực phẩm địa": 0.17324889451265335,
+            "bánh kẹo hạt vừng": 0.9950984878232703,
+            "bánh bột lọc": 0.5762777999043465,
+            "mật ong": 0.42719297856092453,
+            "tô": 0.9950194732518867,
+            "bún": 0.5505442069843411,
+            "rau thơm": 0.8737691454589367,
+            "salad xà": 0.5253809606656432,
+            "ẩm thực": 0.992063972458709,
+            "dịch vụ": -0.9688417997676879,
+            "đặc sản": 0.7736306832521223,
+            "nhà hàng": 0.7986980306450278,
+            "số đĩa": 0.9920246320543811,
+            "xe đạp-taxi thật": 0.9923794652277138,
+            "chuyến tham quan ẩm thực": 0.7427404883783311,
+            "món ngon": 0.7477224694448523,
+            "chuyến đi": 0.9955438388278708,
+            "trải nghiệm ẩm thực": 0.9946254458045587,
+            "chủ nhà": 0.9944345375115518,
+            "hương vị": 0.9953080205013976,
+            "phiêu lưu": 0.9878212043549865,
+            "chuyến tham quan chợ thật": 0.5,
+            "xe xích lô": 0.9904099286068231,
+            "bộ lọc cà phê": 0.5,
+            "kẹo mè": 0.5,
+            "dụng cụ ăn uống": 0.5,
+            "vệ sinh": 0.5,
+            "chuyến du lịch": 0.5,
+            "kỳ nghỉ": 0.5,
+            "tour ẩm thực đường phố": 0.8879911787807941
+        },
+        "dicts_adj": {
+            "lịch sử ẩm thực": [
+                "nhiều"
+            ],
+            "địa điểm ẩm thực": [
+                "khác"
+            ],
+            "món ăn": [
+                "thực sự",
+                "ngọt",
+                "ngon"
+            ],
+            "lịch sử": [],
+            "chuyến tham": [
+                "thư giãn",
+                "cùng",
+                "nhiều",
+                "tuyệt",
+                "hữu ích"
+            ],
+            "thực phẩm mùi vị": [],
+            "chuyến tham quan": [
+                "thực sự",
+                "xấu",
+                "bổ ích",
+                "cao",
+                "vui vẻ",
+                "thú vị"
+            ],
+            "tour du lịch": [
+                "tuyệt vời"
+            ],
+            "tour ẩm thực": [
+                "tuyệt vời",
+                "nhiều",
+                "ngon",
+                "xa"
+            ],
+            "xích lô": [],
+            "khách sạn": [],
+            "trút nước": [],
+            "đồ ăn thì": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "phố cổ": [
+                "nhiều"
+            ],
+            "tour có": [
+                "nhiều"
+            ],
+            "văn hóa": [],
+            "cà phê": [
+                "nhỏ",
+                "cuối cùng",
+                "tuyệt"
+            ],
+            "hướng dẫn viên": [
+                "nhỏ"
+            ],
+            "bộ lọc": [
+                "nhỏ"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "chuyến lưu diễn": [],
+            "khu phố dừng": [
+                "nhiều"
+            ],
+            "chân ăn đặc sản": [
+                "nhiều"
+            ],
+            "đồ ăn": [
+                "ngon",
+                "tốt bụng",
+                "chu đáo",
+                "nhiều",
+                "nhiều",
+                "nhanh",
+                "nhạt nhẽo",
+                "ngon",
+                "ngon"
+            ],
+            "chứng": [],
+            "dị ứng": [],
+            "thực phẩm": [],
+            "ẩm thực đường phố": [
+                "đặc biệt"
+            ],
+            "con phố": [
+                "nhỏ"
+            ],
+            "sông hương": [
+                "nhỏ"
+            ],
+            "thực phẩm địa": [],
+            "bánh kẹo hạt vừng": [
+                "cùng"
+            ],
+            "bánh bột lọc": [
+                "cùng"
+            ],
+            "mật ong": [
+                "cùng"
+            ],
+            "tô": [
+                "cùng"
+            ],
+            "bún": [
+                "cùng"
+            ],
+            "rau thơm": [
+                "cùng"
+            ],
+            "salad xà": [
+                "cùng"
+            ],
+            "ẩm thực": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "cao"
+            ],
+            "đặc sản": [
+                "thực sự",
+                "ngọt"
+            ],
+            "nhà hàng": [
+                "khác",
+                "ngon"
+            ],
+            "số đĩa": [
+                "ngon"
+            ],
+            "xe đạp-taxi thật": [
+                "tuyệt",
+                "hữu ích"
+            ],
+            "chuyến tham quan ẩm thực": [
+                "cao",
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "món ngon": [
+                "nổi tiếng"
+            ],
+            "chuyến đi": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm ẩm thực": [
+                "thú vị",
+                "tuyệt vời"
+            ],
+            "chủ nhà": [
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "hương vị": [
+                "nhiều",
+                "thơm",
+                "ngon",
+                "tuyệt vời"
+            ],
+            "phiêu lưu": [],
+            "chuyến tham quan chợ thật": [],
+            "xe xích lô": [
+                "thú vị"
+            ],
+            "bộ lọc cà phê": [],
+            "kẹo mè": [],
+            "dụng cụ ăn uống": [],
+            "vệ sinh": [],
+            "chuyến du lịch": [],
+            "kỳ nghỉ": [],
+            "tour ẩm thực đường phố": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "lịch sử ẩm thực": 0.5,
+            "địa điểm ẩm thực": 0.5,
+            "món ăn": 2.0,
+            "lịch sử": 1.0,
+            "chuyến tham": 1.5,
+            "thực phẩm mùi vị": 0.5,
+            "chuyến tham quan": 3.0,
+            "tour du lịch": 0.5,
+            "tour ẩm thực": 1.0,
+            "xích lô": 0.5,
+            "khách sạn": 0.5,
+            "trút nước": 0.5,
+            "đồ ăn thì": 0.5,
+            "phố cổ": 0.5,
+            "tour có": 0.5,
+            "văn hóa": 0.5,
+            "cà phê": 0.5,
+            "hướng dẫn viên": 0.5,
+            "bộ lọc": 0.5,
+            "trải nghiệm": 1.0,
+            "chuyến lưu diễn": 0.5,
+            "khu phố dừng": 0.5,
+            "chân ăn đặc sản": 0.5,
+            "đồ ăn": 1.5,
+            "chứng": 0.5,
+            "dị ứng": 0.5,
+            "thực phẩm": 0.5,
+            "ẩm thực đường phố": 0.5,
+            "con phố": 0.5,
+            "sông hương": 0.5,
+            "thực phẩm địa": 0.5,
+            "bánh kẹo hạt vừng": 0.5,
+            "bánh bột lọc": 0.5,
+            "mật ong": 0.5,
+            "tô": 0.5,
+            "bún": 0.5,
+            "rau thơm": 0.5,
+            "salad xà": 0.5,
+            "ẩm thực": 1.0,
+            "dịch vụ": 0.5,
+            "đặc sản": 0.5,
+            "nhà hàng": 1.0,
+            "số đĩa": 0.5,
+            "xe đạp-taxi thật": 0.5,
+            "chuyến tham quan ẩm thực": 1.0,
+            "món ngon": 1.0,
+            "chuyến đi": 0.5,
+            "trải nghiệm ẩm thực": 0.5,
+            "chủ nhà": 0.5,
+            "hương vị": 1.0,
+            "phiêu lưu": 0.5,
+            "chuyến tham quan chợ thật": 0.5,
+            "xe xích lô": 0.5,
+            "bộ lọc cà phê": 0.5,
+            "kẹo mè": 0.5,
+            "dụng cụ ăn uống": 0.5,
+            "vệ sinh": 0.5,
+            "chuyến du lịch": 0.5,
+            "kỳ nghỉ": 0.5,
+            "tour ẩm thực đường phố": 0.5
+        }
     },
     {
         "attraction_name": "Hue Flavor - Street Food Tour",
@@ -781,7 +2820,259 @@
             "https://www.tripadvisor.com/Attraction_Review-g47717-d3385315-Reviews-Fire_Island_Lighthouse-Fire_Island_Long_Island_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or90-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or80-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or80-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "buổi chiều": 0.995558661816176,
+            "chuyến tham quan": 0.7357971078781702,
+            "nếm thử": 0.5,
+            "chuyến tham quan bằng xe": 0.9851952472236007,
+            "chuyến tham": 0.994302142993547,
+            "khử trùng": 0.5,
+            "bữa ăn": 0.5,
+            "món ăn": 0.8181981663496811,
+            "chế biến thực phẩm": 0.6502080596983433,
+            "khu ẩm thực": 0.9894726047059521,
+            "địa điểm ăn uống": -0.8876731125637889,
+            "tour du lịch": 0.9954208703711629,
+            "chuyến tham quan ẩm thực": 0.6239440825302154,
+            "chuyến đi": 0.9591756572545921,
+            "đặc sản": 0.5014051720499992,
+            "độ ẩm thực": 0.5,
+            "chuyến du lịch": 0.6041880780830979,
+            "lịch sử": 0.8887330508441664,
+            "ẩm thực": 0.5,
+            "vị trí địa lý": 0.5,
+            "món ăn huế": 0.8737691454589367,
+            "loại": 0.42928512394428253,
+            "trái cây": 0.5,
+            "chợ bánh chưng": 0.5,
+            "kẹo mè": 0.9528137578163296,
+            "thức ăn": 0.6473870072513819,
+            "khăn giấy": 0.5520181823521852,
+            "đồ ăn": 0.5,
+            "hướng dẫn viên": 0.5,
+            "món ăn địa phương": 0.5,
+            "nét ẩm thực": 0.9954767232411541,
+            "trung tâm": 0.5,
+            "nguyên liệu": 0.5,
+            "ẩm thực việt": 0.5,
+            "chuyến lưu diễn": 0.9948245518025942,
+            "chuyến tham quan ẩm thực đường phố hương vị": 0.9952245510648936,
+            "nhà hàng": 0.006264652474783361,
+            "khu chợ chính": 0.985885287867859,
+            "con phố": 0.5,
+            "người": 0.5,
+            "thực phẩm": 0.5,
+            "quán": 0.5,
+            "cà phê": 0.5,
+            "đồ ăn địa": 0.5,
+            "buổi": 0.7845777228940278,
+            "khu chợ": 0.5036891475319862,
+            "trái cây nhiệt": 0.01727451477199793,
+            "xe đạp": -0.5367107260972261,
+            "văn hóa ẩm thực": 0.9709233408793807
+        },
+        "dicts_adj": {
+            "buổi chiều": [
+                "đẹp"
+            ],
+            "chuyến tham quan": [
+                "khác",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "khác",
+                "khổng lồ",
+                "tuyệt vời",
+                "thực sự",
+                "đa dạng",
+                "trọn vẹn",
+                "tuyệt vời",
+                "đắt",
+                "khác"
+            ],
+            "nếm thử": [],
+            "chuyến tham quan bằng xe": [],
+            "chuyến tham": [
+                "sạch sẽ"
+            ],
+            "khử trùng": [],
+            "bữa ăn": [],
+            "món ăn": [
+                "nhiều",
+                "ngon",
+                "khoảng",
+                "khác",
+                "thực sự",
+                "nhiều",
+                "hơn"
+            ],
+            "chế biến thực phẩm": [
+                "nhiều",
+                "cơ bản"
+            ],
+            "khu ẩm thực": [
+                "thực sự",
+                "thú vị"
+            ],
+            "địa điểm ăn uống": [
+                "nhỏ"
+            ],
+            "tour du lịch": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "chuyến tham quan ẩm thực": [
+                "tuyệt vời",
+                "khác",
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "thực sự",
+                "thú vị",
+                "nhiều",
+                "thực sự",
+                "riêng",
+                "chắc chắn",
+                "nổi bật",
+                "tuyệt vời"
+            ],
+            "đặc sản": [
+                "kỳ lạ"
+            ],
+            "độ ẩm thực": [],
+            "chuyến du lịch": [
+                "riêng"
+            ],
+            "lịch sử": [
+                "tốt",
+                "hơn",
+                "nhiều",
+                "nhiều"
+            ],
+            "ẩm thực": [],
+            "vị trí địa lý": [],
+            "món ăn huế": [
+                "khác biệt"
+            ],
+            "loại": [
+                "đặc biệt"
+            ],
+            "trái cây": [],
+            "chợ bánh chưng": [],
+            "kẹo mè": [
+                "thuận tiện"
+            ],
+            "thức ăn": [
+                "nhiều",
+                "nhiều",
+                "khác",
+                "thoải mái",
+                "có thể"
+            ],
+            "khăn giấy": [
+                "cùng",
+                "an toàn",
+                "sẵn"
+            ],
+            "đồ ăn": [],
+            "hướng dẫn viên": [],
+            "món ăn địa phương": [],
+            "nét ẩm thực": [
+                "tuyệt vời"
+            ],
+            "trung tâm": [],
+            "nguyên liệu": [],
+            "ẩm thực việt": [],
+            "chuyến lưu diễn": [
+                "xuất sắc",
+                "tốt"
+            ],
+            "chuyến tham quan ẩm thực đường phố hương vị": [],
+            "nhà hàng": [
+                "khác",
+                "khắp"
+            ],
+            "khu chợ chính": [
+                "thực sự"
+            ],
+            "con phố": [],
+            "người": [],
+            "thực phẩm": [],
+            "quán": [],
+            "cà phê": [],
+            "đồ ăn địa": [],
+            "buổi": [
+                "tuyệt vời",
+                "đắt"
+            ],
+            "khu chợ": [
+                "đặc biệt"
+            ],
+            "trái cây nhiệt": [
+                "đặc biệt"
+            ],
+            "xe đạp": [
+                "tầm tã"
+            ],
+            "văn hóa ẩm thực": [
+                "thực sự",
+                "thú vị"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "buổi chiều": 0.5,
+            "chuyến tham quan": 4.0,
+            "nếm thử": 0.5,
+            "chuyến tham quan bằng xe": 0.5,
+            "chuyến tham": 0.5,
+            "khử trùng": 0.5,
+            "bữa ăn": 0.5,
+            "món ăn": 3.5,
+            "chế biến thực phẩm": 0.5,
+            "khu ẩm thực": 0.5,
+            "địa điểm ăn uống": 0.5,
+            "tour du lịch": 0.5,
+            "chuyến tham quan ẩm thực": 1.0,
+            "chuyến đi": 1.5,
+            "đặc sản": 0.5,
+            "độ ẩm thực": 0.5,
+            "chuyến du lịch": 1.0,
+            "lịch sử": 0.5,
+            "ẩm thực": 0.5,
+            "vị trí địa lý": 0.5,
+            "món ăn huế": 0.5,
+            "loại": 1.0,
+            "trái cây": 0.5,
+            "chợ bánh chưng": 0.5,
+            "kẹo mè": 0.5,
+            "thức ăn": 0.5,
+            "khăn giấy": 0.5,
+            "đồ ăn": 0.5,
+            "hướng dẫn viên": 0.5,
+            "món ăn địa phương": 0.5,
+            "nét ẩm thực": 0.5,
+            "trung tâm": 0.5,
+            "nguyên liệu": 1.0,
+            "ẩm thực việt": 0.5,
+            "chuyến lưu diễn": 0.5,
+            "chuyến tham quan ẩm thực đường phố hương vị": 0.5,
+            "nhà hàng": 0.5,
+            "khu chợ chính": 0.5,
+            "con phố": 0.5,
+            "người": 0.5,
+            "thực phẩm": 0.5,
+            "quán": 0.5,
+            "cà phê": 0.5,
+            "đồ ăn địa": 0.5,
+            "buổi": 0.5,
+            "khu chợ": 0.5,
+            "trái cây nhiệt": 0.5,
+            "xe đạp": 0.5,
+            "văn hóa ẩm thực": 0.5
+        }
     },
     {
         "attraction_name": "Hue Flavor - Street Food Tour",
@@ -866,6 +3157,311 @@
             "https://www.tripadvisor.com/Attraction_Review-g297913-d12185742-Reviews-Maasai_Market_Curios_and_Crafts-Arusha_Arusha_Region.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or100-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or90-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d6123357-Reviews-or90-Hue_Flavor_Street_Food_Tour-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "du lịch ẩm thực": 0.6606646534055471,
+            "hướng dẫn viên": 0.9232174777425826,
+            "món ăn": 0.7115796740270324,
+            "nền tảng": 0.8737691454589367,
+            "văn hóa ẩm thực": 0.9933887636289,
+            "loại thực phẩm": -0.9354465128853917,
+            "bún bao": 0.8737691454589367,
+            "tour du lịch": 0.8737691454589367,
+            "thức ăn": 0.9950462023844011,
+            "chuyến tham": 0.5,
+            "trái cây rau quả": 0.7736468706279993,
+            "món ăn địa phương": -0.9085962260141969,
+            "khăn lau": 0.9871960491873324,
+            "chiếc xích lô": 0.5062115946784616,
+            "điểm dừng": 0.45577766466885805,
+            "chuyến tham quan": 0.9093137481890153,
+            "bún bò huế": 0.5,
+            "món ngon": 0.5,
+            "bánh khoai cơm ngon": 0.5,
+            "bánh bao khoai mì vô": 0.5,
+            "chuyến tham quan ẩm thực đường phố": 0.9953662464395165,
+            "trung tâm": 0.995566519559361,
+            "trái cây rau": 0.5928632356226444,
+            "thảo mộc": 0.5165856145322323,
+            "ẩm thực": 0.9953433288028464,
+            "bữa ăn": 0.995500827615615,
+            "bờ sông": 0.5,
+            "cà phê": 0.5,
+            "ẩm thực thịnh": 0.5,
+            "món ăn đường phố": 0.9955528437858447,
+            "địa điểm": 0.40642419271171093,
+            "thực phẩm": 0.9936002698959783,
+            "tour du lịch ẩm thực": 0.8109592646360397,
+            "khách sạn": -0.9682998748030514,
+            "hướng dẫn viên điều hành tour đi": 0.5728378761559725,
+            "xe đạp": 0.5,
+            "địa điểm ăn uống": -0.9761623241938651,
+            "thị trấn": 0.9778862274251878,
+            "đồ ăn": 0.7873744152796766,
+            "chuyến tham quan ẩm thực": 0.8924424685537815,
+            "món ăn địa": 0.031035594874992967,
+            "tour ẩm thực đường phố hương vị": 0.9623443002346903,
+            "xích lô": 0.5,
+            "quan ẩm thực": 0.5,
+            "thành phố": 0.7606237553991377,
+            "hào phóng": 0.5,
+            "di sản": 0.7301703982520849,
+            "đầu bếp": 0.9766777412733063,
+            "buổi sáng": 0.9955712042283267,
+            "hương vị": 0.9954862998565659,
+            "lịch sử": 0.5,
+            "không khí sôi": 0.9670343492180109,
+            "doanh nghiệp": 0.8442743076011539,
+            "văn hóa": 0.9954446480842307,
+            "chuyến đi": 0.7455592867918313,
+            "ẩm thực huế": 0.8737691454589367,
+            "ẩm thực việt": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "du lịch ẩm thực": [
+                "nhỏ"
+            ],
+            "hướng dẫn viên": [
+                "thân thiện",
+                "nhiều"
+            ],
+            "món ăn": [
+                "đa dạng",
+                "đặc biệt",
+                "xuất sắc",
+                "gọn",
+                "nhiều",
+                "đặc sắc",
+                "hữu ích",
+                "tương tự",
+                "ngon",
+                "nhanh",
+                "ngon",
+                "tuyệt vời",
+                "ngon",
+                "ngon",
+                "ngon",
+                "cao",
+                "hơn"
+            ],
+            "nền tảng": [
+                "nhiều"
+            ],
+            "văn hóa ẩm thực": [
+                "độc đáo"
+            ],
+            "loại thực phẩm": [
+                "khác"
+            ],
+            "bún bao": [
+                "đặc biệt"
+            ],
+            "tour du lịch": [
+                "tuyệt vời",
+                "vui vẻ",
+                "tuyệt vời",
+                "ngon"
+            ],
+            "thức ăn": [
+                "độc đáo"
+            ],
+            "chuyến tham": [],
+            "trái cây rau quả": [
+                "khác"
+            ],
+            "món ăn địa phương": [
+                "khác"
+            ],
+            "khăn lau": [
+                "chu đáo"
+            ],
+            "chiếc xích lô": [
+                "nhiều",
+                "khác"
+            ],
+            "điểm dừng": [
+                "lớn",
+                "hơn"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "lý tưởng",
+                "ngon",
+                "tuyệt vời",
+                "nhiều",
+                "nhiều",
+                "hơn",
+                "tuyệt vời",
+                "đúng",
+                "thông thường",
+                "am hiểu"
+            ],
+            "bún bò huế": [],
+            "món ngon": [],
+            "bánh khoai cơm ngon": [],
+            "bánh bao khoai mì vô": [],
+            "chuyến tham quan ẩm thực đường phố": [
+                "xuất sắc"
+            ],
+            "trung tâm": [
+                "xuất sắc"
+            ],
+            "trái cây rau": [
+                "khác"
+            ],
+            "thảo mộc": [
+                "khác"
+            ],
+            "ẩm thực": [
+                "xuất sắc"
+            ],
+            "bữa ăn": [
+                "thành thạo",
+                "tuyệt vời"
+            ],
+            "bờ sông": [],
+            "cà phê": [],
+            "ẩm thực thịnh": [],
+            "món ăn đường phố": [
+                "ngon"
+            ],
+            "địa điểm": [
+                "khác"
+            ],
+            "thực phẩm": [
+                "tốt"
+            ],
+            "tour du lịch ẩm thực": [
+                "khác biệt"
+            ],
+            "khách sạn": [
+                "cùng"
+            ],
+            "hướng dẫn viên điều hành tour đi": [
+                "cùng"
+            ],
+            "xe đạp": [],
+            "địa điểm ăn uống": [
+                "khác"
+            ],
+            "thị trấn": [
+                "nhiều"
+            ],
+            "đồ ăn": [
+                "ngon",
+                "giống",
+                "hơn"
+            ],
+            "chuyến tham quan ẩm thực": [
+                "thực sự"
+            ],
+            "món ăn địa": [
+                "thực sự",
+                "rõ"
+            ],
+            "tour ẩm thực đường phố hương vị": [],
+            "xích lô": [],
+            "quan ẩm thực": [],
+            "thành phố": [
+                "cổ",
+                "mới"
+            ],
+            "hào phóng": [],
+            "di sản": [
+                "giỏi",
+                "nhất"
+            ],
+            "đầu bếp": [
+                "giỏi",
+                "nhất"
+            ],
+            "buổi sáng": [
+                "tuyệt vời"
+            ],
+            "hương vị": [
+                "tuyệt vời"
+            ],
+            "lịch sử": [],
+            "không khí sôi": [
+                "tuyệt vời",
+                "chậm",
+                "hơn"
+            ],
+            "doanh nghiệp": [],
+            "văn hóa": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "cao",
+                "hơn"
+            ],
+            "ẩm thực huế": [
+                "thông thường"
+            ],
+            "ẩm thực việt": [
+                "thông thường"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "du lịch ẩm thực": 0.5,
+            "hướng dẫn viên": 1.0,
+            "món ăn": 4.5,
+            "nền tảng": 0.5,
+            "văn hóa ẩm thực": 0.5,
+            "loại thực phẩm": 0.5,
+            "bún bao": 0.5,
+            "tour du lịch": 0.5,
+            "thức ăn": 0.5,
+            "chuyến tham": 1.0,
+            "trái cây rau quả": 0.5,
+            "món ăn địa phương": 0.5,
+            "khăn lau": 0.5,
+            "chiếc xích lô": 0.5,
+            "điểm dừng": 0.5,
+            "chuyến tham quan": 2.5,
+            "bún bò huế": 0.5,
+            "món ngon": 0.5,
+            "bánh khoai cơm ngon": 0.5,
+            "bánh bao khoai mì vô": 0.5,
+            "chuyến tham quan ẩm thực đường phố": 0.5,
+            "trung tâm": 0.5,
+            "trái cây rau": 0.5,
+            "thảo mộc": 0.5,
+            "ẩm thực": 0.5,
+            "bữa ăn": 0.5,
+            "bờ sông": 0.5,
+            "cà phê": 0.5,
+            "ẩm thực thịnh": 0.5,
+            "món ăn đường phố": 0.5,
+            "địa điểm": 1.0,
+            "thực phẩm": 0.5,
+            "tour du lịch ẩm thực": 0.5,
+            "khách sạn": 0.5,
+            "hướng dẫn viên điều hành tour đi": 0.5,
+            "xe đạp": 0.5,
+            "địa điểm ăn uống": 0.5,
+            "thị trấn": 0.5,
+            "đồ ăn": 1.5,
+            "chuyến tham quan ẩm thực": 0.5,
+            "món ăn địa": 1.0,
+            "tour ẩm thực đường phố hương vị": 0.5,
+            "xích lô": 0.5,
+            "quan ẩm thực": 0.5,
+            "thành phố": 0.5,
+            "hào phóng": 0.5,
+            "di sản": 0.5,
+            "đầu bếp": 0.5,
+            "buổi sáng": 0.5,
+            "hương vị": 0.5,
+            "lịch sử": 0.5,
+            "không khí sôi": 0.5,
+            "doanh nghiệp": 0.5,
+            "văn hóa": 0.5,
+            "chuyến đi": 1.0,
+            "ẩm thực huế": 0.5,
+            "ẩm thực việt": 0.5
+        }
     }
 ]

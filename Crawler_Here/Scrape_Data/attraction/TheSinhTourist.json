@@ -103,7 +103,117 @@
             "https://www.tripadvisor.com/Attraction_Review-g186338-d17506794-Reviews-Supreme-London_England.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d25551547-Reviews-or10-TheSinhTourist-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d25551547-Reviews-TheSinhTourist-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d25551547-Reviews-TheSinhTourist-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9871133034563778,
+            "ty du lịch": 0.9953656748402864,
+            "hướng dẫn viên du lịch": 0.9880916641559452,
+            "chuyến tham quan": 0.9950915133813396,
+            "vịnh": 0.9125859726530811,
+            "nhân viên": 0.8737691454589367,
+            "dịch vụ": 0.9954772240598686,
+            "quán cà phê": 0.9955398800084367,
+            "nhà hàng": 0.995549222745467,
+            "chuyến du ngoạn vịnh": 0.8737691454589367,
+            "thức ăn": 0.9955726584885269,
+            "phòng": 0.9954898354480974,
+            "chuyến đi dịch vụ": 0.9877982701873407,
+            "trải nghiệm": 0.9953864681495664,
+            "đồ ăn": 0.9955946922418661,
+            "tour du lịch": 0.6690999772399664,
+            "vấn du lịch": 0.9956019312376156,
+            "chuyến đi vịnh": 0.863265901338309,
+            "nhà tư vấn du lịch": 0.9924350131768733
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "hữu ích",
+                "suôn sẻ"
+            ],
+            "ty du lịch": [
+                "hữu ích",
+                "thực sự",
+                "xuất sắc"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tốt"
+            ],
+            "chuyến tham quan": [
+                "tốt",
+                "hài lòng"
+            ],
+            "vịnh": [
+                "tốt",
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "tốt",
+                "tuyệt vời",
+                "tuyệt đồ ăn"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "quán cà phê": [
+                "tuyệt vời"
+            ],
+            "nhà hàng": [
+                "tuyệt vời"
+            ],
+            "chuyến du ngoạn vịnh": [
+                "thực sự",
+                "xuất sắc"
+            ],
+            "thức ăn": [
+                "ngon"
+            ],
+            "phòng": [
+                "tuyệt vời"
+            ],
+            "chuyến đi dịch vụ": [
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tốt đẹp",
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "tour du lịch": [],
+            "vấn du lịch": [
+                "nhiều"
+            ],
+            "chuyến đi vịnh": [],
+            "nhà tư vấn du lịch": [
+                "giỏi"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 4.5,
+            "ty du lịch": 3.0,
+            "hướng dẫn viên du lịch": 1.5,
+            "chuyến tham quan": 1.5,
+            "vịnh": 4.5,
+            "nhân viên": 4.5,
+            "dịch vụ": 1.5,
+            "quán cà phê": 1.5,
+            "nhà hàng": 1.5,
+            "chuyến du ngoạn vịnh": 1.5,
+            "thức ăn": 1.5,
+            "phòng": 1.5,
+            "chuyến đi dịch vụ": 1.5,
+            "trải nghiệm": 4.5,
+            "đồ ăn": 1.5,
+            "tour du lịch": 1.5,
+            "vấn du lịch": 1.5,
+            "chuyến đi vịnh": 1.5,
+            "nhà tư vấn du lịch": 1.5
+        }
     },
     {
         "attraction_name": "TheSinhTourist",
@@ -198,6 +308,52 @@
             "https://www.tripadvisor.com/Attraction_Review-g294446-d4439251-Reviews-Velur_Spa-Tirana_Tirana_County.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d25551547-Reviews-or10-TheSinhTourist-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d25551547-Reviews-or10-TheSinhTourist-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "văn phòng": 0.9847184419631958,
+            "tour du lịch": 0.9916844499530271,
+            "trải nghiệm": 0.9952929429709911,
+            "vịnh": 0.9943137286463752,
+            "hướng dẫn viên so": 0.9918595709605142,
+            "đại lý": 0.8737691454589367,
+            "giá cả": 0.9954993514693342,
+            "nhân viên": 0.9946226840256713
+        },
+        "dicts_adj": {
+            "văn phòng": [
+                "tốt bụng"
+            ],
+            "tour du lịch": [
+                "tốt bụng"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "vịnh": [],
+            "hướng dẫn viên so": [
+                "dài"
+            ],
+            "đại lý": [
+                "tốt"
+            ],
+            "giá cả": [
+                "thân thiện"
+            ],
+            "nhân viên": [
+                "thân thiện"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "văn phòng": 1,
+            "tour du lịch": 1,
+            "trải nghiệm": 1,
+            "vịnh": 1.5,
+            "hướng dẫn viên so": 1.5,
+            "đại lý": 1,
+            "giá cả": 1,
+            "nhân viên": 1
+        }
     }
 ]

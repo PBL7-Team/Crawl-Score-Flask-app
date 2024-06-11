@@ -85,7 +85,266 @@
             "https://www.tripadvisor.com/Attraction_Review-g147247-d606779-Reviews-Aruba_Aloe_Factory_Museum_and_Store-Aruba.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d15759620-Reviews-or10-Vietnam_Food_Safari-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15759620-Reviews-Vietnam_Food_Safari-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15759620-Reviews-Vietnam_Food_Safari-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khách sạn": 0.5035086907446384,
+            "xe jeep": 0.7473523452063091,
+            "dạ dày": 0.9889871934428811,
+            "bán đồ uống": 0.9757563564926386,
+            "ly nước chanh": 0.9954807443427853,
+            "thị trường": 0.9942180323414505,
+            "khu chợ ẩm": 0.6256978157907724,
+            "loại thịt": 0.9183990536257625,
+            "bụng": 0.5,
+            "thịt lợn": 0.5,
+            "ghế": 0.9900327411014587,
+            "món": 0.32878123002592474,
+            "bánh chuối chiên": 0.606117038987577,
+            "nhà hàng cá": -0.9641999499872327,
+            "quán rượu": 0.5287567488849163,
+            "đồ ăn": 0.8244107280042954,
+            "chợ đêm": 0.5651318160817027,
+            "khu du lịch": 0.9025194878340699,
+            "ngôi chùa phật giáo": 0.8737691454589367,
+            "chế độ cầu nguyện": 0.8737691454589367,
+            "quầy": 0.5,
+            "hàng thực phẩm": 0.5,
+            "tráng miệng": 0.9955748245702125,
+            "quả": 0.5,
+            "trứng cút": 0.5,
+            "ngô chiên": 0.5,
+            "ngôi nhà": 0.9949856051825918,
+            "món ăn": 0.7737306805647677,
+            "chào tom": 0.9955931797157973,
+            "người dẫn chương trình": 0.9942817647242919,
+            "nếm thử": 0.5,
+            "kiến ​​thức địa phương": 0.5,
+            "nền tảng": 0.5,
+            "đầu bếp": 0.5,
+            "chuyến du lịch": 0.9928807625256013,
+            "chuyến tham quan": 0.8824893196113408,
+            "thức ăn ngon": 0.8737691454589367,
+            "máy chủ": 0.9954819307313301,
+            "khu chợ": 0.5,
+            "nhà hàng": 0.5,
+            "người dân địa phương": 0.5,
+            "khu chợ nơi người dân địa phương": 0.5,
+            "trải nghiệm": 0.9927652559126727,
+            "địa điểm ăn uống": 0.9348091688007116,
+            "người hướng dẫn": 0.9953911512857303,
+            "ngôi nhà hàng": 0.5,
+            "văn hóa": 0.99273357889615,
+            "phiêu lưu": 0.9954982417402789,
+            "food tour": 0.9790274233091623,
+            "hướng dẫn viên": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "khách sạn": [],
+            "xe jeep": [
+                "thú vị",
+                "tuyệt",
+                "tuyệt"
+            ],
+            "dạ dày": [
+                "may",
+                "nhạy cảm",
+                "hữu ích"
+            ],
+            "bán đồ uống": [
+                "thú vị"
+            ],
+            "ly nước chanh": [
+                "thú vị"
+            ],
+            "thị trường": [],
+            "khu chợ ẩm": [
+                "ẩm ướt",
+                "nhiều",
+                "hơn"
+            ],
+            "loại thịt": [
+                "nhiều",
+                "khác"
+            ],
+            "bụng": [],
+            "thịt lợn": [],
+            "ghế": [
+                "thơm",
+                "ngon",
+                "nhỏ",
+                "đỏ",
+                "truyền thống"
+            ],
+            "món": [
+                "truyền thống",
+                "hơn",
+                "ngon"
+            ],
+            "bánh chuối chiên": [
+                "truyền thống",
+                "hơn"
+            ],
+            "nhà hàng cá": [
+                "nhiều"
+            ],
+            "quán rượu": [
+                "nhẹ"
+            ],
+            "đồ ăn": [
+                "nhẹ",
+                "đẹp"
+            ],
+            "chợ đêm": [],
+            "khu du lịch": [
+                "nhiều",
+                "hơn",
+                "ít",
+                "hơn",
+                "tuyệt vời",
+                "đầy đủ"
+            ],
+            "ngôi chùa phật giáo": [
+                "nhiều",
+                "hơn",
+                "ít",
+                "hơn",
+                "tuyệt vời",
+                "đầy đủ"
+            ],
+            "chế độ cầu nguyện": [
+                "nhiều",
+                "hơn",
+                "ít",
+                "hơn",
+                "tuyệt vời",
+                "đầy đủ"
+            ],
+            "quầy": [],
+            "hàng thực phẩm": [],
+            "tráng miệng": [
+                "ngon"
+            ],
+            "quả": [],
+            "trứng cút": [],
+            "ngô chiên": [],
+            "ngôi nhà": [
+                "nhiều",
+                "thú vị"
+            ],
+            "món ăn": [
+                "duy nhất",
+                "đủ",
+                "khác",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "chào tom": [
+                "vui",
+                "tuyệt vời"
+            ],
+            "người dẫn chương trình": [
+                "cũ",
+                "hơn",
+                "tuyệt vời"
+            ],
+            "nếm thử": [],
+            "kiến ​​thức địa phương": [],
+            "nền tảng": [],
+            "đầu bếp": [],
+            "chuyến du lịch": [
+                "khắp",
+                "vui"
+            ],
+            "chuyến tham quan": [
+                "khác",
+                "vui",
+                "tuyệt vời"
+            ],
+            "thức ăn ngon": [
+                "tuyệt vời"
+            ],
+            "máy chủ": [
+                "tuyệt vời"
+            ],
+            "khu chợ": [],
+            "nhà hàng": [],
+            "người dân địa phương": [],
+            "khu chợ nơi người dân địa phương": [],
+            "trải nghiệm": [
+                "tốt"
+            ],
+            "địa điểm ăn uống": [
+                "chân thực"
+            ],
+            "người hướng dẫn": [
+                "tuyệt vời"
+            ],
+            "ngôi nhà hàng": [],
+            "văn hóa": [],
+            "phiêu lưu": [
+                "tuyệt vời"
+            ],
+            "food tour": [
+                "cùng"
+            ],
+            "hướng dẫn viên": [
+                "đẹp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khách sạn": 0.5,
+            "xe jeep": 1.0,
+            "dạ dày": 0.5,
+            "bán đồ uống": 0.5,
+            "ly nước chanh": 0.5,
+            "thị trường": 0.5,
+            "khu chợ ẩm": 0.5,
+            "loại thịt": 0.5,
+            "bụng": 0.5,
+            "thịt lợn": 0.5,
+            "ghế": 0.5,
+            "món": 0.5,
+            "bánh chuối chiên": 0.5,
+            "nhà hàng cá": 0.5,
+            "quán rượu": 0.5,
+            "đồ ăn": 1.0,
+            "chợ đêm": 0.5,
+            "khu du lịch": 0.5,
+            "ngôi chùa phật giáo": 0.5,
+            "chế độ cầu nguyện": 0.5,
+            "quầy": 0.5,
+            "hàng thực phẩm": 0.5,
+            "tráng miệng": 0.5,
+            "quả": 0.5,
+            "trứng cút": 0.5,
+            "ngô chiên": 0.5,
+            "ngôi nhà": 0.5,
+            "món ăn": 2.0,
+            "chào tom": 0.5,
+            "người dẫn chương trình": 0.5,
+            "nếm thử": 0.5,
+            "kiến ​​thức địa phương": 0.5,
+            "nền tảng": 0.5,
+            "đầu bếp": 0.5,
+            "chuyến du lịch": 1.0,
+            "chuyến tham quan": 2.5,
+            "thức ăn ngon": 0.5,
+            "máy chủ": 0.5,
+            "khu chợ": 0.5,
+            "nhà hàng": 0.5,
+            "người dân địa phương": 0.5,
+            "khu chợ nơi người dân địa phương": 0.5,
+            "trải nghiệm": 0.5,
+            "địa điểm ăn uống": 0.5,
+            "người hướng dẫn": 0.5,
+            "ngôi nhà hàng": 0.5,
+            "văn hóa": 0.5,
+            "phiêu lưu": 0.5,
+            "food tour": 0.5,
+            "hướng dẫn viên": 0.5
+        }
     },
     {
         "attraction_name": "Vietnam Food Safari",
@@ -154,6 +413,48 @@
             "https://www.tripadvisor.com/Attraction_Review-g303908-d7693004-Reviews-Monkey_Beach-Ko_Phi_Phi_Don_Ao_Nang_Krabi_Town_Krabi_Province.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15759620-Reviews-or10-Vietnam_Food_Safari-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15759620-Reviews-or10-Vietnam_Food_Safari-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "địa điểm": 0.5,
+            "hương vị": 0.5,
+            "chuyến tham quan": 0.7513271542266011,
+            "món ăn": 0.01122367029893212,
+            "phần thực phẩm": 0.5,
+            "chuyến đi": 0.9770957892760634,
+            "chuyến đi săn đồ ăn": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "địa điểm": [],
+            "hương vị": [],
+            "chuyến tham quan": [
+                "may mắn",
+                "tình cờ",
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "món ăn": [
+                "tuyệt vời",
+                "khác"
+            ],
+            "phần thực phẩm": [],
+            "chuyến đi": [
+                "nhỏ",
+                "vui"
+            ],
+            "chuyến đi săn đồ ăn": [
+                "ngon"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "địa điểm": 0.5,
+            "hương vị": 0.5,
+            "chuyến tham quan": 0.5,
+            "món ăn": 1.0,
+            "phần thực phẩm": 0.5,
+            "chuyến đi": 0.5,
+            "chuyến đi săn đồ ăn": 0.5
+        }
     }
 ]

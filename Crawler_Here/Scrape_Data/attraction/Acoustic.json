@@ -105,7 +105,159 @@
             "https://www.tripadvisor.com/Attraction_Review-g321538-d8387010-Reviews-Rio_Negro_Hot_Springs-Rincon_de_La_Vieja_Province_of_Guanacaste.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d5894992-Reviews-or10-Acoustic-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d5894992-Reviews-Acoustic-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d5894992-Reviews-Acoustic-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "âm nhạc": 0.9577613390341867,
+            "ban nhạc": 0.9743836807319894,
+            "bài": 0.5618520081043243,
+            "áo phông": 0.9394153747707605,
+            "phố": 0.5614431276917458,
+            "đồ uống": 0.42683668303652667,
+            "người quản lý": 0.5,
+            "nhân viên": 0.5,
+            "dịch vụ": 0.5,
+            "khách hàng": -0.027637904509902,
+            "không khí": 0.335614645446185,
+            "ca sĩ": 0.8642554803518578,
+            "chỗ": 0.9858899565879256,
+            "bài hát": 0.9206183298956603,
+            "khói": 0.8560450486838818,
+            "quán bar": -0.23765904613537714,
+            "giới trẻ": 0.5,
+            "nhạc rock": 0.5,
+            "giá": 0.6758865877054632,
+            "phí bảo hiểm": -0.9646926927380264,
+            "nhạc": 0.9955302309826948,
+            "khói thuốc": 0.533276055008173,
+            "bầu không khí": 0.9600798729807138,
+            "âm nhạc nhạc": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "âm nhạc": [
+                "tuyệt vời",
+                "nhỏ",
+                "thú vị",
+                "tràn đầy",
+                "đầu tiên",
+                "tuyệt vời",
+                "hay",
+                "tốt",
+                "vui vẻ",
+                "tốt",
+                "vui vẻ"
+            ],
+            "ban nhạc": [
+                "tuyệt vời",
+                "nhiều",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "bài": [
+                "dài"
+            ],
+            "áo phông": [
+                "dài"
+            ],
+            "phố": [
+                "nhỏ"
+            ],
+            "đồ uống": [
+                "nhiều",
+                "khác",
+                "nhanh",
+                "Gần",
+                "ngon",
+                "đông",
+                "khó",
+                "đông",
+                "nhiều"
+            ],
+            "người quản lý": [],
+            "nhân viên": [],
+            "dịch vụ": [],
+            "khách hàng": [
+                "phải",
+                "mới"
+            ],
+            "không khí": [
+                "nhỏ",
+                "đông đúc",
+                "tốt",
+                "tốt"
+            ],
+            "ca sĩ": [
+                "thực sự",
+                "tốt",
+                "thường xuyên",
+                "có thể"
+            ],
+            "chỗ": [
+                "sớm",
+                "trống"
+            ],
+            "bài hát": [
+                "thường xuyên",
+                "có thể"
+            ],
+            "khói": [
+                "hay"
+            ],
+            "quán bar": [
+                "ồn ào",
+                "ồn ào"
+            ],
+            "giới trẻ": [],
+            "nhạc rock": [],
+            "giá": [
+                "chắc chắn",
+                "cao",
+                "chắc chắn",
+                "cao",
+                "tương đương"
+            ],
+            "phí bảo hiểm": [],
+            "nhạc": [
+                "thực sự"
+            ],
+            "khói thuốc": [
+                "ít",
+                "nhiều"
+            ],
+            "bầu không khí": [
+                "tuyệt vời"
+            ],
+            "âm nhạc nhạc": [
+                "hay"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "âm nhạc": 2.5,
+            "ban nhạc": 1.5,
+            "bài": 0.5,
+            "áo phông": 0.5,
+            "phố": 0.5,
+            "đồ uống": 2.0,
+            "người quản lý": 0.5,
+            "nhân viên": 0.5,
+            "dịch vụ": 0.5,
+            "khách hàng": 0.5,
+            "không khí": 1.0,
+            "ca sĩ": 1.0,
+            "chỗ": 0.5,
+            "bài hát": 0.5,
+            "khói": 0.5,
+            "quán bar": 1.0,
+            "giới trẻ": 0.5,
+            "nhạc rock": 0.5,
+            "giá": 1.0,
+            "phí bảo hiểm": 0.5,
+            "nhạc": 0.5,
+            "khói thuốc": 0.5,
+            "bầu không khí": 0.5,
+            "âm nhạc nhạc": 0.5
+        }
     },
     {
         "attraction_name": "Acoustic",
@@ -214,7 +366,244 @@
             "https://www.tripadvisor.com/Attraction_Review-g1927756-d16874883-Reviews-Amiga_Island-Labadee_Nord_Department_Haiti.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d5894992-Reviews-or20-Acoustic-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d5894992-Reviews-or10-Acoustic-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d5894992-Reviews-or10-Acoustic-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quán bar": 0.9886750852456316,
+            "người dân địa phương": 0.5296947658061981,
+            "nhạc": 0.9345471444539726,
+            "nhạc sĩ trẻ": 0.5344749158248305,
+            "bài hát": 0.8510570339858532,
+            "âm nhạc": 0.8803371667821747,
+            "cocktail": -0.23188616277184337,
+            "bầu không khí": 0.14523416478186846,
+            "không gian": 0.023109513334929943,
+            "đồ uống": 0.47813617312792867,
+            "bảo hiểm": 0.5,
+            "chỗ": 0.8410871417727321,
+            "bia": 0.6409174340466658,
+            "bài": 0.8843171250773594,
+            "chủ nhật": 0.5358957992866635,
+            "món ăn": 0.9939178314525634,
+            "ly cocktail": 0.5,
+            "ban nhạc": 0.9868938087602146,
+            "trang trải": -0.28543731733225286,
+            "mỗi đêm": 0.527813171967864,
+            "long beach": 0.5,
+            "nhạc acoustic": 0.9886229014955461,
+            "dịch vụ": 0.9955239218543284,
+            "hẻm": 0.825183039996773,
+            "nhạc sống": -0.25999017246067524,
+            "giá": 0.07804412195562493,
+            "chai nước": 0.2653544209897518,
+            "chuyến đi": 0.9881649252492934,
+            "nghệ sĩ": 0.9350174930877984,
+            "phí bảo hiểm": 0.11009353399276733,
+            "quý": 0.7518273331224918,
+            "họ": 0.673507172614336,
+            "ca sĩ": 0.7039483212865889,
+            "karaoke": 0.6139860092662275,
+            "buổi biểu diễn": 0.9954236877965741,
+            "ca": 0.8737691454589367,
+            "giọng hát": 0.9955257889814675,
+            "đám": 0.5140133313834667,
+            "âm nhạc địa phương": 0.988168079406023
+        },
+        "dicts_adj": {
+            "quán bar": [
+                "nhiều"
+            ],
+            "người dân địa phương": [
+                "trẻ"
+            ],
+            "nhạc": [
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "nhạc sĩ trẻ": [
+                "nhỏ"
+            ],
+            "bài hát": [
+                "quốc tế",
+                "đông",
+                "tiêu biểu"
+            ],
+            "âm nhạc": [
+                "tuyệt vời",
+                "khác",
+                "thực sự",
+                "bất kỳ",
+                "vui vẻ",
+                "tuyệt vời",
+                "hoàn toàn",
+                "tuyệt vời",
+                "nhỏ",
+                "nhiều",
+                "Nhiều",
+                "khác",
+                "ít",
+                "hơn",
+                "thú vị",
+                "chắc chắn",
+                "tự nhiên"
+            ],
+            "cocktail": [
+                "tuyệt vời",
+                "đắt"
+            ],
+            "bầu không khí": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "không gian": [
+                "rẻ",
+                "thú vị"
+            ],
+            "đồ uống": [
+                "rẻ",
+                "thú vị",
+                "đắt",
+                "hơn",
+                "phải",
+                "cao",
+                "hơn",
+                "nhiều",
+                "hơn",
+                "có giá",
+                "tuyệt nơi",
+                "tuyệt vời"
+            ],
+            "bảo hiểm": [],
+            "chỗ": [
+                "đúng"
+            ],
+            "bia": [],
+            "bài": [
+                "tuyệt vời"
+            ],
+            "chủ nhật": [],
+            "món ăn": [
+                "sớm"
+            ],
+            "ly cocktail": [],
+            "ban nhạc": [
+                "đặc biệt",
+                "tuyệt vời"
+            ],
+            "trang trải": [
+                "đắt",
+                "hơn",
+                "phải"
+            ],
+            "mỗi đêm": [
+                "muộn"
+            ],
+            "long beach": [],
+            "nhạc acoustic": [],
+            "dịch vụ": [
+                "đẹp",
+                "tốt"
+            ],
+            "hẻm": [
+                "nhỏ",
+                "khó"
+            ],
+            "nhạc sống": [
+                "cao",
+                "hơn"
+            ],
+            "giá": [
+                "cao",
+                "hơn",
+                "thông thường",
+                "cao"
+            ],
+            "chai nước": [
+                "nhỏ"
+            ],
+            "chuyến đi": [],
+            "nghệ sĩ": [
+                "Nhiều",
+                "tốt"
+            ],
+            "phí bảo hiểm": [
+                "nhiều",
+                "hơn"
+            ],
+            "quý": [],
+            "họ": [
+                "sớm",
+                "khoảng",
+                "muộn"
+            ],
+            "ca sĩ": [
+                "hay",
+                "nhất"
+            ],
+            "karaoke": [
+                "hay",
+                "nhất"
+            ],
+            "buổi biểu diễn": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "khác"
+            ],
+            "ca": [
+                "tuyệt vời"
+            ],
+            "giọng hát": [
+                "tuyệt vời"
+            ],
+            "đám": [
+                "đông"
+            ],
+            "âm nhạc địa phương": [
+                "Đầy"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quán bar": 0.5,
+            "người dân địa phương": 0.5,
+            "nhạc": 1.0,
+            "nhạc sĩ trẻ": 0.5,
+            "bài hát": 1.5,
+            "âm nhạc": 2.0,
+            "cocktail": 1.0,
+            "bầu không khí": 1.5,
+            "không gian": 0.5,
+            "đồ uống": 3.5,
+            "bảo hiểm": 0.5,
+            "chỗ": 1.0,
+            "bia": 1.5,
+            "bài": 1.0,
+            "chủ nhật": 0.5,
+            "món ăn": 0.5,
+            "ly cocktail": 0.5,
+            "ban nhạc": 1.0,
+            "trang trải": 0.5,
+            "mỗi đêm": 0.5,
+            "long beach": 0.5,
+            "nhạc acoustic": 0.5,
+            "dịch vụ": 0.5,
+            "hẻm": 0.5,
+            "nhạc sống": 0.5,
+            "giá": 1.5,
+            "chai nước": 0.5,
+            "chuyến đi": 0.5,
+            "nghệ sĩ": 0.5,
+            "phí bảo hiểm": 0.5,
+            "quý": 0.5,
+            "họ": 0.5,
+            "ca sĩ": 0.5,
+            "karaoke": 0.5,
+            "buổi biểu diễn": 0.5,
+            "ca": 0.5,
+            "giọng hát": 0.5,
+            "đám": 0.5,
+            "âm nhạc địa phương": 0.5
+        }
     },
     {
         "attraction_name": "Acoustic",
@@ -324,7 +713,281 @@
             "https://www.tripadvisor.com/Attraction_Review-g60727-d23364821-Reviews-Mermaid_Museum-Berlin_Maryland.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d5894992-Reviews-or30-Acoustic-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d5894992-Reviews-or20-Acoustic-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d5894992-Reviews-or20-Acoustic-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhạc acoustic": -0.9623674536123872,
+            "âm nhạc": 0.6824499782330046,
+            "karaoke": 0.6139860092662275,
+            "đồ uống đông": -0.9456819593906403,
+            "ban nhạc": 0.9233490306845245,
+            "ca": 0.9926676075265277,
+            "sĩ giải trí": 0.9926358880475163,
+            "âm nhạc acoustic": 0.9954174932208844,
+            "nhạc": 0.9952365990611725,
+            "nhạc sống": 0.9938543924727128,
+            "người việt": 0.8737691454589367,
+            "ca hát": 0.8082726718857884,
+            "đồ uống": 0.6581505817943253,
+            "ca sĩ": 0.5873050603258889,
+            "giá": -0.0997185156835864,
+            "đám đông": 0.7625747685087845,
+            "trải nghiệm": 0.9831086175981909,
+            "tivi": 0.5,
+            "máy tính": 0.5,
+            "nhạc sĩ": 0.8801422482647467,
+            "nghệ sĩ": 0.19330599962268025,
+            "ban nhạc sống": 0.9872324587777257,
+            "chỗ": 0.6664814092218876,
+            "người biểu diễn": -0.8208998900372535,
+            "quán karaoke": 0.5,
+            "bài": 0.12074373414119084,
+            "bài hát": 0.11051399602244298,
+            "ca sĩ địa phương": 0.5432550376281142,
+            "dịch vụ": -0.9733370158355683,
+            "khung cảnh": 0.9937395772431046,
+            "người dân địa phương": -0.9562253479380161,
+            "giai điệu": 0.9830786956008524,
+            "bia quá": -0.9719637677771971,
+            "địa điểm biểu diễn": 0.9706365138990805,
+            "bầu không khí": 0.7669644579291344,
+            "giọng hát": 0.9674462946131825,
+            "âm thanh": 0.5563018162501976,
+            "giới trẻ": 0.5,
+            "môi trường": 0.5,
+            "điểm dừng chân": 0.9822663217782974,
+            "mức giá": 0.8737691454589367,
+            "khách sạn": 0.7814054619520903,
+            "bia acoustic": 0.7762982370331883,
+            "ghế đẩu": -0.5858322884887457,
+            "nhân viên": -0.9736236853059381
+        },
+        "dicts_adj": {
+            "nhạc acoustic": [],
+            "âm nhạc": [
+                "đàng hoàng",
+                "tốt",
+                "trực tiếp",
+                "đông đúc",
+                "tuyệt vời",
+                "đông đúc",
+                "trầm ngâm"
+            ],
+            "karaoke": [
+                "hay",
+                "nhất"
+            ],
+            "đồ uống đông": [
+                "đông đúc"
+            ],
+            "ban nhạc": [
+                "giỏi",
+                "giỏi",
+                "thực sự",
+                "hay",
+                "nhỏ",
+                "đông"
+            ],
+            "ca": [
+                "đặc biệt",
+                "xuất sắc"
+            ],
+            "sĩ giải trí": [
+                "đặc biệt",
+                "xuất sắc"
+            ],
+            "âm nhạc acoustic": [],
+            "nhạc": [
+                "nhiều"
+            ],
+            "nhạc sống": [
+                "trẻ",
+                "hay",
+                "nhất",
+                "thú vị",
+                "tốt"
+            ],
+            "người việt": [
+                "trẻ"
+            ],
+            "ca hát": [
+                "tuyệt vời",
+                "lớn"
+            ],
+            "đồ uống": [
+                "ngon",
+                "thực sự",
+                "cao",
+                "nhỏ",
+                "nhiều",
+                "Đúng",
+                "đắt",
+                "phải",
+                "tuyệt nếu"
+            ],
+            "ca sĩ": [
+                "quốc tế",
+                "tuyệt vời",
+                "giỏi",
+                "hơn",
+                "nghiệp dư",
+                "tài năng"
+            ],
+            "giá": [
+                "thực sự",
+                "cao",
+                "đắt",
+                "cao",
+                "cao",
+                "tương tự"
+            ],
+            "đám đông": [
+                "tuyệt vời",
+                "trẻ"
+            ],
+            "trải nghiệm": [
+                "trực tiếp",
+                "tuyệt vời"
+            ],
+            "tivi": [],
+            "máy tính": [],
+            "nhạc sĩ": [
+                "thực sự",
+                "nghiệp dư",
+                "tài năng"
+            ],
+            "nghệ sĩ": [
+                "đông",
+                "nổi tiếng",
+                "khác"
+            ],
+            "ban nhạc sống": [
+                "chắc",
+                "duy nhất",
+                "sâu sắc"
+            ],
+            "chỗ": [
+                "nhỏ",
+                "nhiều",
+                "đầy đủ"
+            ],
+            "người biểu diễn": [
+                "giỏi",
+                "hơn"
+            ],
+            "quán karaoke": [],
+            "bài": [
+                "nổi tiếng",
+                "khác",
+                "thực sự"
+            ],
+            "bài hát": [
+                "nhiều",
+                "nổi tiếng"
+            ],
+            "ca sĩ địa phương": [],
+            "dịch vụ": [
+                "kém"
+            ],
+            "khung cảnh": [
+                "thú vị"
+            ],
+            "người dân địa phương": [
+                "hơn"
+            ],
+            "giai điệu": [
+                "quốc tế"
+            ],
+            "bia quá": [
+                "đắt"
+            ],
+            "địa điểm biểu diễn": [
+                "tốt"
+            ],
+            "bầu không khí": [
+                "Thực sự",
+                "tuyệt vời"
+            ],
+            "giọng hát": [
+                "đơn giản",
+                "sáng tạo"
+            ],
+            "âm thanh": [
+                "tổng thể",
+                "tốt",
+                "tổng thể",
+                "tốt"
+            ],
+            "giới trẻ": [],
+            "môi trường": [],
+            "điểm dừng chân": [
+                "thường xuyên"
+            ],
+            "mức giá": [
+                "đắt",
+                "hơn",
+                "nhiều"
+            ],
+            "khách sạn": [],
+            "bia acoustic": [
+                "cao",
+                "tương tự"
+            ],
+            "ghế đẩu": [
+                "nhỏ"
+            ],
+            "nhân viên": [
+                "chu đáo"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhạc acoustic": 0.5,
+            "âm nhạc": 3.0,
+            "karaoke": 0.5,
+            "đồ uống đông": 0.5,
+            "ban nhạc": 1.0,
+            "ca": 0.5,
+            "sĩ giải trí": 0.5,
+            "âm nhạc acoustic": 0.5,
+            "nhạc": 0.5,
+            "nhạc sống": 2.0,
+            "người việt": 0.5,
+            "ca hát": 1.0,
+            "đồ uống": 2.5,
+            "ca sĩ": 1.5,
+            "giá": 1.5,
+            "đám đông": 1.0,
+            "trải nghiệm": 0.5,
+            "tivi": 0.5,
+            "máy tính": 0.5,
+            "nhạc sĩ": 1.0,
+            "nghệ sĩ": 1.0,
+            "ban nhạc sống": 0.5,
+            "chỗ": 1.0,
+            "người biểu diễn": 0.5,
+            "quán karaoke": 0.5,
+            "bài": 0.5,
+            "bài hát": 1.5,
+            "ca sĩ địa phương": 0.5,
+            "dịch vụ": 0.5,
+            "khung cảnh": 0.5,
+            "người dân địa phương": 0.5,
+            "giai điệu": 0.5,
+            "bia quá": 0.5,
+            "địa điểm biểu diễn": 0.5,
+            "bầu không khí": 0.5,
+            "giọng hát": 0.5,
+            "âm thanh": 0.5,
+            "giới trẻ": 0.5,
+            "môi trường": 0.5,
+            "điểm dừng chân": 0.5,
+            "mức giá": 0.5,
+            "khách sạn": 0.5,
+            "bia acoustic": 0.5,
+            "ghế đẩu": 0.5,
+            "nhân viên": 0.5
+        }
     },
     {
         "attraction_name": "Acoustic",
@@ -434,7 +1097,281 @@
             "https://www.tripadvisor.com/Attraction_Review-g33388-d5842199-Reviews-Charlie_s_Denver-Denver_Colorado.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d5894992-Reviews-or40-Acoustic-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d5894992-Reviews-or30-Acoustic-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d5894992-Reviews-or30-Acoustic-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bài hát nhạc pop": 0.9874516506679356,
+            "nhạc pop": 0.969132411875762,
+            "nhạc": 0.8096238654688932,
+            "viên ngọc": -0.9379561601672322,
+            "khoảng thời gian": 0.9955492473673075,
+            "cảnh": 0.8737691454589367,
+            "bia": 0.6245897151529789,
+            "giá": 0.02704039602152382,
+            "cocktail": 0.5,
+            "con người": -0.5658659469336271,
+            "quán bar": 0.9926620356272906,
+            "âm nhạc": 0.9545997355695969,
+            "nhân viên phục vụ": -0.9594752094708383,
+            "đồ uống": -0.07931932259040572,
+            "rượu": -0.23313323210459203,
+            "ban nhạc": 0.17956559245552248,
+            "âm thanh": 0.9953476790105924,
+            "quán đêm": 0.534660879522562,
+            "karaoke": 0.8994458178058267,
+            "ca sĩ": 0.7372575616464019,
+            "người dân địa phương": -0.21463236742420122,
+            "bầu không khí": 0.5057373866438866,
+            "bài hát là": 0.9129645954817533,
+            "rock-star": 0.8737691454589367,
+            "karoke": 0.8737691454589367,
+            "sân khấu": 0.5,
+            "bài hát": 0.5,
+            "vị trí": 0.99539563304279,
+            "âm thanh nhạc": 0.9829907731618732,
+            "nhạc sĩ": 0.9912762199528515,
+            "dịch vụ": 0.9811198610987049,
+            "không khí": 0.7067276500165462,
+            "ảo nhạc sống": 0.9952055551111698,
+            "cả đêm": 0.5212172791361809,
+            "môi trường": 0.990349474712275,
+            "nhạc sống": 0.9936570678061495,
+            "phòng": 0.7632324574515224,
+            "đám đông": 0.5204508882015944,
+            "phí bảo hiểm": 0.5,
+            "acoustic": 0.8737691454589367,
+            "cafe": 0.8737691454589367,
+            "- bar": 0.8737691454589367,
+            "-": 0.9942960491171107,
+            "the": 0.8737691454589367,
+            "bar": 0.9689128756872378,
+            "the bar": 0.9333074577152729
+        },
+        "dicts_adj": {
+            "bài hát nhạc pop": [
+                "thực sự",
+                "tốt"
+            ],
+            "nhạc pop": [
+                "thực sự",
+                "tuyệt vời",
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "nhạc": [
+                "lớn",
+                "vui",
+                "hay"
+            ],
+            "viên ngọc": [],
+            "khoảng thời gian": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "cảnh": [
+                "tương đương"
+            ],
+            "bia": [
+                "tương đương"
+            ],
+            "giá": [
+                "tương đương",
+                "cao",
+                "cao",
+                "hài lòng",
+                "phải"
+            ],
+            "cocktail": [],
+            "con người": [
+                "nhỏ",
+                "bận rộn"
+            ],
+            "quán bar": [
+                "tuyệt vời"
+            ],
+            "âm nhạc": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "vui vẻ",
+                "hay",
+                "chính xác",
+                "thú vị",
+                "tuyệt vời"
+            ],
+            "nhân viên phục vụ": [
+                "rẻ"
+            ],
+            "đồ uống": [
+                "rẻ",
+                "có giá",
+                "cao",
+                "hài lòng",
+                "phải",
+                "cao",
+                "cao"
+            ],
+            "rượu": [
+                "rẻ"
+            ],
+            "ban nhạc": [
+                "đầu tiên",
+                "đầu tiên",
+                "đông đúc",
+                "tuyệt vời",
+                "tuyệt",
+                "khác",
+                "chủ đề"
+            ],
+            "âm thanh": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "quán đêm": [
+                "khác"
+            ],
+            "karaoke": [
+                "hơn"
+            ],
+            "ca sĩ": [
+                "cùng"
+            ],
+            "người dân địa phương": [
+                "Chủ yếu",
+                "Gần"
+            ],
+            "bầu không khí": [
+                "đông đúc",
+                "tốt"
+            ],
+            "bài hát là": [
+                "quốc tế"
+            ],
+            "rock-star": [
+                "giống"
+            ],
+            "karoke": [
+                "giống"
+            ],
+            "sân khấu": [],
+            "bài hát": [],
+            "vị trí": [
+                "tuyệt vời"
+            ],
+            "âm thanh nhạc": [
+                "nhỏ",
+                "hơn",
+                "nhiều"
+            ],
+            "nhạc sĩ": [
+                "tuyệt vời",
+                "ngầm",
+                "hơn",
+                "phải",
+                "chắc chắn",
+                "xuất sắc"
+            ],
+            "dịch vụ": [
+                "nhanh chóng",
+                "tốt"
+            ],
+            "không khí": [
+                "truyền cảm"
+            ],
+            "ảo nhạc sống": [
+                "mờ"
+            ],
+            "cả đêm": [],
+            "môi trường": [
+                "đẹp"
+            ],
+            "nhạc sống": [
+                "dài",
+                "tuyệt vời",
+                "vui vẻ",
+                "tuyệt vời",
+                "xa"
+            ],
+            "phòng": [
+                "đông đúc",
+                "xuất sắc"
+            ],
+            "đám đông": [
+                "khoảng"
+            ],
+            "phí bảo hiểm": [],
+            "acoustic": [
+                "to"
+            ],
+            "cafe": [
+                "to",
+                "to"
+            ],
+            "- bar": [
+                "to"
+            ],
+            "-": [
+                "to"
+            ],
+            "the": [
+                "to",
+                "to"
+            ],
+            "bar": [
+                "to"
+            ],
+            "the bar": [
+                "to"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bài hát nhạc pop": 0.5,
+            "nhạc pop": 0.5,
+            "nhạc": 1.5,
+            "viên ngọc": 0.5,
+            "khoảng thời gian": 0.5,
+            "cảnh": 0.5,
+            "bia": 1.5,
+            "giá": 2.0,
+            "cocktail": 0.5,
+            "con người": 0.5,
+            "quán bar": 0.5,
+            "âm nhạc": 1.5,
+            "nhân viên phục vụ": 0.5,
+            "đồ uống": 2.5,
+            "rượu": 1.0,
+            "ban nhạc": 1.5,
+            "âm thanh": 0.5,
+            "quán đêm": 0.5,
+            "karaoke": 0.5,
+            "ca sĩ": 1.0,
+            "người dân địa phương": 1.0,
+            "bầu không khí": 0.5,
+            "bài hát là": 0.5,
+            "rock-star": 0.5,
+            "karoke": 0.5,
+            "sân khấu": 0.5,
+            "bài hát": 0.5,
+            "vị trí": 0.5,
+            "âm thanh nhạc": 0.5,
+            "nhạc sĩ": 1.0,
+            "dịch vụ": 1.0,
+            "không khí": 0.5,
+            "ảo nhạc sống": 0.5,
+            "cả đêm": 0.5,
+            "môi trường": 0.5,
+            "nhạc sống": 0.5,
+            "phòng": 0.5,
+            "đám đông": 0.5,
+            "phí bảo hiểm": 0.5,
+            "acoustic": 0.5,
+            "cafe": 0.5,
+            "- bar": 0.5,
+            "-": 0.5,
+            "the": 0.5,
+            "bar": 0.5,
+            "the bar": 0.5
+        }
     },
     {
         "attraction_name": "Acoustic",
@@ -527,6 +1464,53 @@
             "https://www.tripadvisor.com/Attraction_Review-g580250-d1122538-Reviews-Aqualand_Algarve-Alcantarilha_Faro_District_Algarve.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d5894992-Reviews-or40-Acoustic-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d5894992-Reviews-or40-Acoustic-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cuộc tấn công": 0.8737691454589367,
+            "nhạc mang thai": 0.5,
+            "cú đánh": 0.8737691454589367,
+            "món mojito": 0.99324768607039,
+            "số 6": 0.5,
+            "âm nhạc": -0.9729445297271013,
+            "nhạc sĩ": 0.7789341285824776,
+            "sân khấu": 0.9005556628108025,
+            "đám đông": 0.884205493144691
+        },
+        "dicts_adj": {
+            "cuộc tấn công": [
+                "đầu tiên"
+            ],
+            "nhạc mang thai": [],
+            "cú đánh": [
+                "khủng khiếp"
+            ],
+            "món mojito": [
+                "khủng khiếp"
+            ],
+            "số 6": [],
+            "âm nhạc": [],
+            "nhạc sĩ": [
+                "nát"
+            ],
+            "sân khấu": [
+                "cao"
+            ],
+            "đám đông": [
+                "cao"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cuộc tấn công": 0.5,
+            "nhạc mang thai": 0.5,
+            "cú đánh": 0.5,
+            "món mojito": 0.5,
+            "số 6": 0.5,
+            "âm nhạc": 0.5,
+            "nhạc sĩ": 0.5,
+            "sân khấu": 0.5,
+            "đám đông": 0.5
+        }
     }
 ]

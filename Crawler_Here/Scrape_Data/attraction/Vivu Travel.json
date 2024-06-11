@@ -71,7 +71,196 @@
             "https://www.tripadvisor.com/Attraction_Review-g33020-d249512-Reviews-Happy_Hollow_Park_and_Zoo-San_Jose_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d27134007-Reviews-or10-Vivu_Travel-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d27134007-Reviews-Vivu_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d27134007-Reviews-Vivu_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9951222699389539,
+            "chuyến tham quan": 0.7632484538771678,
+            "hướng dẫn viên": 0.8291062211584566,
+            "khách sạn": 0.1603538639843464,
+            "buổi dã": 0.5,
+            "chuyến bay nội địa": 0.5,
+            "địa điểm": 0.9954317117808387,
+            "dịch vụ": 0.8695260609212496,
+            "kỳ nghỉ": 0.995417014171835,
+            "chuyến đi": 0.9149490069112897,
+            "vùng nông thôn": 0.5,
+            "chuyến thăm": 0.7943432761156666,
+            "chuyến phiêu lưu": 0.9955732800881378,
+            "khách hàng": 0.9904645797796547,
+            "chuyến bay xuyên quốc": 0.5,
+            "lan nguyễn": 0.5,
+            "phòng": 0.7475731993908994,
+            "khu vực địa phương": 0.5,
+            "bánh sinh": 0.5716963037848473,
+            "du thuyền": 0.5,
+            "vịnh": 0.9342534663737752,
+            "hành trình": -0.7686456954106688,
+            "khoảng thời gian": 0.9942432376556098,
+            "trải nghiệm tết": 0.8737691454589367,
+            "kỳ nghỉ tết": 0.8737691454589367,
+            "văn": 0.9949340180610307,
+            "kỷ niệm": 0.9950291540008038,
+            "chuyến du lịch": 0.9948734554927796,
+            "tour du lịch": 0.9895468513132073,
+            "ngân sách": 0.8668381739407778
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "đầu tiên",
+                "thú vị"
+            ],
+            "chuyến tham quan": [
+                "riêng",
+                "tuyệt vời",
+                "nhiều",
+                "chủ động"
+            ],
+            "hướng dẫn viên": [
+                "riêng",
+                "am hiểu",
+                "tốt",
+                "tuyệt vời",
+                "linh hoạt",
+                "tuyệt vời",
+                "tuyệt vời",
+                "đặc biệt",
+                "nóng",
+                "lạnh",
+                "lạnh",
+                "khác",
+                "khác",
+                "hữu ích",
+                "giỏi"
+            ],
+            "khách sạn": [
+                "cùng"
+            ],
+            "buổi dã": [],
+            "chuyến bay nội địa": [],
+            "địa điểm": [
+                "thú vị",
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "đặc biệt",
+                "tuyệt vời",
+                "xuất sắc",
+                "tốt",
+                "bất kỳ",
+                "vui",
+                "tuyệt vời"
+            ],
+            "kỳ nghỉ": [
+                "chắc chắn"
+            ],
+            "chuyến đi": [
+                "đặc biệt",
+                "nhanh chóng",
+                "chính xác",
+                "vui vẻ",
+                "nhỏ",
+                "ngắn",
+                "khác",
+                "cao Kim",
+                "an tâm",
+                "tuyệt vời",
+                "hoàn hảo",
+                "chủ yếu",
+                "chuyên nghiệp",
+                "tốt"
+            ],
+            "vùng nông thôn": [],
+            "chuyến thăm": [
+                "chắc chắn",
+                "khác",
+                "khác"
+            ],
+            "chuyến phiêu lưu": [
+                "tuyệt vời"
+            ],
+            "khách hàng": [
+                "đặc biệt"
+            ],
+            "chuyến bay xuyên quốc": [],
+            "lan nguyễn": [],
+            "phòng": [
+                "nhiệt tình"
+            ],
+            "khu vực địa phương": [],
+            "bánh sinh": [
+                "bất ngờ"
+            ],
+            "du thuyền": [],
+            "vịnh": [
+                "đặc biệt",
+                "tuyệt vời"
+            ],
+            "hành trình": [
+                "phức tạp"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm tết": [
+                "thú vị"
+            ],
+            "kỳ nghỉ tết": [
+                "suốt"
+            ],
+            "văn": [
+                "nhiệt tình"
+            ],
+            "kỷ niệm": [
+                "chắc chắn"
+            ],
+            "chuyến du lịch": [
+                "đặc biệt",
+                "xuất sắc"
+            ],
+            "tour du lịch": [
+                "tốt"
+            ],
+            "ngân sách": [
+                "thực sự"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 5.5,
+            "chuyến tham quan": 2,
+            "hướng dẫn viên": 10.5,
+            "khách sạn": 7.5,
+            "buổi dã": 2,
+            "chuyến bay nội địa": 2,
+            "địa điểm": 2,
+            "dịch vụ": 8.5,
+            "kỳ nghỉ": 2,
+            "chuyến đi": 10.0,
+            "vùng nông thôn": 2,
+            "chuyến thăm": 3.5,
+            "chuyến phiêu lưu": 2,
+            "khách hàng": 2,
+            "chuyến bay xuyên quốc": 2,
+            "lan nguyễn": 1.5,
+            "phòng": 3.0,
+            "khu vực địa phương": 1.5,
+            "bánh sinh": 1.5,
+            "du thuyền": 1.5,
+            "vịnh": 3.0,
+            "hành trình": 1.5,
+            "khoảng thời gian": 1.5,
+            "trải nghiệm tết": 1.5,
+            "kỳ nghỉ tết": 1.5,
+            "văn": 1.5,
+            "kỷ niệm": 1.5,
+            "chuyến du lịch": 1.5,
+            "tour du lịch": 1.5,
+            "ngân sách": 1.5
+        }
     },
     {
         "attraction_name": "Vivu Travel",
@@ -131,6 +320,61 @@
             "https://www.tripadvisor.com/Attraction_Review-g298161-d8558898-Reviews-AEONMALL_Narita-Narita_Chiba_Prefecture_Kanto.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d27134007-Reviews-or10-Vivu_Travel-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d27134007-Reviews-or10-Vivu_Travel-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khách sạn": 0.9152111324947327,
+            "hướng dẫn viên": 0.9912529823486693,
+            "hành trình": 0.8737691454589367,
+            "sinh hoạt": 0.9893016135320067,
+            "ngân sách": 0.5,
+            "vùng đất": 0.9937906813283917,
+            "vùng đông bắc": 0.8737691454589367,
+            "chuyến du lịch": 0.5,
+            "văn hóa tham quan": 0.5,
+            "trải nghiệm": 0.9932745307451114
+        },
+        "dicts_adj": {
+            "khách sạn": [
+                "tốt",
+                "tốt"
+            ],
+            "hướng dẫn viên": [
+                "tốt"
+            ],
+            "hành trình": [
+                "tốt"
+            ],
+            "sinh hoạt": [
+                "tốt"
+            ],
+            "ngân sách": [],
+            "vùng đất": [
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "vùng đông bắc": [
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "chuyến du lịch": [],
+            "văn hóa tham quan": [],
+            "trải nghiệm": [
+                "khó"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khách sạn": 3.0,
+            "hướng dẫn viên": 1.5,
+            "hành trình": 1.5,
+            "sinh hoạt": 1.5,
+            "ngân sách": 1.5,
+            "vùng đất": 1.5,
+            "vùng đông bắc": 1.5,
+            "chuyến du lịch": 1.5,
+            "văn hóa tham quan": 1.5,
+            "trải nghiệm": 1.5
+        }
     }
 ]

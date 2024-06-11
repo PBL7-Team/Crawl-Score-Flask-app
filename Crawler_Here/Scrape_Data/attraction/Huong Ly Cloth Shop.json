@@ -106,7 +106,164 @@
             "https://www.tripadvisor.com/Attraction_Review-g55857-d11908605-Reviews-Studio_Eighty-Fort_Worth_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d11889184-Reviews-or10-Huong_Ly_Cloth_Shop-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d11889184-Reviews-Huong_Ly_Cloth_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d11889184-Reviews-Huong_Ly_Cloth_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quần áo": 0.9862305884744273,
+            "váy": 0.8940822716685943,
+            "dịch vụ": 0.8748522212263197,
+            "giá cả": 0.7105213809758425,
+            "cửa hàng may": -0.9595180570613593,
+            "tiệm vải": 0.32763705775141716,
+            "áo sơ mi": -0.25405870273243636,
+            "tiệm may": 0.34242191260758165,
+            "cửa hàng": 0.39101936978355906,
+            "chất": 0.9779902638401836,
+            "giá": 0.5,
+            "phố cổ": 0.5,
+            "chất lượng": 0.8209475910844048,
+            "doanh nghiệp": 0.17875462025403976,
+            "áo khoác": 0.9261192856356502,
+            "giá trị": 0.9953492527129129,
+            "chợ": 0.9916714448481798,
+            "áo": 0.5522919036448002,
+            "sản phẩm": 0.9954741826513782,
+            "my": 0.9923527425853536,
+            "đắt tiền": 0.7474443763494492,
+            "người thợ may": 0.5136873926967382,
+            "cả": 0.9939923132769763
+        },
+        "dicts_adj": {
+            "quần áo": [
+                "sẵn sàng",
+                "sẵn sàng",
+                "hữu ích",
+                "đẹp"
+            ],
+            "váy": [
+                "sẵn sàng",
+                "nhiều",
+                "khác",
+                "giống",
+                "khác",
+                "hơn"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "đặc biệt",
+                "gần",
+                "nổi bật",
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "hơn",
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "cửa hàng may": [
+                "khác"
+            ],
+            "tiệm vải": [],
+            "áo sơ mi": [
+                "ngắn",
+                "nhanh chóng",
+                "nhiều",
+                "tốt",
+                "tuyệt vời",
+                "cuối cùng",
+                "đầu tiên",
+                "khác"
+            ],
+            "tiệm may": [
+                "lớn",
+                "hơn",
+                "khác",
+                "cổ",
+                "nổi bật"
+            ],
+            "cửa hàng": [
+                "chu đáo",
+                "cao",
+                "giỏi",
+                "khác",
+                "giống",
+                "tốt",
+                "nhỏ",
+                "nhiều",
+                "bẩn thỉu",
+                "kém",
+                "nhiều",
+                "lớn",
+                "hơn",
+                "khác"
+            ],
+            "chất": [
+                "kịp thời"
+            ],
+            "giá": [],
+            "phố cổ": [],
+            "chất lượng": [
+                "hài lòng",
+                "tốt",
+                "đặc biệt",
+                "tuyệt vời",
+                "tốt",
+                "lớn"
+            ],
+            "doanh nghiệp": [
+                "nhỏ"
+            ],
+            "áo khoác": [
+                "nhiều"
+            ],
+            "giá trị": [
+                "tuyệt vời"
+            ],
+            "chợ": [],
+            "áo": [],
+            "sản phẩm": [
+                "tuyệt vời"
+            ],
+            "my": [],
+            "đắt tiền": [
+                "tốt",
+                "lớn"
+            ],
+            "người thợ may": [
+                "khác"
+            ],
+            "cả": [
+                "hài lòng",
+                "chắc chắn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quần áo": 1.5,
+            "váy": 2.0,
+            "dịch vụ": 3.0,
+            "giá cả": 2.5,
+            "cửa hàng may": 1.5,
+            "tiệm vải": 0.5,
+            "áo sơ mi": 2.0,
+            "tiệm may": 1.0,
+            "cửa hàng": 2.0,
+            "chất": 0.5,
+            "giá": 0.5,
+            "phố cổ": 0.5,
+            "chất lượng": 2.0,
+            "doanh nghiệp": 0.5,
+            "áo khoác": 0.5,
+            "giá trị": 0.5,
+            "chợ": 0.5,
+            "áo": 0.5,
+            "sản phẩm": 0.5,
+            "my": 0.5,
+            "đắt tiền": 0.5,
+            "người thợ may": 0.5,
+            "cả": 0.5
+        }
     },
     {
         "attraction_name": "Huong Ly Cloth Shop",
@@ -203,6 +360,102 @@
             "https://www.tripadvisor.com/Attraction_Review-g33364-d607482-Reviews-The_Golden_Bee-Colorado_Springs_El_Paso_County_Colorado.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d11889184-Reviews-or10-Huong_Ly_Cloth_Shop-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d11889184-Reviews-or10-Huong_Ly_Cloth_Shop-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thợ may": 0.562909622818956,
+            "áo sơ mi": 0.8018232936738059,
+            "váy": 0.9310108680462387,
+            "ly": 0.8737691454589367,
+            "giá": 0.012064592097885907,
+            "dịch vụ": 0.9933056081063114,
+            "hàng": -0.07799599319696426,
+            "cửa hàng": 0.6446813871152699,
+            "lễ phục": 0.5,
+            "vải": 0.5278956461697817,
+            "áo khoác": 0.9394159885123372,
+            "bưu điện": 0.5,
+            "trang phục": 0.5,
+            "thành phố cổ": 0.994394424255006,
+            "áo sơ mi ngắn": 0.5,
+            "bức tranh": 0.5,
+            "họa sĩ": 0.5
+        },
+        "dicts_adj": {
+            "thợ may": [
+                "đầu tiên",
+                "may mắn",
+                "nhỏ",
+                "xứng đáng",
+                "cao",
+                "hơn",
+                "nhiều",
+                "bất kỳ",
+                "khác",
+                "vui"
+            ],
+            "áo sơ mi": [
+                "hoàn hảo",
+                "đầu tiên"
+            ],
+            "váy": [
+                "hoàn hảo",
+                "nhanh chóng",
+                "thực sự",
+                "hoàn hảo",
+                "khác"
+            ],
+            "ly": [
+                "may mắn"
+            ],
+            "giá": [
+                "cao"
+            ],
+            "dịch vụ": [
+                "tốt"
+            ],
+            "hàng": [
+                "bất kỳ",
+                "khác"
+            ],
+            "cửa hàng": [
+                "sẵn sàng"
+            ],
+            "lễ phục": [],
+            "vải": [
+                "đặc biệt"
+            ],
+            "áo khoác": [
+                "gọn"
+            ],
+            "bưu điện": [],
+            "trang phục": [],
+            "thành phố cổ": [
+                "vui"
+            ],
+            "áo sơ mi ngắn": [],
+            "bức tranh": [],
+            "họa sĩ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thợ may": 1.5,
+            "áo sơ mi": 1.5,
+            "váy": 1.5,
+            "ly": 0.5,
+            "giá": 1.0,
+            "dịch vụ": 0.5,
+            "hàng": 0.5,
+            "cửa hàng": 1.0,
+            "lễ phục": 0.5,
+            "vải": 0.5,
+            "áo khoác": 0.5,
+            "bưu điện": 0.5,
+            "trang phục": 0.5,
+            "thành phố cổ": 0.5,
+            "áo sơ mi ngắn": 0.5,
+            "bức tranh": 0.5,
+            "họa sĩ": 0.5
+        }
     }
 ]

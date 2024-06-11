@@ -117,7 +117,185 @@
             "https://www.tripadvisor.com/Attraction_Review-g262055-d6648494-Reviews-Vathia_Gonia_Beach-Ayia_Napa_Famagusta_District.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d24048381-Reviews-or10-Sen_Tailor_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d24048381-Reviews-Sen_Tailor_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d24048381-Reviews-Sen_Tailor_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ đồ": 0.6121797307860106,
+            "phòng": 0.8789336564950645,
+            "dịch vụ": 0.8405081352218986,
+            "chủ tiệm may sen": 0.7669453490525484,
+            "chất lượng": 0.672508836365663,
+            "chất liệu": 0.5,
+            "sản phẩm": 0.9955918721971102,
+            "cửa hàng": 0.9942291759653017,
+            "bộ trang phục": 0.6470076222904027,
+            "bộ vest": 0.8081017578952014,
+            "áo sơ mi": -0.0071503049694001675,
+            "áo blazer": 0.8226545079378411,
+            "trang phục": 0.7840781288770293,
+            "giá": 0.9829123357776552,
+            "thợ may": 0.9828277439810336,
+            "không gian": 0.9762670737691224,
+            "giá cả": 0.83252621248054,
+            "đường khâu": 0.3987191841006279,
+            "vết": -0.6267319694161415,
+            "tháo đường khâu": 0.5,
+            "phí": 0.5,
+            "vest": 0.5,
+            "thành phẩm": 0.5,
+            "đội ngũ": 0.9950867590378039,
+            "quần áo": 0.5,
+            "loại": 0.9953030860342551,
+            "vải": 0.9951214380271267,
+            "rung": 0.995510122505948,
+            "đội sen": 0.9936678884550929
+        },
+        "dicts_adj": {
+            "bộ đồ": [
+                "đẹp"
+            ],
+            "phòng": [
+                "vội vàng"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "dễ dàng",
+                "cẩn thận",
+                "tuyệt vời"
+            ],
+            "chủ tiệm may sen": [],
+            "chất lượng": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "chất liệu": [],
+            "sản phẩm": [
+                "cuối cùng",
+                "tuyệt vời",
+                "suôn sẻ",
+                "dễ dàng",
+                "cuối cùng",
+                "tuyệt vời",
+                "suôn sẻ",
+                "dễ dàng"
+            ],
+            "cửa hàng": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "bộ trang phục": [
+                "thông thường",
+                "nhanh",
+                "thông thường",
+                "nhanh"
+            ],
+            "bộ vest": [
+                "thông thường",
+                "nhanh",
+                "tốt",
+                "thông thường",
+                "nhanh"
+            ],
+            "áo sơ mi": [
+                "thông thường",
+                "nhanh",
+                "thông thường",
+                "nhanh"
+            ],
+            "áo blazer": [
+                "thông thường",
+                "nhanh",
+                "thông thường",
+                "nhanh"
+            ],
+            "trang phục": [
+                "hài lòng",
+                "háo hức"
+            ],
+            "giá": [
+                "hợp lý",
+                "hợp lý"
+            ],
+            "thợ may": [
+                "xuất sắc",
+                "xuất sắc",
+                "hữu ích",
+                "khác"
+            ],
+            "không gian": [
+                "tốt",
+                "khắt khe",
+                "tốt",
+                "khắt khe"
+            ],
+            "giá cả": [
+                "phải chăng",
+                "nhanh chóng",
+                "công bằng",
+                "phải chăng",
+                "nhanh chóng"
+            ],
+            "đường khâu": [
+                "nhỏ",
+                "nhỏ"
+            ],
+            "vết": [
+                "nhỏ",
+                "nhỏ"
+            ],
+            "tháo đường khâu": [],
+            "phí": [],
+            "vest": [],
+            "thành phẩm": [],
+            "đội ngũ": [
+                "hiệu quả"
+            ],
+            "quần áo": [],
+            "loại": [
+                "đẹp",
+                "đầu tiên"
+            ],
+            "vải": [
+                "đẹp",
+                "đầu tiên"
+            ],
+            "rung": [
+                "tốt"
+            ],
+            "đội sen": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ đồ": 4.0,
+            "phòng": 1,
+            "dịch vụ": 5,
+            "chủ tiệm may sen": 2,
+            "chất lượng": 6.5,
+            "chất liệu": 2,
+            "sản phẩm": 2,
+            "cửa hàng": 2,
+            "bộ trang phục": 2,
+            "bộ vest": 3,
+            "áo sơ mi": 2,
+            "áo blazer": 2,
+            "trang phục": 3.5,
+            "giá": 2,
+            "thợ may": 4.0,
+            "không gian": 3.0,
+            "giá cả": 4.5,
+            "đường khâu": 3.0,
+            "vết": 3.0,
+            "tháo đường khâu": 3.0,
+            "phí": 3.0,
+            "vest": 3.0,
+            "thành phẩm": 3.0,
+            "đội ngũ": 1.5,
+            "quần áo": 1.5,
+            "loại": 1.5,
+            "vải": 1.5,
+            "rung": 1.5,
+            "đội sen": 1.5
+        }
     },
     {
         "attraction_name": "Sen Tailor Hoi An",
@@ -238,7 +416,93 @@
             "https://www.tripadvisor.com/Attraction_Review-g297415-d502989-Reviews-Shenzhen_Window_of_the_World-Shenzhen_Guangdong.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d24048381-Reviews-or20-Sen_Tailor_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d24048381-Reviews-or10-Sen_Tailor_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d24048381-Reviews-or10-Sen_Tailor_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ vest": 0.779086239868775,
+            "công việc kinh doanh": 0.5133871305733919,
+            "cửa hàng": -0.24354731161535406,
+            "bộ đồ": 0.36027568076193955,
+            "chất liệu": 0.8737691454589367,
+            "dịch vụ": 0.10973863615072332,
+            "mức": 0.5,
+            "giá": 0.7471711087564472,
+            "thợ may": 0.3750532928388566,
+            "váy": 0.5084820725023746,
+            "đội ngũ": 0.9953943365253508,
+            "trải nghiệm": 0.9955630242475308,
+            "áo khoác": 0.9434149158187211,
+            "khuyến nghị": 0.9859465131303295,
+            "chất lượng": 0.9954051575623453
+        },
+        "dicts_adj": {
+            "bộ vest": [],
+            "công việc kinh doanh": [],
+            "cửa hàng": [
+                "khác",
+                "sẵn",
+                "cao"
+            ],
+            "bộ đồ": [
+                "sẵn",
+                "vui",
+                "nhiều",
+                "hơn"
+            ],
+            "chất liệu": [
+                "cao"
+            ],
+            "dịch vụ": [
+                "cao",
+                "tuyệt vời"
+            ],
+            "mức": [],
+            "giá": [
+                "hợp lý"
+            ],
+            "thợ may": [
+                "giỏi",
+                "nhất",
+                "khác"
+            ],
+            "váy": [
+                "cụ thể"
+            ],
+            "đội ngũ": [
+                "tuyệt vời",
+                "hài lòng",
+                "sáng tạo"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "vui lòng"
+            ],
+            "áo khoác": [],
+            "khuyến nghị": [
+                "tốt"
+            ],
+            "chất lượng": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ vest": 2,
+            "công việc kinh doanh": 1,
+            "cửa hàng": 2,
+            "bộ đồ": 1,
+            "chất liệu": 1,
+            "dịch vụ": 2,
+            "mức": 1,
+            "giá": 2,
+            "thợ may": 2,
+            "váy": 1,
+            "đội ngũ": 1,
+            "trải nghiệm": 1,
+            "áo khoác": 1,
+            "khuyến nghị": 1,
+            "chất lượng": 1
+        }
     },
     {
         "attraction_name": "Sen Tailor Hoi An",
@@ -360,7 +624,117 @@
             "https://www.tripadvisor.com/Attraction_Review-g34615-d11833706-Reviews-Sanford_RiverWalk-Sanford_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d24048381-Reviews-or30-Sen_Tailor_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d24048381-Reviews-or20-Sen_Tailor_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d24048381-Reviews-or20-Sen_Tailor_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa hàng": 0.9338591390405782,
+            "bộ vest": -0.866905078291893,
+            "áo sơ mi": -0.6882840422913432,
+            "áo khoác": 0.5169579200446606,
+            "dịch vụ": 0.28815964547296363,
+            "trang phục": 0.6255618631839752,
+            "sen tailor": 0.9953907574526966,
+            "nhân viên": 0.8737691454589367,
+            "giá": 0.9924028470995836,
+            "chất lượng": 0.9272907195845619,
+            "quần": 0.6428488726960495,
+            "bộ": 0.9811579445376992,
+            "quần áo": 0.5431826605927199,
+            "váy": 0.7121504480019212,
+            "sen": 0.9927273039938882,
+            "vải": 0.5,
+            "bộ đồ": 0.9953151209629141,
+            "thợ may": 0.9855405958369374
+        },
+        "dicts_adj": {
+            "cửa hàng": [
+                "tuyệt vời",
+                "trang trọng",
+                "trong"
+            ],
+            "bộ vest": [
+                "thường ngày"
+            ],
+            "áo sơ mi": [
+                "thường ngày"
+            ],
+            "áo khoác": [
+                "thường ngày"
+            ],
+            "dịch vụ": [
+                "Hoàn toàn",
+                "bất kỳ",
+                "tuyệt vời",
+                "đắt",
+                "hơn",
+                "cao"
+            ],
+            "trang phục": [],
+            "sen tailor": [
+                "hoàn hảo",
+                "chuyên nghiệp",
+                "chính xác",
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "thân thiện"
+            ],
+            "giá": [
+                "rẻ",
+                "hợp lý"
+            ],
+            "chất lượng": [
+                "tốt",
+                "cao"
+            ],
+            "quần": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "dài"
+            ],
+            "bộ": [
+                "kịp"
+            ],
+            "quần áo": [
+                "kịp",
+                "nhiều"
+            ],
+            "váy": [
+                "riêng",
+                "hơn"
+            ],
+            "sen": [
+                "vui"
+            ],
+            "vải": [],
+            "bộ đồ": [
+                "hợp lý"
+            ],
+            "thợ may": [
+                "Chắc chắn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa hàng": 2,
+            "bộ vest": 1,
+            "áo sơ mi": 1,
+            "áo khoác": 1,
+            "dịch vụ": 3,
+            "trang phục": 1,
+            "sen tailor": 1,
+            "nhân viên": 1,
+            "giá": 2,
+            "chất lượng": 2,
+            "quần": 2,
+            "bộ": 1,
+            "quần áo": 2,
+            "váy": 1,
+            "sen": 1,
+            "vải": 1,
+            "bộ đồ": 1,
+            "thợ may": 1
+        }
     },
     {
         "attraction_name": "Sen Tailor Hoi An",
@@ -471,6 +845,114 @@
             "https://www.tripadvisor.com/Attraction_Review-g315907-d14078790-Reviews-Carpati_Shopping_Center-Sinaia_Prahova_County_Southern_Romania.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d24048381-Reviews-or30-Sen_Tailor_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d24048381-Reviews-or30-Sen_Tailor_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9953752247383818,
+            "bộ đồ": 0.9292220141796861,
+            "váy": 0.7418550733709708,
+            "quý cô": 0.9955701821600087,
+            "dịch vụ": 0.9954820853890851,
+            "khách hàng": 0.995534707501065,
+            "bộ": 0.2159918497200124,
+            "quần áo": -0.12383782566757873,
+            "kỹ năng cắt may": 0.8737691454589367,
+            "bộ vest": 0.9929415369406343,
+            "thợ may": 0.746769082150422,
+            "thợ may sen": 0.9694425179623067,
+            "giá cả": 0.9529069985728711,
+            "sen": 0.5,
+            "chất lượng": 0.5,
+            "giá": 0.7494671742315404,
+            "cửa hàng": 0.7833518689731136,
+            "mức giá": 0.9875910243717954
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "bộ đồ": [
+                "đẹp",
+                "đẹp",
+                "hoàn toàn"
+            ],
+            "váy": [
+                "đẹp"
+            ],
+            "quý cô": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "khách hàng": [
+                "tuyệt vời"
+            ],
+            "bộ": [
+                "nhiều",
+                "khác",
+                "vừa vặn"
+            ],
+            "quần áo": [
+                "nhiều",
+                "khác"
+            ],
+            "kỹ năng cắt may": [
+                "lành nghề"
+            ],
+            "bộ vest": [
+                "nhỏ"
+            ],
+            "thợ may": [
+                "đơn giản",
+                "giỏi",
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "thợ may sen": [
+                "ngẫu nhiên",
+                "nhiều"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "sen": [],
+            "chất lượng": [],
+            "giá": [
+                "tuyệt vời"
+            ],
+            "cửa hàng": [
+                "nhỏ",
+                "hơn",
+                "nhiều",
+                "hơn",
+                "lớn",
+                "hơn"
+            ],
+            "mức giá": [
+                "rẻ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 0.5,
+            "bộ đồ": 1.0,
+            "váy": 1.0,
+            "quý cô": 0.5,
+            "dịch vụ": 0.5,
+            "khách hàng": 0.5,
+            "bộ": 1.0,
+            "quần áo": 1.0,
+            "kỹ năng cắt may": 0.5,
+            "bộ vest": 0.5,
+            "thợ may": 1.0,
+            "thợ may sen": 0.5,
+            "giá cả": 0.5,
+            "sen": 0.5,
+            "chất lượng": 0.5,
+            "giá": 0.5,
+            "cửa hàng": 0.5,
+            "mức giá": 0.5
+        }
     }
 ]
