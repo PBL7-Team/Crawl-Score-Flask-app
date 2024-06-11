@@ -84,6 +84,27 @@
             "https://www.tripadvisor.com/Attraction_Review-g45963-d12968027-Reviews-Zak_Bagans_The_Haunted_Museum-Las_Vegas_Nevada.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d14796428-Reviews-An_Quang_Pagoda-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d14796428-Reviews-An_Quang_Pagoda-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi chùa": 0.9894513215404004,
+            "phòng": 0.38280434161424637,
+            "cầu nguyện": 0.9954500389867462
+        },
+        "dicts_adj": {
+            "ngôi chùa": [],
+            "phòng": [
+                "khác"
+            ],
+            "cầu nguyện": [
+                "khắp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngôi chùa": 0.5,
+            "phòng": 0.5,
+            "cầu nguyện": 0.5
+        }
     }
 ]

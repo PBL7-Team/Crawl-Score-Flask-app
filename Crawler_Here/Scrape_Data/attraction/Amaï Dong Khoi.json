@@ -126,7 +126,192 @@
             "https://www.tripadvisor.com/Attraction_Review-g34145-d2389760-Reviews-Cocoa_Beach-Cocoa_Beach_Brevard_County_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or10-Amai_Dong_Khoi-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-Amai_Dong_Khoi-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-Amai_Dong_Khoi-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đồ sứ": 0.9265295015648007,
+            "chất lượng": 0.8737692800350487,
+            "sản phẩm": 0.5607961883749036,
+            "cửa hàng": 0.8588945422961842,
+            "đồ gốm": 0.9931631240760908,
+            "bình": 0.45867266319692135,
+            "phòng trưng bày": 0.8737692800350487,
+            "giá cả": 0.9944746677647345,
+            "cà phê": 0.5,
+            "quán cà phê": 0.5,
+            "khách sạn": 0.5,
+            "trải nghiệm": 0.9556537274620496,
+            "cốc đĩa": 0.6482021883130074,
+            "gốm sứ": 0.8703912902274169,
+            "chỗ": 0.988681297050789,
+            "bộ sưu tập": 0.5,
+            "dịch vụ": 0.8737692800350487,
+            "nhân viên": 0.5961120565421879,
+            "đồ vật": 0.012226817256305367,
+            "ván gỗ": 0.5,
+            "bình hoa": 0.5,
+            "thiết": 0.9955397503217682,
+            "người dùng": 0.5,
+            "thiết kế đồ họa thiết kế": -0.26510863995645195,
+            "giải pháp": 0.5,
+            "đồ ăn": 0.25840913131833076,
+            "đồ trang trí": 0.9942817378323525,
+            "nhà hàng": 0.9076372876297683,
+            "giải thưởng": 0.5475599179044366,
+            "đồ uống": 0.9943968743318692,
+            "đồ thủ": 0.5,
+            "quà lưu niệm": 0.9930088062537834,
+            "món đồ": 0.995584077143576,
+            "mặt hàng": 0.9584926031529903
+        },
+        "dicts_adj": {
+            "đồ sứ": [
+                "tốt"
+            ],
+            "chất lượng": [
+                "tốt",
+                "đặc biệt"
+            ],
+            "sản phẩm": [
+                "tốt",
+                "đặc biệt",
+                "an toàn",
+                "bất kỳ",
+                "khác"
+            ],
+            "cửa hàng": [
+                "thú vị",
+                "tốt",
+                "gần",
+                "đẹp",
+                "nhỏ",
+                "dễ thương",
+                "đẹp",
+                "thú vị",
+                "nhiều"
+            ],
+            "đồ gốm": [
+                "thú vị"
+            ],
+            "bình": [],
+            "phòng trưng bày": [
+                "độc đáo"
+            ],
+            "giá cả": [
+                "tốt"
+            ],
+            "cà phê": [],
+            "quán cà phê": [],
+            "khách sạn": [],
+            "trải nghiệm": [
+                "thú vị",
+                "tích cực"
+            ],
+            "cốc đĩa": [
+                "Nhiều",
+                "khác"
+            ],
+            "gốm sứ": [
+                "tuyệt vời",
+                "đẹp",
+                "sẵn",
+                "giống",
+                "nhẹ",
+                "nhỏ",
+                "dễ thương",
+                "đẹp",
+                "hiện đại"
+            ],
+            "chỗ": [
+                "hơn"
+            ],
+            "bộ sưu tập": [],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "nhân viên": [
+                "lạnh",
+                "hữu ích",
+                "dễ thương",
+                "tốt bụng"
+            ],
+            "đồ vật": [
+                "đẹp",
+                "khác"
+            ],
+            "ván gỗ": [],
+            "bình hoa": [],
+            "thiết": [
+                "vui",
+                "đặc biệt"
+            ],
+            "người dùng": [],
+            "thiết kế đồ họa thiết kế": [
+                "bất kỳ",
+                "khác"
+            ],
+            "giải pháp": [],
+            "đồ ăn": [
+                "đầy"
+            ],
+            "đồ trang trí": [
+                "đầy"
+            ],
+            "nhà hàng": [
+                "nhiều"
+            ],
+            "giải thưởng": [
+                "rẻ"
+            ],
+            "đồ uống": [
+                "nhiều"
+            ],
+            "đồ thủ": [],
+            "quà lưu niệm": [],
+            "món đồ": [
+                "dễ thương",
+                "tuyệt vời"
+            ],
+            "mặt hàng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đồ sứ": 1.5,
+            "chất lượng": 1.5,
+            "sản phẩm": 4.5,
+            "cửa hàng": 9.0,
+            "đồ gốm": 1.5,
+            "bình": 1.5,
+            "phòng trưng bày": 1.5,
+            "giá cả": 1.5,
+            "cà phê": 1.5,
+            "quán cà phê": 1.5,
+            "khách sạn": 1.5,
+            "trải nghiệm": 3.0,
+            "cốc đĩa": 1.5,
+            "gốm sứ": 6.0,
+            "chỗ": 1.5,
+            "bộ sưu tập": 1.5,
+            "dịch vụ": 3.0,
+            "nhân viên": 5.0,
+            "đồ vật": 1.5,
+            "ván gỗ": 1.5,
+            "bình hoa": 1.5,
+            "thiết": 1.5,
+            "người dùng": 1.5,
+            "thiết kế đồ họa thiết kế": 1.5,
+            "giải pháp": 1.5,
+            "đồ ăn": 1.5,
+            "đồ trang trí": 1.5,
+            "nhà hàng": 1.5,
+            "giải thưởng": 1.5,
+            "đồ uống": 1.5,
+            "đồ thủ": 1.5,
+            "quà lưu niệm": 1.5,
+            "món đồ": 2,
+            "mặt hàng": 2
+        }
     },
     {
         "attraction_name": "Amaï Dong Khoi",
@@ -256,7 +441,35 @@
             "https://www.tripadvisor.com/Attraction_Review-g293916-d14135436-Reviews-King_Power_Mahanakhon-Bangkok.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or20-Amai_Dong_Khoi-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or10-Amai_Dong_Khoi-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or10-Amai_Dong_Khoi-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đồ gốm": 0.8737692800350487,
+            "phong cách": 0.3401946645850937,
+            "địa": 0.5,
+            "điểm dừng chân": 0.5
+        },
+        "dicts_adj": {
+            "đồ gốm": [
+                "độc đáo",
+                "hoàn toàn",
+                "khác biệt"
+            ],
+            "phong cách": [
+                "độc đáo",
+                "hoàn toàn",
+                "khác biệt"
+            ],
+            "địa": [],
+            "điểm dừng chân": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đồ gốm": 2,
+            "phong cách": 2,
+            "địa": 2,
+            "điểm dừng chân": 2
+        }
     },
     {
         "attraction_name": "Amaï Dong Khoi",
@@ -387,7 +600,77 @@
             "https://www.tripadvisor.com/Attraction_Review-g13806954-d550250-Reviews-YehLiu_Geopark-Wanli_New_Taipei.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or30-Amai_Dong_Khoi-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or20-Amai_Dong_Khoi-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or20-Amai_Dong_Khoi-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa hàng": 0.7871917060951495,
+            "gốm sứ": 0.7477278871228918,
+            "bình": 0.6958165280520916,
+            "phòng trưng bày": 0.8737692800350487,
+            "giá": 0.9597121473634616,
+            "dịch vụ": 0.934666878747521,
+            "đồ thủ": 0.5,
+            "quà tặng": 0.5,
+            "đồ lưu niệm": 0.5,
+            "món đồ": 0.9955364521010779,
+            "nhân viên": 0.8737692800350487,
+            "bộ đồ ăn": 0.6880659100133926,
+            "quà lưu niệm": 0.5
+        },
+        "dicts_adj": {
+            "cửa hàng": [
+                "tuyệt vời",
+                "tốt",
+                "nhiều",
+                "đẹp",
+                "đẹp",
+                "nhiều"
+            ],
+            "gốm sứ": [
+                "tuyệt vời"
+            ],
+            "bình": [],
+            "phòng trưng bày": [
+                "độc đáo"
+            ],
+            "giá": [
+                "tốt"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "tuyệt"
+            ],
+            "đồ thủ": [],
+            "quà tặng": [],
+            "đồ lưu niệm": [],
+            "món đồ": [
+                "nhiều"
+            ],
+            "nhân viên": [
+                "tốt bụng"
+            ],
+            "bộ đồ ăn": [
+                "đầy",
+                "nhiều"
+            ],
+            "quà lưu niệm": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa hàng": 4.5,
+            "gốm sứ": 3.0,
+            "bình": 1.5,
+            "phòng trưng bày": 1.5,
+            "giá": 1.5,
+            "dịch vụ": 3.0,
+            "đồ thủ": 1.5,
+            "quà tặng": 1.5,
+            "đồ lưu niệm": 1.5,
+            "món đồ": 1.5,
+            "nhân viên": 1.5,
+            "bộ đồ ăn": 1.5,
+            "quà lưu niệm": 1.5
+        }
     },
     {
         "attraction_name": "Amaï Dong Khoi",
@@ -518,7 +801,70 @@
             "https://www.tripadvisor.com/Attraction_Review-g34438-d21387682-Reviews-Superblue_Miami-Miami_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or40-Amai_Dong_Khoi-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or30-Amai_Dong_Khoi-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or30-Amai_Dong_Khoi-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thị giác": 0.9954039926524274,
+            "trải nghiệm": 0.9161893408745527,
+            "người dùng": 0.5,
+            "thiết kế đồ họa thiết kế": 0.15444701735395938,
+            "sản phẩm": 0.6331939046018912,
+            "cửa hàng": 0.8450239387457259,
+            "gốm sứ": 0.9952595457434654,
+            "chất lượng": 0.9733808626187965,
+            "nhân viên": 0.9616831101011485,
+            "giá cả": 0.9954696505446918
+        },
+        "dicts_adj": {
+            "thị giác": [
+                "vui",
+                "đặc biệt"
+            ],
+            "trải nghiệm": [
+                "tích cực"
+            ],
+            "người dùng": [],
+            "thiết kế đồ họa thiết kế": [
+                "bất kỳ",
+                "khác",
+                "đẹp mắt"
+            ],
+            "sản phẩm": [
+                "bất kỳ",
+                "khác",
+                "đẹp mắt",
+                "dễ thương"
+            ],
+            "cửa hàng": [
+                "xinh xắn",
+                "nhiều"
+            ],
+            "gốm sứ": [
+                "dễ thương"
+            ],
+            "chất lượng": [
+                "dễ thương"
+            ],
+            "nhân viên": [
+                "dễ thương"
+            ],
+            "giá cả": [
+                "xứng đáng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thị giác": 1.5,
+            "trải nghiệm": 1.5,
+            "người dùng": 1.5,
+            "thiết kế đồ họa thiết kế": 1.5,
+            "sản phẩm": 3.0,
+            "cửa hàng": 1.5,
+            "gốm sứ": 1.5,
+            "chất lượng": 1.5,
+            "nhân viên": 1.5,
+            "giá cả": 1.5
+        }
     },
     {
         "attraction_name": "Amaï Dong Khoi",
@@ -649,7 +995,30 @@
             "https://www.tripadvisor.com/Attraction_Review-g297576-d19122529-Reviews-Batumi_Central_Railwaystation-Batumi_Adjara_Region.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or50-Amai_Dong_Khoi-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or40-Amai_Dong_Khoi-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or40-Amai_Dong_Khoi-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thợ gốm": 0.9955005926894955,
+            "đồ gốm": 0.9950615309062414,
+            "nhân viên": 0.9860776163404807
+        },
+        "dicts_adj": {
+            "thợ gốm": [
+                "đẹp"
+            ],
+            "đồ gốm": [
+                "đẹp"
+            ],
+            "nhân viên": [
+                "dễ thương"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thợ gốm": 1.5,
+            "đồ gốm": 1.5,
+            "nhân viên": 1.5
+        }
     },
     {
         "attraction_name": "Amaï Dong Khoi",
@@ -780,7 +1149,26 @@
             "https://www.tripadvisor.com/Attraction_Review-g31310-d12794326-Reviews-The_Van_Buren-Phoenix_Arizona.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or60-Amai_Dong_Khoi-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or50-Amai_Dong_Khoi-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or50-Amai_Dong_Khoi-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khách sạn": 0.8737692800350487,
+            "cửa hàng": 0.5,
+            "đồ thủ": 0.5
+        },
+        "dicts_adj": {
+            "khách sạn": [
+                "gần"
+            ],
+            "cửa hàng": [],
+            "đồ thủ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khách sạn": 1.5,
+            "cửa hàng": 1.5,
+            "đồ thủ": 1.5
+        }
     },
     {
         "attraction_name": "Amaï Dong Khoi",
@@ -911,7 +1299,49 @@
             "https://www.tripadvisor.com/Attraction_Review-g60713-d142385-Reviews-Grateful_Dead_House-San_Francisco_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or70-Amai_Dong_Khoi-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or60-Amai_Dong_Khoi-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or60-Amai_Dong_Khoi-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa hàng": 0.8737692800350487,
+            "gốm sứ": 0.5058796402299777,
+            "đồ ăn": -0.8979681599885225,
+            "đồ trang trí": 0.5,
+            "nhân viên": 0.5239756088703871,
+            "đồ gốm": 0.9953726566163823,
+            "tác phẩm": 0.9884206242859364
+        },
+        "dicts_adj": {
+            "cửa hàng": [
+                "nhỏ",
+                "dễ thương"
+            ],
+            "gốm sứ": [
+                "nhỏ",
+                "dễ thương"
+            ],
+            "đồ ăn": [
+                "nhiều"
+            ],
+            "đồ trang trí": [],
+            "nhân viên": [
+                "hữu ích"
+            ],
+            "đồ gốm": [],
+            "tác phẩm": [
+                "nhẹ",
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa hàng": 1.5,
+            "gốm sứ": 1.5,
+            "đồ ăn": 1.5,
+            "đồ trang trí": 1.5,
+            "nhân viên": 1.5,
+            "đồ gốm": 1.5,
+            "tác phẩm": 1.5
+        }
     },
     {
         "attraction_name": "Amaï Dong Khoi",
@@ -1042,7 +1472,53 @@
             "https://www.tripadvisor.com/Attraction_Review-g60766-d144370-Reviews-River_Market_District-Little_Rock_Arkansas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or80-Amai_Dong_Khoi-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or70-Amai_Dong_Khoi-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or70-Amai_Dong_Khoi-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa hàng": 0.7652093198266812,
+            "gốm sứ": 0.9869301461149007,
+            "đồ nội": 0.0131393626506906,
+            "ván gỗ": 0.5,
+            "bình hoa": 0.5,
+            "bộ đồ ăn": 0.994900538935326,
+            "con phố": 0.9950533377123065
+        },
+        "dicts_adj": {
+            "cửa hàng": [
+                "đẹp",
+                "dễ thương",
+                "đẹp",
+                "hơn"
+            ],
+            "gốm sứ": [
+                "đẹp",
+                "đủ",
+                "nhẹ"
+            ],
+            "đồ nội": [
+                "đẹp",
+                "khác"
+            ],
+            "ván gỗ": [],
+            "bình hoa": [],
+            "bộ đồ ăn": [
+                "đẹp mắt"
+            ],
+            "con phố": [
+                "đẹp",
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa hàng": 3.0,
+            "gốm sứ": 1.5,
+            "đồ nội": 1.5,
+            "ván gỗ": 1.5,
+            "bình hoa": 1.5,
+            "bộ đồ ăn": 1.5,
+            "con phố": 1.5
+        }
     },
     {
         "attraction_name": "Amaï Dong Khoi",
@@ -1173,7 +1649,37 @@
             "https://www.tripadvisor.com/Attraction_Review-g294197-d2519674-Reviews-Seoul_Animation_Center-Seoul.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or90-Amai_Dong_Khoi-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or80-Amai_Dong_Khoi-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or80-Amai_Dong_Khoi-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đồ gốm": 0.9342244966246653,
+            "đồ trang trí": 0.9953899461543187,
+            "bộ sưu tập": 0.5,
+            "nhân viên": 0.9944450134644285
+        },
+        "dicts_adj": {
+            "đồ gốm": [
+                "đẹp",
+                "hiện đại",
+                "dịu",
+                "nhẹ",
+                "đơn giản",
+                "đẹp",
+                "đầy"
+            ],
+            "đồ trang trí": [],
+            "bộ sưu tập": [],
+            "nhân viên": [
+                "tử tế"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đồ gốm": 3.0,
+            "đồ trang trí": 1.5,
+            "bộ sưu tập": 1.5,
+            "nhân viên": 1.5
+        }
     },
     {
         "attraction_name": "Amaï Dong Khoi",
@@ -1304,6 +1810,49 @@
             "https://www.tripadvisor.com/Attraction_Review-g60898-d126944-Reviews-Piedmont_Park-Atlanta_Georgia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or100-Amai_Dong_Khoi-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or90-Amai_Dong_Khoi-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27296727-Reviews-or90-Amai_Dong_Khoi-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đồ gốm": 0.9946610515471548,
+            "không gian": -0.1995080984197557,
+            "bộ sưu tập": 0.5,
+            "dịch vụ": 0.8737692800350487,
+            "nhân viên": 0.13599766604602337,
+            "sản phẩm": 0.9675752308685333,
+            "cửa hàng": 0.9955224378500134
+        },
+        "dicts_adj": {
+            "đồ gốm": [
+                "tuyệt vời"
+            ],
+            "không gian": [
+                "hành lý",
+                "hơn"
+            ],
+            "bộ sưu tập": [],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "lạnh"
+            ],
+            "sản phẩm": [
+                "an toàn"
+            ],
+            "cửa hàng": [
+                "tuyệt vời",
+                "hoàn hảo"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đồ gốm": 1.5,
+            "không gian": 1.5,
+            "bộ sưu tập": 1.5,
+            "dịch vụ": 1.5,
+            "nhân viên": 1.5,
+            "sản phẩm": 1.5,
+            "cửa hàng": 1.5
+        }
     }
 ]

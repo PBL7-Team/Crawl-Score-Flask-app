@@ -92,6 +92,95 @@
             "https://www.tripadvisor.com/Attraction_Review-g32389-d3585098-Reviews-Folsom_Premium_Outlets-Folsom_California.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d17546824-Reviews-Alan_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d17546824-Reviews-Alan_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "spa": 0.6204459173216794,
+            "dịch vụ chăm sóc da mặt": 0.9777198620140553,
+            "cửa hàng": 0.5,
+            "spa thế": 0.8737692800350487,
+            "mát-xa": 0.5,
+            "chăm sóc da mặt và tẩy": 0.5,
+            "bào chết": 0.5,
+            "chăm sóc da mặt": 0.9555743541568518,
+            "world spa": 0.9069010480307043,
+            "massage chăm sóc da mặt": 0.9942253434564918,
+            "tiệm": 0.8737692800350487,
+            "massage": 0.6913443100735701,
+            "nước": 0.8737692800350487,
+            "tiệm massage": 0.9953601540764794,
+            "đồng tiền": 0.9955693795345724,
+            "nhân viên": 0.9954755813232623,
+            "giá trị": 0.9955151843023486
+        },
+        "dicts_adj": {
+            "spa": [
+                "tốt",
+                "tốt",
+                "tốt"
+            ],
+            "dịch vụ chăm sóc da mặt": [
+                "tốt"
+            ],
+            "cửa hàng": [],
+            "spa thế": [
+                "tốt"
+            ],
+            "mát-xa": [],
+            "chăm sóc da mặt và tẩy": [],
+            "bào chết": [],
+            "chăm sóc da mặt": [
+                "tốt"
+            ],
+            "world spa": [],
+            "massage chăm sóc da mặt": [
+                "khuyến khíchĐây",
+                "tốt"
+            ],
+            "tiệm": [
+                "tốt"
+            ],
+            "massage": [
+                "tốt",
+                "ngon"
+            ],
+            "nước": [
+                "ngon"
+            ],
+            "tiệm massage": [
+                "thực sự"
+            ],
+            "đồng tiền": [
+                "trẻ",
+                "thân thiện"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "đặc biệt"
+            ],
+            "giá trị": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "spa": 1.0,
+            "dịch vụ chăm sóc da mặt": 0.5,
+            "cửa hàng": 0.5,
+            "spa thế": 0.5,
+            "mát-xa": 0.5,
+            "chăm sóc da mặt và tẩy": 0.5,
+            "bào chết": 0.5,
+            "chăm sóc da mặt": 0.5,
+            "world spa": 0.5,
+            "massage chăm sóc da mặt": 0.5,
+            "tiệm": 0.5,
+            "massage": 1.0,
+            "nước": 0.5,
+            "tiệm massage": 0.5,
+            "đồng tiền": 0.5,
+            "nhân viên": 0.5,
+            "giá trị": 0.5
+        }
     }
 ]

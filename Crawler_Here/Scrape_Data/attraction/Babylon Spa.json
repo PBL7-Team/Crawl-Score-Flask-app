@@ -85,7 +85,12 @@
             "https://www.tripadvisor.com/Attraction_Review-g54946-d261412-Reviews-Coolidge_Park-Chattanooga_Tennessee.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d19752783-Reviews-Babylon_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d19752783-Reviews-Babylon_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     },
     {
         "attraction_name": "Babylon Spa",
@@ -204,7 +209,101 @@
             "https://www.tripadvisor.com/Attraction_Review-g41773-d3427573-Reviews-Long_Beach-Plymouth_Massachusetts.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d19762086-Reviews-or10-Babylon_Spa-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d19762086-Reviews-Babylon_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d19762086-Reviews-Babylon_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "massage dầu": 0.9952834896976128,
+            "dịch vụ": 0.8344338980095927,
+            "phòng": 0.8853254620218649,
+            "massage": 0.7971880294149741,
+            "bầu không khí": 0.9927068429533392,
+            "spa": 0.9761041857634188,
+            "nhân viên": 0.9955797659349628,
+            "trải nghiệm": 0.975470560049871,
+            "chuyến thăm": 0.9945522645721212,
+            "cửa hàng": 0.9346927866572514,
+            "nhà trị liệu": 0.5,
+            "dịch vụ mát-xa chuyên nghiệp": 0.5,
+            "hương thơm": 0.5,
+            "đá nóng": 0.5
+        },
+        "dicts_adj": {
+            "massage dầu": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "tốt",
+                "cao",
+                "tuyệt vời",
+                "tốt",
+                "hơn"
+            ],
+            "phòng": [
+                "sạch",
+                "tốt",
+                "hơn",
+                "ấm cúng",
+                "riêng tư"
+            ],
+            "massage": [
+                "tốt"
+            ],
+            "bầu không khí": [
+                "mạnh mẽ"
+            ],
+            "spa": [
+                "vui",
+                "khoảng",
+                "tuyệt vời",
+                "nhiều",
+                "vui",
+                "khoảng",
+                "tuyệt vời",
+                "tốt",
+                "hơn"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "sạch sẽ"
+            ],
+            "trải nghiệm": [
+                "tích cực",
+                "vui",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "chuyến thăm": [
+                "đặc biệt"
+            ],
+            "cửa hàng": [
+                "ấm cúng",
+                "riêng tư",
+                "đẹp",
+                "sạch sẽ"
+            ],
+            "nhà trị liệu": [],
+            "dịch vụ mát-xa chuyên nghiệp": [],
+            "hương thơm": [],
+            "đá nóng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "massage dầu": 1.5,
+            "dịch vụ": 8.0,
+            "phòng": 2.5,
+            "massage": 2.5,
+            "bầu không khí": 1.5,
+            "spa": 4.5,
+            "nhân viên": 1.5,
+            "trải nghiệm": 2,
+            "chuyến thăm": 1,
+            "cửa hàng": 2,
+            "nhà trị liệu": 1,
+            "dịch vụ mát-xa chuyên nghiệp": 1,
+            "hương thơm": 1,
+            "đá nóng": 1
+        }
     },
     {
         "attraction_name": "Babylon Spa",
@@ -328,7 +427,178 @@
             "https://www.tripadvisor.com/Attraction_Review-g1223273-d1856149-Reviews-Detian_Scenic_Resort-Daxin_County_Guangxi.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d19762086-Reviews-or20-Babylon_Spa-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d19762086-Reviews-or10-Babylon_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d19762086-Reviews-or10-Babylon_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "không khí": -0.002824923722073436,
+            "bánh dừa": 0.9938924498273991,
+            "trải nghiệm": 0.6238636132620741,
+            "spa": 0.914286654666756,
+            "dịch vụ mát-xa tốt nhất": 0.9953498895047233,
+            "dịch vụ mát-xa tuyệt vời": 0.5,
+            "lịch khắp đông": 0.8737692800350487,
+            "dịch vụ": 0.6651677617143529,
+            "bác sĩ trị liệu": 0.9778295727446675,
+            "mát-xa": 0.8447541426867247,
+            "massage": 0.9948461742023937,
+            "họ": 0.8737692800350487,
+            "trà": 0.9847155762836337,
+            "hương thơm": 0.9943999426905066,
+            "liệu pháp mát-xa": -0.9591585495509207,
+            "khác nhau": -0.287384737841785,
+            "dầu và cả": 0.397789703682065,
+            "suất": -0.8221780331805348,
+            "liệu pháp mát-xa thực sự": 0.9953260382753797,
+            "khoảng thời gian": 0.9953072104835883,
+            "thư giãn": 0.9951898725121282,
+            "nhân viên": 0.9931695634732023,
+            "dịch vụ mát-xa chất lượng": 0.9943696520058438,
+            "bánh quy": 0.5,
+            "sữa chua": 0.5,
+            "nhân viên mát xa": 0.9954241825616919,
+            "giá": 0.8737692800350487,
+            "chất lượng": 0.5,
+            "mát-xa được thực": 0.8737692800350487,
+            "nó": 0.9954112491104752,
+            "được thực": 0.22248996049165726
+        },
+        "dicts_adj": {
+            "không khí": [
+                "đẹp",
+                "ngon"
+            ],
+            "bánh dừa": [
+                "ngon"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "spa": [
+                "nhiều",
+                "đặc biệt",
+                "khắp",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "dịch vụ mát-xa tốt nhất": [
+                "nhiều",
+                "đặc biệt",
+                "khắp"
+            ],
+            "dịch vụ mát-xa tuyệt vời": [],
+            "lịch khắp đông": [
+                "thực sự"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "bác sĩ trị liệu": [
+                "giỏi",
+                "nhất"
+            ],
+            "mát-xa": [
+                "cuối cùng"
+            ],
+            "massage": [
+                "tốt",
+                "thực sự"
+            ],
+            "họ": [
+                "thực sự"
+            ],
+            "trà": [
+                "thực sự"
+            ],
+            "hương thơm": [
+                "dễ chịu"
+            ],
+            "liệu pháp mát-xa": [
+                "nóng dầu"
+            ],
+            "khác nhau": [
+                "nóng dầu",
+                "lâu",
+                "nhiều"
+            ],
+            "dầu và cả": [
+                "cao"
+            ],
+            "suất": [
+                "cao"
+            ],
+            "liệu pháp mát-xa thực sự": [
+                "tốt"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "thư giãn": [
+                "hoàn hảo"
+            ],
+            "nhân viên": [
+                "chu đáo"
+            ],
+            "dịch vụ mát-xa chất lượng": [
+                "thực sự",
+                "cao"
+            ],
+            "bánh quy": [],
+            "sữa chua": [],
+            "nhân viên mát xa": [
+                "giàu",
+                "thực sự"
+            ],
+            "giá": [
+                "tuyệt vời"
+            ],
+            "chất lượng": [],
+            "mát-xa được thực": [
+                "nhiều"
+            ],
+            "nó": [
+                "hoàn hảo"
+            ],
+            "được thực": [
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "không khí": 1,
+            "bánh dừa": 1,
+            "trải nghiệm": 2.0,
+            "spa": 4.5,
+            "dịch vụ mát-xa tốt nhất": 0.5,
+            "dịch vụ mát-xa tuyệt vời": 0.5,
+            "lịch khắp đông": 0.5,
+            "dịch vụ": 1.5,
+            "bác sĩ trị liệu": 0.5,
+            "mát-xa": 0.5,
+            "massage": 1.5,
+            "họ": 1.5,
+            "trà": 1.5,
+            "hương thơm": 1.5,
+            "liệu pháp mát-xa": 1.5,
+            "khác nhau": 2.5,
+            "dầu và cả": 1.5,
+            "suất": 1.5,
+            "liệu pháp mát-xa thực sự": 1.5,
+            "khoảng thời gian": 2,
+            "thư giãn": 1.5,
+            "nhân viên": 2.5,
+            "dịch vụ mát-xa chất lượng": 1.5,
+            "bánh quy": 1.5,
+            "sữa chua": 1.5,
+            "nhân viên mát xa": 1,
+            "giá": 1,
+            "chất lượng": 1,
+            "mát-xa được thực": 1,
+            "nó": 1,
+            "được thực": 1
+        }
     },
     {
         "attraction_name": "Babylon Spa",
@@ -437,7 +707,163 @@
             "https://www.tripadvisor.com/Attraction_Review-g1203001-d7075046-Reviews-Taman_Tumbina-Bintulu_Sarawak.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d19762086-Reviews-or20-Babylon_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d19762086-Reviews-or20-Babylon_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khách sạn": 0.6039840599211553,
+            "giá cả": 0.7980404383561108,
+            "hương thơm": 0.9872306776233017,
+            "chân": 0.9918787243077531,
+            "mát-xa": 0.9942422707972582,
+            "kiểu thái": 0.8737692800350487,
+            "và chất": 0.9812699137255549,
+            "spa": 0.9954642667629136,
+            "trải nghiệm": 0.7697246341558639,
+            "không gian": 0.7298007034696639,
+            "dịch vụ": 0.881374919496011,
+            "chuyến thăm": 0.9955656108213589,
+            "nhân viên": 0.9837347987146737,
+            "giá": 0.24700995534658432,
+            "cửa hàng massage": 0.976915086619556,
+            "không khí": -0.9732770691625774,
+            "mức giá": 0.052902461495250463,
+            "massage": 0.9932029977402028,
+            "môi trường": 0.8737692800350487,
+            "cửa hàng": 0.9918101545772515,
+            "đường phố": 0.7642065960681066,
+            "nhân viên lễ tân": 0.8737692800350487,
+            "trà": 0.5,
+            "mùi hương": 0.9498956128954887,
+            "kỹ thuật viên": 0.9955012465361506,
+            "cho tôi": 0.9955241897841915
+        },
+        "dicts_adj": {
+            "khách sạn": [
+                "rẻ",
+                "đông đúc",
+                "thuận tiện"
+            ],
+            "giá cả": [
+                "rẻ",
+                "tuyệt vời"
+            ],
+            "hương thơm": [
+                "nóng"
+            ],
+            "chân": [
+                "tốt"
+            ],
+            "mát-xa": [
+                "tốt",
+                "tuyệt vời"
+            ],
+            "kiểu thái": [
+                "nóng"
+            ],
+            "và chất": [
+                "tốt"
+            ],
+            "spa": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "đẹp",
+                "thoải mái"
+            ],
+            "không gian": [
+                "đẹp",
+                "thoải mái"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "cao",
+                "hợp lý"
+            ],
+            "chuyến thăm": [
+                "tích cực"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "thân thiện",
+                "dễ dàng",
+                "dễ thương"
+            ],
+            "giá": [
+                "khác"
+            ],
+            "cửa hàng massage": [
+                "thông thường"
+            ],
+            "không khí": [
+                "rẻ"
+            ],
+            "mức giá": [
+                "khác",
+                "hợp lý"
+            ],
+            "massage": [
+                "hợp lý",
+                "thân thiện",
+                "dễ dàng",
+                "tuyệt vời"
+            ],
+            "môi trường": [
+                "đẹp",
+                "sạch sẽ"
+            ],
+            "cửa hàng": [
+                "đẹp",
+                "sạch sẽ"
+            ],
+            "đường phố": [
+                "đông đúc",
+                "thuận tiện"
+            ],
+            "nhân viên lễ tân": [
+                "thân thiện",
+                "dễ dàng"
+            ],
+            "trà": [],
+            "mùi hương": [
+                "dễ thương"
+            ],
+            "kỹ thuật viên": [
+                "tuyệt vời"
+            ],
+            "cho tôi": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khách sạn": 3,
+            "giá cả": 2,
+            "hương thơm": 1,
+            "chân": 1,
+            "mát-xa": 2,
+            "kiểu thái": 1,
+            "và chất": 1,
+            "spa": 3,
+            "trải nghiệm": 1,
+            "không gian": 1,
+            "dịch vụ": 2,
+            "chuyến thăm": 1,
+            "nhân viên": 3,
+            "giá": 1,
+            "cửa hàng massage": 1,
+            "không khí": 1,
+            "mức giá": 2,
+            "massage": 2,
+            "môi trường": 1,
+            "cửa hàng": 1,
+            "đường phố": 1,
+            "nhân viên lễ tân": 1,
+            "trà": 1,
+            "mùi hương": 1,
+            "kỹ thuật viên": 1,
+            "cho tôi": 1
+        }
     },
     {
         "attraction_name": "Babylon Spa",
@@ -587,7 +1013,135 @@
             "https://www.tripadvisor.com/Attraction_Review-g60956-d103614-Reviews-SeaWorld-San_Antonio_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or10-Babylon_Spa-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-Babylon_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-Babylon_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "mát-xa": 0.5,
+            "vài lần": 0.5,
+            "trải nghiệm": 0.9538039980786076,
+            "chất lượng": -0.9715350994374603,
+            "spa": 0.9683431675325015,
+            "dịch vụ": 0.808672073224443,
+            "nhân viên": 0.9064908572472632,
+            "mát-xa lưng và cổ": 0.5,
+            "chuyến thăm": 0.9945522645721212,
+            "gãi": 0.9909245962044224,
+            "mặt": 0.9947425467544235,
+            "cánh hoa hồng": 0.9096037242561579,
+            "massage": 0.9771235341468127,
+            "massage chân": 0.9766070609912276,
+            "đá nóng": 0.009802698623389006,
+            "chuyến thăm tiếp": 0.9955724769388326,
+            "cơ sở": 0.994048158172518,
+            "phòng": 0.9955627024173737,
+            "ốc đảo": -0.9368790248408914,
+            "dịch vụ mát-xa tuyệt vời": 0.5,
+            "ngâm chân": 0.5,
+            "đầu": 0.5,
+            "dịp tết nguyên đán": 0.9859770291950554
+        },
+        "dicts_adj": {
+            "mát-xa": [],
+            "vài lần": [],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tích cực",
+                "vui",
+                "đầu tiên",
+                "thư giãn"
+            ],
+            "chất lượng": [],
+            "spa": [
+                "vui",
+                "khoảng",
+                "tuyệt vời",
+                "nhiều",
+                "hoàn toàn",
+                "bất kỳ"
+            ],
+            "dịch vụ": [
+                "tốt đẹp",
+                "tốt",
+                "cao"
+            ],
+            "nhân viên": [
+                "nhẹ nhõm",
+                "nhẹ nhõm"
+            ],
+            "mát-xa lưng và cổ": [],
+            "chuyến thăm": [
+                "đặc biệt"
+            ],
+            "gãi": [
+                "tuyệt vời",
+                "thư giãn"
+            ],
+            "mặt": [
+                "tuyệt vời",
+                "thư giãn"
+            ],
+            "cánh hoa hồng": [],
+            "massage": [
+                "thực sự",
+                "thơm",
+                "vội vã",
+                "tuyệt vời"
+            ],
+            "massage chân": [
+                "thơm"
+            ],
+            "đá nóng": [
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "chuyến thăm tiếp": [
+                "tích cực"
+            ],
+            "cơ sở": [
+                "chuyên nghiệp"
+            ],
+            "phòng": [
+                "hiện đại",
+                "sạch sẽ",
+                "đẹp"
+            ],
+            "ốc đảo": [
+                "gần",
+                "giống"
+            ],
+            "dịch vụ mát-xa tuyệt vời": [],
+            "ngâm chân": [],
+            "đầu": [],
+            "dịp tết nguyên đán": [
+                "duy nhất"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "mát-xa": 3,
+            "vài lần": 1,
+            "trải nghiệm": 6.0,
+            "chất lượng": 1,
+            "spa": 7.0,
+            "dịch vụ": 4.0,
+            "nhân viên": 1,
+            "mát-xa lưng và cổ": 1,
+            "chuyến thăm": 1.5,
+            "gãi": 1.5,
+            "mặt": 1.5,
+            "cánh hoa hồng": 1.5,
+            "massage": 3.0,
+            "massage chân": 1.5,
+            "đá nóng": 1.5,
+            "chuyến thăm tiếp": 1.5,
+            "cơ sở": 1.5,
+            "phòng": 1.5,
+            "ốc đảo": 1.5,
+            "dịch vụ mát-xa tuyệt vời": 1.5,
+            "ngâm chân": 2,
+            "đầu": 2,
+            "dịp tết nguyên đán": 2
+        }
     },
     {
         "attraction_name": "Babylon Spa",
@@ -738,7 +1292,34 @@
             "https://www.tripadvisor.com/Attraction_Review-g186338-d1766159-Reviews-The_Lion_King-London_England.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or20-Babylon_Spa-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or10-Babylon_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or10-Babylon_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9914177283644676,
+            "ngâm chân": 0.5,
+            "mát-xa": 0.5,
+            "đầu": 0.5,
+            "dịp tết nguyên đán": 0.9597477363422513
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "thư giãn"
+            ],
+            "ngâm chân": [],
+            "mát-xa": [],
+            "đầu": [],
+            "dịp tết nguyên đán": [
+                "duy nhất"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 1.5,
+            "ngâm chân": 1.5,
+            "mát-xa": 1.5,
+            "đầu": 1.5,
+            "dịp tết nguyên đán": 1.5
+        }
     },
     {
         "attraction_name": "Babylon Spa",
@@ -890,7 +1471,34 @@
             "https://www.tripadvisor.com/Attraction_Review-g41081-d8807509-Reviews-Lake_Elkhorn_Park-Columbia_Maryland.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or30-Babylon_Spa-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or20-Babylon_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or20-Babylon_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9914177283644676,
+            "ngâm chân": 0.5,
+            "mát-xa": 0.5,
+            "đầu": 0.5,
+            "dịp tết nguyên đán": 0.9720201096497476
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "thư giãn"
+            ],
+            "ngâm chân": [],
+            "mát-xa": [],
+            "đầu": [],
+            "dịp tết nguyên đán": [
+                "duy nhất"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 1.5,
+            "ngâm chân": 1.5,
+            "mát-xa": 1.5,
+            "đầu": 1.5,
+            "dịp tết nguyên đán": 1.5
+        }
     },
     {
         "attraction_name": "Babylon Spa",
@@ -1042,7 +1650,12 @@
             "https://www.tripadvisor.com/Attraction_Review-g5001404-d3981014-Reviews-Gigante_Island-Carles_Iloilo_Province_Panay_Island_Visayas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or40-Babylon_Spa-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or30-Babylon_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or30-Babylon_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     },
     {
         "attraction_name": "Babylon Spa",
@@ -1194,7 +1807,23 @@
             "https://www.tripadvisor.com/Attraction_Review-g43022-d7052015-Reviews-Twin_Cities_Premium_Outlets-Eagan_Minnesota.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or50-Babylon_Spa-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or40-Babylon_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or40-Babylon_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "spa": 0.9953619140433148
+        },
+        "dicts_adj": {
+            "spa": [
+                "tốt",
+                "vui",
+                "khoảng",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "spa": 1
+        }
     },
     {
         "attraction_name": "Babylon Spa",
@@ -1346,7 +1975,86 @@
             "https://www.tripadvisor.com/Attraction_Review-g34515-d4011150-Reviews-Senses_Spa-Orlando_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or60-Babylon_Spa-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or50-Babylon_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or50-Babylon_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "spa": 0.9926100603770465,
+            "trải nghiệm": 0.8685298541289134,
+            "dịch vụ": 0.5,
+            "chuyến thăm tiếp": 0.9625653577968478,
+            "gãi": -0.2193084730533883,
+            "rửa mặt": -0.0278853727504611,
+            "mát-xa": 0.7670938335359097,
+            "cổ tuyệt": 0.7580754403898027,
+            "cánh hoa hồng": 0.5014492087066174,
+            "massage": 0.9954611862194724,
+            "massage chân": 0.9948871345841326,
+            "đá nóng": 0.5,
+            "đá": 0.3375652441754937
+        },
+        "dicts_adj": {
+            "spa": [
+                "nhiều"
+            ],
+            "trải nghiệm": [
+                "tích cực",
+                "vui",
+                "nóng",
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "dịch vụ": [],
+            "chuyến thăm tiếp": [
+                "bất kỳ",
+                "đặc biệt",
+                "hơn"
+            ],
+            "gãi": [
+                "tuyệt vời",
+                "thư giãn"
+            ],
+            "rửa mặt": [
+                "tuyệt vời",
+                "thư giãn"
+            ],
+            "mát-xa": [
+                "tuyệt vời",
+                "thư giãn"
+            ],
+            "cổ tuyệt": [
+                "tuyệt vời",
+                "thư giãn"
+            ],
+            "cánh hoa hồng": [],
+            "massage": [
+                "thơm"
+            ],
+            "massage chân": [
+                "thơm"
+            ],
+            "đá nóng": [],
+            "đá": [
+                "nóng",
+                "tuyệt vời",
+                "thực sự"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "spa": 1.5,
+            "trải nghiệm": 3.0,
+            "dịch vụ": 3.0,
+            "chuyến thăm tiếp": 1.5,
+            "gãi": 1.5,
+            "rửa mặt": 1.5,
+            "mát-xa": 1.5,
+            "cổ tuyệt": 1.5,
+            "cánh hoa hồng": 1.5,
+            "massage": 1.5,
+            "massage chân": 1.5,
+            "đá nóng": 1.5,
+            "đá": 1.5
+        }
     },
     {
         "attraction_name": "Babylon Spa",
@@ -1498,7 +2206,12 @@
             "https://www.tripadvisor.com/Attraction_Review-g262055-d1519586-Reviews-Pantachou_Beach-Ayia_Napa_Famagusta_District.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or70-Babylon_Spa-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or60-Babylon_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or60-Babylon_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     },
     {
         "attraction_name": "Babylon Spa",
@@ -1650,7 +2363,12 @@
             "https://www.tripadvisor.com/Attraction_Review-g297962-d12262360-Reviews-Tunektepe_Teleferik-Antalya_Turkish_Mediterranean_Coast.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or80-Babylon_Spa-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or70-Babylon_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or70-Babylon_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     },
     {
         "attraction_name": "Babylon Spa",
@@ -1806,7 +2524,38 @@
             "https://www.tripadvisor.com/Attraction_Review-g608484-d10802002-Reviews-Virgin_Beach-Karangasem_Bali.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or90-Babylon_Spa-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or80-Babylon_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or80-Babylon_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.9946147670852952,
+            "nhân viên": -0.0410761326784268,
+            "mát-xa của tôi": 0.994623639708152,
+            "và": 0.5,
+            "cổ": 0.5
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "tốt"
+            ],
+            "nhân viên": [
+                "khác",
+                "nhẹ nhõm"
+            ],
+            "mát-xa của tôi": [
+                "khác",
+                "nhẹ nhõm"
+            ],
+            "và": [],
+            "cổ": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 1,
+            "nhân viên": 1,
+            "mát-xa của tôi": 1,
+            "và": 1,
+            "cổ": 1
+        }
     },
     {
         "attraction_name": "Babylon Spa",
@@ -1967,6 +2716,11 @@
             "https://www.tripadvisor.com/Attraction_Review-g54098-d267883-Reviews-Gilbert_Stuart_Museum-North_Kingstown_Washington_County_Rhode_Island.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or90-Babylon_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15746188-Reviews-or90-Babylon_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     }
 ]

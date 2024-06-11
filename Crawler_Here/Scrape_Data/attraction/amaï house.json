@@ -123,7 +123,137 @@
             "https://www.tripadvisor.com/Attraction_Review-g29220-d12653865-Reviews-Punalau_Falls-Maui_Hawaii.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-or10-Amai_house-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-Amai_house-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-Amai_house-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đồ trang trí": 0.5,
+            "buổi họp mặt": 0.5,
+            "nhân viên": 0.8527270283621664,
+            "sản phẩm": 0.6230437146004988,
+            "cửa hàng": 0.6281543981114571,
+            "chất lượng": 0.96494533301302,
+            "căn bếp": 0.5,
+            "bàn ăn": 0.5,
+            "cà phê": 0.9871890062931925,
+            "kho tàng": 0.6168663124553859,
+            "cốc": 0.9890614582109265,
+            "vẫn": 0.9952046042308211,
+            "đồ dùng": 0.8737692800350487,
+            "nhà bếp": 0.9947051569470204,
+            "dịch vụ": 0.995489667460788,
+            "bình": 0.7419069641036913,
+            "trà": 0.5,
+            "mẫu mã": 0.9901133393868804,
+            "bộ đồ ăn": 0.5,
+            "gốm sứ": 0.9954930566309486,
+            "phong cách": 0.6698932750150561,
+            "khăn lụa": 0.558042474091053,
+            "bộ sưu tập": 0.8737692800350487,
+            "cửa hàng thao dien": 0.9752538483589888,
+            "hành lý": 0.9933195136254653
+        },
+        "dicts_adj": {
+            "đồ trang trí": [],
+            "buổi họp mặt": [],
+            "nhân viên": [
+                "tốt",
+                "thân thiện",
+                "lịch sự",
+                "tươi",
+                "rõ ràng",
+                "Rộng rãi",
+                "đủ",
+                "tốt"
+            ],
+            "sản phẩm": [
+                "tốt"
+            ],
+            "cửa hàng": [
+                "nhiều",
+                "khác",
+                "mệt mỏi"
+            ],
+            "chất lượng": [
+                "tốt",
+                "đẹp",
+                "Đầy đủ",
+                "tuyệt vời"
+            ],
+            "căn bếp": [],
+            "bàn ăn": [],
+            "cà phê": [],
+            "kho tàng": [
+                "nhiều",
+                "khác"
+            ],
+            "cốc": [
+                "hoàn hảo",
+                "cẩn thận"
+            ],
+            "vẫn": [
+                "hoàn hảo"
+            ],
+            "đồ dùng": [
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "nhà bếp": [
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "bình": [
+                "cẩn thận"
+            ],
+            "trà": [],
+            "mẫu mã": [
+                "đẹp"
+            ],
+            "bộ đồ ăn": [],
+            "gốm sứ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "phong cách": [],
+            "khăn lụa": [],
+            "bộ sưu tập": [
+                "tuyệt vời"
+            ],
+            "cửa hàng thao dien": [],
+            "hành lý": [
+                "sớm"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đồ trang trí": 1,
+            "buổi họp mặt": 1,
+            "nhân viên": 6.5,
+            "sản phẩm": 4.0,
+            "cửa hàng": 5.5,
+            "chất lượng": 4.0,
+            "căn bếp": 1,
+            "bàn ăn": 1,
+            "cà phê": 1.5,
+            "kho tàng": 1.5,
+            "cốc": 3.0,
+            "vẫn": 1.5,
+            "đồ dùng": 1.5,
+            "nhà bếp": 1.5,
+            "dịch vụ": 1.5,
+            "bình": 3.0,
+            "trà": 1.5,
+            "mẫu mã": 1.5,
+            "bộ đồ ăn": 1.5,
+            "gốm sứ": 3.0,
+            "phong cách": 1.5,
+            "khăn lụa": 1.5,
+            "bộ sưu tập": 1.5,
+            "cửa hàng thao dien": 1.5,
+            "hành lý": 2
+        }
     },
     {
         "attraction_name": "amaï house",
@@ -250,7 +380,27 @@
             "https://www.tripadvisor.com/Attraction_Review-g147255-d5608039-Reviews-Cooper_s_Island_Nature_Reserve-Bermuda.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-or20-Amai_house-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-or10-Amai_house-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-or10-Amai_house-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.9941238656756468,
+            "sản phẩm": 0.5,
+            "cửa hàng": 0.5
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "tốt bụng",
+                "tốt bụng"
+            ],
+            "sản phẩm": [],
+            "cửa hàng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 1.5,
+            "sản phẩm": 1.5,
+            "cửa hàng": 1.5
+        }
     },
     {
         "attraction_name": "amaï house",
@@ -378,7 +528,44 @@
             "https://www.tripadvisor.com/Attraction_Review-g60878-d585943-Reviews-Ballard_Farmer_s_Market-Seattle_Washington.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-or30-Amai_house-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-or20-Amai_house-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-or20-Amai_house-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đồ gia dụng": 0.8737692800350487,
+            "gốm sứ": 0.9955208354513161,
+            "mức": 0.6783505631610751,
+            "giá": 0.8954709687968716,
+            "quà tặng": 0.9938380182720721
+        },
+        "dicts_adj": {
+            "đồ gia dụng": [
+                "hoàn toàn",
+                "hợp lý"
+            ],
+            "gốm sứ": [
+                "hoàn toàn",
+                "hợp lý"
+            ],
+            "mức": [
+                "hoàn toàn",
+                "hợp lý"
+            ],
+            "giá": [
+                "hoàn toàn",
+                "hợp lý"
+            ],
+            "quà tặng": [
+                "cẩn thận"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đồ gia dụng": 1.5,
+            "gốm sứ": 1.5,
+            "mức": 1.5,
+            "giá": 1.5,
+            "quà tặng": 1.5
+        }
     },
     {
         "attraction_name": "amaï house",
@@ -506,7 +693,31 @@
             "https://www.tripadvisor.com/Attraction_Review-g188057-d3203924-Reviews-Bains_des_Paquis-Geneva.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-or40-Amai_house-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-or30-Amai_house-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-or30-Amai_house-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đồ gốm": 0.9952390074613504,
+            "không gian": 0.5466593038290739,
+            "tâm trạng": 0.9925045250565745
+        },
+        "dicts_adj": {
+            "đồ gốm": [
+                "nhiều",
+                "đẹp"
+            ],
+            "không gian": [
+                "thoải mái"
+            ],
+            "tâm trạng": [
+                "thoải mái"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đồ gốm": 1.5,
+            "không gian": 1.5,
+            "tâm trạng": 1.5
+        }
     },
     {
         "attraction_name": "amaï house",
@@ -634,7 +845,25 @@
             "https://www.tripadvisor.com/Attraction_Review-g31020-d144196-Reviews-DIPAC_s_Macaulay_Salmon_Hatchery-Juneau_Alaska.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-or50-Amai_house-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-or40-Amai_house-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-or40-Amai_house-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "gốm": 0.9955615741782822,
+            "nhân viên": 0.9889338557841256
+        },
+        "dicts_adj": {
+            "gốm": [
+                "nhiều"
+            ],
+            "nhân viên": [
+                "tốt bụng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "gốm": 1.5,
+            "nhân viên": 1.5
+        }
     },
     {
         "attraction_name": "amaï house",
@@ -762,7 +991,32 @@
             "https://www.tripadvisor.com/Attraction_Review-g187497-d4708411-Reviews-Bling_Bling-Barcelona_Catalonia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-or60-Amai_house-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-or50-Amai_house-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-or50-Amai_house-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đồ gốm việt nam": 0.9954981511109509,
+            "chất lượng": 0.9954745490686037,
+            "phong cách": 0.6698932750150561,
+            "khăn lụa": 0.558042474091053
+        },
+        "dicts_adj": {
+            "đồ gốm việt nam": [
+                "tuyệt vời"
+            ],
+            "chất lượng": [
+                "Đầy",
+                "tuyệt vời"
+            ],
+            "phong cách": [],
+            "khăn lụa": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đồ gốm việt nam": 1.5,
+            "chất lượng": 1.5,
+            "phong cách": 1.5,
+            "khăn lụa": 1.5
+        }
     },
     {
         "attraction_name": "amaï house",
@@ -890,7 +1144,28 @@
             "https://www.tripadvisor.com/Attraction_Review-g801293-d14927399-Reviews-Benja_Thermal_Baths-Permet_Gjirokaster_County.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-or70-Amai_house-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-or60-Amai_house-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-or60-Amai_house-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cốc bát đồ thủ công": 0.9873348327819258,
+            "nhân viên": 0.9952461744542234,
+            "cửa hàng": 0.9851146941073239
+        },
+        "dicts_adj": {
+            "cốc bát đồ thủ công": [
+                "đẹp"
+            ],
+            "nhân viên": [
+                "tốt bụng"
+            ],
+            "cửa hàng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cốc bát đồ thủ công": 1.5,
+            "nhân viên": 1.5,
+            "cửa hàng": 1.5
+        }
     },
     {
         "attraction_name": "amaï house",
@@ -1018,6 +1293,50 @@
             "https://www.tripadvisor.com/Attraction_Review-g33726-d2415189-Reviews-Seaside_Park-Bridgeport_Connecticut.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-or80-Amai_house-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-or70-Amai_house-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8556994-Reviews-or70-Amai_house-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ sưu tập": 0.8737692800350487,
+            "gốm sứ": 0.9954557742457837,
+            "cửa hàng thao dien": 0.977628011489287,
+            "nhân viên": 0.9936427349457517,
+            "cốc": 0.5929043255746365,
+            "đồ gốm": 0.8737692800350487,
+            "chuyến đi": 0.5,
+            "khách sạn": 0.5
+        },
+        "dicts_adj": {
+            "bộ sưu tập": [
+                "tuyệt vời"
+            ],
+            "gốm sứ": [
+                "tuyệt vời"
+            ],
+            "cửa hàng thao dien": [],
+            "nhân viên": [
+                "tốt bụng",
+                "hữu ích"
+            ],
+            "cốc": [
+                "cẩn thận"
+            ],
+            "đồ gốm": [
+                "đẹp",
+                "độc đáo"
+            ],
+            "chuyến đi": [],
+            "khách sạn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ sưu tập": 1.5,
+            "gốm sứ": 1.5,
+            "cửa hàng thao dien": 1.5,
+            "nhân viên": 3.0,
+            "cốc": 1.5,
+            "đồ gốm": 1.5,
+            "chuyến đi": 1.5,
+            "khách sạn": 1.5
+        }
     }
 ]

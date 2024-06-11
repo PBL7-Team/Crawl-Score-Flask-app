@@ -97,7 +97,371 @@
             "https://www.tripadvisor.com/Attraction_Review-g60763-d524927-Reviews-Museum_of_Arts_and_Design-New_York_City_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or10-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên": 0.735732869311635,
+            "bánh mì": 0.8737692800350487,
+            "đồ uống": 0.5787127679213881,
+            "bữa trưa": 0.8737692800350487,
+            "chuyến tham quan": 0.5,
+            "bữa ăn": 0.5,
+            "chuyến đi": 0.8848912677869001,
+            "nước đóng chai": -0.33884578198194504,
+            "biển báo": 0.5,
+            "trẻ em": 0.5,
+            "núi": 0.24361339025199413,
+            "dòng nước": 0.5680080693215132,
+            "hồ bơi": 0.4296266791410744,
+            "song": 0.5,
+            "thác nước": 0.8056692164003229,
+            "hồ nước": 0.5,
+            "thời tiết": 0.3699376955628395,
+            "đoạn": 0.5867205187678337,
+            "nhà vệ sinh": 0.9821687001967803,
+            "chuyến đi bộ": 0.8885205364320428,
+            "người": 0.1527088483174642,
+            "thừng": 0.5,
+            "bậc thang": 0.5,
+            "bọn trẻ": -0.669981540646404,
+            "khi bơi": 0.5,
+            "quán cà phê": 0.5,
+            "đồ ăn": 0.5,
+            "phòng": 0.5,
+            "dưới nước": 0.5,
+            "thác": 0.8935975475615123,
+            "hồ": 0.7214490072801709,
+            "khu": 0.5343841835856438,
+            "ván sup": 0.5,
+            "zorb kayak": 0.5,
+            "võng": 0.5301684159785509,
+            "nhân viên an ninh": 0.5,
+            "phòng vé": 0.5,
+            "xe tay ga": 0.6449529463425279,
+            "xe buýt": 0.5,
+            "khu du lịch": 0.995594366453588,
+            "chèo thuyền đi bộ": 0.44693426601588726,
+            "vách đá": 0.5,
+            "thể thao": 0.01208135433262214,
+            "khăn nước": -0.9733101518359035,
+            "thức ăn": 0.9146722480654716,
+            "vùng đất": 0.5288853398524225,
+            "tảng": 0.5307677027303725,
+            "khung cảnh": 0.5,
+            "cây xanh": 0.5,
+            "công viên": 0.5459957802668214,
+            "cảnh": 0.9945543365902267,
+            "tranh vẽ": 0.5,
+            "nhân viên": 0.9924179158988409,
+            "môn": 0.9832286012533586,
+            "thể thao dưới nước": 0.9697501136106439,
+            "đường mòn": 0.8647010400891304,
+            "mặt": 0.9880401330301538,
+            "phần khó": 0.5163768045604229,
+            "sảng": 0.9950897905509919,
+            "thiên nhiên": 0.9935296608600765,
+            "người di động": 0.5196477863937616,
+            "giày dép": 0.9790266073541716,
+            "hoạt động leo núi": 0.9955490893335082,
+            "đi bộ đường dài": 0.995579372800421,
+            "thác thứ": -0.9659903894644231,
+            "tảng đá": 0.538689237087965,
+            "đôi dép": 0.4596841810271144,
+            "xỏ": 0.43170223478227854,
+            "ngày": 0.9955450587440282,
+            "taxi": 0.5278391055762768
+        },
+        "dicts_adj": {
+            "hướng dẫn viên": [
+                "giỏi",
+                "nhất",
+                "kỹ lưỡng",
+                "an toàn",
+                "khó khăn",
+                "nhiều"
+            ],
+            "bánh mì": [
+                "am hiểu",
+                "tốt"
+            ],
+            "đồ uống": [
+                "khác",
+                "đắt"
+            ],
+            "bữa trưa": [
+                "ngon",
+                "giống"
+            ],
+            "chuyến tham quan": [],
+            "bữa ăn": [],
+            "chuyến đi": [
+                "kỹ lưỡng",
+                "an toàn",
+                "đầy",
+                "đầu tiên",
+                "đẹp"
+            ],
+            "nước đóng chai": [],
+            "biển báo": [],
+            "trẻ em": [],
+            "núi": [
+                "xa",
+                "hơn"
+            ],
+            "dòng nước": [
+                "xa",
+                "hơn",
+                "mạnh",
+                "sâu",
+                "đột ngột"
+            ],
+            "hồ bơi": [
+                "đầu tiên",
+                "nguy hiểm",
+                "đầu tiên",
+                "mạnh",
+                "đầu tiên"
+            ],
+            "song": [],
+            "thác nước": [
+                "nhiều",
+                "thực sự",
+                "đẹp",
+                "đẹp"
+            ],
+            "hồ nước": [],
+            "thời tiết": [],
+            "đoạn": [
+                "dễ dàng",
+                "ngắn"
+            ],
+            "nhà vệ sinh": [
+                "sạch sẽ"
+            ],
+            "chuyến đi bộ": [
+                "dài",
+                "tốt",
+                "đáng giá",
+                "thực sự",
+                "thú vị",
+                "thực sự",
+                "thực sự",
+                "dài",
+                "hơn"
+            ],
+            "người": [
+                "đặc biệt",
+                "mạnh",
+                "nhiều"
+            ],
+            "thừng": [],
+            "bậc thang": [],
+            "bọn trẻ": [
+                "khó khăn",
+                "nhiều"
+            ],
+            "khi bơi": [],
+            "quán cà phê": [],
+            "đồ ăn": [],
+            "phòng": [],
+            "dưới nước": [],
+            "thác": [
+                "đẹp",
+                "đẹp",
+                "kém"
+            ],
+            "hồ": [
+                "cuối cùng"
+            ],
+            "khu": [
+                "cuối cùng"
+            ],
+            "ván sup": [],
+            "zorb kayak": [],
+            "võng": [],
+            "nhân viên an ninh": [],
+            "phòng vé": [],
+            "xe tay ga": [
+                "dễ"
+            ],
+            "xe buýt": [],
+            "khu du lịch": [
+                "tốt"
+            ],
+            "chèo thuyền đi bộ": [
+                "dài"
+            ],
+            "vách đá": [],
+            "thể thao": [
+                "tốt",
+                "quan trọng",
+                "mạnh"
+            ],
+            "khăn nước": [
+                "bất kỳ"
+            ],
+            "thức ăn": [
+                "bất kỳ"
+            ],
+            "vùng đất": [
+                "cao",
+                "hơn",
+                "dễ",
+                "hơn"
+            ],
+            "tảng": [
+                "cao",
+                "hơn",
+                "dễ",
+                "hơn"
+            ],
+            "khung cảnh": [],
+            "cây xanh": [],
+            "công viên": [
+                "đông đúc",
+                "lớn"
+            ],
+            "cảnh": [
+                "đẹp"
+            ],
+            "tranh vẽ": [],
+            "nhân viên": [
+                "hữu ích",
+                "dọc"
+            ],
+            "môn": [
+                "hữu ích",
+                "dọc"
+            ],
+            "thể thao dưới nước": [
+                "hữu ích",
+                "dọc"
+            ],
+            "đường mòn": [
+                "tốt"
+            ],
+            "mặt": [
+                "đẹp"
+            ],
+            "phần khó": [
+                "hơn"
+            ],
+            "sảng": [
+                "đầu tiên",
+                "khoái"
+            ],
+            "thiên nhiên": [
+                "tuyệt khi",
+                "ngắn ngủi"
+            ],
+            "người di động": [
+                "bất kỳ",
+                "cứng"
+            ],
+            "giày dép": [
+                "tốt"
+            ],
+            "hoạt động leo núi": [
+                "tốt"
+            ],
+            "đi bộ đường dài": [
+                "tốt"
+            ],
+            "thác thứ": [
+                "đủ"
+            ],
+            "tảng đá": [
+                "dễ dàng",
+                "khổng lồ",
+                "nhanh chóng",
+                "phải"
+            ],
+            "đôi dép": [
+                "xỏ ngón",
+                "nhỏ"
+            ],
+            "xỏ": [
+                "xỏ ngón",
+                "nhỏ"
+            ],
+            "ngày": [],
+            "taxi": [
+                "hơn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên": 3.5,
+            "bánh mì": 1,
+            "đồ uống": 1.5,
+            "bữa trưa": 1,
+            "chuyến tham quan": 1,
+            "bữa ăn": 1,
+            "chuyến đi": 3.5,
+            "nước đóng chai": 1,
+            "biển báo": 1,
+            "trẻ em": 1,
+            "núi": 1,
+            "dòng nước": 1,
+            "hồ bơi": 3.0,
+            "song": 1,
+            "thác nước": 4.5,
+            "hồ nước": 1,
+            "thời tiết": 1.5,
+            "đoạn": 1.5,
+            "nhà vệ sinh": 1.5,
+            "chuyến đi bộ": 2.5,
+            "người": 1.5,
+            "thừng": 1.5,
+            "bậc thang": 1.5,
+            "bọn trẻ": 1.5,
+            "khi bơi": 1.5,
+            "quán cà phê": 0.5,
+            "đồ ăn": 0.5,
+            "phòng": 0.5,
+            "dưới nước": 0.5,
+            "thác": 1.0,
+            "hồ": 1.0,
+            "khu": 0.5,
+            "ván sup": 0.5,
+            "zorb kayak": 0.5,
+            "võng": 0.5,
+            "nhân viên an ninh": 0.5,
+            "phòng vé": 0.5,
+            "xe tay ga": 0.5,
+            "xe buýt": 0.5,
+            "khu du lịch": 0.5,
+            "chèo thuyền đi bộ": 0.5,
+            "vách đá": 0.5,
+            "thể thao": 1.0,
+            "khăn nước": 0.5,
+            "thức ăn": 0.5,
+            "vùng đất": 0.5,
+            "tảng": 0.5,
+            "khung cảnh": 0.5,
+            "cây xanh": 0.5,
+            "công viên": 0.5,
+            "cảnh": 0.5,
+            "tranh vẽ": 0.5,
+            "nhân viên": 0.5,
+            "môn": 0.5,
+            "thể thao dưới nước": 0.5,
+            "đường mòn": 0.5,
+            "mặt": 0.5,
+            "phần khó": 0.5,
+            "sảng": 0.5,
+            "thiên nhiên": 0.5,
+            "người di động": 0.5,
+            "giày dép": 0.5,
+            "hoạt động leo núi": 0.5,
+            "đi bộ đường dài": 0.5,
+            "thác thứ": 0.5,
+            "tảng đá": 0.5,
+            "đôi dép": 0.5,
+            "xỏ": 0.5,
+            "ngày": 0.5,
+            "taxi": 0.5
+        }
     },
     {
         "attraction_name": "Ba Ho Waterfall",
@@ -217,7 +581,160 @@
             "https://www.tripadvisor.com/Attraction_Review-g29516-d2008171-Reviews-Chapel_Brook-Ashfield_Massachusetts.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or20-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or10-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or10-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thác nước": 0.8309389759306214,
+            "chuyến đi bộ": 0.6945664312806912,
+            "thể thao": 0.7447681094054133,
+            "hướng dẫn viên": 0.4844284914433956,
+            "bọn trẻ": -0.665949173271656,
+            "hồ bơi": 0.9356456868117675,
+            "thể thao dưới nước": 0.5,
+            "chèo thuyền kayak": 0.5,
+            "tour": 0.5430040769279003,
+            "thác ba hồ": 0.8737692800350487,
+            "công viên": -0.22653751191683114,
+            "vui chơi dã": 0.9950619971496053,
+            "ngôi": 0.5,
+            "nhà gỗ": 0.5,
+            "độ khó": 0.3287200666964054,
+            "trẻ em": 0.6923477086238563,
+            "thác": 0.7680055946111679,
+            "đoạn": -0.562242578715086,
+            "leo trèo": 0.5,
+            "bậc thang": 0.5,
+            "tảng đá": 0.5,
+            "nha trang": 0.9317409404320642,
+            "bãi biển": 0.9799438724294305,
+            "thiên nhiên": 0.9948857862036675,
+            "cảnh": 0.9934938425431028,
+            "chỉ dẫn tre": 0.56090366281569,
+            "looking for": 0.9799575870856643
+        },
+        "dicts_adj": {
+            "thác nước": [
+                "thực sự",
+                "đẹp",
+                "vui",
+                "khó",
+                "thú vị",
+                "yếu",
+                "dã ngoại"
+            ],
+            "chuyến đi bộ": [
+                "dài",
+                "tốt",
+                "đáng giá",
+                "thử thách",
+                "cao"
+            ],
+            "thể thao": [
+                "đặc biệt",
+                "nhiều"
+            ],
+            "hướng dẫn viên": [
+                "khó khăn"
+            ],
+            "bọn trẻ": [
+                "khó khăn"
+            ],
+            "hồ bơi": [
+                "vui",
+                "dã ngoại",
+                "đầu tiên"
+            ],
+            "thể thao dưới nước": [],
+            "chèo thuyền kayak": [],
+            "tour": [
+                "nhiều"
+            ],
+            "thác ba hồ": [
+                "dã ngoại"
+            ],
+            "công viên": [
+                "dã ngoại",
+                "thực sự",
+                "thiếu",
+                "xa",
+                "tự nhiên",
+                "tình cờ"
+            ],
+            "vui chơi dã": [
+                "dã ngoại"
+            ],
+            "ngôi": [],
+            "nhà gỗ": [],
+            "độ khó": [
+                "hoàn toàn",
+                "khác",
+                "khác"
+            ],
+            "trẻ em": [
+                "thấp",
+                "khỏe"
+            ],
+            "thác": [
+                "đầu tiên",
+                "dọc"
+            ],
+            "đoạn": [
+                "nhiều",
+                "phải"
+            ],
+            "leo trèo": [],
+            "bậc thang": [],
+            "tảng đá": [],
+            "nha trang": [
+                "chắc chắn"
+            ],
+            "bãi biển": [
+                "thực sự"
+            ],
+            "thiên nhiên": [
+                "tuyệt vời"
+            ],
+            "cảnh": [
+                "ngoạn mục",
+                "dọc"
+            ],
+            "chỉ dẫn tre": [
+                "dễ dàng"
+            ],
+            "looking for": [
+                "to"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thác nước": 4.0,
+            "chuyến đi bộ": 4.0,
+            "thể thao": 1.5,
+            "hướng dẫn viên": 1.5,
+            "bọn trẻ": 1.5,
+            "hồ bơi": 2.0,
+            "thể thao dưới nước": 1,
+            "chèo thuyền kayak": 1,
+            "tour": 0.5,
+            "thác ba hồ": 0.5,
+            "công viên": 0.5,
+            "vui chơi dã": 0.5,
+            "ngôi": 0.5,
+            "nhà gỗ": 0.5,
+            "độ khó": 0.5,
+            "trẻ em": 0.5,
+            "thác": 0.5,
+            "đoạn": 0.5,
+            "leo trèo": 0.5,
+            "bậc thang": 0.5,
+            "tảng đá": 0.5,
+            "nha trang": 1.0,
+            "bãi biển": 0.5,
+            "thiên nhiên": 0.5,
+            "cảnh": 0.5,
+            "chỉ dẫn tre": 0.5,
+            "looking for": 0.5
+        }
     },
     {
         "attraction_name": "Ba Ho Waterfall",
@@ -338,7 +855,92 @@
             "https://www.tripadvisor.com/Attraction_Review-g293983-d1059048-Reviews-City_of_David_National_Park-Jerusalem_Jerusalem_District.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or30-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or20-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or20-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hướng dẫn viên": 0.9549579341740658,
+            "người": 0.9955398986348882,
+            "bánh mì": 0.8737692800350487,
+            "đồ uống": 0.5,
+            "bữa trưa": 0.8737692800350487,
+            "tour du lịch": -0.5804521348327398,
+            "bữa ăn": 0.5,
+            "khoảng thời gian": 0.9953072104835883,
+            "vách đá": 0.5,
+            "nha trang": 0.8737692800350487,
+            "thác nước": 0.5474473442882299,
+            "khung cảnh thiên nhiên": 0.9952060052892193,
+            "đi bộ": 0.7570759616792202,
+            "khung cảnh": 0.9954537751036696,
+            "rừng rậm": 0.9949793424457312
+        },
+        "dicts_adj": {
+            "hướng dẫn viên": [
+                "tuyệt",
+                "thân thiện"
+            ],
+            "người": [
+                "tuyệt"
+            ],
+            "bánh mì": [
+                "hiểu biết",
+                "tốt"
+            ],
+            "đồ uống": [],
+            "bữa trưa": [
+                "ngon",
+                "giống"
+            ],
+            "tour du lịch": [
+                "khác"
+            ],
+            "bữa ăn": [],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "vách đá": [],
+            "nha trang": [
+                "thân thiện"
+            ],
+            "thác nước": [
+                "đông đúc"
+            ],
+            "khung cảnh thiên nhiên": [
+                "đẹp"
+            ],
+            "đi bộ": [
+                "Trái ngược",
+                "nhẹ",
+                "dễ",
+                "bất kỳ",
+                "mạnh"
+            ],
+            "khung cảnh": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "rừng rậm": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hướng dẫn viên": 1.5,
+            "người": 1,
+            "bánh mì": 1,
+            "đồ uống": 1,
+            "bữa trưa": 1,
+            "tour du lịch": 1,
+            "bữa ăn": 1,
+            "khoảng thời gian": 0.5,
+            "vách đá": 0.5,
+            "nha trang": 0.5,
+            "thác nước": 0.5,
+            "khung cảnh thiên nhiên": 0.5,
+            "đi bộ": 0.5,
+            "khung cảnh": 0.5,
+            "rừng rậm": 0.5
+        }
     },
     {
         "attraction_name": "Ba Ho Waterfall",
@@ -462,7 +1064,152 @@
             "https://www.tripadvisor.com/Attraction_Review-g42416-d493978-Reviews-S_S_Badger_Lake_Michigan_Carferry-Ludington_Michigan.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or40-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or30-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or30-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nha trang": 0.9952525421977043,
+            "khách sạn": 0.5269198287278414,
+            "tảng": 0.565243374556303,
+            "thác nước": 0.289479701500386,
+            "hồ bơi": 0.7168930019898755,
+            "đạo cụ": 0.9693617364391685,
+            "chèo thuyền sup": 0.5,
+            "chướng": 0.5,
+            "phao đạp xe": 0.5,
+            "ẩm thực": 0.1629665344953537,
+            "quán cà phê": 0.5674792919307947,
+            "đồ ăn": -0.9271164224483073,
+            "đồ uống": 0.9032222107052803,
+            "buổi chiều": 0.9954483105102554,
+            "thác": -0.24310354888439178,
+            "trekking": 0.5,
+            "nhà hàng": 0.543372007086873,
+            "dưới nước": 0.5,
+            "chèo thuyền kayak": 0.5,
+            "cầu": 0.5,
+            "giá": 0.5592368431389332,
+            "hoạt động thể thao": 0.5,
+            "nhân viên": 0.993681134073995,
+            "cơ sở": 0.9899633593740873,
+            "môi trường": 0.98388182814233,
+            "xe golf": 0.6300546377897263,
+            "hồ": -0.9495978483464569,
+            "hố bơi": 0.5,
+            "chèo thuyền ván": 0.5
+        },
+        "dicts_adj": {
+            "nha trang": [
+                "tuyệt vời",
+                "hối hả",
+                "nhộn nhịp"
+            ],
+            "khách sạn": [],
+            "tảng": [
+                "kín",
+                "bất kỳ"
+            ],
+            "thác nước": [
+                "phải",
+                "chính xác",
+                "nhẹ nhàng",
+                "chắc chắn",
+                "hơn",
+                "nhỏ",
+                "ấn tượng",
+                "khác"
+            ],
+            "hồ bơi": [
+                "khoảng",
+                "lâu",
+                "hơn",
+                "cuối cùng",
+                "bất kỳ",
+                "sảng khoái"
+            ],
+            "đạo cụ": [
+                "nhiều"
+            ],
+            "chèo thuyền sup": [],
+            "chướng": [],
+            "phao đạp xe": [],
+            "ẩm thực": [
+                "nhiều"
+            ],
+            "quán cà phê": [
+                "nhiều",
+                "nhiều"
+            ],
+            "đồ ăn": [
+                "nhiều"
+            ],
+            "đồ uống": [
+                "nhiều"
+            ],
+            "buổi chiều": [
+                "thú vị"
+            ],
+            "thác": [
+                "nhỏ",
+                "nhỏ"
+            ],
+            "trekking": [],
+            "nhà hàng": [
+                "nhỏ",
+                "khác"
+            ],
+            "dưới nước": [],
+            "chèo thuyền kayak": [],
+            "cầu": [],
+            "giá": [],
+            "hoạt động thể thao": [],
+            "nhân viên": [
+                "thân thiện"
+            ],
+            "cơ sở": [
+                "tốt"
+            ],
+            "môi trường": [
+                "tốt"
+            ],
+            "xe golf": [],
+            "hồ": [
+                "khác"
+            ],
+            "hố bơi": [],
+            "chèo thuyền ván": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nha trang": 0.5,
+            "khách sạn": 0.5,
+            "tảng": 0.5,
+            "thác nước": 2.0,
+            "hồ bơi": 1.5,
+            "đạo cụ": 0.5,
+            "chèo thuyền sup": 0.5,
+            "chướng": 0.5,
+            "phao đạp xe": 0.5,
+            "ẩm thực": 0.5,
+            "quán cà phê": 0.5,
+            "đồ ăn": 0.5,
+            "đồ uống": 0.5,
+            "buổi chiều": 0.5,
+            "thác": 0.5,
+            "trekking": 0.5,
+            "nhà hàng": 0.5,
+            "dưới nước": 1.0,
+            "chèo thuyền kayak": 1.0,
+            "cầu": 0.5,
+            "giá": 0.5,
+            "hoạt động thể thao": 0.5,
+            "nhân viên": 0.5,
+            "cơ sở": 0.5,
+            "môi trường": 0.5,
+            "xe golf": 0.5,
+            "hồ": 0.5,
+            "hố bơi": 0.5,
+            "chèo thuyền ván": 0.5
+        }
     },
     {
         "attraction_name": "Ba Ho Waterfall",
@@ -584,7 +1331,79 @@
             "https://www.tripadvisor.com/Attraction_Review-g54946-d104475-Reviews-Creative_Discovery_Museum-Chattanooga_Tennessee.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or50-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or40-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or40-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bùn": 0.7333796043822076,
+            "tắm trà": 0.993010910868179,
+            "hồ bơi": 0.9949835844454356,
+            "nước": 0.963284564204514,
+            "địa điểm": 0.9920147287193686,
+            "vị trí": 0.9955197739764117,
+            "thức ăn": 0.8737692800350487,
+            "phong cảnh": 0.5,
+            "đi bộ xuyên": 0.5,
+            "rừng": 0.5,
+            "thiên nhiên": 0.5,
+            "khoảng thời gian": 0.9939726144075394,
+            "con cá": 0.6433979738503695,
+            "khu vực": 0.993301166803576,
+            "lấy nước": 0.49916624650359154
+        },
+        "dicts_adj": {
+            "bùn": [
+                "riêng",
+                "đẹp"
+            ],
+            "tắm trà": [
+                "đẹp"
+            ],
+            "hồ bơi": [
+                "đẹp"
+            ],
+            "nước": [
+                "ấm"
+            ],
+            "địa điểm": [
+                "đẹp"
+            ],
+            "vị trí": [
+                "đẹp"
+            ],
+            "thức ăn": [
+                "trung bình"
+            ],
+            "phong cảnh": [],
+            "đi bộ xuyên": [],
+            "rừng": [],
+            "thiên nhiên": [],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "con cá": [],
+            "khu vực": [
+                "đẹp"
+            ],
+            "lấy nước": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bùn": 0.5,
+            "tắm trà": 0.5,
+            "hồ bơi": 0.5,
+            "nước": 0.5,
+            "địa điểm": 0.5,
+            "vị trí": 0.5,
+            "thức ăn": 0.5,
+            "phong cảnh": 0.5,
+            "đi bộ xuyên": 0.5,
+            "rừng": 0.5,
+            "thiên nhiên": 0.5,
+            "khoảng thời gian": 0.5,
+            "con cá": 0.5,
+            "khu vực": 0.5,
+            "lấy nước": 0.5
+        }
     },
     {
         "attraction_name": "Ba Ho Waterfall",
@@ -705,7 +1524,206 @@
             "https://www.tripadvisor.com/Attraction_Review-g48502-d665407-Reviews-Long_Island_Aquarium-Riverhead_Long_Island_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or60-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or50-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or50-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi bộ": 0.5134668983519077,
+            "thác nước": 0.6972085675661219,
+            "nước": 0.5,
+            "tầm nhìn": 0.995434716809541,
+            "cá": 0.45749970711767673,
+            "họ cắn": -0.9606177704408765,
+            "khu phức hợp nghỉ dưỡng": 0.5,
+            "điểm tham quan": 0.9191801771521568,
+            "con người": -0.9665891744662076,
+            "hồ": 0.5637126534323519,
+            "khu nghỉ dưỡng": 0.5583473667502403,
+            "công viên giải trí": 0.9914714361075312,
+            "nha trang": 0.9456375958397985,
+            "đứa trẻ": 0.7411561012268066,
+            "trẻ em": 0.7847381836618297,
+            "chèo thuyền": 0.5388829661533237,
+            "áo phao": 0.5106463693082333,
+            "tảng đá sơn": 0.5326426904648542,
+            "tổ": 0.5,
+            "chim": 0.5,
+            "hồ nước": 0.5,
+            "chiếc xích": 0.5,
+            "bố": 0.5,
+            "mát mẻ": 0.9955998702789657,
+            "đá": 0.2440234050154686,
+            "chú": 0.5,
+            "nhà vệ sinh": 0.9953372899326496,
+            "quầy ăn": 0.5699401432648301,
+            "chuyến đi bộ đường": 0.8069339998066425,
+            "nhà hàng": 0.7610875162984787,
+            "quán bar": 0.6458063769969158,
+            "hồ bơi": 0.9935600885364693,
+            "dưới nước": 0.5,
+            "ngôi nhà gỗ": 0.5,
+            "khu nghỉ mát": 0.5,
+            "thuyền": 0.5,
+            "quầy hàng": 0.5015545506030321,
+            "đồ uống": 0.043064595006095864,
+            "lưới": 0.9815264092758298,
+            "thức ăn": 0.5
+        },
+        "dicts_adj": {
+            "chuyến đi bộ": [
+                "nhỏ"
+            ],
+            "thác nước": [
+                "tuyệt đẹp",
+                "đẹp",
+                "nhất",
+                "tuyệt đẹp",
+                "đẹp",
+                "khổng lồ",
+                "nhiều",
+                "đầu tiên",
+                "có thể",
+                "khó khăn"
+            ],
+            "nước": [],
+            "tầm nhìn": [
+                "tuyệt vời"
+            ],
+            "cá": [
+                "cẩn thận",
+                "nhỏ"
+            ],
+            "họ cắn": [],
+            "khu phức hợp nghỉ dưỡng": [],
+            "điểm tham quan": [],
+            "con người": [],
+            "hồ": [
+                "khó khăn",
+                "nguyên sơ"
+            ],
+            "khu nghỉ dưỡng": [
+                "sang trọng",
+                "kỳ lạ"
+            ],
+            "công viên giải trí": [],
+            "nha trang": [
+                "đầu tiên"
+            ],
+            "đứa trẻ": [],
+            "trẻ em": [
+                "cao",
+                "thích hợp"
+            ],
+            "chèo thuyền": [
+                "nóng",
+                "có thể",
+                "nóng",
+                "có thể"
+            ],
+            "áo phao": [],
+            "tảng đá sơn": [],
+            "tổ": [],
+            "chim": [],
+            "hồ nước": [],
+            "chiếc xích": [],
+            "bố": [],
+            "mát mẻ": [
+                "an toàn"
+            ],
+            "đá": [
+                "nhiều",
+                "trơn",
+                "hơn"
+            ],
+            "chú": [],
+            "nhà vệ sinh": [
+                "sạch sẽ"
+            ],
+            "quầy ăn": [],
+            "chuyến đi bộ đường": [
+                "dài",
+                "tuyệt vời",
+                "khó khăn",
+                "hơn",
+                "dài"
+            ],
+            "nhà hàng": [
+                "tuyệt vời",
+                "hài lòng",
+                "lạnh",
+                "xa",
+                "hơn"
+            ],
+            "quán bar": [
+                "tuyệt vời",
+                "hài lòng",
+                "nhỏ"
+            ],
+            "hồ bơi": [
+                "nhiều",
+                "tuyệt đẹp",
+                "đẹp"
+            ],
+            "dưới nước": [],
+            "ngôi nhà gỗ": [],
+            "khu nghỉ mát": [],
+            "thuyền": [],
+            "quầy hàng": [
+                "nhỏ",
+                "nhỏ"
+            ],
+            "đồ uống": [
+                "lạnh",
+                "xa",
+                "hơn"
+            ],
+            "lưới": [
+                "nhiều"
+            ],
+            "thức ăn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi bộ": 0.5,
+            "thác nước": 2.0,
+            "nước": 0.5,
+            "tầm nhìn": 0.5,
+            "cá": 1.5,
+            "họ cắn": 0.5,
+            "khu phức hợp nghỉ dưỡng": 0.5,
+            "điểm tham quan": 0.5,
+            "con người": 0.5,
+            "hồ": 1.5,
+            "khu nghỉ dưỡng": 0.5,
+            "công viên giải trí": 0.5,
+            "nha trang": 0.5,
+            "đứa trẻ": 0.5,
+            "trẻ em": 0.5,
+            "chèo thuyền": 0.5,
+            "áo phao": 0.5,
+            "tảng đá sơn": 0.5,
+            "tổ": 0.5,
+            "chim": 0.5,
+            "hồ nước": 0.5,
+            "chiếc xích": 0.5,
+            "bố": 0.5,
+            "mát mẻ": 0.5,
+            "đá": 0.5,
+            "chú": 0.5,
+            "nhà vệ sinh": 0.5,
+            "quầy ăn": 0.5,
+            "chuyến đi bộ đường": 0.5,
+            "nhà hàng": 1.0,
+            "quán bar": 1.0,
+            "hồ bơi": 1.0,
+            "dưới nước": 0.5,
+            "ngôi nhà gỗ": 0.5,
+            "khu nghỉ mát": 0.5,
+            "thuyền": 0.5,
+            "quầy hàng": 0.5,
+            "đồ uống": 0.5,
+            "lưới": 0.5,
+            "thức ăn": 0.5
+        }
     },
     {
         "attraction_name": "Ba Ho Waterfall",
@@ -826,7 +1844,185 @@
             "https://www.tripadvisor.com/Attraction_Review-g424973-d2324162-Reviews-Stiniva_Cove-Vis_Island_of_Vis_Split_Dalmatia_County_Dalmatia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or70-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or60-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or60-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "lười": -0.4881398491561413,
+            "đường rừng": 0.9267322160303593,
+            "khu nghỉ dưỡng": 0.9946498450590298,
+            "hồ bơi": 0.9344244911917485,
+            "ứng dụng": 0.5150605831295252,
+            "thác nước": 0.9950069560873089,
+            "cuộc đi bộ": 0.9955205924343318,
+            "hồ nước": 0.9905160877970047,
+            "nhà hàng": 0.5,
+            "khu ca nô": 0.5,
+            "khu trò chơi": 0.5,
+            "dưới nước": 0.5,
+            "nhạc": 0.5,
+            "chuyến đi xe đạp": 0.8862748867832124,
+            "thác": 0.989112614071928,
+            "thiên nhiên": 0.9855836452916265,
+            "giá": 0.8737692800350487,
+            "đồ uống": 0.9953899336396717,
+            "thức ăn": 0.9948958960594609,
+            "mát-xa": 0.9844163365196437,
+            "xe máy": 0.5558366598561406,
+            "chuyến đi bộ": 0.9954692274332047,
+            "cá": 0.3373496662825346,
+            "chân cho": 0.5,
+            "trải nghiệm thiên nhiên": 0.9952215012162924,
+            "giày dép": 0.8887787302955985,
+            "quãng đi bộ": 0.18735449184896424,
+            "leo núi": 0.9909805862698704,
+            "giày chạy bộ": 0.5,
+            "tảng đá": 0.5,
+            "đeo dép": 0.5,
+            "thác có sẵn": 0.5,
+            "con cá": -0.9651775774545968,
+            "nhà vệ sinh": 0.5153021719306707,
+            "điểm dừng nước": 0.9955219766125083,
+            "mặt trời": -0.9081212682649493
+        },
+        "dicts_adj": {
+            "lười": [
+                "chắc chắn",
+                "bận rộn",
+                "ồn ào"
+            ],
+            "đường rừng": [
+                "thú vị"
+            ],
+            "khu nghỉ dưỡng": [
+                "khổng lồ"
+            ],
+            "hồ bơi": [
+                "khổng lồ",
+                "đẹp"
+            ],
+            "ứng dụng": [],
+            "thác nước": [
+                "tuyệt vời",
+                "trong lành",
+                "đẹp",
+                "đẹp",
+                "thú vị"
+            ],
+            "cuộc đi bộ": [
+                "tuyệt",
+                "đẹp"
+            ],
+            "hồ nước": [
+                "trong lành",
+                "xinh xắn"
+            ],
+            "nhà hàng": [],
+            "khu ca nô": [],
+            "khu trò chơi": [],
+            "dưới nước": [],
+            "nhạc": [],
+            "chuyến đi xe đạp": [
+                "thành thật",
+                "đặc biệt"
+            ],
+            "thác": [
+                "nhiều"
+            ],
+            "thiên nhiên": [
+                "nhân tạo",
+                "tiện lợi"
+            ],
+            "giá": [
+                "hợp lý"
+            ],
+            "đồ uống": [
+                "hợp lý"
+            ],
+            "thức ăn": [
+                "hợp lý"
+            ],
+            "mát-xa": [],
+            "xe máy": [
+                "ngắn",
+                "dễ dàng"
+            ],
+            "chuyến đi bộ": [
+                "đẹp"
+            ],
+            "cá": [
+                "nhỏ"
+            ],
+            "chân cho": [],
+            "trải nghiệm thiên nhiên": [
+                "tuyệt vời"
+            ],
+            "giày dép": [],
+            "quãng đi bộ": [
+                "ngắn",
+                "dễ dàng"
+            ],
+            "leo núi": [
+                "hoàn toàn"
+            ],
+            "giày chạy bộ": [],
+            "tảng đá": [],
+            "đeo dép": [],
+            "thác có sẵn": [],
+            "con cá": [
+                "đầy",
+                "nhỏ",
+                "đủ",
+                "lâu",
+                "thực sự",
+                "buồn cười"
+            ],
+            "nhà vệ sinh": [
+                "dọc"
+            ],
+            "điểm dừng nước": [
+                "tuyệt vời"
+            ],
+            "mặt trời": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "lười": 0.5,
+            "đường rừng": 0.5,
+            "khu nghỉ dưỡng": 0.5,
+            "hồ bơi": 1.0,
+            "ứng dụng": 0.5,
+            "thác nước": 2.0,
+            "cuộc đi bộ": 0.5,
+            "hồ nước": 1.0,
+            "nhà hàng": 0.5,
+            "khu ca nô": 0.5,
+            "khu trò chơi": 0.5,
+            "dưới nước": 0.5,
+            "nhạc": 0.5,
+            "chuyến đi xe đạp": 0.5,
+            "thác": 0.5,
+            "thiên nhiên": 0.5,
+            "giá": 0.5,
+            "đồ uống": 0.5,
+            "thức ăn": 0.5,
+            "mát-xa": 0.5,
+            "xe máy": 0.5,
+            "chuyến đi bộ": 0.5,
+            "cá": 0.5,
+            "chân cho": 0.5,
+            "trải nghiệm thiên nhiên": 0.5,
+            "giày dép": 0.5,
+            "quãng đi bộ": 0.5,
+            "leo núi": 0.5,
+            "giày chạy bộ": 0.5,
+            "tảng đá": 0.5,
+            "đeo dép": 0.5,
+            "thác có sẵn": 0.5,
+            "con cá": 0.5,
+            "nhà vệ sinh": 0.5,
+            "điểm dừng nước": 0.5,
+            "mặt trời": 0.5
+        }
     },
     {
         "attraction_name": "Ba Ho Waterfall",
@@ -928,7 +2124,180 @@
             "https://www.tripadvisor.com/Attraction_Review-g33872-d15207503-Reviews-Yantic_Falls-Norwich_Mystic_Country_Connecticut.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or80-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or70-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or70-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.9954784974688664,
+            "hướng dẫn viên": 0.994716696877731,
+            "nước đóng chai": -0.08766899444162846,
+            "thác": 0.6122856440633768,
+            "giày": 0.9807104341452941,
+            "thác nước": 0.8835387895378517,
+            "xe": 0.9189976369962096,
+            "vị": 0.5062671899795532,
+            "khung cảnh": 0.9191623107763007,
+            "trải nghiệm": 0.9927652559126727,
+            "đối phó": 0.820323072373867,
+            "núi": 0.9941988779464737,
+            "ba hồ": 0.8737692800350487,
+            "đoạn cuối": -0.33645922504365444,
+            "bãi": 0.5285336226224899,
+            "chuyến đi bộ": 0.8024674244225025,
+            "thung lũng": 0.5,
+            "người dân địa phương": 0.5,
+            "người dân": 0.5,
+            "tranh vẽ": 0.5,
+            "khu nghỉ dưỡng": 0.9911820928100497,
+            "quán cà phê": 0.9953270645346493,
+            "hồ bơi": 0.9870322961360216,
+            "nhà hàng": 0.5,
+            "suối": 0.9908921192400157,
+            "quầy hàng": 0.5345206670463085,
+            "thực phẩm": 0.5102485902607441,
+            "phần đá": 0.4491082690656185,
+            "thừng": -0.8791865166276693,
+            "lê": -0.5497411768883467,
+            "tảng đá": 0.8349793180823326
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "kỹ lưỡng",
+                "an toàn"
+            ],
+            "hướng dẫn viên": [
+                "kỹ lưỡng",
+                "an toàn"
+            ],
+            "nước đóng chai": [],
+            "thác": [
+                "khó khăn",
+                "tuyệt vời",
+                "hoàn toàn",
+                "xứng đáng",
+                "dài",
+                "lớn"
+            ],
+            "giày": [
+                "tốt"
+            ],
+            "thác nước": [
+                "đẹp",
+                "đầy",
+                "có thể",
+                "khó",
+                "khó",
+                "đẹp",
+                "phức hợp",
+                "khổng lồ",
+                "kỳ lạ",
+                "nhiều",
+                "đầu tiên"
+            ],
+            "xe": [
+                "khó",
+                "khó"
+            ],
+            "vị": [
+                "khác",
+                "thực sự",
+                "khó"
+            ],
+            "khung cảnh": [
+                "thực sự",
+                "đẹp"
+            ],
+            "trải nghiệm": [
+                "tốt"
+            ],
+            "đối phó": [],
+            "núi": [],
+            "ba hồ": [
+                "dài",
+                "lớn"
+            ],
+            "đoạn cuối": [
+                "lớn"
+            ],
+            "bãi": [
+                "tốt"
+            ],
+            "chuyến đi bộ": [
+                "mới"
+            ],
+            "thung lũng": [],
+            "người dân địa phương": [],
+            "người dân": [],
+            "tranh vẽ": [],
+            "khu nghỉ dưỡng": [
+                "phức hợp",
+                "khổng lồ"
+            ],
+            "quán cà phê": [
+                "kỳ lạ"
+            ],
+            "hồ bơi": [
+                "đầu tiên",
+                "đẹp"
+            ],
+            "nhà hàng": [],
+            "suối": [
+                "dễ"
+            ],
+            "quầy hàng": [
+                "khoảng"
+            ],
+            "thực phẩm": [
+                "khoảng"
+            ],
+            "phần đá": [
+                "đầu tiên",
+                "cẩn thận"
+            ],
+            "thừng": [
+                "tương tự",
+                "phải"
+            ],
+            "lê": [],
+            "tảng đá": [
+                "sắc nhọn",
+                "thực sự",
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 1,
+            "hướng dẫn viên": 1,
+            "nước đóng chai": 1,
+            "thác": 1.0,
+            "giày": 0.5,
+            "thác nước": 2.0,
+            "xe": 0.5,
+            "vị": 0.5,
+            "khung cảnh": 0.5,
+            "trải nghiệm": 0.5,
+            "đối phó": 0.5,
+            "núi": 0.5,
+            "ba hồ": 0.5,
+            "đoạn cuối": 0.5,
+            "bãi": 0.5,
+            "chuyến đi bộ": 0.5,
+            "thung lũng": 0.5,
+            "người dân địa phương": 0.5,
+            "người dân": 0.5,
+            "tranh vẽ": 0.5,
+            "khu nghỉ dưỡng": 0.5,
+            "quán cà phê": 0.5,
+            "hồ bơi": 0.5,
+            "nhà hàng": 0.5,
+            "suối": 0.5,
+            "quầy hàng": 0.5,
+            "thực phẩm": 0.5,
+            "phần đá": 0.5,
+            "thừng": 0.5,
+            "lê": 0.5,
+            "tảng đá": 0.5
+        }
     },
     {
         "attraction_name": "Ba Ho Waterfall",
@@ -1049,7 +2418,104 @@
             "https://www.tripadvisor.com/Attraction_Review-g33621-d16718708-Reviews-Rifle_Falls-Rifle_Colorado.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or90-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or80-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or80-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thác nước": 0.8120295518892817,
+            "áo tắm": 0.5,
+            "thác": 0.010624038521200418,
+            "nước": 0.34704337595030665,
+            "đi bộ": 0.8737692800350487,
+            "đồ bơi dép": 0.5,
+            "khăn tắm": 0.5,
+            "hố bơi": 0.5,
+            "chuyến đi bộ": 0.5,
+            "đồ ăn": 0.5043495558202267,
+            "đồ ăn nhẹ": 0.7614576946943998,
+            "đồ uống": 0.5,
+            "chuyến đi": 0.792189335625153,
+            "xe máy": 0.5170247927308083,
+            "thành phố": 0.5,
+            "buổi trưa": 0.5,
+            "quãng đường": 0.5031541623175144,
+            "giày lừa": -0.9652669704519212,
+            "giày chạy": 0.5064496174454689,
+            "đồ bơi": 0.9744047452695668
+        },
+        "dicts_adj": {
+            "thác nước": [
+                "Chắc chắn",
+                "cuối cùng",
+                "nhiều",
+                "cuối cùng",
+                "thú vị",
+                "Cuối cùng",
+                "khó"
+            ],
+            "áo tắm": [],
+            "thác": [
+                "ngoạn mục"
+            ],
+            "nước": [
+                "đủ",
+                "cuối cùng",
+                "chính xác"
+            ],
+            "đi bộ": [
+                "đẹp"
+            ],
+            "đồ bơi dép": [],
+            "khăn tắm": [],
+            "hố bơi": [],
+            "chuyến đi bộ": [],
+            "đồ ăn": [
+                "nhỏ"
+            ],
+            "đồ ăn nhẹ": [
+                "nhỏ"
+            ],
+            "đồ uống": [],
+            "chuyến đi": [
+                "tuyệt vời",
+                "xa"
+            ],
+            "xe máy": [],
+            "thành phố": [],
+            "buổi trưa": [],
+            "quãng đường": [
+                "dài"
+            ],
+            "giày lừa": [
+                "cuối cùng"
+            ],
+            "giày chạy": [
+                "cuối cùng"
+            ],
+            "đồ bơi": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thác nước": 1.0,
+            "áo tắm": 0.5,
+            "thác": 1.5,
+            "nước": 1.0,
+            "đi bộ": 0.5,
+            "đồ bơi dép": 0.5,
+            "khăn tắm": 0.5,
+            "hố bơi": 0.5,
+            "chuyến đi bộ": 0.5,
+            "đồ ăn": 0.5,
+            "đồ ăn nhẹ": 0.5,
+            "đồ uống": 0.5,
+            "chuyến đi": 0.5,
+            "xe máy": 0.5,
+            "thành phố": 0.5,
+            "buổi trưa": 0.5,
+            "quãng đường": 0.5,
+            "giày lừa": 0.5,
+            "giày chạy": 0.5,
+            "đồ bơi": 0.5
+        }
     },
     {
         "attraction_name": "Ba Ho Waterfall",
@@ -1170,6 +2636,131 @@
             "https://www.tripadvisor.com/Attraction_Review-g55879-d108604-Reviews-The_Strand-Galveston_Galveston_Island_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or100-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or90-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d4469666-Reviews-or90-Ba_Ho_Waterfall-Nha_Trang_Khanh_Hoa_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": -0.7465532897040248,
+            "thác ba": 0.9567273855209351,
+            "thùng rác": 0.19674050249159336,
+            "hành trình": 0.5,
+            "taxi": 0.5,
+            "khứ hồi": 0.5,
+            "giày thể thao": 0.9933470224495977,
+            "xe máy": 0.561034681275487,
+            "vách đá": -0.20715725421905518,
+            "bể đá": 0.5,
+            "nhân viên bảo vệ": 0.9922809074632823,
+            "thác nước": 0.680729010530437,
+            "nước": 0.3518774772528559,
+            "bảo trì": -0.96809191419743,
+            "đường ống dẫn nước": 0.30974741093814373,
+            "vứt": -0.9720088697504252,
+            "thác nước hồ": 0.9609290377702564,
+            "thác": 0.5,
+            "không khí": 0.9683956792578101,
+            "xe tay ga": 0.5110218897461891,
+            "buổi bơi lội": 0.9947006574366242,
+            "cú nhảy": 0.39142220467329025
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "thực sự"
+            ],
+            "thác ba": [
+                "Trái ngược",
+                "khác",
+                "sạch sẽ"
+            ],
+            "thùng rác": [
+                "hơn",
+                "rải rác",
+                "khắp",
+                "nhiều",
+                "cao",
+                "hơn"
+            ],
+            "hành trình": [],
+            "taxi": [],
+            "khứ hồi": [],
+            "giày thể thao": [
+                "thoải mái"
+            ],
+            "xe máy": [
+                "riêng"
+            ],
+            "vách đá": [
+                "cao"
+            ],
+            "bể đá": [],
+            "nhân viên bảo vệ": [
+                "sâu",
+                "thoải mái"
+            ],
+            "thác nước": [
+                "tuyệt vời",
+                "may",
+                "phải",
+                "đầu tiên",
+                "dễ",
+                "lớn",
+                "cao",
+                "dễ dàng",
+                "khó khăn",
+                "đủ"
+            ],
+            "nước": [
+                "gần",
+                "hoàn hảo"
+            ],
+            "bảo trì": [
+                "tốt"
+            ],
+            "đường ống dẫn nước": [
+                "dọc"
+            ],
+            "vứt": [
+                "dọc"
+            ],
+            "thác nước hồ": [],
+            "thác": [],
+            "không khí": [
+                "nóng"
+            ],
+            "xe tay ga": [
+                "ngắn"
+            ],
+            "buổi bơi lội": [
+                "thú vị"
+            ],
+            "cú nhảy": [
+                "nhỏ",
+                "xuống nước"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 0.5,
+            "thác ba": 0.5,
+            "thùng rác": 0.5,
+            "hành trình": 0.5,
+            "taxi": 0.5,
+            "khứ hồi": 0.5,
+            "giày thể thao": 0.5,
+            "xe máy": 0.5,
+            "vách đá": 0.5,
+            "bể đá": 0.5,
+            "nhân viên bảo vệ": 0.5,
+            "thác nước": 1.5,
+            "nước": 1.0,
+            "bảo trì": 0.5,
+            "đường ống dẫn nước": 0.5,
+            "vứt": 0.5,
+            "thác nước hồ": 0.5,
+            "thác": 0.5,
+            "không khí": 0.5,
+            "xe tay ga": 0.5,
+            "buổi bơi lội": 0.5,
+            "cú nhảy": 0.5
+        }
     }
 ]

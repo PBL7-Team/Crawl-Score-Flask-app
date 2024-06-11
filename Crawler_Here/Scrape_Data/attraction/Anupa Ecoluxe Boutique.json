@@ -114,7 +114,274 @@
             "https://www.tripadvisor.com/Attraction_Review-g186338-d212404-Reviews-Baker_Street-London_England.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d2284697-Reviews-or10-Anupa_Ecoluxe_Boutique-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2284697-Reviews-Anupa_Ecoluxe_Boutique-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2284697-Reviews-Anupa_Ecoluxe_Boutique-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thời trang": -0.9744295654818416,
+            "cửa hàng": 0.5518448410788551,
+            "đường": 0.5,
+            "khách sạn": 0.5,
+            "túi xách": 0.9500653455907013,
+            "đồ da": 0.5,
+            "túi xách thắt lưng": 0.5086935926228762,
+            "hộp": 0.5,
+            "quần áo trang sức": 0.5,
+            "túi anupa": 0.8737692800350487,
+            "đồ": 0.7435543639003299,
+            "chuyến đi": 0.4113904591649771,
+            "nhà thiết kế": 0.5349162425845861,
+            "thiết kế thủ công": 0.9901392792817205,
+            "thời trang đạo": 0.9877759527880698,
+            "cộng đồng": 0.982638185378164,
+            "trang web mua sắm": 0.5,
+            "chuyến thăm": 0.5,
+            "quần áo": 0.9538278108035835,
+            "trang sức": 0.5,
+            "có máy": 0.9793885904364288,
+            "tầm nhìn": 0.9772958001121879,
+            "bộ": 0.9923195758601651,
+            "phần": 0.5974958203732967,
+            "đường cắt": 0.04407318867743015,
+            "nhóm": 0.9953895048238337,
+            "trải nghiệm": 0.995525015401654,
+            "bộ quần áo": 0.5,
+            "áo dài": 0.5,
+            "váy lanh": 0.5,
+            "chất liệu vải": 0.9955308512435295,
+            "nhân vật": 0.5,
+            "nhà hàng": 0.9953475253423676,
+            "sheraton": 0.8737692800350487,
+            "món đồ": 0.9956103076110594,
+            "vải": 0.5,
+            "dòng": 0.5,
+            "sản phẩm vải lanh": 0.5,
+            "giao hàng": 0.9692973266355693,
+            "mặt hàng": 0.9935018526157364,
+            "thiết": 0.9858225589850917,
+            "mặt hàng trang sức": 0.9931114420760423,
+            "dây chuyền": 0.34280790062621236,
+            "viên": 0.18709357781335711,
+            "quần áo bằng lụa": 0.8737692800350487,
+            "tập mới": 0.5,
+            "bộ sưu": 0.3008812963962555,
+            "hàng": 0.9649543394334614,
+            "bộ sưu tập": 0.9954113060957752,
+            "dây xích": 0.5087677966803312,
+            "oxy hóa": 0.008256249770056456,
+            "bạc đánh bóng": 0.5,
+            "dây": 0.984614223241806,
+            "chuyền bạc": 0.8911727489903569
+        },
+        "dicts_adj": {
+            "thời trang": [
+                "thú vị",
+                "thấp",
+                "đắt"
+            ],
+            "cửa hàng": [
+                "khác",
+                "đẹp",
+                "vui",
+                "tuyệt vời",
+                "tuyệt vời",
+                "cùng"
+            ],
+            "đường": [],
+            "khách sạn": [],
+            "túi xách": [
+                "nhiều",
+                "đẹp"
+            ],
+            "đồ da": [],
+            "túi xách thắt lưng": [
+                "nhiều"
+            ],
+            "hộp": [],
+            "quần áo trang sức": [],
+            "túi anupa": [
+                "đẹp"
+            ],
+            "đồ": [
+                "đẹp"
+            ],
+            "chuyến đi": [
+                "tình cờ",
+                "đầu tiên"
+            ],
+            "nhà thiết kế": [],
+            "thiết kế thủ công": [
+                "độc đáo"
+            ],
+            "thời trang đạo": [
+                "nổi bật"
+            ],
+            "cộng đồng": [
+                "Nhiều"
+            ],
+            "trang web mua sắm": [],
+            "chuyến thăm": [],
+            "quần áo": [
+                "tuyệt vời",
+                "khác",
+                "độc đáo",
+                "thú vị",
+                "tốt"
+            ],
+            "trang sức": [],
+            "có máy": [
+                "dễ"
+            ],
+            "tầm nhìn": [
+                "độc đáo"
+            ],
+            "bộ": [
+                "độc đáo"
+            ],
+            "phần": [
+                "lấp lánh"
+            ],
+            "đường cắt": [
+                "tự nhiên",
+                "hiếm"
+            ],
+            "nhóm": [
+                "tuyệt",
+                "thoải mái"
+            ],
+            "trải nghiệm": [
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "bộ quần áo": [],
+            "áo dài": [],
+            "váy lanh": [],
+            "chất liệu vải": [
+                "đẹp"
+            ],
+            "nhân vật": [],
+            "nhà hàng": [
+                "tuyệt vời"
+            ],
+            "sheraton": [
+                "tuyệt vời",
+                "cùng"
+            ],
+            "món đồ": [
+                "vui"
+            ],
+            "vải": [],
+            "dòng": [],
+            "sản phẩm vải lanh": [],
+            "giao hàng": [
+                "khác",
+                "toàn"
+            ],
+            "mặt hàng": [
+                "đẹp"
+            ],
+            "thiết": [
+                "tốt"
+            ],
+            "mặt hàng trang sức": [
+                "đẹp",
+                "đắt"
+            ],
+            "dây chuyền": [
+                "quý",
+                "đen",
+                "xỉn"
+            ],
+            "viên": [
+                "quý",
+                "đen",
+                "xỉn"
+            ],
+            "quần áo bằng lụa": [
+                "nhanh"
+            ],
+            "tập mới": [],
+            "bộ sưu": [
+                "nhỏ",
+                "cùng"
+            ],
+            "hàng": [
+                "độc đáo"
+            ],
+            "bộ sưu tập": [
+                "độc đáo"
+            ],
+            "dây xích": [
+                "đen"
+            ],
+            "oxy hóa": [
+                "đen",
+                "sẵn sàng"
+            ],
+            "bạc đánh bóng": [],
+            "dây": [
+                "sẵn sàng"
+            ],
+            "chuyền bạc": [
+                "sẵn sàng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thời trang": 0.5,
+            "cửa hàng": 2.5,
+            "đường": 0.5,
+            "khách sạn": 0.5,
+            "túi xách": 0.5,
+            "đồ da": 0.5,
+            "túi xách thắt lưng": 0.5,
+            "hộp": 0.5,
+            "quần áo trang sức": 0.5,
+            "túi anupa": 0.5,
+            "đồ": 1.0,
+            "chuyến đi": 0.5,
+            "nhà thiết kế": 0.5,
+            "thiết kế thủ công": 0.5,
+            "thời trang đạo": 0.5,
+            "cộng đồng": 0.5,
+            "trang web mua sắm": 0.5,
+            "chuyến thăm": 0.5,
+            "quần áo": 1.5,
+            "trang sức": 0.5,
+            "có máy": 0.5,
+            "tầm nhìn": 0.5,
+            "bộ": 0.5,
+            "phần": 0.5,
+            "đường cắt": 0.5,
+            "nhóm": 0.5,
+            "trải nghiệm": 0.5,
+            "bộ quần áo": 0.5,
+            "áo dài": 0.5,
+            "váy lanh": 0.5,
+            "chất liệu vải": 0.5,
+            "nhân vật": 0.5,
+            "nhà hàng": 0.5,
+            "sheraton": 0.5,
+            "món đồ": 0.5,
+            "vải": 0.5,
+            "dòng": 0.5,
+            "sản phẩm vải lanh": 0.5,
+            "giao hàng": 0.5,
+            "mặt hàng": 0.5,
+            "thiết": 0.5,
+            "mặt hàng trang sức": 0.5,
+            "dây chuyền": 1.0,
+            "viên": 0.5,
+            "quần áo bằng lụa": 0.5,
+            "tập mới": 0.5,
+            "bộ sưu": 0.5,
+            "hàng": 0.5,
+            "bộ sưu tập": 0.5,
+            "dây xích": 0.5,
+            "oxy hóa": 0.5,
+            "bạc đánh bóng": 0.5,
+            "dây": 0.5,
+            "chuyền bạc": 0.5
+        }
     },
     {
         "attraction_name": "Anupa Ecoluxe Boutique",
@@ -231,7 +498,182 @@
             "https://www.tripadvisor.com/Attraction_Review-g60856-d145325-Reviews-Buckstaff_Bathhouse-Hot_Springs_Arkansas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d2284697-Reviews-or20-Anupa_Ecoluxe_Boutique-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2284697-Reviews-or10-Anupa_Ecoluxe_Boutique-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2284697-Reviews-or10-Anupa_Ecoluxe_Boutique-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa hàng": 0.8091917653568089,
+            "nhà thiết kế": 0.6600540541112423,
+            "túi xách đồ trang sức": 0.9954145303927362,
+            "quần áo sang": 0.9903746589319781,
+            "sản phẩm": 0.8624301789444871,
+            "khăn quàng": 0.9955173266353086,
+            "nhân viên": 0.8234045434316309,
+            "chuyến thăm": 0.9877105446066707,
+            "dịch vụ": 0.9792624614201486,
+            "kiến ​​thức": 0.5,
+            "sản phẩm - ngành": 0.5,
+            "người mua sắm": 0.7341566870454699,
+            "thời trang": 0.9904898424865678,
+            "tầm nhìn": 0.9913809519493952,
+            "hộp": 0.9911702381214127,
+            "viên": 0.9947443526471034,
+            "sản phẩm du lịch": 0.9955466965329833,
+            "chất lượng": 0.5,
+            "túi da": 0.9919499929528683,
+            "tiểu bang": 0.676933228969574,
+            "đồ anupa": 0.9956105003948323,
+            "túi": 0.9803575270343572,
+            "chiếc nhẫn": 0.6705925112279753,
+            "viên đá quý": 0.9954688355792314,
+            "màu xanh": 0.9955774566042237,
+            "lá cây": 0.9946089045261033
+        },
+        "dicts_adj": {
+            "cửa hàng": [
+                "gần",
+                "gần",
+                "cao",
+                "chân thành",
+                "đầy",
+                "bất ngờ",
+                "duy nhất",
+                "tuyệt vời"
+            ],
+            "nhà thiết kế": [
+                "chuyên",
+                "cao"
+            ],
+            "túi xách đồ trang sức": [
+                "sang trọng",
+                "độc đáo",
+                "thực sự",
+                "thú vị",
+                "thực sự"
+            ],
+            "quần áo sang": [
+                "sang trọng",
+                "độc đáo",
+                "thực sự",
+                "thú vị",
+                "thực sự"
+            ],
+            "sản phẩm": [
+                "cao",
+                "cao",
+                "nóng lòng",
+                "mới",
+                "chi tiết",
+                "hơn",
+                "bất kỳ"
+            ],
+            "khăn quàng": [
+                "thực sự",
+                "vui",
+                "vui",
+                "cổ"
+            ],
+            "nhân viên": [
+                "chi tiết",
+                "xuất sắc",
+                "sẵn sàng",
+                "khắp",
+                "nhiều",
+                "khác"
+            ],
+            "chuyến thăm": [
+                "đặc biệt"
+            ],
+            "dịch vụ": [
+                "xuất sắc"
+            ],
+            "kiến ​​thức": [],
+            "sản phẩm - ngành": [],
+            "người mua sắm": [
+                "đặc biệt",
+                "hợp"
+            ],
+            "thời trang": [
+                "thú vị",
+                "độc đáo",
+                "thú vị",
+                "độc đáo",
+                "tuyệt vời"
+            ],
+            "tầm nhìn": [
+                "thực sự",
+                "vui"
+            ],
+            "hộp": [
+                "chắc chắn",
+                "tương tự"
+            ],
+            "viên": [
+                "đơn giản",
+                "đầy",
+                "độc đáo",
+                "nhỏ",
+                "tích cực"
+            ],
+            "sản phẩm du lịch": [
+                "hài lòng"
+            ],
+            "chất lượng": [],
+            "túi da": [
+                "may mắn",
+                "đẹp"
+            ],
+            "tiểu bang": [],
+            "đồ anupa": [
+                "nhiều",
+                "vui",
+                "hoàn hảo"
+            ],
+            "túi": [
+                "nhiều"
+            ],
+            "chiếc nhẫn": [
+                "chính xác",
+                "đặc biệt"
+            ],
+            "viên đá quý": [
+                "đẹp"
+            ],
+            "màu xanh": [
+                "đẹp"
+            ],
+            "lá cây": [
+                "đẹp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa hàng": 2.5,
+            "nhà thiết kế": 1.0,
+            "túi xách đồ trang sức": 0.5,
+            "quần áo sang": 0.5,
+            "sản phẩm": 2.5,
+            "khăn quàng": 0.5,
+            "nhân viên": 1.5,
+            "chuyến thăm": 0.5,
+            "dịch vụ": 0.5,
+            "kiến ​​thức": 0.5,
+            "sản phẩm - ngành": 0.5,
+            "người mua sắm": 0.5,
+            "thời trang": 0.5,
+            "tầm nhìn": 0.5,
+            "hộp": 0.5,
+            "viên": 0.5,
+            "sản phẩm du lịch": 0.5,
+            "chất lượng": 0.5,
+            "túi da": 0.5,
+            "tiểu bang": 0.5,
+            "đồ anupa": 0.5,
+            "túi": 0.5,
+            "chiếc nhẫn": 0.5,
+            "viên đá quý": 0.5,
+            "màu xanh": 0.5,
+            "lá cây": 0.5
+        }
     },
     {
         "attraction_name": "Anupa Ecoluxe Boutique",
@@ -344,7 +786,254 @@
             "https://www.tripadvisor.com/Attraction_Review-g293916-d8431392-Reviews-Tha_Maharaj-Bangkok.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d2284697-Reviews-or30-Anupa_Ecoluxe_Boutique-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2284697-Reviews-or20-Anupa_Ecoluxe_Boutique-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2284697-Reviews-or20-Anupa_Ecoluxe_Boutique-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa hàng": 0.4199727591888707,
+            "sản phẩm": 0.4553389934299048,
+            "cuốn sổ da": 0.9920747431460768,
+            "chất lượng da": 0.9928776536835358,
+            "giá": 0.7460458610148635,
+            "lớp yoga": 0.9943166986340657,
+            "hàng": -0.08104981559639175,
+            "nhà thiết kế": 0.5,
+            "quần áo": 0.4653691610787064,
+            "nước": 0.5373583026230335,
+            "đồ uống": 0.5,
+            "đồ da thủ": 0.9955543569521978,
+            "thắt lưng": 0.8737692800350487,
+            "túi xách": 0.981203694595024,
+            "bộ sưu tập": 0.945397803094238,
+            "túi da ví": 0.5257924813777208,
+            "đồ da": -0.9721349447499961,
+            "chủ sở hữu": 0.9935122855240479,
+            "phòng tập yoga": 0.5120687130838633,
+            "lớp học yoga": 0.7893276537070051,
+            "trải nghiệm": 0.9779727797722444,
+            "học viên": 0.531757103279233,
+            "vị trí": 0.8737692800350487,
+            "đường lê": 0.8737692800350487,
+            "thái văn": 0.8737692800350487,
+            "người dân": 0.5,
+            "con hẻm": 0.9954770487966016,
+            "chuyến đi": 0.6021206113218796,
+            "trung tâm": 0.8737692800350487,
+            "túi da": 0.4299250111119666,
+            "bộ": 0.5,
+            "túi": 0.6371478391811252,
+            "bầu không khí": 0.5,
+            "điểm tham quan": 0.7226107172318734,
+            "hệ thống": 0.5,
+            "đường thái văn": 0.8737692800350487,
+            "lê thánh tôn": 0.8737692800350487,
+            "ngôi nhà": 0.8737692800350487,
+            "đồ da đồ trang sức -": 0.8737692800350487,
+            "tay nghề vật liệu": 0.5132295899093151,
+            "con": 0.3052076939493418,
+            "đồ trang sức": 0.01231579136219807
+        },
+        "dicts_adj": {
+            "cửa hàng": [
+                "nhỏ",
+                "khác",
+                "đầy đủ",
+                "lớn",
+                "độc đáo",
+                "nhỏ",
+                "thú vị",
+                "nhỏ",
+                "độc đáo",
+                "dễ",
+                "tốt",
+                "đẹp",
+                "nhỏ",
+                "nhỏ",
+                "xinh xắn",
+                "nhỏ",
+                "đẹp mắt",
+                "nhiều",
+                "nhỏ"
+            ],
+            "sản phẩm": [
+                "khác",
+                "có thể",
+                "tốt",
+                "thân thiện"
+            ],
+            "cuốn sổ da": [
+                "sang trọng"
+            ],
+            "chất lượng da": [
+                "cao",
+                "nhiều"
+            ],
+            "giá": [
+                "hợp lý"
+            ],
+            "lớp yoga": [
+                "tuyệt"
+            ],
+            "hàng": [
+                "nhỏ",
+                "khác",
+                "đầy đủ"
+            ],
+            "nhà thiết kế": [],
+            "quần áo": [
+                "lớn",
+                "đúng",
+                "khác",
+                "độc đáo"
+            ],
+            "nước": [
+                "nghiêm túc"
+            ],
+            "đồ uống": [],
+            "đồ da thủ": [
+                "độc đáo"
+            ],
+            "thắt lưng": [
+                "khác"
+            ],
+            "túi xách": [
+                "khác"
+            ],
+            "bộ sưu tập": [
+                "khác"
+            ],
+            "túi da ví": [
+                "khác"
+            ],
+            "đồ da": [
+                "khác"
+            ],
+            "chủ sở hữu": [
+                "thân thiện"
+            ],
+            "phòng tập yoga": [],
+            "lớp học yoga": [],
+            "trải nghiệm": [
+                "thú vị",
+                "khác biệt",
+                "độc đáo"
+            ],
+            "học viên": [
+                "duy nhất",
+                "chậm rãi",
+                "đủ",
+                "kiên nhẫn"
+            ],
+            "vị trí": [
+                "dễ"
+            ],
+            "đường lê": [
+                "dễ"
+            ],
+            "thái văn": [
+                "dễ"
+            ],
+            "người dân": [],
+            "con hẻm": [
+                "đẹp",
+                "đẹp"
+            ],
+            "chuyến đi": [
+                "thú vị",
+                "buồn"
+            ],
+            "trung tâm": [
+                "thú vị",
+                "buồn"
+            ],
+            "túi da": [
+                "tuyệt vời",
+                "sáng tạo",
+                "khác",
+                "xinh xắn",
+                "rẻ"
+            ],
+            "bộ": [],
+            "túi": [
+                "đầu tiên",
+                "phải",
+                "cuối cùng"
+            ],
+            "bầu không khí": [],
+            "điểm tham quan": [
+                "đẹp",
+                "nhất"
+            ],
+            "hệ thống": [],
+            "đường thái văn": [
+                "nhỏ"
+            ],
+            "lê thánh tôn": [
+                "nhỏ",
+                "trái",
+                "nhỏ",
+                "nhiều"
+            ],
+            "ngôi nhà": [
+                "nhỏ",
+                "đẹp mắt"
+            ],
+            "đồ da đồ trang sức -": [
+                "độc đáo"
+            ],
+            "tay nghề vật liệu": [],
+            "con": [
+                "trái"
+            ],
+            "đồ trang sức": [
+                "xinh xắn",
+                "rẻ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa hàng": 4.0,
+            "sản phẩm": 1.0,
+            "cuốn sổ da": 0.5,
+            "chất lượng da": 0.5,
+            "giá": 1.0,
+            "lớp yoga": 0.5,
+            "hàng": 0.5,
+            "nhà thiết kế": 0.5,
+            "quần áo": 2.5,
+            "nước": 0.5,
+            "đồ uống": 0.5,
+            "đồ da thủ": 0.5,
+            "thắt lưng": 0.5,
+            "túi xách": 0.5,
+            "bộ sưu tập": 0.5,
+            "túi da ví": 0.5,
+            "đồ da": 0.5,
+            "chủ sở hữu": 0.5,
+            "phòng tập yoga": 0.5,
+            "lớp học yoga": 0.5,
+            "trải nghiệm": 0.5,
+            "học viên": 0.5,
+            "vị trí": 0.5,
+            "đường lê": 0.5,
+            "thái văn": 0.5,
+            "người dân": 0.5,
+            "con hẻm": 0.5,
+            "chuyến đi": 0.5,
+            "trung tâm": 0.5,
+            "túi da": 1.0,
+            "bộ": 1.0,
+            "túi": 0.5,
+            "bầu không khí": 0.5,
+            "điểm tham quan": 0.5,
+            "hệ thống": 0.5,
+            "đường thái văn": 0.5,
+            "lê thánh tôn": 1.0,
+            "ngôi nhà": 0.5,
+            "đồ da đồ trang sức -": 0.5,
+            "tay nghề vật liệu": 0.5,
+            "con": 0.5,
+            "đồ trang sức": 0.5
+        }
     },
     {
         "attraction_name": "Anupa Ecoluxe Boutique",
@@ -448,6 +1137,222 @@
             "https://www.tripadvisor.com/Attraction_Review-g46884-d8549092-Reviews-Ventnor_City_Boardwalk-Ventnor_City_New_Jersey.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2284697-Reviews-or30-Anupa_Ecoluxe_Boutique-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d2284697-Reviews-or30-Anupa_Ecoluxe_Boutique-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "phong cách": 0.995422737323679,
+            "chất lượng": 0.5100703808857361,
+            "quà": 0.5,
+            "túi du lịch": 0.993374461075291,
+            "túi xách": 0.1757642290710161,
+            "thời trang": 0.9885499754454941,
+            "túi đi biển": 0.9918330482905731,
+            "thương hiệu": 0.9954339509713463,
+            "sản phẩm": -0.012509407417383045,
+            "trải nghiệm": 0.9954914720146917,
+            "cửa hàng": 0.8995056393245857,
+            "biệt thự": 0.7505046660080552,
+            "môi trường": 0.5,
+            "nhà thiết kế": -0.965359021211043,
+            "quần áo": 0.011495349230244756,
+            "bộ sưu tập": 0.565278073772788,
+            "cho": 0.9894432679284364,
+            "linh hồn": 0.9928349783876911,
+            "nhân viên": 0.9932379277597647,
+            "thứ": 0.9937129818135872,
+            "đầm lụa": 0.9866785684134811,
+            "người bán hàng": 0.9955460072960705,
+            "đồ uống": 0.5867725722491741,
+            "túi": 0.3327600893971976,
+            "kềnh": 0.9941941244760528,
+            "mặt hàng": 0.9954722793772817,
+            "viên ngọc": 0.9822699944488704,
+            "villa": 0.8737692800350487,
+            "hẻm": 0.6690209755906835,
+            "trung tâm": 0.3401811223205489,
+            "ngôi nhà": 0.3385474876655887,
+            "giày dép": 0.5,
+            "trang sức": 0.5,
+            "bộ phận": 0.9896418291027658,
+            "mới da": -0.9645126271061599,
+            "biểu tượng": -0.963202326791361,
+            "vũ trụ": 0.5,
+            "lớp học yoga": -0.9686798502225429,
+            "trang web": 0.5153596810996532
+        },
+        "dicts_adj": {
+            "phong cách": [
+                "tuyệt vời"
+            ],
+            "chất lượng": [
+                "tuyệt vời",
+                "đẹp đẽ",
+                "tốt",
+                "tốt",
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "quà": [],
+            "túi du lịch": [
+                "chắc chắn"
+            ],
+            "túi xách": [
+                "tràn ngập",
+                "hỏng"
+            ],
+            "thời trang": [
+                "hiếm",
+                "hợp",
+                "đơn giản",
+                "khác"
+            ],
+            "túi đi biển": [],
+            "thương hiệu": [
+                "tinh tế",
+                "đầy"
+            ],
+            "sản phẩm": [
+                "thực tế",
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "độc đáo"
+            ],
+            "cửa hàng": [
+                "duyên dáng",
+                "riêng biệt",
+                "khác",
+                "thực sự",
+                "tốt bụng",
+                "giống"
+            ],
+            "biệt thự": [
+                "duyên dáng",
+                "riêng biệt"
+            ],
+            "môi trường": [],
+            "nhà thiết kế": [
+                "khác"
+            ],
+            "quần áo": [
+                "khác"
+            ],
+            "bộ sưu tập": [
+                "riêng"
+            ],
+            "cho": [],
+            "linh hồn": [],
+            "nhân viên": [
+                "tốt bụng",
+                "hữu ích",
+                "tốt",
+                "may mắn",
+                "giống"
+            ],
+            "thứ": [
+                "tốt"
+            ],
+            "đầm lụa": [
+                "xinh xắn"
+            ],
+            "người bán hàng": [
+                "tuyệt vời"
+            ],
+            "đồ uống": [
+                "nóng"
+            ],
+            "túi": [
+                "thực sự",
+                "đẹp",
+                "lâu"
+            ],
+            "kềnh": [
+                "thực sự"
+            ],
+            "mặt hàng": [
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "viên ngọc": [],
+            "villa": [
+                "xinh đẹp",
+                "hoàn toàn",
+                "sầm uất"
+            ],
+            "hẻm": [
+                "xinh đẹp",
+                "hoàn toàn",
+                "sầm uất"
+            ],
+            "trung tâm": [
+                "xinh đẹp",
+                "hoàn toàn",
+                "sầm uất"
+            ],
+            "ngôi nhà": [
+                "xinh đẹp",
+                "hoàn toàn",
+                "sầm uất"
+            ],
+            "giày dép": [],
+            "trang sức": [],
+            "bộ phận": [
+                "tuyệt vời",
+                "độc đáo"
+            ],
+            "mới da": [
+                "khác"
+            ],
+            "biểu tượng": [
+                "khác"
+            ],
+            "vũ trụ": [],
+            "lớp học yoga": [
+                "cũ"
+            ],
+            "trang web": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "phong cách": 0.5,
+            "chất lượng": 2.0,
+            "quà": 0.5,
+            "túi du lịch": 0.5,
+            "túi xách": 1.5,
+            "thời trang": 0.5,
+            "túi đi biển": 0.5,
+            "thương hiệu": 0.5,
+            "sản phẩm": 1.0,
+            "trải nghiệm": 0.5,
+            "cửa hàng": 2.5,
+            "biệt thự": 0.5,
+            "môi trường": 0.5,
+            "nhà thiết kế": 0.5,
+            "quần áo": 1.5,
+            "bộ sưu tập": 0.5,
+            "cho": 0.5,
+            "linh hồn": 0.5,
+            "nhân viên": 1.0,
+            "thứ": 0.5,
+            "đầm lụa": 0.5,
+            "người bán hàng": 0.5,
+            "đồ uống": 0.5,
+            "túi": 2.0,
+            "kềnh": 0.5,
+            "mặt hàng": 0.5,
+            "viên ngọc": 0.5,
+            "villa": 0.5,
+            "hẻm": 0.5,
+            "trung tâm": 0.5,
+            "ngôi nhà": 0.5,
+            "giày dép": 1,
+            "trang sức": 1,
+            "bộ phận": 1,
+            "mới da": 1,
+            "biểu tượng": 1,
+            "vũ trụ": 1,
+            "lớp học yoga": 1.5,
+            "trang web": 1.5
+        }
     }
 ]

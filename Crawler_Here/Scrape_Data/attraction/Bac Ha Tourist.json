@@ -75,6 +75,158 @@
             "https://www.tripadvisor.com/Attraction_Review-g147271-d147979-Reviews-Tropicana-Havana_Ciudad_de_la_Habana_Province_Cuba.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g2415097-d11664369-Reviews-Bac_Ha_Tourist-Bac_Ha_Lao_Cai_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g2415097-d11664369-Reviews-Bac_Ha_Tourist-Bac_Ha_Lao_Cai_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.8257673177722609,
+            "hướng dẫn viên": 0.7878331596730277,
+            "phong cảnh": 0.9954332660418004,
+            "ngôi làng": 0.49692922085523605,
+            "cánh đồng ngô": 0.9945602250518277,
+            "rượu gạo": 0.5,
+            "thức ăn": 0.8737692800350487,
+            "bữa trưa": 0.9713548230356537,
+            "bữa tối": 0.019538664782885462,
+            "bữa sáng": 0.5,
+            "trekking": 0.5198351014405489,
+            "nhà dân": 0.727345666004112,
+            "thôn ruộng bậc": 0.5296281948685646,
+            "dân làng": 0.3337580934166908,
+            "cửa hàng": 0.5,
+            "ngôi nhà phục vụ": 0.5,
+            "bữa ăn": 0.7600368701387197,
+            "bếp": 0.5,
+            "trải nghiệm": 0.9942850986262783,
+            "chuyến đi bộ": 0.6361394209088758,
+            "chợ lung": 0.8737692800350487,
+            "khoảng thời gian": 0.9955523216049187,
+            "thao nghe": 0.9908116983715445,
+            "bac ha": 0.9954419457935728,
+            "tour": 0.989682903047651,
+            "thao": 0.9947615205310285,
+            "thao both": 0.5,
+            "lịch": -0.7108597261831164,
+            "gia đình địa phương": 0.5,
+            "chuyến đi bộ đường": -0.10516443499363959,
+            "bắc hà": 0.5793738039210439
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "ngoạn mục",
+                "tự nhiên",
+                "tốt"
+            ],
+            "phong cảnh": [
+                "ngoạn mục"
+            ],
+            "ngôi làng": [
+                "nhỏ",
+                "nhỏ"
+            ],
+            "cánh đồng ngô": [
+                "nhiều"
+            ],
+            "rượu gạo": [],
+            "thức ăn": [
+                "ngon"
+            ],
+            "bữa trưa": [
+                "lớn",
+                "ngon"
+            ],
+            "bữa tối": [
+                "lớn",
+                "ngon"
+            ],
+            "bữa sáng": [],
+            "trekking": [
+                "nhỏ"
+            ],
+            "nhà dân": [
+                "đúng",
+                "tuyệt",
+                "vui"
+            ],
+            "thôn ruộng bậc": [
+                "tự nhiên"
+            ],
+            "dân làng": [
+                "cũ"
+            ],
+            "cửa hàng": [],
+            "ngôi nhà phục vụ": [],
+            "bữa ăn": [
+                "đa dạng",
+                "nhiều"
+            ],
+            "bếp": [],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "đầu tiên"
+            ],
+            "chuyến đi bộ": [
+                "dài",
+                "dài",
+                "dài",
+                "thử thách",
+                "chính xác"
+            ],
+            "chợ lung": [
+                "nhiều"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "thao nghe": [],
+            "bac ha": [],
+            "tour": [],
+            "thao": [],
+            "thao both": [],
+            "lịch": [],
+            "gia đình địa phương": [],
+            "chuyến đi bộ đường": [
+                "dài",
+                "khó khăn"
+            ],
+            "bắc hà": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 2.0,
+            "hướng dẫn viên": 1.5,
+            "phong cảnh": 0.5,
+            "ngôi làng": 1.5,
+            "cánh đồng ngô": 0.5,
+            "rượu gạo": 0.5,
+            "thức ăn": 0.5,
+            "bữa trưa": 0.5,
+            "bữa tối": 0.5,
+            "bữa sáng": 0.5,
+            "trekking": 0.5,
+            "nhà dân": 1.0,
+            "thôn ruộng bậc": 0.5,
+            "dân làng": 0.5,
+            "cửa hàng": 0.5,
+            "ngôi nhà phục vụ": 0.5,
+            "bữa ăn": 0.5,
+            "bếp": 0.5,
+            "trải nghiệm": 1.0,
+            "chuyến đi bộ": 1.0,
+            "chợ lung": 0.5,
+            "khoảng thời gian": 0.5,
+            "thao nghe": 0.5,
+            "bac ha": 0.5,
+            "tour": 0.5,
+            "thao": 0.5,
+            "thao both": 0.5,
+            "lịch": 0.5,
+            "gia đình địa phương": 0.5,
+            "chuyến đi bộ đường": 0.5,
+            "bắc hà": 0.5
+        }
     }
 ]

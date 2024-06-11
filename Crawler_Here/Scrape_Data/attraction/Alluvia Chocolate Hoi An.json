@@ -120,7 +120,158 @@
             "https://www.tripadvisor.com/Attraction_Review-g34534-d1774966-Reviews-Washington_Oaks_Gardens_State_Park-Palm_Coast_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d15645774-Reviews-or10-Alluvia_Chocolate_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15645774-Reviews-Alluvia_Chocolate_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15645774-Reviews-Alluvia_Chocolate_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nếm": 0.5,
+            "sô cô la": 0.7476372518285643,
+            "nhân viên": 0.6245897600116829,
+            "lớp học": 0.5,
+            "trải nghiệm": 0.9934918175422354,
+            "khai trương": 0.9945155276218429,
+            "lớp học nấu sô cô la": 0.9954497095313855,
+            "lớp học nấu ăn": 0.9912173434859142,
+            "đồ uống": 0.5893543430052146,
+            "sôcôla": 0.6864822181484972,
+            "viên": 0.5726212356239557,
+            "nấm cục": 0.5,
+            "quán cà phê": 0.5,
+            "cửa hàng": 0.7951019745669328,
+            "sôcôla đen": -0.47262866515666246,
+            "quế": 0.8737692800350487,
+            "giá cả": 0.995513999776449,
+            "quán bar": 0.612182142212987,
+            "chất lượng": 0.9944565737387165,
+            "lớp học làm sô cô la": 0.9951712013571523,
+            "giáo viên": 0.993511634063907,
+            "căn bếp": 0.9048210605978966,
+            "người hướng dẫn": 0.9955273478990421,
+            "nguyên liệu": 0.994800450920593,
+            "xoài dừa": 0.5,
+            "hạt ớt": 0.5,
+            "sinh tố": 0.5,
+            "cà phê": 0.5,
+            "bếp sô": 0.9950976506224833
+        },
+        "dicts_adj": {
+            "nếm": [],
+            "sô cô la": [
+                "ngon"
+            ],
+            "nhân viên": [
+                "thân thiện"
+            ],
+            "lớp học": [],
+            "trải nghiệm": [
+                "thú vị",
+                "thú vị",
+                "độc đáo",
+                "tuyệt vời"
+            ],
+            "khai trương": [
+                "hân hạnh"
+            ],
+            "lớp học nấu sô cô la": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "lớp học nấu ăn": [
+                "tốt"
+            ],
+            "đồ uống": [
+                "thơm",
+                "ngon",
+                "nhiều"
+            ],
+            "sôcôla": [
+                "đen",
+                "ngon",
+                "đen"
+            ],
+            "viên": [
+                "chuyên nghiệp"
+            ],
+            "nấm cục": [],
+            "quán cà phê": [],
+            "cửa hàng": [
+                "vui",
+                "vui"
+            ],
+            "sôcôla đen": [],
+            "quế": [
+                "đen",
+                "đen"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "đơn giản",
+                "đẹp",
+                "hợp lý",
+                "đơn giản",
+                "đẹp"
+            ],
+            "quán bar": [],
+            "chất lượng": [
+                "nhiều",
+                "tốt",
+                "cao"
+            ],
+            "lớp học làm sô cô la": [
+                "nhiều",
+                "vui"
+            ],
+            "giáo viên": [
+                "hào phóng",
+                "giỏi"
+            ],
+            "căn bếp": [
+                "nhiều"
+            ],
+            "người hướng dẫn": [],
+            "nguyên liệu": [
+                "sẵn",
+                "nhiều"
+            ],
+            "xoài dừa": [],
+            "hạt ớt": [],
+            "sinh tố": [],
+            "cà phê": [],
+            "bếp sô": [
+                "ngon"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nếm": 1,
+            "sô cô la": 2,
+            "nhân viên": 3,
+            "lớp học": 1,
+            "trải nghiệm": 4,
+            "khai trương": 1,
+            "lớp học nấu sô cô la": 1,
+            "lớp học nấu ăn": 1,
+            "đồ uống": 4.5,
+            "sôcôla": 7.5,
+            "viên": 2,
+            "nấm cục": 2,
+            "quán cà phê": 3,
+            "cửa hàng": 5.0,
+            "sôcôla đen": 3.0,
+            "quế": 3.0,
+            "giá cả": 3.0,
+            "quán bar": 1.5,
+            "chất lượng": 1.5,
+            "lớp học làm sô cô la": 1,
+            "giáo viên": 1,
+            "căn bếp": 1,
+            "người hướng dẫn": 1,
+            "nguyên liệu": 1,
+            "xoài dừa": 1,
+            "hạt ớt": 1,
+            "sinh tố": 1,
+            "cà phê": 1,
+            "bếp sô": 1
+        }
     },
     {
         "attraction_name": "Alluvia Chocolate Hoi An",
@@ -248,7 +399,26 @@
             "https://www.tripadvisor.com/Attraction_Review-g294195-d3709945-Reviews-Lisi_Lake-Tbilisi.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d15645774-Reviews-or20-Alluvia_Chocolate_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15645774-Reviews-or10-Alluvia_Chocolate_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15645774-Reviews-or10-Alluvia_Chocolate_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9892401783727109,
+            "vâng": 0.9920080482261255
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "thú vị"
+            ],
+            "vâng": [
+                "chắc chắn",
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 1,
+            "vâng": 1
+        }
     },
     {
         "attraction_name": "Alluvia Chocolate Hoi An",
@@ -369,6 +539,85 @@
             "https://www.tripadvisor.com/Attraction_Review-g33835-d126689-Reviews-Quassy_Amusement_Waterpark-Middlebury_Connecticut.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15645774-Reviews-or20-Alluvia_Chocolate_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d15645774-Reviews-or20-Alluvia_Chocolate_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa hàng": 0.8737692800350487,
+            "bày biện": 0.5,
+            "khối": 0.9951855648541823,
+            "nhân viên": 0.9652029292903737,
+            "lễ tân": 0.8737692800350487,
+            "khách sạn": 0.8737692800350487,
+            "sô cô": 0.8737692800350487,
+            "sức khỏe": 0.5388909345492721,
+            "túi mát": 0.9955603004200384,
+            "nhất mà": 0.9951181263895705,
+            "sản phẩm": 0.6763486862182617,
+            "quán": 0.9889731223229319,
+            "cửa hàng sô cô": 0.9587424010969698
+        },
+        "dicts_adj": {
+            "cửa hàng": [
+                "sạch sẽ"
+            ],
+            "bày biện": [],
+            "khối": [
+                "ngon"
+            ],
+            "nhân viên": [
+                "tuyệt vời",
+                "hơn",
+                "tuyệt vời",
+                "tốt bụng"
+            ],
+            "lễ tân": [
+                "tuyệt vời",
+                "hơn"
+            ],
+            "khách sạn": [
+                "tuyệt vời",
+                "hơn"
+            ],
+            "sô cô": [
+                "ngon",
+                "tốt"
+            ],
+            "sức khỏe": [
+                "ngon"
+            ],
+            "túi mát": [
+                "tuyệt vời"
+            ],
+            "nhất mà": [
+                "tuyệt vời"
+            ],
+            "sản phẩm": [
+                "khắp",
+                "khác"
+            ],
+            "quán": [
+                "đen",
+                "nhất"
+            ],
+            "cửa hàng sô cô": [
+                "bất ngờ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa hàng": 0.5,
+            "bày biện": 0.5,
+            "khối": 0.5,
+            "nhân viên": 1.5,
+            "lễ tân": 0.5,
+            "khách sạn": 0.5,
+            "sô cô": 0.5,
+            "sức khỏe": 0.5,
+            "túi mát": 0.5,
+            "nhất mà": 1,
+            "sản phẩm": 1,
+            "quán": 1,
+            "cửa hàng sô cô": 1
+        }
     }
 ]

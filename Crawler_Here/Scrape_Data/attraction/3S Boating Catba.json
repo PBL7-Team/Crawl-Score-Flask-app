@@ -71,6 +71,115 @@
             "https://www.tripadvisor.com/Attraction_Review-g60763-d11742766-Reviews-T_J_Maxx-New_York_City_New_York.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d15220403-Reviews-3S_Boating_Catba-Cat_Ba_Hai_Phong.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g737051-d15220403-Reviews-3S_Boating_Catba-Cat_Ba_Hai_Phong.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ca": 0.9502625539510822,
+            "say sóng": 0.5,
+            "chuyến tham quan": 0.5445140505714031,
+            "vịnh": 0.991942411288619,
+            "chuyến đi": 0.9943537733634003,
+            "thức ăn": 0.8737692800350487,
+            "đảo": 0.6062250354443677,
+            "sóng": 0.5,
+            "cuộc sống": 0.516981178894639,
+            "người dân bản địa": 0.5,
+            "làng chài": 0.5,
+            "chèo thuyền kayak": 0.8737692800350487,
+            "sup": 0.8737692800350487,
+            "san": 0.9954174718586728,
+            "thực vật": 0.9954641256481409,
+            "chuyến du lịch": 0.8606567256210838,
+            "tàu": 0.9083166578978611,
+            "mặt nước": 0.5
+        },
+        "dicts_adj": {
+            "ca": [
+                "hoàn toàn",
+                "ổn định",
+                "tốt"
+            ],
+            "say sóng": [],
+            "chuyến tham quan": [
+                "tươi",
+                "ngon",
+                "tuyệt vời",
+                "rộng rãi",
+                "thú vị",
+                "cùng"
+            ],
+            "vịnh": [
+                "nhiều",
+                "sẵn",
+                "thú vị",
+                "phong phú",
+                "phong phú",
+                "cùng",
+                "suốt"
+            ],
+            "chuyến đi": [
+                "nhiều",
+                "sẵn"
+            ],
+            "thức ăn": [
+                "tuyệt vời"
+            ],
+            "đảo": [
+                "rộng rãi",
+                "thú vị",
+                "cùng"
+            ],
+            "sóng": [],
+            "cuộc sống": [
+                "đời thường"
+            ],
+            "người dân bản địa": [],
+            "làng chài": [],
+            "chèo thuyền kayak": [
+                "phong phú"
+            ],
+            "sup": [
+                "phong phú",
+                "tốt"
+            ],
+            "san": [
+                "phong phú"
+            ],
+            "thực vật": [
+                "phong phú"
+            ],
+            "chuyến du lịch": [
+                "rộng rãi",
+                "thú vị",
+                "cùng"
+            ],
+            "tàu": [
+                "rộng rãi",
+                "thú vị",
+                "cùng"
+            ],
+            "mặt nước": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ca": 0.5,
+            "say sóng": 0.5,
+            "chuyến tham quan": 1.0,
+            "vịnh": 1.0,
+            "chuyến đi": 0.5,
+            "thức ăn": 0.5,
+            "đảo": 1.0,
+            "sóng": 0.5,
+            "cuộc sống": 0.5,
+            "người dân bản địa": 0.5,
+            "làng chài": 0.5,
+            "chèo thuyền kayak": 0.5,
+            "sup": 1.0,
+            "san": 0.5,
+            "thực vật": 0.5,
+            "chuyến du lịch": 0.5,
+            "tàu": 0.5,
+            "mặt nước": 0.5
+        }
     }
 ]

@@ -81,7 +81,224 @@
             "https://www.tripadvisor.com/Attraction_Review-g2282879-d2313197-Reviews-Palani_Murugan_Temple-Palani_Dindigul_District_Tamil_Nadu.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d4752380-Reviews-or10-Asian_Destination_Travel-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d4752380-Reviews-Asian_Destination_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d4752380-Reviews-Asian_Destination_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nha trang": 0.8737692800350487,
+            "hương nguyễn": 0.8737692800350487,
+            "kiến thức": -0.9733249549753964,
+            "bữa ăn": 0.791535752825439,
+            "nhà hàng": 0.5570481028407812,
+            "khoảng thời gian": 0.9948669008736033,
+            "trải nghiệm": 0.9955535740009509,
+            "chuyến đi": 0.8503557856117064,
+            "vịnh": 0.5,
+            "chất lượng": 0.9831836289085913,
+            "hướng dẫn viên": 0.6972463313383438,
+            "phương tiện di chuyển": 0.9302701288543176,
+            "tour ẩm thực đường phố": 0.5,
+            "dịch vụ du lịch": 0.9955384122440591,
+            "hành trình": 0.9949119987431914,
+            "chuyến thăm địa đạo": 0.9822405979502946,
+            "thức ăn": 0.8737692800350487,
+            "tour": 0.8737692800350487,
+            "chuyến tham quan": 0.727317912746609,
+            "câu chuyện": 0.9925661645829678,
+            "chuyến du lịch": 0.8737692800350487,
+            "người dân địa phương": 0.37296969816088676,
+            "văn hóa": -0.9704050610307604,
+            "ẩm thực": 0.5046845283359289,
+            "lịch sử": 0.41720835492014885,
+            "lối sống": 0.5032909847795963,
+            "tommy": 0.9948572242283262,
+            "tommy vũ": 0.9345765654870775,
+            "kỷ niệm": 0.9569245735183358,
+            "dịch vụ": 0.9955353101249784,
+            "chuyên gia tư vấn du lịch": 0.9955527557758614,
+            "hướng dẫn viên giỏi": 0.9888274987461045,
+            "khách sạn": 0.5145119894295931,
+            "chuyển tiền": 0.8895837613381445,
+            "thắng cảnh": 0.5,
+            "khách sạn 1 đêm": 0.5046403128653765,
+            "life": 0.5,
+            "giá cả": 0.5
+        },
+        "dicts_adj": {
+            "nha trang": [
+                "tuyệt vời",
+                "sâu sắc",
+                "nhiều",
+                "khác"
+            ],
+            "hương nguyễn": [
+                "tuyệt vời"
+            ],
+            "kiến thức": [],
+            "bữa ăn": [
+                "rõ"
+            ],
+            "nhà hàng": [
+                "rõ"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời",
+                "khắp",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "nhanh nhạy",
+                "chuyên nghiệp",
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "sai",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tốt"
+            ],
+            "vịnh": [],
+            "chất lượng": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "sai",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "sai",
+                "tuyệt vời",
+                "tốt",
+                "hơn",
+                "nhiều"
+            ],
+            "phương tiện di chuyển": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "sai",
+                "tuyệt vời"
+            ],
+            "tour ẩm thực đường phố": [],
+            "dịch vụ du lịch": [],
+            "hành trình": [
+                "giàu",
+                "nhất"
+            ],
+            "chuyến thăm địa đạo": [
+                "nổi bật"
+            ],
+            "thức ăn": [
+                "ngon",
+                "tốt",
+                "tốt",
+                "tốt"
+            ],
+            "tour": [
+                "ngon",
+                "tốt",
+                "tốt",
+                "tốt"
+            ],
+            "chuyến tham quan": [
+                "tốt",
+                "rạng rỡ",
+                "tốt đẹp"
+            ],
+            "câu chuyện": [
+                "cơ bản",
+                "bất kỳ"
+            ],
+            "chuyến du lịch": [
+                "khó"
+            ],
+            "người dân địa phương": [
+                "khó"
+            ],
+            "văn hóa": [
+                "khó"
+            ],
+            "ẩm thực": [
+                "khó"
+            ],
+            "lịch sử": [
+                "khó"
+            ],
+            "lối sống": [
+                "khó"
+            ],
+            "tommy": [],
+            "tommy vũ": [
+                "Thật sự"
+            ],
+            "kỷ niệm": [
+                "khó"
+            ],
+            "dịch vụ": [
+                "thực sự",
+                "hài lòng",
+                "tuyệt vời"
+            ],
+            "chuyên gia tư vấn du lịch": [
+                "chuyên nghiệp"
+            ],
+            "hướng dẫn viên giỏi": [
+                "giàu"
+            ],
+            "khách sạn": [
+                "tốt"
+            ],
+            "chuyển tiền": [
+                "đúng"
+            ],
+            "thắng cảnh": [],
+            "khách sạn 1 đêm": [],
+            "life": [],
+            "giá cả": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nha trang": 2,
+            "hương nguyễn": 2,
+            "kiến thức": 2,
+            "bữa ăn": 2,
+            "nhà hàng": 2,
+            "khoảng thời gian": 2,
+            "trải nghiệm": 1,
+            "chuyến đi": 6.0,
+            "vịnh": 1,
+            "chất lượng": 1,
+            "hướng dẫn viên": 2,
+            "phương tiện di chuyển": 1,
+            "tour ẩm thực đường phố": 1,
+            "dịch vụ du lịch": 1,
+            "hành trình": 1,
+            "chuyến thăm địa đạo": 1,
+            "thức ăn": 1,
+            "tour": 1,
+            "chuyến tham quan": 2.0,
+            "câu chuyện": 1,
+            "chuyến du lịch": 1,
+            "người dân địa phương": 1,
+            "văn hóa": 1,
+            "ẩm thực": 1,
+            "lịch sử": 1,
+            "lối sống": 1,
+            "tommy": 1,
+            "tommy vũ": 2,
+            "kỷ niệm": 1,
+            "dịch vụ": 1,
+            "chuyên gia tư vấn du lịch": 1,
+            "hướng dẫn viên giỏi": 0.5,
+            "khách sạn": 0.5,
+            "chuyển tiền": 0.5,
+            "thắng cảnh": 0.5,
+            "khách sạn 1 đêm": 0.5,
+            "life": 0.5,
+            "giá cả": 0.5
+        }
     },
     {
         "attraction_name": "Asian Destination Travel",
@@ -162,7 +379,265 @@
             "https://www.tripadvisor.com/Attraction_Review-g51889-d563998-Reviews-Mt_Hood_Adventure_Park_at_Skibowl-Government_Camp_Clackamas_County_Oregon.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d4752380-Reviews-or20-Asian_Destination_Travel-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d4752380-Reviews-or10-Asian_Destination_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d4752380-Reviews-or10-Asian_Destination_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.01069057866698131,
+            "son": 0.9928543466376141,
+            "chiến tranh": 0.9688211670145392,
+            "đối xử": 0.9942692583426833,
+            "khu chợ": 0.9869408445665613,
+            "túi xách": 0.18729551695287228,
+            "quần áo": 0.8737692800350487,
+            "giá": 0.560948733240366,
+            "ẩm thực": 0.9912304218159989,
+            "tour": 0.961370577767957,
+            "day": 0.9928366114618257,
+            "dịch vụ": 0.8686399043072015,
+            "chuyến đi": 0.8695855339537957,
+            "khách sạn": 0.6923885880678426,
+            "tour du lịch": 0.5,
+            "phương tiện đi lại": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "kiến ​​thức": 0.5,
+            "kỳ nghỉ": 0.7993973817016619,
+            "quốc gia": 0.994586945627816,
+            "chỗ": 0.6720677208310614,
+            "thức ăn": 0.9955244926386513,
+            "vịnh": 0.8737692800350487,
+            "trái đất": 0.5,
+            "hành trình": 0.6964634323958308,
+            "đồng bằng sông cửu long": 0.8737692800350487,
+            "điểm đến": 0.8737692800350487,
+            "phương tiện": 0.8283016157220118,
+            "chuyến tham quan": 0.5,
+            "hướng dẫn viên": 0.9952833311690483,
+            "chuyến du ngoạn": 0.5,
+            "vướng víu": 0.9933707220479846,
+            "con người": 0.6651708746212535,
+            "chuyến thăm thứ": 0.7693938389420509,
+            "tàu du lịch": 0.9908547145896591,
+            "cơn bão": 0.5774826845154166,
+            "mức giá": 0.994860851962585,
+            "bãi biển": 0.9955522227101028,
+            "đồ ăn": 0.9955946910777129,
+            "địa điểm": 0.9952508618880529,
+            "dan": 0.9953339381609112,
+            "vườn quốc gia": 0.5,
+            "chuyến thăm": 0.9418659606017172,
+            "thuyền": 0.8438224173150957,
+            "xe buýt": 0.650225583667634,
+            "hoàng": 0.8737692800350487,
+            "cảnh quan": 0.5,
+            "văn hóa": 0.5
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "đẹp",
+                "đơn giản",
+                "thú vị",
+                "hơn"
+            ],
+            "son": [
+                "giỏi"
+            ],
+            "chiến tranh": [],
+            "đối xử": [
+                "nồng nhiệt",
+                "duyên dáng"
+            ],
+            "khu chợ": [
+                "nhỏ"
+            ],
+            "túi xách": [
+                "giả"
+            ],
+            "quần áo": [
+                "kém"
+            ],
+            "giá": [
+                "tương đương"
+            ],
+            "ẩm thực": [
+                "thú vị",
+                "cẩn thận"
+            ],
+            "tour": [
+                "absolutely",
+                "no"
+            ],
+            "day": [],
+            "dịch vụ": [
+                "nhiều",
+                "hoàn toàn",
+                "hài lòng"
+            ],
+            "chuyến đi": [
+                "nhiều",
+                "tuyệt vời",
+                "hơn"
+            ],
+            "khách sạn": [
+                "hài lòng",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "tour du lịch": [],
+            "phương tiện đi lại": [],
+            "hướng dẫn viên du lịch": [],
+            "kiến ​​thức": [],
+            "kỳ nghỉ": [
+                "tuyệt vời",
+                "sẵn sàng",
+                "chuyên nghiệp",
+                "tuyệt vời"
+            ],
+            "quốc gia": [
+                "đầu tiên",
+                "châu Á",
+                "tuyệt vời",
+                "hơn"
+            ],
+            "chỗ": [
+                "đặc biệt",
+                "nhiều"
+            ],
+            "thức ăn": [
+                "tuyệt vời"
+            ],
+            "vịnh": [
+                "đặc biệt",
+                "phức tạp",
+                "đầu tiên",
+                "tuyệt vời",
+                "hài lòng",
+                "tuyệt vời",
+                "cùng"
+            ],
+            "trái đất": [],
+            "hành trình": [
+                "phức tạp",
+                "tuyệt vời"
+            ],
+            "đồng bằng sông cửu long": [
+                "phức tạp"
+            ],
+            "điểm đến": [
+                "vui",
+                "tận tình",
+                "chắc chắn"
+            ],
+            "phương tiện": [
+                "giỏi",
+                "quan trọng",
+                "an toàn",
+                "an toàn"
+            ],
+            "chuyến tham quan": [],
+            "hướng dẫn viên": [
+                "lịch sự",
+                "chu đáo",
+                "tối đa",
+                "thân thiện",
+                "xuất sắc"
+            ],
+            "chuyến du ngoạn": [],
+            "vướng víu": [],
+            "con người": [
+                "tuyệt vời"
+            ],
+            "chuyến thăm thứ": [],
+            "tàu du lịch": [
+                "tốt"
+            ],
+            "cơn bão": [
+                "may mắn",
+                "ngắn"
+            ],
+            "mức giá": [
+                "tuyệt vời"
+            ],
+            "bãi biển": [
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "địa điểm": [
+                "thú vị",
+                "tuyệt vời"
+            ],
+            "dan": [],
+            "vườn quốc gia": [],
+            "chuyến thăm": [
+                "gần"
+            ],
+            "thuyền": [
+                "hơn"
+            ],
+            "xe buýt": [
+                "nhỏ",
+                "sạch sẽ"
+            ],
+            "hoàng": [
+                "sạch sẽ",
+                "đặc biệt",
+                "bẩn"
+            ],
+            "cảnh quan": [],
+            "văn hóa": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 1.0,
+            "son": 0.5,
+            "chiến tranh": 0.5,
+            "đối xử": 0.5,
+            "khu chợ": 0.5,
+            "túi xách": 0.5,
+            "quần áo": 0.5,
+            "giá": 0.5,
+            "ẩm thực": 0.5,
+            "tour": 1.0,
+            "day": 0.5,
+            "dịch vụ": 1.0,
+            "chuyến đi": 2.0,
+            "khách sạn": 1.0,
+            "tour du lịch": 0.5,
+            "phương tiện đi lại": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "kiến ​​thức": 0.5,
+            "kỳ nghỉ": 1.5,
+            "quốc gia": 0.5,
+            "chỗ": 1.5,
+            "thức ăn": 0.5,
+            "vịnh": 2.5,
+            "trái đất": 0.5,
+            "hành trình": 1.0,
+            "đồng bằng sông cửu long": 0.5,
+            "điểm đến": 0.5,
+            "phương tiện": 1.5,
+            "chuyến tham quan": 0.5,
+            "hướng dẫn viên": 1.0,
+            "chuyến du ngoạn": 0.5,
+            "vướng víu": 0.5,
+            "con người": 1.5,
+            "chuyến thăm thứ": 0.5,
+            "tàu du lịch": 0.5,
+            "cơn bão": 0.5,
+            "mức giá": 0.5,
+            "bãi biển": 0.5,
+            "đồ ăn": 0.5,
+            "địa điểm": 0.5,
+            "dan": 0.5,
+            "vườn quốc gia": 0.5,
+            "chuyến thăm": 0.5,
+            "thuyền": 0.5,
+            "xe buýt": 0.5,
+            "hoàng": 0.5,
+            "cảnh quan": 0.5,
+            "văn hóa": 0.5
+        }
     },
     {
         "attraction_name": "Asian Destination Travel",
@@ -242,6 +717,199 @@
             "https://www.tripadvisor.com/Attraction_Review-g652003-d2538297-Reviews-Sabbiadoro_Beach-Monopoli_Province_of_Bari_Puglia.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d4752380-Reviews-or20-Asian_Destination_Travel-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d4752380-Reviews-or20-Asian_Destination_Travel-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.780751537271135,
+            "chỗ ở": 0.9725054090376943,
+            "nhà hàng": 0.5,
+            "hướng dẫn viên": 0.6868846400175244,
+            "phương tiện đi lại": 0.5,
+            "phi": -0.975331216934137,
+            "đại lý du lịch": 0.039946755627170205,
+            "quảng cáo": 0.5,
+            "bóng bẩy": 0.5,
+            "công": 0.9896019205916673,
+            "hành trình": 0.9181706197559834,
+            "chỗ": 0.9925654140824918,
+            "trải nghiệm": 0.9955097883357666,
+            "chuyến du lịch": 0.9949240440037102,
+            "dịch vụ": 0.6051397283008555,
+            "dấu ấn": 0.6611382411792874,
+            "chuyến du ngoạn": 0.9935769772855565,
+            "sông mê kông": 0.8737692800350487,
+            "phòng": 0.938507366925478,
+            "thiết bị y tế": 0.5,
+            "khách sạn": 0.658974464594697,
+            "hãng hàng": 0.5,
+            "đại lý địa phương": 0.7450089529156685,
+            "kỳ nghỉ": 0.9339249869808555,
+            "tour du lịch": 0.5,
+            "đội ngũ đại lý du lịch": 0.9909247097093612,
+            "chi tiết": -0.4137717317789793,
+            "người hâm mộ": 0.9827652865205891,
+            "con người": 0.9658673934172839,
+            "đông dương": 0.5,
+            "bồ đào": 0.6800823099911213,
+            "người nước ngoài": -0.7422064766287804,
+            "thị trấn": 0.5,
+            "đồ ăn": 0.5
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "tốt",
+                "cuối cùng",
+                "căng thẳng",
+                "chắc chắn",
+                "tốt",
+                "tốt",
+                "bất kỳ",
+                "thoải mái",
+                "biết ơn",
+                "như thế nào",
+                "riêng",
+                "liên tiếp",
+                "suôn sẻ",
+                "nhỏ"
+            ],
+            "chỗ ở": [
+                "tốt",
+                "hơn"
+            ],
+            "nhà hàng": [],
+            "hướng dẫn viên": [
+                "chuyên nghiệp"
+            ],
+            "phương tiện đi lại": [],
+            "phi": [
+                "xuất sắc"
+            ],
+            "đại lý du lịch": [
+                "khác",
+                "cao",
+                "hơn",
+                "chuyên nghiệp",
+                "cùng"
+            ],
+            "quảng cáo": [],
+            "bóng bẩy": [],
+            "công": [
+                "đặc biệt"
+            ],
+            "hành trình": [
+                "tốt",
+                "hơn",
+                "tốt",
+                "hơn",
+                "nhiều"
+            ],
+            "chỗ": [
+                "tốt",
+                "bất kỳ"
+            ],
+            "trải nghiệm": [
+                "chuyên nghiệp",
+                "tuyệt vời"
+            ],
+            "chuyến du lịch": [
+                "tuyệt khi",
+                "tận tình",
+                "giống",
+                "khác"
+            ],
+            "dịch vụ": [
+                "biết ơn",
+                "bất kỳ",
+                "đầu tiên",
+                "sáu mươi",
+                "khác"
+            ],
+            "dấu ấn": [],
+            "chuyến du ngoạn": [
+                "tình cờ"
+            ],
+            "sông mê kông": [
+                "tình cờ"
+            ],
+            "phòng": [
+                "chuyên nghiệp",
+                "suốt"
+            ],
+            "thiết bị y tế": [],
+            "khách sạn": [
+                "bất kỳ",
+                "đặc biệt"
+            ],
+            "hãng hàng": [],
+            "đại lý địa phương": [
+                "toàn diện"
+            ],
+            "kỳ nghỉ": [
+                "toàn diện",
+                "hoàn hảo",
+                "tuyệt vời",
+                "nhiều",
+                "tuyệt vời"
+            ],
+            "tour du lịch": [],
+            "đội ngũ đại lý du lịch": [
+                "chuyên nghiệp",
+                "nhiều"
+            ],
+            "chi tiết": [
+                "nhỏ"
+            ],
+            "người hâm mộ": [
+                "đẹp",
+                "nhất"
+            ],
+            "con người": [
+                "thân thiện"
+            ],
+            "đông dương": [],
+            "bồ đào": [],
+            "người nước ngoài": [
+                "khác"
+            ],
+            "thị trấn": [],
+            "đồ ăn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 3.0,
+            "chỗ ở": 0.5,
+            "nhà hàng": 0.5,
+            "hướng dẫn viên": 1.0,
+            "phương tiện đi lại": 0.5,
+            "phi": 0.5,
+            "đại lý du lịch": 1.0,
+            "quảng cáo": 0.5,
+            "bóng bẩy": 0.5,
+            "công": 0.5,
+            "hành trình": 0.5,
+            "chỗ": 0.5,
+            "trải nghiệm": 0.5,
+            "chuyến du lịch": 0.5,
+            "dịch vụ": 2.0,
+            "dấu ấn": 0.5,
+            "chuyến du ngoạn": 0.5,
+            "sông mê kông": 0.5,
+            "phòng": 0.5,
+            "thiết bị y tế": 0.5,
+            "khách sạn": 1.5,
+            "hãng hàng": 0.5,
+            "đại lý địa phương": 0.5,
+            "kỳ nghỉ": 1.0,
+            "tour du lịch": 0.5,
+            "đội ngũ đại lý du lịch": 0.5,
+            "chi tiết": 0.5,
+            "người hâm mộ": 0.5,
+            "con người": 0.5,
+            "đông dương": 0.5,
+            "bồ đào": 0.5,
+            "người nước ngoài": 0.5,
+            "thị trấn": 0.5,
+            "đồ ăn": 0.5
+        }
     }
 ]

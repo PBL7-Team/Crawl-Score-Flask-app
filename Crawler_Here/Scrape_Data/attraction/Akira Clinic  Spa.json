@@ -103,7 +103,275 @@
             "https://www.tripadvisor.com/Attraction_Review-g49265-d126593-Reviews-North_Carolina_Aquarium_at_Fort_Fisher-Kure_Beach_North_Carolina.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d15082569-Reviews-or10-Akira_Clinic_Spa-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d15082569-Reviews-Akira_Clinic_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d15082569-Reviews-Akira_Clinic_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "spa": 0.757518732182992,
+            "chất lượng": 0.5168335288763046,
+            "dịch vụ": -0.7967196200042963,
+            "máy bay": 0.9421960464678705,
+            "dịch vụ chăm sóc da mặt": 0.8678146693855524,
+            "da mặt": 0.7151866890490055,
+            "trải nghiệm": 0.8550003093550913,
+            "massage": 0.7599102639651392,
+            "nhân viên mát-xa của tôi": 0.9950828111032024,
+            "thư giãn": 0.9955920971697196,
+            "kỹ thuật": 0.8737692800350487,
+            "nút": 0.6537929838523269,
+            "nhà trị liệu": 0.9836923198308796,
+            "mát-xa": 0.7473846056382172,
+            "trung tâm hà": 0.7615391230210662,
+            "lịch": 0.9954478781437501,
+            "người châu âu": 0.8737692800350487,
+            "đội bóng": 0.9941994127584621,
+            "buổi chiều": 0.7224661415675655,
+            "không gian": 0.8563972007250413,
+            "phòng": -0.968521855538711,
+            "khu": -0.95232068374753,
+            "quan hệ tình dục": 0.5,
+            "đá": -0.975492712459527,
+            "người": 0.9941594354750123,
+            "bầu không khí": 0.7467428496456705,
+            "ngăn nắp": -0.43881723284721375,
+            "kỹ năng": 0.8737692800350487,
+            "nhân viên": 0.9935468790863524,
+            "dịch vụ mát xa": 0.9951168199186213,
+            "cơ sở vật chất": 0.8737692800350487,
+            "không khí": 0.5574814304709435,
+            "tòa nhà": 0.9555279053747654,
+            "thang máy": 0.9285246916115284,
+            "âm nhạc trà ngon": 0.5,
+            "chăm sóc da mặt": 0.681743185967207,
+            "khu phố cổ": 0.628915092907846,
+            "cầu thang bộ": 0.4726192057132721,
+            "tấm biển": 0.507457934319973,
+            "chuyến đi": 0.5152635518461466,
+            "và trị": 0.5,
+            "trị liệu da mặt": 0.9660638375207782,
+            "mặt nạ": 0.542730481363833,
+            "trị liệu": 0.37731410562992096,
+            "dịch vụ mát-xa tốt đến": 0.9938884505536407,
+            "khung cảnh": 0.9952721355948597,
+            "kỹ thuật massage": 0.9924031791451853
+        },
+        "dicts_adj": {
+            "spa": [
+                "xinh đẹp",
+                "tốt",
+                "khác",
+                "giống",
+                "cao cấp",
+                "hơn"
+            ],
+            "chất lượng": [
+                "cao"
+            ],
+            "dịch vụ": [
+                "cao"
+            ],
+            "máy bay": [
+                "trẻ"
+            ],
+            "dịch vụ chăm sóc da mặt": [
+                "trẻ"
+            ],
+            "da mặt": [
+                "lịch sự",
+                "giàu",
+                "trẻ",
+                "hơn"
+            ],
+            "trải nghiệm": [
+                "dài",
+                "thú vị",
+                "thực sự",
+                "tuyệt vời",
+                "sạch sẽ",
+                "chuyên nghiệp",
+                "thư giãn",
+                "dài"
+            ],
+            "massage": [
+                "dài",
+                "nóng",
+                "tuyệt vời",
+                "chuyên nghiệp"
+            ],
+            "nhân viên mát-xa của tôi": [
+                "thú vị"
+            ],
+            "thư giãn": [
+                "thú vị"
+            ],
+            "kỹ thuật": [
+                "tốt"
+            ],
+            "nút": [
+                "nhẹ nhàng",
+                "hơn"
+            ],
+            "nhà trị liệu": [
+                "đặc biệt"
+            ],
+            "mát-xa": [
+                "tuyệt vời"
+            ],
+            "trung tâm hà": [],
+            "lịch": [
+                "sang trọng",
+                "tuyệt vời"
+            ],
+            "người châu âu": [
+                "thoải mái"
+            ],
+            "đội bóng": [
+                "xuất sắc"
+            ],
+            "buổi chiều": [
+                "lạnh",
+                "bất ngờ",
+                "nhiều",
+                "đầu tiên"
+            ],
+            "không gian": [
+                "hòa",
+                "tuyệt vời",
+                "đủ",
+                "yên tĩnh",
+                "thư giãn"
+            ],
+            "phòng": [
+                "nóng"
+            ],
+            "khu": [
+                "chủ yếu"
+            ],
+            "quan hệ tình dục": [],
+            "đá": [
+                "nóng"
+            ],
+            "người": [
+                "dịu dàng",
+                "chuyên nghiệp",
+                "khéo léo"
+            ],
+            "bầu không khí": [
+                "khôn ngoan"
+            ],
+            "ngăn nắp": [
+                "khôn ngoan"
+            ],
+            "kỹ năng": [
+                "khôn ngoan"
+            ],
+            "nhân viên": [
+                "chuyên nghiệp",
+                "thân thiện",
+                "tốt bụng",
+                "tốt",
+                "khác",
+                "thân thiện",
+                "trẻ"
+            ],
+            "dịch vụ mát xa": [
+                "tốt"
+            ],
+            "cơ sở vật chất": [
+                "thuận lợi"
+            ],
+            "không khí": [
+                "thuận lợi"
+            ],
+            "tòa nhà": [
+                "khác biệt",
+                "cũ",
+                "nhỏ"
+            ],
+            "thang máy": [
+                "khác biệt"
+            ],
+            "âm nhạc trà ngon": [],
+            "chăm sóc da mặt": [],
+            "khu phố cổ": [],
+            "cầu thang bộ": [],
+            "tấm biển": [
+                "nhỏ",
+                "trái"
+            ],
+            "chuyến đi": [
+                "khó",
+                "đầu tiên"
+            ],
+            "và trị": [],
+            "trị liệu da mặt": [
+                "chuyên nghiệp"
+            ],
+            "mặt nạ": [
+                "đủ"
+            ],
+            "trị liệu": [
+                "kém"
+            ],
+            "dịch vụ mát-xa tốt đến": [],
+            "khung cảnh": [
+                "nhẹ nhàng",
+                "thoải mái"
+            ],
+            "kỹ thuật massage": [
+                "thực sự",
+                "hài lòng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "spa": 1.5,
+            "chất lượng": 0.5,
+            "dịch vụ": 0.5,
+            "máy bay": 0.5,
+            "dịch vụ chăm sóc da mặt": 0.5,
+            "da mặt": 1.0,
+            "trải nghiệm": 1.5,
+            "massage": 2.0,
+            "nhân viên mát-xa của tôi": 0.5,
+            "thư giãn": 0.5,
+            "kỹ thuật": 0.5,
+            "nút": 0.5,
+            "nhà trị liệu": 0.5,
+            "mát-xa": 1.0,
+            "trung tâm hà": 0.5,
+            "lịch": 0.5,
+            "người châu âu": 0.5,
+            "đội bóng": 0.5,
+            "buổi chiều": 0.5,
+            "không gian": 0.5,
+            "phòng": 0.5,
+            "khu": 0.5,
+            "quan hệ tình dục": 0.5,
+            "đá": 0.5,
+            "người": 1.0,
+            "bầu không khí": 1.0,
+            "ngăn nắp": 0.5,
+            "kỹ năng": 0.5,
+            "nhân viên": 2.0,
+            "dịch vụ mát xa": 0.5,
+            "cơ sở vật chất": 0.5,
+            "không khí": 0.5,
+            "tòa nhà": 0.5,
+            "thang máy": 0.5,
+            "âm nhạc trà ngon": 0.5,
+            "chăm sóc da mặt": 0.5,
+            "khu phố cổ": 0.5,
+            "cầu thang bộ": 0.5,
+            "tấm biển": 0.5,
+            "chuyến đi": 0.5,
+            "và trị": 0.5,
+            "trị liệu da mặt": 0.5,
+            "mặt nạ": 0.5,
+            "trị liệu": 0.5,
+            "dịch vụ mát-xa tốt đến": 0.5,
+            "khung cảnh": 0.5,
+            "kỹ thuật massage": 0.5
+        }
     },
     {
         "attraction_name": "Akira Clinic & Spa",
@@ -209,6 +477,242 @@
             "https://www.tripadvisor.com/Attraction_Review-g58548-d2461951-Reviews-First_Beach-La_Push_Clallam_County_Washington.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d15082569-Reviews-or10-Akira_Clinic_Spa-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d15082569-Reviews-or10-Akira_Clinic_Spa-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "buổi trưa": 0.5387240126729012,
+            "dầu thơm": 0.9853821797296405,
+            "chỗ": 0.8737692800350487,
+            "dịch vụ": 0.933036603082049,
+            "dịch vụ chăm sóc da mặt": 0.5,
+            "mát-xa": 0.5,
+            "tiện nghi": 0.9954411020735279,
+            "spa": 0.7712799751704248,
+            "giá cả": 0.9796542968057717,
+            "chuyến đi": 0.8381854688632302,
+            "vị trí": 0.8737692800350487,
+            "nhân viên": 0.8450119540405769,
+            "người quản lý": 0.6868846400175244,
+            "nhân viên môi trường": 0.8737692800350487,
+            "massage": 0.8341027706240615,
+            "da mặt": 0.7195136727920424,
+            "mặt nạ": 0.5,
+            "mắt": 0.5,
+            "mặt nạ mắt": 0.9944499813718721,
+            "người cận thị": 0.5,
+            "không gian": 0.9304410588229075,
+            "lịch trình": -0.6776570966467261,
+            "chương": 0.972344869049266,
+            "trình trị liệu da mặt": 0.7838358674198389,
+            "mát-xa toàn thân được thực": 0.8737692800350487,
+            "da mặt được": 0.7903359234333038,
+            "bác sĩ trị liệu": 0.5146486051380634,
+            "giường": 0.5,
+            "nơi": 0.5,
+            "chuyến": 0.5,
+            "văn miếu": 0.5,
+            "và tẩy": 0.5,
+            "min": 0.9946405215887353,
+            "áo choàng": 0.8737692800350487,
+            "quần đùi": 0.9865526696667075,
+            "khăn": 0.9720910373143852,
+            "mặt và": 0.995503991143778,
+            "hương thơm": 0.9946458079793956,
+            "hoa trái cây": 0.9789345087483525,
+            "âm nhạc": 0.9512890751939267,
+            "loại dầu": 0.6584297572262585,
+            "thăng": 0.5
+        },
+        "dicts_adj": {
+            "buổi trưa": [
+                "đầu tiên"
+            ],
+            "dầu thơm": [
+                "tự nhiên"
+            ],
+            "chỗ": [
+                "đẹp"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "tuyệt",
+                "tuyệt vời",
+                "tuyệt vời",
+                "đẹp",
+                "thực sự",
+                "hơn",
+                "tốt",
+                "tốt",
+                "đặc biệt",
+                "thuận tiện"
+            ],
+            "dịch vụ chăm sóc da mặt": [],
+            "mát-xa": [],
+            "tiện nghi": [
+                "tuyệt vời"
+            ],
+            "spa": [
+                "tuyệt vời",
+                "mới",
+                "nhất",
+                "nổi bật",
+                "cùng",
+                "mạnh"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "hợp lý",
+                "hợp lý"
+            ],
+            "chuyến đi": [
+                "dài",
+                "Chắc chắn"
+            ],
+            "vị trí": [
+                "lớn"
+            ],
+            "nhân viên": [
+                "tuyệt vời",
+                "đẹp",
+                "thực sự",
+                "hơn"
+            ],
+            "người quản lý": [
+                "đặc biệt",
+                "tốt"
+            ],
+            "nhân viên môi trường": [
+                "đặc biệt",
+                "tốt"
+            ],
+            "massage": [
+                "đẹp",
+                "thực sự",
+                "hơn"
+            ],
+            "da mặt": [
+                "đẹp",
+                "thực sự",
+                "hơn"
+            ],
+            "mặt nạ": [],
+            "mắt": [],
+            "mặt nạ mắt": [
+                "tốt"
+            ],
+            "người cận thị": [],
+            "không gian": [
+                "riêng tư",
+                "tự nhiên",
+                "thực sự"
+            ],
+            "lịch trình": [
+                "thường xuyên",
+                "căng thẳng",
+                "mệt mỏi",
+                "dày đặc"
+            ],
+            "chương": [
+                "mạnh"
+            ],
+            "trình trị liệu da mặt": [
+                "mạnh"
+            ],
+            "mát-xa toàn thân được thực": [
+                "riêng",
+                "tinh tế"
+            ],
+            "da mặt được": [
+                "mới",
+                "nhất"
+            ],
+            "bác sĩ trị liệu": [],
+            "giường": [],
+            "nơi": [],
+            "chuyến": [],
+            "văn miếu": [],
+            "và tẩy": [],
+            "min": [
+                "đẹp"
+            ],
+            "áo choàng": [
+                "sạch"
+            ],
+            "quần đùi": [
+                "sạch"
+            ],
+            "khăn": [
+                "sạch"
+            ],
+            "mặt và": [
+                "trong lành",
+                "sạch sẽ",
+                "riêng tư",
+                "riêng",
+                "hơn"
+            ],
+            "hương thơm": [
+                "tự nhiên",
+                "thực sự"
+            ],
+            "hoa trái cây": [
+                "tự nhiên",
+                "thực sự"
+            ],
+            "âm nhạc": [
+                "tự nhiên",
+                "thực sự"
+            ],
+            "loại dầu": [
+                "tự nhiên",
+                "thực sự"
+            ],
+            "thăng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "buổi trưa": 0.5,
+            "dầu thơm": 0.5,
+            "chỗ": 0.5,
+            "dịch vụ": 3.5,
+            "dịch vụ chăm sóc da mặt": 0.5,
+            "mát-xa": 1.0,
+            "tiện nghi": 0.5,
+            "spa": 1.5,
+            "giá cả": 1.5,
+            "chuyến đi": 1.0,
+            "vị trí": 0.5,
+            "nhân viên": 1.0,
+            "người quản lý": 1.0,
+            "nhân viên môi trường": 0.5,
+            "massage": 0.5,
+            "da mặt": 1.0,
+            "mặt nạ": 0.5,
+            "mắt": 0.5,
+            "mặt nạ mắt": 0.5,
+            "người cận thị": 0.5,
+            "không gian": 1.0,
+            "lịch trình": 0.5,
+            "chương": 0.5,
+            "trình trị liệu da mặt": 0.5,
+            "mát-xa toàn thân được thực": 0.5,
+            "da mặt được": 0.5,
+            "bác sĩ trị liệu": 0.5,
+            "giường": 0.5,
+            "nơi": 0.5,
+            "chuyến": 0.5,
+            "văn miếu": 0.5,
+            "và tẩy": 0.5,
+            "min": 0.5,
+            "áo choàng": 0.5,
+            "quần đùi": 0.5,
+            "khăn": 0.5,
+            "mặt và": 0.5,
+            "hương thơm": 0.5,
+            "hoa trái cây": 0.5,
+            "âm nhạc": 0.5,
+            "loại dầu": 0.5,
+            "thăng": 0.5
+        }
     }
 ]

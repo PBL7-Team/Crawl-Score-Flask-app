@@ -100,6 +100,79 @@
             "https://www.tripadvisor.com/Attraction_Review-g34345-d13565194-Reviews-Dancing_Finger_Massage-Key_West_Florida_Keys_Florida.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27479213-Reviews-3D_Quinn_Golfzon_District_1-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d27479213-Reviews-3D_Quinn_Golfzon_District_1-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "golf 3d": 0.991213133209385,
+            "nhân viên": 0.9912732602150011,
+            "golf": 0.735407717525959,
+            "dịch vụ": 0.9097585287236143,
+            "đồ ăn": 0.6477838838472962,
+            "vị trí": 0.981219076900743,
+            "trải nghiệm": 0.9944475758820772,
+            "không gian": 0.9955275961547159,
+            "giải golf": 0.9884166639531031,
+            "phòng": 0.9945893374970183,
+            "cửa hàng": 0.9657997221220285,
+            "phòng golf 3d": 0.9955286530894227
+        },
+        "dicts_adj": {
+            "golf 3d": [
+                "tốt"
+            ],
+            "nhân viên": [
+                "tốt",
+                "chuyên nghiệp",
+                "tốt",
+                "chu đáo",
+                "vui vẻ"
+            ],
+            "golf": [
+                "tốt"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "thân thiện",
+                "tốt"
+            ],
+            "đồ ăn": [],
+            "vị trí": [
+                "dễ"
+            ],
+            "trải nghiệm": [
+                "tốt",
+                "tốt",
+                "hơn"
+            ],
+            "không gian": [
+                "thoải mái",
+                "chu đáo"
+            ],
+            "giải golf": [],
+            "phòng": [
+                "thích hợp",
+                "cùng"
+            ],
+            "cửa hàng": [],
+            "phòng golf 3d": [
+                "tốt",
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "golf 3d": 1.5,
+            "nhân viên": 5.5,
+            "golf": 1.5,
+            "dịch vụ": 2.5,
+            "đồ ăn": 1.5,
+            "vị trí": 1.5,
+            "trải nghiệm": 3.0,
+            "không gian": 1,
+            "giải golf": 1,
+            "phòng": 1,
+            "cửa hàng": 1,
+            "phòng golf 3d": 1.5
+        }
     }
 ]

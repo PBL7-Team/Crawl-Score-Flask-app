@@ -88,6 +88,23 @@
             "https://www.tripadvisor.com/Attraction_Review-g55229-d10819750-Reviews-Play_Dance_Bar-Nashville_Davidson_County_Tennessee.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d26264381-Reviews-Anna_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d26264381-Reviews-Anna_Spa_H_i_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "spa": 0.8737692800350487,
+            "dịch vụ mát-xa": -0.852129464969039
+        },
+        "dicts_adj": {
+            "spa": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "dịch vụ mát-xa": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "spa": 1,
+            "dịch vụ mát-xa": 1
+        }
     }
 ]

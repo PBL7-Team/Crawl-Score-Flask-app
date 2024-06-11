@@ -114,6 +114,133 @@
             "https://www.tripadvisor.com/Attraction_Review-g36426-d1979068-Reviews-Historic_Nauvoo-Nauvoo_Illinois.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d17838488-Reviews-Arona_Spa_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d17838488-Reviews-Arona_Spa_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "massage": 0.9950378474386525,
+            "bầu không khí": 0.9953029057942331,
+            "phố": 0.5301349256187677,
+            "spa": 0.954650848149322,
+            "khu phố": 0.5510722268372774,
+            "nhân viên": 0.9548793889892598,
+            "giá cả": 0.979432470689062,
+            "cạnh tranh": 0.9949038336053491,
+            "dịch vụ": 0.6920033966113502,
+            "giá": 0.9865846945904195,
+            "giá trị": 0.995594444568269,
+            "thị trấn": -0.972522149560973,
+            "chăm sóc da mặt": 0.9953017863736022,
+            "bữa trưa": 0.9954891331726685,
+            "dịch vụ massage": 0.9952568667940795,
+            "khách sạn": 0.8737692800350487,
+            "mát-xa": 0.8045911482768133,
+            "chân toàn thân": 0.8576535523752682,
+            "tôi": 0.9851856363238767,
+            "nó": 0.9855988579802215
+        },
+        "dicts_adj": {
+            "massage": [
+                "đẹp",
+                "chuyên nghiệp",
+                "chuyên nghiệp",
+                "tốt",
+                "đẹp"
+            ],
+            "bầu không khí": [
+                "tốt đẹp",
+                "thoải mái"
+            ],
+            "phố": [
+                "cổ",
+                "ngắn"
+            ],
+            "spa": [
+                "cổ",
+                "ngắn",
+                "nhiều",
+                "chắc chắn"
+            ],
+            "khu phố": [
+                "cổ",
+                "ngắn"
+            ],
+            "nhân viên": [
+                "chuyên nghiệp",
+                "chuyên nghiệp",
+                "thân thiện"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "hợp lý",
+                "hợp lý"
+            ],
+            "cạnh tranh": [
+                "hợp lý"
+            ],
+            "dịch vụ": [
+                "nhiều",
+                "tốt"
+            ],
+            "giá": [
+                "tốt"
+            ],
+            "giá trị": [
+                "tốt"
+            ],
+            "thị trấn": [
+                "Tốt",
+                "hơn",
+                "xa"
+            ],
+            "chăm sóc da mặt": [
+                "đẹp",
+                "chuyên nghiệp"
+            ],
+            "bữa trưa": [
+                "ngon"
+            ],
+            "dịch vụ massage": [],
+            "khách sạn": [
+                "nhiều"
+            ],
+            "mát-xa": [
+                "tuyệt vời",
+                "nhất"
+            ],
+            "chân toàn thân": [
+                "tuyệt vời",
+                "nhất"
+            ],
+            "tôi": [
+                "tuyệt vời",
+                "nhất"
+            ],
+            "nó": [
+                "thực sự"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "massage": 2.0,
+            "bầu không khí": 0.5,
+            "phố": 0.5,
+            "spa": 2.5,
+            "khu phố": 0.5,
+            "nhân viên": 1.5,
+            "giá cả": 1.0,
+            "cạnh tranh": 0.5,
+            "dịch vụ": 1.5,
+            "giá": 0.5,
+            "giá trị": 0.5,
+            "thị trấn": 0.5,
+            "chăm sóc da mặt": 0.5,
+            "bữa trưa": 0.5,
+            "dịch vụ massage": 0.5,
+            "khách sạn": 0.5,
+            "mát-xa": 0.5,
+            "chân toàn thân": 0.5,
+            "tôi": 0.5,
+            "nó": 0.5
+        }
     }
 ]

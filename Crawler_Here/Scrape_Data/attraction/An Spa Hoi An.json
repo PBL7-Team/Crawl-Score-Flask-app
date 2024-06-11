@@ -85,6 +85,28 @@
             "https://www.tripadvisor.com/Attraction_Review-g32123-d5598369-Reviews-The_Starlight_Bowl-Burbank_California.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d16859205-Reviews-An_Spa_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d16859205-Reviews-An_Spa_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thị trấn gần": 0.5505511034280062,
+            "giá cả": 0.8737692800350487,
+            "massage chân": 0.5,
+            "đá nóng": 0.5
+        },
+        "dicts_adj": {
+            "thị trấn gần": [],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "massage chân": [],
+            "đá nóng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thị trấn gần": 1,
+            "giá cả": 1,
+            "massage chân": 1,
+            "đá nóng": 1
+        }
     }
 ]

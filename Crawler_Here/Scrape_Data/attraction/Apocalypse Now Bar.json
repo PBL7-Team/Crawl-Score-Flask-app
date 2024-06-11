@@ -118,7 +118,170 @@
             "https://www.tripadvisor.com/Attraction_Review-g1019670-d1313436-Reviews-Shirahama_Beach-Shimoda_Shizuoka_Prefecture_Tokai_Chubu.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or10-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nơi": 0.990982819115743,
+            "nhân viên": 0.9806949145526492,
+            "dịch vụ": 0.6140950687513396,
+            "âm nhạc": 0.8364962930749503,
+            "địa điểm": 0.9939376248163171,
+            "giá": 0.8737692800350487,
+            "không khí": 0.8737692800350487,
+            "thanh": -0.1613201376516372,
+            "đồ uống": 0.7973508574883453,
+            "bia": -0.9758780742995441,
+            "bầu không khí": -0.6996703484328464,
+            "khách sạn": -0.18244139658054337,
+            "rượu": 0.5,
+            "hố": -0.9746939034666866,
+            "câu lạc bộ": 0.38125842809677124,
+            "quán bar": 0.8737692800350487,
+            "bữa tiệc": 0.9943472391460091,
+            "vũ công": 0.9917291587917134,
+            "câu lạc": 0.9721140266046859,
+            "quầy bar": 0.9951888571376912,
+            "túi tiền": 0.9915364300250076,
+            "dj": 0.8737692800350487,
+            "sàn nhảy": 0.9510034788399935,
+            "bàn bida": 0.529557142406702,
+            "hút thuốc lá": 0.5179700888693333,
+            "shisha": 0.6633236994966865,
+            "chuyến đi": 0.9931342533091083,
+            "nhà vệ sinh": 0.9953372899326496,
+            "an ninh": 0.9918703333241865
+        },
+        "dicts_adj": {
+            "nơi": [
+                "tốt"
+            ],
+            "nhân viên": [
+                "dễ thương",
+                "thân thiện",
+                "nhiều"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "phải",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "âm nhạc": [
+                "tuyệt vời",
+                "hiện đại",
+                "ổn",
+                "khủng khiếp"
+            ],
+            "địa điểm": [
+                "hơn",
+                "tuyệt vời",
+                "nhiều",
+                "tốt",
+                "hơn"
+            ],
+            "giá": [
+                "tốt"
+            ],
+            "không khí": [
+                "tốt",
+                "tuyệt vời"
+            ],
+            "thanh": [
+                "tuyệt vời"
+            ],
+            "đồ uống": [
+                "ngon"
+            ],
+            "bia": [
+                "kém",
+                "đắt",
+                "nhiều"
+            ],
+            "bầu không khí": [
+                "kỳ lạ",
+                "gần",
+                "khó chịu",
+                "tuyệt vời"
+            ],
+            "khách sạn": [
+                "gần",
+                "thú vị"
+            ],
+            "rượu": [],
+            "hố": [
+                "thực sự"
+            ],
+            "câu lạc bộ": [
+                "nhỏ"
+            ],
+            "quán bar": [
+                "tuyệt vời"
+            ],
+            "bữa tiệc": [
+                "đặc biệt"
+            ],
+            "vũ công": [
+                "chuyên nghiệp"
+            ],
+            "câu lạc": [
+                "tuyệt vời",
+                "nhất"
+            ],
+            "quầy bar": [
+                "thoải mái"
+            ],
+            "túi tiền": [
+                "thoải mái"
+            ],
+            "dj": [
+                "lịch sự"
+            ],
+            "sàn nhảy": [],
+            "bàn bida": [],
+            "hút thuốc lá": [],
+            "shisha": [
+                "sẵn"
+            ],
+            "chuyến đi": [],
+            "nhà vệ sinh": [
+                "sạch sẽ"
+            ],
+            "an ninh": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nơi": 1.5,
+            "nhân viên": 3.5,
+            "dịch vụ": 4.0,
+            "âm nhạc": 7.0,
+            "địa điểm": 2.5,
+            "giá": 1.5,
+            "không khí": 2.5,
+            "thanh": 2.5,
+            "đồ uống": 2.5,
+            "bia": 1,
+            "bầu không khí": 2,
+            "khách sạn": 1,
+            "rượu": 1,
+            "hố": 1,
+            "câu lạc bộ": 1,
+            "quán bar": 1,
+            "bữa tiệc": 1,
+            "vũ công": 1,
+            "câu lạc": 1,
+            "quầy bar": 1,
+            "túi tiền": 1,
+            "dj": 1,
+            "sàn nhảy": 1,
+            "bàn bida": 1,
+            "hút thuốc lá": 1,
+            "shisha": 1,
+            "chuyến đi": 1,
+            "nhà vệ sinh": 1,
+            "an ninh": 1
+        }
     },
     {
         "attraction_name": "Apocalypse Now Bar",
@@ -229,7 +392,144 @@
             "https://www.tripadvisor.com/Attraction_Review-g294212-d325870-Reviews-Beijing_Aquarium-Beijing.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or20-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or10-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or10-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "sàn nhảy": 0.9955843657371588,
+            "vườn": 0.6175212226808071,
+            "bia": 0.5479947738349438,
+            "quán bar": 0.7761180074303411,
+            "club": 0.6979027503402904,
+            "nhạc": 0.8884993947576731,
+            "khiêu vũ": 0.9715103674679995,
+            "không khí": -0.9452845014166087,
+            "bữa tiệc": 0.8737692800350487,
+            "đồ uống": 0.9955847624805756,
+            "giá cả": 0.926527634418259,
+            "quán": 0.9900665051148584,
+            "phong cách": 0.949598335660994,
+            "âm nhạc": 0.9954571573936846,
+            "trải nghiệm": 0.7975688502192497,
+            "nhân viên": 0.7793211768075707,
+            "dịch bệnh": 0.5642641428858042,
+            "dịch vụ thì": 0.9954343193676323,
+            "vị trí": 0.9299901640042663,
+            "lễ tình nhân": 0.9671971946954727,
+            "hoa": 0.9954482252942398,
+            "ly cocktail": 0.9932165071368217
+        },
+        "dicts_adj": {
+            "sàn nhảy": [
+                "đẹp"
+            ],
+            "vườn": [
+                "rộng rãi"
+            ],
+            "bia": [
+                "rộng rãi"
+            ],
+            "quán bar": [
+                "thoải mái",
+                "hơn",
+                "ít",
+                "hơn"
+            ],
+            "club": [
+                "thoải mái",
+                "hơn",
+                "ít",
+                "hơn"
+            ],
+            "nhạc": [
+                "tuyệt vời",
+                "trong lành"
+            ],
+            "khiêu vũ": [
+                "tuyệt vời"
+            ],
+            "không khí": [
+                "tuyệt vời",
+                "trong lành"
+            ],
+            "bữa tiệc": [
+                "ngon"
+            ],
+            "đồ uống": [
+                "ngon"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "hợp lý"
+            ],
+            "quán": [
+                "vui",
+                "ngon"
+            ],
+            "phong cách": [
+                "vui"
+            ],
+            "âm nhạc": [
+                "tốt",
+                "tuyệt nơi",
+                "tốt",
+                "to",
+                "nặng",
+                "đắt",
+                "tuyệt vời",
+                "vui",
+                "cùng",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "trong lành",
+                "có thể",
+                "vui",
+                "cùng"
+            ],
+            "dịch bệnh": [],
+            "dịch vụ thì": [
+                "tuyệt vời"
+            ],
+            "vị trí": [
+                "tốt",
+                "muộn"
+            ],
+            "lễ tình nhân": [],
+            "hoa": [
+                "tuyệt vời"
+            ],
+            "ly cocktail": [
+                "suốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "sàn nhảy": 1,
+            "vườn": 1,
+            "bia": 1,
+            "quán bar": 2,
+            "club": 1,
+            "nhạc": 2,
+            "khiêu vũ": 1,
+            "không khí": 2,
+            "bữa tiệc": 1,
+            "đồ uống": 1,
+            "giá cả": 1.5,
+            "quán": 1.5,
+            "phong cách": 1,
+            "âm nhạc": 2.5,
+            "trải nghiệm": 1,
+            "nhân viên": 2.0,
+            "dịch bệnh": 1,
+            "dịch vụ thì": 0.5,
+            "vị trí": 0.5,
+            "lễ tình nhân": 0.5,
+            "hoa": 0.5,
+            "ly cocktail": 0.5
+        }
     },
     {
         "attraction_name": "Apocalypse Now Bar",
@@ -352,7 +652,113 @@
             "https://www.tripadvisor.com/Attraction_Review-g48254-d2007536-Reviews-Orange_County_Choppers-Newburgh_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or30-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or20-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or20-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khách sạn": -0.9056897857226431,
+            "đồ uống": 0.7104674517953148,
+            "câu lạc bộ": -0.585753460880369,
+            "khu vườn": 0.9896359634585679,
+            "ly rượu": 0.9711229614913464,
+            "nhân viên": 0.7052667215078449,
+            "người": 0.9955442934297025,
+            "ngày": 0.9955762351746671,
+            "quán bar": 0.934237762587145,
+            "vườn": 0.5110828196629882,
+            "tầm nhìn": 0.587588689639233,
+            "say rượu": 0.9955853067222051,
+            "âm nhạc": 0.9346904899866786,
+            "trò chơi": 0.5441636238247156,
+            "bài hát": 0.9921517804032192,
+            "nhạc": 0.5,
+            "địa điểm": 0.5
+        },
+        "dicts_adj": {
+            "khách sạn": [
+                "cuối cùng"
+            ],
+            "đồ uống": [
+                "cuối cùng",
+                "rẻ"
+            ],
+            "câu lạc bộ": [
+                "lớn",
+                "bận rộn",
+                "ồn ào",
+                "đẹp",
+                "nhiều",
+                "dễ"
+            ],
+            "khu vườn": [],
+            "ly rượu": [
+                "chắc chắn",
+                "nhiều",
+                "tốt",
+                "hơn"
+            ],
+            "nhân viên": [
+                "khác",
+                "nhỏ",
+                "thân thiện"
+            ],
+            "người": [
+                "tuyệt vời"
+            ],
+            "ngày": [
+                "tuyệt vời"
+            ],
+            "quán bar": [
+                "tuyệt",
+                "nhiều",
+                "ồn ào",
+                "Thực sự"
+            ],
+            "vườn": [
+                "ít",
+                "hơn"
+            ],
+            "tầm nhìn": [
+                "đẹp",
+                "hơn"
+            ],
+            "say rượu": [
+                "nhiều",
+                "vui"
+            ],
+            "âm nhạc": [
+                "nhỏ",
+                "hay",
+                "vui vẻ"
+            ],
+            "trò chơi": [
+                "nhỏ"
+            ],
+            "bài hát": [
+                "bất kỳ"
+            ],
+            "nhạc": [],
+            "địa điểm": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khách sạn": 0.5,
+            "đồ uống": 1.5,
+            "câu lạc bộ": 1.0,
+            "khu vườn": 0.5,
+            "ly rượu": 0.5,
+            "nhân viên": 1.5,
+            "người": 0.5,
+            "ngày": 0.5,
+            "quán bar": 1.0,
+            "vườn": 0.5,
+            "tầm nhìn": 0.5,
+            "say rượu": 0.5,
+            "âm nhạc": 1.0,
+            "trò chơi": 0.5,
+            "bài hát": 0.5,
+            "nhạc": 0.5,
+            "địa điểm": 0.5
+        }
     },
     {
         "attraction_name": "Apocalypse Now Bar",
@@ -464,7 +870,159 @@
             "https://www.tripadvisor.com/Attraction_Review-g297576-d1085317-Reviews-Batumi_Botanical_Gardens-Batumi_Adjara_Region.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or40-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or30-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or30-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "âm nhạc": 0.953975815128716,
+            "dịch vụ": 0.9391020393231884,
+            "câu lạc bộ": 0.9762947729517084,
+            "giá cả": 0.97586141503416,
+            "bầu không khí": -0.9695206782198511,
+            "thái độ": -0.06771271117031574,
+            "địa ngục": 0.5,
+            "lao động": -0.9751932146609761,
+            "đông nam á": 0.8737692800350487,
+            "âm nhạc khiêu vũ": -0.3386444989591837,
+            "đồ uống": 0.04609513786272146,
+            "môi trường": -0.9281913624145091,
+            "nhận hàng": -0.9072442641481757,
+            "âm nhạc quốc tế": 0.8737692800350487,
+            "không khí": -0.06478949566371739,
+            "trò chơi": 0.6868846400175244,
+            "không gian": 0.8737692800350487,
+            "nhân viên": 0.9947157247677549,
+            "đám đông": 0.9750582947162911,
+            "người phục vụ": 0.9946413508150727,
+            "bàn": 0.5599696673452854,
+            "bida": 0.5220689373090863,
+            "quán bar": 0.991918760468252,
+            "thức ăn": 0.9955938262864947,
+            "bóng bàn": 0.5,
+            "câu lạc bộ đêm": 0.9954573176801205
+        },
+        "dicts_adj": {
+            "âm nhạc": [
+                "tốt",
+                "nhiều",
+                "đẹp",
+                "tuyệt vời",
+                "hay",
+                "chuyên nghiệp",
+                "ngon",
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "nhiều",
+                "đẹp",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "câu lạc bộ": [
+                "tuyệt vời",
+                "hay",
+                "chuyên nghiệp",
+                "an toàn"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "bầu không khí": [
+                "tốt",
+                "tuyệt vời"
+            ],
+            "thái độ": [
+                "khó chịu"
+            ],
+            "địa ngục": [],
+            "lao động": [
+                "tệ",
+                "nhất"
+            ],
+            "đông nam á": [
+                "tệ",
+                "nhất"
+            ],
+            "âm nhạc khiêu vũ": [],
+            "đồ uống": [
+                "đắt",
+                "ngon"
+            ],
+            "môi trường": [],
+            "nhận hàng": [],
+            "âm nhạc quốc tế": [
+                "tuyệt",
+                "nhiều"
+            ],
+            "không khí": [
+                "tuyệt",
+                "nhiều"
+            ],
+            "trò chơi": [
+                "nhiều"
+            ],
+            "không gian": [
+                "nhiều"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "ngon",
+                "thân thiện",
+                "đẹp",
+                "nhất"
+            ],
+            "đám đông": [
+                "tốt"
+            ],
+            "người phục vụ": [
+                "thân thiện",
+                "nhanh chóng"
+            ],
+            "bàn": [
+                "giỏi"
+            ],
+            "bida": [
+                "giỏi"
+            ],
+            "quán bar": [],
+            "thức ăn": [
+                "ngon"
+            ],
+            "bóng bàn": [],
+            "câu lạc bộ đêm": [
+                "tuyệt vời",
+                "nhất"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "âm nhạc": 3.0,
+            "dịch vụ": 1.5,
+            "câu lạc bộ": 1.0,
+            "giá cả": 0.5,
+            "bầu không khí": 1.0,
+            "thái độ": 0.5,
+            "địa ngục": 0.5,
+            "lao động": 0.5,
+            "đông nam á": 0.5,
+            "âm nhạc khiêu vũ": 0.5,
+            "đồ uống": 1.0,
+            "môi trường": 0.5,
+            "nhận hàng": 0.5,
+            "âm nhạc quốc tế": 0.5,
+            "không khí": 0.5,
+            "trò chơi": 1.0,
+            "không gian": 0.5,
+            "nhân viên": 1.5,
+            "đám đông": 0.5,
+            "người phục vụ": 0.5,
+            "bàn": 0.5,
+            "bida": 1.0,
+            "quán bar": 0.5,
+            "thức ăn": 0.5,
+            "bóng bàn": 0.5,
+            "câu lạc bộ đêm": 0.5
+        }
     },
     {
         "attraction_name": "Apocalypse Now Bar",
@@ -577,7 +1135,159 @@
             "https://www.tripadvisor.com/Attraction_Review-g189415-d8445829-Reviews-Nea_Chora_Beach-Chania_Town_Chania_Prefecture_Crete.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or50-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or40-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or40-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quán bar": 0.7465272896952229,
+            "bữa tiệc đêm": 0.5,
+            "âm nhạc đội ngũ nhân viên": 0.8146065771579742,
+            "dj": 0.9142851499297345,
+            "sàn nhảy đông": 0.8311816956847906,
+            "âm nhạc": 0.7532019603822846,
+            "đồ ăn": 0.9947031444171444,
+            "tuyệt": 0.9950335097964853,
+            "quầy bar": 0.5,
+            "nhân viên": 0.5018974488567827,
+            "thể thao": 0.5,
+            "môi trường": 0.8737692800350487,
+            "bầu không khí": -0.9696875442750752,
+            "món nấu ăn": 0.9954942002077587,
+            "bar": 0.8737692800350487,
+            "nhan vien": 0.9955188620951958,
+            "mon an": 0.9955922511289828,
+            "cocktail": 0.995539442053996,
+            "vũ trường": 0.9895781434606761,
+            "bộ sưu": 0.994586585322395,
+            "bài hát": 0.9950957868713886,
+            "sống động": 0.9955639674444683,
+            "rượu": 0.5,
+            "người quản lý": 0.5938143134117126,
+            "đồ uống": 0.5,
+            "quán": 0.5,
+            "dịch vụ": 0.17390868050279096,
+            "âm nhạc hip": 0.9955547307617962,
+            "câu lạc bộ": 0.9937853619921952
+        },
+        "dicts_adj": {
+            "quán bar": [
+                "tuyệt",
+                "tuyệt vời",
+                "rõ ràng",
+                "trung thực",
+                "tốt",
+                "khác"
+            ],
+            "bữa tiệc đêm": [],
+            "âm nhạc đội ngũ nhân viên": [],
+            "dj": [
+                "giỏi",
+                "nhất",
+                "tuyệt vời"
+            ],
+            "sàn nhảy đông": [
+                "đông đúc"
+            ],
+            "âm nhạc": [
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "tuyệt": [
+                "tuyệt vời"
+            ],
+            "quầy bar": [],
+            "nhân viên": [
+                "tuyệt vời",
+                "thân thiện",
+                "thân thiện",
+                "tuyệt vời",
+                "khó chịu"
+            ],
+            "thể thao": [],
+            "môi trường": [
+                "tuyệt vời"
+            ],
+            "bầu không khí": [
+                "tốt"
+            ],
+            "món nấu ăn": [
+                "ngon"
+            ],
+            "bar": [
+                "ngon"
+            ],
+            "nhan vien": [
+                "ngon"
+            ],
+            "mon an": [
+                "ngon"
+            ],
+            "cocktail": [
+                "ngon",
+                "thú vị",
+                "hơn"
+            ],
+            "vũ trường": [
+                "hay"
+            ],
+            "bộ sưu": [
+                "hay"
+            ],
+            "bài hát": [
+                "hay"
+            ],
+            "sống động": [],
+            "rượu": [],
+            "người quản lý": [
+                "rõ ràng"
+            ],
+            "đồ uống": [],
+            "quán": [],
+            "dịch vụ": [
+                "tốt",
+                "hơn",
+                "tốt"
+            ],
+            "âm nhạc hip": [
+                "tuyệt vời"
+            ],
+            "câu lạc bộ": [
+                "vui vẻ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quán bar": 2.0,
+            "bữa tiệc đêm": 0.5,
+            "âm nhạc đội ngũ nhân viên": 0.5,
+            "dj": 0.5,
+            "sàn nhảy đông": 0.5,
+            "âm nhạc": 1.0,
+            "đồ ăn": 0.5,
+            "tuyệt": 0.5,
+            "quầy bar": 1.5,
+            "nhân viên": 3.5,
+            "thể thao": 0.5,
+            "môi trường": 0.5,
+            "bầu không khí": 0.5,
+            "món nấu ăn": 0.5,
+            "bar": 0.5,
+            "nhan vien": 0.5,
+            "mon an": 0.5,
+            "cocktail": 0.5,
+            "vũ trường": 0.5,
+            "bộ sưu": 0.5,
+            "bài hát": 0.5,
+            "sống động": 0.5,
+            "rượu": 0.5,
+            "người quản lý": 0.5,
+            "đồ uống": 0.5,
+            "quán": 0.5,
+            "dịch vụ": 1.0,
+            "âm nhạc hip": 0.5,
+            "câu lạc bộ": 0.5
+        }
     },
     {
         "attraction_name": "Apocalypse Now Bar",
@@ -700,7 +1410,134 @@
             "https://www.tripadvisor.com/Attraction_Review-g60898-d16734555-Reviews-Universoul_Circus-Atlanta_Georgia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or60-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or50-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or50-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bầu không khí": 0.028586875298060477,
+            "âm nhạc": 0.8511779435066273,
+            "nhân viên": 0.8223619153173383,
+            "cocktail": 0.8737692800350487,
+            "dịch vụ": 0.9088953985134139,
+            "đồ uống": 0.9084674633195391,
+            "vũ trường": 0.747713053773623,
+            "giá": 0.950129260745598,
+            "dj": 0.8737692800350487,
+            "không gian": -0.307367080822587,
+            "âm thanh": 0.5,
+            "ánh sáng": 0.5,
+            "câu cá": 0.5022745467722416,
+            "giá cả": 0.9741393389704172,
+            "câu lạc bộ": 0.27291388623416424,
+            "quán bar": 0.373241278459318,
+            "khiêu vũ": -0.9699055757373571,
+            "trò chơi giải trí": 0.9926032669609413
+        },
+        "dicts_adj": {
+            "bầu không khí": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "âm nhạc": [
+                "tuyệt vời",
+                "vui vẻ",
+                "ổn",
+                "tốt",
+                "tốt",
+                "đủ",
+                "cùng",
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "chăm chỉ",
+                "hoàn hảo",
+                "tốt",
+                "thân thiện",
+                "tốt",
+                "đặc biệt",
+                "thực sự"
+            ],
+            "cocktail": [
+                "nhiều",
+                "ngon",
+                "nhiều"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "tốt",
+                "thực sự",
+                "tốt",
+                "tốt",
+                "đủ",
+                "cùng",
+                "tốt"
+            ],
+            "đồ uống": [
+                "vui vẻ",
+                "hợp lý",
+                "hợp lý",
+                "đầy đủ",
+                "suốt"
+            ],
+            "vũ trường": [
+                "trực tiếp",
+                "tốt"
+            ],
+            "giá": [
+                "hợp lý",
+                "tốt",
+                "sớm"
+            ],
+            "dj": [
+                "tuyệt vời"
+            ],
+            "không gian": [
+                "khiêu vũ đủ",
+                "rộng rãi"
+            ],
+            "âm thanh": [],
+            "ánh sáng": [],
+            "câu cá": [],
+            "giá cả": [
+                "hợp lý",
+                "đầy đủ"
+            ],
+            "câu lạc bộ": [
+                "hơn"
+            ],
+            "quán bar": [
+                "đẹp",
+                "lâu đời",
+                "nhất"
+            ],
+            "khiêu vũ": [
+                "điên"
+            ],
+            "trò chơi giải trí": [
+                "suốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bầu không khí": 1.0,
+            "âm nhạc": 3.0,
+            "nhân viên": 3.0,
+            "cocktail": 0.5,
+            "dịch vụ": 2.5,
+            "đồ uống": 2.0,
+            "vũ trường": 1.0,
+            "giá": 1.0,
+            "dj": 0.5,
+            "không gian": 0.5,
+            "âm thanh": 0.5,
+            "ánh sáng": 0.5,
+            "câu cá": 0.5,
+            "giá cả": 0.5,
+            "câu lạc bộ": 0.5,
+            "quán bar": 1.0,
+            "khiêu vũ": 0.5,
+            "trò chơi giải trí": 0.5
+        }
     },
     {
         "attraction_name": "Apocalypse Now Bar",
@@ -813,7 +1650,148 @@
             "https://www.tripadvisor.com/Attraction_Review-g28970-d4427555-Reviews-The_Bullpen-Washington_DC_District_of_Columbia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or70-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or60-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or60-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thanh": 0.9953731339192018,
+            "nhạc": 0.9914070024969988,
+            "thức ăn": 0.9954645546386018,
+            "dịch vụ": 0.8769220727263018,
+            "nhân viên": 0.871221986238379,
+            "cuộc sống về đêm": 0.9822798520326614,
+            "đồ ăn": 0.8737692800350487,
+            "bóng đá mini": 0.5,
+            "bia": 0.5,
+            "người nước ngoài": 0.5,
+            "trải nghiệm": 0.9952929429709911,
+            "quán bar": 0.5,
+            "chỗ": 0.5149045828729868,
+            "cơ sở": -0.8764120214618742,
+            "âm thanh": 0.8737692800350487,
+            "phố bùi viện": 0.8737692800350487,
+            "sàn nhảy": 0.9647973091341555,
+            "âm nhạc": 0.7477841808868106,
+            "kỷ niệm sinh nhật": 0.8100714981555939,
+            "câu lạc bộ": 0.9954211096628569,
+            "đồ uống": 0.9935130538069643,
+            "không khí": 0.8737692800350487,
+            "người quản lý": 0.9670938127674162,
+            "trò chơi": 0.9920977854635566,
+            "nhân": 0.9955673977383412
+        },
+        "dicts_adj": {
+            "thanh": [],
+            "nhạc": [
+                "tốt"
+            ],
+            "thức ăn": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "thân thiện",
+                "muộn",
+                "nhiều",
+                "xinh đẹp",
+                "tốt",
+                "tốt",
+                "đông",
+                "cao",
+                "cao"
+            ],
+            "nhân viên": [
+                "tuyệt vời",
+                "thân thiện",
+                "muộn",
+                "nhiều",
+                "xinh đẹp",
+                "nhiều",
+                "bận rộn",
+                "dễ thương"
+            ],
+            "cuộc sống về đêm": [],
+            "đồ ăn": [
+                "thực sự",
+                "ngon Có",
+                "nhiều"
+            ],
+            "bóng đá mini": [],
+            "bia": [],
+            "người nước ngoài": [],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "quán bar": [],
+            "chỗ": [
+                "tại chỗ"
+            ],
+            "cơ sở": [
+                "lâu đời",
+                "nổi tiếng"
+            ],
+            "âm thanh": [
+                "đông đúc",
+                "dễ chịu"
+            ],
+            "phố bùi viện": [
+                "đông đúc",
+                "dễ chịu"
+            ],
+            "sàn nhảy": [
+                "nhiều",
+                "vui vẻ"
+            ],
+            "âm nhạc": [],
+            "kỷ niệm sinh nhật": [],
+            "câu lạc bộ": [
+                "tuyệt vời"
+            ],
+            "đồ uống": [
+                "nhanh",
+                "phải"
+            ],
+            "không khí": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "người quản lý": [
+                "dễ thương"
+            ],
+            "trò chơi": [
+                "Đặc biệt"
+            ],
+            "nhân": [
+                "tuyệt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thanh": 0.5,
+            "nhạc": 1.0,
+            "thức ăn": 0.5,
+            "dịch vụ": 1.5,
+            "nhân viên": 2.5,
+            "cuộc sống về đêm": 0.5,
+            "đồ ăn": 0.5,
+            "bóng đá mini": 0.5,
+            "bia": 0.5,
+            "người nước ngoài": 0.5,
+            "trải nghiệm": 0.5,
+            "quán bar": 0.5,
+            "chỗ": 0.5,
+            "cơ sở": 0.5,
+            "âm thanh": 0.5,
+            "phố bùi viện": 0.5,
+            "sàn nhảy": 0.5,
+            "âm nhạc": 1.0,
+            "kỷ niệm sinh nhật": 0.5,
+            "câu lạc bộ": 0.5,
+            "đồ uống": 0.5,
+            "không khí": 0.5,
+            "người quản lý": 0.5,
+            "trò chơi": 0.5,
+            "nhân": 0.5
+        }
     },
     {
         "attraction_name": "Apocalypse Now Bar",
@@ -925,7 +1903,121 @@
             "https://www.tripadvisor.com/Attraction_Review-g60763-d502266-Reviews-Marquee_Nightclub-New_York_City_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or80-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or70-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or70-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quán bar": 0.41695360094308853,
+            "nhạc huyền diệu": 0.9955213883658871,
+            "câu lạc bộ": 0.9745294645545073,
+            "thời gian": 0.9953992126393132,
+            "âm nhạc": 0.9132113737481026,
+            "bầu không khí": 0.8833041973412037,
+            "đồ uống": 0.9955780064919963,
+            "đồ ăn": 0.9955971196177416,
+            "nhân viên": 0.8818100551078615,
+            "dịch vụ": 0.9190642459434457,
+            "ngày": 0.6637550219893456,
+            "người": 0.9955469421693124,
+            "nhạc": 0.9894198052934371,
+            "thức ăn": 0.9955244926386513,
+            "vodka": 0.5,
+            "chương trình khuyến": 0.5,
+            "trải nghiệm": 0.98839331115596,
+            "không gian": 0.8737692800350487,
+            "sàn": 0.9834433624055237,
+            "trò chơi": 0.5
+        },
+        "dicts_adj": {
+            "quán bar": [
+                "dài"
+            ],
+            "nhạc huyền diệu": [
+                "gần",
+                "vui",
+                "đúng"
+            ],
+            "câu lạc bộ": [
+                "tốt",
+                "thân thiện"
+            ],
+            "thời gian": [
+                "tuyệt vời"
+            ],
+            "âm nhạc": [
+                "nhiều",
+                "hay",
+                "tốt",
+                "tuyệt vời",
+                "tuyệt vời",
+                "vui vẻ"
+            ],
+            "bầu không khí": [
+                "nhiều"
+            ],
+            "đồ uống": [
+                "ngon",
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "tuyệt"
+            ],
+            "nhân viên": [
+                "tốt bụng",
+                "tốt",
+                "tốt",
+                "tốt",
+                "thân thiện",
+                "vui vẻ"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "tuyệt vời"
+            ],
+            "ngày": [],
+            "người": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "nhạc": [],
+            "thức ăn": [
+                "tuyệt vời"
+            ],
+            "vodka": [],
+            "chương trình khuyến": [],
+            "trải nghiệm": [
+                "thú vị"
+            ],
+            "không gian": [
+                "tốt"
+            ],
+            "sàn": [
+                "tốt"
+            ],
+            "trò chơi": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quán bar": 0.5,
+            "nhạc huyền diệu": 0.5,
+            "câu lạc bộ": 1.0,
+            "thời gian": 0.5,
+            "âm nhạc": 3.0,
+            "bầu không khí": 0.5,
+            "đồ uống": 1.0,
+            "đồ ăn": 0.5,
+            "nhân viên": 3.0,
+            "dịch vụ": 1.0,
+            "ngày": 0.5,
+            "người": 0.5,
+            "nhạc": 0.5,
+            "thức ăn": 0.5,
+            "vodka": 0.5,
+            "chương trình khuyến": 0.5,
+            "trải nghiệm": 0.5,
+            "không gian": 0.5,
+            "sàn": 0.5,
+            "trò chơi": 0.5
+        }
     },
     {
         "attraction_name": "Apocalypse Now Bar",
@@ -1037,7 +2129,135 @@
             "https://www.tripadvisor.com/Attraction_Review-g51909-d14767882-Reviews-Hood_River_Waterfront_Park-Hood_River_Oregon.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or90-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or80-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or80-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quán bar": 0.8737692800350487,
+            "nhạc": 0.9955141313839704,
+            "người dân địa phương": 0.5,
+            "người nước ngoài": 0.5,
+            "nhân viên": 0.991233029422195,
+            "bài hát": 0.9955897618201561,
+            "sự kiện": 0.5335547467693686,
+            "câu lạc bộ": 0.34893163895079243,
+            "đồ uống": 0.9916225921770092,
+            "âm nhạc": 0.9688543167547323,
+            "bia": 0.5,
+            "giao lưu": 0.5,
+            "giá": 0.7722858327906579,
+            "không gian khiêu vũ": 0.9949240040732548,
+            "món xúc xích": 0.5,
+            "sườn heo": 0.5,
+            "bánh mì": 0.5,
+            "không khí": -0.5971168838441372,
+            "thức ăn": 0.995587985496968,
+            "buổi biểu diễn": 0.7432094914838672,
+            "ban nhạc biểu diễn": 0.5,
+            "dj": 0.8249137261882424,
+            "sàn nhảy": 0.9930716378148645,
+            "đồ ăn": 0.5,
+            "người phục vụ": 0.9935316806077026
+        },
+        "dicts_adj": {
+            "quán bar": [
+                "lớn",
+                "dài"
+            ],
+            "nhạc": [
+                "hay"
+            ],
+            "người dân địa phương": [],
+            "người nước ngoài": [],
+            "nhân viên": [
+                "thân thiện",
+                "nhất",
+                "nhanh chóng",
+                "nhanh chóng"
+            ],
+            "bài hát": [],
+            "sự kiện": [],
+            "câu lạc bộ": [
+                "khác",
+                "nhiều",
+                "khác",
+                "khác",
+                "tuyệt vời"
+            ],
+            "đồ uống": [
+                "hợp lý",
+                "tuyệt"
+            ],
+            "âm nhạc": [
+                "đông",
+                "hay",
+                "nhất",
+                "tuyệt vời",
+                "vui vẻ",
+                "thú vị",
+                "nhiều"
+            ],
+            "bia": [],
+            "giao lưu": [],
+            "giá": [
+                "hợp lý",
+                "đắt"
+            ],
+            "không gian khiêu vũ": [
+                "tuyệt vời"
+            ],
+            "món xúc xích": [],
+            "sườn heo": [],
+            "bánh mì": [],
+            "không khí": [
+                "tuyệt vời"
+            ],
+            "thức ăn": [
+                "ngon"
+            ],
+            "buổi biểu diễn": [
+                "trực tiếp"
+            ],
+            "ban nhạc biểu diễn": [],
+            "dj": [
+                "mới",
+                "hơn"
+            ],
+            "sàn nhảy": [
+                "vui vẻ"
+            ],
+            "đồ ăn": [],
+            "người phục vụ": [
+                "thân thiện"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quán bar": 0.5,
+            "nhạc": 0.5,
+            "người dân địa phương": 1.0,
+            "người nước ngoài": 1.0,
+            "nhân viên": 1.5,
+            "bài hát": 0.5,
+            "sự kiện": 0.5,
+            "câu lạc bộ": 1.5,
+            "đồ uống": 1.0,
+            "âm nhạc": 2.5,
+            "bia": 0.5,
+            "giao lưu": 0.5,
+            "giá": 1.0,
+            "không gian khiêu vũ": 0.5,
+            "món xúc xích": 0.5,
+            "sườn heo": 0.5,
+            "bánh mì": 0.5,
+            "không khí": 0.5,
+            "thức ăn": 0.5,
+            "buổi biểu diễn": 0.5,
+            "ban nhạc biểu diễn": 0.5,
+            "dj": 0.5,
+            "sàn nhảy": 0.5,
+            "đồ ăn": 0.5,
+            "người phục vụ": 0.5
+        }
     },
     {
         "attraction_name": "Apocalypse Now Bar",
@@ -1149,6 +2369,192 @@
             "https://www.tripadvisor.com/Attraction_Review-g51956-d12562735-Reviews-Short_Sands_Beach-Manzanita_Oregon.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or100-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or90-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d7109031-Reviews-or90-Apocalypse_Now_Bar-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "âm nhạc": 0.8774473668696979,
+            "quầy bar": 0.5,
+            "khách sạn": 0.5,
+            "bia": 0.6274717869237065,
+            "giá": 0.2553801863040361,
+            "hiện trường": 0.9858998475829139,
+            "cô gái địa phương": 0.9901305434759706,
+            "quán bar": 0.9937463878886774,
+            "đồ uống": 0.4681897381863867,
+            "giá cả": 0.9011098151328042,
+            "đồ ăn nhẹ": 0.33021889575757085,
+            "hướng dẫn viên": 0.9214577749371529,
+            "nhân viên": 0.8737692800350487,
+            "giá cocktail": 0.8503610300831497,
+            "dj": 0.8737692800350487,
+            "bữa tiệc": 0.6715049932245165,
+            "câu lạc bộ": 0.5,
+            "khiêu vũ": -0.970542075112462,
+            "nhạc mỹ": 0.8737692800350487,
+            "nhà hàng": 0.503060482442379,
+            "câu lạc bộ tình dục": 0.8356410451233387,
+            "vũ trường": 0.5,
+            "gái mại dâm": 0.9104247838258743,
+            "chuyến thăm": 0.6335417181253433,
+            "người da trắng": 0.5390734449028969,
+            "quý cô": -0.4703542245551944,
+            "dịch vụ": 0.8737692800350487,
+            "an ninh": 0.9944896462839097,
+            "lẽ an ninh": 0.9945413181558251,
+            "người dân địa phương": 0.9948149158153683,
+            "bùi viện": 0.8033975862587491,
+            "mức giá": 0.9397825084161013
+        },
+        "dicts_adj": {
+            "âm nhạc": [
+                "đầy rẫy",
+                "khủng khiếp",
+                "đặc biệt",
+                "tuyệt vời",
+                "tuyệt vời",
+                "ồn ào",
+                "cùng",
+                "đông"
+            ],
+            "quầy bar": [],
+            "khách sạn": [],
+            "bia": [
+                "hợp lý"
+            ],
+            "giá": [
+                "hợp lý",
+                "cao",
+                "đầy",
+                "hợp lý",
+                "quốc tế",
+                "hoàn toàn"
+            ],
+            "hiện trường": [],
+            "cô gái địa phương": [
+                "cơ bản",
+                "dễ",
+                "xinh đẹp"
+            ],
+            "quán bar": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "đồ uống": [
+                "khác",
+                "đắt",
+                "khác",
+                "hợp lý",
+                "quốc tế"
+            ],
+            "giá cả": [
+                "tuyệt",
+                "khoảng",
+                "tuyệt",
+                "khác",
+                "thực sự"
+            ],
+            "đồ ăn nhẹ": [
+                "tuyệt",
+                "khoảng",
+                "tuyệt",
+                "khác",
+                "thực sự"
+            ],
+            "hướng dẫn viên": [],
+            "nhân viên": [
+                "thân thiện"
+            ],
+            "giá cocktail": [],
+            "dj": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "bữa tiệc": [
+                "muộn",
+                "nhanh chóng"
+            ],
+            "câu lạc bộ": [],
+            "khiêu vũ": [
+                "ồn ào",
+                "dài"
+            ],
+            "nhạc mỹ": [
+                "vui vẻ"
+            ],
+            "nhà hàng": [
+                "đàng hoàng"
+            ],
+            "câu lạc bộ tình dục": [
+                "hơn"
+            ],
+            "vũ trường": [],
+            "gái mại dâm": [
+                "nhiều"
+            ],
+            "chuyến thăm": [],
+            "người da trắng": [
+                "có thể"
+            ],
+            "quý cô": [
+                "đúng mực"
+            ],
+            "dịch vụ": [
+                "nhanh chóng"
+            ],
+            "an ninh": [
+                "vui vẻ"
+            ],
+            "lẽ an ninh": [
+                "vui vẻ"
+            ],
+            "người dân địa phương": [
+                "vui vẻ"
+            ],
+            "bùi viện": [
+                "hợp lý",
+                "quốc tế",
+                "nhiều",
+                "khác",
+                "cao"
+            ],
+            "mức giá": [
+                "hoàn toàn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "âm nhạc": 1.5,
+            "quầy bar": 0.5,
+            "khách sạn": 0.5,
+            "bia": 0.5,
+            "giá": 1.5,
+            "hiện trường": 0.5,
+            "cô gái địa phương": 0.5,
+            "quán bar": 1.0,
+            "đồ uống": 1.5,
+            "giá cả": 0.5,
+            "đồ ăn nhẹ": 0.5,
+            "hướng dẫn viên": 0.5,
+            "nhân viên": 0.5,
+            "giá cocktail": 0.5,
+            "dj": 0.5,
+            "bữa tiệc": 1.0,
+            "câu lạc bộ": 0.5,
+            "khiêu vũ": 0.5,
+            "nhạc mỹ": 0.5,
+            "nhà hàng": 0.5,
+            "câu lạc bộ tình dục": 0.5,
+            "vũ trường": 0.5,
+            "gái mại dâm": 0.5,
+            "chuyến thăm": 0.5,
+            "người da trắng": 0.5,
+            "quý cô": 0.5,
+            "dịch vụ": 0.5,
+            "an ninh": 0.5,
+            "lẽ an ninh": 0.5,
+            "người dân địa phương": 0.5,
+            "bùi viện": 0.5,
+            "mức giá": 0.5
+        }
     }
 ]

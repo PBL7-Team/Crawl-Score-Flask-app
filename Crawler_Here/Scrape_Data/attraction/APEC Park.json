@@ -96,6 +96,112 @@
             "https://www.tripadvisor.com/Attraction_Review-g274958-d17172141-Reviews-Baltic_Queen-Tallinn_Harju_County.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d17653598-Reviews-APEC_Park-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d17653598-Reviews-APEC_Park-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "vui chơi": 0.9950541775324382,
+            "không gian sinh hoạt": 0.9936135209864005,
+            "cộng đồng": 0.9950490422779694,
+            "đồ ăn": 0.9778988645412028,
+            "công viên": 0.848483889324901,
+            "hợp tác kinh tế": 0.8737692800350487,
+            "tượng đài": 0.8737692800350487,
+            "nền kinh tế": 0.5,
+            "bảo tàng": 0.8280592076480389,
+            "nhà máy": 0.5,
+            "cây xanh": 0.5,
+            "nền kinh": 0.5,
+            "bức tượng": 0.9917087911162525,
+            "giá": 0.9940993541385978,
+            "nghệ thuật": 0.9950981683214195,
+            "nền kinh tế apec": 0.8737692800350487,
+            "cầu rồng": 0.9143733804618629,
+            "trưng bày tượng": 0.5,
+            "ngôi chùa": 0.5,
+            "tráng lệ": 0.5,
+            "công viên nghệ thuật ấm": 0.5,
+            "tác phẩm điêu khắc": 0.5,
+            "sông": 0.5
+        },
+        "dicts_adj": {
+            "vui chơi": [
+                "rộng rãi",
+                "nhiều"
+            ],
+            "không gian sinh hoạt": [
+                "đẹp"
+            ],
+            "cộng đồng": [
+                "đẹp"
+            ],
+            "đồ ăn": [
+                "sạch sẽ"
+            ],
+            "công viên": [
+                "nhiều",
+                "hơn",
+                "độc đáo",
+                "đẹp"
+            ],
+            "hợp tác kinh tế": [
+                "chính thức"
+            ],
+            "tượng đài": [
+                "chính thức"
+            ],
+            "nền kinh tế": [],
+            "bảo tàng": [],
+            "nhà máy": [],
+            "cây xanh": [],
+            "nền kinh": [],
+            "bức tượng": [
+                "độc đáo"
+            ],
+            "giá": [
+                "độc đáo"
+            ],
+            "nghệ thuật": [
+                "độc đáo"
+            ],
+            "nền kinh tế apec": [
+                "độc đáo"
+            ],
+            "cầu rồng": [
+                "đẹp",
+                "gần"
+            ],
+            "trưng bày tượng": [],
+            "ngôi chùa": [],
+            "tráng lệ": [],
+            "công viên nghệ thuật ấm": [],
+            "tác phẩm điêu khắc": [],
+            "sông": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "vui chơi": 2,
+            "không gian sinh hoạt": 2,
+            "cộng đồng": 2,
+            "đồ ăn": 2,
+            "công viên": 4.5,
+            "hợp tác kinh tế": 1.5,
+            "tượng đài": 1.5,
+            "nền kinh tế": 1.5,
+            "bảo tàng": 1.5,
+            "nhà máy": 1.5,
+            "cây xanh": 1.5,
+            "nền kinh": 1.5,
+            "bức tượng": 1.5,
+            "giá": 1.5,
+            "nghệ thuật": 1.5,
+            "nền kinh tế apec": 1.5,
+            "cầu rồng": 1.5,
+            "trưng bày tượng": 0.5,
+            "ngôi chùa": 0.5,
+            "tráng lệ": 0.5,
+            "công viên nghệ thuật ấm": 1,
+            "tác phẩm điêu khắc": 1,
+            "sông": 1
+        }
     }
 ]

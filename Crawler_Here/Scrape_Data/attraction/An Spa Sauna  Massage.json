@@ -106,7 +106,202 @@
             "https://www.tripadvisor.com/Attraction_Review-g31796-d6936490-Reviews-Twin_Creek_Crystal_Mine-Mount_Ida_Arkansas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d15735854-Reviews-or10-An_Spa_Sauna_Massage-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15735854-Reviews-An_Spa_Sauna_Massage-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15735854-Reviews-An_Spa_Sauna_Massage-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.8684349052544514,
+            "dịch vụ": 0.7728907937287457,
+            "cho nơi": 0.9955327336792834,
+            "lễ tân": 0.9165183700621128,
+            "nhà trị liệu": 0.9952553789247759,
+            "massage": 0.8282933739745724,
+            "nhân viên": 0.7707893734332174,
+            "bữa ăn": 0.9765683717560023,
+            "thức ăn": 0.9956069768522866,
+            "môi trường": 0.9955648055765778,
+            "mát-xa và chiến": 0.9949156636139378,
+            "phẩm": 0.5,
+            "spa": 0.6868846400175244,
+            "bầu không khí": -0.975017940509133,
+            "cơ sở vật chất": 0.9940164088620804,
+            "dịch vụ mát-xa miễn phí": 0.5,
+            "phòng": 0.3043031626031734,
+            "mát-xa": 0.6949798131827265,
+            "trong phòng": 0.5,
+            "chỉ là": 0.45382714457809925,
+            "giá": 0.8120362666086294,
+            "cơ sở": 0.5030806679278612,
+            "quần áo": -0.9298574388958514,
+            "xô nước": -0.9616962322033942,
+            "phòng tắm": -0.2295606235275045,
+            "protein": -0.6252665109932423,
+            "sốc nhiệt": -0.2301226183772087,
+            "không gian": 0.9926950986264274,
+            "massage chân": -0.9221829170128331,
+            "bồn nước nóng": 0.5,
+            "điều hòa": -0.21060385927557945,
+            "chân cho tôi": 0.5,
+            "trước khi": 0.5,
+            "nhân viên lễ tân": 0.8737692800350487,
+            "tắm nước lạnh": 0.5
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời",
+                "hoàn toàn",
+                "khó chịu"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "cho nơi": [],
+            "lễ tân": [
+                "xuất sắc",
+                "Ít",
+                "hơn",
+                "mát",
+                "xa"
+            ],
+            "nhà trị liệu": [
+                "tuyệt vời",
+                "chuyên nghiệp",
+                "tuyệt vời"
+            ],
+            "massage": [
+                "thực sự",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "tốt",
+                "thân thiện",
+                "bất kỳ",
+                "khó",
+                "nhiều",
+                "đầy đủ",
+                "ít",
+                "hơn",
+                "công bằng"
+            ],
+            "bữa ăn": [
+                "Cuối cùng",
+                "nhẹ"
+            ],
+            "thức ăn": [
+                "ngon"
+            ],
+            "môi trường": [
+                "tuyệt vời"
+            ],
+            "mát-xa và chiến": [
+                "chiến lợi phẩm"
+            ],
+            "phẩm": [],
+            "spa": [
+                "đẹp"
+            ],
+            "bầu không khí": [
+                "đẹp"
+            ],
+            "cơ sở vật chất": [
+                "tốt"
+            ],
+            "dịch vụ mát-xa miễn phí": [],
+            "phòng": [
+                "ấm áp",
+                "tốt",
+                "nóng",
+                "ướt",
+                "Cuối cùng",
+                "khô",
+                "lý tưởng",
+                "khác"
+            ],
+            "mát-xa": [
+                "nhẹ",
+                "mệt mỏi",
+                "khác"
+            ],
+            "trong phòng": [],
+            "chỉ là": [
+                "nhẹ",
+                "mệt mỏi"
+            ],
+            "giá": [
+                "rẻ",
+                "hoàn toàn",
+                "đầy đủ"
+            ],
+            "cơ sở": [],
+            "quần áo": [
+                "nóng"
+            ],
+            "xô nước": [
+                "nóng"
+            ],
+            "phòng tắm": [
+                "khô",
+                "yếu"
+            ],
+            "protein": [
+                "nhỏ"
+            ],
+            "sốc nhiệt": [
+                "nhỏ"
+            ],
+            "không gian": [
+                "thích hợp"
+            ],
+            "massage chân": [],
+            "bồn nước nóng": [],
+            "điều hòa": [
+                "nguội"
+            ],
+            "chân cho tôi": [],
+            "trước khi": [],
+            "nhân viên lễ tân": [
+                "đáng kể"
+            ],
+            "tắm nước lạnh": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 5.5,
+            "dịch vụ": 4.5,
+            "cho nơi": 1.5,
+            "lễ tân": 2.5,
+            "nhà trị liệu": 2.5,
+            "massage": 3.5,
+            "nhân viên": 6.5,
+            "bữa ăn": 1.5,
+            "thức ăn": 1,
+            "môi trường": 1,
+            "mát-xa và chiến": 1,
+            "phẩm": 1,
+            "spa": 2,
+            "bầu không khí": 1,
+            "cơ sở vật chất": 1,
+            "dịch vụ mát-xa miễn phí": 1,
+            "phòng": 3,
+            "mát-xa": 2,
+            "trong phòng": 1,
+            "chỉ là": 1,
+            "giá": 2,
+            "cơ sở": 1,
+            "quần áo": 1,
+            "xô nước": 1,
+            "phòng tắm": 1,
+            "protein": 1,
+            "sốc nhiệt": 1,
+            "không gian": 1,
+            "massage chân": 1,
+            "bồn nước nóng": 1,
+            "điều hòa": 1,
+            "chân cho tôi": 1,
+            "trước khi": 1,
+            "nhân viên lễ tân": 1,
+            "tắm nước lạnh": 1
+        }
     },
     {
         "attraction_name": "An Spa Sauna & Massage",
@@ -219,7 +414,224 @@
             "https://www.tripadvisor.com/Attraction_Review-g49256-d4036084-Reviews-Destination_Fun-Kill_Devil_Hills_Outer_Banks_North_Carolina.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d15735854-Reviews-or20-An_Spa_Sauna_Massage-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15735854-Reviews-or10-An_Spa_Sauna_Massage-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15735854-Reviews-or10-An_Spa_Sauna_Massage-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.44709983766502276,
+            "quy trình": -0.8373111039400101,
+            "massage": 0.20202137698652223,
+            "cho lưng": 0.3641771264374256,
+            "viên": -0.027322671841830015,
+            "giá": -0.34672548398375513,
+            "cơ sở vật chất": -0.9759347995277494,
+            "khách sạn": 0.5,
+            "đá nóng": 0.5,
+            "massage đá nóng": 0.5,
+            "lễ tân": -0.6747649125172757,
+            "thảm họa": 0.2892391011118889,
+            "bể sục": 0.49245630390942097,
+            "phòng": 0.7841237777611241,
+            "trải nghiệm": -0.21007722294889392,
+            "trung tâm": -0.9685943834483624,
+            "spa": 0.6625542713154573,
+            "người quản lý lễ tân": 0.36245652846992016,
+            "dịch vụ": 0.19749627319397406,
+            "mát-xa mệt mỏi": -0.9716677662800066,
+            "buổi": 0.5,
+            "mát-xa phản xạ": 0.5,
+            "bàn chân": 0.5,
+            "kéo dài": 0.5,
+            "trước": 0.5,
+            "khi tẩy": 0.5,
+            "người": -0.9722809693776071,
+            "tòa nhà": 0.5,
+            "không khí": -0.9714714395813644,
+            "cho nơi": 0.9954537899466231,
+            "mát-xa rất tuyệt": 0.9955145922140218,
+            "chỉ có 1": 0.5,
+            "mát-xa vì điều": 0.5,
+            "hệ": -0.4183926829136908,
+            "côn trùng": 0.6787904088074962,
+            "tiệm massage có cơ sở vật chất": 0.992717073764652,
+            "sức khỏe": -0.7111215656623244,
+            "đồ ăn": 0.9955938832717948,
+            "khăn": 0.8737692800350487,
+            "thô lỗ": -0.9745410535251722,
+            "nhà hàng": 0.9952768255025148
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "ho",
+                "xấu",
+                "riêng",
+                "dài",
+                "suốt",
+                "sạch sẽ",
+                "thân thiện",
+                "cao"
+            ],
+            "quy trình": [
+                "sai"
+            ],
+            "massage": [
+                "sai"
+            ],
+            "cho lưng": [
+                "nóng"
+            ],
+            "viên": [
+                "nóng",
+                "Cuối cùng",
+                "nóng",
+                "nhanh chóng"
+            ],
+            "giá": [
+                "Định giá",
+                "muộn",
+                "cao"
+            ],
+            "cơ sở vật chất": [
+                "kém"
+            ],
+            "khách sạn": [],
+            "đá nóng": [],
+            "massage đá nóng": [],
+            "lễ tân": [
+                "sai",
+                "hoàn toàn",
+                "bối rối",
+                "hài lòng"
+            ],
+            "thảm họa": [
+                "cao"
+            ],
+            "bể sục": [],
+            "phòng": [
+                "sạch"
+            ],
+            "trải nghiệm": [
+                "nhất",
+                "gần",
+                "tốt",
+                "dài",
+                "tệ"
+            ],
+            "trung tâm": [
+                "nhất",
+                "gần"
+            ],
+            "spa": [
+                "nhất",
+                "gần",
+                "tuyệt vời",
+                "Chắc chắn"
+            ],
+            "người quản lý lễ tân": [],
+            "dịch vụ": [
+                "Rõ ràng",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tệ"
+            ],
+            "mát-xa mệt mỏi": [
+                "dài",
+                "suốt"
+            ],
+            "buổi": [],
+            "mát-xa phản xạ": [],
+            "bàn chân": [],
+            "kéo dài": [],
+            "trước": [],
+            "khi tẩy": [],
+            "người": [
+                "hài lòng"
+            ],
+            "tòa nhà": [],
+            "không khí": [
+                "thực sự",
+                "thoải mái"
+            ],
+            "cho nơi": [
+                "tuyệt vời"
+            ],
+            "mát-xa rất tuyệt": [
+                "tuyệt vời"
+            ],
+            "chỉ có 1": [],
+            "mát-xa vì điều": [],
+            "hệ": [
+                "tự nhiên",
+                "đặc biệt",
+                "xa"
+            ],
+            "côn trùng": [
+                "tự nhiên",
+                "đặc biệt",
+                "xa"
+            ],
+            "tiệm massage có cơ sở vật chất": [
+                "tốt"
+            ],
+            "sức khỏe": [],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "khăn": [
+                "sạch"
+            ],
+            "thô lỗ": [
+                "lãng phí"
+            ],
+            "nhà hàng": [
+                "May mắn",
+                "trực tuyến",
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 5.5,
+            "quy trình": 1,
+            "massage": 3,
+            "cho lưng": 1,
+            "viên": 2,
+            "giá": 2.5,
+            "cơ sở vật chất": 1,
+            "khách sạn": 1,
+            "đá nóng": 1,
+            "massage đá nóng": 1,
+            "lễ tân": 2.0,
+            "thảm họa": 1,
+            "bể sục": 0.5,
+            "phòng": 2.0,
+            "trải nghiệm": 2.5,
+            "trung tâm": 0.5,
+            "spa": 3.0,
+            "người quản lý lễ tân": 0.5,
+            "dịch vụ": 2.5,
+            "mát-xa mệt mỏi": 0.5,
+            "buổi": 1.0,
+            "mát-xa phản xạ": 0.5,
+            "bàn chân": 0.5,
+            "kéo dài": 0.5,
+            "trước": 0.5,
+            "khi tẩy": 0.5,
+            "người": 0.5,
+            "tòa nhà": 0.5,
+            "không khí": 0.5,
+            "cho nơi": 0.5,
+            "mát-xa rất tuyệt": 0.5,
+            "chỉ có 1": 0.5,
+            "mát-xa vì điều": 0.5,
+            "hệ": 0.5,
+            "côn trùng": 0.5,
+            "tiệm massage có cơ sở vật chất": 1,
+            "sức khỏe": 1,
+            "đồ ăn": 1.5,
+            "khăn": 1.5,
+            "thô lỗ": 1.5,
+            "nhà hàng": 1.5
+        }
     },
     {
         "attraction_name": "An Spa Sauna & Massage",
@@ -317,6 +729,127 @@
             "https://www.tripadvisor.com/Attraction_Review-g42579-d1867225-Reviews-Warner_Vineyards_Winery-Paw_Paw_Van_Buren_County_Michigan.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15735854-Reviews-or20-An_Spa_Sauna_Massage-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15735854-Reviews-or20-An_Spa_Sauna_Massage-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "kỹ năng": 0.8737692800350487,
+            "massage": 0.8694421575346496,
+            "tắm hơi": 0.9948816599790007,
+            "bữa": 0.9939559936756268,
+            "kỹ thuật": 0.5,
+            "nhân viên": 0.7578879975092908,
+            "dịch vụ": 0.7491795200233659,
+            "combo": 0.5536499982699752,
+            "trải nghiệm": 0.5,
+            "quán cà phê": 0.5,
+            "nhà hàng": 0.5,
+            "quán có": 0.8737692800350487,
+            "view": 0.9955734275475455,
+            "cảnh": 0.990967825287953,
+            "hoàng hôn": 0.9950587900239043,
+            "không gian": 0.9830077190417796,
+            "mẹo": 0.5202572606503963,
+            "chỗ": 0.5117208864539862,
+            "spa": 0.9336217452655546,
+            "đồ ăn": 0.8814307001108924,
+            "lễ tân": 0.9929326361161657
+        },
+        "dicts_adj": {
+            "kỹ năng": [
+                "tốt"
+            ],
+            "massage": [
+                "tốt",
+                "nhẹ",
+                "nhẹ",
+                "tuyệt vời"
+            ],
+            "tắm hơi": [
+                "thoải mái"
+            ],
+            "bữa": [
+                "cay",
+                "ngon"
+            ],
+            "kỹ thuật": [],
+            "nhân viên": [
+                "hài lòng",
+                "chuyên nghiệp",
+                "chu đáo"
+            ],
+            "dịch vụ": [
+                "nhẹ",
+                "chuyên nghiệp"
+            ],
+            "combo": [
+                "nhẹ"
+            ],
+            "trải nghiệm": [],
+            "quán cà phê": [],
+            "nhà hàng": [],
+            "quán có": [
+                "đẹp",
+                "lãng mạn",
+                "đặc biệt"
+            ],
+            "view": [
+                "đẹp",
+                "lãng mạn",
+                "đặc biệt"
+            ],
+            "cảnh": [
+                "từ từ",
+                "chill"
+            ],
+            "hoàng hôn": [
+                "từ từ",
+                "chill"
+            ],
+            "không gian": [
+                "mát"
+            ],
+            "mẹo": [
+                "nhỏ"
+            ],
+            "chỗ": [
+                "đặc biệt"
+            ],
+            "spa": [
+                "tuyệt vời",
+                "sẵn"
+            ],
+            "đồ ăn": [
+                "nhẹ",
+                "thơm",
+                "ngon"
+            ],
+            "lễ tân": [
+                "chu đáo"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "kỹ năng": 1,
+            "massage": 4,
+            "tắm hơi": 1,
+            "bữa": 1,
+            "kỹ thuật": 1,
+            "nhân viên": 3,
+            "dịch vụ": 3,
+            "combo": 1,
+            "trải nghiệm": 1,
+            "quán cà phê": 1,
+            "nhà hàng": 1,
+            "quán có": 1,
+            "view": 1,
+            "cảnh": 1,
+            "hoàng hôn": 1,
+            "không gian": 1,
+            "mẹo": 1,
+            "chỗ": 1,
+            "spa": 1,
+            "đồ ăn": 1,
+            "lễ tân": 1
+        }
     }
 ]

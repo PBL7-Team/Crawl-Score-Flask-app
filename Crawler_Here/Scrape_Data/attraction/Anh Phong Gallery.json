@@ -84,6 +84,74 @@
             "https://www.tripadvisor.com/Attraction_Review-g56110-d2356154-Reviews-Sylvan_Beach_Park-La_Porte_Texas.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d10920159-Reviews-Anh_Phong_Gallery-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d10920159-Reviews-Anh_Phong_Gallery-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "con phố": 0.298033544793725,
+            "nghệ thuật": 0.43003615946508944,
+            "phòng trưng bày": 0.4420328591368161,
+            "trung tâm mua sắm": 0.5,
+            "nghệ sĩ": 0.5,
+            "mỹ thuật": 0.5,
+            "tác phẩm": 0.09715082050145914,
+            "phố": 0.9825568014833456,
+            "hàng bông": 0.8737692800350487,
+            "giá": 0.18808902994108698,
+            "thư viện": -0.26030844869092107
+        },
+        "dicts_adj": {
+            "con phố": [
+                "giống"
+            ],
+            "nghệ thuật": [
+                "giống",
+                "khác biệt"
+            ],
+            "phòng trưng bày": [
+                "trẻ",
+                "thú vị",
+                "tốt",
+                "khác"
+            ],
+            "trung tâm mua sắm": [],
+            "nghệ sĩ": [],
+            "mỹ thuật": [],
+            "tác phẩm": [
+                "tốt",
+                "cao",
+                "nhất"
+            ],
+            "phố": [
+                "hợp lý",
+                "hơn",
+                "nhiều"
+            ],
+            "hàng bông": [
+                "khác biệt"
+            ],
+            "giá": [
+                "hợp lý",
+                "hơn",
+                "nhiều"
+            ],
+            "thư viện": [
+                "cao",
+                "nhất"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "con phố": 0.5,
+            "nghệ thuật": 0.5,
+            "phòng trưng bày": 0.5,
+            "trung tâm mua sắm": 0.5,
+            "nghệ sĩ": 0.5,
+            "mỹ thuật": 0.5,
+            "tác phẩm": 0.5,
+            "phố": 0.5,
+            "hàng bông": 0.5,
+            "giá": 0.5,
+            "thư viện": 0.5
+        }
     }
 ]

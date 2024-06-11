@@ -58,6 +58,43 @@
             "https://www.tripadvisor.com/Attraction_Review-g187895-d191156-Reviews-Giardino_di_Boboli-Florence_Tuscany.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g2549590-d26558441-Reviews-ARA_Bird_Garden-Phu_Loc_Phu_Loc_District_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g2549590-d26558441-Reviews-ARA_Bird_Garden-Phu_Loc_Phu_Loc_District_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "loài": 0.5,
+            "chim": 0.5966530055389739,
+            "trải nghiệm": 0.9951102529885247,
+            "khu bảo tồn": 0.5,
+            "khu nghỉ dưỡng": 0.5,
+            "vẹt": 0.49605254270136356,
+            "sống động": 0.9955904097296298
+        },
+        "dicts_adj": {
+            "loài": [],
+            "chim": [
+                "đầu tiên"
+            ],
+            "trải nghiệm": [
+                "chắc chắn"
+            ],
+            "khu bảo tồn": [],
+            "khu nghỉ dưỡng": [],
+            "vẹt": [
+                "dài"
+            ],
+            "sống động": [
+                "đẹp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "loài": 1.5,
+            "chim": 2.5,
+            "trải nghiệm": 1.5,
+            "khu bảo tồn": 1,
+            "khu nghỉ dưỡng": 1,
+            "vẹt": 1,
+            "sống động": 1
+        }
     }
 ]

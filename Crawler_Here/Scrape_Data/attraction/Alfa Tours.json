@@ -67,6 +67,112 @@
             "https://www.tripadvisor.com/Attraction_Review-g60524-d107402-Reviews-Jenny_Lake-Moran_Jackson_Hole_Wyoming.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d8046592-Reviews-Alfa_Tours-Nha_Trang_Khanh_Hoa_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d8046592-Reviews-Alfa_Tours-Nha_Trang_Khanh_Hoa_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.706409360980615,
+            "đường dây": 0.916218442376703,
+            "dịch vụ": -0.17633924982510507,
+            "đại lý du lịch": 0.5,
+            "họ": 0.5,
+            "tour du lịch": 0.7751459201099351,
+            "nha": 0.5,
+            "ngân": 0.5,
+            "giá cả": 0.6303394725546241,
+            "chuyến du ngoạn": 0.6748334318399429,
+            "chuyến du lịch": 0.9576937234960496,
+            "giá": 0.9793146126903594,
+            "chuyến đi": 0.995428081805585,
+            "hướng dẫn viên": 0.7474568718462251,
+            "hành trình": 0.9865904262987897,
+            "địa điểm": 0.9924146221019328,
+            "alfa tour": 0.9877371084876359,
+            "nha trang": 0.9142089910261954,
+            "trái tim": 0.9912089644931257,
+            "đội ngũ": 0.995403345907107,
+            "trải nghiệm": 0.019460182753391564
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "đầu tiên",
+                "hơn"
+            ],
+            "đường dây": [],
+            "dịch vụ": [],
+            "đại lý du lịch": [],
+            "họ": [],
+            "tour du lịch": [
+                "nhỏ",
+                "lớn"
+            ],
+            "nha": [],
+            "ngân": [],
+            "giá cả": [],
+            "chuyến du ngoạn": [],
+            "chuyến du lịch": [],
+            "giá": [
+                "hợp lý"
+            ],
+            "chuyến đi": [
+                "thú vị",
+                "khó",
+                "thân thiện",
+                "vui",
+                "cùng"
+            ],
+            "hướng dẫn viên": [
+                "đầu tiên",
+                "nhiều",
+                "tràn đầy"
+            ],
+            "hành trình": [
+                "tốt"
+            ],
+            "địa điểm": [
+                "tốt",
+                "nhiều",
+                "thú vị"
+            ],
+            "alfa tour": [],
+            "nha trang": [
+                "đầy",
+                "tuyệt vời",
+                "khác"
+            ],
+            "trái tim": [
+                "may mắn"
+            ],
+            "đội ngũ": [
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 0.5,
+            "đường dây": 0.5,
+            "dịch vụ": 1.0,
+            "đại lý du lịch": 0.5,
+            "họ": 0.5,
+            "tour du lịch": 0.5,
+            "nha": 0.5,
+            "ngân": 0.5,
+            "giá cả": 0.5,
+            "chuyến du ngoạn": 0.5,
+            "chuyến du lịch": 0.5,
+            "giá": 0.5,
+            "chuyến đi": 1.0,
+            "hướng dẫn viên": 1.0,
+            "hành trình": 0.5,
+            "địa điểm": 0.5,
+            "alfa tour": 0.5,
+            "nha trang": 0.5,
+            "trái tim": 0.5,
+            "đội ngũ": 0.5,
+            "trải nghiệm": 0.5
+        }
     }
 ]
