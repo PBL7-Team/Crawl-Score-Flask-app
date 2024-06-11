@@ -11,6 +11,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.metrics.pairwise import euclidean_distances
 import numpy as np
 
+CONTENT_BASED_DF = pd.read_csv('./content_base_score_df.csv', index_col=0)
+
 def get_new_contentbase_df():
     sentiment_df = pd.read_csv('./sentiment_value.csv')
     with open('./vi_clusters.json', 'r', encoding='utf-8') as f:
@@ -114,7 +116,7 @@ def find_cluster(cluster_dict, entity):
 
 # get_new_contentbase_df()
 def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
-    content_base_df = pd.read_csv('./content_base_score_df.csv', index_col=0)
+
     
     with open('./vi_clusters.json', 'r', encoding='utf-8') as f:
         clusters_dict = json.load(f)
@@ -131,7 +133,7 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
         in_cluster = find_cluster(clusters_dict, key)
         if in_cluster is None:
             comment_cluster_list.append(key)
-            content_base_df[key] = 0
+            CONTENT_BASED_DF[key] = 0
             storage_key_list.append(key)
         else:
             comment_cluster_list.append(in_cluster)
@@ -144,10 +146,10 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
 
     # Thêm các cột mới vào DataFrame nếu chưa tồn tại
     for proper_noun in list_proper_noun_feature:
-        if proper_noun not in content_base_df.columns:
-            content_base_df[proper_noun] = 0
+        if proper_noun not in CONTENT_BASED_DF.columns:
+            CONTENT_BASED_DF[proper_noun] = 0
     
-    filtered_df = content_base_df[comment_cluster_list]
+    filtered_df = CONTENT_BASED_DF[comment_cluster_list]
     len_n = len(filtered_df.columns)
     vector = [1] * len_n
     # print(vector)
