@@ -107,7 +107,178 @@
             "https://www.tripadvisor.com/Attraction_Review-g58466-d4283267-Reviews-Jetty_Island-Everett_Washington.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g1009804-d7950989-Reviews-or10-Dragon_Beach_Beach_Bar_Lounge-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d7950989-Reviews-Dragon_Beach_Beach_Bar_Lounge-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d7950989-Reviews-Dragon_Beach_Beach_Bar_Lounge-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bầu không khí": -0.4587111007422209,
+            "đồ ăn": 0.994895005307626,
+            "đồ uống": 0.5263504981994629,
+            "giá cả": 0.667139483227705,
+            "cocktail": 0.7246628017397597,
+            "âm nhạc": 0.6491360119786501,
+            "bờ biển": 0.5,
+            "giường": 0.6644083460560068,
+            "họ": 0.8737691454589367,
+            "nhảy điệu nhảy": 0.96645498694852,
+            "bữa tiệc": 0.8737691454589367,
+            "bãi biển": 0.8549509512493387,
+            "trung tâm": 0.6273627439513803,
+            "atm": 0.8737691454589367,
+            "phòng": 0.5399335455149412,
+            "quán bar": -0.5843340512365103,
+            "uống nước": 0.5,
+            "nhân viên": 0.7897850270965137,
+            "chủ sở hữu": 0.9918595947092399,
+            "câu lạc bộ": 0.9954626299440861,
+            "bia": -0.23431224457453936,
+            "rượu": 0.5,
+            "ly": 0.9688307004980743,
+            "thuốc bổ": -0.9549183507915586,
+            "quầy bar": 0.9945768840843812,
+            "chiếc kính": 0.39666594192385674,
+            "kính": -0.17667842749506235,
+            "cạnh": 0.9954450129298493,
+            "bánh sandwich": 0.5,
+            "đồ": -0.9722216705558822
+        },
+        "dicts_adj": {
+            "bầu không khí": [
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "nhiều"
+            ],
+            "đồ uống": [
+                "nhiều",
+                "trung bình"
+            ],
+            "giá cả": [
+                "nhiều",
+                "hợp lý"
+            ],
+            "cocktail": [
+                "ngon",
+                "hơn",
+                "tuyệt vời",
+                "đẹp"
+            ],
+            "âm nhạc": [
+                "tuyệt vời",
+                "đặc biệt",
+                "duy nhất",
+                "tuyệt vời",
+                "khác"
+            ],
+            "bờ biển": [],
+            "giường": [
+                "thực sự",
+                "tuyệt vời",
+                "nhỏ"
+            ],
+            "họ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "nhảy điệu nhảy": [],
+            "bữa tiệc": [
+                "trong lành"
+            ],
+            "bãi biển": [
+                "trong lành",
+                "lớn",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "khác"
+            ],
+            "trung tâm": [
+                "gần",
+                "hơn"
+            ],
+            "atm": [
+                "gần",
+                "hơn"
+            ],
+            "phòng": [
+                "lớn",
+                "lớn"
+            ],
+            "quán bar": [
+                "nhiều"
+            ],
+            "uống nước": [],
+            "nhân viên": [
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "chủ sở hữu": [
+                "hiếu khách"
+            ],
+            "câu lạc bộ": [
+                "tuyệt vời",
+                "vui vẻ"
+            ],
+            "bia": [
+                "tốt"
+            ],
+            "rượu": [],
+            "ly": [
+                "lớn",
+                "hơn"
+            ],
+            "thuốc bổ": [],
+            "quầy bar": [
+                "thực sự"
+            ],
+            "chiếc kính": [
+                "nhỏ",
+                "hơn"
+            ],
+            "kính": [
+                "nhỏ",
+                "hơn"
+            ],
+            "cạnh": [
+                "tuyệt vời"
+            ],
+            "bánh sandwich": [],
+            "đồ": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bầu không khí": 1.5,
+            "đồ ăn": 1,
+            "đồ uống": 2.0,
+            "giá cả": 1.5,
+            "cocktail": 2.5,
+            "âm nhạc": 2.0,
+            "bờ biển": 1.5,
+            "giường": 1.5,
+            "họ": 1.0,
+            "nhảy điệu nhảy": 0.5,
+            "bữa tiệc": 0.5,
+            "bãi biển": 2.5,
+            "trung tâm": 0.5,
+            "atm": 0.5,
+            "phòng": 0.5,
+            "quán bar": 0.5,
+            "uống nước": 0.5,
+            "nhân viên": 1.5,
+            "chủ sở hữu": 0.5,
+            "câu lạc bộ": 0.5,
+            "bia": 1.0,
+            "rượu": 0.5,
+            "ly": 0.5,
+            "thuốc bổ": 0.5,
+            "quầy bar": 0.5,
+            "chiếc kính": 0.5,
+            "kính": 0.5,
+            "cạnh": 0.5,
+            "bánh sandwich": 0.5,
+            "đồ": 0.5
+        }
     },
     {
         "attraction_name": "Dragon Beach - Beach Bar & Lounge",
@@ -218,7 +389,203 @@
             "https://www.tripadvisor.com/Attraction_Review-g187147-d194171-Reviews-Jardin_des_Tuileries-Paris_Ile_de_France.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g1009804-d7950989-Reviews-or20-Dragon_Beach_Beach_Bar_Lounge-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d7950989-Reviews-or10-Dragon_Beach_Beach_Bar_Lounge-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d7950989-Reviews-or10-Dragon_Beach_Beach_Bar_Lounge-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đồ uống": 0.7244630829431117,
+            "ly": -0.9694037679582834,
+            "nước rửa": -0.9547664420679212,
+            "bờ biển": 0.5,
+            "bãi biển": 0.6636843112646602,
+            "bức tường bê": 0.5,
+            "chuyến thăm": 0.5,
+            "bãi": 0.5,
+            "âm nhạc": 0.8737691454589367,
+            "bầu không khí": 0.9045442240312696,
+            "buổi": 0.5,
+            "dưới nước": 0.5,
+            "bia": 0.6868845727294683,
+            "gió biển": 0.5,
+            "chỗ ngồi": 0.49644821882247925,
+            "nhân viên": 0.2549051458481699,
+            "giá": 0.5608206926845014,
+            "câu lạc bộ": 0.6638060847374921,
+            "giờ": 0.5531565994024277,
+            "giường nằm": 0.9916307554813102,
+            "dịch vụ": -0.9536959291435778,
+            "phòng tắm": 0.5,
+            "quầy hàng": 0.5,
+            "quốc gia": -0.9754644266795367,
+            "người quản lý": -0.8582340134307742,
+            "an ninh": 0.532550361007452,
+            "đoán": 0.5130131524056196,
+            "giá cả": 0.1692087777579824,
+            "quán": 0.5,
+            "vị trí": 0.5,
+            "ven": 0.5,
+            "biển": 0.5,
+            "tâm trạng": 0.995579699461814,
+            "thái độ": 0.5,
+            "sự kiện": 0.5875876992940903,
+            "không khí": 0.8737691454589367,
+            "sisha": 0.5,
+            "giá cà phê": 0.5731864823028445,
+            "chỗ": 0.5866499468684196,
+            "quầy bar": 0.5,
+            "âm nhạc cũng": 0.5085496082901955,
+            "quang cảnh đại dương": 0.986216603545472,
+            "tầm nhìn": 0.5
+        },
+        "dicts_adj": {
+            "đồ uống": [
+                "đắt",
+                "cuối cùng",
+                "khác",
+                "riêng",
+                "đầy đủ",
+                "đắt",
+                "tồi tệ"
+            ],
+            "ly": [
+                "bẩn"
+            ],
+            "nước rửa": [
+                "bẩn"
+            ],
+            "bờ biển": [],
+            "bãi biển": [
+                "lười"
+            ],
+            "bức tường bê": [],
+            "chuyến thăm": [],
+            "bãi": [],
+            "âm nhạc": [
+                "tuyệt vời",
+                "đắt",
+                "tồi tệ"
+            ],
+            "bầu không khí": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "buổi": [],
+            "dưới nước": [],
+            "bia": [
+                "đắt"
+            ],
+            "gió biển": [],
+            "chỗ ngồi": [
+                "khó"
+            ],
+            "nhân viên": [
+                "thực sự",
+                "đầu tiên",
+                "lạnh lùng",
+                "vui"
+            ],
+            "giá": [
+                "trung bình"
+            ],
+            "câu lạc bộ": [
+                "cường điệu"
+            ],
+            "giờ": [],
+            "giường nằm": [
+                "lười"
+            ],
+            "dịch vụ": [
+                "riêng"
+            ],
+            "phòng tắm": [],
+            "quầy hàng": [],
+            "quốc gia": [
+                "bất hợp pháp"
+            ],
+            "người quản lý": [],
+            "an ninh": [],
+            "đoán": [
+                "chuyên nghiệp"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "quán": [],
+            "vị trí": [],
+            "ven": [],
+            "biển": [],
+            "tâm trạng": [
+                "vui vẻ"
+            ],
+            "thái độ": [],
+            "sự kiện": [
+                "nhiều",
+                "nổi tiếng",
+                "lớn"
+            ],
+            "không khí": [
+                "đắt",
+                "tồi tệ"
+            ],
+            "sisha": [],
+            "giá cà phê": [
+                "trung bình"
+            ],
+            "chỗ": [],
+            "quầy bar": [],
+            "âm nhạc cũng": [
+                "bình thường",
+                "cơ bản",
+                "gần"
+            ],
+            "quang cảnh đại dương": [],
+            "tầm nhìn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đồ uống": 2.5,
+            "ly": 0.5,
+            "nước rửa": 0.5,
+            "bờ biển": 1.0,
+            "bãi biển": 1.5,
+            "bức tường bê": 0.5,
+            "chuyến thăm": 0.5,
+            "bãi": 0.5,
+            "âm nhạc": 1.0,
+            "bầu không khí": 1.0,
+            "buổi": 0.5,
+            "dưới nước": 0.5,
+            "bia": 1.0,
+            "gió biển": 0.5,
+            "chỗ ngồi": 0.5,
+            "nhân viên": 2.0,
+            "giá": 1.0,
+            "câu lạc bộ": 1.5,
+            "giờ": 0.5,
+            "giường nằm": 0.5,
+            "dịch vụ": 0.5,
+            "phòng tắm": 0.5,
+            "quầy hàng": 0.5,
+            "quốc gia": 0.5,
+            "người quản lý": 0.5,
+            "an ninh": 0.5,
+            "đoán": 0.5,
+            "giá cả": 1.5,
+            "quán": 0.5,
+            "vị trí": 0.5,
+            "ven": 0.5,
+            "biển": 1.0,
+            "tâm trạng": 0.5,
+            "thái độ": 0.5,
+            "sự kiện": 0.5,
+            "không khí": 0.5,
+            "sisha": 0.5,
+            "giá cà phê": 0.5,
+            "chỗ": 0.5,
+            "quầy bar": 0.5,
+            "âm nhạc cũng": 0.5,
+            "quang cảnh đại dương": 0.5,
+            "tầm nhìn": 0.5
+        }
     },
     {
         "attraction_name": "Dragon Beach - Beach Bar & Lounge",
@@ -330,7 +697,104 @@
             "https://www.tripadvisor.com/Attraction_Review-g28930-d546116-Reviews-Blue_Cypress_Lake-Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g1009804-d7950989-Reviews-or30-Dragon_Beach_Beach_Bar_Lounge-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d7950989-Reviews-or20-Dragon_Beach_Beach_Bar_Lounge-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d7950989-Reviews-or20-Dragon_Beach_Beach_Bar_Lounge-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "làn gió": 0.5,
+            "âm nhạc": 0.741925720940344,
+            "giá": 0.9208282821346074,
+            "người quản lý": -0.9387405253946781,
+            "rung": 0.8737691454589367,
+            "túi đậu": 0.8737691454589367,
+            "âm nhạc ướp": 0.9953500047558919,
+            "không khí": -0.9667422049678862,
+            "quán bar": 0.9950305786333047,
+            "nhân viên": 0.5703729093074799,
+            "xe đạp": -0.9425654686056077,
+            "bạn": 0.9955640955013223,
+            "an ninh": 0.5,
+            "thị trấn": 0.7321697287261486,
+            "quầy bar": 0.7464325223118067,
+            "bờ biển": 0.9737391185481101,
+            "đồ uống": 0.8737691454589367,
+            "giá cả": 0.07068678375799209
+        },
+        "dicts_adj": {
+            "làn gió": [],
+            "âm nhạc": [
+                "chung"
+            ],
+            "giá": [
+                "rẻ"
+            ],
+            "người quản lý": [],
+            "rung": [
+                "tuyệt vời"
+            ],
+            "túi đậu": [
+                "tuyệt vời"
+            ],
+            "âm nhạc ướp": [
+                "tuyệt vời"
+            ],
+            "không khí": [
+                "chung"
+            ],
+            "quán bar": [
+                "thực sự",
+                "tuyệt vời",
+                "tuyệt"
+            ],
+            "nhân viên": [
+                "đầu tiên"
+            ],
+            "xe đạp": [],
+            "bạn": [
+                "tuyệt"
+            ],
+            "an ninh": [],
+            "thị trấn": [
+                "tương đối",
+                "sớm",
+                "ít"
+            ],
+            "quầy bar": [
+                "lớn"
+            ],
+            "bờ biển": [
+                "dọc",
+                "dài"
+            ],
+            "đồ uống": [
+                "hợp lý",
+                "cao"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "cao"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "làn gió": 0.5,
+            "âm nhạc": 1.0,
+            "giá": 0.5,
+            "người quản lý": 0.5,
+            "rung": 0.5,
+            "túi đậu": 0.5,
+            "âm nhạc ướp": 0.5,
+            "không khí": 0.5,
+            "quán bar": 0.5,
+            "nhân viên": 0.5,
+            "xe đạp": 0.5,
+            "bạn": 0.5,
+            "an ninh": 0.5,
+            "thị trấn": 0.5,
+            "quầy bar": 0.5,
+            "bờ biển": 0.5,
+            "đồ uống": 0.5,
+            "giá cả": 0.5
+        }
     },
     {
         "attraction_name": "Dragon Beach - Beach Bar & Lounge",
@@ -442,7 +906,226 @@
             "https://www.tripadvisor.com/Attraction_Review-g52024-d138147-Reviews-Oregon_Zoo_Together_for_Wildlife-Portland_Oregon.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g1009804-d7950989-Reviews-or40-Dragon_Beach_Beach_Bar_Lounge-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d7950989-Reviews-or30-Dragon_Beach_Beach_Bar_Lounge-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d7950989-Reviews-or30-Dragon_Beach_Beach_Bar_Lounge-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "sàn mở": -0.6904066642746329,
+            "đồ uống": 0.22083986485085916,
+            "rượu": 0.4682992051530164,
+            "bảo trì": 0.9949575614882633,
+            "vị trí": 0.99539563304279,
+            "âm nhạc hậu": -0.3947040531784296,
+            "âm nhạc": 0.6228441299317637,
+            "khung cảnh": 0.8269298362235228,
+            "tầm nhìn": 0.5,
+            "biển": 0.6567810960114002,
+            "đồ uống có": 0.6053905431181192,
+            "người": 0.9955173267517239,
+            "bãi biển": 0.9939000533777289,
+            "chuyến đi": 0.5,
+            "bãi đậu xe máy": -0.40279231034219265,
+            "không gian": 0.9925889159785584,
+            "giá": 0.9833835714962333,
+            "chai lớn": 0.5,
+            "nhạc": -0.9761166581884027,
+            "nhạc nhẹ": 0.9956038491218351,
+            "trải nghiệm": 0.9720337535254657,
+            "bia": 0.4977933459158521,
+            "quán bar": 0.747519836993888,
+            "ký túc xá": 0.9506020948756486,
+            "chỗ ngủ": 0.9931587914470583,
+            "chỗ": 0.9911933386465535,
+            "sàn nhảy": 0.8884222095366567,
+            "tâm trạng": 0.5,
+            "dj": 0.5,
+            "view": 0.5,
+            "bar": 0.5,
+            "nhân viên": 0.8737691454589367,
+            "đồ dùng": 0.5,
+            "ta phạm": -0.9571239333599806,
+            "quầy bar": -0.9698832589201629,
+            "bê bối": 0.5,
+            "cảnh": 0.5,
+            "lính canh": 0.5,
+            "dùi cui": -0.17459056247025728,
+            "cảnh sát": -0.944535756483674,
+            "câu lạc bộ": -0.2581488883588463,
+            "luật pháp": -0.9718106181826442,
+            "giá cả đắt đỏ": 0.5,
+            "bầu không khí": 0.5
+        },
+        "dicts_adj": {
+            "sàn mở": [
+                "ấm",
+                "phải",
+                "nhiều",
+                "phải"
+            ],
+            "đồ uống": [
+                "ấm",
+                "phải",
+                "nhiều",
+                "phải",
+                "tốt",
+                "xanh",
+                "đắt",
+                "dài"
+            ],
+            "rượu": [
+                "ấm",
+                "phải",
+                "nhiều",
+                "phải",
+                "ngon",
+                "đẹp",
+                "tràn ngập",
+                "trẻ"
+            ],
+            "bảo trì": [
+                "tốt"
+            ],
+            "vị trí": [
+                "tuyệt vời"
+            ],
+            "âm nhạc hậu": [
+                "hiện đại",
+                "cũ",
+                "hơn"
+            ],
+            "âm nhạc": [
+                "đẹp",
+                "ổn",
+                "liên tục",
+                "duy nhất"
+            ],
+            "khung cảnh": [
+                "đẹp",
+                "đẹp"
+            ],
+            "tầm nhìn": [],
+            "biển": [],
+            "đồ uống có": [],
+            "người": [
+                "tuyệt vời"
+            ],
+            "bãi biển": [
+                "đẹp"
+            ],
+            "chuyến đi": [],
+            "bãi đậu xe máy": [
+                "gần",
+                "nhiều",
+                "nhạt"
+            ],
+            "không gian": [
+                "đẹp"
+            ],
+            "giá": [
+                "tốt",
+                "xanh",
+                "tốt",
+                "xanh"
+            ],
+            "chai lớn": [],
+            "nhạc": [
+                "ồn ào"
+            ],
+            "nhạc nhẹ": [
+                "ồn ào"
+            ],
+            "trải nghiệm": [
+                "tốt"
+            ],
+            "bia": [
+                "đắt",
+                "dài"
+            ],
+            "quán bar": [
+                "thú vị"
+            ],
+            "ký túc xá": [
+                "xa",
+                "liên tiếp"
+            ],
+            "chỗ ngủ": [
+                "tuyệt vời"
+            ],
+            "chỗ": [
+                "đẹp"
+            ],
+            "sàn nhảy": [
+                "bận rộn",
+                "nhiều",
+                "tốt"
+            ],
+            "tâm trạng": [],
+            "dj": [],
+            "view": [],
+            "bar": [],
+            "nhân viên": [
+                "liên tục",
+                "duy nhất"
+            ],
+            "đồ dùng": [],
+            "ta phạm": [],
+            "quầy bar": [],
+            "bê bối": [],
+            "cảnh": [],
+            "lính canh": [],
+            "dùi cui": [],
+            "cảnh sát": [],
+            "câu lạc bộ": [],
+            "luật pháp": [],
+            "giá cả đắt đỏ": [],
+            "bầu không khí": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "sàn mở": 0.5,
+            "đồ uống": 2.0,
+            "rượu": 1.0,
+            "bảo trì": 0.5,
+            "vị trí": 0.5,
+            "âm nhạc hậu": 0.5,
+            "âm nhạc": 2.0,
+            "khung cảnh": 1.5,
+            "tầm nhìn": 0.5,
+            "biển": 1.0,
+            "đồ uống có": 0.5,
+            "người": 0.5,
+            "bãi biển": 0.5,
+            "chuyến đi": 0.5,
+            "bãi đậu xe máy": 0.5,
+            "không gian": 0.5,
+            "giá": 0.5,
+            "chai lớn": 0.5,
+            "nhạc": 0.5,
+            "nhạc nhẹ": 0.5,
+            "trải nghiệm": 0.5,
+            "bia": 1.0,
+            "quán bar": 1.0,
+            "ký túc xá": 0.5,
+            "chỗ ngủ": 0.5,
+            "chỗ": 0.5,
+            "sàn nhảy": 0.5,
+            "tâm trạng": 0.5,
+            "dj": 0.5,
+            "view": 0.5,
+            "bar": 0.5,
+            "nhân viên": 0.5,
+            "đồ dùng": 0.5,
+            "ta phạm": 0.5,
+            "quầy bar": 0.5,
+            "bê bối": 0.5,
+            "cảnh": 0.5,
+            "lính canh": 0.5,
+            "dùi cui": 0.5,
+            "cảnh sát": 0.5,
+            "câu lạc bộ": 0.5,
+            "luật pháp": 0.5,
+            "giá cả đắt đỏ": 0.5,
+            "bầu không khí": 0.5
+        }
     },
     {
         "attraction_name": "Dragon Beach - Beach Bar & Lounge",
@@ -554,7 +1237,248 @@
             "https://www.tripadvisor.com/Attraction_Review-g274707-d539423-Reviews-M1_Lounge_Bar_Club-Prague_Bohemia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g1009804-d7950989-Reviews-or50-Dragon_Beach_Beach_Bar_Lounge-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d7950989-Reviews-or40-Dragon_Beach_Beach_Bar_Lounge-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d7950989-Reviews-or40-Dragon_Beach_Beach_Bar_Lounge-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bãi biển": 0.5,
+            "sàn nhảy": 0.55846993252635,
+            "âm nhạc": 0.649812397393786,
+            "người": 0.9355821148492396,
+            "tầm nhìn": 0.995513335452415,
+            "bàn bida": 0.5,
+            "hồ bơi": 0.5,
+            "giường": 0.6868845727294683,
+            "bờ biển": 0.6651461486471817,
+            "nhân viên": -0.23719670192804188,
+            "cảnh hoàng hôn": 0.5,
+            "quán bar": 0.7003642488562036,
+            "nhạc": 0.7447099632408936,
+            "house": 0.5,
+            "shisha": 0.8426485396921635,
+            "câu lạc bộ âm nhạc": -0.8983719497919083,
+            "bánh": 0.822867128221939,
+            "đồ uống": 0.6127082740616364,
+            "món thứ": -0.3400408625602722,
+            "nữ": -0.9747888494748622,
+            "hóa": 0.5,
+            "nhân viên pha chế": -0.871282946318388,
+            "cho": -0.8317404044792056,
+            "dịch vụ": 0.8737691454589367,
+            "nữ bồi": 0.7204355725552887,
+            "món ăn": 0.011275641940301284,
+            "nhà hàng": 0.9920620187185705,
+            "đồ ăn": 0.5,
+            "đồ ăn chay": 0.5,
+            "bánh mì kẹp thịt": 0.5,
+            "đêm": 0.9409385157438616,
+            "đêm giao thừa": 0.4132373724132776,
+            "người dân địa phương": 0.9945438634604216,
+            "giá cả": 0.8582909111864865,
+            "quán cà phê": 0.5,
+            "câu lạc bộ": 0.5,
+            "bầu không khí": -0.04860847881063819,
+            "thị trấn tiệc": 0.9947897414676845,
+            "làng du lịch": 0.8737691454589367,
+            "nhân khẩu": 0.5,
+            "chỗ": 0.17785109377776584,
+            "wifi": 0.9910188085050322,
+            "khoảng thời gian": 0.9939762923168018,
+            "biển": 0.5,
+            "ống shisha": 0.5312683880329132
+        },
+        "dicts_adj": {
+            "bãi biển": [],
+            "sàn nhảy": [
+                "rộng lớn"
+            ],
+            "âm nhạc": [
+                "hay",
+                "nhộn nhịp",
+                "nhiều",
+                "tuyệt vời",
+                "xa",
+                "tốt",
+                "suốt"
+            ],
+            "người": [
+                "hay"
+            ],
+            "tầm nhìn": [
+                "đẹp"
+            ],
+            "bàn bida": [],
+            "hồ bơi": [],
+            "giường": [
+                "lớn"
+            ],
+            "bờ biển": [
+                "tốt",
+                "suốt"
+            ],
+            "nhân viên": [
+                "tệ"
+            ],
+            "cảnh hoàng hôn": [],
+            "quán bar": [
+                "khác",
+                "tuyệt vời",
+                "rõ ràng",
+                "nhiều"
+            ],
+            "nhạc": [],
+            "house": [],
+            "shisha": [
+                "sẵn"
+            ],
+            "câu lạc bộ âm nhạc": [
+                "rộng lớn"
+            ],
+            "bánh": [
+                "khác",
+                "ngon",
+                "đúng"
+            ],
+            "đồ uống": [
+                "khác",
+                "ngon",
+                "đúng",
+                "rẻ",
+                "tương đối",
+                "rẻ"
+            ],
+            "món thứ": [
+                "tử tế",
+                "khác",
+                "đầu tiên",
+                "ngon",
+                "hơn",
+                "ngon",
+                "hơn",
+                "tệ",
+                "đầu tiên"
+            ],
+            "nữ": [
+                "tệ"
+            ],
+            "hóa": [],
+            "nhân viên pha chế": [],
+            "cho": [
+                "chắc chắn",
+                "ngon"
+            ],
+            "dịch vụ": [
+                "tệ"
+            ],
+            "nữ bồi": [
+                "ngon",
+                "khác"
+            ],
+            "món ăn": [
+                "ngon",
+                "khác"
+            ],
+            "nhà hàng": [
+                "tích cực",
+                "đẹp"
+            ],
+            "đồ ăn": [],
+            "đồ ăn chay": [],
+            "bánh mì kẹp thịt": [],
+            "đêm": [
+                "đông đúc",
+                "đặc biệt",
+                "đặc biệt"
+            ],
+            "đêm giao thừa": [
+                "đông đúc",
+                "đặc biệt",
+                "đặc biệt"
+            ],
+            "người dân địa phương": [
+                "thú vị"
+            ],
+            "giá cả": [
+                "ổn"
+            ],
+            "quán cà phê": [],
+            "câu lạc bộ": [],
+            "bầu không khí": [
+                "tương đối",
+                "rẻ",
+                "tuyệt vời",
+                "rõ ràng",
+                "nhiều"
+            ],
+            "thị trấn tiệc": [
+                "lớn"
+            ],
+            "làng du lịch": [
+                "lớn"
+            ],
+            "nhân khẩu": [],
+            "chỗ": [
+                "thoải mái",
+                "rải rác",
+                "dọc"
+            ],
+            "wifi": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "biển": [],
+            "ống shisha": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bãi biển": 1.0,
+            "sàn nhảy": 1.0,
+            "âm nhạc": 2.5,
+            "người": 0.5,
+            "tầm nhìn": 0.5,
+            "bàn bida": 0.5,
+            "hồ bơi": 0.5,
+            "giường": 1.0,
+            "bờ biển": 1.5,
+            "nhân viên": 1.0,
+            "cảnh hoàng hôn": 0.5,
+            "quán bar": 1.0,
+            "nhạc": 1.0,
+            "house": 0.5,
+            "shisha": 0.5,
+            "câu lạc bộ âm nhạc": 0.5,
+            "bánh": 0.5,
+            "đồ uống": 1.5,
+            "món thứ": 0.5,
+            "nữ": 0.5,
+            "hóa": 0.5,
+            "nhân viên pha chế": 0.5,
+            "cho": 0.5,
+            "dịch vụ": 0.5,
+            "nữ bồi": 0.5,
+            "món ăn": 0.5,
+            "nhà hàng": 0.5,
+            "đồ ăn": 0.5,
+            "đồ ăn chay": 0.5,
+            "bánh mì kẹp thịt": 0.5,
+            "đêm": 0.5,
+            "đêm giao thừa": 0.5,
+            "người dân địa phương": 0.5,
+            "giá cả": 0.5,
+            "quán cà phê": 0.5,
+            "câu lạc bộ": 0.5,
+            "bầu không khí": 0.5,
+            "thị trấn tiệc": 0.5,
+            "làng du lịch": 0.5,
+            "nhân khẩu": 0.5,
+            "chỗ": 0.5,
+            "wifi": 0.5,
+            "khoảng thời gian": 0.5,
+            "biển": 0.5,
+            "ống shisha": 0.5
+        }
     },
     {
         "attraction_name": "Dragon Beach - Beach Bar & Lounge",
@@ -666,7 +1590,247 @@
             "https://www.tripadvisor.com/Attraction_Review-g55857-d145339-Reviews-Omni_Theater-Fort_Worth_Texas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g1009804-d7950989-Reviews-or60-Dragon_Beach_Beach_Bar_Lounge-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d7950989-Reviews-or50-Dragon_Beach_Beach_Bar_Lounge-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d7950989-Reviews-or50-Dragon_Beach_Beach_Bar_Lounge-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bãi biển": 0.19686024100519717,
+            "âm nhạc": -0.007310983259230852,
+            "hồ bơi": 0.5,
+            "khiêu vũ": -0.45698838875008124,
+            "phòng": 0.4737720936536789,
+            "quầy bar": 0.19431426213122904,
+            "cột": -0.9196608413476497,
+            "quán bar": 0.43631816893685027,
+            "taxi địa phương": 0.9814429597463459,
+            "vũ công": 0.9858340783976018,
+            "múa cột": 0.5830951631069183,
+            "giá": 0.6603779794531874,
+            "đồ uống": 0.23832182167097926,
+            "tiền": -0.9755061207106337,
+            "nhân viên": 0.5658203817244308,
+            "thái độ": 0.9825905445031822,
+            "an ninh": 0.8737691454589367,
+            "giá cả": 0.672163407318294,
+            "câu lạc bộ": -0.007441238034516573,
+            "bia": 0.5299155222019181,
+            "người phục vụ": 0.6148673975840211,
+            "ống nước": 0.9946069337893277,
+            "món ăn": 0.995578886300791,
+            "người": -0.9720757517497987,
+            "người quản lý": 0.5,
+            "chỗ": 0.8737691454589367,
+            "đêm": 0.8737691454589367,
+            "trung tâm": 0.5224149245768785,
+            "khoảng thời gian": 0.9953072104835883,
+            "người dân": 0.5,
+            "người pha chế": 0.5,
+            "rượu": 0.5356104052625597,
+            "lỗ chân lông": 0.677773900097236,
+            "giá giờ": 0.9880868918262422,
+            "người dân địa phương": 0.8466915246099234,
+            "phòng tắm": 0.9954418308334425,
+            "dj": 0.8737691454589367,
+            "sàn nhảy": 0.985994451213628,
+            "dịch vụ": -0.9665076988749206,
+            "ly vodka": 0.825653538107872,
+            "vứt": 0.5
+        },
+        "dicts_adj": {
+            "bãi biển": [
+                "hẹp",
+                "đẹp"
+            ],
+            "âm nhạc": [
+                "tốt",
+                "gần",
+                "hay",
+                "tồi tệ"
+            ],
+            "hồ bơi": [],
+            "khiêu vũ": [
+                "khác",
+                "phải",
+                "khác",
+                "nhiều"
+            ],
+            "phòng": [
+                "khác",
+                "phải",
+                "khác"
+            ],
+            "quầy bar": [
+                "khác",
+                "phải",
+                "khác",
+                "tuyệt vời"
+            ],
+            "cột": [
+                "khác",
+                "phải",
+                "khác"
+            ],
+            "quán bar": [
+                "kỹ",
+                "tuyệt vời",
+                "dữ dội",
+                "lân cận",
+                "nhiều",
+                "hơn",
+                "đúng",
+                "sạch"
+            ],
+            "taxi địa phương": [
+                "an toàn"
+            ],
+            "vũ công": [
+                "đông"
+            ],
+            "múa cột": [
+                "đông"
+            ],
+            "giá": [
+                "kỹ",
+                "tốt"
+            ],
+            "đồ uống": [
+                "kỹ",
+                "ngon",
+                "nhiều",
+                "đặc biệt",
+                "khác"
+            ],
+            "tiền": [
+                "sai",
+                "cao"
+            ],
+            "nhân viên": [
+                "khủng khiếp",
+                "tệ",
+                "sạch",
+                "phải"
+            ],
+            "thái độ": [
+                "khủng khiếp"
+            ],
+            "an ninh": [
+                "tuyệt vời",
+                "dữ dội"
+            ],
+            "giá cả": [],
+            "câu lạc bộ": [
+                "hơn"
+            ],
+            "bia": [
+                "sạch"
+            ],
+            "người phục vụ": [
+                "nhiều",
+                "ít"
+            ],
+            "ống nước": [
+                "ngon"
+            ],
+            "món ăn": [
+                "ngon"
+            ],
+            "người": [
+                "đầu tiên"
+            ],
+            "người quản lý": [],
+            "chỗ": [
+                "nhiều"
+            ],
+            "đêm": [
+                "tuyệt vời"
+            ],
+            "trung tâm": [
+                "trẻ"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ],
+            "người dân": [],
+            "người pha chế": [],
+            "rượu": [
+                "ngẫu nhiên"
+            ],
+            "lỗ chân lông": [
+                "tốt",
+                "nhiều",
+                "hơn",
+                "cao"
+            ],
+            "giá giờ": [
+                "suốt"
+            ],
+            "người dân địa phương": [
+                "tử tế"
+            ],
+            "phòng tắm": [
+                "tuyệt vời"
+            ],
+            "dj": [
+                "tuyệt vời"
+            ],
+            "sàn nhảy": [
+                "lớn",
+                "thực sự",
+                "hài lòng"
+            ],
+            "dịch vụ": [
+                "tệ"
+            ],
+            "ly vodka": [
+                "loãng",
+                "hoàn toàn",
+                "ổn"
+            ],
+            "vứt": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bãi biển": 1.0,
+            "âm nhạc": 1.0,
+            "hồ bơi": 0.5,
+            "khiêu vũ": 1.5,
+            "phòng": 0.5,
+            "quầy bar": 1.0,
+            "cột": 0.5,
+            "quán bar": 4.0,
+            "taxi địa phương": 0.5,
+            "vũ công": 0.5,
+            "múa cột": 0.5,
+            "giá": 1.0,
+            "đồ uống": 2.5,
+            "tiền": 0.5,
+            "nhân viên": 1.0,
+            "thái độ": 0.5,
+            "an ninh": 0.5,
+            "giá cả": 0.5,
+            "câu lạc bộ": 1.0,
+            "bia": 2.0,
+            "người phục vụ": 0.5,
+            "ống nước": 0.5,
+            "món ăn": 0.5,
+            "người": 0.5,
+            "người quản lý": 1.0,
+            "chỗ": 0.5,
+            "đêm": 0.5,
+            "trung tâm": 0.5,
+            "khoảng thời gian": 0.5,
+            "người dân": 0.5,
+            "người pha chế": 0.5,
+            "rượu": 1.0,
+            "lỗ chân lông": 0.5,
+            "giá giờ": 0.5,
+            "người dân địa phương": 0.5,
+            "phòng tắm": 0.5,
+            "dj": 0.5,
+            "sàn nhảy": 0.5,
+            "dịch vụ": 0.5,
+            "ly vodka": 0.5,
+            "vứt": 0.5
+        }
     },
     {
         "attraction_name": "Dragon Beach - Beach Bar & Lounge",
@@ -759,6 +1923,11 @@
             "https://www.tripadvisor.com/Attraction_Review-g186338-d188725-Reviews-Pimlico-London_England.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d7950989-Reviews-or60-Dragon_Beach_Beach_Bar_Lounge-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d7950989-Reviews-or60-Dragon_Beach_Beach_Bar_Lounge-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     }
 ]

@@ -96,6 +96,128 @@
             "https://www.tripadvisor.com/Attraction_Review-g28967-d1537237-Reviews-Belle_Isle_State_Park-Virginia.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d15637951-Reviews-Hadong_Silk-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d15637951-Reviews-Hadong_Silk-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.9919594814917738,
+            "cô": 0.9915007124945987,
+            "thợ may": 0.9783153085736558,
+            "lụa": 0.5,
+            "giá": 0.453143680235371,
+            "khăn cashmere": 0.6677016168832779,
+            "vải": 0.9948311554035172,
+            "dịch vụ": 0.9859811633747692,
+            "quần": -0.9202280417084694,
+            "cà vạt lụa": 0.9951831679791212,
+            "cà vạt": 0.8737691454589367,
+            "cửa hàng": 0.6228248819087943,
+            "khăn lụa": 0.9953107285546139,
+            "váy lụa": 0.9372559586772695,
+            "chính sách giá": 0.4462498724460602,
+            "họ": 0.8737691454589367,
+            "chất lượng": 0.9417901998385787,
+            "trải nghiệm": 0.9953523357398808
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "đặc biệt",
+                "tốt",
+                "tốt"
+            ],
+            "cô": [
+                "hữu ích",
+                "khác"
+            ],
+            "thợ may": [
+                "nhanh"
+            ],
+            "lụa": [],
+            "giá": [
+                "vừa phải",
+                "hơn",
+                "nhiều",
+                "nhiều",
+                "nhiều",
+                "rộng",
+                "hẹp",
+                "hơn",
+                "hiện đại",
+                "hơn",
+                "ròng"
+            ],
+            "khăn cashmere": [],
+            "vải": [
+                "đẹp mắt"
+            ],
+            "dịch vụ": [
+                "đẹp mắt",
+                "hữu ích"
+            ],
+            "quần": [],
+            "cà vạt lụa": [
+                "hoàn hảo"
+            ],
+            "cà vạt": [
+                "tương đương"
+            ],
+            "cửa hàng": [
+                "vừa phải",
+                "hơn",
+                "nhiều",
+                "nhiều",
+                "nhiều",
+                "rộng",
+                "hẹp",
+                "hơn",
+                "hiện đại",
+                "hơn",
+                "nhiều"
+            ],
+            "khăn lụa": [
+                "đẹp",
+                "nhiều",
+                "rực rỡ"
+            ],
+            "váy lụa": [
+                "sẵn",
+                "nhiều",
+                "đẹp"
+            ],
+            "chính sách giá": [
+                "cố định",
+                "nhiều"
+            ],
+            "họ": [
+                "ròng"
+            ],
+            "chất lượng": [
+                "rẻ",
+                "đẹp"
+            ],
+            "trải nghiệm": [
+                "hay"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 3.5,
+            "cô": 2,
+            "thợ may": 2,
+            "lụa": 2,
+            "giá": 3.0,
+            "khăn cashmere": 1,
+            "vải": 1,
+            "dịch vụ": 1.5,
+            "quần": 1,
+            "cà vạt lụa": 0.5,
+            "cà vạt": 0.5,
+            "cửa hàng": 1.5,
+            "khăn lụa": 0.5,
+            "váy lụa": 0.5,
+            "chính sách giá": 0.5,
+            "họ": 0.5,
+            "chất lượng": 0.5,
+            "trải nghiệm": 0.5
+        }
     }
 ]

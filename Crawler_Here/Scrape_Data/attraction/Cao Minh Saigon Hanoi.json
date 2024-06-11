@@ -89,6 +89,109 @@
             "https://www.tripadvisor.com/Attraction_Review-g45963-d1501219-Reviews-Titanic_The_Artifact_Exhibition-Las_Vegas_Nevada.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d7092603-Reviews-Cao_Minh_Saigon_Hanoi-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d7092603-Reviews-Cao_Minh_Saigon_Hanoi-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ vest": -0.5463150683790445,
+            "ngữ cảnh": 0.3701476063579321,
+            "trang phục công": 0.5993402916938066,
+            "thợ may": 0.6192908647769529,
+            "viên hướng": 0.5,
+            "sạn hoặc": 0.5,
+            "chất lượng": 0.9954862824718779,
+            "áo khoác": 0.530491154640913,
+            "độ vừa vặn": 0.5,
+            "áo khoác thể thao may đo -": 0.5,
+            "khác không": 0.050742379389703274,
+            "người mỹ": 0.8737691454589367,
+            "khoác thể thao của": 0.9946812842972577,
+            "áo khoác thể thao": 0.6223370303632692,
+            "áo sơ mi": -0.2026772702112794,
+            "giá": 0.7198219406418502,
+            "giá cả": 0.9953860425157472
+        },
+        "dicts_adj": {
+            "bộ vest": [
+                "đẹp"
+            ],
+            "ngữ cảnh": [
+                "nhiều"
+            ],
+            "trang phục công": [
+                "nhiều"
+            ],
+            "thợ may": [
+                "rẻ",
+                "tốt",
+                "khoảng",
+                "hài lòng",
+                "đắt",
+                "bằng",
+                "tuyệt vời"
+            ],
+            "viên hướng": [],
+            "sạn hoặc": [],
+            "chất lượng": [
+                "tốt",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "áo khoác": [
+                "thực sự"
+            ],
+            "độ vừa vặn": [],
+            "áo khoác thể thao may đo -": [],
+            "khác không": [
+                "tốt",
+                "hơn"
+            ],
+            "người mỹ": [
+                "tốt",
+                "tốt",
+                "hơn"
+            ],
+            "khoác thể thao của": [
+                "tuyệt vời"
+            ],
+            "áo khoác thể thao": [
+                "gần",
+                "bằng",
+                "tuyệt vời"
+            ],
+            "áo sơ mi": [
+                "gần",
+                "bằng",
+                "gần",
+                "bằng",
+                "tốt"
+            ],
+            "giá": [
+                "gần",
+                "bằng"
+            ],
+            "giá cả": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ vest": 0.5,
+            "ngữ cảnh": 0.5,
+            "trang phục công": 0.5,
+            "thợ may": 0.5,
+            "viên hướng": 0.5,
+            "sạn hoặc": 0.5,
+            "chất lượng": 0.5,
+            "áo khoác": 0.5,
+            "độ vừa vặn": 0.5,
+            "áo khoác thể thao may đo -": 0.5,
+            "khác không": 0.5,
+            "người mỹ": 0.5,
+            "khoác thể thao của": 0.5,
+            "áo khoác thể thao": 0.5,
+            "áo sơ mi": 0.5,
+            "giá": 0.5,
+            "giá cả": 0.5
+        }
     }
 ]

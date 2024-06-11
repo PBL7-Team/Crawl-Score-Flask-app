@@ -91,6 +91,46 @@
             "https://www.tripadvisor.com/Attraction_Review-g34360-d15059021-Reviews-Falling_Creek_Falls-Lake_City_Florida.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d11852436-Reviews-Phuong_Spa-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1009804-d11852436-Reviews-Phuong_Spa-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "spa": 0.9135250998660922,
+            "massage": 0.9549585269220794,
+            "giá cả": 0.9529069985728711,
+            "dịch vụ": 0.7507991804741323,
+            "chủ tiệm": 0.8737691454589367,
+            "tiệm": 0.8904226822778583
+        },
+        "dicts_adj": {
+            "spa": [
+                "tốt"
+            ],
+            "massage": [
+                "chuyên nghiệp",
+                "rẻ",
+                "tốt"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "dịch vụ": [
+                "sẵn"
+            ],
+            "chủ tiệm": [
+                "nồng nhiệt"
+            ],
+            "tiệm": [
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "spa": 1,
+            "massage": 1.5,
+            "giá cả": 0.5,
+            "dịch vụ": 0.5,
+            "chủ tiệm": 0.5,
+            "tiệm": 0.5
+        }
     }
 ]

@@ -142,7 +142,121 @@
             "https://www.tripadvisor.com/Attraction_Review-g293731-d8092332-Reviews-Paradise_Valley_Agadir-Agadir_Souss_Massa.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or10-Phung_Motorbike-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-Phung_Motorbike-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-Phung_Motorbike-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.9940331954515867,
+            "chuyến đi": 0.6236593827634351,
+            "phương tiện": 0.7536824228300247,
+            "điểm dừng": 0.944040060043335,
+            "vị trí": 0.9945980351185426,
+            "xe máy": 0.9939472507103346,
+            "xe đạp": 0.5747113808821369,
+            "giá": 0.9920917224953882,
+            "nhân viên": 0.9863420893670991,
+            "cho thuê xe máy": 0.5,
+            "hành": 0.9939844297477975,
+            "chuyến phiêu lưu": 0.9937144867144525,
+            "xe địa phương": 0.19229582510888577,
+            "hoang vắng": 0.5,
+            "bảo hiểm và": 0.9955022417125292,
+            "minh bạch-": 0.9953230067621917
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "vui",
+                "hài lòng",
+                "có thể",
+                "hài lòng",
+                "nhiều",
+                "tuyệt vời",
+                "hữu ích",
+                "tuyệt vời",
+                "hữu ích",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "tuyệt vời"
+            ],
+            "phương tiện": [
+                "tốt",
+                "có thể"
+            ],
+            "điểm dừng": [
+                "tốt"
+            ],
+            "vị trí": [
+                "tốt"
+            ],
+            "xe máy": [
+                "may mắn"
+            ],
+            "xe đạp": [
+                "gần",
+                "mới",
+                "hoàn hảo",
+                "hơn",
+                "quan trọng",
+                "mới",
+                "thực sự",
+                "quan trọng",
+                "to",
+                "mới",
+                "thực sự",
+                "hoàn hảo",
+                "hơn",
+                "gần",
+                "mới"
+            ],
+            "giá": [
+                "hợp lý",
+                "hợp lý"
+            ],
+            "nhân viên": [
+                "tốt",
+                "tốt"
+            ],
+            "cho thuê xe máy": [],
+            "hành": [
+                "thú vị",
+                "thú vị"
+            ],
+            "chuyến phiêu lưu": [
+                "chắc chắn",
+                "chắc chắn"
+            ],
+            "xe địa phương": [
+                "dọc",
+                "dọc"
+            ],
+            "hoang vắng": [],
+            "bảo hiểm và": [
+                "khuyến khích"
+            ],
+            "minh bạch-": [
+                "khuyến khích"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 8.5,
+            "chuyến đi": 4.0,
+            "phương tiện": 1,
+            "điểm dừng": 1,
+            "vị trí": 1,
+            "xe máy": 1.5,
+            "xe đạp": 9.0,
+            "giá": 3,
+            "nhân viên": 3,
+            "cho thuê xe máy": 3,
+            "hành": 3,
+            "chuyến phiêu lưu": 3,
+            "xe địa phương": 3.0,
+            "hoang vắng": 1.5,
+            "bảo hiểm và": 1,
+            "minh bạch-": 1
+        }
     },
     {
         "attraction_name": "Phung Motorbike",
@@ -272,7 +386,43 @@
             "https://www.tripadvisor.com/Attraction_Review-g48633-d3746914-Reviews-Sodus_Point_Beach_Park-Sodus_Point_Finger_Lakes_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or20-Phung_Motorbike-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or10-Phung_Motorbike-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or10-Phung_Motorbike-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "xe đạp": 0.8204722390510142,
+            "giá cả": 0.9529069985728711,
+            "xe lửa": 0.5012407153844833,
+            "dịch vụ": 0.9862113232084084,
+            "hồ": 0.9922318776370957,
+            "nhân viên": 0.9953088610200211
+        },
+        "dicts_adj": {
+            "xe đạp": [
+                "hợp lý"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "xe lửa": [],
+            "dịch vụ": [
+                "nhiều",
+                "tốt",
+                "vui",
+                "hài lòng",
+                "tốt"
+            ],
+            "hồ": [],
+            "nhân viên": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "xe đạp": 0.5,
+            "giá cả": 0.5,
+            "xe lửa": 0.5,
+            "dịch vụ": 1.0,
+            "hồ": 0.5,
+            "nhân viên": 0.5
+        }
     },
     {
         "attraction_name": "Phung Motorbike",
@@ -398,7 +548,102 @@
             "https://www.tripadvisor.com/Attraction_Review-g39045-d2249795-Reviews-Rolling_Hills_Zoo-Salina_Kansas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or30-Phung_Motorbike-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or20-Phung_Motorbike-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or20-Phung_Motorbike-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "xe đạp": 0.5717782576102763,
+            "giá": 0.9604795216349885,
+            "nhân viên": 0.9480462034058291,
+            "dịch vụ": 0.9378246480191592,
+            "xe": 0.5683547253720462,
+            "tiệm cơ khí": 0.5,
+            "xe máy": -0.21126713778357953,
+            "giấy": 0.44799269922077656,
+            "thợ sửa xe": 0.9931999541586265,
+            "thợ máy": 0.9568475198466331,
+            "trải nghiệm": 0.9932016733800992,
+            "chuyến đi": 0.9952314844122157,
+            "mức giá": 0.7349081672728062
+        },
+        "dicts_adj": {
+            "xe đạp": [
+                "gần",
+                "thân thiện",
+                "tốt",
+                "tốt",
+                "sẵn",
+                "xa",
+                "quan trọng",
+                "tốt"
+            ],
+            "giá": [
+                "hợp lý",
+                "hợp lý",
+                "hợp lý",
+                "thấp",
+                "hơn",
+                "hơn"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "giỏi",
+                "thân thiện",
+                "tốt"
+            ],
+            "dịch vụ": [
+                "nhất",
+                "nhiều",
+                "hơn",
+                "nhiều",
+                "duy nhất",
+                "hài lòng",
+                "tuyệt vời",
+                "tốt bụng"
+            ],
+            "xe": [
+                "may",
+                "sớm"
+            ],
+            "tiệm cơ khí": [],
+            "xe máy": [
+                "rảnh",
+                "khác"
+            ],
+            "giấy": [
+                "sẵn"
+            ],
+            "thợ sửa xe": [
+                "dọc"
+            ],
+            "thợ máy": [
+                "hợp lý"
+            ],
+            "trải nghiệm": [
+                "to lớn"
+            ],
+            "chuyến đi": [
+                "to lớn"
+            ],
+            "mức giá": [
+                "phải chăng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "xe đạp": 3.5,
+            "giá": 2.5,
+            "nhân viên": 2.5,
+            "dịch vụ": 1.5,
+            "xe": 1.0,
+            "tiệm cơ khí": 0.5,
+            "xe máy": 1.0,
+            "giấy": 0.5,
+            "thợ sửa xe": 0.5,
+            "thợ máy": 0.5,
+            "trải nghiệm": 0.5,
+            "chuyến đi": 0.5,
+            "mức giá": 0.5
+        }
     },
     {
         "attraction_name": "Phung Motorbike",
@@ -524,7 +769,98 @@
             "https://www.tripadvisor.com/Attraction_Review-g274725-d287919-Reviews-Old_Town-Gdansk_Pomerania_Province_Northern_Poland.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or40-Phung_Motorbike-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or30-Phung_Motorbike-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or30-Phung_Motorbike-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.8716671069851145,
+            "xe máy": 0.9075103705516085,
+            "xe đạp": 0.2668653514374455,
+            "cửa hàng": 0.08398616779595613,
+            "thợ cơ khí địa": 0.4978549927473068,
+            "thợ máy": 0.7941882899031043,
+            "xe": 0.43990075401961803,
+            "dầu": 0.5,
+            "hợp phanh": 0.5,
+            "dầu xích": -0.9298861469142139,
+            "bộ phận": 0.5,
+            "cửa hàng xe máy": 0.4711805637925863,
+            "vết": -0.8671715767122805,
+            "vết xước": -0.2750763180083595,
+            "giá cả": 0.5418477281928062
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "nhiều"
+            ],
+            "xe máy": [
+                "hài lòng",
+                "bận rộn",
+                "nhiều",
+                "nhỏ"
+            ],
+            "xe đạp": [
+                "nhanh",
+                "đắt",
+                "thực sự",
+                "an toàn",
+                "thực sự",
+                "thực sự",
+                "an toàn",
+                "khuyến khích",
+                "khác",
+                "chặt",
+                "khác",
+                "an toàn"
+            ],
+            "cửa hàng": [
+                "tốt"
+            ],
+            "thợ cơ khí địa": [
+                "dài",
+                "khó khăn"
+            ],
+            "thợ máy": [
+                "tốt"
+            ],
+            "xe": [],
+            "dầu": [],
+            "hợp phanh": [],
+            "dầu xích": [],
+            "bộ phận": [],
+            "cửa hàng xe máy": [],
+            "vết": [
+                "nhỏ",
+                "đáng kể"
+            ],
+            "vết xước": [
+                "nhỏ",
+                "đáng kể"
+            ],
+            "giá cả": [
+                "nhiều",
+                "khác",
+                "hợp lý",
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 2.0,
+            "xe máy": 2.5,
+            "xe đạp": 2.0,
+            "cửa hàng": 1.0,
+            "thợ cơ khí địa": 0.5,
+            "thợ máy": 0.5,
+            "xe": 0.5,
+            "dầu": 0.5,
+            "hợp phanh": 0.5,
+            "dầu xích": 0.5,
+            "bộ phận": 0.5,
+            "cửa hàng xe máy": 0.5,
+            "vết": 0.5,
+            "vết xước": 0.5,
+            "giá cả": 0.5
+        }
     },
     {
         "attraction_name": "Phung Motorbike",
@@ -649,7 +985,94 @@
             "https://www.tripadvisor.com/Attraction_Review-g47962-d7268905-Reviews-Long_Island_Rail_Road-Jamaica_Queens_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or50-Phung_Motorbike-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or40-Phung_Motorbike-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or40-Phung_Motorbike-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "xe máy": 0.8702525701373816,
+            "mức giá": 0.9943706668564118,
+            "xe đạp": 0.8257668089354411,
+            "nhân viên": 0.9942302225390449,
+            "trải nghiệm": 0.5,
+            "cửa hàng": 0.9916138355620205,
+            "lang băm địa phương": -0.8956686155870557,
+            "chuyến đi đường": 0.7777634439989924,
+            "cho": 0.708729618228972,
+            "nhà kho": 0.5,
+            "đồ sộ": 0.5,
+            "biên": 0.5,
+            "tàu tuần dương": -0.8908150675706565,
+            "xe đạp đường": 0.23753860592842102,
+            "giá thuê": 0.9933948205434717,
+            "dịch vụ": 0.9908152418211102,
+            "đồ vật": -0.973705465439707
+        },
+        "dicts_adj": {
+            "xe máy": [],
+            "mức giá": [
+                "tốt"
+            ],
+            "xe đạp": [
+                "tốt",
+                "đầu tiên",
+                "mới",
+                "hơn",
+                "hơn",
+                "tốt"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "cần thiết",
+                "hài lòng"
+            ],
+            "trải nghiệm": [],
+            "cửa hàng": [
+                "tuyệt vời"
+            ],
+            "lang băm địa phương": [],
+            "chuyến đi đường": [
+                "dài"
+            ],
+            "cho": [
+                "dài"
+            ],
+            "nhà kho": [],
+            "đồ sộ": [],
+            "biên": [],
+            "tàu tuần dương": [
+                "lớn",
+                "hơn"
+            ],
+            "xe đạp đường": [
+                "hơn"
+            ],
+            "giá thuê": [
+                "tốt"
+            ],
+            "dịch vụ": [],
+            "đồ vật": [
+                "phiền phức"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "xe máy": 0.5,
+            "mức giá": 0.5,
+            "xe đạp": 1.5,
+            "nhân viên": 0.5,
+            "trải nghiệm": 0.5,
+            "cửa hàng": 0.5,
+            "lang băm địa phương": 0.5,
+            "chuyến đi đường": 0.5,
+            "cho": 0.5,
+            "nhà kho": 0.5,
+            "đồ sộ": 0.5,
+            "biên": 0.5,
+            "tàu tuần dương": 0.5,
+            "xe đạp đường": 0.5,
+            "giá thuê": 0.5,
+            "dịch vụ": 0.5,
+            "đồ vật": 0.5
+        }
     },
     {
         "attraction_name": "Phung Motorbike",
@@ -790,7 +1213,92 @@
             "https://www.tripadvisor.com/Attraction_Review-g494960-d668656-Reviews-Jardines_de_Santa_Clotilde-Lloret_de_Mar_Costa_Brava_Province_of_Girona_Catalonia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or60-Phung_Motorbike-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or50-Phung_Motorbike-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or50-Phung_Motorbike-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.8028029836714268,
+            "thợ cơ khí": 0.9406203138642013,
+            "xe đạp": 0.7481123828717197,
+            "dịch vụ": 0.9891010753635783,
+            "workshop": 0.5634681452065706,
+            "cửa hàng xe máy": -0.17858437198447064,
+            "cửa hàng": 0.8413078906014562,
+            "giá cả": 0.8761993809603155,
+            "mũ bảo hiểm": 0.9863290578359738,
+            "dầu xích": -0.595103332772851,
+            "giá": -0.743649035692215,
+            "người dân địa phương": -0.8429407603107393,
+            "thợ sửa xe": 0.661428838968277,
+            "cửa hàng sửa chữa": 0.5,
+            "cho": 0.5
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "nhẹ nhõm"
+            ],
+            "thợ cơ khí": [
+                "nhẹ nhõm"
+            ],
+            "xe đạp": [
+                "hợp lý",
+                "hỏng",
+                "bất kỳ",
+                "thân thiện"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "hoàn toàn",
+                "chuyên nghiệp",
+                "nhanh chóng"
+            ],
+            "workshop": [],
+            "cửa hàng xe máy": [
+                "khác",
+                "chắc chắn"
+            ],
+            "cửa hàng": [
+                "chuyên nghiệp",
+                "chuyên nghiệp"
+            ],
+            "giá cả": [
+                "tốt",
+                "hợp lý"
+            ],
+            "mũ bảo hiểm": [
+                "tốt"
+            ],
+            "dầu xích": [
+                "nhiều"
+            ],
+            "giá": [
+                "khác",
+                "khác"
+            ],
+            "người dân địa phương": [
+                "khác"
+            ],
+            "thợ sửa xe": [],
+            "cửa hàng sửa chữa": [],
+            "cho": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 0.5,
+            "thợ cơ khí": 0.5,
+            "xe đạp": 1.5,
+            "dịch vụ": 1.0,
+            "workshop": 0.5,
+            "cửa hàng xe máy": 0.5,
+            "cửa hàng": 0.5,
+            "giá cả": 1.0,
+            "mũ bảo hiểm": 0.5,
+            "dầu xích": 0.5,
+            "giá": 0.5,
+            "người dân địa phương": 0.5,
+            "thợ sửa xe": 0.5,
+            "cửa hàng sửa chữa": 0.5,
+            "cho": 0.5
+        }
     },
     {
         "attraction_name": "Phung Motorbike",
@@ -916,7 +1424,68 @@
             "https://www.tripadvisor.com/Attraction_Review-g48443-d2249606-Reviews-Walkway_Over_the_Hudson_State_Historic_Park-Poughkeepsie_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or70-Phung_Motorbike-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or60-Phung_Motorbike-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or60-Phung_Motorbike-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "xe đạp": 0.6814708082238212,
+            "chuyến đi": 0.9273785813711584,
+            "mẹo": 0.8737691454589367,
+            "áo khoác": 0.5720058642327785,
+            "xe máy": 0.37541547627188265,
+            "chuyến chạy": 0.9918119226349518,
+            "tiền": 0.9949559553060681,
+            "honda cub": 0.5065378025174141,
+            "dịch vụ": 0.9945980623597279,
+            "cửa hàng": 0.483460146933794,
+            "lẽ": 0.219347283244133,
+            "nhà kho": 0.25895711220800877,
+            "xe buýt": 0.5322720883414149
+        },
+        "dicts_adj": {
+            "xe đạp": [
+                "tốt"
+            ],
+            "chuyến đi": [],
+            "mẹo": [
+                "riêng"
+            ],
+            "áo khoác": [
+                "riêng"
+            ],
+            "xe máy": [
+                "cũ"
+            ],
+            "chuyến chạy": [],
+            "tiền": [],
+            "honda cub": [],
+            "dịch vụ": [
+                "tốt"
+            ],
+            "cửa hàng": [
+                "cũ"
+            ],
+            "lẽ": [
+                "đầu tiên"
+            ],
+            "nhà kho": [],
+            "xe buýt": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "xe đạp": 1.0,
+            "chuyến đi": 0.5,
+            "mẹo": 0.5,
+            "áo khoác": 0.5,
+            "xe máy": 1.0,
+            "chuyến chạy": 0.5,
+            "tiền": 0.5,
+            "honda cub": 0.5,
+            "dịch vụ": 0.5,
+            "cửa hàng": 0.5,
+            "lẽ": 0.5,
+            "nhà kho": 0.5,
+            "xe buýt": 0.5
+        }
     },
     {
         "attraction_name": "Phung Motorbike",
@@ -1042,7 +1611,59 @@
             "https://www.tripadvisor.com/Attraction_Review-g262055-d1519586-Reviews-Pantachou_Beach-Ayia_Napa_Famagusta_District.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or80-Phung_Motorbike-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or70-Phung_Motorbike-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or70-Phung_Motorbike-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chủ sở hữu": -0.9716399727622047,
+            "xe máy": 0.2182731632492505,
+            "dịch vụ": 0.9954043559846468,
+            "xe đạp": 0.5621600365266204,
+            "vật": 0.024480736814439297,
+            "mức giá": 0.5,
+            "điều hướng": 0.3458872437477112,
+            "đường phố": 0.32014545798301697,
+            "hợp đồng": 0.9734953506849706
+        },
+        "dicts_adj": {
+            "chủ sở hữu": [
+                "khác"
+            ],
+            "xe máy": [
+                "nhiều"
+            ],
+            "dịch vụ": [
+                "tốt"
+            ],
+            "xe đạp": [
+                "may",
+                "đầu tiên",
+                "may"
+            ],
+            "vật": [
+                "nhọn",
+                "nhỏ"
+            ],
+            "mức giá": [],
+            "điều hướng": [
+                "khó khăn"
+            ],
+            "đường phố": [
+                "khó khăn"
+            ],
+            "hợp đồng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chủ sở hữu": 0.5,
+            "xe máy": 1.0,
+            "dịch vụ": 0.5,
+            "xe đạp": 1.0,
+            "vật": 0.5,
+            "mức giá": 0.5,
+            "điều hướng": 0.5,
+            "đường phố": 0.5,
+            "hợp đồng": 0.5
+        }
     },
     {
         "attraction_name": "Phung Motorbike",
@@ -1185,7 +1806,78 @@
             "https://www.tripadvisor.com/Attraction_Review-g644074-d3330285-Reviews-Fortress_Mirabella_Peovica-Omis_Split_Dalmatia_County_Dalmatia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or90-Phung_Motorbike-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or80-Phung_Motorbike-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or80-Phung_Motorbike-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.7338604149408638,
+            "xe máy": 0.7567597219604068,
+            "chuyến phiêu lưu": 0.9943151439074427,
+            "xe đạp": 0.34917830987251364,
+            "chuyến đi": 0.7470228303379068,
+            "cửa hàng": 0.8221462108194828,
+            "shop": 0.9553833284880966,
+            "trải nghiệm": 0.9914804825675674,
+            "chất lượng": 0.9954844518215396
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "mong đợi",
+                "tuyệt vời",
+                "tuyệt vời",
+                "đẹp",
+                "nhất"
+            ],
+            "xe máy": [
+                "mong đợi",
+                "tự động"
+            ],
+            "chuyến phiêu lưu": [
+                "Chắc chắn"
+            ],
+            "xe đạp": [
+                "thực sự",
+                "tệ",
+                "lớn",
+                "hơn",
+                "bình thường",
+                "dễ dàng",
+                "rắc rối",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "căng thẳng",
+                "tuyệt vời",
+                "lớn"
+            ],
+            "cửa hàng": [
+                "thân thiện",
+                "công bằng",
+                "bất tiện"
+            ],
+            "shop": [
+                "hoàn toàn"
+            ],
+            "trải nghiệm": [
+                "dễ dàng",
+                "rắc rối"
+            ],
+            "chất lượng": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 1.0,
+            "xe máy": 1.0,
+            "chuyến phiêu lưu": 0.5,
+            "xe đạp": 2.0,
+            "chuyến đi": 1.5,
+            "cửa hàng": 0.5,
+            "shop": 0.5,
+            "trải nghiệm": 0.5,
+            "chất lượng": 0.5
+        }
     },
     {
         "attraction_name": "Phung Motorbike",
@@ -1309,6 +2001,132 @@
             "https://www.tripadvisor.com/Attraction_Review-g29527-d107588-Reviews-Madaket_Beach-Nantucket_Massachusetts.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or100-Phung_Motorbike-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or90-Phung_Motorbike-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d6380192-Reviews-or90-Phung_Motorbike-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.747611219790997,
+            "phương tiện": 0.7536824228300247,
+            "điểm dừng chân": 0.9929358774097636,
+            "chuyến phiêu lưu": 0.9954227281268686,
+            "hành trình": 0.5189828649163246,
+            "xe đạp": 0.43993786278927777,
+            "cửa hàng": -0.23666592262452468,
+            "đôi": -0.9555805665440857,
+            "dịch vụ": -0.26171958667691797,
+            "xe máy": 0.6376094028819352,
+            "hoa hậu": 0.06640257313847542,
+            "trung tâm": 0.5,
+            "honda wave": 0.5449152095243335,
+            "giá": 0.8173977031062046,
+            "gara": 0.9840557093266398,
+            "nhà kho": 0.9702670711558312,
+            "thợ sửa xe": 0.5,
+            "trước khi": 0.5582668455317616,
+            "mũ bảo hiểm ổ khóa": 0.5
+        },
+        "dicts_adj": {
+            "chuyến đi": [
+                "tuyệt vời"
+            ],
+            "phương tiện": [
+                "tốt",
+                "có thể"
+            ],
+            "điểm dừng chân": [
+                "chân lý tưởng"
+            ],
+            "chuyến phiêu lưu": [
+                "tương tự",
+                "hơn"
+            ],
+            "hành trình": [
+                "khác"
+            ],
+            "xe đạp": [
+                "tốt",
+                "hơn",
+                "sang trọng",
+                "suốt",
+                "cao",
+                "nhất",
+                "khoảng",
+                "bình thường",
+                "sẵn sàng",
+                "vui",
+                "tệ",
+                "giống",
+                "khác",
+                "đắt",
+                "hơn",
+                "nhanh chóng",
+                "nhiều",
+                "kém",
+                "tốt",
+                "nặng",
+                "nhiều",
+                "hơn"
+            ],
+            "cửa hàng": [
+                "nặng"
+            ],
+            "đôi": [],
+            "dịch vụ": [
+                "lớn",
+                "tốt",
+                "dở",
+                "khác",
+                "hỏng",
+                "rẻ",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "xe máy": [
+                "lớn",
+                "cuối cùng"
+            ],
+            "hoa hậu": [
+                "nhiều"
+            ],
+            "trung tâm": [],
+            "honda wave": [
+                "tự động"
+            ],
+            "giá": [
+                "tốt",
+                "hơn",
+                "vui"
+            ],
+            "gara": [
+                "tốt"
+            ],
+            "nhà kho": [
+                "nhiều"
+            ],
+            "thợ sửa xe": [],
+            "trước khi": [],
+            "mũ bảo hiểm ổ khóa": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 2.0,
+            "phương tiện": 1,
+            "điểm dừng chân": 1,
+            "chuyến phiêu lưu": 1,
+            "hành trình": 0.5,
+            "xe đạp": 1.5,
+            "cửa hàng": 1.0,
+            "đôi": 0.5,
+            "dịch vụ": 1.0,
+            "xe máy": 1.0,
+            "hoa hậu": 0.5,
+            "trung tâm": 0.5,
+            "honda wave": 0.5,
+            "giá": 0.5,
+            "gara": 0.5,
+            "nhà kho": 0.5,
+            "thợ sửa xe": 0.5,
+            "trước khi": 0.5,
+            "mũ bảo hiểm ổ khóa": 0.5
+        }
     }
 ]

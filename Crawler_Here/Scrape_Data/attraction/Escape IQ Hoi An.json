@@ -110,7 +110,178 @@
             "https://www.tripadvisor.com/Attraction_Review-g41925-d3262140-Reviews-Kimball_Farm-Westford_Massachusetts.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d12594260-Reviews-or10-Escape_IQ_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12594260-Reviews-Escape_IQ_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12594260-Reviews-Escape_IQ_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "diễn viên": 0.7368742899037898,
+            "phòng": 0.617430611034894,
+            "đạo cụ": 0.667135045863688,
+            "phòng thoát": 0.8737691454589367,
+            "sống động": 0.15056880563497543,
+            "trò chơi": 0.845528157427907,
+            "bối cảnh": 0.8737691454589367,
+            "câu đố": 0.894810161262285,
+            "con nhện": 0.08529582887422293,
+            "bầu không khí": -0.15772973330846676,
+            "nhân viên": 0.9346703774062917,
+            "dịch vụ": 0.995489668333903,
+            "mạch truyện": 0.8737691454589367,
+            "chủ nhà": 0.47640171460807323,
+            "người chủ nhà": 0.9950718253385276,
+            "cách trang trí": 0.5,
+            "đạo": 0.5,
+            "câu chuyện": 0.9345976614276879,
+            "trải nghiệm": 0.681145312419782,
+            "trẻ em": 0.5954544087871909
+        },
+        "dicts_adj": {
+            "diễn viên": [
+                "trực tiếp",
+                "sợ hãi",
+                "vui",
+                "chắc chắn",
+                "trực tiếp",
+                "trực tiếp",
+                "trực tiếp",
+                "tuyệt vời"
+            ],
+            "phòng": [
+                "đầy",
+                "khó",
+                "thú vị",
+                "cân bằng",
+                "rùng rợn",
+                "khác",
+                "chắc chắn",
+                "bẩn",
+                "độc hại",
+                "bẩn",
+                "độc hại",
+                "hiểm",
+                "hiểm",
+                "tốt",
+                "tốt",
+                "hiểm",
+                "trực tiếp",
+                "hiểm",
+                "tốt",
+                "nhiều",
+                "khác",
+                "thực sự",
+                "hiểm",
+                "đặc biệt",
+                "hơn",
+                "bất kỳ",
+                "đầu tiên",
+                "khác",
+                "cuối cùng",
+                "vui",
+                "đầu tiên",
+                "đầu tiên",
+                "hoàn toàn",
+                "bình thường",
+                "đầu tiên",
+                "nhiều",
+                "hơn",
+                "hiểm"
+            ],
+            "đạo cụ": [
+                "duy nhất",
+                "bình thường",
+                "đầu tiên",
+                "thực"
+            ],
+            "phòng thoát": [
+                "hiểm",
+                "ấn tượng"
+            ],
+            "sống động": [
+                "chắc chắn"
+            ],
+            "trò chơi": [
+                "nhiều",
+                "khác"
+            ],
+            "bối cảnh": [
+                "tuyệt vời"
+            ],
+            "câu đố": [
+                "tuyệt vời",
+                "tốt",
+                "thú vị",
+                "ăn ý",
+                "tuyệt vời"
+            ],
+            "con nhện": [
+                "bẩn",
+                "độc hại",
+                "bẩn",
+                "độc"
+            ],
+            "bầu không khí": [
+                "tuyệt vời",
+                "đặc biệt",
+                "nhiều"
+            ],
+            "nhân viên": [
+                "thực sự",
+                "khoảng",
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời"
+            ],
+            "mạch truyện": [
+                "hay"
+            ],
+            "chủ nhà": [
+                "cơ bản",
+                "đầu tiên"
+            ],
+            "người chủ nhà": [
+                "tử tế",
+                "nhanh chóng",
+                "tuyệt vời"
+            ],
+            "cách trang trí": [],
+            "đạo": [],
+            "câu chuyện": [
+                "tốt",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "trực tiếp",
+                "đầu tiên",
+                "khác",
+                "cuối cùng",
+                "hỏng",
+                "nhiều"
+            ],
+            "trẻ em": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "diễn viên": 2.5,
+            "phòng": 5.0,
+            "đạo cụ": 1.0,
+            "phòng thoát": 0.5,
+            "sống động": 1.0,
+            "trò chơi": 0.5,
+            "bối cảnh": 0.5,
+            "câu đố": 2.5,
+            "con nhện": 0.5,
+            "bầu không khí": 1.5,
+            "nhân viên": 1.0,
+            "dịch vụ": 0.5,
+            "mạch truyện": 0.5,
+            "chủ nhà": 0.5,
+            "người chủ nhà": 0.5,
+            "cách trang trí": 0.5,
+            "đạo": 0.5,
+            "câu chuyện": 1.0,
+            "trải nghiệm": 1.5,
+            "trẻ em": 0.5
+        }
     },
     {
         "attraction_name": "Escape IQ Hoi An",
@@ -232,6 +403,150 @@
             "https://www.tripadvisor.com/Attraction_Review-g60877-d2294318-Reviews-Lower_Dewey_Lake_Hiking_Trail-Skagway_Alaska.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d12594260-Reviews-or20-Escape_IQ_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12594260-Reviews-or10-Escape_IQ_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12594260-Reviews-or10-Escape_IQ_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "phòng": 0.8501212574363711,
+            "người dẫn chương trình": 0.9954302743426524,
+            "phòng giam": -0.9586923466995358,
+            "trải nghiệm": 0.8766257325842162,
+            "nhiễm bệnh": 0.5,
+            "căn": 0.678516016943225,
+            "ngôi nhà": 0.9597553545609117,
+            "bầu không khí": -0.07388888966913026,
+            "chủ nhà": 0.9944249207037501,
+            "nhà hàng": 0.572650421410799,
+            "biển": 0.9944271772401407,
+            "nhà điều tra": 0.9950803904794157,
+            "chuyến đi": 0.9947713068104349,
+            "nhân viên": 0.9955642700660974,
+            "sức khỏe": 0.6066480558365583,
+            "âm thanh": 0.8153634040306011,
+            "diễn viên": 0.31532935549815494,
+            "câu đố": 0.4019252782066663,
+            "dịch vụ": 0.9955033063306473,
+            "rùng": 0.8719371482729912,
+            "câu chuyện": 0.9793543186970055
+        },
+        "dicts_adj": {
+            "phòng": [
+                "đầu tiên",
+                "hiểm",
+                "tuyệt vời",
+                "hiểm",
+                "khác",
+                "đầu tiên",
+                "may",
+                "lâu",
+                "hơn",
+                "hiểm",
+                "hiểm",
+                "đầu tiên",
+                "vui mừng",
+                "tuyệt vời",
+                "hiểm",
+                "hiểm",
+                "tốt",
+                "đầu tiên",
+                "NHIỀU",
+                "hiểm",
+                "tuyệt vời",
+                "hiểm",
+                "đầu tiên",
+                "hiểm",
+                "hiểm"
+            ],
+            "người dẫn chương trình": [
+                "tuyệt vời"
+            ],
+            "phòng giam": [],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "thân thiện",
+                "tuyệt vời",
+                "đầu tiên",
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "nhiễm bệnh": [],
+            "căn": [
+                "hiểm",
+                "đầu tiên",
+                "vui mừng"
+            ],
+            "ngôi nhà": [
+                "vui",
+                "hơn"
+            ],
+            "bầu không khí": [
+                "tuyệt vời",
+                "đủ",
+                "căng thẳng",
+                "suốt"
+            ],
+            "chủ nhà": [],
+            "nhà hàng": [],
+            "biển": [
+                "tuyệt vời"
+            ],
+            "nhà điều tra": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "tuyệt vời",
+                "vui",
+                "lớn"
+            ],
+            "sức khỏe": [],
+            "âm thanh": [
+                "đủ",
+                "căng thẳng",
+                "suốt"
+            ],
+            "diễn viên": [
+                "đủ",
+                "căng thẳng",
+                "suốt"
+            ],
+            "câu đố": [
+                "đủ",
+                "căng thẳng",
+                "suốt"
+            ],
+            "dịch vụ": [],
+            "rùng": [
+                "Thú vị"
+            ],
+            "câu chuyện": [
+                "hấp dẫn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "phòng": 4.5,
+            "người dẫn chương trình": 0.5,
+            "phòng giam": 0.5,
+            "trải nghiệm": 2.0,
+            "nhiễm bệnh": 0.5,
+            "căn": 0.5,
+            "ngôi nhà": 0.5,
+            "bầu không khí": 1.0,
+            "chủ nhà": 0.5,
+            "nhà hàng": 0.5,
+            "biển": 0.5,
+            "nhà điều tra": 0.5,
+            "chuyến đi": 1.0,
+            "nhân viên": 0.5,
+            "sức khỏe": 0.5,
+            "âm thanh": 0.5,
+            "diễn viên": 0.5,
+            "câu đố": 0.5,
+            "dịch vụ": 0.5,
+            "rùng": 0.5,
+            "câu chuyện": 0.5
+        }
     }
 ]

@@ -60,6 +60,97 @@
             "https://www.tripadvisor.com/Attraction_Review-g189180-d243637-Reviews-Torre_dos_Clerigos-Porto_Porto_District_Northern_Portugal.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g3320435-d11704960-Reviews-Pu_Luong_Trekking_Tours-Hoa_Binh_Hoa_Binh_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g3320435-d11704960-Reviews-Pu_Luong_Trekking_Tours-Hoa_Binh_Hoa_Binh_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trekking": -0.04714520275592804,
+            "rừng": 0.38730290345847607,
+            "cảnh quan": 0.9955055563477799,
+            "thác mu": 0.8737691454589367,
+            "chuyến tham quan": 0.5,
+            "kỷ niệm": 0.5,
+            "view": 0.8737691454589367,
+            "người dân địa phương": 0.9954925228958018,
+            "đồ ăn địa phương": 0.994775019120425,
+            "chuyến đi bộ": 0.8850504978909157,
+            "khung cảnh": 0.5,
+            "vùng đất": 0.5,
+            "bánh xe nước": 0.991439959499985,
+            "xe nước": 0.5056510362774134,
+            "vivi": 0.8737691454589367,
+            "leo núi pù luông": 0.8737691454589367,
+            "hướng dẫn viên du lịch": 0.9954585483064875,
+            "đồ ăn": 0.9955946922418661
+        },
+        "dicts_adj": {
+            "trekking": [
+                "rậm suối"
+            ],
+            "rừng": [
+                "rậm suối"
+            ],
+            "cảnh quan": [
+                "đẹp"
+            ],
+            "thác mu": [
+                "rậm suối"
+            ],
+            "chuyến tham quan": [],
+            "kỷ niệm": [],
+            "view": [
+                "đẹp"
+            ],
+            "người dân địa phương": [
+                "tuyệt vời"
+            ],
+            "đồ ăn địa phương": [
+                "tuyệt vời"
+            ],
+            "chuyến đi bộ": [
+                "tuyệt vời",
+                "dễ dàng",
+                "khó khăn",
+                "hơn"
+            ],
+            "khung cảnh": [],
+            "vùng đất": [],
+            "bánh xe nước": [],
+            "xe nước": [
+                "khoảng"
+            ],
+            "vivi": [
+                "giỏi"
+            ],
+            "leo núi pù luông": [
+                "giỏi"
+            ],
+            "hướng dẫn viên du lịch": [
+                "ngon"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trekking": 0.5,
+            "rừng": 0.5,
+            "cảnh quan": 0.5,
+            "thác mu": 0.5,
+            "chuyến tham quan": 0.5,
+            "kỷ niệm": 0.5,
+            "view": 0.5,
+            "người dân địa phương": 0.5,
+            "đồ ăn địa phương": 0.5,
+            "chuyến đi bộ": 0.5,
+            "khung cảnh": 0.5,
+            "vùng đất": 0.5,
+            "bánh xe nước": 0.5,
+            "xe nước": 0.5,
+            "vivi": 0.5,
+            "leo núi pù luông": 0.5,
+            "hướng dẫn viên du lịch": 0.5,
+            "đồ ăn": 0.5
+        }
     }
 ]

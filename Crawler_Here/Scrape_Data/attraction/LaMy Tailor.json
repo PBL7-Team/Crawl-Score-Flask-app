@@ -105,7 +105,195 @@
             "https://www.tripadvisor.com/Attraction_Review-g147242-d519607-Reviews-Dickenson_Bay-Antigua_Antigua_and_Barbuda.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d12958119-Reviews-or10-LaMy_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12958119-Reviews-LaMy_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12958119-Reviews-LaMy_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "áo blazer": 0.9939989125123248,
+            "vải lụa": 0.9937475143233314,
+            "voan": 0.966345862718299,
+            "trải nghiệm": 0.9949769394339195,
+            "quần áo": 0.9783931470786532,
+            "thợ may": 0.7476664357527625,
+            "-": 0.5,
+            "váy": 0.3674368057399988,
+            "quấn đồ playsuit": 0.5,
+            "áo": 0.5,
+            "vải": 0.6651591319823638,
+            "quần ống loe": 0.5,
+            "áo sơ mi cài nút": 0.5,
+            "thời trang": 0.5,
+            "bộ vest": 0.5,
+            "áo khoác vải": 0.5,
+            "chất lượng": 0.9953608202631585,
+            "dịch vụ": 0.9955801771720871,
+            "chất liệu": 0.8438638066290878,
+            "chị em": 0.9955937097547576,
+            "mẫu lụa": 0.9953567899065092,
+            "cửa hàng": 0.47890864764534247,
+            "quần áo may": 0.22668340429663658,
+            "dòng chảy": 0.6020839381963015,
+            "nhân viên": 0.9169123500372128,
+            "môi trường sống": 0.5,
+            "phòng": 0.980446879286319,
+            "món đồ": 0.5,
+            "tiệm may": 0.3438995317167913,
+            "may bikini": 0.9727367912807191,
+            "vest": 0.5118690512414711,
+            "giấc mơ": -0.9464326063171029,
+            "giá cả": 0.9930280394037254,
+            "quần short": -0.8809217438101768,
+            "áo sơ mi": -0.6917738504707813
+        },
+        "dicts_adj": {
+            "áo blazer": [
+                "hoàn hảo"
+            ],
+            "vải lụa": [
+                "tốt"
+            ],
+            "voan": [
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "hữu ích",
+                "tuyệt vời",
+                "tích cực",
+                "tuyệt vời"
+            ],
+            "quần áo": [
+                "ngọt ngào"
+            ],
+            "thợ may": [
+                "tuyệt vời",
+                "xinh xắn",
+                "thoải mái"
+            ],
+            "-": [],
+            "váy": [
+                "Cuối cùng",
+                "nhiều",
+                "vừa vặn",
+                "hoàn hảo",
+                "ngắn"
+            ],
+            "quấn đồ playsuit": [],
+            "áo": [],
+            "vải": [
+                "tuyệt vời"
+            ],
+            "quần ống loe": [],
+            "áo sơ mi cài nút": [],
+            "thời trang": [],
+            "bộ vest": [],
+            "áo khoác vải": [],
+            "chất lượng": [],
+            "dịch vụ": [
+                "nhanh chóng"
+            ],
+            "chất liệu": [
+                "thực sự",
+                "cao",
+                "đúng",
+                "đúng",
+                "nhiều",
+                "cao",
+                "tuyệt vời"
+            ],
+            "chị em": [
+                "tuyệt vời"
+            ],
+            "mẫu lụa": [
+                "nhiều"
+            ],
+            "cửa hàng": [
+                "nhiều",
+                "cao cấp",
+                "hơn",
+                "khác",
+                "xinh xắn",
+                "sạch sẽ",
+                "nhiều"
+            ],
+            "quần áo may": [],
+            "dòng chảy": [],
+            "nhân viên": [
+                "rõ",
+                "vui vẻ",
+                "tốt bụng",
+                "hữu ích",
+                "chuyên nghiệp"
+            ],
+            "môi trường sống": [],
+            "phòng": [
+                "vui vẻ"
+            ],
+            "món đồ": [],
+            "tiệm may": [
+                "hoàn hảo",
+                "đẹp",
+                "hơn"
+            ],
+            "may bikini": [
+                "hoàn hảo",
+                "đẹp",
+                "hơn"
+            ],
+            "vest": [
+                "hoàn hảo",
+                "đẹp",
+                "hơn"
+            ],
+            "giấc mơ": [
+                "Vừa vặn"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "quần short": [
+                "ngắn"
+            ],
+            "áo sơ mi": [
+                "ngắn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "áo blazer": 1.5,
+            "vải lụa": 1.5,
+            "voan": 1.5,
+            "trải nghiệm": 3.5,
+            "quần áo": 3,
+            "thợ may": 2,
+            "-": 1,
+            "váy": 3,
+            "quấn đồ playsuit": 1,
+            "áo": 1,
+            "vải": 3,
+            "quần ống loe": 1,
+            "áo sơ mi cài nút": 1,
+            "thời trang": 1,
+            "bộ vest": 1,
+            "áo khoác vải": 1,
+            "chất lượng": 1,
+            "dịch vụ": 1,
+            "chất liệu": 2,
+            "chị em": 1,
+            "mẫu lụa": 1,
+            "cửa hàng": 2,
+            "quần áo may": 1,
+            "dòng chảy": 1,
+            "nhân viên": 3,
+            "môi trường sống": 1,
+            "phòng": 1,
+            "món đồ": 1,
+            "tiệm may": 1,
+            "may bikini": 1,
+            "vest": 1,
+            "giấc mơ": 1,
+            "giá cả": 1,
+            "quần short": 1,
+            "áo sơ mi": 1
+        }
     },
     {
         "attraction_name": "LaMy Tailor",
@@ -216,7 +404,180 @@
             "https://www.tripadvisor.com/Attraction_Review-g154943-d155845-Reviews-Robson_Street-Vancouver_British_Columbia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d12958119-Reviews-or20-LaMy_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12958119-Reviews-or10-LaMy_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12958119-Reviews-or10-LaMy_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thợ may phù": 0.6314926852937788,
+            "bộ": 0.2568144230172038,
+            "quần áo": 0.20193667151033878,
+            "chất liệu": -0.9752543524373323,
+            "trang phục": 0.5,
+            "cửa hàng": 0.887609961652197,
+            "đường cắt": 0.6162000093609095,
+            "trải nghiệm": 0.9948631365550682,
+            "thợ may": 0.8374017150636064,
+            "thợ may la": 0.5393261704593897,
+            "chất lượng": 0.3920542160049081,
+            "khách sạn": 0.9882186595350504,
+            "áo cánh": 0.5,
+            "bộ áo liền quần": -0.9485843868460506,
+            "nhân viên": 0.994969759369269,
+            "vật liệu": 0.9845645629102364,
+            "áo": 0.9921442703343928,
+            "váy": 0.6651785029486442,
+            "dịch vụ": 0.9315717807621695,
+            "sản phẩm": 0.5269068460911512,
+            "giá": 0.1736657118308358,
+            "áo khoác": 0.050867029232904315,
+            "bộ đồ": -0.21496538422070444,
+            "bộ vest": 0.04021954833297059,
+            "áo khoác may": 0.5,
+            "quần": 0.5425961352884769,
+            "áo sơ mi": -0.9471177947707474,
+            "chuyện đùa": 0.9950114662060514,
+            "nhà thiết kế": 0.9942792662186548,
+            "món đồ": 0.995454098272603
+        },
+        "dicts_adj": {
+            "thợ may phù": [
+                "đẹp",
+                "ngắn"
+            ],
+            "bộ": [
+                "đẹp",
+                "ngắn"
+            ],
+            "quần áo": [
+                "đẹp",
+                "ngắn"
+            ],
+            "chất liệu": [
+                "bất kỳ"
+            ],
+            "trang phục": [],
+            "cửa hàng": [
+                "dễ thương",
+                "lịch sự",
+                "vui vẻ",
+                "tốt",
+                "muộn",
+                "sẵn",
+                "may"
+            ],
+            "đường cắt": [],
+            "trải nghiệm": [
+                "thú vị"
+            ],
+            "thợ may": [
+                "giỏi",
+                "nhất",
+                "tuyệt vời",
+                "chắc chắn",
+                "giỏi",
+                "chu đáo",
+                "chu đáo",
+                "suốt",
+                "giỏi"
+            ],
+            "thợ may la": [],
+            "chất lượng": [
+                "tuyệt vời",
+                "cao"
+            ],
+            "khách sạn": [],
+            "áo cánh": [],
+            "bộ áo liền quần": [
+                "mong đợi",
+                "phức tạp",
+                "hơn"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "tốt"
+            ],
+            "vật liệu": [
+                "nhiều"
+            ],
+            "áo": [
+                "đẹp"
+            ],
+            "váy": [
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "cao"
+            ],
+            "sản phẩm": [
+                "cuối cùng"
+            ],
+            "giá": [
+                "hợp lý",
+                "vừa vặn"
+            ],
+            "áo khoác": [
+                "tuyệt vời",
+                "hài lòng",
+                "khác"
+            ],
+            "bộ đồ": [
+                "khác",
+                "hài lòng"
+            ],
+            "bộ vest": [
+                "khác",
+                "tuyệt vời"
+            ],
+            "áo khoác may": [],
+            "quần": [
+                "cao"
+            ],
+            "áo sơ mi": [
+                "cao"
+            ],
+            "chuyện đùa": [],
+            "nhà thiết kế": [
+                "chính xác",
+                "vừa vặn",
+                "tại chỗ"
+            ],
+            "món đồ": [
+                "đáng giá"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thợ may phù": 1,
+            "bộ": 1.5,
+            "quần áo": 1.5,
+            "chất liệu": 1,
+            "trang phục": 1,
+            "cửa hàng": 2.5,
+            "đường cắt": 1,
+            "trải nghiệm": 1,
+            "thợ may": 4.0,
+            "thợ may la": 1,
+            "chất lượng": 1.5,
+            "khách sạn": 1,
+            "áo cánh": 1,
+            "bộ áo liền quần": 1,
+            "nhân viên": 1,
+            "vật liệu": 1,
+            "áo": 1,
+            "váy": 1.5,
+            "dịch vụ": 1.0,
+            "sản phẩm": 1.0,
+            "giá": 1.5,
+            "áo khoác": 1.0,
+            "bộ đồ": 1.0,
+            "bộ vest": 1.0,
+            "áo khoác may": 0.5,
+            "quần": 0.5,
+            "áo sơ mi": 0.5,
+            "chuyện đùa": 0.5,
+            "nhà thiết kế": 0.5,
+            "món đồ": 0.5
+        }
     },
     {
         "attraction_name": "LaMy Tailor",
@@ -328,7 +689,207 @@
             "https://www.tripadvisor.com/Attraction_Review-g2018516-d13453829-Reviews-Alpaca_World-Hongcheon_gun_Gangwon_do.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d12958119-Reviews-or30-LaMy_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12958119-Reviews-or20-LaMy_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12958119-Reviews-or20-LaMy_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9953828073485056,
+            "chị": 0.9955590353929438,
+            "lamy": 0.8737691454589367,
+            "thợ may": 0.2856641643156763,
+            "bánh quy": 0.5,
+            "quần áo": 0.5,
+            "dịch vụ": 0.7475482713489328,
+            "áo vest": 0.9848023215308785,
+            "váy": 0.7332806893779586,
+            "áo khoác công sở": 0.5,
+            "chất lượng": 0.6009848963149125,
+            "giá cả": 0.9667628682218492,
+            "quần dài": 0.5,
+            "áo khoác": 0.743198788492009,
+            "bộ vest": 0.9175508101470768,
+            "áo sơ mi": 0.2629837987866874,
+            "hoa văn": 0.9955633773934096,
+            "vải": 0.7477216767147183,
+            "nhân hậu": 0.9955522904638201,
+            "tay nghề": 0.9954421005677432,
+            "tạp chí": 0.9656751025468111,
+            "quần dài thời trang": 0.3535405583679676,
+            "quý cô": 0.9619699525646865,
+            "bộ đồ": 0.9951361850835383,
+            "cửa hàng": 0.4579456513689365,
+            "chất": 0.9921769790817052,
+            "giá": 0.8733691884553991,
+            "đồ của": 0.5,
+            "không khí và": 0.5,
+            "thợ may bảo điệp -": 0.8737691454589367,
+            "xe đạp": 0.5,
+            "lễ tân": 0.5,
+            "khách sạn": 0.5,
+            "giá trị": 0.5,
+            "my suit": 0.8737691454589367,
+            "suit": 0.9881769560743123,
+            "-": 0.5
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "hài lòng",
+                "tốt"
+            ],
+            "chị": [
+                "tuyệt vời"
+            ],
+            "lamy": [
+                "tuyệt vời"
+            ],
+            "thợ may": [
+                "khác",
+                "vội vã",
+                "lành nghề",
+                "tốt",
+                "hơn"
+            ],
+            "bánh quy": [],
+            "quần áo": [],
+            "dịch vụ": [
+                "nhanh",
+                "rạng rỡ"
+            ],
+            "áo vest": [],
+            "váy": [
+                "hợp lý",
+                "hợp lý",
+                "thực sự",
+                "hoàn hảo"
+            ],
+            "áo khoác công sở": [],
+            "chất lượng": [
+                "tốt",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "giá cả": [
+                "tốt",
+                "hợp lý",
+                "hợp lý"
+            ],
+            "quần dài": [],
+            "áo khoác": [
+                "hợp lý"
+            ],
+            "bộ vest": [
+                "nhanh chóng",
+                "cao cấp"
+            ],
+            "áo sơ mi": [
+                "nhanh chóng",
+                "hợp lý",
+                "nhiều"
+            ],
+            "hoa văn": [
+                "đẹp"
+            ],
+            "vải": [
+                "đẹp"
+            ],
+            "nhân hậu": [
+                "ấm áp",
+                "xinh đẹp"
+            ],
+            "tay nghề": [
+                "tuyệt vời"
+            ],
+            "tạp chí": [
+                "khó khăn"
+            ],
+            "quần dài thời trang": [
+                "cao cấp"
+            ],
+            "quý cô": [
+                "khác"
+            ],
+            "bộ đồ": [
+                "tuyệt vời"
+            ],
+            "cửa hàng": [
+                "cao",
+                "cao",
+                "cuối cùng",
+                "khác",
+                "tốt",
+                "thực sự",
+                "đẹp",
+                "tuyệt vời",
+                "tốt",
+                "chắc chắn"
+            ],
+            "chất": [
+                "tốt"
+            ],
+            "giá": [
+                "nhỏ",
+                "lịch sự"
+            ],
+            "đồ của": [],
+            "không khí và": [],
+            "thợ may bảo điệp -": [
+                "cao"
+            ],
+            "xe đạp": [],
+            "lễ tân": [],
+            "khách sạn": [],
+            "giá trị": [],
+            "my suit": [
+                "to",
+                "to"
+            ],
+            "suit": [
+                "to",
+                "to"
+            ],
+            "-": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 1.0,
+            "chị": 0.5,
+            "lamy": 0.5,
+            "thợ may": 2.0,
+            "bánh quy": 0.5,
+            "quần áo": 0.5,
+            "dịch vụ": 1.0,
+            "áo vest": 0.5,
+            "váy": 1.0,
+            "áo khoác công sở": 0.5,
+            "chất lượng": 2.0,
+            "giá cả": 1.5,
+            "quần dài": 1.0,
+            "áo khoác": 1.0,
+            "bộ vest": 1.0,
+            "áo sơ mi": 2.0,
+            "hoa văn": 0.5,
+            "vải": 1.0,
+            "nhân hậu": 0.5,
+            "tay nghề": 0.5,
+            "tạp chí": 0.5,
+            "quần dài thời trang": 0.5,
+            "quý cô": 0.5,
+            "bộ đồ": 0.5,
+            "cửa hàng": 1.0,
+            "chất": 0.5,
+            "giá": 0.5,
+            "đồ của": 0.5,
+            "không khí và": 0.5,
+            "thợ may bảo điệp -": 0.5,
+            "xe đạp": 0.5,
+            "lễ tân": 0.5,
+            "khách sạn": 0.5,
+            "giá trị": 0.5,
+            "my suit": 0.5,
+            "suit": 0.5,
+            "-": 0.5
+        }
     },
     {
         "attraction_name": "LaMy Tailor",
@@ -438,7 +999,246 @@
             "https://www.tripadvisor.com/Attraction_Review-g33052-d104238-Reviews-Santa_Monica_Pier-Santa_Monica_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d12958119-Reviews-or40-LaMy_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12958119-Reviews-or30-LaMy_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12958119-Reviews-or30-LaMy_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "game": 0.9942203923128545,
+            "this": 0.8737691454589367,
+            "suit": 0.9311362605076283,
+            "khách sạn": 0.6814730241894722,
+            "chai nước": 0.7464031701674685,
+            "mật khẩu wifi": 0.9767835349775851,
+            "váy": 0.46215587061305996,
+            "chuyến đi": -0.6165637262165546,
+            "thợ may": 0.2423513729008846,
+            "biển": 0.507291167974472,
+            "cửa hàng may": -0.9406755031086504,
+            "áo sơ mi": 0.31984122718373936,
+            "áo blazer": 0.5,
+            "chất lượng": 0.3920542160049081,
+            "vật liệu": 0.9782081253651995,
+            "đường may": 0.9830994200892746,
+            "dịch vụ": 0.6651605285587721,
+            "cửa hàng": 0.7617423496946382,
+            "quần áo": 0.7494120847561863,
+            "trải nghiệm": 0.9954144499497488,
+            "sản phẩm": 0.9831987605430186,
+            "giá cả": 0.9285191370872781,
+            "liền": 0.9954933227854781,
+            "quần": 0.9955492682638578,
+            "áo cánh": 0.9955132488394156,
+            "bộ áo liền quần": 0.9946303408360109,
+            "nhân viên": 0.9943418530747294,
+            "áo": 0.9914967849035747,
+            "chất": 0.9939690539322328,
+            "vải": 0.6843902026303113,
+            "giá": 0.6429014941677451,
+            "mặt hàng": 0.5000077430158854,
+            "chủ nhà": 0.9888170920312405,
+            "bộ đồ": 0.9954508512164466,
+            "cái bụng": -0.2244462203234434,
+            "tiệm may": 0.23248419538140297,
+            "quần áo cá tính": 0.9953177015995607
+        },
+        "dicts_adj": {
+            "game": [],
+            "this": [
+                "sexy"
+            ],
+            "suit": [
+                "sexy"
+            ],
+            "khách sạn": [],
+            "chai nước": [
+                "mới",
+                "kiên nhẫn"
+            ],
+            "mật khẩu wifi": [
+                "hoàn hảo"
+            ],
+            "váy": [
+                "đúng",
+                "có thể",
+                "phải",
+                "vui",
+                "vui",
+                "nhiều",
+                "cao",
+                "tuyệt vời"
+            ],
+            "chuyến đi": [
+                "cuối cùng"
+            ],
+            "thợ may": [
+                "cuối cùng",
+                "hạnh phúc",
+                "hơn",
+                "Chắc chắn",
+                "nhiều",
+                "thực sự"
+            ],
+            "biển": [
+                "cuối cùng"
+            ],
+            "cửa hàng may": [
+                "cuối cùng"
+            ],
+            "áo sơ mi": [
+                "cao",
+                "tình cờ",
+                "đẹp",
+                "nhanh chóng"
+            ],
+            "áo blazer": [],
+            "chất lượng": [
+                "tuyệt vời",
+                "thực sự",
+                "cao",
+                "nhiều"
+            ],
+            "vật liệu": [
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "đường may": [
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "dịch vụ": [
+                "thực sự",
+                "nhanh chóng",
+                "đầu tiên"
+            ],
+            "cửa hàng": [
+                "thực sự",
+                "dễ chịu",
+                "vui"
+            ],
+            "quần áo": [
+                "dễ dàng",
+                "sẵn",
+                "đầy",
+                "tuyệt vời",
+                "rẻ",
+                "chắc chắn",
+                "khác",
+                "rõ ràng",
+                "tuyệt vời",
+                "nhiều",
+                "đẹp",
+                "Chắc chắn"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "đủ"
+            ],
+            "sản phẩm": [
+                "chuyên nghiệp",
+                "cao"
+            ],
+            "giá cả": [
+                "công bằng",
+                "nhiều"
+            ],
+            "liền": [
+                "tuyệt vời"
+            ],
+            "quần": [
+                "tuyệt vời"
+            ],
+            "áo cánh": [
+                "tuyệt vời"
+            ],
+            "bộ áo liền quần": [
+                "chính xác",
+                "vừa vặn",
+                "hoàn hảo"
+            ],
+            "nhân viên": [
+                "kiên nhẫn",
+                "dễ thương"
+            ],
+            "áo": [
+                "tuyệt vời",
+                "đẹp",
+                "thực sự",
+                "khác",
+                "khác",
+                "nhỏ",
+                "hài lòng"
+            ],
+            "chất": [
+                "rẻ",
+                "chắc chắn",
+                "khác",
+                "rõ ràng"
+            ],
+            "vải": [
+                "may đo",
+                "hơn"
+            ],
+            "giá": [
+                "hợp lý"
+            ],
+            "mặt hàng": [
+                "chắc chắn"
+            ],
+            "chủ nhà": [
+                "đầu tiên"
+            ],
+            "bộ đồ": [
+                "vừa vặn",
+                "đẹp"
+            ],
+            "cái bụng": [],
+            "tiệm may": [
+                "khó"
+            ],
+            "quần áo cá tính": [
+                "chắc chắn",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "game": 0.5,
+            "this": 0.5,
+            "suit": 0.5,
+            "khách sạn": 1.0,
+            "chai nước": 0.5,
+            "mật khẩu wifi": 0.5,
+            "váy": 2.0,
+            "chuyến đi": 0.5,
+            "thợ may": 1.0,
+            "biển": 0.5,
+            "cửa hàng may": 0.5,
+            "áo sơ mi": 1.5,
+            "áo blazer": 0.5,
+            "chất lượng": 1.5,
+            "vật liệu": 0.5,
+            "đường may": 0.5,
+            "dịch vụ": 1.5,
+            "cửa hàng": 1.5,
+            "quần áo": 2.5,
+            "trải nghiệm": 0.5,
+            "sản phẩm": 0.5,
+            "giá cả": 1.0,
+            "liền": 0.5,
+            "quần": 0.5,
+            "áo cánh": 0.5,
+            "bộ áo liền quần": 0.5,
+            "nhân viên": 1.5,
+            "áo": 0.5,
+            "chất": 0.5,
+            "vải": 0.5,
+            "giá": 1.0,
+            "mặt hàng": 0.5,
+            "chủ nhà": 0.5,
+            "bộ đồ": 0.5,
+            "cái bụng": 0.5,
+            "tiệm may": 0.5,
+            "quần áo cá tính": 0.5
+        }
     },
     {
         "attraction_name": "LaMy Tailor",
@@ -556,7 +1356,185 @@
             "https://www.tripadvisor.com/Attraction_Review-g12288293-d15125410-Reviews-Banyu_Wana_Amertha_Waterfall-Wanagiri_Sukasada_Buleleng_Regency_Bali.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d12958119-Reviews-or50-LaMy_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12958119-Reviews-or40-LaMy_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12958119-Reviews-or40-LaMy_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "áo khoác": 0.995573413616512,
+            "quần áo": 0.5546631901621973,
+            "thợ may": 0.988984606374288,
+            "dịch vụ": 0.895605804619845,
+            "nhân viên": 0.9946226840256713,
+            "loại vải": 0.9955003447830677,
+            "váy": 0.7346595437265933,
+            "loại": 0.995470697816927,
+            "vải": 0.7897305844817311,
+            "bộ áo liền quần": 0.8090271353721619,
+            "bộ đồ nam": 0.9954416673863307,
+            "tầng": 0.9952785181812942,
+            "sản phẩm": 0.5,
+            "tiệm may": 0.4857290107756853,
+            "bộ đồ": 0.5315870018675923,
+            "bộ đồ đó": 0.5431261556223035,
+            "giá": 0.19967764879887304,
+            "mọi người": 0.9955480723874643,
+            "cửa hàng": 0.9947051188210025,
+            "dịch vụ may": 0.5400636690513542,
+            "quán": 0.9934023675741628,
+            "com": 0.9677902413532138,
+            "khách sạn": 0.5,
+            "người bạn địa phương": 0.9948618185007945,
+            "áo sơ mi": 0.5,
+            "chất lượng": 0.7428352493006969,
+            "vật liệu": 0.016219604818616062,
+            "bộ": 0.9919749404070899,
+            "chất lượng bộ đồ": 0.994897122727707,
+            "người quản lý": 0.9684209604747593
+        },
+        "dicts_adj": {
+            "áo khoác": [
+                "đẹp"
+            ],
+            "quần áo": [
+                "hài lòng",
+                "thực sự",
+                "dễ dàng",
+                "hơn",
+                "sẵn sàng",
+                "nổi tiếng"
+            ],
+            "thợ may": [
+                "đúng",
+                "Thực sự"
+            ],
+            "dịch vụ": [
+                "thân thiện",
+                "hoàn hảo",
+                "thực sự",
+                "kiên nhẫn",
+                "chuyên nghiệp",
+                "tử tế",
+                "vui",
+                "hài lòng"
+            ],
+            "nhân viên": [
+                "thân thiện"
+            ],
+            "loại vải": [
+                "tuyệt vời"
+            ],
+            "váy": [
+                "sớm"
+            ],
+            "loại": [
+                "tuyệt vời"
+            ],
+            "vải": [
+                "tuyệt vời",
+                "tuyệt"
+            ],
+            "bộ áo liền quần": [
+                "rõ ràng",
+                "vừa vặn",
+                "hoàn hảo",
+                "giống"
+            ],
+            "bộ đồ nam": [
+                "tuyệt vời"
+            ],
+            "tầng": [],
+            "sản phẩm": [],
+            "tiệm may": [
+                "playsuit"
+            ],
+            "bộ đồ": [
+                "playsuit"
+            ],
+            "bộ đồ đó": [
+                "sớm"
+            ],
+            "giá": [
+                "tốt",
+                "vội vã",
+                "nhiều"
+            ],
+            "mọi người": [],
+            "cửa hàng": [
+                "vui",
+                "hài lòng"
+            ],
+            "dịch vụ may": [
+                "dễ dàng",
+                "hơn",
+                "sẵn sàng"
+            ],
+            "quán": [
+                "trực tiếp"
+            ],
+            "com": [
+                "bất kỳ"
+            ],
+            "khách sạn": [],
+            "người bạn địa phương": [
+                "thực sự",
+                "vui"
+            ],
+            "áo sơ mi": [],
+            "chất lượng": [
+                "khác",
+                "chính xác",
+                "thực sự",
+                "tuyệt",
+                "hơn",
+                "cao",
+                "tốt"
+            ],
+            "vật liệu": [
+                "khác",
+                "chính xác"
+            ],
+            "bộ": [
+                "vừa vặn"
+            ],
+            "chất lượng bộ đồ": [
+                "hài lòng"
+            ],
+            "người quản lý": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "áo khoác": 0.5,
+            "quần áo": 2.0,
+            "thợ may": 2.0,
+            "dịch vụ": 2.5,
+            "nhân viên": 0.5,
+            "loại vải": 0.5,
+            "váy": 1.0,
+            "loại": 0.5,
+            "vải": 1.5,
+            "bộ áo liền quần": 0.5,
+            "bộ đồ nam": 0.5,
+            "tầng": 0.5,
+            "sản phẩm": 0.5,
+            "tiệm may": 1.0,
+            "bộ đồ": 1.0,
+            "bộ đồ đó": 0.5,
+            "giá": 0.5,
+            "mọi người": 0.5,
+            "cửa hàng": 0.5,
+            "dịch vụ may": 0.5,
+            "quán": 0.5,
+            "com": 0.5,
+            "khách sạn": 0.5,
+            "người bạn địa phương": 0.5,
+            "áo sơ mi": 0.5,
+            "chất lượng": 1.0,
+            "vật liệu": 0.5,
+            "bộ": 0.5,
+            "chất lượng bộ đồ": 0.5,
+            "người quản lý": 0.5
+        }
     },
     {
         "attraction_name": "LaMy Tailor",
@@ -677,7 +1655,108 @@
             "https://www.tripadvisor.com/Attraction_Review-g8667934-d8681287-Reviews-Gurez_Valley_Kel_to_Taobat-Kel_Azad_Kashmir.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d12958119-Reviews-or60-LaMy_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12958119-Reviews-or50-LaMy_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12958119-Reviews-or50-LaMy_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.9549031373074589,
+            "quần áo": 0.7966262676636688,
+            "dịch vụ": 0.9728859951719642,
+            "chuyến đi": 0.9583096692804247,
+            "bộ": 0.5,
+            "bạn": 0.5,
+            "thợ may": 0.5,
+            "nhà may": 0.9703139530029148,
+            "loại": -0.9567328218836337,
+            "vật liệu": -0.9154245287645608,
+            "váy": 0.9231676500930917,
+            "áo sơ mi": -0.035588786005973816,
+            "cửa hàng": 0.9934602596331388,
+            "bộ đồ": 0.9949680234421976,
+            "- lin": 0.8737691454589367,
+            "chất": 0.8735484359785914,
+            "sản phẩm": 0.7464399430900812,
+            "bộ đồ vest": 0.9954840710852295,
+            "bức tranh": 0.993393286713399
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "tuyệt",
+                "thân thiện",
+                "tốt"
+            ],
+            "quần áo": [
+                "thân thiện",
+                "rộng",
+                "hài lòng",
+                "thực sự"
+            ],
+            "dịch vụ": [
+                "rẻ",
+                "tốt",
+                "xứng đáng"
+            ],
+            "chuyến đi": [],
+            "bộ": [],
+            "bạn": [],
+            "thợ may": [],
+            "nhà may": [],
+            "loại": [
+                "khác"
+            ],
+            "vật liệu": [
+                "khác"
+            ],
+            "váy": [
+                "riêng",
+                "sẵn sàng"
+            ],
+            "áo sơ mi": [
+                "riêng",
+                "sẵn sàng"
+            ],
+            "cửa hàng": [],
+            "bộ đồ": [
+                "tử tế"
+            ],
+            "- lin": [
+                "tốt"
+            ],
+            "chất": [
+                "cao cấp"
+            ],
+            "sản phẩm": [
+                "cao cấp"
+            ],
+            "bộ đồ vest": [
+                "đầy đủ"
+            ],
+            "bức tranh": [
+                "thực sự",
+                "hài lòng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 1.5,
+            "quần áo": 2.5,
+            "dịch vụ": 0.5,
+            "chuyến đi": 1.0,
+            "bộ": 1.0,
+            "bạn": 0.5,
+            "thợ may": 0.5,
+            "nhà may": 0.5,
+            "loại": 0.5,
+            "vật liệu": 0.5,
+            "váy": 0.5,
+            "áo sơ mi": 0.5,
+            "cửa hàng": 0.5,
+            "bộ đồ": 1.0,
+            "- lin": 0.5,
+            "chất": 0.5,
+            "sản phẩm": 0.5,
+            "bộ đồ vest": 0.5,
+            "bức tranh": 0.5
+        }
     },
     {
         "attraction_name": "LaMy Tailor",
@@ -795,7 +1874,88 @@
             "https://www.tripadvisor.com/Attraction_Review-g1865930-d3487687-Reviews-Wailua_River_State_Park-Wailua_Kauai_Hawaii.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d12958119-Reviews-or70-LaMy_Tailor-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12958119-Reviews-or60-LaMy_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12958119-Reviews-or60-LaMy_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quần áo": 0.9944396311184391,
+            "nhà may": 0.9703139530029148,
+            "biển vest": 0.6263832487165928,
+            "váy dạ": 0.7780194551063081,
+            "thợ may": 0.32840890605002643,
+            "váy": 0.6411182933176557,
+            "chơi đêm": 0.5,
+            "áo sơ mi": 0.5,
+            "váy suông dài": 0.6497392868623137,
+            "vải": 0.49834032566286623,
+            "đường cắt": 0.5,
+            "giá": 0.5,
+            "vali": 0.5,
+            "bộ đồ": 0.00995879340916872
+        },
+        "dicts_adj": {
+            "quần áo": [
+                "vui"
+            ],
+            "nhà may": [],
+            "biển vest": [
+                "đơn giản",
+                "cao",
+                "thường ngày"
+            ],
+            "váy dạ": [
+                "đơn giản",
+                "cao",
+                "thường ngày"
+            ],
+            "thợ may": [
+                "đơn giản",
+                "cao",
+                "thường ngày",
+                "rõ ràng",
+                "nhỏ"
+            ],
+            "váy": [
+                "đơn giản",
+                "cao",
+                "thường ngày"
+            ],
+            "chơi đêm": [],
+            "áo sơ mi": [],
+            "váy suông dài": [
+                "Cuối cùng"
+            ],
+            "vải": [
+                "tốt",
+                "hơn",
+                "rẻ",
+                "hơn"
+            ],
+            "đường cắt": [],
+            "giá": [],
+            "vali": [],
+            "bộ đồ": [
+                "đầu tiên",
+                "bình thường",
+                "bất kỳ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quần áo": 0.5,
+            "nhà may": 0.5,
+            "biển vest": 0.5,
+            "váy dạ": 0.5,
+            "thợ may": 0.5,
+            "váy": 0.5,
+            "chơi đêm": 0.5,
+            "áo sơ mi": 0.5,
+            "váy suông dài": 0.5,
+            "vải": 0.5,
+            "đường cắt": 0.5,
+            "giá": 0.5,
+            "vali": 0.5,
+            "bộ đồ": 0.5
+        }
     },
     {
         "attraction_name": "LaMy Tailor",
@@ -905,6 +2065,205 @@
             "https://www.tripadvisor.com/Attraction_Review-g28950-d105533-Reviews-Mount_Washington-New_Hampshire.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12958119-Reviews-or70-LaMy_Tailor-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d12958119-Reviews-or70-LaMy_Tailor-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thợ may": 0.6801737130283275,
+            "dịch vụ": 0.9888525918708183,
+            "món đồ": -0.2245885751908645,
+            "cửa hàng chọn vải": 0.5,
+            "món đồ đó": 0.9898011235636659,
+            "tiệm may": 0.6090614506974816,
+            "tài liệu": 0.5049363821744919,
+            "trải nghiệm": 0.8483544712071307,
+            "áo blazer": 0.5948011046275496,
+            "bộ vest": 0.5,
+            "váy": 0.5,
+            "nhân viên": 0.9317169754067436,
+            "quần áo": 0.9911217556412643,
+            "cửa hàng": -0.06746751333897312,
+            "cơ sở kinh doanh": 0.5,
+            "chất lượng": 0.8737691454589367,
+            "vải": 0.9154251953198885,
+            "nghề thủ công": 0.8669549877134463,
+            "giá cả": 0.948221606813604,
+            "mặt hàng": 0.9955671175848693,
+            "khách sạn": -0.6536444332450628,
+            "con phố": 0.6417475556954741,
+            "ngân sách": 0.9655427201651037,
+            "chủ": 0.9950828394794371,
+            "chủ nhà": 0.5473129143938422,
+            "giá trị": 0.9920597147429362,
+            "tiệm may lamy": 0.5,
+            "bộ váy": 0.5,
+            "jumpsuit": 0.9952825231011957,
+            "blazer": 0.8737691454589367,
+            "gia công": 0.986851520894561,
+            "bộ áo liền quần": 0.5,
+            "người": 0.9947980236029252
+        },
+        "dicts_adj": {
+            "thợ may": [
+                "nhiều",
+                "thực sự",
+                "tuyệt vời",
+                "đặc biệt",
+                "nhanh chóng",
+                "bận rộn",
+                "nhiều",
+                "hơn",
+                "cùng",
+                "tốt bụng",
+                "nhiều"
+            ],
+            "dịch vụ": [
+                "thực sự",
+                "tuyệt vời",
+                "đặc biệt",
+                "nhanh chóng",
+                "bận rộn",
+                "tuyệt vời"
+            ],
+            "món đồ": [
+                "khác",
+                "hơn"
+            ],
+            "cửa hàng chọn vải": [],
+            "món đồ đó": [
+                "khác",
+                "nhiều"
+            ],
+            "tiệm may": [
+                "ít",
+                "ngẫu nhiên"
+            ],
+            "tài liệu": [
+                "nhanh chóng"
+            ],
+            "trải nghiệm": [
+                "đắt",
+                "thú vị"
+            ],
+            "áo blazer": [
+                "nhiều"
+            ],
+            "bộ vest": [],
+            "váy": [],
+            "nhân viên": [
+                "xuất sắc",
+                "rõ",
+                "cùng"
+            ],
+            "quần áo": [
+                "tốt",
+                "hài lòng",
+                "nhanh"
+            ],
+            "cửa hàng": [
+                "lớn",
+                "khác",
+                "tốt",
+                "khác",
+                "khác"
+            ],
+            "cơ sở kinh doanh": [],
+            "chất lượng": [
+                "hợp lý",
+                "sẵn",
+                "ấm áp",
+                "tốt"
+            ],
+            "vải": [
+                "hợp lý",
+                "sẵn",
+                "ấm áp"
+            ],
+            "nghề thủ công": [
+                "hợp lý",
+                "sẵn",
+                "ấm áp"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "sẵn",
+                "ấm áp",
+                "tuyệt vời"
+            ],
+            "mặt hàng": [
+                "hài lòng",
+                "nhiều"
+            ],
+            "khách sạn": [
+                "cùng"
+            ],
+            "con phố": [
+                "cùng"
+            ],
+            "ngân sách": [
+                "cùng"
+            ],
+            "chủ": [
+                "tốt bụng",
+                "nhiều"
+            ],
+            "chủ nhà": [
+                "tốt bụng",
+                "nhiều"
+            ],
+            "giá trị": [
+                "tốt"
+            ],
+            "tiệm may lamy": [],
+            "bộ váy": [],
+            "jumpsuit": [
+                "tuyệt vời"
+            ],
+            "blazer": [
+                "tuyệt vời"
+            ],
+            "gia công": [
+                "tốt"
+            ],
+            "bộ áo liền quần": [],
+            "người": [
+                "đẹp"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thợ may": 3.0,
+            "dịch vụ": 1.0,
+            "món đồ": 0.5,
+            "cửa hàng chọn vải": 0.5,
+            "món đồ đó": 0.5,
+            "tiệm may": 0.5,
+            "tài liệu": 0.5,
+            "trải nghiệm": 1.0,
+            "áo blazer": 0.5,
+            "bộ vest": 0.5,
+            "váy": 1.0,
+            "nhân viên": 1.0,
+            "quần áo": 1.5,
+            "cửa hàng": 1.5,
+            "cơ sở kinh doanh": 0.5,
+            "chất lượng": 1.0,
+            "vải": 0.5,
+            "nghề thủ công": 0.5,
+            "giá cả": 1.0,
+            "mặt hàng": 0.5,
+            "khách sạn": 0.5,
+            "con phố": 0.5,
+            "ngân sách": 0.5,
+            "chủ": 0.5,
+            "chủ nhà": 0.5,
+            "giá trị": 0.5,
+            "tiệm may lamy": 0.5,
+            "bộ váy": 0.5,
+            "jumpsuit": 0.5,
+            "blazer": 0.5,
+            "gia công": 0.5,
+            "bộ áo liền quần": 0.5,
+            "người": 0.5
+        }
     }
 ]

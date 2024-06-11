@@ -105,7 +105,168 @@
             "https://www.tripadvisor.com/Attraction_Review-g293974-d294552-Reviews-Istanbul_Archaeological_Museum-Istanbul.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d12821278-Reviews-or10-Hay_Bar-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12821278-Reviews-Hay_Bar-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12821278-Reviews-Hay_Bar-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "âm nhạc": 0.7055961700825719,
+            "dịch vụ": 0.651897056173766,
+            "bia": 0.24500313005410135,
+            "rượu": 0.516521193087101,
+            "giờ": 0.5039110854268074,
+            "quán bar": 0.8289294668938965,
+            "nhân viên": 0.9944899244699628,
+            "đồ uống": 0.9680543698098821,
+            "nhạc sống": 0.9953795361914672,
+            "bầu không khí": 0.7995531496902307,
+            "cocktail": 0.9954569989349693,
+            "ban": 0.995423250598833,
+            "quầy bar": 0.9930887736845762,
+            "đồ ăn": 0.9956084490404464,
+            "ban nhạc": 0.9735525048551305,
+            "ban nhạc sống": 0.8737691454589367,
+            "đàn": 0.5,
+            "violin": 0.5,
+            "người": -0.9732718290761113,
+            "ca sĩ": 0.8737691454589367,
+            "nốt cao": 0.7926952131092548,
+            "bộ gõ": 0.993108379188925,
+            "buổi": 0.6440554484724998,
+            "hòa nhạc": 0.6160675585269928,
+            "giá": 0.8435185588896275,
+            "phố": 0.8737691454589367,
+            "bia -": 0.8737691454589367,
+            "chuyến du lịch": 0.5,
+            "bar": 0.5
+        },
+        "dicts_adj": {
+            "âm nhạc": [
+                "riêng"
+            ],
+            "dịch vụ": [
+                "riêng",
+                "tuyệt vời",
+                "suốt"
+            ],
+            "bia": [
+                "riêng"
+            ],
+            "rượu": [
+                "đông",
+                "trẻ",
+                "đầu tiên"
+            ],
+            "giờ": [
+                "nghiệp dư"
+            ],
+            "quán bar": [
+                "tốt"
+            ],
+            "nhân viên": [
+                "thực sự",
+                "tốt",
+                "thân thiện",
+                "thân thiện"
+            ],
+            "đồ uống": [
+                "thực sự",
+                "tốt",
+                "ngon"
+            ],
+            "nhạc sống": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "bầu không khí": [
+                "tuyệt vời",
+                "tràn ngập"
+            ],
+            "cocktail": [
+                "tuyệt vời"
+            ],
+            "ban": [
+                "tuyệt vời"
+            ],
+            "quầy bar": [
+                "thân thiện"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "ban nhạc": [
+                "thực sự",
+                "thú vị",
+                "hay",
+                "nhất",
+                "đặc biệt"
+            ],
+            "ban nhạc sống": [
+                "hay",
+                "nhất"
+            ],
+            "đàn": [],
+            "violin": [],
+            "người": [],
+            "ca sĩ": [
+                "đặc biệt"
+            ],
+            "nốt cao": [
+                "hay"
+            ],
+            "bộ gõ": [
+                "phải",
+                "tuyệt vời"
+            ],
+            "buổi": [
+                "trực tiếp"
+            ],
+            "hòa nhạc": [
+                "trực tiếp"
+            ],
+            "giá": [
+                "cao",
+                "rẻ"
+            ],
+            "phố": [
+                "ít"
+            ],
+            "bia -": [
+                "ít"
+            ],
+            "chuyến du lịch": [],
+            "bar": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "âm nhạc": 2.0,
+            "dịch vụ": 2.0,
+            "bia": 2.0,
+            "rượu": 1.5,
+            "giờ": 1.5,
+            "quán bar": 1.5,
+            "nhân viên": 2.5,
+            "đồ uống": 1.5,
+            "nhạc sống": 2.5,
+            "bầu không khí": 1.5,
+            "cocktail": 1,
+            "ban": 1,
+            "quầy bar": 1,
+            "đồ ăn": 0.5,
+            "ban nhạc": 1.5,
+            "ban nhạc sống": 0.5,
+            "đàn": 0.5,
+            "violin": 0.5,
+            "người": 0.5,
+            "ca sĩ": 0.5,
+            "nốt cao": 0.5,
+            "bộ gõ": 0.5,
+            "buổi": 0.5,
+            "hòa nhạc": 0.5,
+            "giá": 0.5,
+            "phố": 0.5,
+            "bia -": 0.5,
+            "chuyến du lịch": 0.5,
+            "bar": 0.5
+        }
     },
     {
         "attraction_name": "Hay Bar",
@@ -197,6 +358,56 @@
             "https://www.tripadvisor.com/Attraction_Review-g33020-d5988821-Reviews-Sikh_Gurdwara-San_Jose_California.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12821278-Reviews-or10-Hay_Bar-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12821278-Reviews-or10-Hay_Bar-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "quán bar": 0.5516292452812195,
+            "ly cocktail": 0.5,
+            "người phục vụ": -0.47826720145531,
+            "món": 0.502900579944253,
+            "ly cocktail 1 nước": 0.5465471912175417,
+            "món đó": -0.9665486479643732,
+            "đơn hàng": -0.954510745126754,
+            "giá": 0.49181829020380974,
+            "vị trí": -0.9265679400414228
+        },
+        "dicts_adj": {
+            "quán bar": [],
+            "ly cocktail": [],
+            "người phục vụ": [
+                "nhỏ bé",
+                "hài lòng"
+            ],
+            "món": [
+                "nhỏ bé"
+            ],
+            "ly cocktail 1 nước": [],
+            "món đó": [
+                "nhất định"
+            ],
+            "đơn hàng": [
+                "nhất định"
+            ],
+            "giá": [
+                "nhất định"
+            ],
+            "vị trí": [
+                "đặc biệt",
+                "nhỏ",
+                "thực sự"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "quán bar": 0.5,
+            "ly cocktail": 0.5,
+            "người phục vụ": 0.5,
+            "món": 0.5,
+            "ly cocktail 1 nước": 0.5,
+            "món đó": 0.5,
+            "đơn hàng": 0.5,
+            "giá": 0.5,
+            "vị trí": 0.5
+        }
     }
 ]

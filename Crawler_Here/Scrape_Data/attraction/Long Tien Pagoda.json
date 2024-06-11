@@ -69,6 +69,134 @@
             "https://www.tripadvisor.com/Attraction_Review-g188078-d199009-Reviews-Jungfrau-Bernese_Oberland_Canton_of_Bern.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d13567681-Reviews-Long_Tien_Pagoda-Halong_Bay_Quang_Ninh_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d13567681-Reviews-Long_Tien_Pagoda-Halong_Bay_Quang_Ninh_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thờ cúng chức năng": 0.5,
+            "người dân địa phương": -0.6974157597869635,
+            "ngôi chùa": 0.8380092801526189,
+            "phố": 0.5,
+            "vịnh": 0.8737691454589367,
+            "cà phê": 0.5,
+            "trung tâm mua sắm": 0.9953994747484103,
+            "thị trấn": 0.5119641255587339,
+            "con phố": -0.17660991591401398,
+            "váy": 0.9592259814962745,
+            "quần cho": 0.9055632781237364,
+            "quần đùi": 0.5171237085014582,
+            "áo": 0.45521917939186096,
+            "cảnh quay": 0.5,
+            "kênh": 0.5,
+            "ngôi đền": 0.5,
+            "vị thần": 0.5,
+            "núi": 0.5,
+            "khoảng sân": 0.44674604510267574,
+            "đồ ăn": 0.5,
+            "phòng": 0.5,
+            "tượng ngụ": 0.5,
+            "vị phật": 0.5,
+            "tòa nhà": -0.9746217101346701,
+            "tượng phật": 0.8737691454589367,
+            "người hướng dẫn": 0.08349429070949554,
+            "lịch sử": 0.5
+        },
+        "dicts_adj": {
+            "thờ cúng chức năng": [],
+            "người dân địa phương": [],
+            "ngôi chùa": [
+                "khó",
+                "trực tiếp",
+                "thú vị",
+                "khác"
+            ],
+            "phố": [],
+            "vịnh": [
+                "Ít",
+                "hơn"
+            ],
+            "cà phê": [],
+            "trung tâm mua sắm": [
+                "chắc chắn",
+                "thông thường",
+                "xa",
+                "thú vị"
+            ],
+            "thị trấn": [
+                "khó"
+            ],
+            "con phố": [
+                "nhỏ",
+                "địa phương"
+            ],
+            "váy": [
+                "phải"
+            ],
+            "quần cho": [
+                "phải"
+            ],
+            "quần đùi": [
+                "phải"
+            ],
+            "áo": [
+                "phải"
+            ],
+            "cảnh quay": [],
+            "kênh": [],
+            "ngôi đền": [],
+            "vị thần": [],
+            "núi": [],
+            "khoảng sân": [
+                "trái",
+                "nhiều",
+                "khác"
+            ],
+            "đồ ăn": [],
+            "phòng": [],
+            "tượng ngụ": [],
+            "vị phật": [],
+            "tòa nhà": [
+                "thực sự",
+                "đặc biệt",
+                "hiện đại"
+            ],
+            "tượng phật": [
+                "thú vị",
+                "khác"
+            ],
+            "người hướng dẫn": [
+                "khó"
+            ],
+            "lịch sử": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thờ cúng chức năng": 1.5,
+            "người dân địa phương": 1.5,
+            "ngôi chùa": 1.0,
+            "phố": 0.5,
+            "vịnh": 0.5,
+            "cà phê": 0.5,
+            "trung tâm mua sắm": 0.5,
+            "thị trấn": 0.5,
+            "con phố": 0.5,
+            "váy": 0.5,
+            "quần cho": 0.5,
+            "quần đùi": 0.5,
+            "áo": 0.5,
+            "cảnh quay": 0.5,
+            "kênh": 0.5,
+            "ngôi đền": 1.0,
+            "vị thần": 0.5,
+            "núi": 0.5,
+            "khoảng sân": 0.5,
+            "đồ ăn": 0.5,
+            "phòng": 0.5,
+            "tượng ngụ": 0.5,
+            "vị phật": 0.5,
+            "tòa nhà": 0.5,
+            "tượng phật": 0.5,
+            "người hướng dẫn": 0.5,
+            "lịch sử": 0.5
+        }
     }
 ]

@@ -111,7 +111,139 @@
             "https://www.tripadvisor.com/Attraction_Review-g60763-d10749293-Reviews-Christmas_Spectacular_Starring_the_Radio_City_Rockettes-New_York_City_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d14440826-Reviews-or10-Gac_Coffee_Massage-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14440826-Reviews-Gac_Coffee_Massage-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14440826-Reviews-Gac_Coffee_Massage-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ mát-xa cũng tốt": 0.9955189361935481,
+            "dịch vụ mát-xa": 0.5,
+            "- thảo": 0.5,
+            "-": 0.5,
+            "trải nghiệm": 0.9951455401605926,
+            "dịch vụ": 0.9143426530839255,
+            "nhân viên": 0.5,
+            "massage": 0.9769238361885073,
+            "giá cả": 0.5123329050838947,
+            "người": 0.8737691454589367,
+            "chủ nhà": 0.9941822269756813,
+            "thảo dược": 0.9889290569893395,
+            "cà phê": 0.9881956670287764,
+            "chuyến đi": 0.9947787879500538,
+            "chủ sở hữu": 0.9935122859315015,
+            "không gian": 0.9955309669603594,
+            "cà phê dừa": 0.8737691454589367,
+            "thảo mộc": 0.5,
+            "vườn": 0.5,
+            "cơ sở vật chất": 0.9955031730351038,
+            "buổi mát-xa kết hợp": 0.9954069809173234,
+            "một": 0.9947755694156513,
+            "phê dừa thơm ngon": 0.9956149897770956,
+            "chuyến đi đà nẵng": 0.993325755931437
+        },
+        "dicts_adj": {
+            "dịch vụ mát-xa cũng tốt": [
+                "thân thiện"
+            ],
+            "dịch vụ mát-xa": [],
+            "- thảo": [],
+            "-": [],
+            "trải nghiệm": [
+                "thực sự",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "nhân viên": [],
+            "massage": [
+                "thực sự",
+                "tuyệt vời",
+                "thoải mái",
+                "tuyệt vời",
+                "thực sự",
+                "tuyệt vời",
+                "khuyến khích",
+                "tuyệt vời",
+                "rẻ"
+            ],
+            "giá cả": [],
+            "người": [
+                "thân thiện",
+                "tốt bụng"
+            ],
+            "chủ nhà": [
+                "thân thiện",
+                "tốt bụng"
+            ],
+            "thảo dược": [
+                "thực sự",
+                "tuyệt vời",
+                "khuyến khích"
+            ],
+            "cà phê": [
+                "đẹp",
+                "tuyệt vời",
+                "hơn"
+            ],
+            "chuyến đi": [],
+            "chủ sở hữu": [
+                "thân thiện"
+            ],
+            "không gian": [
+                "ấm cúng",
+                "đẹp đẽ",
+                "tốt"
+            ],
+            "cà phê dừa": [
+                "rẻ",
+                "ngon",
+                "nhiều"
+            ],
+            "thảo mộc": [],
+            "vườn": [],
+            "cơ sở vật chất": [
+                "tuyệt vời"
+            ],
+            "buổi mát-xa kết hợp": [
+                "xinh xắn"
+            ],
+            "một": [
+                "xinh xắn"
+            ],
+            "phê dừa thơm ngon": [
+                "xinh xắn"
+            ],
+            "chuyến đi đà nẵng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ mát-xa cũng tốt": 0.5,
+            "dịch vụ mát-xa": 0.5,
+            "- thảo": 0.5,
+            "-": 0.5,
+            "trải nghiệm": 1.0,
+            "dịch vụ": 1.5,
+            "nhân viên": 0.5,
+            "massage": 2.0,
+            "giá cả": 0.5,
+            "người": 0.5,
+            "chủ nhà": 0.5,
+            "thảo dược": 0.5,
+            "cà phê": 1.0,
+            "chuyến đi": 0.5,
+            "chủ sở hữu": 0.5,
+            "không gian": 0.5,
+            "cà phê dừa": 0.5,
+            "thảo mộc": 0.5,
+            "vườn": 0.5,
+            "cơ sở vật chất": 0.5,
+            "buổi mát-xa kết hợp": 0.5,
+            "một": 0.5,
+            "phê dừa thơm ngon": 0.5,
+            "chuyến đi đà nẵng": 0.5
+        }
     },
     {
         "attraction_name": "Gac Coffee & Massage",
@@ -205,6 +337,63 @@
             "https://www.tripadvisor.com/Attraction_Review-g15550330-d3440819-Reviews-Praia_da_Marinha-Caramujeira_Faro_District_Algarve.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14440826-Reviews-or10-Gac_Coffee_Massage-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d14440826-Reviews-or10-Gac_Coffee_Massage-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "massage": 0.6868845727294683,
+            "đồ uống": 0.8737691454589367,
+            "kiểu thái": 0.3223237469792366,
+            "cửa hàng": 0.07545669670798816,
+            "cà phê": 0.5,
+            "buổi sáng": 0.5,
+            "mát-xa": 0.5,
+            "hương thơm": 0.5,
+            "dịch vụ": 0.5,
+            "nhân viên": 0.992819587700069,
+            "chủ sở hữu": 0.9955190652399324,
+            "và thưởng": 0.5,
+            "sau đó": 0.5
+        },
+        "dicts_adj": {
+            "massage": [
+                "ngon đồ"
+            ],
+            "đồ uống": [
+                "ngon"
+            ],
+            "kiểu thái": [],
+            "cửa hàng": [
+                "trang nhã"
+            ],
+            "cà phê": [],
+            "buổi sáng": [],
+            "mát-xa": [],
+            "hương thơm": [],
+            "dịch vụ": [],
+            "nhân viên": [
+                "tốt"
+            ],
+            "chủ sở hữu": [
+                "tốt đẹp"
+            ],
+            "và thưởng": [],
+            "sau đó": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "massage": 1.0,
+            "đồ uống": 0.5,
+            "kiểu thái": 0.5,
+            "cửa hàng": 0.5,
+            "cà phê": 1.0,
+            "buổi sáng": 0.5,
+            "mát-xa": 1.0,
+            "hương thơm": 0.5,
+            "dịch vụ": 0.5,
+            "nhân viên": 0.5,
+            "chủ sở hữu": 0.5,
+            "và thưởng": 0.5,
+            "sau đó": 0.5
+        }
     }
 ]

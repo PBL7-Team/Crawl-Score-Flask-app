@@ -115,7 +115,185 @@
             "https://www.tripadvisor.com/Attraction_Review-g150807-d2343996-Reviews-Mandala_Beach-Cancun_Yucatan_Peninsula.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298085-d15850143-Reviews-or10-Gao_Spa-Da_Nang.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15850143-Reviews-Gao_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15850143-Reviews-Gao_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.9678630962909665,
+            "dịch vụ": 0.6369027330614959,
+            "massage": 0.8703643678338266,
+            "người dân địa phương": 0.5,
+            "người nước ngoài": 0.5,
+            "spa": 0.9093986300576944,
+            "trải nghiệm": 0.5,
+            "môi trường": 0.8292215552646667,
+            "giờ": 0.9945910773822106,
+            "dầu dừa ấn độ": 0.8737691454589367,
+            "sơn móng": 0.5,
+            "gel": 0.9952727337367833,
+            "hương thơm": 0.9955685918685049,
+            "đồ ăn": 0.9955882336944342,
+            "trà": 0.9900616711820476,
+            "họ": 0.6868845727294683,
+            "dịch vụ mát-xa": 0.5,
+            "mức": 0.8314550286935022,
+            "giá": 0.8345872952292362,
+            "tiện": -0.6637202380225062,
+            "khách sạn": -0.9620520726311952,
+            "massage chân": 0.9890789419878274,
+            "phòng": 0.5110923741012812,
+            "mức giảm giá": 0.9955750365625136,
+            "chuyến thăm": 0.9775650566831852,
+            "cơ sở vật chất": 0.5,
+            "massage thái": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "nhân viên": [
+                "thân thiện",
+                "chuyên nghiệp",
+                "tốt bụng",
+                "vui vẻ",
+                "ngon",
+                "tốt",
+                "nhiều",
+                "hơn",
+                "khác",
+                "chu đáo",
+                "nhanh chóng"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tốt",
+                "xuất sắc",
+                "vui mừng",
+                "cao",
+                "tốt",
+                "xuất sắc",
+                "vui mừng",
+                "cao",
+                "tốt",
+                "tốt",
+                "tuyệt vời",
+                "tuyệt vời",
+                "khác"
+            ],
+            "massage": [
+                "tuyệt vời",
+                "thơm",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "người dân địa phương": [],
+            "người nước ngoài": [],
+            "spa": [
+                "nhiều",
+                "tích cực",
+                "nhiều",
+                "tích cực",
+                "tuyệt vời",
+                "cao",
+                "nhiều"
+            ],
+            "trải nghiệm": [],
+            "môi trường": [
+                "tốt",
+                "vui",
+                "gần",
+                "dễ chịu",
+                "tốt",
+                "vui",
+                "gần"
+            ],
+            "giờ": [
+                "thơm"
+            ],
+            "dầu dừa ấn độ": [
+                "thơm"
+            ],
+            "sơn móng": [],
+            "gel": [
+                "nhanh",
+                "đẹp"
+            ],
+            "hương thơm": [
+                "chuyên nghiệp"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "trà": [
+                "ngon"
+            ],
+            "họ": [
+                "tuyệt vời",
+                "cao"
+            ],
+            "dịch vụ mát-xa": [],
+            "mức": [
+                "tốt",
+                "hơn",
+                "tốt"
+            ],
+            "giá": [
+                "tốt",
+                "hơn",
+                "tốt"
+            ],
+            "tiện": [
+                "cứng rắn"
+            ],
+            "khách sạn": [
+                "đầu tiên"
+            ],
+            "massage chân": [
+                "tốt"
+            ],
+            "phòng": [
+                "riêng"
+            ],
+            "mức giảm giá": [
+                "tuyệt vời",
+                "tốt"
+            ],
+            "chuyến thăm": [
+                "gần",
+                "tốt đẹp",
+                "hài lòng"
+            ],
+            "cơ sở vật chất": [],
+            "massage thái": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 2.5,
+            "dịch vụ": 3.5,
+            "massage": 2.5,
+            "người dân địa phương": 0.5,
+            "người nước ngoài": 0.5,
+            "spa": 3.5,
+            "trải nghiệm": 1.0,
+            "môi trường": 1.5,
+            "giờ": 0.5,
+            "dầu dừa ấn độ": 0.5,
+            "sơn móng": 0.5,
+            "gel": 0.5,
+            "hương thơm": 0.5,
+            "đồ ăn": 0.5,
+            "trà": 0.5,
+            "họ": 1.0,
+            "dịch vụ mát-xa": 0.5,
+            "mức": 0.5,
+            "giá": 0.5,
+            "tiện": 0.5,
+            "khách sạn": 0.5,
+            "massage chân": 0.5,
+            "phòng": 0.5,
+            "mức giảm giá": 0.5,
+            "chuyến thăm": 0.5,
+            "cơ sở vật chất": 0.5,
+            "massage thái": 0.5
+        }
     },
     {
         "attraction_name": "Gao Spa",
@@ -224,6 +402,142 @@
             "https://www.tripadvisor.com/Attraction_Review-g187337-d10471729-Reviews-LUXX_Lounge-Frankfurt_Hesse.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15850143-Reviews-or10-Gao_Spa-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d15850143-Reviews-or10-Gao_Spa-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "massage": 0.991229001127067,
+            "địa điểm massage": 0.5,
+            "trải nghiệm": 0.8713436694451957,
+            "spa": 0.6846548128942959,
+            "dịch vụ": 0.9917359801927685,
+            "môi trường": 0.9862547990633175,
+            "nhân viên": 0.93071040904033,
+            "người đấm bóp": 0.9954624242964201,
+            "massage đá nóng": 0.8737691454589367,
+            "họ": 0.5,
+            "tẩy da": 0.5,
+            "mát-xa": 0.5,
+            "toàn thân và mát-xa": 0.5,
+            "trong": 0.5,
+            "90-100 phút": 0.5,
+            "tiền bỏ": 0.9948822451988235,
+            "trị liệu": 0.5510757742449641,
+            "giá": 0.5,
+            "món tráng miệng": 0.9383822670206428,
+            "bạn luôn": 0.5,
+            "nhân viên lễ tân": 0.9925651887897402,
+            "chuyến đi": 0.9924127548001707
+        },
+        "dicts_adj": {
+            "massage": [
+                "chuyên nghiệp",
+                "cao"
+            ],
+            "địa điểm massage": [],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "thực sự",
+                "độc đáo",
+                "vui mừng"
+            ],
+            "spa": [
+                "to lớn",
+                "mệt mỏi",
+                "sớm",
+                "khác",
+                "cao",
+                "nhiều",
+                "thực sự",
+                "độc đáo",
+                "vui mừng"
+            ],
+            "dịch vụ": [
+                "tốt",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tốt",
+                "tuyệt vời",
+                "tuyệt vời",
+                "chân thành",
+                "vui",
+                "vui",
+                "hài lòng"
+            ],
+            "môi trường": [
+                "tốt",
+                "vui",
+                "gần",
+                "tốt",
+                "vui",
+                "gần",
+                "sạch sẽ"
+            ],
+            "nhân viên": [
+                "chuyên nghiệp",
+                "thường xuyên",
+                "mạnh",
+                "tuyệt vời",
+                "thực sự",
+                "chuyên nghiệp",
+                "chu đáo"
+            ],
+            "người đấm bóp": [
+                "thân thiện",
+                "suốt",
+                "thực sự",
+                "thoải mái",
+                "chuyên nghiệp",
+                "tốt"
+            ],
+            "massage đá nóng": [
+                "tuyệt vời"
+            ],
+            "họ": [],
+            "tẩy da": [],
+            "mát-xa": [],
+            "toàn thân và mát-xa": [],
+            "trong": [],
+            "90-100 phút": [],
+            "tiền bỏ": [],
+            "trị liệu": [
+                "đặc biệt"
+            ],
+            "giá": [],
+            "món tráng miệng": [
+                "đặc biệt"
+            ],
+            "bạn luôn": [],
+            "nhân viên lễ tân": [],
+            "chuyến đi": [
+                "thực sự",
+                "mệt mỏi",
+                "dài"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "massage": 1.0,
+            "địa điểm massage": 0.5,
+            "trải nghiệm": 4.0,
+            "spa": 7.5,
+            "dịch vụ": 4.5,
+            "môi trường": 2.0,
+            "nhân viên": 4.0,
+            "người đấm bóp": 0.5,
+            "massage đá nóng": 1,
+            "họ": 1.5,
+            "tẩy da": 1.5,
+            "mát-xa": 3.0,
+            "toàn thân và mát-xa": 1.5,
+            "trong": 1.5,
+            "90-100 phút": 1.5,
+            "tiền bỏ": 1.5,
+            "trị liệu": 1.5,
+            "giá": 1.5,
+            "món tráng miệng": 1.5,
+            "bạn luôn": 1.5,
+            "nhân viên lễ tân": 1.5,
+            "chuyến đi": 1.5
+        }
     }
 ]

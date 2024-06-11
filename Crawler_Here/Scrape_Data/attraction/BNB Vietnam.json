@@ -60,6 +60,24 @@
             "https://www.tripadvisor.com/Attraction_Review-g642196-d3519228-Reviews-Skagefla-Geiranger_Stranda_More_og_Romsdal_Western_Norway.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d17366793-Reviews-BNB_Vietnam-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d17366793-Reviews-BNB_Vietnam-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dịch vụ": 0.9938139101723209,
+            "người thợ": 0.6946836989372969
+        },
+        "dicts_adj": {
+            "dịch vụ": [
+                "hài lòng"
+            ],
+            "người thợ": [
+                "nhiệt tình"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dịch vụ": 0.5,
+            "người thợ": 0.5
+        }
     }
 ]

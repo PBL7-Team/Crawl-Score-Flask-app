@@ -86,6 +86,65 @@
             "https://www.tripadvisor.com/Attraction_Review-g34234-d643655-Reviews-Okaloosa_Island-Fort_Walton_Beach_Florida.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d12110597-Reviews-Riverside_Park-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d12110597-Reviews-Riverside_Park-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khách sạn": 0.8737691454589367,
+            "bờ sông": 0.8737691454589367,
+            "chuyến đi": 0.6901263101026416,
+            "tòa nhà mới": 0.5,
+            "công viên apec": 0.8737691454589367,
+            "bảo tàng chăm": 0.5,
+            "cầu rồng": 0.6868845727294683,
+            "nhà thờ hồng": 0.5,
+            "chợ đêm": 0.8737691454589367,
+            "sông": 0.710117313079536,
+            "công viên": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "khách sạn": [
+                "gần"
+            ],
+            "bờ sông": [
+                "dọc"
+            ],
+            "chuyến đi": [
+                "xanh",
+                "bận rộn"
+            ],
+            "tòa nhà mới": [],
+            "công viên apec": [
+                "gần"
+            ],
+            "bảo tàng chăm": [],
+            "cầu rồng": [
+                "gần",
+                "gần"
+            ],
+            "nhà thờ hồng": [],
+            "chợ đêm": [
+                "gần"
+            ],
+            "sông": [
+                "gần"
+            ],
+            "công viên": [
+                "gần"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khách sạn": 1,
+            "bờ sông": 1,
+            "chuyến đi": 1,
+            "tòa nhà mới": 1,
+            "công viên apec": 1,
+            "bảo tàng chăm": 1,
+            "cầu rồng": 2.0,
+            "nhà thờ hồng": 1,
+            "chợ đêm": 0.5,
+            "sông": 0.5,
+            "công viên": 0.5
+        }
     }
 ]

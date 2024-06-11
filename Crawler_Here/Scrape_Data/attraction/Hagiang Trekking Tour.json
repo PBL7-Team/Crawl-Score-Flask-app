@@ -83,7 +83,374 @@
             "https://www.tripadvisor.com/Attraction_Review-g48194-d532128-Reviews-Kirk_Park_Beach-Montauk_Long_Island_New_York.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g1544599-d4153662-Reviews-or10-Hagiang_Trekking_Tour-Ha_Giang_Ha_Giang_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1544599-d4153662-Reviews-Hagiang_Trekking_Tour-Ha_Giang_Ha_Giang_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1544599-d4153662-Reviews-Hagiang_Trekking_Tour-Ha_Giang_Ha_Giang_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tour": 0.9881699486868456,
+            "quan": 0.9936307816533372,
+            "ngành du lịch": 0.8887469582259655,
+            "vùng đất xa": 0.49031376652419567,
+            "cà phê": 0.5,
+            "karaoke": 0.5,
+            "ngôi làng": 0.7757367455633357,
+            "người dân": 0.5,
+            "làng thôn": 0.8737691454589367,
+            "chuyến đi": 0.6737959847693371,
+            "thời tiết": 0.9868175972951576,
+            "chuyến đi việt nam": 0.8737691454589367,
+            "hướng dẫn viên": 0.8647069684617842,
+            "bản làng": 0.5069493651390076,
+            "người mông": 0.8737691454589367,
+            "dân tộc thiểu số": -0.9586780276149511,
+            "mèo vạc": 0.8737691454589367,
+            "đồng": 0.8737691454589367,
+            "phiên chợ": 0.9954138678440358,
+            "canh": 0.6826316313818097,
+            "cốt cổ": 0.8737691454589367,
+            "điểm dừng": 0.6477417962451,
+            "cực bắc": 0.6078722234815359,
+            "tầm nhìn": 0.9947668872773647,
+            "đồng văn": 0.8737691454589367,
+            "cảnh quan": 0.9788408119638916,
+            "chuyến tham quan": 0.7199555341697609,
+            "dịch vụ vận chuyển": 0.8737691454589367,
+            "kiến ​​thức": 0.5,
+            "văn hóa bộ lạc": 0.5,
+            "điều phối giao thông": 0.5309681352227926,
+            "phong cảnh": 0.9549424010814013,
+            "chân": 0.5,
+            "giấy": 0.5,
+            "giấy phép": 0.5,
+            "khung cảnh": 0.995112557488028,
+            "ruộng bậc thang": 0.9871794474311173,
+            "người dân địa phương": 0.5409457888454199,
+            "núi đá vôi": 0.5168386027216911,
+            "thác bản giốc": 0.8737691454589367,
+            "cơn": 0.9952074028551579,
+            "hồ": 0.9617264494299889,
+            "ba bể": 0.8737691454589367,
+            "khách sạn": -0.7145365573232993,
+            "nhà nghỉ": 0.9927077123138588,
+            "chuyến đi bảy đêm": 0.9924378601135686,
+            "khu chợ đường phố": 0.9947649395326152,
+            "shabby": 0.8581618033349514,
+            "lười biếng": 0.35480865091085434,
+            "văn phòng": 0.6868845727294683,
+            "cửa hàng hoa": 0.7476465116196778,
+            "cửa hàng": 0.5,
+            "xe đạp": 0.9643783429637551,
+            "tiền": 0.5,
+            "tiền bạc": 0.5,
+            "đèo mai": 0.8737691454589367,
+            "rượu": -0.8568662293255329,
+            "phòng": -0.9705784518737346,
+            "hướng dẫn viên du lịch": -0.07535246189218014,
+            "nam son": 0.9862092637922615,
+            "tuan": 0.9924879183527082,
+            "thon tha": 0.9228011649101973,
+            "vuong": 0.9944480640115216,
+            "king vuong chinh duc": 0.5,
+            "son vuong": 0.5,
+            "trải nghiệm": 0.967454569414258,
+            "văn hóa địa phương": 0.5,
+            "ẩm thực": 0.5,
+            "phong tục": 0.5,
+            "không khí": 0.5,
+            "bạn": 0.5,
+            "trekking": 0.5,
+            "chuyến đi bằng xe máy": 0.9942641238449141
+        },
+        "dicts_adj": {
+            "tour": [],
+            "quan": [],
+            "ngành du lịch": [
+                "đẹp",
+                "tương đối"
+            ],
+            "vùng đất xa": [
+                "nhiều",
+                "xa xôi"
+            ],
+            "cà phê": [],
+            "karaoke": [],
+            "ngôi làng": [
+                "đẹp",
+                "gần"
+            ],
+            "người dân": [],
+            "làng thôn": [
+                "đẹp",
+                "gần"
+            ],
+            "chuyến đi": [
+                "thực sự",
+                "tuyệt vời",
+                "khó khăn",
+                "nhiều",
+                "thực sự",
+                "cao",
+                "khác",
+                "đủ",
+                "bận rộn",
+                "hoàn toàn",
+                "tốt",
+                "đặc biệt",
+                "nhiều"
+            ],
+            "thời tiết": [
+                "đẹp"
+            ],
+            "chuyến đi việt nam": [
+                "đẹp"
+            ],
+            "hướng dẫn viên": [
+                "khoảng",
+                "thực sự",
+                "chuyên nghiệp",
+                "hoàn hảo",
+                "thực sự"
+            ],
+            "bản làng": [
+                "khác"
+            ],
+            "người mông": [
+                "nhiều"
+            ],
+            "dân tộc thiểu số": [
+                "khác"
+            ],
+            "mèo vạc": [
+                "tuyệt vời",
+                "thú vị",
+                "ngoạn mục",
+                "đặc biệt"
+            ],
+            "đồng": [
+                "tuyệt vời",
+                "thú vị"
+            ],
+            "phiên chợ": [
+                "tuyệt vời",
+                "thú vị"
+            ],
+            "canh": [
+                "đúng"
+            ],
+            "cốt cổ": [
+                "thú vị",
+                "xa"
+            ],
+            "điểm dừng": [
+                "thú vị",
+                "xa",
+                "thường xuyên"
+            ],
+            "cực bắc": [],
+            "tầm nhìn": [
+                "đẹp"
+            ],
+            "đồng văn": [
+                "nhiều",
+                "ngoạn mục",
+                "đặc biệt"
+            ],
+            "cảnh quan": [
+                "đẹp",
+                "nhất"
+            ],
+            "chuyến tham quan": [
+                "hữu ích",
+                "nhất",
+                "tốt"
+            ],
+            "dịch vụ vận chuyển": [
+                "hữu ích",
+                "nhất"
+            ],
+            "kiến ​​thức": [],
+            "văn hóa bộ lạc": [],
+            "điều phối giao thông": [
+                "điềm tĩnh",
+                "khéo léo"
+            ],
+            "phong cảnh": [
+                "đẹp",
+                "tốt",
+                "ngoạn mục",
+                "đặc biệt",
+                "tuyệt vời",
+                "chắc chắn",
+                "đẹp"
+            ],
+            "chân": [],
+            "giấy": [],
+            "giấy phép": [],
+            "khung cảnh": [
+                "ngoạn mục"
+            ],
+            "ruộng bậc thang": [
+                "đẹp"
+            ],
+            "người dân địa phương": [
+                "khắp"
+            ],
+            "núi đá vôi": [
+                "khắp"
+            ],
+            "thác bản giốc": [
+                "ngoạn mục"
+            ],
+            "cơn": [
+                "ngoạn mục"
+            ],
+            "hồ": [
+                "thanh bình"
+            ],
+            "ba bể": [
+                "ngoạn mục"
+            ],
+            "khách sạn": [
+                "hoàn toàn",
+                "nhiều",
+                "hoàn toàn"
+            ],
+            "nhà nghỉ": [
+                "hoàn toàn",
+                "nhiều"
+            ],
+            "chuyến đi bảy đêm": [
+                "hoàn toàn",
+                "nhiều"
+            ],
+            "khu chợ đường phố": [
+                "hoàn toàn",
+                "nhiều"
+            ],
+            "shabby": [],
+            "lười biếng": [],
+            "văn phòng": [
+                "thực sự"
+            ],
+            "cửa hàng hoa": [
+                "lạ"
+            ],
+            "cửa hàng": [],
+            "xe đạp": [
+                "tốt",
+                "nhiều"
+            ],
+            "tiền": [],
+            "tiền bạc": [],
+            "đèo mai": [
+                "ngoạn mục",
+                "đặc biệt"
+            ],
+            "rượu": [],
+            "phòng": [
+                "hoàn toàn"
+            ],
+            "hướng dẫn viên du lịch": [
+                "khác",
+                "hơn"
+            ],
+            "nam son": [],
+            "tuan": [],
+            "thon tha": [
+                "to"
+            ],
+            "vuong": [],
+            "king vuong chinh duc": [],
+            "son vuong": [],
+            "trải nghiệm": [
+                "mới"
+            ],
+            "văn hóa địa phương": [],
+            "ẩm thực": [],
+            "phong tục": [],
+            "không khí": [],
+            "bạn": [],
+            "trekking": [],
+            "chuyến đi bằng xe máy": [
+                "đẹp",
+                "nhất"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tour": 1.0,
+            "quan": 0.5,
+            "ngành du lịch": 0.5,
+            "vùng đất xa": 0.5,
+            "cà phê": 0.5,
+            "karaoke": 0.5,
+            "ngôi làng": 0.5,
+            "người dân": 0.5,
+            "làng thôn": 0.5,
+            "chuyến đi": 2.0,
+            "thời tiết": 0.5,
+            "chuyến đi việt nam": 0.5,
+            "hướng dẫn viên": 1.5,
+            "bản làng": 0.5,
+            "người mông": 0.5,
+            "dân tộc thiểu số": 0.5,
+            "mèo vạc": 1.0,
+            "đồng": 0.5,
+            "phiên chợ": 0.5,
+            "canh": 0.5,
+            "cốt cổ": 0.5,
+            "điểm dừng": 1.0,
+            "cực bắc": 0.5,
+            "tầm nhìn": 0.5,
+            "đồng văn": 1.0,
+            "cảnh quan": 0.5,
+            "chuyến tham quan": 1.5,
+            "dịch vụ vận chuyển": 0.5,
+            "kiến ​​thức": 0.5,
+            "văn hóa bộ lạc": 0.5,
+            "điều phối giao thông": 0.5,
+            "phong cảnh": 1.5,
+            "chân": 0.5,
+            "giấy": 0.5,
+            "giấy phép": 0.5,
+            "khung cảnh": 0.5,
+            "ruộng bậc thang": 0.5,
+            "người dân địa phương": 0.5,
+            "núi đá vôi": 0.5,
+            "thác bản giốc": 0.5,
+            "cơn": 0.5,
+            "hồ": 0.5,
+            "ba bể": 0.5,
+            "khách sạn": 1.0,
+            "nhà nghỉ": 0.5,
+            "chuyến đi bảy đêm": 0.5,
+            "khu chợ đường phố": 0.5,
+            "shabby": 0.5,
+            "lười biếng": 1.0,
+            "văn phòng": 1.0,
+            "cửa hàng hoa": 1.0,
+            "cửa hàng": 0.5,
+            "xe đạp": 0.5,
+            "tiền": 0.5,
+            "tiền bạc": 0.5,
+            "đèo mai": 0.5,
+            "rượu": 0.5,
+            "phòng": 0.5,
+            "hướng dẫn viên du lịch": 1.0,
+            "nam son": 0.5,
+            "tuan": 0.5,
+            "thon tha": 0.5,
+            "vuong": 0.5,
+            "king vuong chinh duc": 0.5,
+            "son vuong": 0.5,
+            "trải nghiệm": 0.5,
+            "văn hóa địa phương": 0.5,
+            "ẩm thực": 0.5,
+            "phong tục": 0.5,
+            "không khí": 0.5,
+            "bạn": 0.5,
+            "trekking": 0.5,
+            "chuyến đi bằng xe máy": 0.5
+        }
     },
     {
         "attraction_name": "Hagiang Trekking Tour",
@@ -169,7 +536,160 @@
             "https://www.tripadvisor.com/Attraction_Review-g60961-d10435117-Reviews-Breakheart_Reservation-Saugus_Massachusetts.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g1544599-d4153662-Reviews-or20-Hagiang_Trekking_Tour-Ha_Giang_Ha_Giang_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1544599-d4153662-Reviews-or10-Hagiang_Trekking_Tour-Ha_Giang_Ha_Giang_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1544599-d4153662-Reviews-or10-Hagiang_Trekking_Tour-Ha_Giang_Ha_Giang_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi thăm": 0.5,
+            "tour du lịch": 0.5,
+            "chuyến đi": 0.9953377817291766,
+            "đồ ăn": 0.995452032899872,
+            "hướng dẫn viên": 0.9955095638870262,
+            "phong cảnh": 0.9954722438706085,
+            "xe buýt": 0.5161982383579016,
+            "bến xe": 0.5868648467585444,
+            "xe máy": 0.5,
+            "thị trấn đồng văn": 0.6191994398832321,
+            "chuyến du lịch xuyên": 0.9952544131083414,
+            "chuyến tham quan bằng xe đạp": 0.5,
+            "chuyến tham quan": 0.5,
+            "dân làng": 0.9950352287851274,
+            "cộng đồng người tày": 0.5,
+            "dự án du lịch": 0.6868845727294683,
+            "chỗ": 0.5794759020209312,
+            "con người": 0.7477816484752111,
+            "du": 0.5550939589738846,
+            "thiên nhiên": 0.5,
+            "người dân": 0.5,
+            "ngôi làng": 0.49539418891072273,
+            "ruộng bậc thang": -0.2106726188212633,
+            "núi non": 0.5939399749040604,
+            "họ": 0.8737691454589367,
+            "ngôi": 0.9836927087744698,
+            "nhà sàn": 0.9154119077526653,
+            "nông dân ăn uống": 0.5,
+            "người bản địa sống": 0.5,
+            "người bản xứ": 0.5,
+            "khung": 0.5,
+            "bầu không khí": 0.5
+        },
+        "dicts_adj": {
+            "chuyến đi thăm": [],
+            "tour du lịch": [],
+            "chuyến đi": [
+                "tuyệt vời",
+                "cùng",
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "ngon",
+                "tốt",
+                "ngon",
+                "ngon",
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "vui tính"
+            ],
+            "phong cảnh": [
+                "tuyệt vời"
+            ],
+            "xe buýt": [
+                "gần"
+            ],
+            "bến xe": [
+                "gần"
+            ],
+            "xe máy": [],
+            "thị trấn đồng văn": [],
+            "chuyến du lịch xuyên": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan bằng xe đạp": [],
+            "chuyến tham quan": [],
+            "dân làng": [
+                "đẹp",
+                "đặc biệt"
+            ],
+            "cộng đồng người tày": [],
+            "dự án du lịch": [
+                "đẹp"
+            ],
+            "chỗ": [],
+            "con người": [
+                "ngon",
+                "tuyệt vời"
+            ],
+            "du": [
+                "phải",
+                "mới"
+            ],
+            "thiên nhiên": [],
+            "người dân": [],
+            "ngôi làng": [
+                "nhỏ"
+            ],
+            "ruộng bậc thang": [
+                "dài"
+            ],
+            "núi non": [
+                "dài"
+            ],
+            "họ": [
+                "đơn giản",
+                "độc đáo",
+                "tự nhiên"
+            ],
+            "ngôi": [
+                "đơn giản",
+                "độc đáo",
+                "tự nhiên"
+            ],
+            "nhà sàn": [
+                "đơn giản",
+                "độc đáo",
+                "tự nhiên"
+            ],
+            "nông dân ăn uống": [],
+            "người bản địa sống": [],
+            "người bản xứ": [],
+            "khung": [],
+            "bầu không khí": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi thăm": 0.5,
+            "tour du lịch": 0.5,
+            "chuyến đi": 1.0,
+            "đồ ăn": 1.5,
+            "hướng dẫn viên": 0.5,
+            "phong cảnh": 0.5,
+            "xe buýt": 0.5,
+            "bến xe": 0.5,
+            "xe máy": 0.5,
+            "thị trấn đồng văn": 0.5,
+            "chuyến du lịch xuyên": 0.5,
+            "chuyến tham quan bằng xe đạp": 0.5,
+            "chuyến tham quan": 0.5,
+            "dân làng": 0.5,
+            "cộng đồng người tày": 0.5,
+            "dự án du lịch": 1.0,
+            "chỗ": 0.5,
+            "con người": 1.0,
+            "du": 0.5,
+            "thiên nhiên": 0.5,
+            "người dân": 0.5,
+            "ngôi làng": 0.5,
+            "ruộng bậc thang": 0.5,
+            "núi non": 0.5,
+            "họ": 0.5,
+            "ngôi": 0.5,
+            "nhà sàn": 0.5,
+            "nông dân ăn uống": 0.5,
+            "người bản địa sống": 0.5,
+            "người bản xứ": 0.5,
+            "khung": 0.5,
+            "bầu không khí": 0.5
+        }
     },
     {
         "attraction_name": "Hagiang Trekking Tour",
@@ -256,6 +776,241 @@
             "https://www.tripadvisor.com/Attraction_Review-g45963-d517543-Reviews-Las_Vegas_North_Premium_Outlets-Las_Vegas_Nevada.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g1544599-d4153662-Reviews-or20-Hagiang_Trekking_Tour-Ha_Giang_Ha_Giang_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1544599-d4153662-Reviews-or20-Hagiang_Trekking_Tour-Ha_Giang_Ha_Giang_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dãy núi đá": 0.9908559201285243,
+            "trải nghiệm": 0.7546271067112684,
+            "phong cảnh": 0.6850433565301097,
+            "vùng đất": 0.7611133500467986,
+            "nét hoang sơ": 0.9392038900405169,
+            "com": -0.8019485515542328,
+            "nhiếp ảnh gia": 0.9887350667268038,
+            "xe": 0.9954694642219692,
+            "khách sạn": -0.9758980134502053,
+            "cơ": 0.5,
+            "quan": 0.5,
+            "quản lý xuất nhập cảnh": 0.5,
+            "văn và": 0.8737691454589367,
+            "vạc": 0.8737691454589367,
+            "cửa hàng": 0.5,
+            "phòng": 0.5,
+            "người dân tộc": 0.8471491225645877,
+            "cha nuôi": 0.9787689833901823,
+            "áo khoác dày": 0.5806268118321896,
+            "anh hùng": 0.5,
+            "áo khoác": 0.5,
+            "mèo vạc lũng": 0.5,
+            "cú": 0.5,
+            "đồng": 0.5,
+            "phong cảnh ngoại giao": 0.8737691454589367,
+            "con người": 0.9763033473864198,
+            "núi": 0.4836251139640808,
+            "chuyến du lịch": 0.3169319335138425,
+            "bởi": 0.49647147580981255,
+            "sương mù": 0.6927521506634852,
+            "cụm mây": 0.48239372856914997,
+            "bộ lạc": 0.9774482557550073,
+            "thung lũng": 0.9852896425873041,
+            "khung cảnh": 0.9870366684626788,
+            "mùa đông": 0.9876516424119473,
+            "sông nho quế": 0.5,
+            "khe": 0.5,
+            "núi đá vôi": 0.5,
+            "đèo": 0.5,
+            "dãy núi": 0.5,
+            "vách đá": 0.5,
+            "hàng đống": 0.5,
+            "chuyến đi": 0.8068908136337996,
+            "trekking": 0.5,
+            "tận hưởng": 0.5,
+            "đi bộ": 0.6397522691404447,
+            "mùa khô": 0.9955238839611411,
+            "quang cảnh": 0.8737691454589367,
+            "vườn quốc gia": 0.6029645595699549,
+            "bao xa": -0.4193089734762907,
+            "liên kết": 0.9955619070678949
+        },
+        "dicts_adj": {
+            "dãy núi đá": [
+                "hùng vĩ"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "khác"
+            ],
+            "phong cảnh": [
+                "ngoạn mục",
+                "đẹp",
+                "khó khăn",
+                "như thế nào",
+                "tuyệt vời"
+            ],
+            "vùng đất": [
+                "đẹp",
+                "nhất"
+            ],
+            "nét hoang sơ": [],
+            "com": [],
+            "nhiếp ảnh gia": [],
+            "xe": [
+                "tuyệt vời"
+            ],
+            "khách sạn": [
+                "cùng"
+            ],
+            "cơ": [],
+            "quan": [],
+            "quản lý xuất nhập cảnh": [],
+            "văn và": [
+                "cùng"
+            ],
+            "vạc": [
+                "cùng"
+            ],
+            "cửa hàng": [],
+            "phòng": [],
+            "người dân tộc": [
+                "đầy",
+                "cao",
+                "nhất"
+            ],
+            "cha nuôi": [
+                "thân"
+            ],
+            "áo khoác dày": [],
+            "anh hùng": [],
+            "áo khoác": [],
+            "mèo vạc lũng": [],
+            "cú": [],
+            "đồng": [],
+            "phong cảnh ngoại giao": [
+                "trong sáng"
+            ],
+            "con người": [
+                "trong sáng"
+            ],
+            "núi": [
+                "bằng",
+                "cao",
+                "nhất",
+                "cao",
+                "nhất"
+            ],
+            "chuyến du lịch": [
+                "đặc biệt",
+                "chăm chỉ",
+                "chăm chỉ"
+            ],
+            "bởi": [
+                "chi tiết"
+            ],
+            "sương mù": [
+                "chi tiết",
+                "tốt"
+            ],
+            "cụm mây": [
+                "lơ lửng"
+            ],
+            "bộ lạc": [
+                "cao",
+                "nhất"
+            ],
+            "thung lũng": [
+                "cao",
+                "nhất"
+            ],
+            "khung cảnh": [
+                "cao",
+                "nhất"
+            ],
+            "mùa đông": [
+                "cao",
+                "nhất"
+            ],
+            "sông nho quế": [],
+            "khe": [],
+            "núi đá vôi": [],
+            "đèo": [],
+            "dãy núi": [],
+            "vách đá": [],
+            "hàng đống": [],
+            "chuyến đi": [
+                "hào hứng"
+            ],
+            "trekking": [],
+            "tận hưởng": [],
+            "đi bộ": [
+                "dài",
+                "tốt",
+                "hơn",
+                "nhiều"
+            ],
+            "mùa khô": [
+                "tuyệt vời"
+            ],
+            "quang cảnh": [
+                "tốt"
+            ],
+            "vườn quốc gia": [],
+            "bao xa": [],
+            "liên kết": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dãy núi đá": 0.5,
+            "trải nghiệm": 1.0,
+            "phong cảnh": 1.5,
+            "vùng đất": 0.5,
+            "nét hoang sơ": 0.5,
+            "com": 1.0,
+            "nhiếp ảnh gia": 0.5,
+            "xe": 0.5,
+            "khách sạn": 0.5,
+            "cơ": 0.5,
+            "quan": 0.5,
+            "quản lý xuất nhập cảnh": 0.5,
+            "văn và": 0.5,
+            "vạc": 0.5,
+            "cửa hàng": 0.5,
+            "phòng": 0.5,
+            "người dân tộc": 1.0,
+            "cha nuôi": 0.5,
+            "áo khoác dày": 0.5,
+            "anh hùng": 0.5,
+            "áo khoác": 0.5,
+            "mèo vạc lũng": 0.5,
+            "cú": 0.5,
+            "đồng": 0.5,
+            "phong cảnh ngoại giao": 0.5,
+            "con người": 0.5,
+            "núi": 1.0,
+            "chuyến du lịch": 1.0,
+            "bởi": 0.5,
+            "sương mù": 1.5,
+            "cụm mây": 0.5,
+            "bộ lạc": 0.5,
+            "thung lũng": 0.5,
+            "khung cảnh": 0.5,
+            "mùa đông": 0.5,
+            "sông nho quế": 0.5,
+            "khe": 0.5,
+            "núi đá vôi": 0.5,
+            "đèo": 0.5,
+            "dãy núi": 0.5,
+            "vách đá": 0.5,
+            "hàng đống": 0.5,
+            "chuyến đi": 0.5,
+            "trekking": 0.5,
+            "tận hưởng": 0.5,
+            "đi bộ": 0.5,
+            "mùa khô": 0.5,
+            "quang cảnh": 0.5,
+            "vườn quốc gia": 0.5,
+            "bao xa": 0.5,
+            "liên kết": 0.5
+        }
     }
 ]

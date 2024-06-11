@@ -113,7 +113,185 @@
             "https://www.tripadvisor.com/Attraction_Review-g230096-d669121-Reviews-Park_Las_Aquilas_Jungle_Park-Arona_Tenerife_Canary_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d25136142-Reviews-or10-Cam_Spa-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25136142-Reviews-Cam_Spa-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25136142-Reviews-Cam_Spa-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9952929429709911,
+            "spa": 0.8962048274697736,
+            "chuối chiên": 0.38162214681506157,
+            "ngâm chân": 0.5,
+            "mát-xa": 0.6229817828163504,
+            "toàn thân": 0.5,
+            "nhân viên": 0.8097446026877151,
+            "gọn gàng": 0.9950056622037664,
+            "máy lạnh": 0.9751926438184455,
+            "massage": 0.9948395126266405,
+            "chuyến thăm": 0.5,
+            "thật tuyệt": 0.9954412702936679,
+            "cà phê": 0.5,
+            "dầu dừa": 0.5,
+            "trà": 0.5,
+            "khu phố cổ": 0.3228201816964429,
+            "viêm khớp": 0.5,
+            "dịch vụ mát-xa chất lượng": 0.9565664241090417,
+            "vợ tôi": 0.5,
+            "đó": 0.5,
+            "thưởng thức": 0.5,
+            "giá cả": 0.5929320529103279,
+            "môi trường": 0.8737691454589367,
+            "mức": 0.8086971044540405,
+            "giá": 0.9337309182155877,
+            "chủ doanh nghiệp": 0.9955172835616395,
+            "dầu kiểu": 0.5,
+            "kiểu việt": 0.8737691454589367,
+            "mát-xa thư": 0.693935782648623,
+            "và dành": 0.9324274043901823,
+            "phương pháp điều trị": 0.9950424178969115,
+            "gel": 0.9926433835644275,
+            "cả": 0.5,
+            "người": 0.5,
+            "đồng tiền": 0.5
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "spa": [
+                "tuyệt vời"
+            ],
+            "chuối chiên": [
+                "lạnh"
+            ],
+            "ngâm chân": [],
+            "mát-xa": [
+                "tuyệt vời"
+            ],
+            "toàn thân": [],
+            "nhân viên": [
+                "vui vẻ",
+                "lịch sự",
+                "chuyên nghiệp",
+                "sạch sẽ"
+            ],
+            "gọn gàng": [
+                "tốt"
+            ],
+            "máy lạnh": [
+                "tốt"
+            ],
+            "massage": [
+                "đặc biệt",
+                "kiên nhẫn",
+                "tốt",
+                "suốt",
+                "đặc biệt",
+                "kiên nhẫn",
+                "tốt",
+                "đặc biệt",
+                "kiên nhẫn",
+                "tốt",
+                "suốt",
+                "đặc biệt",
+                "kiên nhẫn",
+                "tốt",
+                "suốt"
+            ],
+            "chuyến thăm": [],
+            "thật tuyệt": [
+                "tuyệt vời"
+            ],
+            "cà phê": [],
+            "dầu dừa": [],
+            "trà": [],
+            "khu phố cổ": [
+                "tuyệt vời",
+                "khó khăn"
+            ],
+            "viêm khớp": [],
+            "dịch vụ mát-xa chất lượng": [
+                "cao"
+            ],
+            "vợ tôi": [],
+            "đó": [],
+            "thưởng thức": [],
+            "giá cả": [
+                "phải chăng"
+            ],
+            "môi trường": [
+                "sạch sẽ",
+                "tuyệt vời"
+            ],
+            "mức": [
+                "hợp lý"
+            ],
+            "giá": [
+                "hợp lý"
+            ],
+            "chủ doanh nghiệp": [
+                "nhỏ",
+                "tuyệt vời",
+                "nhiệt tình"
+            ],
+            "dầu kiểu": [],
+            "kiểu việt": [
+                "thư giãn"
+            ],
+            "mát-xa thư": [
+                "thư giãn"
+            ],
+            "và dành": [
+                "thư giãn",
+                "nhất"
+            ],
+            "phương pháp điều trị": [
+                "tuyệt vời"
+            ],
+            "gel": [
+                "tuyệt vời"
+            ],
+            "cả": [],
+            "người": [],
+            "đồng tiền": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 2.5,
+            "spa": 8.5,
+            "chuối chiên": 1.5,
+            "ngâm chân": 1.5,
+            "mát-xa": 5.0,
+            "toàn thân": 1.5,
+            "nhân viên": 4.0,
+            "gọn gàng": 1.5,
+            "máy lạnh": 1.5,
+            "massage": 4.5,
+            "chuyến thăm": 1.5,
+            "thật tuyệt": 1.5,
+            "cà phê": 1.5,
+            "dầu dừa": 1.5,
+            "trà": 1.5,
+            "khu phố cổ": 1.5,
+            "viêm khớp": 1.5,
+            "dịch vụ mát-xa chất lượng": 1,
+            "vợ tôi": 1,
+            "đó": 1,
+            "thưởng thức": 1,
+            "giá cả": 1,
+            "môi trường": 1,
+            "mức": 1,
+            "giá": 1,
+            "chủ doanh nghiệp": 1,
+            "dầu kiểu": 1,
+            "kiểu việt": 1,
+            "mát-xa thư": 1,
+            "và dành": 1,
+            "phương pháp điều trị": 1,
+            "gel": 1,
+            "cả": 1,
+            "người": 1,
+            "đồng tiền": 1
+        }
     },
     {
         "attraction_name": "Cám Spa",
@@ -216,6 +394,167 @@
             "https://www.tripadvisor.com/Attraction_Review-g41558-d2008987-Reviews-Mytoi-Edgartown_Martha_s_Vineyard_Massachusetts.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25136142-Reviews-or10-Cam_Spa-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25136142-Reviews-or10-Cam_Spa-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "spa": 0.9942848584050807,
+            "dịch vụ": 0.8737691454589367,
+            "chất lượng": 0.8639560295268893,
+            "massage toàn": 0.6014391407370567,
+            "massage": 0.9069252362740892,
+            "nhân viên": 0.8712107006576844,
+            "chuyên gia trị liệu": 0.5,
+            "mát-xa": 0.6858124439095263,
+            "cơ thể": 0.5,
+            "phòng": 0.994560539140366,
+            "chỗ thợ may": 0.7771196601679549,
+            "khách sạn": 0.27564428048208356,
+            "chuyến đi": 0.5,
+            "và làm": 0.995331882731989,
+            "vời": 0.5,
+            "nhất mà": 0.5,
+            "chủ sở hữu": 0.8737691454589367,
+            "dầu dừa hữu cơ": 0.9939555993769318,
+            "lưng chồng tôi": 0.5,
+            "trà": 0.9353033152874559,
+            "mát-xa chân một chút": 0.5380546674132347,
+            "chúng": 0.5023775491863489,
+            "tôi trong": 0.5,
+            "dầu dừa": 0.5,
+            "massage vai": 0.9946859957417473,
+            "chủ nhà": 0.5,
+            "bồn ngâm chân": 0.5,
+            "massage kiểu": 0.5206892732530832,
+            "làng": 0.5,
+            "ông chủ": 0.5,
+            "mùi thơm": 0.5,
+            "khoảng thời gian": 0.9953072104835883
+        },
+        "dicts_adj": {
+            "spa": [
+                "tốt bụng",
+                "đẹp",
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "dịch vụ": [
+                "hơn"
+            ],
+            "chất lượng": [
+                "hơn"
+            ],
+            "massage toàn": [
+                "đặc biệt",
+                "kiên nhẫn",
+                "tốt"
+            ],
+            "massage": [
+                "tốt",
+                "đặc biệt",
+                "kiên nhẫn",
+                "tốt"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "chuyên nghiệp",
+                "đặc biệt",
+                "ấm áp",
+                "tuyệt vời",
+                "tươi cười"
+            ],
+            "chuyên gia trị liệu": [],
+            "mát-xa": [
+                "tuyệt vời"
+            ],
+            "cơ thể": [],
+            "phòng": [
+                "tử tế"
+            ],
+            "chỗ thợ may": [
+                "tối",
+                "an toàn"
+            ],
+            "khách sạn": [
+                "tối",
+                "an toàn"
+            ],
+            "chuyến đi": [],
+            "và làm": [
+                "tuyệt vời"
+            ],
+            "vời": [],
+            "nhất mà": [],
+            "chủ sở hữu": [
+                "thơm"
+            ],
+            "dầu dừa hữu cơ": [
+                "thơm"
+            ],
+            "lưng chồng tôi": [],
+            "trà": [
+                "trẻ"
+            ],
+            "mát-xa chân một chút": [
+                "trẻ"
+            ],
+            "chúng": [
+                "trẻ"
+            ],
+            "tôi trong": [],
+            "dầu dừa": [],
+            "massage vai": [
+                "đặc biệt",
+                "kiên nhẫn",
+                "tốt"
+            ],
+            "chủ nhà": [],
+            "bồn ngâm chân": [],
+            "massage kiểu": [
+                "chắc chắn",
+                "nhẹ nhàng",
+                "dễ chịu"
+            ],
+            "làng": [],
+            "ông chủ": [],
+            "mùi thơm": [],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "spa": 8.0,
+            "dịch vụ": 1,
+            "chất lượng": 1,
+            "massage toàn": 1,
+            "massage": 3.5,
+            "nhân viên": 4.0,
+            "chuyên gia trị liệu": 1,
+            "mát-xa": 4.0,
+            "cơ thể": 1,
+            "phòng": 1.5,
+            "chỗ thợ may": 1.5,
+            "khách sạn": 1.5,
+            "chuyến đi": 1.5,
+            "và làm": 1.5,
+            "vời": 1.5,
+            "nhất mà": 1.5,
+            "chủ sở hữu": 1.5,
+            "dầu dừa hữu cơ": 1.5,
+            "lưng chồng tôi": 1.5,
+            "trà": 1.5,
+            "mát-xa chân một chút": 1.5,
+            "chúng": 1.5,
+            "tôi trong": 1.5,
+            "dầu dừa": 1.5,
+            "massage vai": 1.5,
+            "chủ nhà": 1.5,
+            "bồn ngâm chân": 1.5,
+            "massage kiểu": 1.5,
+            "làng": 1.5,
+            "ông chủ": 1.5,
+            "mùi thơm": 1.5,
+            "khoảng thời gian": 1.5
+        }
     }
 ]

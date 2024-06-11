@@ -97,6 +97,144 @@
             "https://www.tripadvisor.com/Attraction_Review-g34543-d582013-Reviews-Coyote_Ugly_Saloon-Panama_City_Beach_Florida.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14000172-Reviews-Moc_Foot_Massage-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d14000172-Reviews-Moc_Foot_Massage-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khách sạn": 0.5873571811243892,
+            "mát-xa": 0.5,
+            "chân thư giãn": 0.5,
+            "mát-xa chân": 0.5,
+            "dịch vụ": 0.873886974688503,
+            "liệu pháp mát-xa chân chân cánh tay": 0.3924891445785761,
+            "và": -0.7394052320159972,
+            "nhân viên": 0.8394809398596408,
+            "menu": 0.5,
+            "mẹo": 0.5,
+            "trải nghiệm": 0.9898895521182567,
+            "massage": 0.8636579869198613,
+            "phòng": 0.9941458082175814,
+            "giường": 0.9946260224096477,
+            "vùng": -0.699664518237114,
+            "tiệm massage": 0.9955105591798201,
+            "chuyến đi": 0.986641461844556,
+            "massage truyền thống": 0.9915401220787317,
+            "âm nhạc": 0.7972628669813275,
+            "giá cả": 0.9529069985728711,
+            "massage chân": 0.9954007751075551,
+            "quản trị viên": 0.5,
+            "massage chân mộc": 0.5,
+            "ẩm thực": 0.5,
+            "spa": 0.9954810417257249,
+            "kỹ năng": 0.995426716748625
+        },
+        "dicts_adj": {
+            "khách sạn": [
+                "ngẫu nhiên",
+                "gần"
+            ],
+            "mát-xa": [],
+            "chân thư giãn": [],
+            "mát-xa chân": [],
+            "dịch vụ": [
+                "đặc biệt",
+                "tốt",
+                "hài lòng"
+            ],
+            "liệu pháp mát-xa chân chân cánh tay": [
+                "nóng"
+            ],
+            "và": [
+                "nóng"
+            ],
+            "nhân viên": [
+                "nhỏ nhắn",
+                "chuyên nghiệp",
+                "chuyên nghiệp",
+                "thân thiện"
+            ],
+            "menu": [],
+            "mẹo": [],
+            "trải nghiệm": [
+                "thực sự",
+                "tuyệt vời"
+            ],
+            "massage": [
+                "đầu tiên",
+                "tuyệt vời",
+                "vui",
+                "tuyệt vời"
+            ],
+            "phòng": [
+                "sạch sẽ"
+            ],
+            "giường": [
+                "thoải mái"
+            ],
+            "vùng": [
+                "cao"
+            ],
+            "tiệm massage": [
+                "vui",
+                "dễ chịu",
+                "thoải mái"
+            ],
+            "chuyến đi": [
+                "vui vẻ"
+            ],
+            "massage truyền thống": [
+                "vui"
+            ],
+            "âm nhạc": [
+                "chuyên nghiệp",
+                "chuyên nghiệp"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "hợp lý"
+            ],
+            "massage chân": [
+                "thật sự",
+                "tuyệt vời"
+            ],
+            "quản trị viên": [],
+            "massage chân mộc": [],
+            "ẩm thực": [],
+            "spa": [
+                "tuyệt vời"
+            ],
+            "kỹ năng": [
+                "chuyên nghiệp",
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khách sạn": 0.5,
+            "mát-xa": 0.5,
+            "chân thư giãn": 0.5,
+            "mát-xa chân": 0.5,
+            "dịch vụ": 1.0,
+            "liệu pháp mát-xa chân chân cánh tay": 0.5,
+            "và": 0.5,
+            "nhân viên": 2.0,
+            "menu": 0.5,
+            "mẹo": 0.5,
+            "trải nghiệm": 1.0,
+            "massage": 1.0,
+            "phòng": 0.5,
+            "giường": 0.5,
+            "vùng": 0.5,
+            "tiệm massage": 0.5,
+            "chuyến đi": 0.5,
+            "massage truyền thống": 0.5,
+            "âm nhạc": 1.0,
+            "giá cả": 1.0,
+            "massage chân": 0.5,
+            "quản trị viên": 0.5,
+            "massage chân mộc": 0.5,
+            "ẩm thực": 0.5,
+            "spa": 0.5,
+            "kỹ năng": 0.5
+        }
     }
 ]

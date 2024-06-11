@@ -89,6 +89,52 @@
             "https://www.tripadvisor.com/Attraction_Review-g14129730-d320047-Reviews-Tokyo_Tower-Shibakoen_Minato_Tokyo_Tokyo_Prefecture_Kanto.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d15661702-Reviews-Da_Lat_Thien_Nhien-Da_Lat_Lam_Dong_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293922-d15661702-Reviews-Da_Lat_Thien_Nhien-Da_Lat_Lam_Dong_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ngôi chùa": -0.9605327898170799,
+            "vật liệu": 0.5438891611993313,
+            "tượng phật hoa": 0.8737691454589367,
+            "phòng trưng bày": 0.5,
+            "đồ nghệ thuật": 0.5,
+            "tầng hầm": 0.5,
+            "tòa nhà": 0.8309892390388995,
+            "tượng phật": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "ngôi chùa": [
+                "khác"
+            ],
+            "vật liệu": [
+                "lớn"
+            ],
+            "tượng phật hoa": [
+                "khác"
+            ],
+            "phòng trưng bày": [],
+            "đồ nghệ thuật": [],
+            "tầng hầm": [],
+            "tòa nhà": [
+                "gần",
+                "thú vị",
+                "nhiều"
+            ],
+            "tượng phật": [
+                "gần",
+                "thú vị",
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ngôi chùa": 0.5,
+            "vật liệu": 0.5,
+            "tượng phật hoa": 0.5,
+            "phòng trưng bày": 0.5,
+            "đồ nghệ thuật": 0.5,
+            "tầng hầm": 0.5,
+            "tòa nhà": 0.5,
+            "tượng phật": 0.5
+        }
     }
 ]

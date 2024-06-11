@@ -92,6 +92,92 @@
             "https://www.tripadvisor.com/Attraction_Review-g776006-d8470298-Reviews-Trapezaki_Beach-Trapezaki_Kefalonia_Ionian_Islands.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12829980-Reviews-Motorbike_Rental_Van_Chinh-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12829980-Reviews-Motorbike_Rental_Van_Chinh-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "xe xăng": -0.19152899231994525,
+            "cây xăng": 0.5,
+            "cửa hàng": 0.9950646761571988,
+            "xe máy": 0.519761698320508,
+            "xe đạp": 0.20220264119561762,
+            "giá": 0.9807483516633511,
+            "dịch vụ": 0.995489668333903,
+            "giao hàng": 0.5,
+            "xe đạp mới": 0.5,
+            "cho thuê xe máy": 0.8737691454589367,
+            "giá trị": 0.9954997191671282,
+            "đồng": 0.00332200201228261,
+            "tiền đi": 0.00795902544632554
+        },
+        "dicts_adj": {
+            "xe xăng": [
+                "gần",
+                "cạn",
+                "đủ",
+                "gần"
+            ],
+            "cây xăng": [],
+            "cửa hàng": [
+                "đầy"
+            ],
+            "xe máy": [
+                "gần"
+            ],
+            "xe đạp": [
+                "cũ",
+                "khó",
+                "an toàn",
+                "nhiều",
+                "khác",
+                "gần",
+                "tốt",
+                "tốt",
+                "bất kỳ",
+                "hiếm",
+                "nhỏ",
+                "tốt"
+            ],
+            "giá": [
+                "tốt"
+            ],
+            "dịch vụ": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "giao hàng": [],
+            "xe đạp mới": [],
+            "cho thuê xe máy": [
+                "tuyệt vời"
+            ],
+            "giá trị": [
+                "tuyệt vời"
+            ],
+            "đồng": [
+                "thoải mái",
+                "ngắn hạn"
+            ],
+            "tiền đi": [
+                "thoải mái",
+                "ngắn hạn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "xe xăng": 0.5,
+            "cây xăng": 0.5,
+            "cửa hàng": 0.5,
+            "xe máy": 1.0,
+            "xe đạp": 1.5,
+            "giá": 0.5,
+            "dịch vụ": 1.0,
+            "giao hàng": 0.5,
+            "xe đạp mới": 0.5,
+            "cho thuê xe máy": 0.5,
+            "giá trị": 0.5,
+            "đồng": 0.5,
+            "tiền đi": 0.5
+        }
     }
 ]

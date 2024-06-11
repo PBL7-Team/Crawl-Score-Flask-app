@@ -85,6 +85,47 @@
             "https://www.tripadvisor.com/Attraction_Review-g54171-d105765-Reviews-Drayton_Hall-Charleston_South_Carolina.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d25226793-Reviews-True_Health_Massage_Therapy-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d25226793-Reviews-True_Health_Massage_Therapy-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "không gian": 0.8737691454589367,
+            "bản nhạc": 0.9728960131760687,
+            "kỹ thuật": 0.8737691454589367,
+            "massage": 0.9953644595807418,
+            "nhân viên": 0.9953185786725953,
+            "trải nghiệm": 0.5676288083195686,
+            "sức khỏe": 0.5
+        },
+        "dicts_adj": {
+            "không gian": [
+                "nhẹ nhàng"
+            ],
+            "bản nhạc": [
+                "nhẹ nhàng"
+            ],
+            "kỹ thuật": [
+                "cao"
+            ],
+            "massage": [
+                "cao"
+            ],
+            "nhân viên": [
+                "cao"
+            ],
+            "trải nghiệm": [
+                "cao"
+            ],
+            "sức khỏe": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "không gian": 1,
+            "bản nhạc": 1,
+            "kỹ thuật": 1,
+            "massage": 1,
+            "nhân viên": 1,
+            "trải nghiệm": 1,
+            "sức khỏe": 1
+        }
     }
 ]

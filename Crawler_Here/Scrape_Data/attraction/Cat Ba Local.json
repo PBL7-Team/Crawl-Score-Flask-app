@@ -82,7 +82,151 @@
             "https://www.tripadvisor.com/Attraction_Review-g54774-d208706-Reviews-Thunderhead_Falls-Rapid_City_South_Dakota.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293923-d10844855-Reviews-or10-Cat_Ba_Local-Halong_Bay_Quang_Ninh_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d10844855-Reviews-Cat_Ba_Local-Halong_Bay_Quang_Ninh_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d10844855-Reviews-Cat_Ba_Local-Halong_Bay_Quang_Ninh_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "phong cảnh": 0.9345542565570213,
+            "đồ ăn": 0.14273831583947563,
+            "tour khác": 0.9954787503811531,
+            "chèo thuyền kayak": 0.747613513172837,
+            "hướng dẫn viên": 0.9947630862588994,
+            "chuyến tham quan": 0.9548963224515319,
+            "đám đông": 0.5682776803150773,
+            "bữa trưa": 0.9245254372508498,
+            "hàu cá chiên": 0.8338895551860332,
+            "chuyến đi": 0.8737691454589367,
+            "khung cảnh": 0.9955325783230364,
+            "hướng dẫn viên du lịch": 0.9945197413714292,
+            "vịnh": 0.8511180682544364,
+            "trải nghiệm": 0.9955164568964392,
+            "quang cảnh": 0.9955129623413086,
+            "món ăn": 0.9955016200547107,
+            "hướng dẫn viên địa phương": 0.8737691454589367,
+            "thức ăn": 0.9346076222136617,
+            "đầm phá": 0.5,
+            "trang trại đánh cá": 0.5,
+            "thuyền": 0.8737691454589367,
+            "đồ uống": 0.5,
+            "tàu": 0.5,
+            "long": 0.5
+        },
+        "dicts_adj": {
+            "phong cảnh": [
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "ngon",
+                "hơn",
+                "nhiều"
+            ],
+            "tour khác": [
+                "tuyệt vời"
+            ],
+            "chèo thuyền kayak": [
+                "tuyệt vời",
+                "tuyệt đẹp"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "vui tính",
+                "tốt"
+            ],
+            "chuyến tham quan": [
+                "thực sự",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "đám đông": [
+                "khắp",
+                "lớn"
+            ],
+            "bữa trưa": [
+                "nhiều",
+                "khác",
+                "cao",
+                "ngon",
+                "ngon"
+            ],
+            "hàu cá chiên": [
+                "nhiều",
+                "khác"
+            ],
+            "chuyến đi": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "khung cảnh": [
+                "tuyệt đẹp"
+            ],
+            "hướng dẫn viên du lịch": [
+                "giỏi",
+                "an toàn",
+                "thực sự",
+                "thực sự",
+                "vui vẻ",
+                "xuất sắc",
+                "thực sự",
+                "ngon"
+            ],
+            "vịnh": [
+                "hơn",
+                "nhiều"
+            ],
+            "trải nghiệm": [
+                "thoải mái",
+                "thú vị"
+            ],
+            "quang cảnh": [
+                "hoành tráng"
+            ],
+            "món ăn": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên địa phương": [
+                "xuất sắc"
+            ],
+            "thức ăn": [
+                "tuyệt vời",
+                "ngon tắm",
+                "đẹp"
+            ],
+            "đầm phá": [],
+            "trang trại đánh cá": [],
+            "thuyền": [
+                "đông đúc"
+            ],
+            "đồ uống": [],
+            "tàu": [],
+            "long": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "phong cảnh": 4,
+            "đồ ăn": 2,
+            "tour khác": 2,
+            "chèo thuyền kayak": 8,
+            "hướng dẫn viên": 6,
+            "chuyến tham quan": 6,
+            "đám đông": 2,
+            "bữa trưa": 8,
+            "hàu cá chiên": 2,
+            "chuyến đi": 4,
+            "khung cảnh": 2,
+            "hướng dẫn viên du lịch": 6,
+            "vịnh": 8,
+            "trải nghiệm": 2,
+            "quang cảnh": 2,
+            "món ăn": 2,
+            "hướng dẫn viên địa phương": 2,
+            "thức ăn": 4,
+            "đầm phá": 2,
+            "trang trại đánh cá": 2,
+            "thuyền": 2,
+            "đồ uống": 2,
+            "tàu": 2,
+            "long": 2
+        }
     },
     {
         "attraction_name": "Cat Ba Local",
@@ -159,6 +303,204 @@
             "https://www.tripadvisor.com/Attraction_Review-g662620-d2556123-Reviews-Jackie_O_Bar_Mykonos-Mykonos_Town_Mykonos_Cyclades_South_Aegean.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293923-d10844855-Reviews-or20-Cat_Ba_Local-Halong_Bay_Quang_Ninh_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d10844855-Reviews-or10-Cat_Ba_Local-Halong_Bay_Quang_Ninh_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293923-d10844855-Reviews-or10-Cat_Ba_Local-Halong_Bay_Quang_Ninh_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "người hướng dẫn": 0.995208116422873,
+            "chuyến đi": 0.25875649717636406,
+            "sinh vật phù du": 0.995558344759047,
+            "phát quang sinh học": 0.9950379079673439,
+            "trải nghiệm": 0.9886970072402619,
+            "chèo thuyền kayak": 0.6193797189625911,
+            "bữa tối": 0.9955801445175894,
+            "hướng dẫn viên": 0.9709835433401167,
+            "chuyến tham quan": 0.8315555046137888,
+            "khung cảnh": 0.9955325783230364,
+            "bữa ăn": 0.9955446724197827,
+            "thuyền kayak": 0.9953511827625334,
+            "hướng dẫn viên du lịch": 0.9954904476762749,
+            "bữa trưa": 0.954980755050201,
+            "món ăn địa phương": 0.5,
+            "hang động": 0.7192342946655117,
+            "thuyền": 0.6383562594031295,
+            "câu cá": 0.5,
+            "ngày": 0.5,
+            "vịnh": 0.4505704380571842,
+            "thức ăn": 0.9853072273544967,
+            "đội ngũ": 0.9955625541624613,
+            "ngòi bơi": 0.973504293768201,
+            "bãi biển": 0.9952688062330708,
+            "ghế xếp": 0.6699604205787182,
+            "nước ngọt": 0.9755754834040999,
+            "bia": 0.5083125978708267,
+            "tàu": 0.5184652786701918,
+            "giá": 0.5443013533949852,
+            "người ăn chay": 0.5,
+            "ghế": 0.9814075990580022
+        },
+        "dicts_adj": {
+            "người hướng dẫn": [
+                "tốt",
+                "thân thiện"
+            ],
+            "chuyến đi": [
+                "chắc chắn",
+                "tuyệt vời"
+            ],
+            "sinh vật phù du": [
+                "thú vị",
+                "độc đáo"
+            ],
+            "phát quang sinh học": [
+                "thú vị",
+                "độc đáo"
+            ],
+            "trải nghiệm": [
+                "thú vị",
+                "độc đáo",
+                "tuyệt vời",
+                "khác biệt"
+            ],
+            "chèo thuyền kayak": [
+                "nổi bật",
+                "đẹp",
+                "khó",
+                "gần",
+                "tốt",
+                "nhỏ"
+            ],
+            "bữa tối": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời",
+                "bất kỳ",
+                "chuyên nghiệp",
+                "nồng nhiệt",
+                "niềm nở",
+                "nhiều",
+                "suốt"
+            ],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "khác biệt",
+                "khó",
+                "thú vị",
+                "tuyệt vời",
+                "thực sự",
+                "tốt"
+            ],
+            "khung cảnh": [
+                "đẹp",
+                "đẹp"
+            ],
+            "bữa ăn": [
+                "tuyệt vời"
+            ],
+            "thuyền kayak": [
+                "tuyệt vời"
+            ],
+            "hướng dẫn viên du lịch": [
+                "tuyệt vời",
+                "nhiều"
+            ],
+            "bữa trưa": [
+                "tuyệt vời",
+                "rực rỡ",
+                "nhiều",
+                "đặc biệt"
+            ],
+            "món ăn địa phương": [],
+            "hang động": [
+                "đẹp",
+                "gần"
+            ],
+            "thuyền": [
+                "gần",
+                "nhiều",
+                "tự do",
+                "tốt"
+            ],
+            "câu cá": [],
+            "ngày": [],
+            "vịnh": [
+                "tuyệt vời",
+                "thoải mái"
+            ],
+            "thức ăn": [
+                "ngon",
+                "hơn",
+                "tuyệt",
+                "chuyên nghiệp",
+                "nhiều"
+            ],
+            "đội ngũ": [
+                "tốt bụng",
+                "tuyệt vời"
+            ],
+            "ngòi bơi": [
+                "đẹp",
+                "ít"
+            ],
+            "bãi biển": [
+                "đẹp",
+                "ít"
+            ],
+            "ghế xếp": [
+                "thoải mái"
+            ],
+            "nước ngọt": [
+                "thông thường"
+            ],
+            "bia": [
+                "thông thường"
+            ],
+            "tàu": [
+                "thông thường"
+            ],
+            "giá": [
+                "thông thường"
+            ],
+            "người ăn chay": [],
+            "ghế": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "người hướng dẫn": 2,
+            "chuyến đi": 6,
+            "sinh vật phù du": 2,
+            "phát quang sinh học": 2,
+            "trải nghiệm": 2,
+            "chèo thuyền kayak": 12,
+            "bữa tối": 2,
+            "hướng dẫn viên": 10,
+            "chuyến tham quan": 8,
+            "khung cảnh": 4,
+            "bữa ăn": 2,
+            "thuyền kayak": 2,
+            "hướng dẫn viên du lịch": 2,
+            "bữa trưa": 6,
+            "món ăn địa phương": 2,
+            "hang động": 4,
+            "thuyền": 6,
+            "câu cá": 2,
+            "ngày": 2,
+            "vịnh": 6,
+            "thức ăn": 4,
+            "đội ngũ": 2,
+            "ngòi bơi": 2,
+            "bãi biển": 2,
+            "ghế xếp": 2,
+            "nước ngọt": 2,
+            "bia": 2,
+            "tàu": 2,
+            "giá": 2,
+            "người ăn chay": 2,
+            "ghế": 2
+        }
     }
 ]

@@ -76,7 +76,202 @@
             "https://www.tripadvisor.com/Attraction_Review-g676072-d9609042-Reviews-Chaweng_Beach-Chaweng_Bophut_Ko_Samui_Surat_Thani_Province.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d24068129-Reviews-or10-Connek_Trip-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d24068129-Reviews-Connek_Trip-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d24068129-Reviews-Connek_Trip-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thợ may": 0.8737691454589367,
+            "văn hóa": 0.23563141154590994,
+            "lịch sử": 0.6344616225396749,
+            "ẩm thực": 0.5,
+            "chuyến tham quan": 0.5028144678799435,
+            "du thuyền": 0.5,
+            "vịnh": 0.7467835700372234,
+            "tour": 0.9916708545060828,
+            "chuyến đi bộ tham quan": 0.8737691454589367,
+            "ẩm thực đường phố": 0.9953638634033268,
+            "người hướng dẫn": 0.8737691454589367,
+            "địa điểm ăn uống": -0.9761623241938651,
+            "đặc sản": -0.21007368731079623,
+            "món ăn": 0.995572931075003,
+            "chuyến đi": 0.7769869342737366,
+            "món": 0.5148444809019566,
+            "cà phê trứng trang trí": -0.9554810984991491,
+            "thời tiết u": 0.9897700548171997,
+            "làng": 0.9955047530820593,
+            "thuyền": 0.9951295835198835,
+            "xe đạp": 0.08296360448002815,
+            "bữa trưa": 0.9914314746274613,
+            "hướng dẫn viên": 0.9952981125097722,
+            "dịch vụ": 0.6868845727294683,
+            "kiến ​​thức": 0.9877995545975864,
+            "môi trường": 0.988752954202937,
+            "chỗ": 0.790333712201876,
+            "giá cả": 0.9529069985728711,
+            "trải nghiệm": 0.9280538361053914,
+            "nhân viên": 0.9947821988898795,
+            "trải nghiệm du lịch": 0.9954659233917482,
+            "chất lượng": 0.5,
+            "chuyến du ngoạn": 0.9955090746516362,
+            "khoảng thời gian": 0.9953072104835883
+        },
+        "dicts_adj": {
+            "thợ may": [
+                "bao quát"
+            ],
+            "văn hóa": [
+                "thoải mái",
+                "vui vẻ"
+            ],
+            "lịch sử": [
+                "thoải mái",
+                "vui vẻ"
+            ],
+            "ẩm thực": [],
+            "chuyến tham quan": [
+                "tuyệt vời",
+                "suốt",
+                "thực sự",
+                "thú vị"
+            ],
+            "du thuyền": [],
+            "vịnh": [
+                "thân thiện"
+            ],
+            "tour": [],
+            "chuyến đi bộ tham quan": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "ẩm thực đường phố": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "thực sự",
+                "thú vị"
+            ],
+            "người hướng dẫn": [
+                "trẻ",
+                "lưu loát"
+            ],
+            "địa điểm ăn uống": [
+                "khác",
+                "khác"
+            ],
+            "đặc sản": [
+                "riêng",
+                "nổi tiếng"
+            ],
+            "món ăn": [
+                "chi tiết",
+                "ngon"
+            ],
+            "chuyến đi": [
+                "nổi tiếng",
+                "hài lòng",
+                "rõ ràng",
+                "tốt",
+                "tuyệt vời",
+                "tuyệt vời",
+                "đầy đủ"
+            ],
+            "món": [
+                "nổi tiếng"
+            ],
+            "cà phê trứng trang trí": [
+                "nổi tiếng"
+            ],
+            "thời tiết u": [
+                "tuyệt vời"
+            ],
+            "làng": [
+                "đẹp"
+            ],
+            "thuyền": [
+                "đẹp"
+            ],
+            "xe đạp": [
+                "khó"
+            ],
+            "bữa trưa": [
+                "lớn"
+            ],
+            "hướng dẫn viên": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "dịch vụ": [
+                "chu đáo",
+                "tràn đầy",
+                "tích cực",
+                "vui vẻ"
+            ],
+            "kiến ​​thức": [],
+            "môi trường": [
+                "thoải mái",
+                "vui vẻ"
+            ],
+            "chỗ": [
+                "nhanh chóng",
+                "dễ dàng",
+                "nhiều"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời",
+                "thực sự"
+            ],
+            "nhân viên": [
+                "thân thiện"
+            ],
+            "trải nghiệm du lịch": [
+                "tuyệt vời"
+            ],
+            "chất lượng": [],
+            "chuyến du ngoạn": [
+                "tuyệt vời"
+            ],
+            "khoảng thời gian": [
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thợ may": 1.5,
+            "văn hóa": 3.0,
+            "lịch sử": 3.0,
+            "ẩm thực": 1.5,
+            "chuyến tham quan": 3.0,
+            "du thuyền": 1.5,
+            "vịnh": 3.0,
+            "tour": 1.5,
+            "chuyến đi bộ tham quan": 1.5,
+            "ẩm thực đường phố": 1.5,
+            "người hướng dẫn": 1.5,
+            "địa điểm ăn uống": 1.5,
+            "đặc sản": 1.5,
+            "món ăn": 1.5,
+            "chuyến đi": 10.0,
+            "món": 1.5,
+            "cà phê trứng trang trí": 1.5,
+            "thời tiết u": 1.5,
+            "làng": 1.5,
+            "thuyền": 1.5,
+            "xe đạp": 1.5,
+            "bữa trưa": 1.5,
+            "hướng dẫn viên": 3.0,
+            "dịch vụ": 3.0,
+            "kiến ​​thức": 1.5,
+            "môi trường": 1.5,
+            "chỗ": 1.5,
+            "giá cả": 1.5,
+            "trải nghiệm": 1.5,
+            "nhân viên": 3.0,
+            "trải nghiệm du lịch": 1.5,
+            "chất lượng": 1.5,
+            "chuyến du ngoạn": 1.5,
+            "khoảng thời gian": 1.5
+        }
     },
     {
         "attraction_name": "Connek Trip",
@@ -164,7 +359,119 @@
             "https://www.tripadvisor.com/Attraction_Review-g49463-d2253923-Reviews-Historic_Yates_Mill_County_Park-Raleigh_North_Carolina.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293924-d24068129-Reviews-or20-Connek_Trip-Hanoi.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d24068129-Reviews-or10-Connek_Trip-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d24068129-Reviews-or10-Connek_Trip-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhân viên": 0.9919129787012935,
+            "khoảng thời gian": 0.9953072104835883,
+            "câu chuyện": 0.5,
+            "khách sạn": 0.9944282493088394,
+            "sinh viên trường đại học địa phương": 0.5,
+            "chuyến đi bộ": 0.27673310600221157,
+            "khu phố cổ": 0.7319754365598783,
+            "chợ": 0.9334600083529949,
+            "chuyến du lịch": 0.9948619490605779,
+            "ngôi nhà cổ": 0.5173162221908569,
+            "điểm đến du lịch": 0.9955335901468061,
+            "đất nước": 0.5,
+            "chuyến tham quan": 0.8737691454589367,
+            "đồ ăn": 0.9954116839799099,
+            "thời tiết": 0.31838502548635006,
+            "chuyến đi": 0.8291039261966944,
+            "lịch sử": 0.5,
+            "nhà tù": 0.8737691454589367,
+            "hồ hoàn kiếm": 0.8737691454589367,
+            "quán cà phê": 0.5,
+            "nhà hàng": 0.5,
+            "đại sứ địa phương": 0.5
+        },
+        "dicts_adj": {
+            "nhân viên": [],
+            "khoảng thời gian": [
+                "tuyệt vời",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "câu chuyện": [],
+            "khách sạn": [
+                "an toàn"
+            ],
+            "sinh viên trường đại học địa phương": [],
+            "chuyến đi bộ": [
+                "khác"
+            ],
+            "khu phố cổ": [
+                "khác"
+            ],
+            "chợ": [
+                "lớn",
+                "kỳ diệu"
+            ],
+            "chuyến du lịch": [
+                "khoảng",
+                "vui vẻ",
+                "tốt đẹp"
+            ],
+            "ngôi nhà cổ": [
+                "khác"
+            ],
+            "điểm đến du lịch": [
+                "tuyệt vời"
+            ],
+            "đất nước": [],
+            "chuyến tham quan": [
+                "hoàn hảo",
+                "tuyệt vời"
+            ],
+            "đồ ăn": [
+                "ngon"
+            ],
+            "thời tiết": [
+                "nóng",
+                "sớm"
+            ],
+            "chuyến đi": [
+                "thú vị",
+                "vui vẻ",
+                "khoảng",
+                "khó"
+            ],
+            "lịch sử": [],
+            "nhà tù": [
+                "chi tiết"
+            ],
+            "hồ hoàn kiếm": [
+                "chi tiết"
+            ],
+            "quán cà phê": [],
+            "nhà hàng": [],
+            "đại sứ địa phương": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhân viên": 1,
+            "khoảng thời gian": 3,
+            "câu chuyện": 3,
+            "khách sạn": 1,
+            "sinh viên trường đại học địa phương": 1,
+            "chuyến đi bộ": 1,
+            "khu phố cổ": 2,
+            "chợ": 1,
+            "chuyến du lịch": 2,
+            "ngôi nhà cổ": 1,
+            "điểm đến du lịch": 1,
+            "đất nước": 2,
+            "chuyến tham quan": 1,
+            "đồ ăn": 1,
+            "thời tiết": 1,
+            "chuyến đi": 3,
+            "lịch sử": 1,
+            "nhà tù": 1,
+            "hồ hoàn kiếm": 1,
+            "quán cà phê": 1,
+            "nhà hàng": 1,
+            "đại sứ địa phương": 1
+        }
     },
     {
         "attraction_name": "Connek Trip",
@@ -226,6 +533,11 @@
             "https://www.tripadvisor.com/Attraction_Review-g36232-d11672774-Reviews-Sunrise_Park-Lake_Bluff_Lake_County_Illinois.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d24068129-Reviews-or20-Connek_Trip-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d24068129-Reviews-or20-Connek_Trip-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     }
 ]

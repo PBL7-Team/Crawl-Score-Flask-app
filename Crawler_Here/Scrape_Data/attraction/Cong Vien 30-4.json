@@ -102,6 +102,201 @@
             "https://www.tripadvisor.com/Attraction_Review-g47182-d271352-Reviews-Downtown_Historic_District-Roswell_New_Mexico.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8800458-Reviews-Cong_Vien_30_4-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d8800458-Reviews-Cong_Vien_30_4-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "không gian xanh": 0.9955928366980515,
+            "điểm dừng chân": 0.9955564095289446,
+            "giao thông": 0.5296584099220732,
+            "sương mù": 0.5247821435332298,
+            "cà phê": 0.5,
+            "ăn trưa": 0.5,
+            "điểm tham quan": 0.7300165607593954,
+            "dinh độc": 0.6868845727294683,
+            "công viên": 0.755265087050955,
+            "cây xanh": 0.5021064234897494,
+            "khi": 0.5804262598976493,
+            "trú ẩn": -0.31290839333087206,
+            "tán": 0.5,
+            "cây cao đó": 0.23738422244787216,
+            "không gian": 0.25839266607072203,
+            "đồ ăn": 0.5,
+            "đồ uống": 0.5,
+            "người dân địa phương": 0.6684643470216542,
+            "đàn": 0.33983876183629036,
+            "cây cổ": 0.5295909866690636,
+            "tòa nhà lịch sử": 0.5,
+            "ốc đảo": 0.5,
+            "bữa trưa": 0.48423975333571434,
+            "cây cối": 0.9924640101380646,
+            "cung điện": 0.5,
+            "nhà thờ đức": 0.5,
+            "guitar": 0.8025714904943015,
+            "ca hát": 0.8552680464636069,
+            "bữa ăn": 0.5,
+            "địa điểm ăn uống": 0.9842159734107554,
+            "cuộc sống": 0.9924976468319073,
+            "thành phố": 0.5,
+            "đức bà": 0.5,
+            "cây": 0.6940543353557587,
+            "trung tâm": 0.8737691454589367,
+            "công viên tao đàn": 0.8737691454589367,
+            "chợ": 0.5,
+            "vị trí": 0.964884051354602
+        },
+        "dicts_adj": {
+            "không gian xanh": [
+                "xanh đáng",
+                "đẹp",
+                "cẩn thận"
+            ],
+            "điểm dừng chân": [
+                "tuyệt vời"
+            ],
+            "giao thông": [
+                "liên tục",
+                "đông đúc",
+                "thực sự"
+            ],
+            "sương mù": [
+                "mạnh"
+            ],
+            "cà phê": [],
+            "ăn trưa": [],
+            "điểm tham quan": [
+                "gần"
+            ],
+            "dinh độc": [
+                "nhiều"
+            ],
+            "công viên": [
+                "đẹp",
+                "hối hả",
+                "nhộn nhịp",
+                "khác",
+                "ấm áp",
+                "nhiều",
+                "nhiều",
+                "thú vị",
+                "hơn",
+                "dài",
+                "hẹp",
+                "nhiều"
+            ],
+            "cây xanh": [
+                "đông đúc",
+                "thực sự"
+            ],
+            "khi": [
+                "tự nhiên"
+            ],
+            "trú ẩn": [
+                "tự nhiên"
+            ],
+            "tán": [],
+            "cây cao đó": [],
+            "không gian": [
+                "thực sự",
+                "tuyệt vời",
+                "lạnh",
+                "nhiều",
+                "thực sự",
+                "đẹp"
+            ],
+            "đồ ăn": [],
+            "đồ uống": [],
+            "người dân địa phương": [
+                "nhỏ",
+                "tuyệt vời",
+                "đặc biệt"
+            ],
+            "đàn": [
+                "Nhiều"
+            ],
+            "cây cổ": [],
+            "tòa nhà lịch sử": [],
+            "ốc đảo": [],
+            "bữa trưa": [
+                "nhỏ"
+            ],
+            "cây cối": [
+                "nhiều"
+            ],
+            "cung điện": [],
+            "nhà thờ đức": [],
+            "guitar": [
+                "khác",
+                "ấm áp"
+            ],
+            "ca hát": [
+                "khác",
+                "ấm áp"
+            ],
+            "bữa ăn": [],
+            "địa điểm ăn uống": [
+                "ngon"
+            ],
+            "cuộc sống": [
+                "tốt",
+                "khác"
+            ],
+            "thành phố": [],
+            "đức bà": [],
+            "cây": [
+                "lớn",
+                "nhiều"
+            ],
+            "trung tâm": [
+                "nhiều"
+            ],
+            "công viên tao đàn": [
+                "nhiều"
+            ],
+            "chợ": [],
+            "vị trí": [
+                "thuận tiện"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "không gian xanh": 1,
+            "điểm dừng chân": 1,
+            "giao thông": 1.5,
+            "sương mù": 1,
+            "cà phê": 1,
+            "ăn trưa": 1,
+            "điểm tham quan": 1.0,
+            "dinh độc": 1.0,
+            "công viên": 3.0,
+            "cây xanh": 0.5,
+            "khi": 0.5,
+            "trú ẩn": 0.5,
+            "tán": 0.5,
+            "cây cao đó": 0.5,
+            "không gian": 0.5,
+            "đồ ăn": 0.5,
+            "đồ uống": 0.5,
+            "người dân địa phương": 1.5,
+            "đàn": 0.5,
+            "cây cổ": 0.5,
+            "tòa nhà lịch sử": 0.5,
+            "ốc đảo": 0.5,
+            "bữa trưa": 0.5,
+            "cây cối": 0.5,
+            "cung điện": 0.5,
+            "nhà thờ đức": 0.5,
+            "guitar": 0.5,
+            "ca hát": 0.5,
+            "bữa ăn": 0.5,
+            "địa điểm ăn uống": 0.5,
+            "cuộc sống": 0.5,
+            "thành phố": 0.5,
+            "đức bà": 0.5,
+            "cây": 0.5,
+            "trung tâm": 0.5,
+            "công viên tao đàn": 0.5,
+            "chợ": 0.5,
+            "vị trí": 0.5
+        }
     }
 ]
