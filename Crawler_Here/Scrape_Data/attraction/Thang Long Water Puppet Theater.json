@@ -71,6 +71,126 @@
             "https://www.tripadvisor.com/Attraction_Review-g55055-d2639355-Reviews-Downtown_Franklin-Franklin_Tennessee.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g27501570-d20154110-Reviews-Thang_Long_Water_Puppet_Theater-Hoan_Kiem_Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g27501570-d20154110-Reviews-Thang_Long_Water_Puppet_Theater-Hoan_Kiem_Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "rối": 0.5,
+            "nhạc công": 0.5,
+            "nhà hát": 0.6947460994124413,
+            "câu chuyện": -0.970006316783838,
+            "bài hát": 0.9770303471013904,
+            "nghệ thuật thuần": 0.5,
+            "nhạc sống": 0.9919987020548433,
+            "trải nghiệm": 0.10466152322478592,
+            "cuộc sống nông thôn": 0.5,
+            "nghệ sĩ": 0.9949931771261618,
+            "chuyến đi chơi": 0.9955437469179742,
+            "chuyến đi": 0.5,
+            "hành trình": 0.5,
+            "buổi biểu diễn": 0.4411542186927464,
+            "mật độ giao thông": -0.9737790012732148,
+            "buổi diễn": -0.884211793076247,
+            "dịch vụ": 0.9926605661166832,
+            "đoạn âm thanh": -0.9491004899609834,
+            "lịch sử giải trí": 0.9953378547215834,
+            "thủ thuật": 0.5,
+            "nhạc sĩ": 0.6774884723126888,
+            "dịch âm thanh": -0.9363009431399405,
+            "ánh sáng": 0.6702371388673782,
+            "nhân viên": 0.9576574731618166
+        },
+        "dicts_adj": {
+            "rối": [],
+            "nhạc công": [],
+            "nhà hát": [
+                "chật",
+                "kín"
+            ],
+            "câu chuyện": [
+                "khác"
+            ],
+            "bài hát": [
+                "vui"
+            ],
+            "nghệ thuật thuần": [],
+            "nhạc sống": [
+                "tốt"
+            ],
+            "trải nghiệm": [
+                "may",
+                "đắt",
+                "thực sự"
+            ],
+            "cuộc sống nông thôn": [],
+            "nghệ sĩ": [
+                "tuyệt vời"
+            ],
+            "chuyến đi chơi": [
+                "tuyệt vời"
+            ],
+            "chuyến đi": [],
+            "hành trình": [],
+            "buổi biểu diễn": [
+                "khác",
+                "sớm",
+                "hơn",
+                "thú vị"
+            ],
+            "mật độ giao thông": [
+                "đông đúc",
+                "sớm",
+                "hơn"
+            ],
+            "buổi diễn": [],
+            "dịch vụ": [
+                "khủng khiếp"
+            ],
+            "đoạn âm thanh": [
+                "cần thiết"
+            ],
+            "lịch sử giải trí": [],
+            "thủ thuật": [],
+            "nhạc sĩ": [],
+            "dịch âm thanh": [
+                "sẵn",
+                "hỏng",
+                "rõ ràng"
+            ],
+            "ánh sáng": [],
+            "nhân viên": [
+                "hữu ích",
+                "tích cực",
+                "hơn",
+                "ngược",
+                "hơn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "rối": 1,
+            "nhạc công": 1,
+            "nhà hát": 1,
+            "câu chuyện": 1,
+            "bài hát": 1,
+            "nghệ thuật thuần": 1,
+            "nhạc sống": 1,
+            "trải nghiệm": 2.5,
+            "cuộc sống nông thôn": 1,
+            "nghệ sĩ": 1,
+            "chuyến đi chơi": 1,
+            "chuyến đi": 1,
+            "hành trình": 1,
+            "buổi biểu diễn": 1.5,
+            "mật độ giao thông": 1,
+            "buổi diễn": 1,
+            "dịch vụ": 1,
+            "đoạn âm thanh": 1,
+            "lịch sử giải trí": 0.5,
+            "thủ thuật": 0.5,
+            "nhạc sĩ": 0.5,
+            "dịch âm thanh": 0.5,
+            "ánh sáng": 0.5,
+            "nhân viên": 0.5
+        }
     }
 ]

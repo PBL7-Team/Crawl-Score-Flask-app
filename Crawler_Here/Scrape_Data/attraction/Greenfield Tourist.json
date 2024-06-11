@@ -69,6 +69,78 @@
             "https://www.tripadvisor.com/Attraction_Review-g33388-d23259053-Reviews-Oakwell_Beer_Spa-Denver_Colorado.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d20031529-Reviews-Greenfield_Tourist-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d20031529-Reviews-Greenfield_Tourist-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "greenfield": 0.9784770044498146,
+            "dịch bệnh": 0.9826367292553186,
+            "dịch vụ": 0.9920006210644109,
+            "khía cạnh": 0.5,
+            "văn hóa": 0.5,
+            "nông thôn": 0.5,
+            "thuyền": 0.5,
+            "dân ca kẹo dừa": 0.5,
+            "đồng bằng sông cửu long": 0.9027539767945806,
+            "chợ nổi": 0.7476577284978703,
+            "thuyền bán": 0.5,
+            "trái cây": 0.5,
+            "bữa sáng": 0.5,
+            "chuyến đi": 0.747730258415686,
+            "hướng dẫn viên du lịch": 0.5,
+            "kiến ​​thức": 0.5
+        },
+        "dicts_adj": {
+            "greenfield": [],
+            "dịch bệnh": [
+                "hiệu quả",
+                "nhanh chóng"
+            ],
+            "dịch vụ": [
+                "hiệu quả",
+                "nhanh chóng",
+                "vui",
+                "bất kỳ",
+                "tương tự"
+            ],
+            "khía cạnh": [],
+            "văn hóa": [],
+            "nông thôn": [],
+            "thuyền": [],
+            "dân ca kẹo dừa": [],
+            "đồng bằng sông cửu long": [
+                "vui"
+            ],
+            "chợ nổi": [
+                "tuyệt vời",
+                "lớn"
+            ],
+            "thuyền bán": [],
+            "trái cây": [],
+            "bữa sáng": [],
+            "chuyến đi": [
+                "nhiều"
+            ],
+            "hướng dẫn viên du lịch": [],
+            "kiến ​​thức": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "greenfield": 0.5,
+            "dịch bệnh": 0.5,
+            "dịch vụ": 0.5,
+            "khía cạnh": 0.5,
+            "văn hóa": 0.5,
+            "nông thôn": 0.5,
+            "thuyền": 0.5,
+            "dân ca kẹo dừa": 0.5,
+            "đồng bằng sông cửu long": 1.5,
+            "chợ nổi": 1.0,
+            "thuyền bán": 0.5,
+            "trái cây": 0.5,
+            "bữa sáng": 0.5,
+            "chuyến đi": 1.0,
+            "hướng dẫn viên du lịch": 0.5,
+            "kiến ​​thức": 0.5
+        }
     }
 ]

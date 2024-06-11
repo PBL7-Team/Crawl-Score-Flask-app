@@ -88,6 +88,55 @@
             "https://www.tripadvisor.com/Attraction_Review-g60772-d576908-Reviews-Chimney_Rock_National_Historic_Site-Bayard_Nebraska.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d16736258-Reviews-Phung_Son_Pagoda-Ho_Chi_Minh_City.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293925-d16736258-Reviews-Phung_Son_Pagoda-Ho_Chi_Minh_City.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "kiến trúc": 0.8737691454589367,
+            "môi trường": 0.5510462522506714,
+            "căn": 0.9530926207080483,
+            "phòng": 0.9703284529969096,
+            "tác phẩm": 0.6498424138796205,
+            "bức tường": 0.5,
+            "ngôi chùa": -0.9605327898170799,
+            "không khí": 0.487549364566803
+        },
+        "dicts_adj": {
+            "kiến trúc": [
+                "đẹp"
+            ],
+            "môi trường": [
+                "thanh bình"
+            ],
+            "căn": [
+                "xanh"
+            ],
+            "phòng": [
+                "xanh"
+            ],
+            "tác phẩm": [
+                "nhỏ",
+                "phức tạp",
+                "tuyệt vời"
+            ],
+            "bức tường": [],
+            "ngôi chùa": [
+                "khác",
+                "khác"
+            ],
+            "không khí": [
+                "khác"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "kiến trúc": 0.5,
+            "môi trường": 0.5,
+            "căn": 0.5,
+            "phòng": 0.5,
+            "tác phẩm": 0.5,
+            "bức tường": 0.5,
+            "ngôi chùa": 0.5,
+            "không khí": 0.5
+        }
     }
 ]

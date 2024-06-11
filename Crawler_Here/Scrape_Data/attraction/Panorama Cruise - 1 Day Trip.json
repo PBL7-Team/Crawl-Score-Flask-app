@@ -58,6 +58,26 @@
             "https://www.tripadvisor.com/Attraction_Review-g2213111-d3179299-Reviews-Famagusta_Viewpoint-Deryneia_Famagusta_District.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d5509761-Reviews-Panorama_Cruise_1_Day_Trip-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d5509761-Reviews-Panorama_Cruise_1_Day_Trip-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.5683376817032695,
+            "cầu thủ bóng đá": 0.5,
+            "giá": 0.5
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "khác",
+                "nhiều"
+            ],
+            "cầu thủ bóng đá": [],
+            "giá": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 0.5,
+            "cầu thủ bóng đá": 0.5,
+            "giá": 0.5
+        }
     }
 ]

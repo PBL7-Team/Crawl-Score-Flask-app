@@ -63,6 +63,59 @@
             "https://www.tripadvisor.com/Attraction_Review-g1096448-d1234321-Reviews-Puy_du_Fou-Les_Epesses_Vendee_Pays_de_la_Loire.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d7010384-Reviews-Indochina_Grand_Tour-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d7010384-Reviews-Indochina_Grand_Tour-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến đi": 0.7328576613217592,
+            "tour": 0.5,
+            "trải nghiệm": 0.9953727826359682,
+            "khách sạn": 0.9944149419898167,
+            "chuyến tham": 0.9954219800420105,
+            "khách hàng": 0.9918059718620498,
+            "kỳ nghỉ": 0.99551991262706,
+            "golden": 0.5,
+            "rock": 0.5,
+            "nhận xét": 0.9939287465531379
+        },
+        "dicts_adj": {
+            "chuyến đi": [],
+            "tour": [],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "khách sạn": [
+                "tuyệt vời"
+            ],
+            "chuyến tham": [
+                "tuyệt"
+            ],
+            "khách hàng": [
+                "tuyệt vời",
+                "thân yêu"
+            ],
+            "kỳ nghỉ": [
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "golden": [],
+            "rock": [],
+            "nhận xét": [
+                "tích cực",
+                "tiêu cực"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến đi": 0.5,
+            "tour": 0.5,
+            "trải nghiệm": 0.5,
+            "khách sạn": 0.5,
+            "chuyến tham": 0.5,
+            "khách hàng": 1.0,
+            "kỳ nghỉ": 0.5,
+            "golden": 0.5,
+            "rock": 0.5,
+            "nhận xét": 0.5
+        }
     }
 ]

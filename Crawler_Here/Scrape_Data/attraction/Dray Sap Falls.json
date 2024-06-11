@@ -70,7 +70,238 @@
             "https://www.tripadvisor.com/Attraction_Review-g60898-d126919-Reviews-Phipps_Plaza-Atlanta_Georgia.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g670918-d4869953-Reviews-or10-Dray_Sap_Falls-Buon_Ma_Thuot_Dak_Lak_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g670918-d4869953-Reviews-Dray_Sap_Falls-Buon_Ma_Thuot_Dak_Lak_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g670918-d4869953-Reviews-Dray_Sap_Falls-Buon_Ma_Thuot_Dak_Lak_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "vườn thú": 0.5234248898923397,
+            "bãi đậu xe": 0.5,
+            "thác nước": 0.8758793865330518,
+            "động vật": -0.22346201445907354,
+            "khu giam giữ": -0.6874975236132741,
+            "cư dân": 0.1371234729886055,
+            "khu": 0.9821385566610843,
+            "nguồn nước": 0.5,
+            "thỉu": 0.5,
+            "tởm": 0.5,
+            "chuyến thăm": 0.4857773259282112,
+            "nhân viên": -0.9638139776652679,
+            "con vật": -0.9454818763770163,
+            "trái tim": -0.960327283013612,
+            "khung cảnh": 0.8940043998300098,
+            "bức": 0.5,
+            "tranh cổ tích": 0.5,
+            "thiên nhiên": 0.7000208804383874,
+            "chiếc lồng": 0.3289770781993866,
+            "độ ăn": 0.5,
+            "quang cảnh": 0.9855683430796489,
+            "phong cảnh": 0.995226290076971,
+            "chuyến dã ngoại": 0.9501156229525805,
+            "công viên nông thôn": 0.8737691454589367,
+            "thác": 0.5915737747127423,
+            "sông": 0.5,
+            "cọc tre": 0.5,
+            "nước": 0.5,
+            "cầu bê tông": -0.8260951368138194,
+            "công viên": 0.48420003335922956,
+            "tác phẩm nghệ thuật": 0.9954679091461003,
+            "chuyến tham quan": 0.5,
+            "easy rider": 0.5,
+            "nhà hàng": 0.5,
+            "tranh vẽ": 0.9792197933420539,
+            "dưới nước": 0.8390656244009733,
+            "bờ sông": 0.9954507448710501,
+            "tầm nhìn": 0.9932271746220067,
+            "hố bơi": -0.9714213206898421,
+            "ao tự nhiên": 0.47783506847918034,
+            "con bò": 0.5,
+            "cảnh": 0.9955351288663223,
+            "rác thải": -0.9583918498829007,
+            "rừng": 0.16756571270525455,
+            "chú voi": 0.5,
+            "hoang dã": 0.5
+        },
+        "dicts_adj": {
+            "vườn thú": [
+                "nhỏ"
+            ],
+            "bãi đậu xe": [],
+            "thác nước": [
+                "tốt",
+                "sâu",
+                "hơn",
+                "nước lớn",
+                "đẹp",
+                "tuyệt khi"
+            ],
+            "động vật": [
+                "rõ ràng",
+                "nhỏ",
+                "nhỏ"
+            ],
+            "khu giam giữ": [
+                "nhỏ"
+            ],
+            "cư dân": [
+                "đầy"
+            ],
+            "khu": [
+                "đầy"
+            ],
+            "nguồn nước": [],
+            "thỉu": [],
+            "tởm": [],
+            "chuyến thăm": [
+                "rõ ràng",
+                "nhiều"
+            ],
+            "nhân viên": [
+                "rõ ràng",
+                "nhiều"
+            ],
+            "con vật": [
+                "nhiều",
+                "hơn"
+            ],
+            "trái tim": [
+                "thực sự",
+                "tan nát"
+            ],
+            "khung cảnh": [
+                "dài",
+                "hùng vĩ",
+                "nhỏ"
+            ],
+            "bức": [],
+            "tranh cổ tích": [],
+            "thiên nhiên": [
+                "nhỏ"
+            ],
+            "chiếc lồng": [
+                "nhỏ"
+            ],
+            "độ ăn": [],
+            "quang cảnh": [],
+            "phong cảnh": [
+                "đẹp",
+                "lớn",
+                "khô"
+            ],
+            "chuyến dã ngoại": [],
+            "công viên nông thôn": [
+                "nhỏ"
+            ],
+            "thác": [
+                "phải",
+                "khó khăn",
+                "phải",
+                "tốt",
+                "lớn",
+                "đẹp",
+                "đẹp",
+                "hùng vĩ",
+                "tuyệt vời",
+                "sâu"
+            ],
+            "sông": [],
+            "cọc tre": [],
+            "nước": [],
+            "cầu bê tông": [],
+            "công viên": [
+                "nhiều",
+                "nhiều",
+                "cùng",
+                "hơn",
+                "nhiều"
+            ],
+            "tác phẩm nghệ thuật": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [],
+            "easy rider": [],
+            "nhà hàng": [],
+            "tranh vẽ": [
+                "dọc",
+                "gập ghềnh",
+                "đẹp",
+                "chắc chắn"
+            ],
+            "dưới nước": [
+                "nhiều",
+                "dã ngoại",
+                "xa"
+            ],
+            "bờ sông": [
+                "đẹp"
+            ],
+            "tầm nhìn": [
+                "hùng vĩ"
+            ],
+            "hố bơi": [
+                "khác"
+            ],
+            "ao tự nhiên": [
+                "lớn"
+            ],
+            "con bò": [],
+            "cảnh": [],
+            "rác thải": [
+                "khắp"
+            ],
+            "rừng": [
+                "sâu"
+            ],
+            "chú voi": [],
+            "hoang dã": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "vườn thú": 1.0,
+            "bãi đậu xe": 0.5,
+            "thác nước": 2.5,
+            "động vật": 1.0,
+            "khu giam giữ": 0.5,
+            "cư dân": 0.5,
+            "khu": 0.5,
+            "nguồn nước": 0.5,
+            "thỉu": 0.5,
+            "tởm": 0.5,
+            "chuyến thăm": 0.5,
+            "nhân viên": 0.5,
+            "con vật": 0.5,
+            "trái tim": 0.5,
+            "khung cảnh": 1.0,
+            "bức": 0.5,
+            "tranh cổ tích": 0.5,
+            "thiên nhiên": 1.0,
+            "chiếc lồng": 0.5,
+            "độ ăn": 0.5,
+            "quang cảnh": 0.5,
+            "phong cảnh": 0.5,
+            "chuyến dã ngoại": 0.5,
+            "công viên nông thôn": 0.5,
+            "thác": 2.0,
+            "sông": 1.0,
+            "cọc tre": 0.5,
+            "nước": 0.5,
+            "cầu bê tông": 0.5,
+            "công viên": 1.0,
+            "tác phẩm nghệ thuật": 0.5,
+            "chuyến tham quan": 0.5,
+            "easy rider": 0.5,
+            "nhà hàng": 0.5,
+            "tranh vẽ": 0.5,
+            "dưới nước": 0.5,
+            "bờ sông": 0.5,
+            "tầm nhìn": 0.5,
+            "hố bơi": 0.5,
+            "ao tự nhiên": 0.5,
+            "con bò": 0.5,
+            "cảnh": 0.5,
+            "rác thải": 0.5,
+            "rừng": 0.5,
+            "chú voi": 0.5,
+            "hoang dã": 0.5
+        }
     },
     {
         "attraction_name": "Dray Sap Falls",
@@ -143,7 +374,158 @@
             "https://www.tripadvisor.com/Attraction_Review-g664857-d7212965-Reviews-Playa_de_Mogan-Puerto_de_Mogan_Mogan_Gran_Canaria_Canary_Islands.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g670918-d4869953-Reviews-or20-Dray_Sap_Falls-Buon_Ma_Thuot_Dak_Lak_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g670918-d4869953-Reviews-or10-Dray_Sap_Falls-Buon_Ma_Thuot_Dak_Lak_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g670918-d4869953-Reviews-or10-Dray_Sap_Falls-Buon_Ma_Thuot_Dak_Lak_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "thác": 0.8396774377470138,
+            "hệ sinh thái": 0.9729250972159207,
+            "rác thải": 0.5,
+            "suối nước": 0.9916231647366658,
+            "ngôi nhà gỗ": 0.9925974257057533,
+            "chuyến đi": 0.898505016307657,
+            "họ": 0.9953111229115166,
+            "trang trại": 0.9944323155796155,
+            "chuyến đi bộ ngắn": 0.5678232470527291,
+            "thác nước": 0.8941248118353542,
+            "nước": 0.9954657740308903,
+            "người dân địa phương": 0.9546189024113119,
+            "nhà hàng": 0.1962253339588642,
+            "dịch vụ": 0.9030384314246476,
+            "cà phê": 0.6356005361303687,
+            "không tráng lệ": 0.5,
+            "cầu treo": 0.5768989776164138,
+            "khu rừng": -0.6075672060251236,
+            "cơ sở vật chất": -0.7921379432082176,
+            "cây": 0.17074332991614938,
+            "rừng rậm": 0.5,
+            "góc nhìn": 0.9951111737755127,
+            "bờ sông": 0.5,
+            "trải nghiệm": 0.9950073251966387,
+            "cây cầu treo": 0.8737691454589367,
+            "trẻ em": 0.5,
+            "nhiếp ảnh gia": 0.9718015445396304
+        },
+        "dicts_adj": {
+            "thác": [
+                "đẹp",
+                "đẹp",
+                "nhất",
+                "dễ dàng",
+                "đẹp",
+                "trung bình",
+                "xa",
+                "đủ",
+                "đẹp",
+                "nhỏ",
+                "hơn"
+            ],
+            "hệ sinh thái": [
+                "sạch"
+            ],
+            "rác thải": [],
+            "suối nước": [
+                "tuyệt vời"
+            ],
+            "ngôi nhà gỗ": [
+                "đẹp"
+            ],
+            "chuyến đi": [
+                "xứng đáng",
+                "thú vị",
+                "ồn ào",
+                "cùng"
+            ],
+            "họ": [
+                "xứng đáng"
+            ],
+            "trang trại": [],
+            "chuyến đi bộ ngắn": [
+                "chắc chắn"
+            ],
+            "thác nước": [
+                "chắc chắn",
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "nước": [
+                "mát",
+                "tuyệt",
+                "đặc biệt"
+            ],
+            "người dân địa phương": [
+                "dã ngoại",
+                "cùng",
+                "yên bình"
+            ],
+            "nhà hàng": [],
+            "dịch vụ": [],
+            "cà phê": [],
+            "không tráng lệ": [],
+            "cầu treo": [
+                "đẹp",
+                "hoàn toàn",
+                "an toàn",
+                "nhanh chóng"
+            ],
+            "khu rừng": [
+                "um tùm"
+            ],
+            "cơ sở vật chất": [
+                "hoàn toàn"
+            ],
+            "cây": [
+                "hoàn toàn",
+                "an toàn",
+                "nhanh chóng"
+            ],
+            "rừng rậm": [],
+            "góc nhìn": [
+                "đẹp"
+            ],
+            "bờ sông": [],
+            "trải nghiệm": [
+                "gần"
+            ],
+            "cây cầu treo": [
+                "chắc chắn",
+                "an toàn"
+            ],
+            "trẻ em": [],
+            "nhiếp ảnh gia": [
+                "thông minh",
+                "đủ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "thác": 2.0,
+            "hệ sinh thái": 0.5,
+            "rác thải": 0.5,
+            "suối nước": 0.5,
+            "ngôi nhà gỗ": 0.5,
+            "chuyến đi": 1.5,
+            "họ": 0.5,
+            "trang trại": 0.5,
+            "chuyến đi bộ ngắn": 0.5,
+            "thác nước": 2.0,
+            "nước": 0.5,
+            "người dân địa phương": 1.0,
+            "nhà hàng": 0.5,
+            "dịch vụ": 0.5,
+            "cà phê": 0.5,
+            "không tráng lệ": 0.5,
+            "cầu treo": 1.0,
+            "khu rừng": 0.5,
+            "cơ sở vật chất": 0.5,
+            "cây": 0.5,
+            "rừng rậm": 0.5,
+            "góc nhìn": 0.5,
+            "bờ sông": 0.5,
+            "trải nghiệm": 0.5,
+            "cây cầu treo": 0.5,
+            "trẻ em": 0.5,
+            "nhiếp ảnh gia": 0.5
+        }
     },
     {
         "attraction_name": "Dray Sap Falls",
@@ -210,6 +592,200 @@
             "https://www.tripadvisor.com/Attraction_Review-g303826-d14928454-Reviews-Zarecki_Krov-Pazin_Istria.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g670918-d4869953-Reviews-or20-Dray_Sap_Falls-Buon_Ma_Thuot_Dak_Lak_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g670918-d4869953-Reviews-or20-Dray_Sap_Falls-Buon_Ma_Thuot_Dak_Lak_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cây cầu": 0.995204355509486,
+            "thác dray": 0.8737691454589367,
+            "thác nước": 0.6062792624434223,
+            "thác": 0.7346273788192775,
+            "rừng": 0.7844221480190754,
+            "cây cầu treo": -0.907345618121326,
+            "khu dã ngoại": 0.9950150415534154,
+            "ngư dân": 0.523359626531601,
+            "xe buýt": 0.5119085749611259,
+            "taxi": 0.5240107998251915,
+            "taxi máy": -0.6888279942795634,
+            "thác draysap": 0.8737691454589367,
+            "xe đạp": 0.6818275293335319,
+            "hồ tam tiến": 0.4958963096141815,
+            "hồ bơi": 0.5267888698726892,
+            "giá cả": 0.7112093027681112,
+            "trải nghiệm": 0.9419815770816058,
+            "vườn thú": 0.5468497797846794,
+            "hổ sư": 0.5,
+            "hươu": 0.5,
+            "chuyến đi": 0.9908628506818786,
+            "quãng": 0.9667099514044821,
+            "khu vực": 0.5,
+            "thời tiết": 0.5,
+            "xe buýt gần sân": 0.939812473487109,
+            "trường nguyễn du": 0.9951421216828749,
+            "công viên": 0.5023911073803902,
+            "thác chính": 0.5,
+            "chuyến đi bộ": -0.750584926456213,
+            "biển báo": -0.9636387850623578,
+            "khu rừng": 0.5,
+            "dòng nước": 0.9943883925443515,
+            "quãng đi": -0.6157417939975858,
+            "núi lửa": 0.9586245026439428,
+            "tảng": 0.14884325116872787
+        },
+        "dicts_adj": {
+            "cây cầu": [
+                "xinh đẹp"
+            ],
+            "thác dray": [
+                "xinh đẹp"
+            ],
+            "thác nước": [
+                "khoảng",
+                "vui vẻ",
+                "gần",
+                "xinh đẹp",
+                "khác",
+                "sạch",
+                "xanh",
+                "lớn"
+            ],
+            "thác": [
+                "giống",
+                "dài",
+                "nhanh chóng",
+                "nhanh chóng",
+                "đẹp",
+                "dọc",
+                "tương tự"
+            ],
+            "rừng": [
+                "nhỏ",
+                "gần",
+                "suốt"
+            ],
+            "cây cầu treo": [],
+            "khu dã ngoại": [],
+            "ngư dân": [],
+            "xe buýt": [
+                "tương tự",
+                "tương tự"
+            ],
+            "taxi": [
+                "lớn"
+            ],
+            "taxi máy": [
+                "lớn"
+            ],
+            "thác draysap": [
+                "ổn"
+            ],
+            "xe đạp": [
+                "xa",
+                "hơn"
+            ],
+            "hồ tam tiến": [
+                "khoảng"
+            ],
+            "hồ bơi": [
+                "tự nhiên",
+                "phải"
+            ],
+            "giá cả": [
+                "thú vị"
+            ],
+            "trải nghiệm": [
+                "thú vị",
+                "tốt",
+                "hơn"
+            ],
+            "vườn thú": [
+                "nhỏ"
+            ],
+            "hổ sư": [],
+            "hươu": [],
+            "chuyến đi": [
+                "nhanh chóng"
+            ],
+            "quãng": [
+                "nhanh chóng"
+            ],
+            "khu vực": [],
+            "thời tiết": [],
+            "xe buýt gần sân": [
+                "tương tự"
+            ],
+            "trường nguyễn du": [
+                "tương tự"
+            ],
+            "công viên": [
+                "trái"
+            ],
+            "thác chính": [],
+            "chuyến đi bộ": [
+                "đủ",
+                "thú vị",
+                "khô",
+                "sai"
+            ],
+            "biển báo": [
+                "rõ ràng",
+                "sai",
+                "khác",
+                "khác",
+                "khó"
+            ],
+            "khu rừng": [],
+            "dòng nước": [
+                "ngoạn mục",
+                "thuận lợi"
+            ],
+            "quãng đi": [
+                "ngắn"
+            ],
+            "núi lửa": [
+                "thú vị"
+            ],
+            "tảng": [
+                "dài",
+                "gồ ghề"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cây cầu": 0.5,
+            "thác dray": 0.5,
+            "thác nước": 2.0,
+            "thác": 2.0,
+            "rừng": 0.5,
+            "cây cầu treo": 0.5,
+            "khu dã ngoại": 0.5,
+            "ngư dân": 0.5,
+            "xe buýt": 1.0,
+            "taxi": 0.5,
+            "taxi máy": 0.5,
+            "thác draysap": 0.5,
+            "xe đạp": 0.5,
+            "hồ tam tiến": 0.5,
+            "hồ bơi": 0.5,
+            "giá cả": 0.5,
+            "trải nghiệm": 1.0,
+            "vườn thú": 0.5,
+            "hổ sư": 0.5,
+            "hươu": 0.5,
+            "chuyến đi": 0.5,
+            "quãng": 0.5,
+            "khu vực": 0.5,
+            "thời tiết": 0.5,
+            "xe buýt gần sân": 0.5,
+            "trường nguyễn du": 0.5,
+            "công viên": 0.5,
+            "thác chính": 0.5,
+            "chuyến đi bộ": 0.5,
+            "biển báo": 0.5,
+            "khu rừng": 0.5,
+            "dòng nước": 0.5,
+            "quãng đi": 0.5,
+            "núi lửa": 0.5,
+            "tảng": 0.5
+        }
     }
 ]

@@ -94,6 +94,81 @@
             "https://www.tripadvisor.com/Attraction_Review-g4224054-d4221842-Reviews-David_Gareja_Monastery-Udabno_Kakheti_Region.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d8803765-Reviews-Dream_Beach_Spa-Nha_Trang_Khanh_Hoa_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293928-d8803765-Reviews-Dream_Beach_Spa-Nha_Trang_Khanh_Hoa_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "massage": 0.9517290291065971,
+            "bãi biển": 0.5,
+            "ưu đãi": 0.995542946329806,
+            "chất lượng": 0.5,
+            "vị trí": 0.8737691454589367,
+            "mát-xa": 0.8737691454589367,
+            "kiểu việt": 0.8737691454589367,
+            "nhân viên": 0.9947766512050293,
+            "nha trang": 0.9945253821788356,
+            "spa": 0.8737691454589367,
+            "công viên nước": 0.5424807472154498,
+            "hồ bơi": 0.825769955990836
+        },
+        "dicts_adj": {
+            "massage": [
+                "thực sự",
+                "tốt đẹp",
+                "sạch sẽ",
+                "chuyên nghiệp",
+                "tuyệt vời"
+            ],
+            "bãi biển": [],
+            "ưu đãi": [
+                "rẻ",
+                "nhất"
+            ],
+            "chất lượng": [],
+            "vị trí": [
+                "tuyệt vời"
+            ],
+            "mát-xa": [
+                "tuyệt vời"
+            ],
+            "kiểu việt": [
+                "tuyệt vời"
+            ],
+            "nhân viên": [
+                "tốt",
+                "tốt"
+            ],
+            "nha trang": [
+                "khoảng",
+                "tuyệt vời",
+                "nhất"
+            ],
+            "spa": [
+                "khác",
+                "cùng"
+            ],
+            "công viên nước": [
+                "khác",
+                "cùng"
+            ],
+            "hồ bơi": [
+                "khác",
+                "cùng"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "massage": 1.5,
+            "bãi biển": 1.0,
+            "ưu đãi": 0.5,
+            "chất lượng": 0.5,
+            "vị trí": 0.5,
+            "mát-xa": 0.5,
+            "kiểu việt": 0.5,
+            "nhân viên": 0.5,
+            "nha trang": 0.5,
+            "spa": 0.5,
+            "công viên nước": 0.5,
+            "hồ bơi": 0.5
+        }
     }
 ]

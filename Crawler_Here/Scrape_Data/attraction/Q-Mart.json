@@ -102,6 +102,142 @@
             "https://www.tripadvisor.com/Attraction_Review-g642196-d1755263-Reviews-Seven_Sisters-Geiranger_Stranda_More_og_Romsdal_Western_Norway.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d25429896-Reviews-Q_Mart-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d25429896-Reviews-Q_Mart-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "bộ": 0.6266590766608715,
+            "quần áo": 0.620018950663507,
+            "cửa hàng": 0.44695920926252647,
+            "thị trường": 0.46105387806892395,
+            "bánh sandwich": 0.5941249094903469,
+            "khoai tây chiên": 0.4669042956084013,
+            "cá": 0.5232534864917397,
+            "tiện lợi": 0.8131697212811559,
+            "trò chơi": 0.48030903190374374,
+            "bất động sản": 0.20755112916231155,
+            "nhà": 0.9540004583541304,
+            "family": 0.8737691454589367,
+            "giá": -0.28351033199578524,
+            "bãi đậu xe": 0.5,
+            "trái cây": 0.5,
+            "khu đất": 0.5,
+            "trung tâm mua sắm": 0.8737691454589367,
+            "dịch vụ": 0.9955689102353062,
+            "trung tâm": 0.8737691454589367,
+            "nhân viên": 0.9423578166835276,
+            "đồ uống": 0.9817741215229034,
+            "không gian": -0.2063778629526496,
+            "mọi": 0.9955258204136044,
+            "chất lượng": -0.9760860335081816
+        },
+        "dicts_adj": {
+            "bộ": [
+                "đẹp"
+            ],
+            "quần áo": [
+                "đẹp"
+            ],
+            "cửa hàng": [
+                "đẹp",
+                "thấp",
+                "hơn",
+                "trung bình",
+                "thấp",
+                "hơn",
+                "trung bình",
+                "khác"
+            ],
+            "thị trường": [
+                "vô nghĩa",
+                "khác",
+                "thực sự"
+            ],
+            "bánh sandwich": [],
+            "khoai tây chiên": [
+                "cũ",
+                "khô"
+            ],
+            "cá": [],
+            "tiện lợi": [
+                "thấp",
+                "hơn",
+                "trung bình"
+            ],
+            "trò chơi": [
+                "giỏi"
+            ],
+            "bất động sản": [
+                "giỏi"
+            ],
+            "nhà": [
+                "giỏi"
+            ],
+            "family": [
+                "giỏi"
+            ],
+            "giá": [
+                "cao",
+                "rẻ",
+                "cao",
+                "đắt"
+            ],
+            "bãi đậu xe": [],
+            "trái cây": [],
+            "khu đất": [],
+            "trung tâm mua sắm": [
+                "an toàn"
+            ],
+            "dịch vụ": [
+                "sạch sẽ",
+                "mát"
+            ],
+            "trung tâm": [
+                "thuận tiện"
+            ],
+            "nhân viên": [
+                "vui vẻ",
+                "rẻ"
+            ],
+            "đồ uống": [
+                "rẻ"
+            ],
+            "không gian": [
+                "thoáng",
+                "mát"
+            ],
+            "mọi": [
+                "tuyệt vời"
+            ],
+            "chất lượng": [
+                "tệ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "bộ": 1,
+            "quần áo": 1,
+            "cửa hàng": 2,
+            "thị trường": 1,
+            "bánh sandwich": 1,
+            "khoai tây chiên": 1,
+            "cá": 1,
+            "tiện lợi": 1,
+            "trò chơi": 1,
+            "bất động sản": 1,
+            "nhà": 1,
+            "family": 1,
+            "giá": 4.0,
+            "bãi đậu xe": 1,
+            "trái cây": 1,
+            "khu đất": 1,
+            "trung tâm mua sắm": 1,
+            "dịch vụ": 1,
+            "trung tâm": 1,
+            "nhân viên": 3.5,
+            "đồ uống": 1.5,
+            "không gian": 1.5,
+            "mọi": 1,
+            "chất lượng": 1.5
+        }
     }
 ]

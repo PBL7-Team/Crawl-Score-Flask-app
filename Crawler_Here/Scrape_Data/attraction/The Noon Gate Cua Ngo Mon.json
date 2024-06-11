@@ -73,7 +73,164 @@
             "https://www.tripadvisor.com/Attraction_Review-g60766-d1125475-Reviews-Wild_River_Country-Little_Rock_Arkansas.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or10-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cổng": 0.743220271775499,
+            "hoàng đế": 0.690178552409634,
+            "kinh thành": 0.5,
+            "cổng ngọ": 0.5,
+            "cổng ngọ môn": 0.5,
+            "tường thành": 0.5,
+            "phong kiến": 0.5,
+            "hướng": 0.4794422872364521,
+            "thiên": 0.503883758559823,
+            "cấu trúc": 0.8737691454589367,
+            "người hướng dẫn": 0.5,
+            "quan binh ngựa": 0.18451624549925327,
+            "voi": -0.13997395895421505,
+            "câu chuyện": 0.5271041840314865,
+            "cổng nam": 0.5,
+            "hoàng thành": 0.8204989764199127,
+            "cánh cổng": 0.995088676805608,
+            "khu": 0.5,
+            "phức hợp": 0.5,
+            "hoàng đế triều nguyễn": 0.8737691454589367,
+            "cổng trái": 0.5,
+            "quan lại dân sự": 0.5,
+            "quân sự": 0.5,
+            "người hầu": 0.5,
+            "ngựa": 0.5,
+            "đám rước hoàng gia": 0.5,
+            "lịch sử": 0.9906775236595422,
+            "công trình": 0.8737691454589367,
+            "điện thái hòa": 0.9923538329312578,
+            "chuyến thăm": 0.9735598126426339,
+            "hoàng cung": 0.5278935711830854,
+            "quan chức": 0.5436870064586401,
+            "hoàng cung cổng ngọ": 0.5752755980938673,
+            "kiến trúc": 0.9942736636148766,
+            "tòa nhà": 0.9904274151194841
+        },
+        "dicts_adj": {
+            "cổng": [
+                "hoành tráng"
+            ],
+            "hoàng đế": [
+                "phụ",
+                "tuyệt vời",
+                "chủ yếu",
+                "cao"
+            ],
+            "kinh thành": [],
+            "cổng ngọ": [],
+            "cổng ngọ môn": [],
+            "tường thành": [],
+            "phong kiến": [],
+            "hướng": [],
+            "thiên": [],
+            "cấu trúc": [
+                "độc đáo"
+            ],
+            "người hướng dẫn": [],
+            "quan binh ngựa": [
+                "phụ"
+            ],
+            "voi": [
+                "phụ"
+            ],
+            "câu chuyện": [
+                "kungfu"
+            ],
+            "cổng nam": [],
+            "hoàng thành": [
+                "gần",
+                "đẹp",
+                "nổi tiếng",
+                "cùng"
+            ],
+            "cánh cổng": [
+                "đúng",
+                "phải",
+                "đẹp",
+                "tuyệt vời"
+            ],
+            "khu": [],
+            "phức hợp": [],
+            "hoàng đế triều nguyễn": [
+                "nổi tiếng",
+                "cùng"
+            ],
+            "cổng trái": [],
+            "quan lại dân sự": [],
+            "quân sự": [],
+            "người hầu": [],
+            "ngựa": [],
+            "đám rước hoàng gia": [],
+            "lịch sử": [],
+            "công trình": [
+                "tuyệt vời",
+                "chủ yếu"
+            ],
+            "điện thái hòa": [
+                "đẹp"
+            ],
+            "chuyến thăm": [
+                "bất kỳ"
+            ],
+            "hoàng cung": [],
+            "quan chức": [
+                "cao"
+            ],
+            "hoàng cung cổng ngọ": [],
+            "kiến trúc": [
+                "độc đáo",
+                "nhiều"
+            ],
+            "tòa nhà": [
+                "thực sự",
+                "tuyệt vời",
+                "cơ bản"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cổng": 2,
+            "hoàng đế": 4.0,
+            "kinh thành": 1,
+            "cổng ngọ": 1,
+            "cổng ngọ môn": 1,
+            "tường thành": 1,
+            "phong kiến": 1,
+            "hướng": 1,
+            "thiên": 1,
+            "cấu trúc": 1,
+            "người hướng dẫn": 1,
+            "quan binh ngựa": 1,
+            "voi": 1,
+            "câu chuyện": 1,
+            "cổng nam": 1,
+            "hoàng thành": 2.0,
+            "cánh cổng": 0.5,
+            "khu": 0.5,
+            "phức hợp": 0.5,
+            "hoàng đế triều nguyễn": 0.5,
+            "cổng trái": 0.5,
+            "quan lại dân sự": 0.5,
+            "quân sự": 0.5,
+            "người hầu": 0.5,
+            "ngựa": 0.5,
+            "đám rước hoàng gia": 0.5,
+            "lịch sử": 0.5,
+            "công trình": 0.5,
+            "điện thái hòa": 0.5,
+            "chuyến thăm": 0.5,
+            "hoàng cung": 0.5,
+            "quan chức": 0.5,
+            "hoàng cung cổng ngọ": 0.5,
+            "kiến trúc": 0.5,
+            "tòa nhà": 0.5
+        }
     },
     {
         "attraction_name": "The Noon Gate (Cua Ngo Mon)",
@@ -150,7 +307,164 @@
             "https://www.tripadvisor.com/Attraction_Review-g58528-d592696-Reviews-Cougar_Mountain_Zoo-Issaquah_Washington.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or20-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or10-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or10-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cổng": 0.6674436880469633,
+            "cung điện": 0.5,
+            "lịch sử": 0.9911319735110737,
+            "khu đất": 0.9547664211131632,
+            "hoàng thành": 0.7840525028295815,
+            "trận": 0.8737691454589367,
+            "thủy quân": 0.8737691454589367,
+            "lục chiến": 0.5707698799669743,
+            "binh": 0.520927868783474,
+            "di tích": -0.1308441236615181,
+            "dự án trùng tu": 0.534189079888165,
+            "đài tưởng niệm": 0.6449138484895229,
+            "cổng dẫn": -0.6479671215638518,
+            "hoàng đế": 0.8737691454589367,
+            "buổi trưa": 0.7654277327819727,
+            "cổng noon": 0.994886074855458,
+            "giá": 0.9529066618997604,
+            "hợp đóng": 0.9916832378366962,
+            "lao động": 0.5,
+            "cấu trúc": 0.5,
+            "tâm": 0.9954781686537899,
+            "biển": 0.5,
+            "cung điện hoàng gia": 0.8737691454589367,
+            "lăng mộ hoàng gia": 0.5575089119374752,
+            "chuyến thăm": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "cổng": [
+                "quan trọng",
+                "nhất",
+                "trái",
+                "phải",
+                "tuyệt",
+                "mệt"
+            ],
+            "cung điện": [],
+            "lịch sử": [
+                "thực sự"
+            ],
+            "khu đất": [
+                "nhiều"
+            ],
+            "hoàng thành": [
+                "tương tự",
+                "quan trọng",
+                "nhất",
+                "đầu tiên",
+                "thú vị",
+                "giống",
+                "nhỏ",
+                "hơn",
+                "kỹ Bạn",
+                "tuyệt vời",
+                "thú vị",
+                "giống",
+                "nhỏ",
+                "hơn",
+                "kỹ Bạn",
+                "tuyệt vời"
+            ],
+            "trận": [
+                "may"
+            ],
+            "thủy quân": [
+                "may"
+            ],
+            "lục chiến": [
+                "sâu",
+                "đúng"
+            ],
+            "binh": [
+                "sâu",
+                "đúng"
+            ],
+            "di tích": [
+                "cơ bản",
+                "cao"
+            ],
+            "dự án trùng tu": [
+                "cơ bản"
+            ],
+            "đài tưởng niệm": [
+                "duy nhất"
+            ],
+            "cổng dẫn": [
+                "quan trọng",
+                "nhất"
+            ],
+            "hoàng đế": [
+                "quan trọng",
+                "nhất"
+            ],
+            "buổi trưa": [
+                "tuyệt",
+                "mệt"
+            ],
+            "cổng noon": [
+                "lớn",
+                "đẹp"
+            ],
+            "giá": [
+                "hợp lý"
+            ],
+            "hợp đóng": [
+                "đồ sộ",
+                "nhiều",
+                "phức hợp"
+            ],
+            "lao động": [],
+            "cấu trúc": [],
+            "tâm": [],
+            "biển": [],
+            "cung điện hoàng gia": [
+                "đầu tiên"
+            ],
+            "lăng mộ hoàng gia": [
+                "đầu tiên"
+            ],
+            "chuyến thăm": [
+                "thú vị",
+                "giống",
+                "nhỏ",
+                "hơn",
+                "kỹ Bạn",
+                "tuyệt vời"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cổng": 1.5,
+            "cung điện": 0.5,
+            "lịch sử": 0.5,
+            "khu đất": 0.5,
+            "hoàng thành": 2.0,
+            "trận": 0.5,
+            "thủy quân": 0.5,
+            "lục chiến": 0.5,
+            "binh": 0.5,
+            "di tích": 1.0,
+            "dự án trùng tu": 0.5,
+            "đài tưởng niệm": 0.5,
+            "cổng dẫn": 0.5,
+            "hoàng đế": 0.5,
+            "buổi trưa": 0.5,
+            "cổng noon": 0.5,
+            "giá": 0.5,
+            "hợp đóng": 0.5,
+            "lao động": 0.5,
+            "cấu trúc": 0.5,
+            "tâm": 0.5,
+            "biển": 0.5,
+            "cung điện hoàng gia": 0.5,
+            "lăng mộ hoàng gia": 0.5,
+            "chuyến thăm": 0.5
+        }
     },
     {
         "attraction_name": "The Noon Gate (Cua Ngo Mon)",
@@ -228,7 +542,149 @@
             "https://www.tripadvisor.com/Attraction_Review-g189432-d523851-Reviews-Lefkes-Paros_Cyclades_South_Aegean.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or30-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or20-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or20-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "khu vườn": 0.5,
+            "biển": 0.5,
+            "vị trí": 0.8737691454589367,
+            "hoàng thành": 0.9316330388537608,
+            "bức tường": 0.72374398742492,
+            "phòng": 0.8564071810687892,
+            "ao sen": 0.7476970748975873,
+            "thuyền": 0.4443529136478901,
+            "bông hoa tàn": 0.5,
+            "bao vây hoàng gia": 0.5268451888114214,
+            "hoàng đế": 0.9734658626839519,
+            "trải nghiệm": 0.7579273156588897,
+            "trêu ngươi": 0.5,
+            "vườn hoa hướng dương": 0.8737691454589367,
+            "ao hoa súng": 0.9953484480502084,
+            "cánh đồng": 0.9954358994145878,
+            "phông": 0.9909197894157842,
+            "khuôn viên": 0.9937065350823104,
+            "ảnh đen trắng": 0.9943385540973395,
+            "tòa nhà": 0.9786424143239856,
+            "đồ uống": 0.5589725924655795,
+            "hoàng cung": 0.7720065601170063,
+            "nhà nguyễn": 0.8737691454589367,
+            "linh hồn": 0.5,
+            "lời": -0.0048508234322071075,
+            "hướng dẫn viên": 0.5483006164431572,
+            "cánh cổng": -0.9431849352549762
+        },
+        "dicts_adj": {
+            "khu vườn": [],
+            "biển": [],
+            "vị trí": [
+                "tuyệt",
+                "đẹp",
+                "cuối cùng",
+                "lớn"
+            ],
+            "hoàng thành": [
+                "tuyệt",
+                "đẹp",
+                "cuối cùng",
+                "lớn"
+            ],
+            "bức tường": [
+                "dày",
+                "có thể",
+                "đẹp"
+            ],
+            "phòng": [
+                "xinh xắn",
+                "lặng lẽ"
+            ],
+            "ao sen": [
+                "xinh xắn",
+                "lặng lẽ"
+            ],
+            "thuyền": [
+                "nhỏ"
+            ],
+            "bông hoa tàn": [],
+            "bao vây hoàng gia": [],
+            "hoàng đế": [
+                "quan trọng"
+            ],
+            "trải nghiệm": [
+                "đầu tiên",
+                "đầy"
+            ],
+            "trêu ngươi": [],
+            "vườn hoa hướng dương": [
+                "tuyệt vời"
+            ],
+            "ao hoa súng": [
+                "tuyệt vời"
+            ],
+            "cánh đồng": [
+                "tuyệt vời"
+            ],
+            "phông": [
+                "đẹp"
+            ],
+            "khuôn viên": [
+                "thực sự"
+            ],
+            "ảnh đen trắng": [
+                "tuyệt vời"
+            ],
+            "tòa nhà": [
+                "đẹp"
+            ],
+            "đồ uống": [
+                "nhiều"
+            ],
+            "hoàng cung": [
+                "nổi bật"
+            ],
+            "nhà nguyễn": [
+                "nhiều",
+                "hơn"
+            ],
+            "linh hồn": [],
+            "lời": [
+                "quan trọng"
+            ],
+            "hướng dẫn viên": [
+                "khác",
+                "khác"
+            ],
+            "cánh cổng": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "khu vườn": 0.5,
+            "biển": 0.5,
+            "vị trí": 0.5,
+            "hoàng thành": 1.0,
+            "bức tường": 1.5,
+            "phòng": 0.5,
+            "ao sen": 0.5,
+            "thuyền": 0.5,
+            "bông hoa tàn": 0.5,
+            "bao vây hoàng gia": 0.5,
+            "hoàng đế": 0.5,
+            "trải nghiệm": 0.5,
+            "trêu ngươi": 0.5,
+            "vườn hoa hướng dương": 0.5,
+            "ao hoa súng": 0.5,
+            "cánh đồng": 0.5,
+            "phông": 0.5,
+            "khuôn viên": 0.5,
+            "ảnh đen trắng": 0.5,
+            "tòa nhà": 0.5,
+            "đồ uống": 0.5,
+            "hoàng cung": 0.5,
+            "nhà nguyễn": 0.5,
+            "linh hồn": 0.5,
+            "lời": 0.5,
+            "hướng dẫn viên": 0.5,
+            "cánh cổng": 0.5
+        }
     },
     {
         "attraction_name": "The Noon Gate (Cua Ngo Mon)",
@@ -306,7 +762,112 @@
             "https://www.tripadvisor.com/Attraction_Review-g294005-d482148-Reviews-Hamra_Street-Beirut.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or40-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or30-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or30-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chuyến tham quan": 0.9953622330212966,
+            "hoàng thành": 0.6717584226280451,
+            "khung cảnh": 0.9954537755693309,
+            "địa điểm": 0.9951848591445014,
+            "văn hóa": -0.9757664839271456,
+            "lịch sử": -0.8373225494287908,
+            "khuôn viên": 0.5,
+            "nghề thủ công": 0.5,
+            "kiến trúc": 0.9955918926862068,
+            "cổng an ninh": 0.5240284167230129,
+            "kiến ​​trúc viễn đông": 0.9945251707686111,
+            "pháo đài": 0.5,
+            "kẻ thù": 0.5,
+            "tác phẩm nghệ thuật": 0.9947145894548157,
+            "dinh thự": 0.5,
+            "cánh cổng": 0.5,
+            "tòa nhà": 0.747637964610476,
+            "bức tường": 0.5,
+            "vùng đất": 0.8067493764683604,
+            "bầu không khí": 0.9839636883698404,
+            "bức tường thành": 0.9947425479185767,
+            "huế xưa": 0.5843681991100311
+        },
+        "dicts_adj": {
+            "chuyến tham quan": [
+                "đẹp"
+            ],
+            "hoàng thành": [
+                "đẹp"
+            ],
+            "khung cảnh": [
+                "tuyệt vời"
+            ],
+            "địa điểm": [
+                "đầy"
+            ],
+            "văn hóa": [
+                "đầy"
+            ],
+            "lịch sử": [
+                "đầy"
+            ],
+            "khuôn viên": [],
+            "nghề thủ công": [],
+            "kiến trúc": [
+                "đẹp"
+            ],
+            "cổng an ninh": [],
+            "kiến ​​trúc viễn đông": [],
+            "pháo đài": [],
+            "kẻ thù": [],
+            "tác phẩm nghệ thuật": [
+                "đẹp",
+                "ngược",
+                "lộng lẫy",
+                "nguyên bản"
+            ],
+            "dinh thự": [],
+            "cánh cổng": [],
+            "tòa nhà": [
+                "đẹp",
+                "đặc biệt"
+            ],
+            "bức tường": [],
+            "vùng đất": [
+                "nguyên vẹn"
+            ],
+            "bầu không khí": [
+                "hơn",
+                "kinh",
+                "thơ mộng",
+                "hơn"
+            ],
+            "bức tường thành": [
+                "đẹp"
+            ],
+            "huế xưa": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chuyến tham quan": 0.5,
+            "hoàng thành": 1.0,
+            "khung cảnh": 0.5,
+            "địa điểm": 0.5,
+            "văn hóa": 0.5,
+            "lịch sử": 0.5,
+            "khuôn viên": 0.5,
+            "nghề thủ công": 0.5,
+            "kiến trúc": 0.5,
+            "cổng an ninh": 0.5,
+            "kiến ​​trúc viễn đông": 0.5,
+            "pháo đài": 0.5,
+            "kẻ thù": 0.5,
+            "tác phẩm nghệ thuật": 0.5,
+            "dinh thự": 0.5,
+            "cánh cổng": 0.5,
+            "tòa nhà": 1.0,
+            "bức tường": 0.5,
+            "vùng đất": 0.5,
+            "bầu không khí": 0.5,
+            "bức tường thành": 0.5,
+            "huế xưa": 0.5
+        }
     },
     {
         "attraction_name": "The Noon Gate (Cua Ngo Mon)",
@@ -384,7 +945,12 @@
             "https://www.tripadvisor.com/Attraction_Review-g189158-d195106-Reviews-Calouste_Gulbenkian_Museum-Lisbon_Lisbon_District_Central_Portugal.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or50-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or40-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or40-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {},
+        "dicts_adj": {},
+        "list_proper_noun": [],
+        "factor value": {}
     },
     {
         "attraction_name": "The Noon Gate (Cua Ngo Mon)",
@@ -462,7 +1028,144 @@
             "https://www.tripadvisor.com/Attraction_Review-g37003-d12853783-Reviews-Wildlife_In_Need_Inc-Charlestown_Indiana.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or60-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or50-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or50-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cánh": 0.5,
+            "cửa lớn": 0.5,
+            "cánh cửa": 0.5,
+            "cho": 0.5,
+            "voi": 0.5,
+            "cạnh": 0.5061741694808006,
+            "cột cờ": 0.6359032895416021,
+            "cung điện": 0.8737691454589367,
+            "tòa nhà hoàng gia": 0.5,
+            "hoàng đế": 0.5268106861039996,
+            "khu phức hợp": 0.9573920499533415,
+            "biển báo": -0.9566601291298866,
+            "giờ ăn trưa": -0.9603911202866584,
+            "đường hầm": 0.4998313784599304,
+            "lối vào": 0.5836632242426276,
+            "công trình bằng đá trang nghiêm": 0.5,
+            "cầu": 0.5,
+            "hoàng thành": 0.5,
+            "bức tường dày": 0.8394889123737812,
+            "bé khi": 0.5,
+            "cánh cổng": 0.5,
+            "bức tường tử": 0.9951565731316805,
+            "cổng": 0.8737691454589367,
+            "ngọ môn": 0.8737691454589367,
+            "chuyến đi": 0.3944334387779236,
+            "kiến ​​trúc sư": 0.9954183848458342,
+            "quang cảnh": 0.9952770140953362,
+            "tòa nhà": 0.9953336213948205,
+            "thành cổ": 0.5407422604039311
+        },
+        "dicts_adj": {
+            "cánh": [],
+            "cửa lớn": [],
+            "cánh cửa": [],
+            "cho": [],
+            "voi": [],
+            "cạnh": [
+                "lớn"
+            ],
+            "cột cờ": [
+                "lớn"
+            ],
+            "cung điện": [
+                "rộng lớn"
+            ],
+            "tòa nhà hoàng gia": [],
+            "hoàng đế": [],
+            "khu phức hợp": [
+                "tốt"
+            ],
+            "biển báo": [
+                "khó chịu",
+                "sẵn sàng"
+            ],
+            "giờ ăn trưa": [
+                "cổ"
+            ],
+            "đường hầm": [
+                "hẹp",
+                "thẳng",
+                "trái",
+                "xa"
+            ],
+            "lối vào": [],
+            "công trình bằng đá trang nghiêm": [],
+            "cầu": [],
+            "hoàng thành": [],
+            "bức tường dày": [
+                "nhiều",
+                "đỏ"
+            ],
+            "bé khi": [],
+            "cánh cổng": [],
+            "bức tường tử": [
+                "đầy đủ",
+                "kỳ diệu"
+            ],
+            "cổng": [
+                "nhiều"
+            ],
+            "ngọ môn": [
+                "nhiều"
+            ],
+            "chuyến đi": [
+                "bất kỳ"
+            ],
+            "kiến ​​trúc sư": [
+                "tuyệt vời",
+                "cùng",
+                "gần"
+            ],
+            "quang cảnh": [
+                "tuyệt vời",
+                "cổ"
+            ],
+            "tòa nhà": [
+                "đẹp",
+                "đẹp"
+            ],
+            "thành cổ": [
+                "to"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cánh": 0.5,
+            "cửa lớn": 0.5,
+            "cánh cửa": 0.5,
+            "cho": 0.5,
+            "voi": 0.5,
+            "cạnh": 0.5,
+            "cột cờ": 0.5,
+            "cung điện": 0.5,
+            "tòa nhà hoàng gia": 0.5,
+            "hoàng đế": 1.0,
+            "khu phức hợp": 0.5,
+            "biển báo": 0.5,
+            "giờ ăn trưa": 0.5,
+            "đường hầm": 0.5,
+            "lối vào": 0.5,
+            "công trình bằng đá trang nghiêm": 0.5,
+            "cầu": 0.5,
+            "hoàng thành": 0.5,
+            "bức tường dày": 0.5,
+            "bé khi": 0.5,
+            "cánh cổng": 0.5,
+            "bức tường tử": 0.5,
+            "cổng": 0.5,
+            "ngọ môn": 0.5,
+            "chuyến đi": 0.5,
+            "kiến ​​trúc sư": 0.5,
+            "quang cảnh": 0.5,
+            "tòa nhà": 0.5,
+            "thành cổ": 0.5
+        }
     },
     {
         "attraction_name": "The Noon Gate (Cua Ngo Mon)",
@@ -540,7 +1243,174 @@
             "https://www.tripadvisor.com/Attraction_Review-g46186-d104262-Reviews-Kancamagus_Highway-North_Conway_Conway_New_Hampshire.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or70-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or60-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or60-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hoàng thành": 0.4988965420052409,
+            "con hào": 0.9950490124174394,
+            "người dân": 0.6430809199810028,
+            "sông": 0.9940470563014969,
+            "thành phố hoàng gia": 0.9945728735765442,
+            "lịch sử": 0.9705370576120913,
+            "cánh cổng": 0.7458417642628774,
+            "biểu tượng": 0.5,
+            "của": 0.5,
+            "huế xưa": 0.5,
+            "thời": 0.5,
+            "huy hoàng": 0.5,
+            "thời xa xưa": 0.5265655927360058,
+            "di sản thế giới": 0.8737691454589367,
+            "lũ lụt": 0.5,
+            "tòa nhà": 0.7286304822191596,
+            "bảo trì": 0.5,
+            "khu vườn": 0.5,
+            "địa điểm": 0.5,
+            "lăng mộ hoàng gia": 0.5,
+            "chùa": 0.5,
+            "tiên mụ": 0.5,
+            "ngày": 0.5271165836602449,
+            "chiến tranh": 0.9221509462222457,
+            "giá": 0.5301669109612703,
+            "giày thể": 0.46551780588924885,
+            "dịch vụ xe buýt": -0.9604202753398567,
+            "bộ đồ hoàng gia": 0.9634169577620924,
+            "xe đạp": 0.6532469959929585,
+            "dịch vụ": 0.5193715868517756,
+            "bánh xèo": -0.9320725363213569,
+            "đường nguyễn biểu": 0.8737691454589367,
+            "đường mai": 0.8737691454589367,
+            "nhà hàng": 0.5,
+            "bánh": 0.5,
+            "thịt lợn": 0.5,
+            "cổng": 0.8737691454589367,
+            "cửa ngọ": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "hoàng thành": [],
+            "con hào": [
+                "thực sự"
+            ],
+            "người dân": [],
+            "sông": [
+                "rực rỡ"
+            ],
+            "thành phố hoàng gia": [
+                "nhiều"
+            ],
+            "lịch sử": [
+                "nhiều"
+            ],
+            "cánh cổng": [
+                "thú vị"
+            ],
+            "biểu tượng": [],
+            "của": [],
+            "huế xưa": [],
+            "thời": [],
+            "huy hoàng": [],
+            "thời xa xưa": [
+                "cũ"
+            ],
+            "di sản thế giới": [
+                "gần"
+            ],
+            "lũ lụt": [],
+            "tòa nhà": [
+                "Nhiều",
+                "nhiều"
+            ],
+            "bảo trì": [],
+            "khu vườn": [],
+            "địa điểm": [],
+            "lăng mộ hoàng gia": [],
+            "chùa": [],
+            "tiên mụ": [],
+            "ngày": [
+                "lớn",
+                "gần"
+            ],
+            "chiến tranh": [
+                "hơn",
+                "nhiều"
+            ],
+            "giá": [
+                "khoảng"
+            ],
+            "giày thể": [
+                "rộng"
+            ],
+            "dịch vụ xe buýt": [
+                "đắt"
+            ],
+            "bộ đồ hoàng gia": [
+                "khoảng"
+            ],
+            "xe đạp": [
+                "khoảng"
+            ],
+            "dịch vụ": [
+                "khoảng"
+            ],
+            "bánh xèo": [
+                "gần"
+            ],
+            "đường nguyễn biểu": [
+                "gần"
+            ],
+            "đường mai": [
+                "gần"
+            ],
+            "nhà hàng": [],
+            "bánh": [],
+            "thịt lợn": [],
+            "cổng": [
+                "đẹp mắt"
+            ],
+            "cửa ngọ": [
+                "đẹp mắt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hoàng thành": 1.0,
+            "con hào": 0.5,
+            "người dân": 0.5,
+            "sông": 0.5,
+            "thành phố hoàng gia": 0.5,
+            "lịch sử": 0.5,
+            "cánh cổng": 1.0,
+            "biểu tượng": 1.0,
+            "của": 0.5,
+            "huế xưa": 0.5,
+            "thời": 0.5,
+            "huy hoàng": 0.5,
+            "thời xa xưa": 0.5,
+            "di sản thế giới": 0.5,
+            "lũ lụt": 0.5,
+            "tòa nhà": 1.0,
+            "bảo trì": 0.5,
+            "khu vườn": 0.5,
+            "địa điểm": 0.5,
+            "lăng mộ hoàng gia": 0.5,
+            "chùa": 0.5,
+            "tiên mụ": 0.5,
+            "ngày": 0.5,
+            "chiến tranh": 0.5,
+            "giá": 0.5,
+            "giày thể": 0.5,
+            "dịch vụ xe buýt": 0.5,
+            "bộ đồ hoàng gia": 0.5,
+            "xe đạp": 0.5,
+            "dịch vụ": 0.5,
+            "bánh xèo": 0.5,
+            "đường nguyễn biểu": 0.5,
+            "đường mai": 0.5,
+            "nhà hàng": 0.5,
+            "bánh": 0.5,
+            "thịt lợn": 0.5,
+            "cổng": 0.5,
+            "cửa ngọ": 0.5
+        }
     },
     {
         "attraction_name": "The Noon Gate (Cua Ngo Mon)",
@@ -618,7 +1488,153 @@
             "https://www.tripadvisor.com/Attraction_Review-g294446-d12279439-Reviews-Pazari_i_Ri-Tirana_Tirana_County.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or80-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or70-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or70-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "hoàng": 0.8737691454589367,
+            "cột cờ": 0.8737691454589367,
+            "xe máy": 0.7495459374040365,
+            "ao sen": 0.9792283939896151,
+            "cổng": 0.9946180105325766,
+            "phương tiện di chuyển": 0.5110981296747923,
+            "chuyến thăm": 0.7950128956581466,
+            "hoàng thành": 0.8181257840866845,
+            "bức tường trần": 0.8003019168972969,
+            "kho lưu trữ": 0.9881755455862731,
+            "khu vườn": 0.5,
+            "lịch sử": 0.7476883750787238,
+            "di tích lịch sử": 0.984004586469382,
+            "hoàng hôn": 0.9909536871127784,
+            "hào": 0.9919507876038551,
+            "tòa nhà": 0.9779337639338337,
+            "kiến": 0.9916796433972195,
+            "chuyến tham quan": 0.5521770576015115,
+            "người dân địa phương": 0.974688783986494,
+            "nước mía": 0.9870249242521822,
+            "công trình kiến ​​trúc": 0.9686141284182668,
+            "tầm nhìn": 0.99527965701418,
+            "hoàng cung": 0.8737691454589367,
+            "tháp cờ": 0.8737691454589367,
+            "khu": 0.6406074902042747,
+            "đường hầm": 0.42441211827099323,
+            "bảo quản": 0.989363276748918
+        },
+        "dicts_adj": {
+            "hoàng": [
+                "nổi tiếng"
+            ],
+            "cột cờ": [
+                "nổi tiếng"
+            ],
+            "xe máy": [
+                "đầy"
+            ],
+            "ao sen": [
+                "đầy"
+            ],
+            "cổng": [
+                "đẹp"
+            ],
+            "phương tiện di chuyển": [
+                "bất kỳ"
+            ],
+            "chuyến thăm": [
+                "cuối cùng",
+                "tốt đẹp"
+            ],
+            "hoàng thành": [
+                "cuối cùng",
+                "tốt đẹp",
+                "đẹp",
+                "đẹp"
+            ],
+            "bức tường trần": [
+                "khắp"
+            ],
+            "kho lưu trữ": [
+                "khắp"
+            ],
+            "khu vườn": [],
+            "lịch sử": [
+                "tuyệt vời",
+                "đẹp",
+                "đầy"
+            ],
+            "di tích lịch sử": [],
+            "hoàng hôn": [
+                "Thực sự",
+                "đẹp",
+                "nổi bật"
+            ],
+            "hào": [],
+            "tòa nhà": [
+                "tốt",
+                "thực sự",
+                "đẹp"
+            ],
+            "kiến": [
+                "đẹp",
+                "đẹp"
+            ],
+            "chuyến tham quan": [],
+            "người dân địa phương": [
+                "đông đúc"
+            ],
+            "nước mía": [
+                "đầy"
+            ],
+            "công trình kiến ​​trúc": [
+                "đẹp",
+                "gần"
+            ],
+            "tầm nhìn": [
+                "đẹp"
+            ],
+            "hoàng cung": [
+                "đẹp"
+            ],
+            "tháp cờ": [
+                "đẹp"
+            ],
+            "khu": [],
+            "đường hầm": [
+                "ngắn",
+                "cũ"
+            ],
+            "bảo quản": [
+                "tốt"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "hoàng": 0.5,
+            "cột cờ": 0.5,
+            "xe máy": 0.5,
+            "ao sen": 0.5,
+            "cổng": 0.5,
+            "phương tiện di chuyển": 0.5,
+            "chuyến thăm": 0.5,
+            "hoàng thành": 1.0,
+            "bức tường trần": 0.5,
+            "kho lưu trữ": 0.5,
+            "khu vườn": 0.5,
+            "lịch sử": 1.0,
+            "di tích lịch sử": 0.5,
+            "hoàng hôn": 0.5,
+            "hào": 0.5,
+            "tòa nhà": 1.0,
+            "kiến": 0.5,
+            "chuyến tham quan": 0.5,
+            "người dân địa phương": 0.5,
+            "nước mía": 0.5,
+            "công trình kiến ​​trúc": 0.5,
+            "tầm nhìn": 0.5,
+            "hoàng cung": 0.5,
+            "tháp cờ": 0.5,
+            "khu": 0.5,
+            "đường hầm": 0.5,
+            "bảo quản": 0.5
+        }
     },
     {
         "attraction_name": "The Noon Gate (Cua Ngo Mon)",
@@ -696,7 +1712,216 @@
             "https://www.tripadvisor.com/Attraction_Review-g187147-d2243122-Reviews-Rue_Saint_Honore-Paris_Ile_de_France.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or90-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or80-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or80-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "tòa nhà ấn tượng": 0.9406589576974511,
+            "lịch sử": 0.9604530853684992,
+            "kiến ​​trúc thì": 0.994866972672753,
+            "quần thể": 0.5,
+            "cung điện": 0.5,
+            "cổng": 0.7329420504781107,
+            "pháo đài": 0.5,
+            "ngôi đình": 0.5,
+            "nhà vua": 0.5,
+            "cây cầu dẫn": 0.702035621739924,
+            "vua": 0.5,
+            "chúa": 0.5,
+            "quan lại": 0.5,
+            "hoàng gia": 0.5169267915189266,
+            "chiến": -0.7902319179847836,
+            "cánh": 0.9591709217056632,
+            "chiến tranh": 0.46126655489206314,
+            "ngói": 0.9885858502238989,
+            "hướng dẫn viên": 0.9094302398152649,
+            "cánh cổng": 0.5668435981497169,
+            "hoàng thành": 0.8737691454589367,
+            "phố cổ": 0.5154910907149315,
+            "hoàng đế": 0.8737691454589367,
+            "nghi lễ cấp nhà nước": 0.5028696414083242,
+            "phòng ngai vàng": 0.5166675597429276,
+            "cung điện hoàng gia": 0.8737691454589367,
+            "cạnh": 0.5070326738059521,
+            "cầu thang": 0.5258778762072325,
+            "cửa": 0.6892560124397278,
+            "sơn son đỏ": 0.8829292915761471,
+            "hai cổng": 0.5,
+            "quan văn": 0.5,
+            "quân sự": 0.5,
+            "ngự": 0.5386133976280689,
+            "chái": 0.5059576630592346,
+            "cánh xòe rộng": 0.11094862222671509,
+            "hành lang": 0.5123877394944429,
+            "buổi trưa": 0.5396621897816658,
+            "bởi": 0.5,
+            "hào": 0.5,
+            "ao sen": 0.5,
+            "tường gạch": 0.5,
+            "kiểu đình trung hoa": 0.5,
+            "người hoa": 0.8737691454589367,
+            "công trình": 0.5,
+            "kiến ​​trúc kiểu pháp": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "tòa nhà ấn tượng": [
+                "hơn"
+            ],
+            "lịch sử": [
+                "thú vị"
+            ],
+            "kiến ​​trúc thì": [
+                "tuyệt vời"
+            ],
+            "quần thể": [],
+            "cung điện": [],
+            "cổng": [
+                "nhất",
+                "riêng"
+            ],
+            "pháo đài": [],
+            "ngôi đình": [],
+            "nhà vua": [],
+            "cây cầu dẫn": [],
+            "vua": [],
+            "chúa": [],
+            "quan lại": [],
+            "hoàng gia": [
+                "Tương tự",
+                "tượng trưng",
+                "xanh"
+            ],
+            "chiến": [
+                "giống",
+                "khác"
+            ],
+            "cánh": [
+                "thú vị"
+            ],
+            "chiến tranh": [
+                "tốt",
+                "lâu dài"
+            ],
+            "ngói": [
+                "đẹp"
+            ],
+            "hướng dẫn viên": [
+                "quan trọng",
+                "khác"
+            ],
+            "cánh cổng": [
+                "quan trọng",
+                "khác",
+                "đẹp"
+            ],
+            "hoàng thành": [
+                "chính thức",
+                "nhiều"
+            ],
+            "phố cổ": [
+                "riêng"
+            ],
+            "hoàng đế": [
+                "chính thức",
+                "nhiều"
+            ],
+            "nghi lễ cấp nhà nước": [
+                "chính thức"
+            ],
+            "phòng ngai vàng": [
+                "quan trọng"
+            ],
+            "cung điện hoàng gia": [
+                "quan trọng"
+            ],
+            "cạnh": [
+                "dài",
+                "nhất",
+                "rộng",
+                "nhất",
+                "cao"
+            ],
+            "cầu thang": [],
+            "cửa": [
+                "riêng"
+            ],
+            "sơn son đỏ": [
+                "riêng"
+            ],
+            "hai cổng": [],
+            "quan văn": [],
+            "quân sự": [],
+            "ngự": [],
+            "chái": [
+                "cao",
+                "cao"
+            ],
+            "cánh xòe rộng": [
+                "giống"
+            ],
+            "hành lang": [],
+            "buổi trưa": [],
+            "bởi": [],
+            "hào": [],
+            "ao sen": [],
+            "tường gạch": [],
+            "kiểu đình trung hoa": [],
+            "người hoa": [
+                "nhiều"
+            ],
+            "công trình": [],
+            "kiến ​​trúc kiểu pháp": [
+                "nhiều"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "tòa nhà ấn tượng": 0.5,
+            "lịch sử": 0.5,
+            "kiến ​​trúc thì": 0.5,
+            "quần thể": 0.5,
+            "cung điện": 0.5,
+            "cổng": 1.5,
+            "pháo đài": 0.5,
+            "ngôi đình": 0.5,
+            "nhà vua": 0.5,
+            "cây cầu dẫn": 0.5,
+            "vua": 0.5,
+            "chúa": 0.5,
+            "quan lại": 0.5,
+            "hoàng gia": 0.5,
+            "chiến": 0.5,
+            "cánh": 0.5,
+            "chiến tranh": 0.5,
+            "ngói": 0.5,
+            "hướng dẫn viên": 0.5,
+            "cánh cổng": 1.0,
+            "hoàng thành": 0.5,
+            "phố cổ": 0.5,
+            "hoàng đế": 0.5,
+            "nghi lễ cấp nhà nước": 0.5,
+            "phòng ngai vàng": 0.5,
+            "cung điện hoàng gia": 0.5,
+            "cạnh": 0.5,
+            "cầu thang": 0.5,
+            "cửa": 0.5,
+            "sơn son đỏ": 0.5,
+            "hai cổng": 0.5,
+            "quan văn": 0.5,
+            "quân sự": 0.5,
+            "ngự": 0.5,
+            "chái": 0.5,
+            "cánh xòe rộng": 0.5,
+            "hành lang": 0.5,
+            "buổi trưa": 0.5,
+            "bởi": 0.5,
+            "hào": 0.5,
+            "ao sen": 0.5,
+            "tường gạch": 0.5,
+            "kiểu đình trung hoa": 0.5,
+            "người hoa": 0.5,
+            "công trình": 0.5,
+            "kiến ​​trúc kiểu pháp": 0.5
+        }
     },
     {
         "attraction_name": "The Noon Gate (Cua Ngo Mon)",
@@ -774,6 +1999,115 @@
             "https://www.tripadvisor.com/Attraction_Review-g53806-d3512057-Reviews-Big_Pocono_State_Park-Tannersville_Pocono_Mountains_Region_Pennsylvania.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or100-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or90-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293926-d451125-Reviews-or90-The_Noon_Gate_Cua_Ngo_Mon-Hue_Thua_Thien_Hue_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cánh cổng": 0.03884298575576395,
+            "chuyến đi": 0.552857275120914,
+            "chai nước": 0.10332202911376953,
+            "di sản thế giới": 0.9220558772794902,
+            "vật": 0.8268606830388308,
+            "chỗ": 0.5302054714411497,
+            "cổng ngọ môn": 0.8737691454589367,
+            "công trình": 0.5134552512317896,
+            "hoàng thành": 0.07724100816994905,
+            "kiến trúc": 0.5,
+            "khung cảnh": 0.5,
+            "thành phố": 0.8333003397565335,
+            "bức tường": 0.97546570841223,
+            "hoàng đế": 0.5801024995744228,
+            "chiến": 0.5,
+            "cảnh tượng": 0.5,
+            "khu phức hợp": 0.5,
+            "khu phức hợp hoàng gia": -0.5301940310746431,
+            "tòa nhà triều đại": 0.8063741400837898,
+            "chuông đồng": -0.6181442681699991
+        },
+        "dicts_adj": {
+            "cánh cổng": [
+                "đẹp",
+                "lộng lẫy",
+                "Giống",
+                "Chắc chắn",
+                "ấn tượng",
+                "lịch sử",
+                "quan trọng"
+            ],
+            "chuyến đi": [
+                "nhỏ"
+            ],
+            "chai nước": [
+                "nhỏ"
+            ],
+            "di sản thế giới": [],
+            "vật": [
+                "nhiều",
+                "bí ẩn"
+            ],
+            "chỗ": [
+                "tại chỗ"
+            ],
+            "cổng ngọ môn": [
+                "đơn giản"
+            ],
+            "công trình": [
+                "đơn giản"
+            ],
+            "hoàng thành": [
+                "đơn giản",
+                "phải",
+                "nhất"
+            ],
+            "kiến trúc": [],
+            "khung cảnh": [],
+            "thành phố": [
+                "cổ",
+                "tốt"
+            ],
+            "bức tường": [
+                "bao la"
+            ],
+            "hoàng đế": [
+                "cuối cùng",
+                "nhiều",
+                "nhiều"
+            ],
+            "chiến": [],
+            "cảnh tượng": [],
+            "khu phức hợp": [],
+            "khu phức hợp hoàng gia": [
+                "lớn"
+            ],
+            "tòa nhà triều đại": [
+                "đầy"
+            ],
+            "chuông đồng": [
+                "khổng lồ",
+                "lớn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cánh cổng": 2.0,
+            "chuyến đi": 0.5,
+            "chai nước": 0.5,
+            "di sản thế giới": 0.5,
+            "vật": 0.5,
+            "chỗ": 0.5,
+            "cổng ngọ môn": 0.5,
+            "công trình": 0.5,
+            "hoàng thành": 1.0,
+            "kiến trúc": 0.5,
+            "khung cảnh": 0.5,
+            "thành phố": 0.5,
+            "bức tường": 0.5,
+            "hoàng đế": 0.5,
+            "chiến": 0.5,
+            "cảnh tượng": 0.5,
+            "khu phức hợp": 0.5,
+            "khu phức hợp hoàng gia": 0.5,
+            "tòa nhà triều đại": 0.5,
+            "chuông đồng": 0.5
+        }
     }
 ]

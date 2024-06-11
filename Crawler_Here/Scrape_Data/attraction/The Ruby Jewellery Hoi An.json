@@ -125,7 +125,169 @@
             "https://www.tripadvisor.com/Attraction_Review-g1180077-d2321406-Reviews-Cala_Violina-Scarlino_Province_of_Grosseto_Tuscany.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d25226713-Reviews-or10-The_Ruby_Jewellery_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25226713-Reviews-The_Ruby_Jewellery_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25226713-Reviews-The_Ruby_Jewellery_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "chất lượng": 0.934657032659743,
+            "trải nghiệm": 0.9954869184002746,
+            "chủ sở hữu": 0.9954323883866891,
+            "sản phẩm": 0.9950272367277648,
+            "giá cả": 0.9693680500844494,
+            "quán bày": 0.9934420574572869,
+            "bông": 0.9955305332550779,
+            "bạc": 0.9955158832599409,
+            "nhẫn vàng": 0.5,
+            "cửa hàng": 0.7856035449884883,
+            "nhân viên": 0.9867872580135656,
+            "dây": 0.9955106877023354,
+            "chuyền nhiệt đới mũ": 0.994055091869086,
+            "vòng tay": 0.9278313399214918,
+            "dịch vụ": 0.9946071378653869,
+            "trang sức": 0.99546838743845,
+            "nhẫn": 0.9251244592984827,
+            "xà": 0.5,
+            "hướng dẫn viên": 0.9858686218503863,
+            "nhẫn vàng trắng": 0.9932421506382525,
+            "giá": 0.9955442877253518,
+            "con gái": 0.9956131214275956,
+            "đồ": 0.9955912002478726,
+            "trang sức bạc": 0.5,
+            "vàng": 0.9952914286404848,
+            "đồ trang sức": 0.9900468813721091
+        },
+        "dicts_adj": {
+            "chất lượng": [
+                "chính xác",
+                "cao",
+                "tuyệt vời",
+                "tuyệt vời"
+            ],
+            "trải nghiệm": [
+                "vui vẻ",
+                "tốt",
+                "tuyệt vời"
+            ],
+            "chủ sở hữu": [
+                "thân thiện",
+                "hữu ích"
+            ],
+            "sản phẩm": [
+                "hợp lý"
+            ],
+            "giá cả": [
+                "hợp lý",
+                "hợp lý",
+                "hợp lý",
+                "hợp lý"
+            ],
+            "quán bày": [
+                "đẹp",
+                "gần"
+            ],
+            "bông": [
+                "đẹp"
+            ],
+            "bạc": [
+                "đẹp"
+            ],
+            "nhẫn vàng": [],
+            "cửa hàng": [
+                "Thực sự",
+                "tuyệt vời",
+                "xinh đẹp",
+                "chuyên nghiệp",
+                "đúng",
+                "hữu ích",
+                "chu đáo",
+                "chuyên nghiệp"
+            ],
+            "nhân viên": [
+                "chuyên nghiệp",
+                "hữu ích",
+                "chu đáo",
+                "chuyên nghiệp",
+                "nhiệt tình",
+                "chuyên nghiệp"
+            ],
+            "dây": [
+                "đẹp"
+            ],
+            "chuyền nhiệt đới mũ": [
+                "đẹp"
+            ],
+            "vòng tay": [
+                "đẹp",
+                "riêng",
+                "tốt",
+                "hơn",
+                "đẹp"
+            ],
+            "dịch vụ": [
+                "hợp lý",
+                "hoan nghênh"
+            ],
+            "trang sức": [
+                "tuyệt vời",
+                "hài lòng"
+            ],
+            "nhẫn": [
+                "đẹp",
+                "độc đáo",
+                "riêng",
+                "tốt",
+                "hơn",
+                "hoàn hảo"
+            ],
+            "xà": [],
+            "hướng dẫn viên": [],
+            "nhẫn vàng trắng": [],
+            "giá": [
+                "tốt",
+                "hạnh phúc"
+            ],
+            "con gái": [
+                "hài lòng"
+            ],
+            "đồ": [
+                "hài lòng"
+            ],
+            "trang sức bạc": [],
+            "vàng": [
+                "Đặc biệt",
+                "trắng",
+                "hoàn hảo"
+            ],
+            "đồ trang sức": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "chất lượng": 3,
+            "trải nghiệm": 2,
+            "chủ sở hữu": 1,
+            "sản phẩm": 2,
+            "giá cả": 5,
+            "quán bày": 1,
+            "bông": 1,
+            "bạc": 1,
+            "nhẫn vàng": 1,
+            "cửa hàng": 6,
+            "nhân viên": 3,
+            "dây": 1,
+            "chuyền nhiệt đới mũ": 1,
+            "vòng tay": 4,
+            "dịch vụ": 3,
+            "trang sức": 2,
+            "nhẫn": 4,
+            "xà": 1,
+            "hướng dẫn viên": 1,
+            "nhẫn vàng trắng": 1,
+            "giá": 1,
+            "con gái": 1,
+            "đồ": 1,
+            "trang sức bạc": 1,
+            "vàng": 1,
+            "đồ trang sức": 1
+        }
     },
     {
         "attraction_name": "The Ruby Jewellery Hoi An",
@@ -254,7 +416,69 @@
             "https://www.tripadvisor.com/Attraction_Review-g34731-d19056181-Reviews-Drive_Shack-West_Palm_Beach_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d25226713-Reviews-or20-The_Ruby_Jewellery_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25226713-Reviews-or10-The_Ruby_Jewellery_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25226713-Reviews-or10-The_Ruby_Jewellery_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "dây": 0.9955138676450588,
+            "chuyền nhiệt đới": 0.9951261621899903,
+            "vòng tay": 0.9954548102105036,
+            "dịch vụ": 0.994117134512635,
+            "chất lượng": 0.9954844518215396,
+            "cửa hàng": 0.9944511305075139,
+            "dây chuyền thánh": 0.33899436332285404,
+            "giá": 0.5124675557017326,
+            "vòng cổ": 0.5,
+            "nhẫn": 0.5,
+            "giá cả": 0.8737691454589367,
+            "khách sạn": 0.5
+        },
+        "dicts_adj": {
+            "dây": [
+                "đẹp"
+            ],
+            "chuyền nhiệt đới": [
+                "đẹp"
+            ],
+            "vòng tay": [
+                "đẹp"
+            ],
+            "dịch vụ": [
+                "hợp lý",
+                "tuyệt vời"
+            ],
+            "chất lượng": [
+                "tuyệt vời"
+            ],
+            "cửa hàng": [],
+            "dây chuyền thánh": [
+                "trắng"
+            ],
+            "giá": [
+                "trắng"
+            ],
+            "vòng cổ": [],
+            "nhẫn": [],
+            "giá cả": [
+                "hợp lý",
+                "đúng"
+            ],
+            "khách sạn": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "dây": 1,
+            "chuyền nhiệt đới": 1,
+            "vòng tay": 1,
+            "dịch vụ": 2,
+            "chất lượng": 1,
+            "cửa hàng": 1,
+            "dây chuyền thánh": 1,
+            "giá": 1,
+            "vòng cổ": 1,
+            "nhẫn": 1,
+            "giá cả": 1,
+            "khách sạn": 1
+        }
     },
     {
         "attraction_name": "The Ruby Jewellery Hoi An",
@@ -384,7 +608,41 @@
             "https://www.tripadvisor.com/Attraction_Review-g32784-d144761-Reviews-Imperial_Sand_Dunes-Niland_California.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d25226713-Reviews-or30-The_Ruby_Jewellery_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25226713-Reviews-or20-The_Ruby_Jewellery_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25226713-Reviews-or20-The_Ruby_Jewellery_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "đồ": 0.9955912002478726,
+            "trang sức": 0.9955525608966127,
+            "cửa hàng": 0.5,
+            "trang sức bạc": 0.5,
+            "vàng": 0.5,
+            "kim cương": 0.9951537544839084
+        },
+        "dicts_adj": {
+            "đồ": [
+                "hài lòng"
+            ],
+            "trang sức": [
+                "hài lòng"
+            ],
+            "cửa hàng": [],
+            "trang sức bạc": [],
+            "vàng": [],
+            "kim cương": [
+                "Đặc biệt",
+                "trắng",
+                "hoàn hảo"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "đồ": 1,
+            "trang sức": 1,
+            "cửa hàng": 1,
+            "trang sức bạc": 1,
+            "vàng": 1,
+            "kim cương": 1
+        }
     },
     {
         "attraction_name": "The Ruby Jewellery Hoi An",
@@ -514,7 +772,38 @@
             "https://www.tripadvisor.com/Attraction_Review-g34335-d1650673-Reviews-Riverbend_Park-Jupiter_Florida.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d25226713-Reviews-or40-The_Ruby_Jewellery_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25226713-Reviews-or30-The_Ruby_Jewellery_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25226713-Reviews-or30-The_Ruby_Jewellery_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "vị trí": 0.9939042528858408,
+            "nhẫn": 0.5084857679903507,
+            "đôi bông": 0.5173722188919783,
+            "khách sạn": 0.9955372623517178
+        },
+        "dicts_adj": {
+            "vị trí": [
+                "cuối cùng",
+                "gần"
+            ],
+            "nhẫn": [
+                "trắng",
+                "trắng"
+            ],
+            "đôi bông": [
+                "trắng"
+            ],
+            "khách sạn": [
+                "đẹp",
+                "cao"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "vị trí": 1,
+            "nhẫn": 1,
+            "đôi bông": 1,
+            "khách sạn": 1
+        }
     },
     {
         "attraction_name": "The Ruby Jewellery Hoi An",
@@ -644,7 +933,43 @@
             "https://www.tripadvisor.com/Attraction_Review-g154911-d1533303-Reviews-Sunshine_Meadows-Banff_Banff_National_Park_Alberta.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d25226713-Reviews-or50-The_Ruby_Jewellery_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25226713-Reviews-or40-The_Ruby_Jewellery_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25226713-Reviews-or40-The_Ruby_Jewellery_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cửa hàng": 0.2751328516751528,
+            "trang sức": 0.9954862733138725,
+            "nhân viên": 0.9932412857888266,
+            "nhẫn có xà": 0.5061941370368004,
+            "vòng": 0.26155240647494793
+        },
+        "dicts_adj": {
+            "cửa hàng": [
+                "đẹp mắt",
+                "nhiều",
+                "bất kỳ"
+            ],
+            "trang sức": [
+                "đẹp mắt"
+            ],
+            "nhân viên": [
+                "thân thiện",
+                "chuyên nghiệp"
+            ],
+            "nhẫn có xà": [
+                "đen"
+            ],
+            "vòng": [
+                "đen"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cửa hàng": 1,
+            "trang sức": 1,
+            "nhân viên": 1,
+            "nhẫn có xà": 1,
+            "vòng": 1
+        }
     },
     {
         "attraction_name": "The Ruby Jewellery Hoi An",
@@ -774,7 +1099,31 @@
             "https://www.tripadvisor.com/Attraction_Review-g147312-d1997485-Reviews-Blue_Hole-Ocho_Rios_Saint_Ann_Parish_Jamaica.html"
         ],
         "url_next": "https://www.tripadvisor.com/Attraction_Review-g298082-d25226713-Reviews-or60-The_Ruby_Jewellery_Hoi_An-Hoi_An_Quang_Nam_Province.html",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25226713-Reviews-or50-The_Ruby_Jewellery_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25226713-Reviews-or50-The_Ruby_Jewellery_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "phố cổ": 0.8737691454589367,
+            "cửa hàng": 0.8188294324208982
+        },
+        "dicts_adj": {
+            "phố cổ": [
+                "xinh xắn",
+                "gần",
+                "cuối cùng",
+                "xinh xắn"
+            ],
+            "cửa hàng": [
+                "xinh xắn",
+                "gần",
+                "cuối cùng",
+                "xinh xắn"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "phố cổ": 1,
+            "cửa hàng": 1
+        }
     },
     {
         "attraction_name": "The Ruby Jewellery Hoi An",
@@ -904,6 +1253,51 @@
             "https://www.tripadvisor.com/Attraction_Review-g155019-d5924579-Reviews-Koreatown-Toronto_Ontario.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25226713-Reviews-or60-The_Ruby_Jewellery_Hoi_An-Hoi_An_Quang_Nam_Province.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298082-d25226713-Reviews-or60-The_Ruby_Jewellery_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "trải nghiệm": 0.9955907384282909,
+            "chủ": 0.9950677432061639,
+            "cửa hàng": 0.9930179416842293,
+            "sản phẩm": 0.9955818500020541,
+            "giá cả": 0.9529069985728711,
+            "trang sức": 0.8737691454589367
+        },
+        "dicts_adj": {
+            "trải nghiệm": [
+                "vui vẻ",
+                "tốt"
+            ],
+            "chủ": [
+                "thân thiện",
+                "hữu ích"
+            ],
+            "cửa hàng": [
+                "thân thiện",
+                "hữu ích",
+                "hoàn toàn",
+                "độc đáo",
+                "thú vị"
+            ],
+            "sản phẩm": [
+                "hợp lý"
+            ],
+            "giá cả": [
+                "hợp lý"
+            ],
+            "trang sức": [
+                "giống",
+                "bất kỳ"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "trải nghiệm": 1,
+            "chủ": 1,
+            "cửa hàng": 2,
+            "sản phẩm": 1,
+            "giá cả": 1,
+            "trang sức": 1
+        }
     }
 ]

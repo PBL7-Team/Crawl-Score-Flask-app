@@ -85,6 +85,73 @@
             "https://www.tripadvisor.com/Attraction_Review-g187310-d13651612-Reviews-Nuremberg_Central_Station-Nuremberg_Middle_Franconia_Franconia_Bavaria.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g21375824-d26729946-Reviews-Natalie_Beauty_Center_Co_S_2-Cau_Giay_Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g21375824-d26729946-Reviews-Natalie_Beauty_Center_Co_S_2-Cau_Giay_Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "cả dưỡng da": 0.9954682476236485,
+            "phòng gội": 0.9944644871284254,
+            "nhân viên": 0.9954648931045085,
+            "trải nghiệm": 0.24993675035657362,
+            "dầu": 0.8737691454589367,
+            "chăm sóc da mặt": 0.9739158665761352,
+            "bệnh viện": 0.5368558000773191,
+            "dịch vụ": 0.995594801090192,
+            "gội": 0.994748733472079,
+            "massage": 0.9907620240701362,
+            "spa": 0.8737691454589367,
+            "dịch vụ chăm sóc": 0.5
+        },
+        "dicts_adj": {
+            "cả dưỡng da": [
+                "tiện lợi"
+            ],
+            "phòng gội": [
+                "đẹp"
+            ],
+            "nhân viên": [
+                "thật sự",
+                "nhiệt tình",
+                "chu đáo",
+                "tốt bụng"
+            ],
+            "trải nghiệm": [
+                "tuyệt vời"
+            ],
+            "dầu": [
+                "kỹ lưỡng"
+            ],
+            "chăm sóc da mặt": [
+                "kỹ lưỡng"
+            ],
+            "bệnh viện": [
+                "chắc chắn"
+            ],
+            "dịch vụ": [
+                "tốt"
+            ],
+            "gội": [
+                "hoàn toàn"
+            ],
+            "massage": [],
+            "spa": [
+                "tốt"
+            ],
+            "dịch vụ chăm sóc": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "cả dưỡng da": 1.5,
+            "phòng gội": 1.5,
+            "nhân viên": 2.5,
+            "trải nghiệm": 2.5,
+            "dầu": 1.5,
+            "chăm sóc da mặt": 1.5,
+            "bệnh viện": 1.5,
+            "dịch vụ": 1,
+            "gội": 1,
+            "massage": 1,
+            "spa": 1,
+            "dịch vụ chăm sóc": 1
+        }
     }
 ]

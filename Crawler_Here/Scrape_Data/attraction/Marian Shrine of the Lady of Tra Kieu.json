@@ -67,6 +67,105 @@
             "https://www.tripadvisor.com/Attraction_Review-g1573286-d1468252-Reviews-Tenuta_Torciano-Ulignano_San_Gimignano_Tuscany.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d6439637-Reviews-Marian_Shrine_of_the_Lady_of_Tra_Kieu-Da_Nang.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298085-d6439637-Reviews-Marian_Shrine_of_the_Lady_of_Tra_Kieu-Da_Nang.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "nhà thờ": 0.814077982584422,
+            "di tích mỹ sơn": 0.975487899966538,
+            "hướng dẫn viên": 0.8737691454589367,
+            "chuyến leo núi": 0.9932405751897022,
+            "khách sạn": -0.9607581275049597,
+            "người dân": 0.5725020915269852,
+            "niềm tin công giáo": 0.9945768666220829,
+            "vùng đất": 0.972470662323758,
+            "tâm trí": 0.5,
+            "tâm hồn": 0.5,
+            "cảnh đẹp": 0.9918076767353341,
+            "mỹ sơn": -0.9520933679305017,
+            "ngôi đền": 0.5,
+            "hành hương công giáo": 0.5,
+            "cái giếng": -0.3743897184031084,
+            "trải nghiệm": 0.9939577887998894,
+            "tra": 0.7500862659653649,
+            "buu chau": 0.5,
+            "unesco": 0.5,
+            "cham": 0.9529028702527285
+        },
+        "dicts_adj": {
+            "nhà thờ": [
+                "linh thiêng",
+                "khắp",
+                "nhỏ",
+                "nhiều",
+                "lạ",
+                "thú vị",
+                "đẹp"
+            ],
+            "di tích mỹ sơn": [],
+            "hướng dẫn viên": [
+                "lạ"
+            ],
+            "chuyến leo núi": [
+                "vất vả"
+            ],
+            "khách sạn": [
+                "xa"
+            ],
+            "người dân": [],
+            "niềm tin công giáo": [
+                "mạnh mẽ"
+            ],
+            "vùng đất": [
+                "may mắn",
+                "quan trọng"
+            ],
+            "tâm trí": [],
+            "tâm hồn": [],
+            "cảnh đẹp": [],
+            "mỹ sơn": [],
+            "ngôi đền": [],
+            "hành hương công giáo": [],
+            "cái giếng": [
+                "thiếc",
+                "rách nát"
+            ],
+            "trải nghiệm": [
+                "nhiều",
+                "hoàn toàn",
+                "hoàn toàn",
+                "đông đúc",
+                "tuyệt vời"
+            ],
+            "tra": [
+                "to",
+                "to"
+            ],
+            "buu chau": [],
+            "unesco": [],
+            "cham": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "nhà thờ": 2.0,
+            "di tích mỹ sơn": 0.5,
+            "hướng dẫn viên": 0.5,
+            "chuyến leo núi": 0.5,
+            "khách sạn": 0.5,
+            "người dân": 0.5,
+            "niềm tin công giáo": 0.5,
+            "vùng đất": 0.5,
+            "tâm trí": 0.5,
+            "tâm hồn": 0.5,
+            "cảnh đẹp": 0.5,
+            "mỹ sơn": 0.5,
+            "ngôi đền": 0.5,
+            "hành hương công giáo": 0.5,
+            "cái giếng": 0.5,
+            "trải nghiệm": 0.5,
+            "tra": 0.5,
+            "buu chau": 0.5,
+            "unesco": 0.5,
+            "cham": 0.5
+        }
     }
 ]

@@ -88,6 +88,29 @@
             "https://www.tripadvisor.com/Attraction_Review-g274725-d287919-Reviews-Old_Town-Gdansk_Pomerania_Province_Northern_Poland.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d27415843-Reviews-Dong_Xuan_Food_Alley-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d27415843-Reviews-Dong_Xuan_Food_Alley-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "ẩm thực đồng xuân": 0.8737691454589367,
+            "món ăn": 0.995578886300791,
+            "giá cả": 0.5
+        },
+        "dicts_adj": {
+            "ẩm thực đồng xuân": [
+                "nhiều",
+                "nhiều",
+                "ngon"
+            ],
+            "món ăn": [
+                "ngon"
+            ],
+            "giá cả": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "ẩm thực đồng xuân": 1.5,
+            "món ăn": 1.5,
+            "giá cả": 1.5
+        }
     }
 ]

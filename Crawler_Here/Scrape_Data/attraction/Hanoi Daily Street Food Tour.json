@@ -59,6 +59,33 @@
             "https://www.tripadvisor.com/Attraction_Review-g298033-d3832865-Reviews-Marmaris_Bar_Street-Marmaris_Marmaris_District_Mugla_Province_Turkish_Aegean_Coas.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d17777622-Reviews-Hanoi_Daily_Street_Food_Tour-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d17777622-Reviews-Hanoi_Daily_Street_Food_Tour-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "vụ nổ": 0.13508060202002525,
+            "món ăn": 0.8737691454589367,
+            "chuyến tham quan": 0.5,
+            "ẩm thực": 0.5,
+            "người giỏi": 0.6611561672762036
+        },
+        "dicts_adj": {
+            "vụ nổ": [],
+            "món ăn": [
+                "tuyệt vời"
+            ],
+            "chuyến tham quan": [],
+            "ẩm thực": [],
+            "người giỏi": [
+                "nhất"
+            ]
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "vụ nổ": 0.5,
+            "món ăn": 0.5,
+            "chuyến tham quan": 0.5,
+            "ẩm thực": 0.5,
+            "người giỏi": 0.5
+        }
     }
 ]

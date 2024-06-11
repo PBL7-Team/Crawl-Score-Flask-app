@@ -100,6 +100,180 @@
             "https://www.tripadvisor.com/Attraction_Review-g47629-d3194313-Reviews-LongHouse_Reserve-East_Hampton_Long_Island_New_York.html"
         ],
         "url_next": "",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12500645-Reviews-Vinmart-Hanoi.html"
+        "url": "https://www.tripadvisor.com/Attraction_Review-g293924-d12500645-Reviews-Vinmart-Hanoi.html",
+        "caculated": true,
+        "dicts_sentiment_average": {
+            "sản phẩm": 0.8737691454589367,
+            "mặt hàng": -0.08238958471338265,
+            "sản phẩm đó": 0.5,
+            "giá": 0.5,
+            "khu chợ": 0.8193510021083057,
+            "khách sạn": 0.6126519832760096,
+            "sản phẩm tươi sống": 0.5,
+            "mì": 0.5,
+            "bánh quy địa phương": 0.5,
+            "sản phẩm địa phương": 0.8737691454589367,
+            "giá cả": 0.5482916887849569,
+            "mì ăn liền": -0.23554490838432685,
+            "quà lưu": 0.9943725541234016,
+            "túi": 0.5286657949909568,
+            "nhân viên": 0.6245897151529789,
+            "ba lô": 0.5,
+            "siêu": 0.5,
+            "cửa hàng": 0.5,
+            "quãng đi bộ": 0.5,
+            "nước": 0.5,
+            "trái cây": 0.5,
+            "siêu thị": 0.9891646975884214,
+            "rượu táo": 0.5,
+            "đồng nước": 0.5,
+            "đồ ăn nhẹ": 0.5,
+            "vật dụng vệ sinh": 0.5,
+            "chai": 0.5,
+            "chuỗi siêu thị": 0.8737691454589367,
+            "dịch vụ": 0.9955004525836557,
+            "rau cho": 0.9892655475996435,
+            "salad": 0.9268419574946165,
+            "trái cây trứng": 0.6384304286912084,
+            "bánh mì bơ": 0.8632320440374315,
+            "bữa sáng": 0.7881361618638039,
+            "bữa ăn": 0.952221064362675,
+            "bia": 0.5,
+            "rượu": 0.5,
+            "nước hoa": 0.9888130547478795,
+            "cửa hàng bách hóa": 0.5
+        },
+        "dicts_adj": {
+            "sản phẩm": [
+                "đa dạng",
+                "nhiều",
+                "nhiều"
+            ],
+            "mặt hàng": [
+                "cận",
+                "thực sự",
+                "rẻ",
+                "hơn"
+            ],
+            "sản phẩm đó": [],
+            "giá": [],
+            "khu chợ": [
+                "đàng hoàng",
+                "gần"
+            ],
+            "khách sạn": [
+                "vui",
+                "gần"
+            ],
+            "sản phẩm tươi sống": [],
+            "mì": [],
+            "bánh quy địa phương": [],
+            "sản phẩm địa phương": [
+                "nhiều"
+            ],
+            "giá cả": [
+                "nhiều"
+            ],
+            "mì ăn liền": [
+                "khác"
+            ],
+            "quà lưu": [
+                "tốt"
+            ],
+            "túi": [
+                "nhỏ",
+                "hơn"
+            ],
+            "nhân viên": [
+                "hữu ích"
+            ],
+            "ba lô": [],
+            "siêu": [],
+            "cửa hàng": [],
+            "quãng đi bộ": [],
+            "nước": [],
+            "trái cây": [],
+            "siêu thị": [
+                "gần",
+                "suốt"
+            ],
+            "rượu táo": [],
+            "đồng nước": [],
+            "đồ ăn nhẹ": [],
+            "vật dụng vệ sinh": [],
+            "chai": [],
+            "chuỗi siêu thị": [
+                "đặc biệt"
+            ],
+            "dịch vụ": [
+                "đặc biệt"
+            ],
+            "rau cho": [
+                "nhanh"
+            ],
+            "salad": [
+                "nhanh"
+            ],
+            "trái cây trứng": [
+                "nhanh"
+            ],
+            "bánh mì bơ": [
+                "nhanh"
+            ],
+            "bữa sáng": [
+                "nhanh"
+            ],
+            "bữa ăn": [
+                "nhanh"
+            ],
+            "bia": [],
+            "rượu": [],
+            "nước hoa": [
+                "cao cấp"
+            ],
+            "cửa hàng bách hóa": []
+        },
+        "list_proper_noun": [],
+        "factor value": {
+            "sản phẩm": 2.0,
+            "mặt hàng": 2.0,
+            "sản phẩm đó": 1.5,
+            "giá": 2.0,
+            "khu chợ": 1,
+            "khách sạn": 2.0,
+            "sản phẩm tươi sống": 1,
+            "mì": 1,
+            "bánh quy địa phương": 1,
+            "sản phẩm địa phương": 0.5,
+            "giá cả": 0.5,
+            "mì ăn liền": 1.0,
+            "quà lưu": 0.5,
+            "túi": 0.5,
+            "nhân viên": 1.5,
+            "ba lô": 0.5,
+            "siêu": 0.5,
+            "cửa hàng": 0.5,
+            "quãng đi bộ": 0.5,
+            "nước": 0.5,
+            "trái cây": 0.5,
+            "siêu thị": 0.5,
+            "rượu táo": 0.5,
+            "đồng nước": 0.5,
+            "đồ ăn nhẹ": 0.5,
+            "vật dụng vệ sinh": 0.5,
+            "chai": 0.5,
+            "chuỗi siêu thị": 0.5,
+            "dịch vụ": 0.5,
+            "rau cho": 0.5,
+            "salad": 0.5,
+            "trái cây trứng": 0.5,
+            "bánh mì bơ": 0.5,
+            "bữa sáng": 0.5,
+            "bữa ăn": 0.5,
+            "bia": 0.5,
+            "rượu": 0.5,
+            "nước hoa": 0.5,
+            "cửa hàng bách hóa": 0.5
+        }
     }
 ]
