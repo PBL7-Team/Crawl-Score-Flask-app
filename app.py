@@ -284,4 +284,4 @@ def test():
 if __name__ == '__main__':
     # scheduler.init_app(app)
     # scheduler.start()
-    app.run(host='localhost', port=8080)
+    app.run(host="0.0.0.0", port=8080)
