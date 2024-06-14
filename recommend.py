@@ -177,13 +177,17 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
 
     # Tạo temp_df chỉ chứa các cột đặc trưng
     list_proper_noun_feature = [feature for feature in list_proper_noun_feature if feature != 'Việt Nam']
-    temp_df = CONTENT_BASED_DF[list_proper_noun_feature]
+    if len(list_proper_noun_feature) > 0 :
+        temp_df = CONTENT_BASED_DF[list_proper_noun_feature]
 
-    # Tạo cột 'cluster_location' với giá trị max của từng hàng, nhưng nếu giá trị max <= 0.5 thì cho bằng 0
-    CONTENT_BASED_DF['cluster_location'] = temp_df.max(axis=1).apply(lambda x: x if x > 0.5 else -1)
+        # Tạo cột 'cluster_location' với giá trị max của từng hàng, nhưng nếu giá trị max <= 0.5 thì cho bằng 0
+        CONTENT_BASED_DF['cluster_location'] = temp_df.max(axis=1).apply(lambda x: x if x > 0.5 else -1)
 
-    comment_cluster_list += ['cluster_location', 'Việt Nam']
-    print(comment_cluster_list)
+        comment_cluster_list += ['cluster_location', 'Việt Nam']
+        print(comment_cluster_list)
+    else:
+        comment_cluster_list += ['Việt Nam']
+        print(comment_cluster_list)
     filtered_df = CONTENT_BASED_DF[comment_cluster_list]
 
     len_n = len(filtered_df.columns)
