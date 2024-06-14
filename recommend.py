@@ -11,7 +11,15 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.metrics.pairwise import euclidean_distances
 import numpy as np
 
+# Chỉnh sửa tên cột
+def clean_column_name(col_name):
+    col_name = col_name.replace('Tỉnh', '').replace('Thành phố', '').strip()
+    return col_name
+
+
 CONTENT_BASED_DF = pd.read_csv('./content_base_score_df.csv', index_col=0)
+# Áp dụng hàm clean_column_name cho tất cả các tên cột
+CONTENT_BASED_DF.columns = [clean_column_name(col) for col in CONTENT_BASED_DF.columns]
 
 def get_new_contentbase_df():
     sentiment_df = pd.read_csv('./sentiment_value.csv')
@@ -64,8 +72,14 @@ def get_new_contentbase_df():
     result_df.to_csv('content_base_score_df.csv', index=True, mode='w')
     global CONTENT_BASED_DF
     CONTENT_BASED_DF = pd.read_csv('./content_base_score_df.csv', index_col=0)
+    CONTENT_BASED_DF.columns = [clean_column_name(col) for col in CONTENT_BASED_DF.columns]
+
     return result_df
 
+# Danh sách các tỉnh/thành phố miền Bắc, miền Trung, và miền Nam
+mien_bac = ['Hà Nội', 'Hải Phòng', 'Quảng Ninh', 'Lào Cai', 'Bắc Giang', 'Bắc Kạn', 'Bắc Ninh', 'Cao Bằng', 'Điện Biên', 'Hà Giang', 'Hà Nam', 'Hải Dương', 'Hòa Bình', 'Hưng Yên', 'Lai Châu', 'Lạng Sơn', 'Nam Định', 'Ninh Bình', 'Phú Thọ', 'Sơn La', 'Thái Bình', 'Thái Nguyên', 'Tuyên Quang', 'Vĩnh Phúc', 'Yên Bái']
+mien_trung = ['Đà Nẵng', 'Thừa Thiên-Huế', 'Quảng Bình', 'Quảng Trị', 'Quảng Nam', 'Quảng Ngãi', 'Bình Định', 'Phú Yên', 'Khánh Hòa', 'Ninh Thuận', 'Bình Thuận', 'Kon Tum', 'Gia Lai', 'Đắk Lắk', 'Đắk Nông', 'Lâm Đồng']
+mien_nam = ['Ho Chi Minh City', 'Bình Dương', 'Bình Phước', 'Tây Ninh', 'Tỉnh Bà Rịa-Vũng Tàu', 'Đồng Nai', 'Long An', 'Tiền Giang', 'Bến Tre', 'Vĩnh Long', 'Trà Vinh', 'Hậu Giang', 'An Giang', 'Cần Thơ', 'Sóc Trăng', 'Bạc Liêu', 'Cà Mau', 'Kiên Giang', 'Đồng Tháp']
 
 def recommend_system(text):
     # print("Hi")
@@ -75,11 +89,19 @@ def recommend_system(text):
     # list_entity = list(dicts_sentiment.keys())
     list_entity = TextEntities_recommend(text)
     # print(list_entity)
+    global mien_bac, mien_nam, mien_trung
     list_proper_noun_feature = [word['wordForm'] for word in annotate_text(text) if word['nerLabel'] in ['B-LOC', 'B-PER']]
     if "Hồ Chí Minh" in list_proper_noun_feature:
         list_proper_noun_feature.append("Ho Chi Minh City")
-        if "Hồ Chí Minh" in list_proper_noun_feature:
-            list_proper_noun_feature.remove("Hồ Chí Minh")
+        list_proper_noun_feature.remove("Hồ Chí Minh")
+    
+    # Kiểm tra và thêm các tỉnh/thành phố vào danh sách list_proper_noun_feature
+    if 'miền Bắc' in text:
+        list_proper_noun_feature.extend(mien_bac)
+    if 'miền Trung' in text:
+        list_proper_noun_feature.extend(mien_trung)
+    if 'miền Nam' in text:
+        list_proper_noun_feature.extend(mien_nam)
 
     # print(list_proper_noun_feature)
     # new_contentbase_df = get_new_contentbase_df()
@@ -142,7 +164,8 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
     update_json(storage_key_list)
 
     # print(comment_cluster_list)
-    comment_cluster_list += list_proper_noun_feature
+    # comment_cluster_list += list_proper_noun_feature
+
     # print(comment_cluster_list)
 
     # Thêm các cột mới vào DataFrame nếu chưa tồn tại
@@ -150,7 +173,19 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
         if proper_noun not in CONTENT_BASED_DF.columns:
             CONTENT_BASED_DF[proper_noun] = 0
     
+    # filtered_df = CONTENT_BASED_DF[comment_cluster_list]
+
+    # Tạo temp_df chỉ chứa các cột đặc trưng
+    list_proper_noun_feature = [feature for feature in list_proper_noun_feature if feature != 'Việt Nam']
+    temp_df = CONTENT_BASED_DF[list_proper_noun_feature]
+
+    # Tạo cột 'cluster_location' với giá trị max của từng hàng, nhưng nếu giá trị max <= 0.5 thì cho bằng 0
+    CONTENT_BASED_DF['cluster_location'] = temp_df.max(axis=1).apply(lambda x: x if x > 0.5 else 0)
+
+    comment_cluster_list += ['cluster_location', 'Việt Nam']
+    print(comment_cluster_list)
     filtered_df = CONTENT_BASED_DF[comment_cluster_list]
+
     len_n = len(filtered_df.columns)
     vector = [1] * len_n
     # print(vector)
@@ -171,9 +206,9 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
 
     # Sắp xếp ma trận user_similarity_df theo thứ tự giảm dần của các giá trị tương tự
     sorted_user_similarity_df = user_similarity_df.apply(lambda row: row.sort_values(ascending=False), axis=1)
-    # print(sorted_user_similarity_df)
+    print(sorted_user_similarity_df)
 
-    threshold = 1 - math.sqrt(len_n * 0.3 ** 2)/len_n
+    threshold = 0.4
     # print(threshold)
     sorted_user_similarity_df = sorted_user_similarity_df.T
     list_valid_attraction = sorted_user_similarity_df[sorted_user_similarity_df[0] >= threshold].sort_values(by=0, ascending=False).index.tolist()
