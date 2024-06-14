@@ -62,6 +62,8 @@ def get_new_contentbase_df():
             else:
                 result_df.at[location, cluster] = 0.5 + (0.5 * (scores[cluster] / cluster_weight))
     result_df.to_csv('content_base_score_df.csv', index=True, mode='w')
+    global CONTENT_BASED_DF
+    CONTENT_BASED_DF = pd.read_csv('./content_base_score_df.csv', index_col=0)
     return result_df
 
 
