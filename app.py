@@ -398,7 +398,7 @@ def get_crawl_calc_info():
                 
     return jsonify(results)
 
-@scheduler.task('cron', id='my_job', hour=7, minute=0)
+@scheduler.task('cron', id='my_job', day_of_week='mon', hour=0, minute=0)
 def crawl_new_data_job():
     global crawl_thread
     global crawl_starttime
@@ -411,7 +411,7 @@ def crawl_new_data_job():
     else:
         print("Crawler is already running.")
 
-@scheduler.task('cron', id='my_job_2', hour=19, minute=0)
+@scheduler.task('cron', id='my_job_2', day_of_week='mon', hour=0, minute=0)
 def update_old_data_job():
     global crawl_thread_mode_2
 
@@ -421,6 +421,7 @@ def update_old_data_job():
         print("Crawler started.")
     else:
         print("Crawler is already running.")
+
 
 
 # @app.route('/test-scheduler', methods=['GET'])
