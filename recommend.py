@@ -180,7 +180,7 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
     temp_df = CONTENT_BASED_DF[list_proper_noun_feature]
 
     # Tạo cột 'cluster_location' với giá trị max của từng hàng, nhưng nếu giá trị max <= 0.5 thì cho bằng 0
-    CONTENT_BASED_DF['cluster_location'] = temp_df.max(axis=1).apply(lambda x: x if x > 0.5 else 0)
+    CONTENT_BASED_DF['cluster_location'] = temp_df.max(axis=1).apply(lambda x: x if x > 0.5 else -1)
 
     comment_cluster_list += ['cluster_location', 'Việt Nam']
     print(comment_cluster_list)
