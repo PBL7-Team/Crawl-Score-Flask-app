@@ -4,8 +4,6 @@ env/
 # Loại bỏ các tệp tạm thời của Python
 *.pyc
 __pycache__/
-# Loại bỏ tệp môi trường
-.env
 # Loại bỏ thư mục model
 Model_Here/BERT_Sentiment/
 Model_Here/KeyPhraseModel
