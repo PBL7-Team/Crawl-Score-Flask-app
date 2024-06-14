@@ -88,7 +88,7 @@ def recommend_system(text):
     # dicts_sentiment, _, _, _ = TextEntities_Score(text,True)
     # list_entity = list(dicts_sentiment.keys())
     list_entity = TextEntities_recommend(text)
-    # print(list_entity)
+    print(list_entity)
     global mien_bac, mien_nam, mien_trung
     list_proper_noun_feature = [word['wordForm'] for word in annotate_text(text) if word['nerLabel'] in ['B-LOC', 'B-PER']]
     if "Hồ Chí Minh" in list_proper_noun_feature:
