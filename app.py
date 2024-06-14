@@ -17,6 +17,7 @@ from flask import Flask, request
 # from flask_apscheduler import APScheduler
 
 app = Flask(__name__)
+
 # scheduler = APScheduler()
 
 load_dotenv()
@@ -247,15 +248,60 @@ def recommend():
         "message": msg,
     }), 200
     
+from rapidfuzz import process, fuzz
+
+import os
+import json
+
+def get_attraction_info(directory_path):
+    print(directory_path)
+    attractions_dict = {}
+    for filename in os.listdir(directory_path):
+        if filename.endswith('.json'):
+            file_path = os.path.join(directory_path, filename)
+            with open(file_path, 'r', encoding='utf-8') as file:
+                data = json.load(file)
+                for attraction in data:
+                    attraction_name = attraction["attraction_name"]
+                    if attraction_name not in attractions_dict:
+                        attractions_dict[attraction_name] = {
+                            "attraction_name_en": attraction["attraction_name"],
+                            "attraction_name_vi": attraction["attraction_name_vi"],
+                            "attraction_summary": attraction["attraction_summary"]
+                        }
+    return attractions_dict
+
+def find_best_match(query, threshold=70):
+    current_directory = os.getcwd()
+    attractions_dict = get_attraction_info(os.path.join(current_directory, 'Crawler_Here', 'Scrape_Data', 'attraction'))
+    best_match = None
+    best_score = 0
+    best_key = None
+
+    for key, value in attractions_dict.items():
+        for name in (value['attraction_name_en'], value['attraction_name_vi']):
+            score = fuzz.ratio(query, name)
+            if score > best_score:
+                best_score = score
+                best_match = attractions_dict[value['attraction_name_en']]
+                best_key = key
+
+    if best_match and best_score >= threshold:
+        matched_attraction = attractions_dict[best_key]
+        return matched_attraction
+    else:
+        return None
+
     
 @app.route('/search', methods = ['GET'])
 @require_api_key
 def search_attraction():
-    msg = query_attraction(request.args.get('query'))
+    msg = find_best_match(request.args.get('query'))
     return jsonify({
-        "ok": msg,
-    }), 200
-    
+        "message": msg,
+    }), 200    
+
+  
 @app.route('/test-api', methods=['GET'])
 def test():
     return jsonify({

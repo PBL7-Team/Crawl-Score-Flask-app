@@ -5,7 +5,7 @@ import json
 
 def get_attraction_info(directory_path):
     absolute_path = os.path.abspath(directory_path)
-    print('vao')
+    print(absolute_path)
     if not os.path.isdir(absolute_path):
         print("Đường dẫn không tồn tại.")
         return {}
@@ -13,8 +13,8 @@ def get_attraction_info(directory_path):
     attractions_dict = {}
     for filename in os.listdir(absolute_path):
         if filename.endswith('.json'):
-            file_path = os.path.join(directory_path, filename)
-            print(file_path)
+            
+file_path = os.path.join(directory_path, filename)
             with open(file_path, 'r', encoding='utf-8') as file:
                 data = json.load(file)
                 for attraction in data:
@@ -28,10 +28,9 @@ def get_attraction_info(directory_path):
     return attractions_dict
 
 def find_best_match(query, threshold=50):
-    print('vao ham roi')
     directory_path = 'Crawler_Here/Scrape_data/attraction'
     attractions_dict = get_attraction_info(directory_path)
-    print('vao2')
+    print(attractions_dict)
     best_match = None
     best_score = 0
     best_key = None
@@ -51,4 +50,5 @@ def find_best_match(query, threshold=50):
         return None
 
 def query_attraction(query):
+    return "Day la dau"
     return find_best_match(query)
