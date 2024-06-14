@@ -11,8 +11,8 @@ from Crawler_Here.reading_info_restaurant import read_html_restaurant
 import time
 import random
 
-SERVICE_ACC  = 'vinhndst1_ODHac'
-SERVICE_PASS = '9r9ym8bRuqCN3d'
+SERVICE_ACC  = 'Bach2k2_1Ygdh'
+SERVICE_PASS = 'Bach20021234'
 
 # Global flag for stopping the crawl
 stop_flag = threading.Event()
