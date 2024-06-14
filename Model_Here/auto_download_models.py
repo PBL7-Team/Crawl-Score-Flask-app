@@ -11,7 +11,7 @@ def download_model_if_not_exists(repo_id, local_dir):
 
 
 def dowwload_model():
-    download_model_if_not_exists('mr4/phobert-base-vi-sentiment-analysis', './Model_Here/BERT_Sentiment/phobert-base-vi-sentiment-analysis')
+    download_model_if_not_exists('mr4/phobert-base-vi-sentiment-analysis', './Model_Here/BERT_Sentiment/bert-base-sentiment-analysis')
     download_model_if_not_exists('tekraj/avodamed-synonym-generator1', './Model_Here/SynonymsModel/avodamed-synonym-generator1')
     download_model_if_not_exists('trituenhantaoio/bert-base-vietnamese-uncased', './Model_Here/KeyPhraseModel/bert-base-vietnamese-uncased')
     download_model_if_not_exists('vinhnado/bert-bilstm-crf-keyphrase', './Model_Here/KeyPhraseModel/bert-bilstm-crf-keyphrase')
