@@ -85,7 +85,6 @@ def recommend_system(text):
     # new_contentbase_df = get_new_contentbase_df()
     # print(dicts_sentiment)
     # print(list_proper_noun_feature)
-    # print(list_entity)
     # conduct_content_base(dicts_sentiment, list_proper_noun_feature)
     
     # return conduct_content_base(dicts_sentiment, list_proper_noun_feature)
@@ -178,8 +177,8 @@ def conduct_content_base(dicts_sentiment, list_proper_noun_feature):
     # print(threshold)
     sorted_user_similarity_df = sorted_user_similarity_df.T
     list_valid_attraction = sorted_user_similarity_df[sorted_user_similarity_df[0] >= threshold].sort_values(by=0, ascending=False).index.tolist()
-
-    return list_valid_attraction
+    
+    return list_valid_attraction,dicts_sentiment
 
 def update_json(key_list, json_path='comment_storage.json'):
     # Kiểm tra nếu tệp JSON đã tồn tại
