@@ -15,11 +15,11 @@ from service_model import sentiment_analysis_all, fully_updated_sentiment_csv, e
 from dotenv import load_dotenv
 from functools import wraps
 from flask import Flask, request
-# from flask_apscheduler import APScheduler
+from flask_apscheduler import APScheduler
 
 app = Flask(__name__)
 
-# scheduler = APScheduler()
+scheduler = APScheduler()
 
 load_dotenv()
 
@@ -398,10 +398,30 @@ def get_crawl_calc_info():
                 
     return jsonify(results)
 
-# @scheduler.task('interval', id='my_job', seconds=10)
-# def my_job():
-#     global test_variable
-#     test_variable = test_variable + 1
+@scheduler.task('cron', id='my_job', hour=7, minute=0)
+def crawl_new_data_job():
+    global crawl_thread
+    global crawl_starttime
+
+    if crawl_thread is None or not crawl_thread.is_alive():
+        crawl_thread = threading.Thread(target=start_crawl_thread)
+        crawl_starttime = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        crawl_thread.start()
+        print("Crawler started.")
+    else:
+        print("Crawler is already running.")
+
+@scheduler.task('cron', id='my_job_2', hour=19, minute=0)
+def update_old_data_job():
+    global crawl_thread_mode_2
+
+    if crawl_thread_mode_2 is None or not crawl_thread_mode_2.is_alive():
+        crawl_thread_mode_2 = threading.Thread(target=start_crawl_mode_2_thread)
+        crawl_thread_mode_2.start()
+        print("Crawler started.")
+    else:
+        print("Crawler is already running.")
+
 
 # @app.route('/test-scheduler', methods=['GET'])
 # def test_scheduler():
@@ -419,6 +439,6 @@ def get_crawl_calc_info():
 
 # bước 1.2: Crawl data bằng mode 2 (để cập nhật dữ liệu review từ địa điểm cũ)
 if __name__ == '__main__':
-    # scheduler.init_app(app)
-    # scheduler.start()
+    scheduler.init_app(app)
+    scheduler.start()
     app.run(host="0.0.0.0", port=8080)
