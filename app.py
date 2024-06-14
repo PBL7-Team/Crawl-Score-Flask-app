@@ -316,12 +316,12 @@ def cleanup_files():
     current_directory = os.getcwd()
     J_FOLDER = os.path.join(current_directory, 'Crawler_Here', 'Scrape_Data', 'attraction')
     deleted_files_count = 0
-
+    delete_path = []
     for filename in os.listdir(J_FOLDER):
         file_path = os.path.join(J_FOLDER, filename)
 
         if "Undefined" in filename:
-            os.remove(file_path)
+            delete_path.append(file_path)
             deleted_files_count += 1
             continue
         
@@ -334,10 +334,26 @@ def cleanup_files():
                     
                     if not any("Việt Nam" in loc for loc in location):
                         print(f'Xóa file {file_path} vì không chứa "Việt Nam" trong location.')
-                        os.remove(file_path)
+                        delete_path.append(file_path)
                         deleted_files_count += 1
                         break 
+                                
+                    name = attraction.get('attraction_name', '')
+                    keywords = ['tour', 'tours', 'travel', 'trip', 'motobike', 'bike', 'express']
 
+                    if any(keyword in name.lower() for keyword in keywords):
+                        delete_path.append(file_path)
+                        deleted_files_count += 1
+                        break 
+                    
+    for path in delete_path:
+        try:
+            os.remove(path)
+            print(f'Đã xóa file: {path}')
+        except OSError as e:
+            print(f'Lỗi khi xóa file {path}: {e}')
+
+                    
     return jsonify({"deleted_files_count": deleted_files_count})
     
 @app.route('/get-crawl-calc-info', methods=['GET'])
